@@ -1054,7 +1054,7 @@ Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento. Cacci
 **abilita:** Furtività +10, Percezione +8  
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** veleno  
-**immunita_condizione:** afferrato, avvelenato, indebolimento,  
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto 
 **sensi:** Percezione passiva 18; scurovisione 18 m  
 **lingue:** Comune, Primordiale (Auran)  
 **grado_sfida:** 6  
