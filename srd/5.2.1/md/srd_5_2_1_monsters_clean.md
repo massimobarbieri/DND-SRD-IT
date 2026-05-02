@@ -282,7 +282,8 @@ L'orda può occupare lo spazio di un'altra creatura e viceversa, e può muoversi
 
 ## Assassino
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -307,7 +308,7 @@ L'orda può occupare lo spazio di un'altra creatura e viceversa, e può muoversi
 - carisma: +0
 
 **abilita:** Acrobazia +7, Furtività +10, Percezione +6  
-**attrezzatura:** armatura di cuoio borchiato, balestra  
+**attrezzatura:** armatura di cuoio borchiato, balestra leggera, spada corta
 **resistenze:** veleno  
 **sensi:** Percezione passiva 16  
 **lingue:** Comune, Gergo ladresco  
@@ -335,14 +336,15 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 7 (1d6 + 4) danni perfo
 ### Azioni bonus
 
 **Azione scaltra**  
-L'assassino effettua l'azione di Disimpegno, Nascondersi o Scatto. 296 System Reference Document 5.2.1 Azer
+L'assassino effettua l'azione di Disimpegno, Nascondersi o Scatto.
 
 ---
 
 ## Azer sentinella
 
-**gruppo:** Azer  
-**tipo:** Elementale  
+**gruppo:** Azer
+**tipo:** Elementale
+**dimensione:** Medio
 **allineamento:** legale neutrale  
 
 **classe_armatura:** 17  
@@ -386,19 +388,20 @@ L'azer emana luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri
 ### Azioni
 
 **Martello ardente**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni contundenti più 3 (1d6) danni da fuoco. Balor
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni contundenti più 3 (1d6) danni da fuoco.
 
 ---
 
 ## Balor
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Enorme
 **allineamento:** caotico malvagio  
 
-**classe_armatura:** 19  
-**iniziativa:** +14 (24)  
-**punti_ferita:** 287 (23d12 + 138)  
-**velocita:** 12 m, volo 24 m  
+**classe_armatura:** 19 
+**iniziativa:** +14 (24)
+**punti_ferita:** 287 (23d12 + 138)
+**velocita:** 12 m, volo 24 m
 
 **caratteristiche:**
 - forza: 26 (+8)
@@ -455,14 +458,15 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 21 (3d8 + 8) danni da fo
 ### Azioni bonus
 
 **Teletrasporto**  
-Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé) fino a 18 metri in uno spazio libero che il balor è in grado di vedere. Banditi
+Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé) fino a 18 metri in uno spazio libero che il balor è in grado di vedere.
 
 ---
 
 ## Bandito
 
 **gruppo:** Banditi  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -486,7 +490,7 @@ Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé)
 - saggezza: +0
 - carisma: +0
 
-**attrezzatura:** armatura di cuoio, balestra leggera,  
+**attrezzatura:** armatura di cuoio, balestra leggera, scimitarra
 **sensi:** Percezione passiva 10  
 **lingue:** Comune, Gergo ladresco  
 **grado_sfida:** 1/8  
@@ -496,18 +500,19 @@ Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé)
 
 ### Azioni
 
-**Balestra leggera**  
+**Balestra leggera**
 Tiro per colpire a distanza: +3, gittata 24/96 m. Colpito: 5 (1d8 + 1) danni perforanti.
 
-**Scimitarra**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni taglienti. 297 System Reference Document 5.2.1
+**Scimitarra**
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni taglienti.
 
 ---
 
 ## Capo dei banditi
 
-**gruppo:** Banditi  
-**tipo:** Umanoide  
+**gruppo:** Banditi
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 15  
@@ -532,7 +537,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni tagli
 - carisma: +2
 
 **abilita:** Atletica +4, Inganno +4  
-**attrezzatura:** armatura di cuoio borchiato, pistola,  
+**attrezzatura:** armatura di cuoio borchiato, pistola, scimitarra
 **sensi:** Percezione passiva 10  
 **lingue:** Comune, Gergo ladresco  
 **grado_sfida:** 2  
@@ -554,13 +559,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni tagli
 ### Reazioni
 
 **Parata**  
-Attivazione: il bandito viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il bandito aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Basilisco
+Attivazione: il bandito viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il bandito aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Basilisco
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -599,13 +605,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perfo
 ### Azioni bonus
 
 **Sguardo pietrificante (ricarica 4-6)**  
-Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 9 metri. Se il basilisco vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto. Beccoaguzzo
+Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 9 metri. Se il basilisco vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto.
 
 ---
 
 ## Beccoaguzzo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -639,22 +646,20 @@ Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 9 metri. S
 ### Azioni
 
 **Becco**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 6 (1d8 + 2) danni taglienti**  
-Behir
+Tiro per colpire in mischia: +4, portata 1,5 m *Colpito:* 6 (1d8 + 2) danni taglienti
 
 ---
 
 ## Behir
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Enorme
 **allineamento:** neutrale malvagio  
 
-**classe_armatura:** 17  
-**iniziativa:** +3 (13)  
-**punti_ferita:** 168 (16d12 + 64)  
-**velocita:** 15 m, scalata 15 m  
+**classe_armatura:** 17
+**iniziativa:** +3 (13)
+**punti_ferita:** 168 (16d12 + 64)
+**velocita:** 15 m, scalata 15 m
 
 **caratteristiche:**
 - forza: 23 (+6)
@@ -672,11 +677,11 @@ Behir
 - saggezza: +2
 - carisma: +1
 
-**abilita:** Furtività +7, Percezione +6  
-**immunita_danni:** fulmine  
-**sensi:** Percezione passiva 16; scurovisione 27 m  
-**lingue:** Draconico  
-**grado_sfida:** 11  
+**abilita:** Furtività +7, Percezione +6
+**immunita_danni:** fulmine
+**sensi:** Percezione passiva 16; scurovisione 27 m
+**lingue:** Draconico
+**grado_sfida:** 11
 **punti_esperienza:** PE 7.200  
 **bonus_competenza:** +4  
 **grado_sfida_raw:** 11 (PE 7.200; BC +4)  
@@ -684,10 +689,7 @@ Behir
 ### Azioni
 
 **Multiattacco**  
-Il behir effettua un attacco Morso e usa
-
-**Stritolare**  
-
+Il behir effettua un attacco Morso e usa Stritolare.
 
 **Morso**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 19 (2d12 + 6) danni perforanti più 11 (2d10) danni da fulmine.
@@ -701,13 +703,14 @@ Tiro salvezza su Forza: CD 18, una creatura di taglia Grande o inferiore che il 
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Destrezza: CD 18, una creatura di taglia Grande o inferiore afferrata dal behir (il behir può inghiottire solo una creatura alla volta). Fallimento: Il behir inghiotte il bersaglio, che non è più afferrato. Finché è inghiottita, la creatura è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del behir, e subisce 21 (6d6) danni da acido all'inizio di ogni turno del behir. Se il behir subisce 30 o più danni in un singolo turno dalla creatura inghiottita, deve superare un tiro salvezza su Costituzione con CD 14 alla fine di quel turno, altrimenti rigurgita la creatura, che cade prona in uno spazio entro 3 metri dal behir. Se il behir muore, la creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona. Berserker
+Tiro salvezza su Destrezza: CD 18, una creatura di taglia Grande o inferiore afferrata dal behir (il behir può inghiottire solo una creatura alla volta). Fallimento: Il behir inghiotte il bersaglio, che non è più afferrato. Finché è inghiottita, la creatura è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del behir, e subisce 21 (6d6) danni da acido all'inizio di ogni turno del behir. Se il behir subisce 30 o più danni in un singolo turno dalla creatura inghiottita, deve superare un tiro salvezza su Costituzione con CD 14 alla fine di quel turno, altrimenti rigurgita la creatura, che cade prona in uno spazio entro 3 metri dal behir. Se il behir muore, la creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona.
 
 ---
 
 ## Berserker
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -741,20 +744,21 @@ Tiro salvezza su Destrezza: CD 18, una creatura di taglia Grande o inferiore aff
 
 ### Tratti
 
-**Frenesia sanguinante**  
+**Frenesia sanguinante**
 Finché è sanguinante, il berserker dispone di vantaggio ai tiri per colpire e ai tiri salvezza.
 
 ### Azioni
 
-**Ascia bipenne**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 9 (1d12 + 3) danni taglienti. Bruti
+**Ascia bipenne**
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 9 (1d12 + 3) danni taglienti.
 
 ---
 
 ## Bruto
 
 **gruppo:** Bruti  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -794,10 +798,7 @@ Il bruto dispone di vantaggio a un tiro per colpire contro una creatura se almen
 ### Azioni
 
 **Mazza**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 5 (1d6 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m *Colpito:* 5 (1d6 + 2) danni contundenti
 
 **Balestra pesante**  
 Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 6 (1d10 + 1) danni perforanti.
@@ -807,7 +808,8 @@ Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 6 (1d10 + 1) danni p
 ## Capo dei bruti
 
 **gruppo:** Bruti  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -850,17 +852,18 @@ Il bruto dispone di vantaggio a un tiro per colpire contro una creatura se almen
 Il bruto effettua due attacchi, usando Martello da guerra o Balestra pesante in qualsiasi combinazione.
 
 **Martello da guerra**  
-Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 12 (2d8 + 3) danni contundenti. 299 System Reference Document 5.2.1 Se il bersaglio è una creatura di taglia Grande o inferiore, il bruto lo spinge fino a 3 metri lontano da sé.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 12 (2d8 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, il bruto lo spinge fino a 3 metri lontano da sé.
 
 **Balestra pesante**  
-Tiro per colpire a distanza: +4, gittata 30/120 m. Colpito: 13 (2d10 + 2) danni perforanti. Bugbear
+Tiro per colpire a distanza: +4, gittata 30/120 m. Colpito: 13 (2d10 + 2) danni perforanti.
 
 ---
 
 ## Bugbear cacciatore
 
-**gruppo:** Bugbear  
-**tipo:** Folletto  
+**gruppo:** Bugbear
+**tipo:** Folletto (goblinoide)
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -918,8 +921,9 @@ Tiro salvezza su Destrezza: CD 13, una creatura di taglia Media o inferiore che 
 
 ## Bugbear guerriero
 
-**gruppo:** Bugbear  
-**tipo:** Folletto  
+**gruppo:** Bugbear
+**tipo:** Folletto (goblinoide)
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 14  
@@ -963,16 +967,14 @@ Il bugbear non ha bisogno di usare movimento extra per spostare una creatura che
 Tiro per colpire in mischia o a distanza: +4 (con vantaggio se il bersaglio è afferrato dal bugbear), portata 3 m o gittata 6/18 m. Colpito: 9 (3d4 + 2) danni contundenti.
 
 **Presa**  
-Tiro per colpire in mischia: +4, portata 3 m.
-
-**Colpito: 9 (2d6 + 2) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire). Bulette
+Tiro per colpire in mischia: +4, portata 3 m. *Colpito:* 9 (2d6 + 2) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire).
 
 ---
 
 ## Bulette
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -997,7 +999,7 @@ Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12
 - carisma: -3
 
 **abilita:** Percezione +6  
-**sensi:** Percezione passiva 16; percezione tellurica 36 m, scurovisione 18m 
+**sensi:** Percezione passiva 16; percezione tellurica 36 m, scurovisione 18 m 
 **lingue:** nessuna  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
@@ -1010,24 +1012,22 @@ Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12
 Il bulette effettua due attacchi Morso.
 
 **Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 17 (2d12 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. *Colpito:* 17 (2d12 + 4) danni perforanti.
 
 **Balzo letale**  
-Il bulette usa 1,5 metri di movimento per saltare in uno spazio entro 4,5 metri che contiene una o più creature di taglia Grande o inferiore. Tiro salvezza su Destrezza: CD 15, tutte le creature nello spazio di destinazione del bulette. Fallimento: 19 (3d12) danni contundenti, e il bersaglio è prono. Successo: danni dimezzati, e il bersaglio viene spinto a 1,5 metri di distanza dal bulette. 300 System Reference Document 5.2.1
+Il bulette usa 1,5 metri di movimento per saltare in uno spazio entro 4,5 metri che contiene una o più creature di taglia Grande o inferiore. Tiro salvezza su Destrezza: CD 15, tutte le creature nello spazio di destinazione del bulette. Fallimento: 19 (3d12) danni contundenti, e il bersaglio è prono. Successo: danni dimezzati, e il bersaglio viene spinto a 1,5 metri di distanza dal bulette.
 
 ### Azioni bonus
 
 **Balzo**  
-Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento. Cacciatore invisibile
+Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento.
 
 ---
 
 ## Cacciatore invisibile
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -1082,13 +1082,14 @@ Può sostituire un attacco con un utilizzo di Vortice.
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni da forza.
 
 **Vortice**  
-Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore nello spazio del cacciatore. Fallimento: 7 (1d8 + 3) danni da tuono, e il bersaglio è afferrato (CD 13 per sfuggire). Finché la presa perdura, il bersaglio non può lanciare incantesimi con una componente verbale, e subisce 7 (2d6) danni da tuono all'inizio di ogni turno del cacciatore. Cane della morte
+Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore nello spazio del cacciatore. Fallimento: 7 (1d8 + 3) danni da tuono, e il bersaglio è afferrato (CD 13 per sfuggire). Finché la presa perdura, il bersaglio non può lanciare incantesimi con una componente verbale, e subisce 7 (2d6) danni da tuono all'inizio di ogni turno del cacciatore.
 
 ---
 
 ## Cane della morte
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 12  
@@ -1124,16 +1125,10 @@ Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore 
 ### Azioni
 
 **Multiattacco**  
-Il cane della morte effettua due attacchi
+Il cane della morte effettua due attacchi Morso.
 
 **Morso**  
-
-
-**Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni perforanti**  
-Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Primo fallimento: il bersaglio è avvelenato. Finché lo resta, i punti ferita massimi del bersaglio non tornano alla normalità al termine di un riposo lungo. La creatura ripete il tiro salvezza ogni 24 ore trascorse e, se lo supera, l'effetto svanisce. Fallimenti successivi: i punti ferita massimi del bersaglio avvelenato sono ridotti di 5 (1d10). Cane intermittente
+Tiro per colpire in mischia: +4, portata 1,5 m. *Colpito:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Primo fallimento: il bersaglio è avvelenato. Finché lo resta, i punti ferita massimi del bersaglio non tornano alla normalità al termine di un riposo lungo. La creatura ripete il tiro salvezza ogni 24 ore trascorse e, se lo supera, l'effetto svanisce. Fallimenti successivi: i punti ferita massimi del bersaglio avvelenato sono ridotti di 5 (1d10).
 
 ---
 
