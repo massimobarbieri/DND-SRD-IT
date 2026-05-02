@@ -62,7 +62,7 @@ L'aboleth effettua due attacchi Tentacolo e usa Consuma ricordi o Domina mente, 
 Tiro per colpire in mischia: +9, portata 4,5 m. Colpito: 12 (2d6 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da uno dei quattro tentacoli. 294 System Reference Document 5.2.1
 
 **Consuma ricordi**  
-Tiro salvezza su Intelligenza: CD 16, una creatura entro 9 metri affascinata o afferrata dall'aboleth. Fallimento: 10 (3d6) danni psichici. Successo: danni dimezzati. Fallimento o successo: l'aboleth acquisisce i ricordi del bersaglio se questo è un umanoide e viene ridotto a 0 punti ferita da questa azione.
+*Tiro salvezza su Intelligenza:* CD 16, una creatura entro 9 metri affascinata o afferrata dall'aboleth. *Fallimento:* 10 (3d6) danni psichici. *Successo:* danni dimezzati. *Fallimento o successo:* l'aboleth acquisisce i ricordi del bersaglio se questo è un umanoide e viene ridotto a 0 punti ferita da questa azione.
 
 **Domina mente (2/giorno)**  
 Tiro salvezza su Saggezza: CD 16, una creatura che l'aboleth è in grado di vedere entro 9 metri. Fallimento: la creatura è affascinata finché l'aboleth muore o si sposta su un piano di esistenza diverso da quello del bersaglio. Finché è affascinato, il bersaglio agisce come un alleato dell'aboleth ed è sotto il suo controllo finché si trova entro 18 metri da esso. Inoltre, l'aboleth e il bersaglio possono comunicare telepaticamente tra loro a qualsiasi distanza. Il bersaglio ripete il tiro salvezza ogni volta che subisce danni e ogni volta che trascorre 24 ore ad almeno 1,5 chilometri di distanza dall'aboleth e, se lo supera, l'effetto svanisce.
@@ -76,7 +76,7 @@ Subito dopo il turno di un'altra creatura, l'aboleth può consumare un utilizzo 
 Se l'aboleth ha affascinato o afferrato almeno una creatura, utilizza Consuma ricordi e recupera 5 (1d10) punti ferita.
 
 **Sferzata**  
-L'aboleth effettua un attacco Tentacolo. Ameba paglierina
+L'aboleth effettua un attacco Tentacolo.
 
 ---
 
