@@ -1394,9 +1394,7 @@ Fallimento: 7 (1d6 + 4) danni contundenti, e il bersaglio è prono. Chimera
 La chimera effettua un attacco Sfondamento, un attacco Morso e un attacco Artiglio. Può sostituire l'attacco Artiglio con un utilizzo di Soffio di fuoco, se disponibile.
 
 **Artiglio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 7 (1d6 + 4) danni taglienti**  
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 7 (1d6 + 4) danni taglienti
 
 
 **Morso**  
