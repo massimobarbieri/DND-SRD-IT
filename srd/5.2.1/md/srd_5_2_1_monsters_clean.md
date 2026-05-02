@@ -997,7 +997,7 @@ Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12
 - carisma: -3
 
 **abilita:** Percezione +6  
-**sensi:** Percezione passiva 16; percezione tellurica 36 m,  
+**sensi:** Percezione passiva 16; percezione tellurica 36 m, scurovisione 18m 
 **lingue:** nessuna  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
