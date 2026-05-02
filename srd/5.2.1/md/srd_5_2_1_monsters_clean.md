@@ -4354,7 +4354,7 @@ Attivazione: l'erinni viene colpita da un tiro per colpire in mischia mentre tie
 - saggezza: +1
 - carisma: +0
 
-**abilita:** Furtività +6, Natura +4, Percezione +5,  
+**abilita:** Furtività +6, Natura +4, Percezione +5, Sopravvivenza +5 
 **attrezzatura:** arco lungo, armatura di cuoio, spada corta  
 **sensi:** Percezione passiva 15  
 **lingue:** Comune più un'altra lingua  
@@ -4470,7 +4470,7 @@ L'ettercap attira in linea retta verso di sé una creatura entro 9 metri tratten
 
 **abilita:** Percezione +4  
 **attrezzatura:** ascia da battaglia, mazza chiodata  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi,  
+**immunita_condizioni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Gigante  
 **grado_sfida:** 4  
