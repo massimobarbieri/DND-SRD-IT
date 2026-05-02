@@ -157,7 +157,7 @@ Attivazione: l'ameba, finché è di taglia Grande o Media e ha 10 punti ferita o
 - saggezza: +1
 - carisma: -2
 
-**sensi:** Percezione passiva 11; percezione tellurica 18 m;  
+**sensi:** Percezione passiva 11; percezione tellurica 18 m; scurovisione 18 m 
 **lingue:** nessuna  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
