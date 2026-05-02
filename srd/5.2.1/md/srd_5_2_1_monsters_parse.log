@@ -28,11 +28,11 @@ Totale mostri estratti: 288
 #DONE Cavallo degli incubi (pagine 8-9): header_continuation_o_parse_da_verificare - li parla
 #DONE Centauro combattente (pagine 9-9): gruppo_header - Centauro
 #DONE Chimera (pagine 9-9): header_continuation_o_parse_da_verificare - 302 System Reference Document 5.2.1
-- Cinghiale mannaro (pagine 10-10): header_continuation_o_parse_da_verificare - malvagio
+#DONE Cinghiale mannaro (pagine 10-10): header_continuation_o_parse_da_verificare - malvagio
 - Cinghiale mannaro (pagine 10-10): mutaforma
-- Coboldo guerriero (pagine 10-10): gruppo_header - Coboldo
+#DONE Coboldo guerriero (pagine 10-10): gruppo_header - Coboldo
 - Couatl (pagine 11-11): incantesimi_interni
-- Cubo gelatinoso (pagine 11-12): header_continuation_o_parse_da_verificare - indebolimento, prono, spaventato
+#DONE Cubo gelatinoso (pagine 11-12): header_continuation_o_parse_da_verificare - indebolimento, prono, spaventato
 - Cultista (pagine 12-12): gruppo_header - Cultisti
 - Cultista fanatico (pagine 12-12): incantesimi_interni
 - Deva (pagine 13-13): incantesimi_interni

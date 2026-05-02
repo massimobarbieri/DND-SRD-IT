@@ -1475,7 +1475,7 @@ Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del s
 ## Cinghiale mannaro
 
 **tipo:** Mostruosità  
-**allineamento:** neutrale  
+**allineamento:** neutrale malvagio 
 
 **classe_armatura:** 15  
 **iniziativa:** +2 (12)  
@@ -1710,7 +1710,7 @@ Il couatl lancia benedizione, ristorare inferiore o santuario senza bisogno di c
 - carisma: -5
 
 **immunita_danni:** acido  
-**immunita_condizione:** accecato, affascinato, assordato,  
+**immunita_condizione:** accecato, affascinato, assordato, indebolimento, prono, spaventato 
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
