@@ -1054,7 +1054,7 @@ Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento. Cacci
 **abilita:** Furtività +10, Percezione +8  
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** veleno  
-**immunita_condizione:** afferrato, avvelenato, indebolimento,  
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto 
 **sensi:** Percezione passiva 18; scurovisione 18 m  
 **lingue:** Comune, Primordiale (Auran)  
 **grado_sfida:** 6  
@@ -1113,7 +1113,7 @@ Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore 
 - carisma: -2
 
 **abilita:** Furtività +4, Percezione +5  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi,  
+**immunita_danni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito 
 **sensi:** Percezione passiva 15; scurovisione 36 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -1165,7 +1165,7 @@ Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su C
 
 **abilita:** Furtività +5, Percezione +5  
 **sensi:** Percezione passiva 15; scurovisione 18 m  
-**lingue:** Cane intermittente; capisce l'Elfico e il Silvano ma  
+**lingue:** Cane intermittente; capisce l'Elfico e il Silvano ma non li parla 
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -1270,7 +1270,7 @@ Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre
 
 **immunita_danni:** fuoco  
 **sensi:** Percezione passiva 11  
-**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non  
+**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non li parla 
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
 **bonus_competenza:** +2  
@@ -1394,9 +1394,7 @@ Fallimento: 7 (1d6 + 4) danni contundenti, e il bersaglio è prono. Chimera
 La chimera effettua un attacco Sfondamento, un attacco Morso e un attacco Artiglio. Può sostituire l'attacco Artiglio con un utilizzo di Soffio di fuoco, se disponibile.
 
 **Artiglio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 7 (1d6 + 4) danni taglienti**  
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 7 (1d6 + 4) danni taglienti
 
 
 **Morso**  
