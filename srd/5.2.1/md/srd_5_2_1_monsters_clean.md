@@ -177,10 +177,10 @@ L'ankheg può scavare nella roccia a metà della sua velocità di scavo e lascia
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio è afferrato dall'ankheg), portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti più 3 (1d6) danni da acido. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire).
+*Tiro per colpire in mischia:* +5 (con vantaggio se il bersaglio è afferrato dall'ankheg), portata 1,5 m. *Colpito:* 10 (2d6 + 3) danni taglienti più 3 (1d6) danni da acido. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire).
 
 **Spruzzo acido (ricarica 6)**  
-Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 14 (4d6) danni da acido. Successo: danni dimezzati.
+*Tiro salvezza su Destrezza:* CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. *Fallimento:* 14 (4d6) danni da acido. *Successo:* danni dimezzati.
 
 ---
 
