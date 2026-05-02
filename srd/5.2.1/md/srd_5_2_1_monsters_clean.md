@@ -885,7 +885,7 @@ Tiro per colpire a distanza: +4, gittata 30/120 m. Colpito: 13 (2d10 + 2) danni 
 - carisma: +0
 
 **abilita:** Furtività +6, Sopravvivenza +3  
-**attrezzatura:** giaco di maglia, giavellotti (6), mazza  
+**attrezzatura:** giaco di maglia, giavellotti (6), mazza chiodata 
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune, Goblin  
 **grado_sfida:** 3  
@@ -918,6 +918,7 @@ Tiro salvezza su Destrezza: CD 13, una creatura di taglia Media o inferiore che 
 
 ## Bugbear guerriero
 
+**gruppo:** Bugbear  
 **tipo:** Folletto  
 **allineamento:** caotico malvagio  
 
