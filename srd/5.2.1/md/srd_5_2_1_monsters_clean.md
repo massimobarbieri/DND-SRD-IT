@@ -1165,7 +1165,7 @@ Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su C
 
 **abilita:** Furtività +5, Percezione +5  
 **sensi:** Percezione passiva 15; scurovisione 18 m  
-**lingue:** Cane intermittente; capisce l'Elfico e il Silvano ma  
+**lingue:** Cane intermittente; capisce l'Elfico e il Silvano ma non li parla 
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
