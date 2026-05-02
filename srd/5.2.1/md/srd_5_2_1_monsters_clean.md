@@ -1134,7 +1134,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m. *Colpito:* 4 (1d4 + 2) danni per
 
 ## Cane intermittente
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** legale buono  
 
 **classe_armatura:** 13  
@@ -1169,27 +1170,25 @@ Tiro per colpire in mischia: +4, portata 1,5 m. *Colpito:* 4 (1d4 + 2) danni per
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 5 (1d4 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m *Colpito:* 5 (1d4 + 3) danni perforanti.
 
 ### Azioni bonus
 
 **Teletrasporto (ricarica 4-6)**  
-Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che è in grado di vedere. 301 System Reference Document 5.2.1 Cavaliere
+Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che è in grado di vedere.
 
 ---
 
 ## Cavaliere
 
-**tipo:** Umanoide  
-**allineamento:** neutrale  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
+**allineamento:** neutrale
 
-**classe_armatura:** 18  
-**iniziativa:** +0 (10)  
-**punti_ferita:** 52 (8d8 + 16)  
-**velocita:** 9 m  
+**classe_armatura:** 18
+**iniziativa:** +0 (10)
+**punti_ferita:** 52 (8d8 + 16)
+**velocita:** 9 m
 
 **caratteristiche:**
 - forza: 16 (+3)
@@ -1219,10 +1218,7 @@ Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che 
 ### Azioni
 
 **Multiattacco**  
-Il cavaliere effettua due attacchi, usando
-
-**Spadone o Balestra pesante in qualsiasi combinazione**  
-
+Il cavaliere effettua due attacchi, usando Spadone o Balestra pesante in qualsiasi combinazione.
 
 **Spadone**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni taglienti più 4 (1d8) danni radiosi.
@@ -1233,19 +1229,20 @@ Tiro per colpire a distanza: +2, gittata 30/120 m. Colpito: 11 (2d10) danni perf
 ### Reazioni
 
 **Parata**  
-Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il cavaliere aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Cavallo degli incubi
+Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il cavaliere aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Cavallo degli incubi
 
-**tipo:** Immondo  
-**allineamento:** neutrale malvagio  
+**tipo:** Immondo
+**dimensione:** Grande
+**allineamento:** neutrale malvagio
 
-**classe_armatura:** 13  
-**iniziativa:** +2 (12)  
-**punti_ferita:** 68 (8d10 + 24)  
-**velocita:** 18 m, volo 27 m (fluttuare)  
+**classe_armatura:** 13
+**iniziativa:** +2 (12)
+**punti_ferita:** 68 (8d10 + 24)
+**velocita:** 18 m, volo 27 m (fluttuare)
 
 **caratteristiche:**
 - forza: 18 (+4)
@@ -1263,17 +1260,17 @@ Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre
 - saggezza: +1
 - carisma: +2
 
-**immunita_danni:** fuoco  
-**sensi:** Percezione passiva 11  
-**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non li parla 
-**grado_sfida:** 3  
-**punti_esperienza:** PE 700  
-**bonus_competenza:** +2  
-**grado_sfida_raw:** 3 (PE 700; BC +2)  
+**immunita_danni:** fuoco
+**sensi:** Percezione passiva 11
+**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non li parla
+**grado_sfida:** 3
+**punti_esperienza:** PE 700
+**bonus_competenza:** +2
+**grado_sfida_raw:** 3 (PE 700; BC +2)
 
 ### Tratti
 
-**Conferire resistenza al fuoco**  
+**Conferire resistenza al fuoco**
 Il cavallo degli incubi può conferire resistenza ai danni da fuoco a un cavaliere finché questi si trova sul cavallo.
 
 **Illuminazione**  
@@ -1285,20 +1282,21 @@ Il cavallo degli incubi emana luce intensa in un raggio di 3 metri e luce fioca 
 Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti più 10 (3d6) danni da fuoco.
 
 **Passo etereo**  
-Il cavallo degli incubi e un massimo di tre creature consenzienti situate entro 1,5 metri da esso si teletrasportano dal Piano Materiale al Piano Etereo o viceversa. Centauro
+Il cavallo degli incubi e un massimo di tre creature consenzienti situate entro 1,5 metri da esso si teletrasportano dal Piano Materiale al Piano Etereo o viceversa.
 
 ---
 
 ## Centauro combattente
 
-**gruppo:** Centauro  
-**tipo:** Folletto  
+**gruppo:** Centauro
+**tipo:** Folletto
+**dimensione:** Grande
 **allineamento:** neutrale buono  
 
-**classe_armatura:** 16  
-**iniziativa:** +2 (12)  
-**punti_ferita:** 45 (6d10 + 12)  
-**velocita:** 15 m  
+**classe_armatura:** 16
+**iniziativa:** +2 (12)
+**punti_ferita:** 45 (6d10 + 12)
+**velocita:** 15 m
 
 **caratteristiche:**
 - forza: 18 (+4)
@@ -1331,10 +1329,7 @@ Il cavallo degli incubi e un massimo di tre creature consenzienti situate entro 
 Il centauro effettua due attacchi, utilizzando Picca o Arco lungo in qualsiasi combinazione.
 
 **Picca**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 9 (1d10 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. *Colpito:* 9 (1d10 + 4) danni perforanti.
 
 **Arco lungo**  
 Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti.
@@ -1342,22 +1337,20 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 ### Azioni bonus
 
 **Carica travolgente (Ricarica 5-6)**  
-Il centauro si muove fino alla sua velocità massima senza provocare attacchi di opportunità e può attraversare gli spazi di qualsiasi creatura di taglia Media o inferiore. Ogni creatura il cui spazio viene invaso dal centauro viene bersagliata una volta dal seguente effetto. Tiro salvezza su Forza:
-
-**CD 14**  
-Fallimento: 7 (1d6 + 4) danni contundenti, e il bersaglio è prono. Chimera
+Il centauro si muove fino alla sua velocità massima senza provocare attacchi di opportunità e può attraversare gli spazi di qualsiasi creatura di taglia Media o inferiore. Ogni creatura il cui spazio viene invaso dal centauro viene bersagliata una volta dal seguente effetto. Tiro salvezza su Forza: CD 14 Fallimento: 7 (1d6 + 4) danni contundenti, e il bersaglio è prono.
 
 ---
 
 ## Chimera
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
-**classe_armatura:** 14  
-**iniziativa:** +0 (10)  
-**punti_ferita:** 114 (12d10 + 48)  
-**velocita:** 9 m, volo 18 m  
+**classe_armatura:** 14
+**iniziativa:** +0 (10)
+**punti_ferita:** 114 (12d10 + 48)
+**velocita:** 9 m, volo 18 m
 
 **caratteristiche:**
 - forza: 19 (+4)
@@ -1391,7 +1384,6 @@ La chimera effettua un attacco Sfondamento, un attacco Morso e un attacco Artigl
 **Artiglio**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 7 (1d6 + 4) danni taglienti
 
-
 **Morso**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti, o 18 (4d6 + 4) danni perforanti se la chimera dispone di vantaggio al tiro per colpire.
 
@@ -1399,13 +1391,14 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perf
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 10 (1d12 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 15, tutte le creature in un cono di 4,5 metri. Fallimento: 31 (7d8) danni da fuoco. Successo: danni dimezzati. Chuul
+Tiro salvezza su Destrezza: CD 15, tutte le creature in un cono di 4,5 metri. Fallimento: 31 (7d8) danni da fuoco. Successo: danni dimezzati.
 
 ---
 
 ## Chuul
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 16  
@@ -1453,22 +1446,17 @@ Il chuul percepisce la magia entro 36 metri da sé. Sotto ogni altro aspetto, qu
 Il chuul effettua due attacchi Tenaglia e utilizza Tentacoli paralizzanti.
 
 **Tenaglia**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 9 (1d10 + 4) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due tenaglie.
+Tiro per colpire in mischia: +6, portata 3 m. *Colpito:* 9 (1d10 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due tenaglie.
 
 **Tentacoli paralizzanti**  
-Tiro salvezza su Costituzione:
-
-**CD 13, una creatura afferrata dal chuul**  
-Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del suo turno successivo e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Finché è avvelenato, il bersaglio è paralizzato. Cinghiale mannaro
+Tiro salvezza su Costituzione: CD 13, una creatura afferrata dal chuul. Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del suo turno successivo e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Finché è avvelenato, il bersaglio è paralizzato.
 
 ---
 
 ## Cinghiale mannaro
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** neutrale malvagio 
 
 **classe_armatura:** 15  
@@ -1504,19 +1492,13 @@ Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del s
 ### Azioni
 
 **Multiattacco**  
-Il cinghiale mannaro effettua due attacchi, usando Giavellotto o Zanne in qualsiasi combinazione. Può sostituire un attacco con un attacco
-
-**Trafiggere**  
-
+Il cinghiale mannaro effettua due attacchi, usando Giavellotto o Zanne in qualsiasi combinazione. Può sostituire un attacco con un attacco Trafiggere.
 
 **Giavellotto (solo in forma umanoide o ibrida)**  
 Tiro per colpire in mischia o a distanza: +5, portata 1,5 m o gittata 9/36 m. Colpito: 13 (3d6 + 3) danni perforanti.
 
 **Trafiggere (solo in forma di cinghiale o ibrida)**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su
-
-**Costituzione: CD 12**  
-Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un cinghiale mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del cinghiale mannaro per 24 ore.
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un cinghiale mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del cinghiale mannaro per 24 ore.
 
 **Zanne (solo in forma di cinghiale o ibrida)**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore e il cinghiale mannaro si è mosso di 6 metri o più in linea retta verso di esso 303 System Reference Document 5.2.1 subito prima del colpo, il bersaglio subisce 7 (2d6) danni perforanti extra e cade a terra prono.
@@ -1524,15 +1506,16 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perfo
 ### Azioni bonus
 
 **Mutaforma**  
-Il cinghiale mannaro si trasforma in un ibrido umanoide-cinghiale di taglia Media o in un cinghiale di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Coboldo
+Il cinghiale mannaro si trasforma in un ibrido umanoide-cinghiale di taglia Media o in un cinghiale di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Coboldo guerriero
 
-**gruppo:** Coboldo  
-**tipo:** Drago  
-**allineamento:** neutrale  
+**gruppo:** Coboldo
+**tipo:** Drago
+**dimensione:** Piccolo
+**allineamento:** neutrale
 
 **classe_armatura:** 14  
 **iniziativa:** +2 (12)  
@@ -1574,13 +1557,14 @@ Il coboldo dispone di vantaggio a un tiro per colpire contro una creatura se alm
 ### Azioni
 
 **Pugnale**  
-Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Colpito: 4 (1d4 + 2) danni perforanti. Coccatrice
+Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Colpito: 4 (1d4 + 2) danni perforanti.
 
 ---
 
 ## Coccatrice
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -1615,13 +1599,14 @@ Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Co
 ### Azioni
 
 **Morso pietrificante**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni perforanti. Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 11. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza alla fine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto per 24 ore. Couatl
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni perforanti. Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 11. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza alla fine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto per 24 ore.
 
 ---
 
 ## Couatl
 
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Medio
 **allineamento:** legale buono  
 
 **classe_armatura:** 19  
@@ -1673,13 +1658,14 @@ Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore che il c
 ### Azioni bonus
 
 **Aiuto divino (2/giorno)**  
-Il couatl lancia benedizione, ristorare inferiore o santuario senza bisogno di componenti, utilizzando la stessa caratteristica da incantatore di Incantesimi. Cubo gelatinoso
+Il couatl lancia benedizione, ristorare inferiore o santuario senza bisogno di componenti, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Cubo gelatinoso
 
-**tipo:** Melma  
+**tipo:** Melma
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 6  
@@ -1726,15 +1712,16 @@ Anche quando il cubo è in piena vista, una creatura deve superare una prova di 
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 12 (3d6 + 2) danni da acido.
 
 **Avviluppare**  
-Il cubo si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Il cubo può muoversi nello spazio di creature di taglia Grande o inferiore se, al suo interno, ha spazio sufficiente a contenerle (vedi il tratto Cubo di melma). Tiro salvezza su Destrezza: CD 12, tutte le creature nel cui spazio il cubo entra per la prima volta durante questo movimento. Fallimento: 10 (3d6) danni da acido, e il bersaglio è avviluppato. Un bersaglio avviluppato soffoca, non può lanciare incantesimi con una componente Verbale, è trattenuto e subisce 10 (3d6) danni da acido all'inizio di ogni turno del cubo. Quando il cubo si muove, il bersaglio avviluppato si muove insieme a esso. Un bersaglio avviluppato può tentare di sfuggire usando un'azione per effettuare una prova di Forza (Atletica) con CD 12. Se la prova viene superata, il bersaglio sfugge ed entra nello spazio libero più vicino. Successo: danni dimezzati, e il bersaglio si sposta in uno spazio libero entro 1,5 metri dal cubo. Se non c'è alcuno spazio libero, il bersaglio fallisce la prova. Cultisti
+Il cubo si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Il cubo può muoversi nello spazio di creature di taglia Grande o inferiore se, al suo interno, ha spazio sufficiente a contenerle (vedi il tratto Cubo di melma). Tiro salvezza su Destrezza: CD 12, tutte le creature nel cui spazio il cubo entra per la prima volta durante questo movimento. Fallimento: 10 (3d6) danni da acido, e il bersaglio è avviluppato. Un bersaglio avviluppato soffoca, non può lanciare incantesimi con una componente Verbale, è trattenuto e subisce 10 (3d6) danni da acido all'inizio di ogni turno del cubo. Quando il cubo si muove, il bersaglio avviluppato si muove insieme a esso. Un bersaglio avviluppato può tentare di sfuggire usando un'azione per effettuare una prova di Forza (Atletica) con CD 12. Se la prova viene superata, il bersaglio sfugge ed entra nello spazio libero più vicino. Successo: danni dimezzati, e il bersaglio si sposta in uno spazio libero entro 1,5 metri dal cubo. Se non c'è alcuno spazio libero, il bersaglio fallisce la prova.
 
 ---
 
 ## Cultista
 
-**gruppo:** Cultisti  
-**tipo:** Umanoide  
-**allineamento:** neutrale  
+**gruppo:** Cultisti
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
+**allineamento:** neutrale
 
 **classe_armatura:** 12  
 **iniziativa:** +1 (11)  
@@ -1775,7 +1762,8 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 3 (1d4 + 1) danni taglie
 
 ## Cultista fanatico
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -1819,13 +1807,14 @@ Il cultista lancia uno dei seguenti incantesimi, utilizzando Saggezza come carat
 ### Azioni bonus
 
 **Arma spirituale (2/giorno)**  
-Il cultista lancia l'incantesimo arma spirituale, utilizzando la stessa caratteristica da incantatore di Incantesimi. Cumulo strisciante
+Il cultista lancia l'incantesimo arma spirituale, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Cumulo strisciante
 
-**tipo:** Vegetale  
+**tipo:** Vegetale
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -1877,13 +1866,14 @@ Può sostituire un attacco con un utilizzo di Avviluppare.
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni contundenti più 5 (2d4) danni da fulmine. Se il bersaglio è una creatura di taglia Media o inferiore, il cumulo strisciante lo tira in linea retta verso di sé per 1,5 metri.
 
 **Avviluppare**  
-Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore entro 1,5 metri. Fallimento: il bersaglio viene attirato nello spazio del cumulo strisciante ed è afferrato (CD 14 per sfuggire). Finché la presa perdura il bersaglio è accecato e trattenuto, e subisce 10 (3d6) danni da fulmine all'inizio di ogni suo turno. Quando il cumulo strisciante si muove, il bersaglio afferrato si muove con esso senza fargli consumare movimento extra. Il cumulo strisciante può afferrare una sola creatura per volta con questa azione. Deva
+Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore entro 1,5 metri. Fallimento: il bersaglio viene attirato nello spazio del cumulo strisciante ed è afferrato (CD 14 per sfuggire). Finché la presa perdura il bersaglio è accecato e trattenuto, e subisce 10 (3d6) danni da fulmine all'inizio di ogni suo turno. Quando il cumulo strisciante si muove, il bersaglio afferrato si muove con esso senza fargli consumare movimento extra. Il cumulo strisciante può afferrare una sola creatura per volta con questa azione.
 
 ---
 
 ## Deva
 
-**tipo:** Celestiale  
+**tipo:** Celestiale (angelo)
+**dimensione:** Medio
 **allineamento:** legale buono  
 
 **classe_armatura:** 17  
@@ -1939,13 +1929,14 @@ Il deva lancia uno dei seguenti incantesimi, senza bisogno di componenti materia
 ### Azioni bonus
 
 **Aiuto divino (2/giorno)**  
-Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi. Diavolo barbuto
+Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Diavolo barbuto
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 13  
@@ -1993,16 +1984,14 @@ Il diavolo effettua un attacco Barba e un attacco Falcione infernale.
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti, e il bersaglio è avvelenato fino all'inizio del turno successivo del diavolo. Finché è avvelenato, il bersaglio non può recuperare punti ferita.
 
 **Falcione infernale**  
-Tiro per colpire in mischia: +5, portata 3 m. Colpito: 8 (1d10 + 3) danni taglienti. Se il bersaglio è una creatura e non ha già una ferita infernale, subisce il seguente effetto. Tiro salvezza su
-
-**Costituzione: CD 12**  
-Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il bersaglio perde 5 (1d10) punti ferita all'inizio di ogni suo turno. La ferita si rimargina dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 12. Diavolo cornuto
+Tiro per colpire in mischia: +5, portata 3 m. Colpito: 8 (1d10 + 3) danni taglienti. Se il bersaglio è una creatura e non ha già una ferita infernale, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il bersaglio perde 5 (1d10) punti ferita all'inizio di ogni suo turno. La ferita si rimargina dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 12.
 
 ---
 
 ## Diavolo cornuto
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 18  
@@ -2029,7 +2018,7 @@ Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il ber
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 13; scurovisione 45 m (non  
+**sensi:** Percezione passiva 13; scurovisione 45 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 11  
 **punti_esperienza:** PE 7.200  
@@ -2042,18 +2031,12 @@ Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il ber
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
 **Multiattacco**  
-Il diavolo effettua tre attacchi, utilizzando Forcone ardente o Scagliare fiamma in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di
-
-**Coda infernale**  
-
+Il diavolo effettua tre attacchi, utilizzando Forcone ardente o Scagliare fiamma in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di Coda infernale.
 
 **Forcone ardente**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (2d8 + 6) danni perforanti più 9 (2d8) danni da fuoco.
@@ -2062,7 +2045,7 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (2d8 + 6) danni perfo
 Tiro per colpire a distanza: +8, gittata 45 m. Colpito: 26 (5d8 + 4) danni da fuoco. Se il bersaglio è un oggetto infiammabile che non è indossato o trasportato, inizia a bruciare.
 
 **Coda infernale**  
-Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di vedere entro 3 metri. Fallimento: 10 (1d8 + 6) danni necrotici, e il bersaglio subisce una ferita infernale se non ne ha già una. Finché è ferito, il bersaglio perde 10 (3d6) punti ferita all'inizio di ogni suo turno. La ferita si chiude dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 17. Diavolo del ghiaccio
+Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di vedere entro 3 metri. Fallimento: 10 (1d8 + 6) danni necrotici, e il bersaglio subisce una ferita infernale se non ne ha già una. Finché è ferito, il bersaglio perde 10 (3d6) punti ferita all'inizio di ogni suo turno. La ferita si chiude dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 17.
 
 ---
 
