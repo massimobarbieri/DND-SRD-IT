@@ -232,6 +232,9 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 
 **gruppo:** Artiglio strisciante  
 **tipo:** Sciame  
+**dimensione:** Medio
+**sottotipo:** non morti
+**sottodimensione:** Minuscoli
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 12  
@@ -257,8 +260,7 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato, avvelenato, incapacitato, indebolimento, paralizzato,
-pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizione:** affascinato, afferrato, avvelenato, incapacitato, indebolimento, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 9 m  
 **lingue:** capisce il Comune ma non lo parla  
 **grado_sfida:** 3  
@@ -274,7 +276,7 @@ L'orda può occupare lo spazio di un'altra creatura e viceversa, e può muoversi
 ### Azioni
 
 **Orda di mani afferranti**  
-Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 20 (4d8 + 2) danni necrotici, o 11 (2d8 + 2) danni necrotici se l'orda è sanguinante. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono. Assassino
+*Tiro per colpire in mischia:* +4, portata 1,5 m. *Colpito:* 20 (4d8 + 2) danni necrotici, o 11 (2d8 + 2) danni necrotici se l'orda è sanguinante. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono. 
 
 ---
 
