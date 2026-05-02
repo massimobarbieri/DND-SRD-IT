@@ -419,7 +419,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni contu
 **abilita:** Percezione +9  
 **resistenze:** freddo, fulmine  
 **immunita_danni:** fuoco, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, spaventato 
 **sensi:** Percezione passiva 19; vista pura 36 m  
 **lingue:** Abissale; telepatia 36 m  
 **grado_sfida:** 19  
