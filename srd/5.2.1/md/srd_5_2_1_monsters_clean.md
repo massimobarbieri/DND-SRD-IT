@@ -1474,7 +1474,7 @@ Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del s
 ## Cinghiale mannaro
 
 **tipo:** Mostruosità  
-**allineamento:** neutrale  
+**allineamento:** neutrale malvagio 
 
 **classe_armatura:** 15  
 **iniziativa:** +2 (12)  
