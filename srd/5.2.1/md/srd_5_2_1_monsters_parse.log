@@ -14,9 +14,9 @@ Totale mostri estratti: 288
 #DONE Assassino (pagine 3-3): header_continuation_o_parse_da_verificare - leggera, spada corta
 #DONE Azer sentinella (pagine 3-3): gruppo_header - Azer
 #DONE Balor (pagine 3-4): header_continuation_o_parse_da_verificare - spaventato
-- Bandito (pagine 4-4): gruppo_header - Banditi
-- Bandito (pagine 4-4): header_continuation_o_parse_da_verificare - scimitarra
-- Capo dei banditi (pagine 4-4): header_continuation_o_parse_da_verificare - scimitarra
+#DONE Bandito (pagine 4-4): gruppo_header - Banditi
+#DONE Bandito (pagine 4-4): header_continuation_o_parse_da_verificare - scimitarra
+#DONE Capo dei banditi (pagine 4-4): header_continuation_o_parse_da_verificare - scimitarra
 - Bruto (pagine 6-6): gruppo_header - Bruti
 - Capo dei bruti (pagine 6-6): header_continuation_o_parse_da_verificare - guerra
 - Bugbear cacciatore (pagine 6-6): gruppo_header - Bugbear

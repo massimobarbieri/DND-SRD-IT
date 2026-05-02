@@ -543,16 +543,10 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni tagli
 ### Azioni
 
 **Multiattacco**  
-Il bandito effettua due attacchi, usando
-
-**Scimitarra e Pistola in qualsiasi combinazione**  
-
+Il bandito effettua due attacchi, usando Scimitarra e Pistola in qualsiasi combinazione
 
 **Pistola**  
-Tiro per colpire a distanza: +5, gittata 9/27 m.
-
-**Colpito: 8 (1d10 + 3) danni perforanti**  
-
+Tiro per colpire a distanza: +5, gittata 9/27 m. Colpito: 8 (1d10 + 3) danni perforanti.
 
 **Scimitarra**  
 Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni taglienti.
