@@ -45,6 +45,10 @@ Finché si trova sott'acqua, l'aboleth è circondato da uno strato di muco. Tiro
 **Ristoro occulto**  
 Se viene annientato, l'aboleth ottiene un nuovo corpo dopo 5d10 giorni, tornando in vita con tutti i suoi punti ferita nel Reame Remoto o in un altro luogo a scelta del GM.
 
+**Resistenza leggendaria**
+*(3/giorno o 4/giorno nella tana)*
+Se l'aboleth fallisce un tiro salvezza, può­scegliere di superarlo comunque.
+
 **Sonda telepatica**  
 Se una creatura che l'aboleth è in grado di vedere comunica telepaticamente con l'aboleth, quest'ultimo apprende i più grandi desideri della creatura. Finché la creatura maledetta si trova fuori da uno specchio d'acqua, subisce 6 (1d12) danni da acido a intervalli di 10 minuti, a meno che la sua pelle non venga inumidita prima che siano trascorsi i 10 minuti.
 
