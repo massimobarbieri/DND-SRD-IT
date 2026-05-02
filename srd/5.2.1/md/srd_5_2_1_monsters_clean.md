@@ -2035,7 +2035,7 @@ Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il ber
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 13; scurovisione 45 m (non  
+**sensi:** Percezione passiva 13; scurovisione 45 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 11  
 **punti_esperienza:** PE 7.200  
@@ -2249,7 +2249,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 **resistenze:** contundente, freddo, perforante, tagliente  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 11; scurovisione 36 m (non  
+**sensi:** Percezione passiva 11; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 8  
 **punti_esperienza:** PE 3.900  
@@ -2262,9 +2262,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi  
 
 
 ### Azioni
@@ -2318,7 +2316,7 @@ Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo tur
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 12; scurovisione 36 m (non  
+**sensi:** Percezione passiva 12; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 9  
 **punti_esperienza:** PE 5.000  
@@ -2382,7 +2380,7 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perfo
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 18; scurovisione 36 m (non  
+**sensi:** Percezione passiva 18; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
