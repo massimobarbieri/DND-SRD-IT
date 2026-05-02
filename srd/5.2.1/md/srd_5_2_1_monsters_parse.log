@@ -92,9 +92,9 @@ Totale mostri estratti: 288
 - Efreeti (pagine 37-39): incantesimi_interni
 #DONE Esploratore (pagine 40-40): header_continuation_o_parse_da_verificare - Sopravvivenza +5
 #DONE Ettin (pagine 40-41): header_continuation_o_parse_da_verificare - spaventato, stordito
-- Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - perforante, tagliente, tuono
-- Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
-- Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - prono, spaventato, trattenuto
+#DONE Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - perforante, tagliente, tuono
+#DONE Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
+#DONE Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - prono, spaventato, trattenuto
 - Boleto stridente (pagine 42-42): gruppo_header - Funghi
 - Fuoco fatuo (pagine 42-42): header_continuation_o_parse_da_verificare - 335 System Reference Document 5.2.1
 - Fuoco fatuo (pagine 42-42): header_continuation_o_parse_da_verificare - perforante, tagliente

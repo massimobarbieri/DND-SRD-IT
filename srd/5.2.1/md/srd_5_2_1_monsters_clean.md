@@ -4470,7 +4470,7 @@ L'ettercap attira in linea retta verso di sé una creatura entro 9 metri tratten
 
 **abilita:** Percezione +4  
 **attrezzatura:** ascia da battaglia, mazza chiodata  
-**immunita_condizioni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+**immunita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Gigante  
 **grado_sfida:** 4  
@@ -4518,8 +4518,8 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata. Fant
 - carisma: +3
 
 **resistenze:** acido, contundente, freddo, fulmine, fuoco,  
-**immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_danni:** necrotico, veleno, perforante, tagliente, tuono 
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 4  
