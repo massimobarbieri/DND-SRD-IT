@@ -2,7 +2,8 @@
 
 ## Aboleth
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -40,15 +41,12 @@
 L'aboleth può respirare in aria e in acqua.
 
 **Nube di muco**  
-Finché si trova sott'acqua, l'aboleth è circondato da uno strato di muco. Tiro salvezza su Costituzione: CD 14, tutte le creature in un'emanazione di 1,5 metri di cui l'aboleth è il punto di origine, alla fine del turno dell'aboleth. Fallimento: il bersaglio è maledetto. Finché la maledizione perdura, la pelle del bersaglio diventa viscida, il bersaglio può respirare in aria e in acqua e non può recuperare punti ferita finché si trova sott'acqua. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se l'aboleth fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Finché si trova sott'acqua, l'aboleth è circondato da uno strato di muco. *Tiro salvezza su Costituzione:* CD 14, tutte le creature in un'emanazione di 1,5 metri di cui l'aboleth è il punto di origine, alla fine del turno dell'aboleth. *Fallimento:* il bersaglio è maledetto. Finché la maledizione perdura, la pelle del bersaglio diventa viscida, il bersaglio può respirare in aria e in acqua e non può recuperare punti ferita finché si trova sott'acqua. 
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).** Se l'aboleth fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 **Ristoro occulto**  
 Se viene annientato, l'aboleth ottiene un nuovo corpo dopo 5d10 giorni, tornando in vita con tutti i suoi punti ferita nel Reame Remoto o in un altro luogo a scelta del GM.
-
-**Resistenza leggendaria**
-Se l'aboleth fallisce un tiro salvezza, può­scegliere di superarlo comunque.
-**Resistenza leggendaria frequenza**
-3/giorno o 4/giorno nella tana
 
 **Sonda telepatica**  
 Se una creatura che l'aboleth è in grado di vedere comunica telepaticamente con l'aboleth, quest'ultimo apprende i più grandi desideri della creatura. Finché la creatura maledetta si trova fuori da uno specchio d'acqua, subisce 6 (1d12) danni da acido a intervalli di 10 minuti, a meno che la sua pelle non venga inumidita prima che siano trascorsi i 10 minuti.
@@ -59,13 +57,13 @@ Se una creatura che l'aboleth è in grado di vedere comunica telepaticamente con
 L'aboleth effettua due attacchi Tentacolo e usa Consuma ricordi o Domina mente, se disponibili.
 
 **Tentacolo**  
-Tiro per colpire in mischia: +9, portata 4,5 m. Colpito: 12 (2d6 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da uno dei quattro tentacoli. 294 System Reference Document 5.2.1
+*Tiro per colpire in mischia:* +9, portata 4,5 m. *Colpito:* 12 (2d6 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da uno dei quattro tentacoli.
 
 **Consuma ricordi**  
-Tiro salvezza su Intelligenza: CD 16, una creatura entro 9 metri affascinata o afferrata dall'aboleth. Fallimento: 10 (3d6) danni psichici. Successo: danni dimezzati. Fallimento o successo: l'aboleth acquisisce i ricordi del bersaglio se questo è un umanoide e viene ridotto a 0 punti ferita da questa azione.
+*Tiro salvezza su Intelligenza:* CD 16, una creatura entro 9 metri affascinata o afferrata dall'aboleth. *Fallimento:* 10 (3d6) danni psichici. *Successo:* danni dimezzati. *Fallimento o successo:* l'aboleth acquisisce i ricordi del bersaglio se questo è un umanoide e viene ridotto a 0 punti ferita da questa azione.
 
 **Domina mente (2/giorno)**  
-Tiro salvezza su Saggezza: CD 16, una creatura che l'aboleth è in grado di vedere entro 9 metri. Fallimento: la creatura è affascinata finché l'aboleth muore o si sposta su un piano di esistenza diverso da quello del bersaglio. Finché è affascinato, il bersaglio agisce come un alleato dell'aboleth ed è sotto il suo controllo finché si trova entro 18 metri da esso. Inoltre, l'aboleth e il bersaglio possono comunicare telepaticamente tra loro a qualsiasi distanza. Il bersaglio ripete il tiro salvezza ogni volta che subisce danni e ogni volta che trascorre 24 ore ad almeno 1,5 chilometri di distanza dall'aboleth e, se lo supera, l'effetto svanisce.
+*Tiro salvezza su Saggezza:* CD 16, una creatura che l'aboleth è in grado di vedere entro 9 metri. *Fallimento:* la creatura è affascinata finché l'aboleth muore o si sposta su un piano di esistenza diverso da quello del bersaglio. Finché è affascinato, il bersaglio agisce come un alleato dell'aboleth ed è sotto il suo controllo finché si trova entro 18 metri da esso. Inoltre, l'aboleth e il bersaglio possono comunicare telepaticamente tra loro a qualsiasi distanza. Il bersaglio ripete il tiro salvezza ogni volta che subisce danni e ogni volta che trascorre 24 ore ad almeno 1,5 chilometri di distanza dall'aboleth e, se lo supera, l'effetto svanisce.
 
 ### Azioni leggendarie
 
@@ -76,13 +74,14 @@ Subito dopo il turno di un'altra creatura, l'aboleth può consumare un utilizzo 
 Se l'aboleth ha affascinato o afferrato almeno una creatura, utilizza Consuma ricordi e recupera 5 (1d10) punti ferita.
 
 **Sferzata**  
-L'aboleth effettua un attacco Tentacolo. Ameba paglierina
+L'aboleth effettua un attacco Tentacolo.
 
 ---
 
 ## Ameba paglierina
 
-**tipo:** Melma  
+**tipo:** Melma
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 8  
@@ -127,18 +126,19 @@ L'ameba può scalare le superfici difficili, compresi i soffitti, senza effettua
 ### Azioni
 
 **Pseudopode**  
-Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 12 (3d6 + 2) danni da acido.
+*Tiro per colpire in mischia:* +4, portata 1,5 m *Colpito:* 12 (3d6 + 2) danni da acido.
 
 ### Reazioni
 
 **Scindersi**  
-Attivazione: l'ameba, finché è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetta a danni da fulmine o taglienti. Esito: l'ameba paglierina si scinde in due nuove amebe paglierine. Ogni nuova ameba è inferiore di una taglia rispetto all'ameba originale, e agisce di propria iniziativa. I punti ferita dell'ameba originale sono divisi equamente tra le due nuove amebe (arrotondati per difetto). Ankheg
+*Attivazione:* l'ameba, finché è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetta a danni da fulmine o taglienti. *Esito:* l'ameba paglierina si scinde in due nuove amebe paglierine. Ogni nuova ameba è inferiore di una taglia rispetto all'ameba originale, e agisce di propria iniziativa. I punti ferita dell'ameba originale sono divisi equamente tra le due nuove amebe (arrotondati per difetto).
 
 ---
 
 ## Ankheg
 
 **tipo:** Mostruosità  
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -177,16 +177,17 @@ L'ankheg può scavare nella roccia a metà della sua velocità di scavo e lascia
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio è afferrato dall'ankheg), portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti più 3 (1d6) danni da acido. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire).
+*Tiro per colpire in mischia:* +5 (con vantaggio se il bersaglio è afferrato dall'ankheg), portata 1,5 m. *Colpito:* 10 (2d6 + 3) danni taglienti più 3 (1d6) danni da acido. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire).
 
 **Spruzzo acido (ricarica 6)**  
-Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 14 (4d6) danni da acido. Successo: danni dimezzati. Arpia
+*Tiro salvezza su Destrezza:* CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. *Fallimento:* 14 (4d6) danni da acido. *Successo:* danni dimezzati.
 
 ---
 
 ## Arpia
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 11  
@@ -220,13 +221,10 @@ Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri 
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 6 (2d4 + 1) danni taglienti**  
-
+*Tiro per colpire in mischia:* +3, portata 1,5 m. *Colpito:* 6 (2d4 + 1) danni taglienti
 
 **Canto seducente**  
-L'arpia intona un canto melodioso, che dura finché non termina la sua concentrazione su di esso. Tiro salvezza su Saggezza: CD 11, ogni umanoide e gigante in un'emanazione di 90 metri di cui l'arpia è il punto d'origine quando comincia la canzone. Fallimento: il bersaglio è affascinato finché la canzone non finisce e ripete il tiro salvezza al termine di ogni suo turno. Mentre è affascinato, il bersaglio è incapacitato e ignora il Canto seducente delle altre arpie. Se si trova a più di 1,5 metri di distanza dall'arpia, deve muoversi nel proprio turno verso di essa seguendo il percorso più diretto e cercando di giungere entro 1,5 metri. Il bersaglio non evita gli attacchi di opportunità, ma prima di muoversi su un terreno pericoloso (come per esempio un lago di lava o una fossa) e qualora subisca danni da una fonte diversa dall'arpia, ripete il tiro salvezza. Successo: il bersaglio è immune al Canto seducente di questa arpia per 24 ore.
+L'arpia intona un canto melodioso, che dura finché non termina la sua concentrazione su di esso. *Tiro salvezza su Saggezza:* CD 11, ogni umanoide e gigante in un'emanazione di 90 metri di cui l'arpia è il punto d'origine quando comincia la canzone. *Fallimento:* il bersaglio è affascinato finché la canzone non finisce e ripete il tiro salvezza al termine di ogni suo turno. Mentre è affascinato, il bersaglio è incapacitato e ignora il Canto seducente delle altre arpie. Se si trova a più di 1,5 metri di distanza dall'arpia, deve muoversi nel proprio turno verso di essa seguendo il percorso più diretto e cercando di giungere entro 1,5 metri. Il bersaglio non evita gli attacchi di opportunità, ma prima di muoversi su un terreno pericoloso (come per esempio un lago di lava o una fossa) e qualora subisca danni da una fonte diversa dall'arpia, ripete il tiro salvezza. *Successo:* il bersaglio è immune al Canto seducente di questa arpia per 24 ore.
 
 ---
 
@@ -234,6 +232,9 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 
 **gruppo:** Artiglio strisciante  
 **tipo:** Sciame  
+**dimensione:** Medio
+**sottotipo:** non morti
+**sottodimensione:** Minuscoli
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 12  
@@ -259,8 +260,7 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato, avvelenato, incapacitato, indebolimento, paralizzato,
-pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizione:** affascinato, afferrato, avvelenato, incapacitato, indebolimento, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 9 m  
 **lingue:** capisce il Comune ma non lo parla  
 **grado_sfida:** 3  
@@ -276,7 +276,7 @@ L'orda può occupare lo spazio di un'altra creatura e viceversa, e può muoversi
 ### Azioni
 
 **Orda di mani afferranti**  
-Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 20 (4d8 + 2) danni necrotici, o 11 (2d8 + 2) danni necrotici se l'orda è sanguinante. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono. Assassino
+*Tiro per colpire in mischia:* +4, portata 1,5 m. *Colpito:* 20 (4d8 + 2) danni necrotici, o 11 (2d8 + 2) danni necrotici se l'orda è sanguinante. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono. 
 
 ---
 
