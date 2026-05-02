@@ -3917,7 +3917,7 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 **immunita_danni:** veleno  
 **immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
-**lingue:** Abissale; telepatia 18 m (funziona solo con  
+**lingue:** Abissale; telepatia 18 m (funziona solo le creature che capiscono l'Abissale) 
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -4307,9 +4307,7 @@ L'erinni possiede una corda magica. Finché la porta con sé, può usare l'azion
 L'erinni dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se l'erinni muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo ed essa ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
+Se l'erinni muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo ed essa ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi
 
 
 ### Azioni
