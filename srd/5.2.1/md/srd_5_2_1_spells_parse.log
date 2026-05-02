@@ -1,0 +1,50 @@
+SRD 5.2.1 SPELLS PARSE LOG
+
+Source PDF: 121_PDFsam_IT_SRD_CC_v5.2.1.pdf
+Spells detected: 339
+
+Summary counts:
+- bullet_list_content: 8
+- embedded_block: 4
+- singular_component_field: 12
+- slash_title: 3
+- table_like_content: 2
+
+Global notes:
+- The parser starts immediately after the line "Descrizioni degli incantesimi".
+- Page headers/footers were removed during extraction.
+- Two-column ordering was reconstructed page-by-page (left column, then right column).
+- Hyphenated line-wraps were normalized conservatively during paragraph joining.
+- Embedded summoned/stat blocks were preserved as raw fenced text under an explicit subsection when detected.
+- Table-like content was preserved in raw fenced text when strongly detected; other complex layouts may still need review.
+
+Spell-specific flags:
+[EMBEDDED_BLOCK] Animare oggetti: embedded summoned/stat block begins at "Oggetto animato" #DONE
+[SLASH_TITLE] Antipatia/simpatia: verify title normalization / downstream IDs
+[BULLET_LIST_CONTENT] Calmare emozioni: contains bullet list content
+[SLASH_TITLE] Cecità/sordità: verify title normalization / downstream IDs
+[BULLET_LIST_CONTENT] Cerchio magico: contains bullet list content
+[BULLET_LIST_CONTENT] Comunione con la natura: contains bullet list content
+[SINGULAR_COMPONENT_FIELD] Contagio: source uses "Componente:"
+[TABLE_LIKE_CONTENT] Controllare acqua: contains probable table or matrix content
+[SINGULAR_COMPONENT_FIELD] Guida: source uses "Componente:"
+[SLASH_TITLE] Ingrandire/ridurre: verify title normalization / downstream IDs
+[EMBEDDED_BLOCK] Insetto gigante: embedded summoned/stat block begins at "Insetto gigante"
+[SINGULAR_COMPONENT_FIELD] Parola del potere guarire: source uses "Componente:"
+[SINGULAR_COMPONENT_FIELD] Parola del potere uccidere: source uses "Componente:"
+[SINGULAR_COMPONENT_FIELD] Pelle coriacea: source uses "Componente:"
+[SINGULAR_COMPONENT_FIELD] Punizione divina: source uses "Componente:"
+[SINGULAR_COMPONENT_FIELD] Punizione incandescente: source uses "Componente:"
+[SINGULAR_COMPONENT_FIELD] Punizione splendente: source uses "Componente:"
+[SINGULAR_COMPONENT_FIELD] Resistenza: source uses "Componente:"
+[EMBEDDED_BLOCK] Richiama drago: embedded summoned/stat block begins at "Spirito draconico"
+[BULLET_LIST_CONTENT] Ristorare superiore: contains bullet list content
+[SINGULAR_COMPONENT_FIELD] Salto: source uses "Componente:"
+[BULLET_LIST_CONTENT] Santuario privato: contains bullet list content
+[BULLET_LIST_CONTENT] Scagliare maledizione: contains bullet list content
+[SINGULAR_COMPONENT_FIELD] Stregoneria esplosiva: source uses "Componente:"
+[TABLE_LIKE_CONTENT] Teletrasporto: contains probable table or matrix content
+[BULLET_LIST_CONTENT] Teletrasporto: contains bullet list content
+[SINGULAR_COMPONENT_FIELD] Trova cavalcatura: source uses "Componente:"
+[EMBEDDED_BLOCK] Trova cavalcatura: embedded summoned/stat block begins at "Cavalcatura ultraterrena" #DONE
+[BULLET_LIST_CONTENT] Vigilanza e interdizione: contains bullet list content
