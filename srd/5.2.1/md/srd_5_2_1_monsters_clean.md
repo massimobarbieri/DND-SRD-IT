@@ -134,13 +134,14 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 12 (3d6 + 2) danni da ac
 ### Reazioni
 
 **Scindersi**  
-Attivazione: l'ameba, finché è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetta a danni da fulmine o taglienti. Esito: l'ameba paglierina si scinde in due nuove amebe paglierine. Ogni nuova ameba è inferiore di una taglia rispetto all'ameba originale, e agisce di propria iniziativa. I punti ferita dell'ameba originale sono divisi equamente tra le due nuove amebe (arrotondati per difetto). Ankheg
+Attivazione: l'ameba, finché è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetta a danni da fulmine o taglienti. Esito: l'ameba paglierina si scinde in due nuove amebe paglierine. Ogni nuova ameba è inferiore di una taglia rispetto all'ameba originale, e agisce di propria iniziativa. I punti ferita dell'ameba originale sono divisi equamente tra le due nuove amebe (arrotondati per difetto).
 
 ---
 
 ## Ankheg
 
 **tipo:** Mostruosità  
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
