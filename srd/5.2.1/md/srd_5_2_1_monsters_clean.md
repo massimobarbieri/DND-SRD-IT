@@ -183,13 +183,14 @@ L'ankheg può scavare nella roccia a metà della sua velocità di scavo e lascia
 Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio è afferrato dall'ankheg), portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti più 3 (1d6) danni da acido. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire).
 
 **Spruzzo acido (ricarica 6)**  
-Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 14 (4d6) danni da acido. Successo: danni dimezzati. Arpia
+Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 14 (4d6) danni da acido. Successo: danni dimezzati.
 
 ---
 
 ## Arpia
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 11  
@@ -223,13 +224,10 @@ Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri 
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 6 (2d4 + 1) danni taglienti**  
-
+*Tiro per colpire in mischia:* +3, portata 1,5 m. *Colpito:* 6 (2d4 + 1) danni taglienti
 
 **Canto seducente**  
-L'arpia intona un canto melodioso, che dura finché non termina la sua concentrazione su di esso. Tiro salvezza su Saggezza: CD 11, ogni umanoide e gigante in un'emanazione di 90 metri di cui l'arpia è il punto d'origine quando comincia la canzone. Fallimento: il bersaglio è affascinato finché la canzone non finisce e ripete il tiro salvezza al termine di ogni suo turno. Mentre è affascinato, il bersaglio è incapacitato e ignora il Canto seducente delle altre arpie. Se si trova a più di 1,5 metri di distanza dall'arpia, deve muoversi nel proprio turno verso di essa seguendo il percorso più diretto e cercando di giungere entro 1,5 metri. Il bersaglio non evita gli attacchi di opportunità, ma prima di muoversi su un terreno pericoloso (come per esempio un lago di lava o una fossa) e qualora subisca danni da una fonte diversa dall'arpia, ripete il tiro salvezza. Successo: il bersaglio è immune al Canto seducente di questa arpia per 24 ore.
+L'arpia intona un canto melodioso, che dura finché non termina la sua concentrazione su di esso. *Tiro salvezza su Saggezza:* CD 11, ogni umanoide e gigante in un'emanazione di 90 metri di cui l'arpia è il punto d'origine quando comincia la canzone. *Fallimento:* il bersaglio è affascinato finché la canzone non finisce e ripete il tiro salvezza al termine di ogni suo turno. Mentre è affascinato, il bersaglio è incapacitato e ignora il Canto seducente delle altre arpie. Se si trova a più di 1,5 metri di distanza dall'arpia, deve muoversi nel proprio turno verso di essa seguendo il percorso più diretto e cercando di giungere entro 1,5 metri. Il bersaglio non evita gli attacchi di opportunità, ma prima di muoversi su un terreno pericoloso (come per esempio un lago di lava o una fossa) e qualora subisca danni da una fonte diversa dall'arpia, ripete il tiro salvezza. *Successo:* il bersaglio è immune al Canto seducente di questa arpia per 24 ore.
 
 ---
 
