@@ -1113,7 +1113,7 @@ Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore 
 - carisma: -2
 
 **abilita:** Furtività +4, Percezione +5  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi,  
+**immunita_danni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito 
 **sensi:** Percezione passiva 15; scurovisione 36 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
