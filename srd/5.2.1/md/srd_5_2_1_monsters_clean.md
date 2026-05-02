@@ -2,7 +2,8 @@
 
 ## Aboleth
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Enorme
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
