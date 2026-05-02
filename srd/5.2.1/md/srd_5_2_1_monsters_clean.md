@@ -1780,6 +1780,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 3 (1d4 + 1) danni taglie
 
 ## Cultista fanatico
 
+**gruppo:** Cultisti  
 **tipo:** Umanoide  
 **allineamento:** neutrale  
 
@@ -1977,7 +1978,7 @@ Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzan
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato, spaventato  
-**sensi:** Percezione passiva 10; scurovisione 36 m (non  
+**sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
