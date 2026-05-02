@@ -3,7 +3,7 @@
 ## Aboleth
 
 **tipo:** Aberrazione
-**dimensione:** Enorme
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -83,7 +83,8 @@ L'aboleth effettua un attacco Tentacolo.
 
 ## Ameba paglierina
 
-**tipo:** Melma  
+**tipo:** Melma
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 8  
