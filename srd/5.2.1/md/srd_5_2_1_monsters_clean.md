@@ -806,6 +806,7 @@ Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 6 (1d10 + 1) danni p
 
 ## Capo dei bruti
 
+**gruppo:** Bruti  
 **tipo:** Umanoide  
 **allineamento:** neutrale  
 
@@ -830,7 +831,7 @@ Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 6 (1d10 + 1) danni p
 - saggezza: +0
 - carisma: +2
 
-**attrezzatura:** balestra pesante, cotta di maglia, martello da  
+**attrezzatura:** balestra pesante, cotta di maglia, martello da guerra 
 **sensi:** Percezione passiva 10  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 4  
