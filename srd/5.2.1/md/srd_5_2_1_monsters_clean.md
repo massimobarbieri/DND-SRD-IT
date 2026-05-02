@@ -230,10 +230,6 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 
 ---
 
-## Artiglio strisciante
-
----
-
 ## Orda di artigli striscianti
 
 **gruppo:** Artiglio strisciante  
@@ -263,7 +259,8 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_condizione:** affascinato, afferrato, avvelenato, incapacitato, indebolimento, paralizzato,
+pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 9 m  
 **lingue:** capisce il Comune ma non lo parla  
 **grado_sfida:** 3  
@@ -509,6 +506,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni tagli
 
 ## Capo dei banditi
 
+**gruppo:** Banditi  
 **tipo:** Umanoide  
 **allineamento:** neutrale  
 

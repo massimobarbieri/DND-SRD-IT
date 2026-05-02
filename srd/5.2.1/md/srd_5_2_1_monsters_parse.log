@@ -8,9 +8,9 @@ Totale mostri estratti: 288
 #DONE Ameba paglierina (pagine 1-2): header_continuation_o_parse_da_verificare - assordato, indebolimento, prono, spaventato, trattenuto
 #DONE Ankheg (pagine 2-2): header_continuation_o_parse_da_verificare - scurovisione 18 m
 #DONE Arpia (pagine 2-2): header_continuation_o_parse_da_verificare - 295 System Reference Document 5.2.1
-- Orda di artigli striscianti (pagine 2-3): gruppo_header - Artiglio strisciante
-- Orda di artigli striscianti (pagine 2-3): header_continuation_o_parse_da_verificare - avvelenato, incapacitato, indebolimento, paralizzato,
-- Orda di artigli striscianti (pagine 2-3): header_continuation_o_parse_da_verificare - pietrificato, prono, spaventato, stordito, trattenuto
+#DONE Orda di artigli striscianti (pagine 2-3): gruppo_header - Artiglio strisciante
+#DONE Orda di artigli striscianti (pagine 2-3): header_continuation_o_parse_da_verificare - avvelenato, incapacitato, indebolimento, paralizzato,
+#DONE Orda di artigli striscianti (pagine 2-3): header_continuation_o_parse_da_verificare - pietrificato, prono, spaventato, stordito, trattenuto
 #DONE Assassino (pagine 3-3): header_continuation_o_parse_da_verificare - leggera, spada corta
 - Azer sentinella (pagine 3-3): gruppo_header - Azer
 - Balor (pagine 3-4): header_continuation_o_parse_da_verificare - spaventato
