@@ -1270,7 +1270,7 @@ Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre
 
 **immunita_danni:** fuoco  
 **sensi:** Percezione passiva 11  
-**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non  
+**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non li parla 
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
 **bonus_competenza:** +2  
