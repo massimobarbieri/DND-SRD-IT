@@ -1762,6 +1762,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 3 (1d4 + 1) danni taglie
 
 ## Cultista fanatico
 
+**gruppo:** Cultisti
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -1963,7 +1964,7 @@ Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzan
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato, spaventato  
-**sensi:** Percezione passiva 10; scurovisione 36 m (non  
+**sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
@@ -2051,7 +2052,8 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di ve
 
 ## Diavolo del ghiaccio
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 18  
@@ -2079,7 +2081,7 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di ve
 **immunita_danni:** freddo, fuoco, veleno  
 **immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 17; vista cieca 36 m  
-**lingue:** Infernale; telepatia 36 m  
+**lingue:** Infernale; telepatia 36 m 
 **grado_sfida:** 14  
 **punti_esperienza:** PE 11.500  
 **bonus_competenza:** +5  
@@ -2088,21 +2090,15 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di ve
 ### Tratti
 
 **Resistenza alla magia**  
-Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici. 307 System Reference Document 5.2.1
+Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
 **Multiattacco**  
-Il diavolo effettua tre attacchi Lancia di ghiaccio. Può sostituire un attacco con un attacco
-
-**Coda**  
-
+Il diavolo effettua tre attacchi Lancia di ghiaccio. Può sostituire un attacco con un attacco Coda.
 
 **Coda**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (3d6 + 5) danni contundenti più 18 (4d8) danni da freddo.
@@ -2111,16 +2107,17 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (3d6 + 5) danni contu
 Tiro per colpire in mischia o a distanza: +10, portata 1,5 m o gittata 9/36 m. Colpito: 14 (2d8 + 5) danni perforanti più 10 (3d6) danni da freddo. Fino al termine del proprio turno successivo, il bersaglio non può effettuare un'azione bonus o una reazione, la sua velocità è ridotta di 3 metri e durante il suo turno può muoversi o effettuare un'azione, ma non entrambe le cose. Colpito o mancato: la lancia fa magicamente ritorno nella mano del diavolo subito dopo un attacco a distanza.
 
 **Muro di ghiaccio (ricarica 6)**  
-Il diavolo lancia muro di ghiaccio (di 8º livello), senza bisogno di componenti e utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17). Diavolo della fossa
+Il diavolo lancia muro di ghiaccio (di 8º livello), senza bisogno di componenti e utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17).
 
 ---
 
 ## Diavolo della fossa
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
-**classe_armatura:** 21  
+**classe_armatura:** 21
 **iniziativa:** +14 (24)  
 **punti_ferita:** 337 (27d10 + 189)  
 **velocita:** 9 m, volo 18 m  
@@ -2164,18 +2161,12 @@ Il diavolo della fossa dispone di vantaggio ai tiri salvezza contro incantesimi 
 Se il diavolo della fossa fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 **Ristoro diabolico**  
-Se il diavolo della fossa muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei
-
-**Nove Inferi**  
-
+Se il diavolo della fossa muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
 **Multiattacco**  
-Il diavolo della fossa effettua un attacco Morso, due attacchi Artiglio diabolico e un attacco
-
-**Mazza fiammeggiante**  
-
+Il diavolo della fossa effettua un attacco Morso, due attacchi Artiglio diabolico e un attacco Mazza fiammeggiante.
 
 **Artiglio diabolico**  
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 26 (4d8 + 8) danni necrotici.
@@ -2184,22 +2175,17 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 26 (4d8 + 8) danni necro
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 22 (4d6 + 8) danni da forza più 21 (6d6) danni da fuoco.
 
 **Morso**  
-Tiro per colpire in mischia: +14, portata 3 m.
-
-**Colpito: 18 (3d6 + 8) danni perforanti**  
-Se il bersaglio è una creatura, deve effettuare il seguente tiro salvezza.
-
-**Tiro salvezza su Costituzione: CD 21**  
-Fallimento: il bersaglio viene avvelenato. Finché è avvelenato, il bersaglio non può recuperare punti ferita e subisce 21 (6d6) danni da veleno all'inizio di ogni suo turno; il bersaglio ripete il tiro salvezza al termine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, la prova viene superata automaticamente.
+Tiro per colpire in mischia: +14, portata 3 m. *Colpito:* 18 (3d6 + 8) danni perforanti. Se il bersaglio è una creatura, deve effettuare il seguente tiro salvezza. Tiro salvezza su Costituzione: CD 21. Fallimento: il bersaglio viene avvelenato. Finché è avvelenato, il bersaglio non può recuperare punti ferita e subisce 21 (6d6) danni da veleno all'inizio di ogni suo turno; il bersaglio ripete il tiro salvezza al termine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, la prova viene superata automaticamente.
 
 **Incantesimi del fuoco infernale (ricarica 4-6)**  
-Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21). Può sostituire un incantesimo palla di fuoco con blocca mostri (di 7º livello) o con muro di fuoco. Diavolo delle catene
+Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21). Può sostituire un incantesimo palla di fuoco con blocca mostri (di 7º livello) o con muro di fuoco.
 
 ---
 
 ## Diavolo delle catene
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -2226,7 +2212,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 **resistenze:** contundente, freddo, perforante, tagliente  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 11; scurovisione 36 m (non  
+**sensi:** Percezione passiva 11; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 8  
 **punti_esperienza:** PE 3.900  
@@ -2239,10 +2225,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -2250,10 +2233,7 @@ Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fum
 Il diavolo effettua due attacchi Catena e utilizza Evoca catena infernale.
 
 **Catena**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni taglienti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due catene, e resta trattenuto finché la presa perdura.
+Tiro per colpire in mischia: +7, portata 3 m. *Colpito:* 11 (2d6 + 4) danni taglienti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due catene, e resta trattenuto finché la presa perdura.
 
 **Evoca catena infernale**  
 Il diavolo evoca una catena di fuoco per legare una creatura. Tiro salvezza su Destrezza: CD 15, una creatura che il diavolo è in grado di vedere entro 18 metri. Fallimento: 9 (2d4 + 4) danni da fuoco, e il bersaglio è trattenuto fino alla fine del turno successivo del diavolo; a quel punto la catena scompare. Se il bersaglio è di taglia Grande o inferiore, il diavolo lo trascina in linea retta verso di sé fino a un massimo di 9 metri. Successo: La catena svanisce.
@@ -2261,13 +2241,14 @@ Il diavolo evoca una catena di fuoco per legare una creatura. Tiro salvezza su D
 ### Reazioni
 
 **Sguardo snervante**  
-Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo turno entro 9 metri da quest'ultimo e può vedere il diavolo. Esito - Tiro salvezza su Saggezza: CD 15, la creatura che ha provocato la reazione. Fallimento: il bersaglio è spaventato fino al termine del proprio turno successivo. Successo: il bersaglio è immune allo Sguardo snervante di questo diavolo per 24 ore. Diavolo d'ossa
+Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo turno entro 9 metri da quest'ultimo e può vedere il diavolo. Esito - Tiro salvezza su Saggezza: CD 15, la creatura che ha provocato la reazione. Fallimento: il bersaglio è spaventato fino al termine del proprio turno successivo. Successo: il bersaglio è immune allo Sguardo snervante di questo diavolo per 24 ore.
 
 ---
 
 ## Diavolo d'ossa
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 16  
@@ -2295,7 +2276,7 @@ Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo tur
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 12; scurovisione 36 m (non  
+**sensi:** Percezione passiva 12; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 9  
 **punti_esperienza:** PE 5.000  
@@ -2308,10 +2289,7 @@ Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo tur
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -2319,19 +2297,18 @@ Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fum
 Il diavolo effettua due attacchi Artiglio e un attacco Pungiglione infernale.
 
 **Artiglio**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 13 (2d8 + 4) danni taglienti**  
+Tiro per colpire in mischia: +8, portata 3 m. *Colpito:* 13 (2d8 + 4) danni taglienti.
 
 
 **Pungiglione infernale**  
-Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perforanti più 18 (4d8) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo del diavolo. Finché è avvelenato, il bersaglio non può recuperare punti ferita. Diavolo uncinato
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perforanti più 18 (4d8) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo del diavolo. Finché è avvelenato, il bersaglio non può recuperare punti ferita.
 
 ---
 
 ## Diavolo uncinato
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -2359,7 +2336,7 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perfo
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 18; scurovisione 36 m (non  
+**sensi:** Percezione passiva 18; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
@@ -2369,16 +2346,13 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perfo
 ### Tratti
 
 **Pelle uncinata**  
-All'inizio di ogni suo turno, il diavolo infligge 5 (1d10) danni perforanti a tutte le creature che afferra o a qualsiasi creatura lo afferri. 309 System Reference Document 5.2.1
+All'inizio di ogni suo turno, il diavolo infligge 5 (1d10) danni perforanti a tutte le creature che afferra o a qualsiasi creatura lo afferri.
 
 **Resistenza alla magia**  
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -2386,31 +2360,27 @@ Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fum
 Il diavolo effettua un attacco Artigli e un attacco Coda, o effettua due attacchi Scagliare fiamma.
 
 **Artigli**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 10 (2d6 + 3) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da entrambi gli artigli.
+Tiro per colpire in mischia: +6, portata 1,5 m. *Colpito:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da entrambi gli artigli.
 
 **Coda**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 14 (2d10 + 3) danni taglienti**  
+Tiro per colpire in mischia: +6, portata 3 m. *Colpito:* 14 (2d10 + 3) danni taglienti.
 
 
 **Scagliare fiamma**  
-Tiro per colpire a distanza: +5, gittata 45 m. Colpito: 17 (5d6) danni da fuoco. Se il bersaglio è un oggetto infiammabile che non è indossato o trasportato, inizia a bruciare. Djinni
+Tiro per colpire a distanza: +5, gittata 45 m. Colpito: 17 (5d6) danni da fuoco. Se il bersaglio è un oggetto infiammabile che non è indossato o trasportato, inizia a bruciare.
 
 ---
 
 ## Djinni
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
 **punti_ferita:** 218 (19d10 + 114)  
-**velocita:** 9 m, volo 27 m (fluttuare)  
+**velocita:** 9 m, volo 27 m (fluttuare)
 
 **caratteristiche:**
 - forza: 21 (+5)
@@ -2462,13 +2432,17 @@ Tiro per colpire a distanza: +9, gittata 36 m. Colpito: 13 (3d8) danni da tuono.
 Il djinni evoca un vortice in un punto che è in grado di vedere entro 36 metri. Il vortice riempie un cilindro del raggio di 6 metri e alto 18 metri, centrato su quel punto, e perdura fino al termine della concentrazione del djinni su di esso. Il djinni può spostare il vortice fino a 6 metri all'inizio di ogni suo turno. Ogni volta che il vortice entra nello spazio di una creatura o una creatura entro nello spazio del vortice, la creatura è soggetta al seguente effetto. Tiro salvezza su Forza: CD 17 (una creatura effettua questo tiro salvezza solo una volta per turno, e il djinni non subisce alcun effetto). Fallimento: Finché si trova nel vortice, il bersaglio è trattenuto e si sposta insieme al vortice. All'inizio di ogni suo turno, il bersaglio trattenuto subisce 21 (6d6) danni da tuono. Alla fine di ogni suo turno, il bersaglio ripete il tiro salvezza e, se lo supera, l'effetto svanisce.
 
 **Incantesimi**  
-Il djinni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: creazione, forma gassosa, immagine maggiore, invisibilità, spostamento planare 2/giorno ciascuno: Camminare nel vento, creare cibo e acqua (è in grado di creare vino invece di acqua), linguaggi A volontà: individuazione del bene e del male, individuazione del magico Doppelganger
+Il djinni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
+1/giorno ciascuno: creazione, forma gassosa, immagine maggiore, invisibilità, spostamento planare 
+2/giorno ciascuno: Camminare nel vento, creare cibo e acqua (è in grado di creare vino invece di acqua), linguaggi 
+A volontà: individuazione del bene e del male, individuazione del magico
 
 ---
 
 ## Doppelganger
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -2504,10 +2478,7 @@ Il djinni lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 ### Azioni
 
 **Multiattacco**  
-Il doppelganger effettua due attacchi
-
-**Schianto e usa Sembianze inquietanti**  
-
+Il doppelganger effettua due attacchi Schianto e usa Sembianze inquietanti.
 
 **Schianto**  
 Tiro per colpire in mischia: +6 (con vantaggio durante il primo round di ogni combattimento), portata 1,5 m. Colpito: 11 (2d6 + 4) danni contundenti.
@@ -2526,7 +2497,6 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 ---
 
 ## Draghi bianchi
-
 
 **classe_armatura:** 16  
 **iniziativa:** +2 (12)  
