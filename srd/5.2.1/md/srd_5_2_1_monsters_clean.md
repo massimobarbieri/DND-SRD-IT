@@ -6157,105 +6157,334 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perfor
 
 ---
 
-# Gigante del fuoco
-Gigante del fuoco Gigante Enorme, legale malvagio CA 18 Iniziativa +3 (13) PF 162 (13d12 + 78) Velocità 9 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 9 -1 +3 Cos 23 +6 +10 Int 10 +0 +0 Sag 14 +2 +2 Car 13 +1 +5 Abilità Atletica +11, Percezione +6 Immunità fuoco Sensi Percezione passiva 16 Lingue Gigante
+## Gigante del fuoco
 
-**GS 9 (PE 5**  
-000; BC +4)
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
+**allineamento:** legale malvagio  
+
+**classe_armatura:** 18  
+**iniziativa:** +3 (13)  
+**punti_ferita:** 162 (13d12 + 78)  
+**velocita:** 9 m  
+
+**caratteristiche:**
+- forza: 25 (+7)
+- destrezza: 9 (-1)
+- costituzione: 23 (+6)
+- intelligenza: 10 (+0)
+- saggezza: 14 (+2)
+- carisma: 13 (+1)
+
+**tiri_salvezza_base:**
+- forza: +7
+- destrezza: +3
+- costituzione: +10
+- intelligenza: +0
+- saggezza: +2
+- carisma: +5
+
+**abilita:** Atletica +11, Percezione +6  
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 16  
+**lingue:** Gigante  
+**grado_sfida:** 9  
+**punti_esperienza:** PE 5.000  
+**bonus_competenza:** +4  
+**grado_sfida_raw:** 9 (PE 5.000; BC +4)  
+
+### Azioni
 
 **Multiattacco**  
 Il gigante effettua due attacchi, usando Spada di fiamme o Lancio di martello in qualsiasi combinazione.
 
 **Spada di fiamme**  
-Tiro per colpire in mischia: +11, portata 3 m. Colpito: 21 (4d6 + 7) danni taglienti più 10 (3d6) danni da fuoco.
+*Tiro per colpire in mischia:* +11, portata 3 m. *Colpito:* 21 (4d6 + 7) danni taglienti più 10 (3d6) danni da fuoco.
 
 **Lancio di martello**  
-Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni contundenti più 4 (1d8) danni da fuoco, il bersaglio viene spinto in linea retta fino a un massimo di 4,5 metri di distanza dal gigante, e subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo. Gigante del gelo Gigante del gelo Gigante Enorme, neutrale malvagio CA 15 Iniziativa +2 (12) PF 149 (13d12 + 65) Velocità 12 m 337 System Reference Document 5.2.1 MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 9 -1 -1 Cos 21 +5 +8 Int 9 -1 -1 Sag 10 +0 +3 Car 12 +1 +4 Abilità Atletica +9, Percezione +3 Immunità freddo Sensi Percezione passiva 13 Lingue Gigante
+*Tiro per colpire a distanza:* +11, portata 18/72 m. *Colpito:* 23 (3d10 + 7) danni contundenti più 4 (1d8) danni da fuoco, il bersaglio viene spinto in linea retta fino a un massimo di 4,5 metri di distanza dal gigante, e subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo.
 
-**GS 8 (PE 3**  
-900; BC +3)
+---
+
+## Gigante del gelo
+
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
+**allineamento:** neutrale malvagio  
+
+**classe_armatura:** 15  
+**iniziativa:** +2 (12)  
+**punti_ferita:** 149 (13d12 + 65)  
+**velocita:** 12 m  
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 9 (-1)
+- costituzione: 21 (+5)
+- intelligenza: 9 (-1)
+- saggezza: 10 (+0)
+- carisma: 12 (+1)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: -1
+- costituzione: +8
+- intelligenza: -1
+- saggezza: +3
+- carisma: +4
+
+**abilita:** Atletica +9, Percezione +3  
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 13  
+**lingue:** Gigante  
+**grado_sfida:** 8  
+**punti_esperienza:** PE 3.900  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 8 (PE 3.900; BC +3)  
+
+### Azioni
 
 **Multiattacco**  
 Il gigante effettua due attacchi, usando Ascia del gelo o Grande arco in qualsiasi combinazione.
 
 **Ascia del gelo**  
-Tiro per colpire in mischia: +9, portata 3 m. Colpito: 19 (2d12 + 6) danni taglienti più 9 (2d8) danni da freddo.
+*Tiro per colpire in mischia:* +9, portata 3 m. *Colpito:* 19 (2d12 + 6) danni taglienti più 9 (2d8) danni da freddo.
 
 **Grande arco**  
-Tiro per colpire a distanza: +9, gittata 45/180 m. Colpito: 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da freddo, e la velocità del bersaglio è ridotta di 3 metri fino al termine del proprio turno successivo.
+*Tiro per colpire a distanza:* +9, gittata 45/180 m. *Colpito:* 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da freddo, e la velocità del bersaglio è ridotta di 3 metri fino al termine del proprio turno successivo.
+
+### Azioni bonus
+
+**Grido di battaglia (ricarica 5-6)**  
+Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di sentire ottiene 16 (2d10 + 5) punti ferita temporanei e dispone di vantaggio ai tiri per colpire fino all'inizio del turno successivo del gigante.
+
+---
+
+## Gigante delle colline
+
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
+**allineamento:** caotico malvagio  
+
+**classe_armatura:** 13  
+**iniziativa:** +2 (12)  
+**punti_ferita:** 105 (10d12 + 40)  
+**velocita:** 12 m  
+
+**caratteristiche:**
+- forza: 21 (+5)
+- destrezza: 8 (-1)
+- costituzione: 19 (+4)
+- intelligenza: 5 (-3)
+- saggezza: 9 (-1)
+- carisma: 6 (-2)
+
+**tiri_salvezza_base:**
+- forza: +5
+- destrezza: -1
+- costituzione: +4
+- intelligenza: -3
+- saggezza: -1
+- carisma: -2
+
+**abilita:** Percezione +2  
+**sensi:** Percezione passiva 12  
+**lingue:** Gigante  
+**grado_sfida:** 5  
+**punti_esperienza:** PE 1.800  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 5 (PE 1.800; BC +3)  
+
+### Azioni
 
 **Multiattacco**  
 Il gigante effettua due attacchi, utilizzando Tronco d'albero o Lancio di rifiuti in qualsiasi combinazione.
 
 **Tronco d'albero**  
-Tiro per colpire in mischia: +8, portata 3 m. Colpito: 18 (3d8 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+*Tiro per colpire in mischia:* +8, portata 3 m. *Colpito:* 18 (3d8 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Lancio di rifiuti**  
-Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni contundenti, e il bersaglio è avvelenato fino al termine del proprio turno successivo. Gigante delle nuvole Gigante delle nuvole Gigante Enorme, neutrale CA 14 Iniziativa +4 (14) PF 200 (16d12 + 96) Velocità 12 m, volo 6 m (fluttuare) MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 10 +0 +0 Cos 22 +6 +10 Int 12 +1 +1 Sag 16 +3 +7 Car 16 +3 +3 Abilità Intuizione +7, Percezione +11 Sensi percezione passiva 21 Lingue Comune, Gigante
+*Tiro per colpire a distanza:* +8, gittata 18/72 m. *Colpito:* 16 (2d10 + 5) danni contundenti, e il bersaglio è avvelenato fino al termine del proprio turno successivo.
 
-**GS 9 (PE 5**  
-000; BC +4)
+---
+
+## Gigante delle nuvole
+
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
+**allineamento:** neutrale  
+
+**classe_armatura:** 14  
+**iniziativa:** +4 (14)  
+**punti_ferita:** 200 (16d12 + 96)  
+**velocita:** 12 m, volo 6 m (fluttuare)  
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 10 (+0)
+- costituzione: 22 (+6)
+- intelligenza: 12 (+1)
+- saggezza: 16 (+3)
+- carisma: 16 (+3)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +0
+- costituzione: +10
+- intelligenza: +1
+- saggezza: +7
+- carisma: +3
+
+**abilita:** Intuizione +7, Percezione +11  
+**sensi:** Percezione passiva 21  
+**lingue:** Comune, Gigante  
+**grado_sfida:** 9  
+**punti_esperienza:** PE 5.000  
+**bonus_competenza:** +4  
+**grado_sfida_raw:** 9 (PE 5.000; BC +4)  
+
+### Azioni
 
 **Multiattacco**  
 Il gigante effettua due attacchi, utilizzando Mazza tonante o Nuvola di tuoni in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare nube di nebbia.
 
 **Mazza tonante**  
-Tiro per colpire in mischia: +12, portata 3 m. Colpito: 21 (3d8 + 8) danni contundenti più 7 (2d6) danni da tuono.
+*Tiro per colpire in mischia:* +12, portata 3 m. *Colpito:* 21 (3d8 + 8) danni contundenti più 7 (2d6) danni da tuono.
 
 **Nuvola di tuoni**  
-Tiro per colpire a distanza: +12, gittata 72 m. Colpito: 18 (3d6 + 8) danni da tuono, e il bersaglio è incapacitato fino al termine del proprio turno successivo.
+*Tiro per colpire a distanza:* +12, gittata 72 m. *Colpito:* 18 (3d6 + 8) danni da tuono, e il bersaglio è incapacitato fino al termine del proprio turno successivo.
 
 **Incantesimi**  
-Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15): 1/giorno ciascuno: Controllare tempo atmosferico, forma gassosa, telecinesi A volontà: Individuazione del magico, luce, nube di nebbia
+Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15):  
+1/giorno ciascuno: Controllare tempo atmosferico, forma gassosa, telecinesi  
+A volontà: Individuazione del magico, luce, nube di nebbia
+
+### Azioni bonus
+
+**Passo velato**  
+Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
+
+---
+
+## Gigante delle pietre
+
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
+**allineamento:** neutrale  
+
+**classe_armatura:** 17  
+**iniziativa:** +5 (15)  
+**punti_ferita:** 126 (11d12 + 55)  
+**velocita:** 12 m  
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 15 (+2)
+- costituzione: 20 (+5)
+- intelligenza: 10 (+0)
+- saggezza: 12 (+1)
+- carisma: 9 (-1)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +5
+- costituzione: +8
+- intelligenza: +0
+- saggezza: +4
+- carisma: -1
+
+**abilita:** Atletica +12, Furtività +5, Percezione +4  
+**sensi:** Percezione passiva 14; scurovisione 18 m  
+**lingue:** Gigante  
+**grado_sfida:** 7  
+**punti_esperienza:** PE 2.900  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 7 (PE 2.900; BC +3)  
+
+### Azioni
 
 **Multiattacco**  
 Il gigante effettua due attacchi, usando Randello di pietra o Macigno in qualsiasi combinazione.
 
 **Randello di pietra**  
-Tiro per colpire in mischia: +9, portata 4,5 m. Colpito: 22 (3d10 + 6) danni contundenti.
+*Tiro per colpire in mischia:* +9, portata 4,5 m. *Colpito:* 22 (3d10 + 6) danni contundenti.
 
 **Macigno**  
-Tiro per colpire a distanza: +9, gittata 18/72 m. Colpito: 15 (2d8 + 6) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
-
-**Multiattacco**  
-Il gigante effettua due attacchi, usando
-
-**Spada tempestosa o Saetta in qualsiasi combinazione**  
-
-
-**Spada tempestosa**  
-Tiro per colpire in mischia: +14, portata 3 m. Colpito: 23 (4d6 + 9) danni taglienti più 13 (3d8) danni da fulmine.
-
-**Saetta**  
-Tiro per colpire a distanza: +14, gittata 150 m. Colpito: 22 (2d12 + 9) danni da fulmine, e il bersaglio è accecato e assordato fino all'inizio del turno successivo del gigante.
-
-**Incantesimi**  
-Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18): 1/giorno: Controllare tempo atmosferico A volontà: Individuazione del magico, luce
-
-**Tempesta di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 18, ogni creatura in un cilindro di 3 metri di raggio e 12 metri d'altezza in un punto che il gigante è in grado di vedere entro 150 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. Glabrezu
-
-### Azioni bonus
-
-**Grido di battaglia (ricarica 5-6)**  
-Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di sentire ottiene 16 (2d10 + 5) punti ferita temporanei e dispone di vantaggio ai tiri per colpire fino all'inizio del turno successivo del gigante. Gigante delle colline Gigante delle colline Gigante Enorme, caotico malvagio CA 13 Iniziativa +2 (12) PF 105 (10d12 + 40) Velocità 12 m MOD SALV MOD SALV MOD SALV For 21 +5 +5 Des 8 -1 -1 Cos 19 +4 +4 Int 5 -3 -3 Sag 9 -1 -1 Car 6 -2 -2 Abilità Percezione +2 Sensi Percezione passiva 12 Lingue Gigante
-
-**GS 5 (PE 1**  
-800; BC +3)
-
-**Passo velato**  
-Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi. Gigante delle pietre Gigante delle pietre Gigante Enorme, neutrale CA 17 Iniziativa +5 (15) PF 126 (11d12 + 55) Velocità 12 m 338 System Reference Document 5.2.1 MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 15 +2 +5 Cos 20 +5 +8 Int 10 +0 +0 Sag 12 +1 +4 Car 9 -1 -1 Abilità Atletica +12, Furtività +5, Percezione +4 Sensi Percezione passiva 14; scurovisione 18 m Lingue Gigante
-
-**GS 7 (PE 2**  
-900; BC +3)
+*Tiro per colpire a distanza:* +9, gittata 18/72 m. *Colpito:* 15 (2d8 + 6) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 ### Reazioni
 
 **Deviare proiettili (ricarica 5-6)**  
-Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli infligge danni contundenti, perforanti o taglienti. Esito: il gigante riduce i danni subiti dall'attacco di 11 (1d10 + 6) e, se li riduce a 0, può deflettere una parte della forza di quell'attacco. Tiro salvezza su Destrezza: CD 17, una creatura che il gigante è in grado di vedere entro 18 metri. Fallimento: 11 (1d10 + 6) danni da forza. Gigante delle tempeste Gigante delle tempeste Gigante Enorme, caotico buono CA 16 Iniziativa +7 (17) PF 230 (20d12 + 100) Velocità 15 m, nuoto 15 m, volo 7,5 m (fluttuare) MOD SALV MOD SALV MOD SALV For 29 +9 +14 Des 14 +2 +2 Cos 20 +5 +10 Int 16 +3 +3 Sag 20 +5 +10 Car 18 +4 +9 Abilità Arcano +8, Atletica +14, Percezione +10, Storia +8 Resistenze freddo Immunità fulmine, tuono Sensi Percezione passiva 20; scurovisione 36 m, vista pura 9 m Lingue Comune, Gigante
+*Attivazione:* il gigante viene colpito da un tiro per colpire a distanza che gli infligge danni contundenti, perforanti o taglienti. *Esito:* il gigante riduce i danni subiti dall'attacco di 11 (1d10 + 6) e, se li riduce a 0, può deflettere una parte della forza di quell'attacco. *Tiro salvezza su Destrezza:* CD 17, una creatura che il gigante è in grado di vedere entro 18 metri. *Fallimento:* 11 (1d10 + 6) danni da forza.
 
-**GS 13 (PE 10**  
-000; BC +5)
+---
+
+## Gigante delle tempeste
+
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
+**allineamento:** caotico buono  
+
+**classe_armatura:** 16  
+**iniziativa:** +7 (17)  
+**punti_ferita:** 230 (20d12 + 100)  
+**velocita:** 15 m, nuoto 15 m, volo 7,5 m (fluttuare)  
+
+**caratteristiche:**
+- forza: 29 (+9)
+- destrezza: 14 (+2)
+- costituzione: 20 (+5)
+- intelligenza: 16 (+3)
+- saggezza: 20 (+5)
+- carisma: 18 (+4)
+
+**tiri_salvezza_base:**
+- forza: +14
+- destrezza: +2
+- costituzione: +10
+- intelligenza: +3
+- saggezza: +10
+- carisma: +9
+
+**abilita:** Arcano +8, Atletica +14, Percezione +10, Storia +8  
+**resistenze:** freddo  
+**immunita_danni:** fulmine, tuono  
+**sensi:** Percezione passiva 20; scurovisione 36 m, vista pura 9 m  
+**lingue:** Comune, Gigante  
+**grado_sfida:** 13  
+**punti_esperienza:** PE 10.000  
+**bonus_competenza:** +5  
+**grado_sfida_raw:** 13 (PE 10.000; BC +5)  
+
+### Tratti
+
+**Anfibio**  
+Il gigante può respirare in aria e in acqua.
+
+### Azioni
+
+**Multiattacco**  
+Il gigante effettua due attacchi, usando Spada tempestosa o Saetta in qualsiasi combinazione.
+
+**Spada tempestosa**  
+*Tiro per colpire in mischia:* +14, portata 3 m. *Colpito:* 23 (4d6 + 9) danni taglienti più 13 (3d8) danni da fulmine.
+
+**Saetta**  
+*Tiro per colpire a distanza:* +14, gittata 150 m. *Colpito:* 22 (2d12 + 9) danni da fulmine, e il bersaglio è accecato e assordato fino all'inizio del turno successivo del gigante.
+
+**Incantesimi**  
+Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18):  
+1/giorno: Controllare tempo atmosferico  
+A volontà: Individuazione del magico, luce
+
+**Tempesta di fulmini (ricarica 5-6)**  
+*Tiro salvezza su Destrezza:* CD 18, ogni creatura in un cilindro di 3 metri di raggio e 12 metri d'altezza in un punto che il gigante è in grado di vedere entro 150 metri. *Fallimento:* 55 (10d10) danni da fulmine. *Successo:* danni dimezzati.
 
 ---
 
