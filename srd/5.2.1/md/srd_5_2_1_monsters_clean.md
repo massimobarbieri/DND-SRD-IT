@@ -3516,8 +3516,12 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in una sfera di 6 metri 
 
 ---
 
-## Draghi di rame
+## Drago di rame cucciolo
 
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** caotico buono
 
 **classe_armatura:** 16  
 **iniziativa:** +3 (13)  
@@ -3542,52 +3546,118 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in una sfera di 6 metri 
 
 **abilita:** Furtività +3, Percezione +4  
 **immunita_danni:** acido  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1 (PE 200; BC +2)  
 
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (1d10 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni taglienti.
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri e larga 1,5 metri. Fallimento: 18 (4d8) danni da acido. Successo: danni dimezzati.
 
 **Soffio rallentante**  
-Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. Drago di rame giovane Drago Grande (metallico), caotico buono CA 17 Iniziativa +4 (14) PF 119 (14d10 + 42) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 19 +4 +4 Des 12 +1 +4 Cos 17 +3 +3 Int 16 +3 +3 Sag 13 +1 +4 Car 15 +2 +2 Abilità Furtività +4, Inganno +5, Percezione +7 Immunità acido Sensi Percezione passiva 17; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
 
-**GS 7 (PE 2**  
-900; BC +3)
+## Drago di rame giovane
+
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** caotico buono
+
+**classe_armatura:** 17
+**iniziativa:** +4 (14)
+**punti_ferita:** 119 (14d10 + 42)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 19 (+4)
+- destrezza: 12 (+1)
+- costituzione: 17 (+3)
+- intelligenza: 16 (+3)
+- saggezza: 13 (+1)
+- carisma: 15 (+2)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +4
+- costituzione: +3
+- intelligenza: +3
+- saggezza: +4
+- carisma: +2
+
+**abilita:** Furtività +4, Inganno +5, Percezione +7
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 17; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 7
+**punti_esperienza:** PE 2.900
+**bonus_competenza:** +3
+**grado_sfida_raw:** 7 (PE 2.900; BC +3)  
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Soffio rallentante.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 15 (2d10 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 15 (2d10 + 4) danni taglienti.
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri e larga 1,5 metri. Fallimento: 40 (9d8) danni da acido. Successo: danni dimezzati.
 
 **Soffio rallentante**  
-Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione 318 System Reference Document 5.2.1 o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. Drago di rame adulto Drago Enorme (metallico), caotico buono CA 18 Iniziativa +11 (21) PF 184 (16d12 + 80) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 12 +1 +6 Cos 21 +5 +5 Int 18 +4 +4 Sag 15 +2 +7 Car 18 +4 +4 Abilità Furtività +6, Inganno +9, Percezione +12 Immunità acido Sensi Percezione passiva 22; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
 
-**GS 14 (PE 11**  
-500, o 13.000 nella tana; BC +5)
+## Drago di rame adulto
+
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** caotico buono
+
+**classe_armatura:** 18
+**iniziativa:** +11 (21)
+**punti_ferita:** 184 (16d12 + 80)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 12 (+1)
+- costituzione: 21 (+5)
+- intelligenza: 18 (+4)
+- saggezza: 15 (+2)
+- carisma: 18 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +6
+- costituzione: +5
+- intelligenza: +4
+- saggezza: +7
+- carisma: +4
+
+**abilita:** Furtività +6, Inganno +9, Percezione +12
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 22; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 14
+**punti_esperienza:** PE 11.500, o 13.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 14 (PE 11.500, o 13.000 nella tana; BC +5)  
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio rallentante o (B) Incantesimi per lanciare aculeo mentale (di 4º livello).
@@ -3596,31 +3666,15 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 17 (2d10 + 6) danni taglienti più 4 (1d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: Immagine maggiore, ristorare superiore A volontà: Aculeo mentale (di 4º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
+**1/giorno ciascuno:** Immagine maggiore, ristorare superiore 
+**A volontà:** Aculeo mentale (di 4º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 54 (12d8) danni da acido. Successo: danni dimezzati.
 
 **Soffio rallentante**  
-Tiro salvezza su Costituzione:
-
-**CD 18, tutte le creature in un cono di 18 metri**  
-Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio rallentante o (B) Incantesimi per lanciare aculeo mentale (di 5º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 9 (2d8) danni da acido.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 1/giorno ciascuno: Immagine maggiore, immagine proiettata, ristorare superiore 319 System Reference Document 5.2.1 A volontà: Aculeo mentale (di 5º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
-
-**Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 63 (14d8) danni da acido. Successo: danni dimezzati.
-
-**Soffio rallentante**  
-Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo.
+Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo.
 
 ### Azioni leggendarie
 
@@ -3634,10 +3688,70 @@ Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squar
 Tiro salvezza su Carisma: CD 17, una creatura che il drago è in grado di vedere entro 27 metri. Fallimento: 24 (7d6) danni psichici. Fino al termine del proprio turno successivo, il bersaglio tira 1d6 ogni volta che effettua una prova di caratteristica o un tiro per colpire e sottrae il risultato dalla prova con d20. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Scossa mentale**  
-Il drago usa Incantesimi per lanciare aculeo mentale (di 4º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago di rame antico Drago Mastodontico (metallico), caotico buono CA 21 Iniziativa +15 (25) PF 367 (21d20 + 147) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 12 +1 +8 Cos 25 +7 +7 Int 20 +5 +5 Sag 17 +3 +10 Car 22 +6 +6 Abilità Furtività +8, Inganno +13, Percezione +17 Immunità acido Sensi Percezione passiva 27; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Il drago usa Incantesimi per lanciare aculeo mentale (di 4º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 21 (PE 33**  
-000, o 41.000 nella tana; BC +7)
+## Drago di rame antico
+
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** caotico buono
+
+**classe_armatura:** 21
+**iniziativa:** +15 (25)
+**punti_ferita:** 367 (21d20 + 147)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 12 (+1)
+- costituzione: 25 (+7)
+- intelligenza: 20 (+5)
+- saggezza: 17 (+3)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +8
+- costituzione: +7
+- intelligenza: +5
+- saggezza: +10
+- carisma: +6
+
+**abilita:** Furtività +8, Inganno +13, Percezione +17
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 21
+**punti_esperienza:** PE 33.000, o 41.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 21 (PE 33.000, o 41.000 nella tana; BC +7) 
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio rallentante o (B) Incantesimi per lanciare aculeo mentale (di 5º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 9 (2d8) danni da acido.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 
+**1/giorno ciascuno:** Immagine maggiore, immagine proiettata, ristorare superiore
+**A volontà:** Aculeo mentale (di 5º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+
+**Soffio di acido (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 63 (14d8) danni da acido. Successo: danni dimezzati.
+
+**Soffio rallentante**  
+Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
