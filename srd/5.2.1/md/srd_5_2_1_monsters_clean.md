@@ -6075,7 +6075,8 @@ Il fuoco fatuo e la luce che emana sono invisibili finché la sua concentrazione
 
 ## Fustigatore
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 20  
@@ -6117,26 +6118,21 @@ Il fustigatore può scalare le superfici difficili, compresi i soffitti, senza e
 **Multiattacco**  
 Il fustigatore effettua due attacchi Tentacolo, usa Riavvolgere ed effettua due attacchi Morso.
 
-**Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 17 (3d8 + 4) danni perforanti**  
-
+**Morso**
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 17 (3d8 + 4) danni perforanti.
 
 **Tentacolo**  
-Tiro per colpire in mischia: +7, portata 18 m. Colpito: il bersaglio è afferrato (CD 14 per sfuggire) da uno dei sei tentacoli, ed è avvelenato finché la presa perdura. Il tentacolo può essere danneggiato e, quando viene distrutto, libera la creatura che aveva afferrato (CA 20,
-
-**PF 10, immunità ai danni psichici e da veleno)**  
-I danni inflitti al tentacolo non danneggiano in alcun modo il fustigatore, e il tentacolo distrutto ricresce all'inizio del turno successivo del fustigatore.
+Tiro per colpire in mischia: +7, portata 18 m. Colpito: il bersaglio è afferrato (CD 14 per sfuggire) da uno dei sei tentacoli, ed è avvelenato finché la presa perdura. Il tentacolo può essere danneggiato e, quando viene distrutto, libera la creatura che aveva afferrato (CA 20, PF 10, immunità ai danni psichici e da veleno). I danni inflitti al tentacolo non danneggiano in alcun modo il fustigatore, e il tentacolo distrutto ricresce all'inizio del turno successivo del fustigatore.
 
 **Riavvolgere**  
-Il fustigatore tira in linea retta verso di sé ogni creatura che ha afferrato per un massimo di 9 metri. Gargoyle
+Il fustigatore tira in linea retta verso di sé ogni creatura che ha afferrato per un massimo di 9 metri.
 
 ---
 
 ## Gargoyle
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -6181,16 +6177,14 @@ Il gargoyle non provoca attacchi di opportunità quando vola oltre la portata di
 Il gargoyle effettua due attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (2d4 + 2) danni taglienti**  
-336 System Reference Document 5.2.1 Ghast
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni taglienti.
 
 ---
 
 ## Ghast
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
@@ -6232,19 +6226,17 @@ Tiro salvezza su Costituzione: CD 10, ogni creatura che inizi il suo turno in un
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-Se il bersaglio è una creatura diversa da un non morto, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 10. Fallimento: il bersaglio è paralizzato fino al termine del proprio turno successivo.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti. Se il bersaglio è una creatura diversa da un non morto, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 10. Fallimento: il bersaglio è paralizzato fino al termine del proprio turno successivo.
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti più 9 (2d8) danni necrotici. Ghoul
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti più 9 (2d8) danni necrotici.
 
 ---
 
 ## Ghoul
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -6288,19 +6280,48 @@ Il gigante può respirare in aria e in acqua.
 Il ghoul effettua due attacchi Morso.
 
 **Artiglio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 4 (1d4 + 2) danni taglienti**  
-Se il bersaglio è una creatura diversa da un non morto o da un elfo, subisce il seguente effetto. Tiro salvezza su Costituzione:
-
-**CD 10**  
-Fallimento: il bersaglio è paralizzato fino al termine del proprio turno successivo.
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni taglienti. Se il bersaglio è una creatura diversa da un non morto o da un elfo, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 10. Fallimento: il bersaglio è paralizzato fino al termine del proprio turno successivo.
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perforanti più 3 (1d6) danni necrotici. Gigante del fuoco Gigante del fuoco Gigante Enorme, legale malvagio CA 18 Iniziativa +3 (13) PF 162 (13d12 + 78) Velocità 9 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 9 -1 +3 Cos 23 +6 +10 Int 10 +0 +0 Sag 14 +2 +2 Car 13 +1 +5 Abilità Atletica +11, Percezione +6 Immunità fuoco Sensi Percezione passiva 16 Lingue Gigante
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perforanti più 3 (1d6) danni necrotici. 
 
-**GS 9 (PE 5**  
-000; BC +4)
+## Gigante del fuoco
+
+**tipo:** Gigante
+**dimensione:** Enorme
+**allineamento:** legale malvagio  
+
+**classe_armatura:** 18
+**iniziativa:** +3 (13)  
+**punti_ferita:** 162 (13d12 + 78)
+**velocita:** 9 m  
+
+**caratteristiche:**
+- forza: 25 (+7)
+- destrezza: 9 (-1)
+- costituzione: 23 (+6)
+- intelligenza: 10 (+0)
+- saggezza: 14 (+2)
+- carisma: 13 (+1)
+
+**tiri_salvezza_base:**
+- forza: +7
+- destrezza: +3
+- costituzione: +10
+- intelligenza: +0
+- saggezza: +2
+- carisma: +5
+
+**abilità:** Atletica +11, Percezione +6
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 16
+**lingue:** Gigante  
+**grado_sfida:** 9
+**punti_esperienza:** PE 5.000
+**bonus_competenza:** +4
+**grado_sfida_raw:** 9 (PE 5.000; BC +4)
+
+### Azioni
 
 **Multiattacco**  
 Il gigante effettua due attacchi, usando Spada di fiamme o Lancio di martello in qualsiasi combinazione.
@@ -6309,7 +6330,11 @@ Il gigante effettua due attacchi, usando Spada di fiamme o Lancio di martello in
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 21 (4d6 + 7) danni taglienti più 10 (3d6) danni da fuoco.
 
 **Lancio di martello**  
-Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni contundenti più 4 (1d8) danni da fuoco, il bersaglio viene spinto in linea retta fino a un massimo di 4,5 metri di distanza dal gigante, e subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo. Gigante del gelo Gigante del gelo Gigante Enorme, neutrale malvagio CA 15 Iniziativa +2 (12) PF 149 (13d12 + 65) Velocità 12 m 337 System Reference Document 5.2.1 MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 9 -1 -1 Cos 21 +5 +8 Int 9 -1 -1 Sag 10 +0 +3 Car 12 +1 +4 Abilità Atletica +9, Percezione +3 Immunità freddo Sensi Percezione passiva 13 Lingue Gigante
+Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni contundenti più 4 (1d8) danni da fuoco, il bersaglio viene spinto in linea retta fino a un massimo di 4,5 metri di distanza dal gigante, e subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo. 
+
+## Gigante del gelo
+
+Gigante del gelo Gigante Enorme, neutrale malvagio CA 15 Iniziativa +2 (12) PF 149 (13d12 + 65) Velocità 12 m 337 System Reference Document 5.2.1 MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 9 -1 -1 Cos 21 +5 +8 Int 9 -1 -1 Sag 10 +0 +3 Car 12 +1 +4 Abilità Atletica +9, Percezione +3 Immunità freddo Sensi Percezione passiva 13 Lingue Gigante
 
 **GS 8 (PE 3**  
 900; BC +3)
