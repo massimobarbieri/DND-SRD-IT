@@ -4286,8 +4286,12 @@ Tiro salvezza su Destrezza: CD 20, una creatura che il drago è in grado di vede
 
 ---
 
-## Draghi neri
+## Drago nero cucciolo
 
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** caotico malvagio
 
 **classe_armatura:** 17  
 **iniziativa:** +4 (14)  
@@ -4312,7 +4316,7 @@ Tiro salvezza su Destrezza: CD 20, una creatura che il drago è in grado di vede
 
 **abilita:** Furtività +4, Percezione +4  
 **immunita_danni:** acido  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
@@ -4324,15 +4328,6 @@ Tiro salvezza su Destrezza: CD 20, una creatura che il drago è in grado di vede
 **Anfibio**  
 Il drago può respirare in aria e in acqua.
 
-**Anfibio**  
-Il drago può respirare in aria e in acqua.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
 ### Azioni
 
 **Multiattacco**  
@@ -4342,22 +4337,107 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni taglienti più 2 (1d4) danni da acido.
 
 **Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 4,5 metri e larga 1,5 metri. Fallimento: 22 (5d8) danni da acido. Successo: danni dimezzati. Drago nero giovane Drago Grande (cromatico), caotico malvagio CA 18 Iniziativa +5 (15) PF 127 (15d10 + 45) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 19 +4 +4 Des 14 +2 +5 Cos 17 +3 +3 Int 12 +1 +1 Sag 11 +0 +3 Car 15 +2 +2 Abilità Furtività +5, Percezione +6 Immunità acido Sensi Percezione passiva 16; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 4,5 metri e larga 1,5 metri. Fallimento: 22 (5d8) danni da acido. Successo: danni dimezzati. 
 
-**GS 7 (PE 2**  
-900; BC +3)
+## Drago nero giovane
+
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +5 (15)
+**punti_ferita:** 127 (15d10 + 45)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 19 (+4)
+- destrezza: 14 (+2)
+- costituzione: 17 (+3)
+- intelligenza: 12 (+1)
+- saggezza: 11 (+0)
+- carisma: 15 (+2)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +5
+- costituzione: +3
+- intelligenza: +1
+- saggezza: +4
+- carisma: +2
+
+**abilita:** Furtività +5, Percezione +6
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 16; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 7
+**punti_esperienza:** PE 2.900
+**bonus_competenza:** +3
+**grado_sfida_raw:** 7 (PE 2.900; BC +3)  
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglienti più 3 (1d6) danni da acido. 324 System Reference Document 5.2.1
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglienti più 3 (1d6) danni da acido.
 
 **Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 49 (14d6) danni da acido. Successo: danni dimezzati. Drago nero adulto Drago Enorme (cromatico), caotico malvagio CA 19 Iniziativa +12 (22) PF 195 (17d12 + 85) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 14 +2 +7 Cos 21 +5 +5 Int 14 +2 +2 Sag 13 +1 +6 Car 19 +4 +4 Abilità Furtività +7, Percezione +11 Immunità acido Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 49 (14d6) danni da acido. Successo: danni dimezzati.
 
-**GS 14 (PE 11**  
-500, o 13.000 nella tana; BC +5)
+## Drago nero adulto
+
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 19
+**iniziativa:** +12 (22)
+**punti_ferita:** 195 (17d12 + 85)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 14 (+2)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 19 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +7
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +6
+- carisma: +4
+
+**abilita:** Furtività +7, Percezione +11
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 14
+**punti_esperienza:** PE 11.500, o 13.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 14 (PE 11.500, o 13.000 nella tana; BC +5)
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare freccia acida (di 3º livello).
@@ -4366,22 +4446,12 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 13 (2d6 + 6) danni taglienti più 4 (1d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Parlare con i morti, sfera al vetriolo A volontà: Freccia acida (di 3º livello), individuazione del magico, paura
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Parlare con i morti, sfera al vetriolo 
+**A volontà:** Freccia acida (di 3º livello), individuazione del magico, paura
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 54 (12d8) danni da acido. Successo: danni dimezzati.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare freccia acida (di 4º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 17 (2d8 + 8) danni taglienti più 9 (2d8) danni da acido.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Creare non morti, parlare con i morti, sfera al vetriolo (di 5º livello) A volontà: Freccia acida (di 4º livello), individuazione del magico, paura
-
-**Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 67 (15d8) danni da acido. Successo: danni dimezzati. 325 System Reference Document 5.2.1
 
 ### Azioni leggendarie
 
@@ -4395,10 +4465,70 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 Tiro salvezza su Destrezza: CD 17, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 22 (4d10) danni da veleno, e il bersaglio subisce svantaggio ai tiri salvezza per mantenere la concentrazione fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Presenza terrificante**  
-Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago nero antico Drago Mastodontico (Cromatico), Caotico Malvagio CA 22 Iniziativa +16 (26) PF 367 (21d20 + 147) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 14 +2 +9 Cos 25 +7 +7 Int 16 +3 +3 Sag 15 +2 +9 Car 22 +6 +6 Abilità Furtività +9, Percezione +16 Immunità acido Sensi Percezione passiva 26; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 21 (PE 33**  
-000, o 41.000 nella tana; BC +7)
+## Drago nero antico
+
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 22
+**iniziativa:** +16 (26)
+**punti_ferita:** 367 (21d20 + 147)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 14 (+2)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +9
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +9
+- carisma: +6
+
+**abilita:** Furtività +9, Percezione +16
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 26; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 21
+**punti_esperienza:** PE 33.000, o 41.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 21 (PE 33.000, o 41.000 nella tana; BC +7)
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare freccia acida (di 4º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 17 (2d8 + 8) danni taglienti più 9 (2d8) danni da acido.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Creare non morti, parlare con i morti, sfera al vetriolo (di 5º livello) 
+**A volontà:** Freccia acida (di 4º livello), individuazione del magico, paura
+
+**Soffio di acido (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 67 (15d8) danni da acido. Successo: danni dimezzati. 325 System Reference Document 5.2.1
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
