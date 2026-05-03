@@ -5431,6 +5431,7 @@ Tiro per colpire a distanza: +8, gittata 18 m. Colpito: 8 (1d6 + 5) danni contun
 ## Erinni
 
 **tipo:** Immondo  
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 18  
@@ -5498,6 +5499,7 @@ Attivazione: l'erinni viene colpita da un tiro per colpire in mischia mentre tie
 ## Esploratore
 
 **tipo:** Umanoide  
+**dimensione:** Medio 
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -5546,6 +5548,7 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 ## Ettercap
 
 **tipo:** Mostruosità  
+**dimensione:** Media
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -5612,6 +5615,7 @@ L'ettercap attira in linea retta verso di sé una creatura entro 9 metri tratten
 ## Ettin
 
 **tipo:** Gigante  
+**dimensione:** Grande  
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -5660,7 +5664,8 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata. Fant
 
 ## Fantasma
 
-**tipo:** Non  
+**tipo:** Non morto 
+**dimensione:** Medio 
 **allineamento:** neutrale  
 
 **classe_armatura:** 11  
@@ -5730,6 +5735,7 @@ Tiro salvezza su Saggezza: CD 13, tutte le creature in un cono di 18 metri in gr
 ## Fauce gorgogliante
 
 **tipo:** Aberrazione  
+**dimensione:** Media
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 9  
@@ -5786,6 +5792,7 @@ Tiro salvezza su Destrezza: CD 10, tutte le creature in una sfera di 3 metri di 
 
 **gruppo:** Funghi  
 **tipo:** Vegetale  
+**dimensione:** Medio
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 5  
@@ -5826,7 +5833,9 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 
 ## Fungo viola
 
+**gruppo:** Funghi
 **tipo:** Vegetale  
+**dimensione:** Medio 
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 5  
