@@ -7909,7 +7909,8 @@ L'imp può assumere la forma bestiale di un topo (velocità 6 m), un corvo (6 m,
 
 ## Incubo
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 15  
@@ -7933,7 +7934,7 @@ L'imp può assumere la forma bestiale di un topo (velocità 6 m), un corvo (6 m,
 - saggezza: +1
 - carisma: +5
 
-**abilita:** Furtività +7, Inganno +9, Intuizione +5, Percezione  
+**abilita:** Furtività +7, Inganno +9, Intuizione +5, Percezione +5, Persuasione +9
 **resistenze:** freddo, fuoco, psichico, veleno  
 **sensi:** Percezione passiva 15; scurovisione 18 m  
 **lingue:** Abissale, Comune, Infernale; telepatia 18 m  
@@ -7956,18 +7957,21 @@ L'incubo effettua due attacchi Tocco irrequieto.
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 15 (3d6 + 5) danni psichici, e il bersaglio è maledetto per 24 ore o finché l'incubo non muore. Finché la maledizione perdura, il bersaglio non ottiene alcun beneficio dai riposi brevi.
 
 **Incantesimi**  
-L'incubo lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15): 1/giorno ciascuno: Sogno, trama ipnotica A volontà: Camuffare se stesso, forma eterea
+L'incubo lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15): 
+**1/giorno ciascuno:** Sogno, trama ipnotica 
+**A volontà:** Camuffare se stesso, forma eterea
 
 ### Azioni bonus
 
 **Sogno spaventoso (ricarica 6)**  
-Tiro salvezza su Saggezza: CD 15, una creatura che l'incubo è in grado di vedere entro 18 metri. Fallimento: Se il bersaglio ha 20 punti ferita o meno, è privo di sensi per 1 ora, finché non subisce danni o un'altra creatura entro 1,5 metri da lui non usa un'azione per svegliarlo. Altrimenti, il bersaglio subisce 18 (4d8) danni psichici. 347 System Reference Document 5.2.1 Ippogrifo
+Tiro salvezza su Saggezza: CD 15, una creatura che l'incubo è in grado di vedere entro 18 metri. Fallimento: Se il bersaglio ha 20 punti ferita o meno, è privo di sensi per 1 ora, finché non subisce danni o un'altra creatura entro 1,5 metri da lui non usa un'azione per svegliarlo. Altrimenti, il bersaglio subisce 18 (4d8) danni psichici.
 
 ---
 
 ## Ippogrifo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -8010,16 +8014,14 @@ L'ippogrifo non provoca attacchi d'opportunità quando vola oltre la portata di 
 L'ippogrifo effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 7 (1d8 + 3) danni taglienti**  
-Kraken
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni taglienti.
 
 ---
 
 ## Kraken
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Mastodontico
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 18  
@@ -8045,7 +8047,7 @@ Kraken
 
 **abilita:** Percezione +11, Storia +13  
 **immunita_danni:** freddo, fulmine  
-**immunita_condizione:** afferrato, paralizzato,  
+**immunita_condizione:** afferrato, paralizzato, spaventato, trattenuto
 **sensi:** Percezione passiva 21; vista pura 36 m  
 **lingue:** capisce l'Abissale, il Celestiale, l'Infernale e il Primordiale ma non li parla; telepatia 36 m  
 **grado_sfida:** 23  
@@ -8090,7 +8092,7 @@ Subito dopo il turno di un'altra creatura, il kraken può consumare un utilizzo 
 Tiro salvezza su Costituzione: CD 23, tutte le creature in un'emanazione di 4,5 metri di cui il kraken è il punto di origine finché si trova sott'acqua. Fallimento: il bersaglio è accecato e avvelenato fino al termine del turno successivo del kraken. Dopodiché il kraken si muove fino alla sua velocità massima. Fallimento o successo: il kraken non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Lampo burrascoso**  
-Il kraken usa Colpo del fulmine. Lamia
+Il kraken usa Colpo del fulmine.
 
 ---
 
