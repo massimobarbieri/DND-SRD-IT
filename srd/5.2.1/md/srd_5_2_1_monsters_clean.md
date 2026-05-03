@@ -2992,7 +2992,7 @@ Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare 
 
 ---
 
-## Draghi d'argento cucciolo
+## Drago d'argento cucciolo
 
 **gruppo:** Draghi d'argento
 **tipo:** Drago (metallico)
@@ -3246,7 +3246,12 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 
 ---
 
-## Draghi di bronzo
+## Drago di bronzo cucciolo
+
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** legale buono
 
 **classe_armatura:** 15  
 **iniziativa:** +2 (12)  
@@ -3271,7 +3276,7 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fulmine  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
@@ -3283,52 +3288,122 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 **Anfibio**  
 Il drago può respirare in aria e in acqua.
 
-**Anfibio**  
-Il drago può respirare in aria e in acqua.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. 317 System Reference Document 5.2.1
-
 ### Azioni
 
 **Multiattacco**  
 Il drago effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 8 (1d10 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 8 (1d10 + 3) danni taglienti.
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 12 metri e larga 1,5 metri. Fallimento: 16 (3d10) danni da fulmine. Successo: danni dimezzati.
 
 **Soffio repulsivo**  
-Tiro salvezza su Forza: CD 12, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 9 metri di distanza dal drago e cade a terra prono. Drago di bronzo giovane Drago Grande (metallico), legale buono CA 17 Iniziativa +3 (13) PF 142 (15d10 + 60) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 21 +5 +5 Des 10 +0 +3 Cos 19 +4 +4 Int 14 +2 +2 Sag 13 +1 +4 Car 17 +3 +3 Abilità Furtività +3, Intuizione +4, Percezione +7 Immunità fulmine Sensi Percezione passiva 17; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Forza: CD 12, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 9 metri di distanza dal drago e cade a terra prono. 
 
-**GS 8 (PE 3**  
-900; BC +3) 316 System Reference Document 5.2.1
+## Drago di bronzo giovane
+
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** legale buono
+
+**classe_armatura:** 17
+**iniziativa:** +3 (13)
+**punti_ferita:** 142 (15d10 + 60)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 21 (+5)
+- destrezza: 10 (+0)
+- costituzione: 19 (+4)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 17 (+3)
+
+**tiri_salvezza_base:**
+- forza: +5
+- destrezza: +3
+- costituzione: +4
+- intelligenza: +2
+- saggezza: +4
+- carisma: +3
+
+**abilita:** Furtività +3, Intuizione +4, Percezione +7
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 17; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 8
+**punti_esperienza:** PE 3.900
+**bonus_competenza:** +3
+**grado_sfida_raw:** 8 (PE 3.900; BC +3)
+
+### Tratti
+
+**Anfibio**  
+Il drago può respirare in aria e in acqua.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Soffio repulsivo.
 
 **Squarcio**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 16 (2d10 + 5) danni taglienti**  
-
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 16 (2d10 + 5) danni taglienti.
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 15, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 49 (9d10) danni da fulmine. Successo: danni dimezzati.
 
 **Soffio repulsivo**  
-Tiro salvezza su Forza: CD 15, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 12 metri di distanza dal drago e cade a terra prono. Drago di bronzo adulto Drago Enorme (metallico), Legale Buono CA 18 Iniziativa +10 (20) PF 212 (17d12 + 102) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 10 +0 +5 Cos 23 +6 +6 Int 16 +3 +3 Sag 15 +2 +7 Car 20 +5 +5 Abilità Furtività +5, Intuizione +7, Percezione +12 Immunità fulmine Sensi Percezione passiva 22; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Forza: CD 15, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 12 metri di distanza dal drago e cade a terra prono. 
 
-**GS 15 (PE 13**  
-000, o 15.000 nella tana; BC +5)
+## Drago di bronzo adulto 
+
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** legale buono
+
+**classe_armatura:** 18
+**iniziativa:** +10 (20)
+**punti_ferita:** 212 (17d12 + 102)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 25 (+7)
+- destrezza: 10 (+0)
+- costituzione: 23 (+6)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 20 (+5)
+
+**tiri_salvezza_base:**
+- forza: +7
+- destrezza: +5
+- costituzione: +6
+- intelligenza: +3
+- saggezza: +7
+- carisma: +5
+
+**abilita:** Furtività +5, Intuizione +7, Percezione +12
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 22; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 15
+**punti_esperienza:** PE 13.000, o 15.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 15 (PE 13.000, o 15.000 nella tana; BC +5)
+
+### Tratti
+
+**Anfibio.** 
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana). **
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio repulsivo o (B) Incantesimi per lanciare dardo tracciante (di 2º livello).
@@ -3337,28 +3412,15 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +12, portata 3 m. Colpito: 16 (2d8 + 7) danni taglienti più 5 (1d10) danni da fulmine.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +10 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Individuazione dei pensieri, respirare sott'acqua A volontà: Dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +10 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Individuazione dei pensieri, respirare sott'acqua 
+**A volontà:** Dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati.
 
 **Soffio repulsivo**  
 Tiro salvezza su Forza: CD 19, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 18 metri di distanza dal drago e cade a terra prono.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio repulsivo o (B) Incantesimi per lanciare dardo tracciante (di 2º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 9 (2d8) danni da fulmine.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22, +14 al tiro per colpire degli attacchi con incantesimo): A volontà: dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza concentrazione o punti ferita temporanei per mantenere l'incantesimo) 1/giorno ciascuno: controllare acqua, individuazione dei pensieri, respirare sott'acqua, scrutare
-
-**Soffio di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 82 (15d10) danni da fulmine. Successo: danni dimezzati.
-
-**Soffio repulsivo**  
-Tiro salvezza su Forza: CD 23, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 18 metri di distanza dal drago e cade a terra prono.
 
 ### Azioni leggendarie
 
@@ -3372,10 +3434,73 @@ Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squar
 Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
 
 **Rombo di tuono**  
-Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 10 (3d6) danni da tuono, e il bersaglio è assordato fino al termine del proprio turno successivo. Drago di bronzo antico Drago Mastodontico (Metallico), Legale Buono CA 22 Iniziativa +14 (24) PF 444 (24d20 + 192) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 29 +9 +9 Des 10 +0 +7 Cos 27 +8 +8 Int 18 +4 +4 Sag 17 +3 +10 Car 25 +7 +7 Abilità Furtività +7, Intuizione +10, Percezione +17 Immunità fulmine Sensi Percezione passiva 27; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 10 (3d6) danni da tuono, e il bersaglio è assordato fino al termine del proprio turno successivo. 
 
-**GS 22 (PE 41**  
-000, o 50.000 nella tana; BC +7)
+## Drago di bronzo antico 
+
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** legale buono
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)
+**punti_ferita:** 444 (24d20 + 192)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 29 (+9)
+- destrezza: 10 (+0)
+- costituzione: 27 (+8)
+- intelligenza: 18 (+4)
+- saggezza: 17 (+3)
+- carisma: 25 (+7)
+
+**tiri_salvezza_base:**
+- forza: +9
+- destrezza: +7
+- costituzione: +8
+- intelligenza: +4
+- saggezza: +10
+- carisma: +7
+
+**abilita:** Furtività +7, Intuizione +10, Percezione +17
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 22
+**punti_esperienza:** PE 41.000, o 50.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 22 (PE 41.000, o 50.000 nella tana; BC +7)
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio repulsivo o (B) Incantesimi per lanciare dardo tracciante (di 2º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 9 (2d8) danni da fulmine.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22, +14 al tiro per colpire degli attacchi con incantesimo): 
+**A volontà:** dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza concentrazione o punti ferita temporanei per mantenere l'incantesimo) 
+**1/giorno ciascuno:** controllare acqua, individuazione dei pensieri, respirare sott'acqua, scrutare
+
+**Soffio di fulmini (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 82 (15d10) danni da fulmine. Successo: danni dimezzati.
+
+**Soffio repulsivo**  
+Tiro salvezza su Forza: CD 23, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 18 metri di distanza dal drago e cade a terra prono.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
