@@ -2496,7 +2496,12 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 
 ---
 
-## Draghi bianchi
+## Drago bianco cucciolo
+
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** caotico malvagio  
 
 **classe_armatura:** 16  
 **iniziativa:** +2 (12)  
@@ -2521,7 +2526,7 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** freddo  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
@@ -2533,15 +2538,6 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 **Camminare sul ghiaccio**  
 Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
 
-**Camminare sul ghiaccio**  
-Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
-
-**Camminare sul ghiaccio**  
-Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
-**Camminare sul ghiaccio**  
-Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
 ### Azioni
 
 **Multiattacco**  
@@ -2551,10 +2547,51 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 6 (1d8 + 2) danni taglienti più 2 (1d4) danni da freddo.
 
 **Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 22 (5d8) danni da freddo. Successo: danni dimezzati. Drago bianco giovane Drago Grande (cromatico), caotico malvagio CA 17 Iniziativa +3 (13) PF 123 (13d10 + 52) Velocità 12 m, nuoto 12 m, scavo 6 m, volo 24 m MOD SALV MOD SALV MOD SALV For 18 +4 +4 Des 10 +0 +3 Cos 18 +4 +4 Int 6 -2 2 Sag 11 +0 +3 Car 12 +1 +1 Abilità Furtività +3, Percezione +6 Immunità freddo Sensi Percezione passiva 16; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 22 (5d8) danni da freddo. Successo: danni dimezzati. 
 
-**GS 6 (PE 2**  
-300; BC +3)
+## Drago bianco giovane
+
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 17
+**iniziativa:** +3 (13)  
+**punti_ferita:** 123 (13d10 + 52)  
+**velocita:** 12 m, nuoto 12 m, scavo 6 m, volo 24 m  
+
+**caratteristiche:**
+- forza: 18 (+4)
+- destrezza: 10 (+0)
+- costituzione: 18 (+4)
+- intelligenza: 6 (-2)
+- saggezza: 11 (+0)
+- carisma: 12 (+1)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +3
+- costituzione: +4
+- intelligenza: -2
+- saggezza: +3
+- carisma: +1
+
+**abilita:** Percezione +6, Furtività +3 
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 16; scurovisione 36 m, vista cieca 9 m
+**lingue:** Draconico  
+**grado_sfida:** 6
+**punti_esperienza:** PE 2.300
+**bonus_competenza:** +3
+**grado_sfida_raw:** 6 (PE 2.300; BC +3)  
+
+### Tratti
+
+**Camminare sul ghiaccio**  
+Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2563,10 +2600,51 @@ Il drago effettua tre attacchi Squarcio.
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglienti più 2 (1d4) danni da freddo.
 
 **Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 15, tutte le creature in un cono di 9 metri. Fallimento: 40 (9d8) danni da freddo. Successo: danni dimezzati. 311 System Reference Document 5.2.1 Drago bianco adulto Drago Enorme (cromatico), caotico malvagio CA 18 Iniziativa +10 (20) PF 200 (16d12 + 96) Velocità 12 m, nuoto 12 m, scavo 9 m, volo 24 m MOD SALV MOD SALV MOD SALV For 22 +6 +6 Des 10 +0 +5 Cos 22 +6 +6 Int 8 -1 -1 Sag 12 +1 +6 Car 12 +1 +1 Abilità Furtività +5, Percezione +11 Immunità freddo Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 15, tutte le creature in un cono di 9 metri. Fallimento: 40 (9d8) danni da freddo. Successo: danni dimezzati.
 
-**GS 13 (PE 10**  
-000, o 11.500 nella tana; BC +5)
+## Drago bianco adulto
+
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +10 (20)  
+**punti_ferita:** 200 (16d12 + 96)  
+**velocita:** 12 m, nuoto 12 m, scavo 9 m, volo 24 m 
+
+**caratteristiche:**
+- forza: 22 (+6)
+- destrezza: 10 (+0)
+- costituzione: 22 (+6)
+- intelligenza: 8 (-1)
+- saggezza: 12 (+1)
+- carisma: 12 (+1)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +5
+- costituzione: +6
+- intelligenza: -1
+- saggezza: +6
+- carisma: +1
+
+**abilita:** Furtività +5, Percezione +11
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 13
+**punti_esperienza:** PE 10.000, o  11.500 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 6 (PE 10.000, o  11.500 nella tana; BC +5)
+
+### Tratti
+
+**Camminare sul ghiaccio**  
+Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2576,6 +2654,63 @@ Tiro per colpire in mischia: +11, portata 3 m. Colpito: 13 (2d6 + 6) danni tagli
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. Fallimento: 54 (12d8) danni da freddo. Successo: danni dimezzati.
+
+### Azioni leggendarie
+**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
+Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+
+**Esplosione congelante**  
+Tiro salvezza su Costituzione: CD 14, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 7 (2d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+**Presenza terrificante**  
+Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+**Balzo**  
+Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio. 
+
+## Drago bianco antico 
+
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 20
+**iniziativa:** +12 (22)  
+**punti_ferita:** 333 (18d20 + 144)  
+**velocita:** 12 m, nuoto 12 m, scavo 12 m, volo 24 m 
+
+**caratteristiche:**
+- forza: 26 (+8)
+- destrezza: 10 (+0)
+- costituzione: 26 (+8)
+- intelligenza: 10 (+0)
+- saggezza: 13 (+1)
+- carisma: 18 (+4)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +6
+- costituzione: +8
+- intelligenza: +0
+- saggezza: +7
+- carisma: +4
+
+**abilita:** Furtività +6, Percezione +13
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 23; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 20
+**punti_esperienza:** PE 25.000, o 33.000 nella tana
+**bonus_competenza:** +6
+**grado_sfida_raw:** 20 (PE 25.000, o 33.000 nella tana; BC +6)
+
+### Tratti
+
+**Camminare sul ghiaccio**  
+Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2592,25 +2727,10 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. 
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Esplosione congelante**  
-Tiro salvezza su Costituzione: CD 14, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 7 (2d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
-
-**Presenza terrificante**  
-Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
-
-**Balzo**  
-Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio. Drago bianco antico Drago Mastodontico (Cromatico), Caotico Malvagio CA 20 Iniziativa +12 (22) PF 333 (18d20 + 144) Velocità 12 m, nuoto 12 m, scavo 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 26 +8 +8 Des 10 +0 +6 Cos 26 +8 +8 Int 10 +0 +0 Sag 13 +1 +7 Car 18 +4 +4 Abilità Furtività +6, Percezione +13 Immunità freddo Sensi Percezione passiva 23; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
-
-**GS 20 (PE 25**  
-000, o 33.000 nella tana; BC +6)
-
-**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
-
-**Esplosione congelante**  
 Tiro salvezza su Costituzione: CD 20, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 14 (4d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Presenza terrificante**  
-Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro 312 System Reference Document 5.2.1 salvezza sull'incantesimo 18). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio.
