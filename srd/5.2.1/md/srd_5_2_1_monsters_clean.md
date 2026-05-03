@@ -5873,13 +5873,14 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 Il fungo effettua due attacchi Tocco marcescente.
 
 **Tocco marcescente**  
-Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici. Fuoco fatuo
+Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici.
 
 ---
 
 ## Fuoco fatuo
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio 
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 19  
@@ -5903,9 +5904,10 @@ Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici. 
 - saggezza: +2
 - carisma: +0
 
-**resistenze:** acido, contundente, freddo, fuoco, necrotico,  
+**resistenze:** acido, contundente, freddo, fuoco, necrotico, perforante, tagliente
 **immunita_danni:** fulmine, veleno  
-**immunita_condizione:** afferrato, avvelenato,  
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi,
+prono, trattenuto
 **sensi:** Percezione passiva 12; scurovisione 36 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 2  
@@ -5927,9 +5929,7 @@ Il fuoco fatuo può muoversi attraverso altre creature e oggetti come se fossero
 ### Azioni
 
 **Folgore**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 11 (2d8 + 2) danni da fulmine**  
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 11 (2d8 + 2) danni da fulmine
 
 
 ### Azioni bonus
