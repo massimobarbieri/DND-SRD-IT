@@ -6440,6 +6440,7 @@ Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni c
 
 ## Gigante delle nuvole 
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** neutrale
@@ -6498,6 +6499,7 @@ Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristi
 
 ## Gigante delle pietre
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** neutrale
@@ -6551,6 +6553,7 @@ Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli 
 
 ## Gigante delle tempeste
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** caotico buono
