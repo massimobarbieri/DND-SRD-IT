@@ -5398,18 +5398,100 @@ L'elementale effettua due attacchi Bruciatura.
 **Bruciatura**  
 Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, inizia a bruciare. 
 
-## Elementale dell'acqua 
+## Elementale dell'acqua
 
- Elementale Grande, neutrale CA 14 Iniziativa +2 (12) PF 114 (12d10 + 48) Velocità 9 m, nuoto 27 m MOD SALV MOD SALV MOD SALV For 18 +4 +4 Des 14 +2 +2 Cos 18 +4 +4 Int 5 -3 -3 Sag 10 +0 +0 Car 8 -1 -1 Resistenze acido, fuoco Immunità veleno; afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto Sensi Percezione passiva 10; scurovisione 18 m Lingue Primordiale (Aquan)
+**tipo:** Elementale
+**dimensione:** Grande
+**allineamento:** neutrale  
 
-**GS 5 (PE 1**  
-800; BC +3) 331 System Reference Document 5.2.1
+**classe_armatura:** 14
+**iniziativa:** +2 (12)
+**punti_ferita:** 114 (12d10 + 48)
+**velocita:** 9 m, nuoto 27 m
+
+**caratteristiche:**
+- forza: 18 (+4)
+- destrezza: 14 (+2)
+- costituzione: 18 (+4)
+- intelligenza: 5 (-3)
+- saggezza: 10 (+0)
+- carisma: 8 (-1)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +2
+- costituzione: +4
+- intelligenza: -3
+- saggezza: +0
+- carisma: -1
+
+**resistenze:** acido, fuoco
+**immunita_danni:** veleno
+**immunita_condizioni:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**sensi:** Percezione passiva 10; scurovisione 18 m
+**lingue:** Primordiale (Aquan)  
+**grado_sfida:** 5
+**punti_esperienza:** PE 1.800
+**bonus_competenza:** +3
+**grado_sfida_raw:** 5 (PE 1.800; BC +3)
+
+### Tratti
 
 **Congelamento**  
 Se l'elementale subisce danni da freddo, la sua velocità è ridotta di 6 metri fino al termine del suo turno successivo.
 
 **Forma d'acqua**  
 L'elementale può entrare nello spazio di un nemico e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
+
+### Attacchi
+
+**Multiattacco**  
+L'elementale effettua due attacchi Schianto.
+
+**Schianto**  
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
+
+**Sommergere (ricarica 4-6)**  
+Tiro salvezza su Forza: CD 15, ogni creatura nello spazio dell'elementale. Fallimento: 22 (4d8 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire). Finché la presa perdura, il bersaglio è trattenuto e soffoca (a meno che non sia in grado di respirare sott'acqua) e subisce 9 (2d8) danni contundenti all'inizio di ogni turno dell'elementale. Tramite Sommergere, l'elementale può afferrare una creatura di taglia Grande o un massimo di due creature di taglia Media o inferiore contemporaneamente. Con un'azione, una creatura entro 1,5 metri dall'elementale può tirare una creatura fuori da esso superando una prova di Forza (Atletica) con CD 14. Successo: danni dimezzati.
+
+## Elementale dell'aria 
+
+**tipo:** Elementale
+**dimensione:** Grande
+**allineamento:** neutrale  
+
+**classe_armatura:** 15
+**iniziativa:** +5 (15)
+**punti_ferita:** 90 (12d10 + 24)
+**velocita:** 3 m, volo 27 m (fluttuare)
+
+**caratteristiche:**
+- forza: 14 (+2)
+- destrezza: 20 (+5)
+- costituzione: 14 (+2)
+- intelligenza: 6 (-2)
+- saggezza: 10 (+0)
+- carisma: 6 (-2)
+
+**tiri_salvezza_base:**
+- forza: +2
+- destrezza: +5
+- costituzione: +2
+- intelligenza: -2
+- saggezza: +0
+- carisma: -2
+
+**resistenze:** contundente, fulmine, perforante, tagliente
+**immunita_danni:** tuono, veleno
+**immunita_condizioni:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**sensi:** Percezione passiva 10; scurovisione 18 m
+**lingue:** Primordiale (Auran)  
+**grado_sfida:** 5
+**punti_esperienza:** PE 1.800
+**bonus_competenza:** +3
+**grado_sfida_raw:** 5 (PE 1.800; BC +3)
+
+### Tratti
 
 **Forma d'aria**  
 L'elementale può entrare nello spazio di una creatura e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
@@ -5420,54 +5502,72 @@ L'elementale infligge danni doppi a oggetti e strutture.
 **Scivolare nella terra**  
 L'elementale può scavare attraverso la terra e la pietra non magiche e non lavorate, senza disturbare il materiale attraverso cui si muove.
 
+### Attacchi
 
 **Multiattacco**  
-L'elementale effettua due attacchi
-
-**Schianto**  
-
-
-**Schianto**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 13 (2d8 + 4) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
-
-**Sommergere (ricarica 4-6)**  
-Tiro salvezza su Forza:
-
-**CD 15, ogni creatura nello spazio dell'elementale**  
-Fallimento: 22 (4d8 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire). Finché la presa perdura, il bersaglio è trattenuto e soffoca (a meno che non sia in grado di respirare sott'acqua) e subisce 9 (2d8) danni contundenti all'inizio di ogni turno dell'elementale. Tramite Sommergere, l'elementale può afferrare una creatura di taglia Grande o un massimo di due creature di taglia Media o inferiore contemporaneamente. Con un'azione, una creatura entro 1,5 metri dall'elementale può tirare una creatura fuori da esso superando una prova di Forza (Atletica) con CD 14. Successo: danni dimezzati. Elementale dell'aria Elementale dell'aria Elementale Grande, neutrale CA 15 Iniziativa +5 (15) PF 90 (12d10 + 24) Velocità 3 m, volo 27 m (fluttuare) MOD SALV MOD SALV MOD SALV For 14 +2 +2 Des 20 +5 +5 Cos 14 +2 +2 Int 6 -2 -2 Sag 10 +0 +0 Car 6 -2 -2 Resistenze contundente, fulmine, perforante, tagliente Immunità tuono, veleno; afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto Sensi Percezione passiva 10; scurovisione 18 m Lingue Primordiale (Auran)
-
-**GS 5 (PE 1**  
-800; BC +3)
-
-**Multiattacco**  
-L'elementale effettua due attacchi
-
-**Schianto tonante**  
-
+L'elementale effettua due attacchi Schianto tonante.
 
 **Schianto tonante**  
 Tiro per colpire in mischia: +8, portata 3 m. Colpito: 14 (2d8 + 5) danni da tuono.
 
 **Vortice (ricarica 4-6)**  
-Tiro salvezza su Forza: CD 13, una creatura di taglia Media o inferiore nello spazio dell'elementale. Fallimento: 24 (4d10 + 2) danni da tuono, il bersaglio viene spinto fino a un massimo di 6 metri di distanza dall'elementale e cade a terra prono. Successo: danni dimezzati. Elementale della terra Elementale della terra Elementale Grande, neutrale CA 17 Iniziativa -1 (9) PF 147 (14d10 + 70) Velocità 9 m, scavo 9 m MOD SALV MOD SALV MOD SALV For 20 +5 +5 Des 8 -1 -1 Cos 20 +5 +5 Int 5 -3 -3 Sag 10 +0 +0 Car 5 -3 -3 Vulnerabilità tuono Immunità veleno; avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi Sensi Percezione passiva 10; percezione tellurica 18 m, scurovisione 18 m Lingue Primordiale (Terran)
+Tiro salvezza su Forza: CD 13, una creatura di taglia Media o inferiore nello spazio dell'elementale. Fallimento: 24 (4d10 + 2) danni da tuono, il bersaglio viene spinto fino a un massimo di 6 metri di distanza dall'elementale e cade a terra prono. Successo: danni dimezzati. 
 
-**GS 5 (PE 1**  
-800; BC +3)
+## Elementale della terra
+
+**tipo:** Elementale
+**dimensione:** Grande
+**allineamento:** neutrale  
+
+**classe_armatura:** 17
+**iniziativa:** -1 (9)
+**punti_ferita:** 147 (14d10 + 70)
+**velocita:** 9 m, scavo 9 m
+
+**caratteristiche:**
+- forza: 20 (+5)
+- destrezza: 8 (-1)
+- costituzione: 20 (+5)
+- intelligenza: 5 (-3)
+- saggezza: 10 (+0)
+- carisma: 5 (-3)
+
+**tiri_salvezza_base:**
+- forza: +5
+- destrezza: -1
+- costituzione: +5
+- intelligenza: -3
+- saggezza: +0
+- carisma: -3
+
+**vulnerabilità:** tuono
+**immunita_danni:** veleno
+**immunita_condizioni:** avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi
+**sensi:** Percezione passiva 10; percezione tellurica 18 m, scurovisione 18 m
+**lingue:** Primordiale (Terran)  
+**grado_sfida:** 5
+**punti_esperienza:** PE 1.800
+**bonus_competenza:** +3
+**grado_sfida_raw:** 5 (PE 1.800; BC +3)
+
+### Tratti
+
+**Mostro da assedio.**
+L'elementale infligge danni doppi a oggetti e strutture.
+
+**Scivolare nella terra.**
+L'elementale può scavare attraverso la terra e la pietra non magiche e non lavorate, senza disturbare il materiale attraverso cui si muove.
+
+### Attacchi
 
 **Multiattacco**  
 L'elementale effettua due attacchi, usando Schianto o Lancio di roccia in qualsiasi combinazione.
 
 **Schianto**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 14 (2d8 + 5) danni contundenti**  
-
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 14 (2d8 + 5) danni contundenti.
 
 **Lancio di roccia**  
-Tiro per colpire a distanza: +8, gittata 18 m. Colpito: 8 (1d6 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono. 332 System Reference Document 5.2.1 Erinni
+Tiro per colpire a distanza: +8, gittata 18 m. Colpito: 8 (1d6 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 ---
 
