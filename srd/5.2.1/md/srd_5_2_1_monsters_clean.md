@@ -2737,8 +2737,12 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 
 ---
 
-## Draghi blu
+## Drago blu cucciolo
 
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** legale malvagio
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
@@ -2763,17 +2767,13 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fulmine  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
-**lingue:** Draconico  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
+**lingue:** Draconico
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 3 (PE 700; BC +2)  
 
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -2784,10 +2784,46 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni taglienti più 3 (1d6) danni da fulmine.
 
 **Soffio di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 21 (6d6) danni da fulmine. Successo: danni dimezzati. Drago blu giovane Drago Grande (cromatico), legale malvagio CA 18 Iniziativa +4 (14) PF 152 (16d10 + 64) Velocità 12 m, scavo 6 m, volo 24 m MOD SALV MOD SALV MOD SALV For 21 +5 +5 Des 10 +0 +4 Cos 19 +4 +4 Int 14 +2 +2 Sag 13 +1 +5 Car 17 +3 +3 Abilità Furtività +4, Percezione +9 Immunità fulmine Sensi Percezione passiva 19; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 21 (6d6) danni da fulmine. Successo: danni dimezzati.
 
-**GS 9 (PE 5**  
-000; BC +4)
+## Drago blu giovane 
+
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** legale malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +4 (14)  
+**punti_ferita:** 152 (16d10 + 64)
+**velocita:** 12 m, scavo 6 m, volo 24 m
+
+**caratteristiche:**
+- forza: 21 (+5)
+- destrezza: 10 (+0)
+- costituzione: 19 (+4)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 17 (+3)
+
+**tiri_salvezza_base:**
+- forza: +5
+- destrezza: +4
+- costituzione: +4
+- intelligenza: +2
+- saggezza: +5
+- carisma: +3
+
+**abilita:** Furtività +4, Percezione +9 
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 19; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 9
+**punti_esperienza:** PE 5.000
+**bonus_competenza:** +4
+**grado_sfida_raw:** 9 (PE 5.000; BC +4)  
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2796,10 +2832,51 @@ Il drago effettua tre attacchi Squarcio.
 Tiro per colpire in mischia: +9, portata 3 m. Colpito: 12 (2d6 + 5) danni taglienti più 5 (1d10) danni da fulmine.
 
 **Soffio di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. Drago blu adulto Drago Enorme (cromatico), legale malvagio CA 19 Iniziativa +10 (20) PF 212 (17d12 + 102) Velocità 12 m, scavo 9 m, volo 24 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 10 +0 +5 Cos 23 +6 +6 Int 16 +3 +3 Sag 15 +2 +7 Car 20 +5 +5 Abilità Furtività +5, Percezione +12 Immunità fulmine Sensi Percezione passiva 22; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. 
 
-**GS 16 (PE 15**  
-000, o 18.000 nella tana; BC +5)
+## Drago blu adulto
+
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** legale malvagio
+
+**classe_armatura:** 19
+**iniziativa:** +10 (20)  
+**punti_ferita:** 212 (17d12 + 102)
+**velocita:** 12 m, scavo 9 m, volo 24 m
+
+**caratteristiche:**
+- forza: 25 (+7)
+- destrezza: 10 (+0)
+- costituzione: 23 (+6)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 20 (+5)
+
+**tiri_salvezza_base:**
+- forza: +7
+- destrezza: +5
+- costituzione: +6
+- intelligenza: +3
+- saggezza: +7
+- carisma: +5
+
+**abilita:** Furtività +5, Percezione +12
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 22; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 16
+**punti_esperienza:** PE 15.000, o 18.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 16 (PE 15.000, o 18.000 nella tana; BC +5)  
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare frantumare.
@@ -2820,7 +2897,9 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 11 (2d10) danni da fulmine.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22): 1/giorno ciascuno: Inviare, scrutare A volontà: frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22): 
+**1/giorno ciascuno:** Inviare, scrutare 
+**A volontà:** frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 88 (16d10) danni da fulmine. Successo: danni dimezzati.
@@ -2834,13 +2913,70 @@ Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo p
 Il drago usa Incantesimi per lanciare frantumare. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Spazzata di coda**  
-Il drago effettua un attacco Squarcio. 313 System Reference Document 5.2.1
+Il drago effettua un attacco Squarcio.
 
 **Volo celato**  
-Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare fino a metà della sua velocità di volo. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago blu antico Drago Mastodontico (cromatico), legale malvagio CA 22 Iniziativa +14 (24) PF 481 (26d20 + 208) Velocità 12 m, scavo 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 29 +9 +9 Des 10 +0 +7 Cos 27 +8 +8 Int 18 +4 +4 Sag 17 +3 +10 Car 25 +7 +7 Abilità Furtività +7, Percezione +17 Immunità fulmine Sensi Percezione passiva 27; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare fino a metà della sua velocità di volo. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 23 (PE 50**  
-000, o 62.000 nella tana; BC +7)
+## Drago blu antico 
+
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** legale malvagio
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)
+**punti_ferita:** 481 (26d20 + 208)
+**velocita:** 12 m, scavo 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 29 (+9)
+- destrezza: 10 (+0)
+- costituzione: 27 (+8)
+- intelligenza: 18 (+4)
+- saggezza: 17 (+3)
+- carisma: 25 (+7)
+
+**tiri_salvezza_base:**
+- forza: +9
+- destrezza: +7
+- costituzione: +8
+- intelligenza: +4
+- saggezza: +10
+- carisma: +7
+
+**abilita:** Furtività +7, Percezione +17
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 23
+**punti_esperienza:** PE 50.000, o 62.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 23 (PE 50.000, o 62.000 nella tana; BC +7)  
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana)**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco.** 
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare frantumare (di 3º livello).
+
+**Squarcio.**
+Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 11 (2d10) danni da fulmine.
+
+**Incantesimi.** 
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22):
+**1/giorno ciascuno:** Inviare, scrutare
+**A volontà:** frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
+
+**Soffio di fulmini (ricarica 5–6).** 
+Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 88 (16d10) danni da fulmine. Successo: danni dimezzati.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
@@ -2857,7 +2993,6 @@ Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare 
 ---
 
 ## Draghi d'argento
-
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
