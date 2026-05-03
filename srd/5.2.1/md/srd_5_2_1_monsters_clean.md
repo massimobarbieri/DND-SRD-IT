@@ -6490,7 +6490,8 @@ A volontà: Individuazione del magico, luce
 
 ## Glabrezu
 
-**tipo:** Immondo  
+**tipo:** Immondo 
+**dimensione:** Grande 
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 17  
@@ -6545,7 +6546,7 @@ Tiro per colpire in mischia: +9, portata 3 m.
 Se il bersaglio è una creatura di taglia Media o inferiore viene afferrato (CD 15 per sfuggire) da una delle due tenaglie. 339 System Reference Document 5.2.1
 
 **Incantesimi**  
-Il glabrezu lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: confusione, parola del potere stordire, volare A volontà: dissolvi magie, individuazione del magico, oscurità
+Il glabrezu lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: confusione, parola del potere stordire, volare. A volontà: dissolvi magie, individuazione del magico, oscurità
 
 **Pugno**  
 Tiro salvezza su Destrezza: CD 17, una creatura afferrata dal glabrezu. Fallimento: 15 (3d6 + 5) danni contundenti. Successo: danni dimezzati. Gladiatore
