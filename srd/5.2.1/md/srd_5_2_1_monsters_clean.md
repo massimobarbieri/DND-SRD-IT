@@ -7058,8 +7058,9 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 
 ## Golem di ferro
 
-**tipo:** Costrutto  
-**allineamento:** senza allineamento  
+**tipo:** Costrutto
+**dimensione:** Grande
+**allineamento:** senza allineamento
 
 **classe_armatura:** 20  
 **iniziativa:** +9 (19)  
@@ -7083,9 +7084,9 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 - carisma: -5
 
 **immunita_danni:** fuoco, psichico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 36 m  
-**lingue:** capisce il Comune più altre due lingue ma non  
+**lingue:** capisce il Comune più altre due lingue ma non le parla
 **grado_sfida:** 16  
 **punti_esperienza:** PE 15.000  
 **bonus_competenza:** +5  
@@ -7114,13 +7115,14 @@ Tiro per colpire in mischia: +12, portata 3 m. Colpito: 20 (3d8 + 7) danni tagli
 Tiro per colpire a distanza: +10, gittata 36 m. Colpito: 36 (8d8) danni da fuoco.
 
 **Soffio di veleno (ricarica 6)**  
-Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. Fallimento: 55 (10d10) danni da veleno. Successo: danni dimezzati. 342 System Reference Document 5.2.1 Golem di pietra
+Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. Fallimento: 55 (10d10) danni da veleno. Successo: danni dimezzati.
 
 ---
 
 ## Golem di pietra
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 18  
@@ -7145,9 +7147,9 @@ Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. 
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 36 m  
-**lingue:** capisce il Comune più altre due lingue ma non  
+**lingue:** capisce il Comune più altre due lingue ma non le parla
 **grado_sfida:** 10  
 **punti_esperienza:** PE 5.900  
 **bonus_competenza:** +4  
@@ -7164,10 +7166,7 @@ Il golem dispone di vantaggio ai tiri salvezza contro incantesimi e altri effett
 ### Azioni
 
 **Multiattacco**  
-Il golem effettua due attacchi, usando
-
-**Schianto o Dardo vigoroso in qualsiasi combinazione**  
-
+Il golem effettua due attacchi, usando Schianto o Dardo vigoroso in qualsiasi combinazione.
 
 **Schianto**  
 Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 15 (2d8 + 6) danni contundenti più 9 (2d8) danni da forza.
@@ -7178,13 +7177,14 @@ Tiro per colpire a distanza: +9, gittata 36 m. Colpito: 22 (4d10) danni da forza
 ### Azioni bonus
 
 **Lentezza (ricarica 5-6)**  
-Il golem lancia l'incantesimo lentezza, senza bisogno di componenti e utilizzando Costituzione come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17). Gorgone
+Il golem lancia l'incantesimo lentezza, senza bisogno di componenti e utilizzando Costituzione come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17).
 
 ---
 
 ## Gorgone
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 19  
@@ -7228,7 +7228,7 @@ Tiro salvezza su Costituzione: CD 15, tutte le creature in un cono di 9 metri. P
 ### Azioni bonus
 
 **Calpestare**  
-Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Fallimento: 16 (2d10 + 5) danni contundenti. Successo: danni dimezzati. Grick
+Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Fallimento: 16 (2d10 + 5) danni contundenti. Successo: danni dimezzati.
 
 ---
 
