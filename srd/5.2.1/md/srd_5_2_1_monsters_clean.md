@@ -7692,7 +7692,8 @@ L'hezrou salta fino a 9 metri usando 3 metri di movimento.
 ## Hobgoblin guerriero
 
 **gruppo:** Hobgoblin  
-**tipo:** Folletto  
+**tipo:** Folletto (goblinoide)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 18  
@@ -7741,7 +7742,9 @@ Tiro per colpire a distanza: +3, gittata 45/180 m. Colpito: 5 (1d8 + 1) danni pe
 
 ## Hobgoblin capitano
 
-**tipo:** Folletto  
+**gruppo:** Hobgoblin 
+**tipo:** Folletto (goblinoide)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -7787,7 +7790,7 @@ L'hobgoblin effettua due attacchi, utilizzando Spadone o Arco lungo in qualsiasi
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 9 (2d6 + 2) danni taglienti più 3 (1d6) danni da veleno.
 
 **Arco lungo**  
-Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti più 5 (2d4) danni da veleno. Idra
+Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti più 5 (2d4) danni da veleno.
 
 ---
 
