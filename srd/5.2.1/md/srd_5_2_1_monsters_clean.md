@@ -7234,7 +7234,8 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 
 ## Grick
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -7272,22 +7273,17 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 Il grick effettua un attacco Becco e un attacco Tentacoli.
 
 **Becco**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 9 (2d6 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m.Colpito: 9 (2d6 + 2) danni perforanti.
 
 **Tentacoli**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (1d10 + 2) danni taglienti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire) da tutti e quattro i tentacoli. Grifone
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni taglienti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire) da tutti e quattro i tentacoli.
 
 ---
 
 ## Grifone
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -7325,16 +7321,14 @@ Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12
 Il grifone effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 8 (1d8 + 4) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 14 per sfuggire) da entrambi gli artigli frontali del grifone. Grimlock
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d8 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 14 per sfuggire) da entrambi gli artigli frontali del grifone.
 
 ---
 
 ## Grimlock
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Media
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 11  
@@ -7369,13 +7363,14 @@ Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 14
 ### Azioni
 
 **Randello d'ossa**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contundenti più 2 (1d4) danni psichici. Guardiano protettore
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contundenti più 2 (1d4) danni psichici.
 
 ---
 
 ## Guardiano protettore
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -7400,9 +7395,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contun
 - carisma: -4
 
 **immunita_danni:** veleno  
-**immunita_condizione:** affascinato, avvelenato, indebolimento,  
-**sensi:** Percezione passiva 10; scurovisione 18 m, vista  
-**lingue:** capisce i comandi impartiti in qualsiasi lingua, ma  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**sensi:** Percezione passiva 10; scurovisione 18 m, vista cieca 3 m
+**lingue:** capisce i comandi impartiti in qualsiasi lingua, ma non è in grado di parlare
 **grado_sfida:** 7  
 **punti_esperienza:** PE 2.900  
 **bonus_competenza:** +3  
@@ -7430,14 +7425,15 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni contun
 ### Reazioni
 
 **Protezione**  
-Attivazione: un tiro per colpire va a segno sul portatore dell'amuleto del guardiano protettore finché egli si trova entro 1,5 metri dal costrutto. Esito: il portatore dell'amuleto ottiene un bonus di +5 alla CA anche contro il tiro che ha provocato la reazione, aumentando le probabilità che il colpo non vada a segno, fino all'inizio del turno successivo del guardiano protettore. Guardie
+Attivazione: un tiro per colpire va a segno sul portatore dell'amuleto del guardiano protettore finché egli si trova entro 1,5 metri dal costrutto. Esito: il portatore dell'amuleto ottiene un bonus di +5 alla CA anche contro il tiro che ha provocato la reazione, aumentando le probabilità che il colpo non vada a segno, fino all'inizio del turno successivo del guardiano protettore.
 
 ---
 
 ## Guardia
 
 **gruppo:** Guardie  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -7479,7 +7475,9 @@ Tiro per colpire in mischia o a distanza: +3, portata 1,5 m o gittata 6/18 m. Co
 
 ## Capitano delle guardie
 
-**tipo:** Umanoide  
+**gruppo:** Guardie 
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 18  
@@ -7504,7 +7502,7 @@ Tiro per colpire in mischia o a distanza: +3, portata 1,5 m o gittata 6/18 m. Co
 - carisma: +1
 
 **abilita:** Atletica +6, Percezione +4  
-**attrezzatura:** corazza di piastre, giavellotti (6), scudo,  
+**attrezzatura:** corazza di piastre, giavellotti (6), scudo, spada lunga
 **sensi:** Percezione passiva 14  
 **lingue:** comune  
 **grado_sfida:** 4  
@@ -7521,7 +7519,7 @@ La guardia effettua due attacchi, utilizzando Giavellotto o Spada lunga in quals
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 9/36 m. Colpito: 14 (3d6 + 4) danni perforanti.
 
 **Spada lunga**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni taglienti. Guerrieri
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni taglienti.
 
 ---
 

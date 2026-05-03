@@ -115,13 +115,13 @@ Totale mostri estratti: 288
 #DONE Golem di ferro (pagine 49-49): header_continuation_o_parse_da_verificare - le parla
 #DONE Golem di pietra (pagine 49-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
 #DONE Golem di pietra (pagine 49-49): header_continuation_o_parse_da_verificare - le parla
-- Grifone (pagine 50-50): header_continuation_o_parse_da_verificare - 343 System Reference Document 5.2.1
-- Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - paralizzato, pietrificato, spaventato
-- Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - cieca 3 m
-- Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - non è in grado di parlare
-- Guardia (pagine 51-51): gruppo_header - Guardie
-- Guardia (pagine 51-51): header_continuation_o_parse_da_verificare - 344 System Reference Document 5.2.1
-- Capitano delle guardie (pagine 51-51): header_continuation_o_parse_da_verificare - spada lunga
+#DONE Grifone (pagine 50-50): header_continuation_o_parse_da_verificare - 343 System Reference Document 5.2.1
+#DONE Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - paralizzato, pietrificato, spaventato
+#DONE Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - non è in grado di parlare
+#DONE Guardia (pagine 51-51): gruppo_header - Guardie
+#DONE Guardia (pagine 51-51): header_continuation_o_parse_da_verificare - 344 System Reference Document 5.2.1
+#DONE Capitano delle guardie (pagine 51-51): header_continuation_o_parse_da_verificare - spada lunga
 - Guerriero di fanteria (pagine 51-52): gruppo_header - Guerrieri
 - Hezrou (pagine 52-52): header_continuation_o_parse_da_verificare - 345 System Reference Document 5.2.1
 - Hobgoblin guerriero (pagine 52-53): gruppo_header - Hobgoblin
