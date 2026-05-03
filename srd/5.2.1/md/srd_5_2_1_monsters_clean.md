@@ -6486,11 +6486,42 @@ Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti mate
 **Passo velato**
 Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
-## Gigante delle pietre 
-Gigante Enorme, neutrale CA 17 Iniziativa +5 (15) PF 126 (11d12 + 55) Velocità 12 m 338 System Reference Document 5.2.1 MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 15 +2 +5 Cos 20 +5 +8 Int 10 +0 +0 Sag 12 +1 +4 Car 9 -1 -1 Abilità Atletica +12, Furtività +5, Percezione +4 Sensi Percezione passiva 14; scurovisione 18 m Lingue Gigante
+## Gigante delle pietre
 
-**GS 7 (PE 2**  
-900; BC +3)
+**tipo:** Gigante
+**dimensione:** Enorme
+**allineamento:** neutrale
+
+**classe_armatura:** 17
+**iniziativa:** +5 (15)
+**punti_ferita:** 126 (11d12 + 55)
+**velocita:** 12 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 15 (+2)
+- costituzione: 20 (+5)
+- intelligenza: 10 (+0)
+- saggezza: 12 (+1)
+- carisma: 9 (-1)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +5
+- costituzione: +8
+- intelligenza: +0
+- saggezza: +4
+- carisma: -1
+
+**abilità:** Atletica +12, Furtività +5, Percezione +4
+**sensi:** Percezione passiva 14; scurovisione 18 m
+**lingue:** Gigante
+**grado_sfida:** 7
+**punti_esperienza:** PE 2.900
+**bonus_competenza:** +3
+**grado_sfida_raw:** 7 (PE 2.900; BC +3)
+
+### Azioni
 
 **Multiattacco**  
 Il gigante effettua due attacchi, usando Randello di pietra o Macigno in qualsiasi combinazione.
@@ -6501,11 +6532,52 @@ Tiro per colpire in mischia: +9, portata 4,5 m. Colpito: 22 (3d10 + 6) danni con
 **Macigno**  
 Tiro per colpire a distanza: +9, gittata 18/72 m. Colpito: 15 (2d8 + 6) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
+### Reazioni
+
+**Deviare proiettili (ricarica 5–6).**
+Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli infligge danni contundenti, perforanti o taglienti. Esito: il gigante riduce i danni subiti dall'attacco di 11 (1d10 + 6) e, se li riduce a 0, può deflettere una parte della forza di quell'attacco. Tiro salvezza su Destrezza: CD 17, una creatura che il gigante è in grado di vedere entro 18 metri. Fallimento: 11 (1d10 + 6) danni da forza.
+
+## Gigante delle tempeste
+
+**tipo:** Gigante
+**dimensione:** Enorme
+**allineamento:** caotico buono
+
+**classe_armatura:** 16
+**iniziativa:** +7 (17)
+**punti_ferita:** 230 (20d12 + 100)
+**velocita:** 15 m, nuoto 15 m, volo 7,5 m (fluttuare)
+
+**caratteristiche:**
+- forza: 29 (+9)
+- destrezza: 14 (+2)
+- costituzione: 20 (+5)
+- intelligenza: 16 (+3)
+- saggezza: 20 (+5)
+- carisma: 18 (+4)
+
+**tiri_salvezza_base:**
+- forza: +14
+- destrezza: +2
+- costituzione: +10
+- intelligenza: +3
+- saggezza: +10
+- carisma: +9
+
+**abilità:** Arcano +8, Atletica +14, Percezione +10, Storia +8
+**resistenze:** freddo
+**immunità_danni:** fulmine, tuono
+**sensi:** Percezione passiva 20; scurovisione 36 m, vista pura 9 m
+**lingue:** Comune, Gigante
+**grado_sfida:** 13
+**punti_esperienza:** PE 10.000
+**bonus_competenza:** +5
+**grado_sfida_raw:** 13 (PE 10.000; BC +5)
+
+### Azioni
+
 **Multiattacco**  
-Il gigante effettua due attacchi, usando
-
-**Spada tempestosa o Saetta in qualsiasi combinazione**  
-
+Il gigante effettua due attacchi, usando Spada tempestosa o Saetta in qualsiasi combinazione.
 
 **Spada tempestosa**  
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 23 (4d6 + 9) danni taglienti più 13 (3d8) danni da fulmine.
@@ -6514,35 +6586,19 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 23 (4d6 + 9) danni tagli
 Tiro per colpire a distanza: +14, gittata 150 m. Colpito: 22 (2d12 + 9) danni da fulmine, e il bersaglio è accecato e assordato fino all'inizio del turno successivo del gigante.
 
 **Incantesimi**  
-Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18): 1/giorno: Controllare tempo atmosferico A volontà: Individuazione del magico, luce
+Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18):
+**1/giorno:** Controllare tempo atmosferico 
+**A volontà:** Individuazione del magico, luce
 
 **Tempesta di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 18, ogni creatura in un cilindro di 3 metri di raggio e 12 metri d'altezza in un punto che il gigante è in grado di vedere entro 150 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. Glabrezu
-
-### Azioni bonus
-
-**Grido di battaglia (ricarica 5-6)**  
-Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di sentire ottiene 16 (2d10 + 5) punti ferita temporanei e dispone di vantaggio ai tiri per colpire fino all'inizio del turno successivo del gigante. 
-
-
-**Passo velato**  
-Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
-
-
-
-### Reazioni
-
-**Deviare proiettili (ricarica 5-6)**  
-Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli infligge danni contundenti, perforanti o taglienti. Esito: il gigante riduce i danni subiti dall'attacco di 11 (1d10 + 6) e, se li riduce a 0, può deflettere una parte della forza di quell'attacco. Tiro salvezza su Destrezza: CD 17, una creatura che il gigante è in grado di vedere entro 18 metri. Fallimento: 11 (1d10 + 6) danni da forza. Gigante delle tempeste Gigante delle tempeste Gigante Enorme, caotico buono CA 16 Iniziativa +7 (17) PF 230 (20d12 + 100) Velocità 15 m, nuoto 15 m, volo 7,5 m (fluttuare) MOD SALV MOD SALV MOD SALV For 29 +9 +14 Des 14 +2 +2 Cos 20 +5 +10 Int 16 +3 +3 Sag 20 +5 +10 Car 18 +4 +9 Abilità Arcano +8, Atletica +14, Percezione +10, Storia +8 Resistenze freddo Immunità fulmine, tuono Sensi Percezione passiva 20; scurovisione 36 m, vista pura 9 m Lingue Comune, Gigante
-
-**GS 13 (PE 10**  
-000; BC +5)
+Tiro salvezza su Destrezza: CD 18, ogni creatura in un cilindro di 3 metri di raggio e 12 metri d'altezza in un punto che il gigante è in grado di vedere entro 150 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. 
 
 ---
 
 ## Glabrezu
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 17  
@@ -6591,22 +6647,22 @@ Se il glabrezu muore al di fuori dell'Abisso, il suo corpo si dissolve diventand
 Il glabrezu effettua due attacchi Tenaglia, e utilizza Pugno o Incantesimi.
 
 **Tenaglia**  
-Tiro per colpire in mischia: +9, portata 3 m.
-
-**Colpito: 16 (2d10 + 5) danni taglienti**  
-Se il bersaglio è una creatura di taglia Media o inferiore viene afferrato (CD 15 per sfuggire) da una delle due tenaglie. 339 System Reference Document 5.2.1
+Tiro per colpire in mischia: +9, portata 3 m. Colpito: 16 (2d10 + 5) danni taglienti. Se il bersaglio è una creatura di taglia Media o inferiore viene afferrato (CD 15 per sfuggire) da una delle due tenaglie.
 
 **Incantesimi**  
-Il glabrezu lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: confusione, parola del potere stordire, volare A volontà: dissolvi magie, individuazione del magico, oscurità
+Il glabrezu lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
+**1/giorno ciascuno:** confusione, parola del potere stordire, volare
+**A volontà:** dissolvi magie, individuazione del magico, oscurità
 
-**Pugno**  
-Tiro salvezza su Destrezza: CD 17, una creatura afferrata dal glabrezu. Fallimento: 15 (3d6 + 5) danni contundenti. Successo: danni dimezzati. Gladiatore
+**Pugno**
+Tiro salvezza su Destrezza: CD 17, una creatura afferrata dal glabrezu. Fallimento: 15 (3d6 + 5) danni contundenti. Successo: danni dimezzati.
 
 ---
 
 ## Gladiatore
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -6653,13 +6709,14 @@ Tiro salvezza su Forza: CD 15, una creatura entro 1,5 metri che il gladiatore è
 ### Reazioni
 
 **Parata**  
-Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il gladiatore aggiunge 3 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Gnoll
+Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il gladiatore aggiunge 3 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Gnoll guerriero
 
-**gruppo:** Gnoll  
+**gruppo:** Gnoll
+**dimensione:** Medio
 **tipo:** Immondo  
 **allineamento:** caotico malvagio  
 
@@ -6694,10 +6751,7 @@ Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentr
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 5 (1d6 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti.
 
 **Arco d'ossa**  
 Tiro per colpire a distanza: +3, gittata 45/180 m. Colpito: 6 (1d10 + 1) danni perforanti.
@@ -6705,14 +6759,15 @@ Tiro per colpire a distanza: +3, gittata 45/180 m. Colpito: 6 (1d10 + 1) danni p
 ### Azioni bonus
 
 **Furia (1/giorno)**  
-Subito dopo aver inflitto danni a una creatura già sanguinante, lo gnoll si muove fino a metà della sua velocità ed effettua un attacco Squarcio. Goblin
+Subito dopo aver inflitto danni a una creatura già sanguinante, lo gnoll si muove fino a metà della sua velocità ed effettua un attacco Squarcio.
 
 ---
 
 ## Goblin tirapiedi
 
 **gruppo:** Goblin  
-**tipo:** Folletto  
+**tipo:** Folletto (goblinoide)
+**dimensione:** Piccolo
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 12  
@@ -6753,13 +6808,15 @@ Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Co
 ### Azioni bonus
 
 **Fuga agile**  
-Il goblin effettua l'azione di Disimpegno o Nascondersi. 340 System Reference Document 5.2.1
+Il goblin effettua l'azione di Disimpegno o Nascondersi.
 
 ---
 
 ## Goblin guerriero
 
-**tipo:** Folletto  
+**gruppo:** Goblin  
+**tipo:** Folletto (goblinoide)
+**dimensione:** Piccolo
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 15  
@@ -6784,7 +6841,7 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi. 340 System Reference Do
 - carisma: -1
 
 **abilita:** Furtività +6  
-**attrezzatura:** arco corto, armatura di cuoio, scimitarra,  
+**attrezzatura:** arco corto, armatura di cuoio, scimitarra, scudo
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** Comune, Goblin  
 **grado_sfida:** 1/4  
@@ -6809,7 +6866,9 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi.
 
 ## Goblin capo
 
-**tipo:** Folletto  
+**gruppo:** Goblin
+**tipo:** Folletto
+**dimensione:** Piccolo
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 17  
@@ -6864,13 +6923,14 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi.
 ### Reazioni
 
 **Sviare attacco**  
-Attivazione: Una creatura che il goblin è in grado di vedere effettua un tiro per colpire contro di lui. Esito: Il goblin sceglie un alleato di taglia Piccola o Media entro 1,5 metri da sé. Il goblin e l'alleato si scambiano di posto, facendo sì che quest'ultimo diventi il bersaglio dell'attacco al suo posto. Golem di argilla
+Attivazione: Una creatura che il goblin è in grado di vedere effettua un tiro per colpire contro di lui. Esito: Il goblin sceglie un alleato di taglia Piccola o Media entro 1,5 metri da sé. Il goblin e l'alleato si scambiano di posto, facendo sì che quest'ultimo diventi il bersaglio dell'attacco al suo posto.
 
 ---
 
 ## Golem di argilla
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -6896,7 +6956,7 @@ Attivazione: Una creatura che il goblin è in grado di vedere effettua un tiro p
 
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** acido, psichico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 9  
@@ -6921,24 +6981,22 @@ Il golem dispone di vantaggio ai tiri salvezza contro incantesimi e altri effett
 ### Azioni
 
 **Multiattacco**  
-Il golem effettua due attacchi Schianto, o effettua tre attacchi Schianto se ha usato Fretta nello stesso turno. 341 System Reference Document 5.2.1
+Il golem effettua due attacchi Schianto, o effettua tre attacchi Schianto se ha usato Fretta nello stesso turno.
 
 **Schianto**  
 Tiro per colpire in mischia: +9, portata 1,5 m Colpito: 10 (1d10 + 5) danni contundenti più 6 (1d12) danni da acido, e i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni da acido subiti.
 
 ### Azioni bonus
 
-**Fretta (ricarica 5-6)**  
-Il golem effettua le azioni di
-
-**Disimpegno e Scatto**  
-Golem di carne
+**Fretta (ricarica 5-6)**
+Il golem effettua le azioni di Disimpegno e Scatto.
 
 ---
 
 ## Golem di carne
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 9  
@@ -6963,9 +7021,9 @@ Golem di carne
 - carisma: -3
 
 **immunita_danni:** fulmine, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
 **bonus_competenza:** +3  
@@ -6994,7 +7052,7 @@ Il golem dispone di vantaggio ai tiri salvezza contro incantesimi e altri effett
 Il golem effettua due attacchi Schianto.
 
 **Schianto**  
-Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti più 4 (1d8) danni da fulmine. Golem di ferro
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti più 4 (1d8) danni da fulmine.
 
 ---
 
