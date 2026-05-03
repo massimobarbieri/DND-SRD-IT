@@ -4918,7 +4918,7 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 
 **tipo:** Immondo  
 **allineamento:** caotico malvagio  
-
+**dimensione:** Piccolo
 **classe_armatura:** 11  
 **iniziativa:** +0 (10)  
 **punti_ferita:** 18 (4d6 + 4)  
@@ -4956,14 +4956,15 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 Tiro per colpire in mischia: +3, portata 1,5 m.
 
 **Colpito: 4 (1d6 + 1) danni taglienti**  
-Nube fetida (1/giorno) Tiro salvezza su Costituzione: CD 11, tutte le creature in un'emanazione di 3 metri di cui il dretch è il punto di origine. Fallimento: il bersaglio è avvelenato fino al termine del proprio turno successivo. Finché è avvelenata, la creatura può effettuare nel suo turno un'azione o un'azione bonus, ma non entrambe, e non può effettuare reazioni. Driade
+Nube fetida (1/giorno) Tiro salvezza su Costituzione: CD 11, tutte le creature in un'emanazione di 3 metri di cui il dretch è il punto di origine. Fallimento: il bersaglio è avvelenato fino al termine del proprio turno successivo. Finché è avvelenata, la creatura può effettuare nel suo turno un'azione o un'azione bonus, ma non entrambe, e non può effettuare reazioni.
 
 ---
 
 ## Driade
 
 **tipo:** Folletto  
-**allineamento:** neutrale  
+**allineamento:** neutrale
+**dimensione:** Medio
 
 **classe_armatura:** 16  
 **iniziativa:** +1 (11)  
@@ -5027,6 +5028,7 @@ Se si trova entro 1,5 metri da un albero di taglia Grande o superiore, la driade
 
 **tipo:** Mostruosità  
 **allineamento:** caotico malvagio  
+**dimensione:** Grande
 
 **classe_armatura:** 19  
 **iniziativa:** +4 (14)  
@@ -5090,6 +5092,7 @@ Il drider lancia luminescenza, oscurità o ragnatela, senza bisogno di component
 
 **tipo:** Umanoide  
 **allineamento:** neutrale  
+**dimensione:** Medio o piccolo
 
 **classe_armatura:** 13  
 **iniziativa:** +1 (11)  
@@ -5140,7 +5143,8 @@ Il druido lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratte
 ## Efreeti
 
 **tipo:** Elementale  
-**allineamento:** neutrale  
+**allineamento:** neutrale
+**dimensione:** Grande
 
 **classe_armatura:** 17  
 **iniziativa:** +1 (11)  
@@ -5181,6 +5185,26 @@ L'efreeti dispone di vantaggio ai tiri salvezza contro incantesimi e altri effet
 
 **Ristoro elementale**  
 Se l'efreeti muore al di fuori del Piano Elementale del Fuoco, il suo corpo si dissolve in cenere ed esso ne acquisisce uno nuovo dopo 1d4 giorni, tornando in vita con tutti i suoi punti ferita da qualche parte sul Piano Elementale del Fuoco.
+
+### Azioni
+
+**Multiattacco**
+L'efreeti effettua tre attacchi, usando Lama cocente o Scagliare fiamma in qualsiasi combinazione.
+
+**Lama cocente**
+Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 13 (2d6 + 6) danni taglienti più 13 (2d12) danni da fuoco.
+
+**Scagliare fiamma**
+Tiro per colpire a distanza: +8, gittata 36 m. Colpito: 24 (7d6) danni da fuoco.
+
+**Incantesimi**
+L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: forma gassosa, immagine maggiore, invisibilità, linguaggi, muro di fuoco (di 7º livello), spostamento planare
+A volontà: elementalismo, individuazione del magico.
+
+---
+
+# Elementale del fuoco
+
 
 **Aura di fuoco**  
 Alla fine di ogni turno dell'elementale, tutte le creature in un'emanazione di 3 metri di cui l'elementale è il punto di origine subiscono 5 (1d10) danni da fuoco. Le creature e gli oggetti infiammabili che si trovano nell'emanazione iniziano a bruciare.
