@@ -86,10 +86,11 @@ Totale mostri estratti: 288
 #DONE Draghi verdi (pagine 34-35): azioni_leggendarie
 #DONE Draghi verdi (pagine 34-35): incantesimi_interni
 #DONE Dretch (pagine 35-36): header_continuation_o_parse_da_verificare - le creature che capiscono l'Abissale)
-- Driade (pagine 36-36): incantesimi_interni
-- Druido (pagine 37-37): incantesimi_interni
-- Efreeti (pagine 37-39): header_continuation_o_parse_da_verificare - 330 System Reference Document 5.2.1
-- Efreeti (pagine 37-39): incantesimi_interni
+#DONE Driade (pagine 36-36): incantesimi_interni
+#DONE Druido (pagine 37-37): incantesimi_interni
+#DONE Efreeti (pagine 37-39): header_continuation_o_parse_da_verificare - 330 System Reference Document 5.2.1
+#DONE Efreeti (pagine 37-39): incantesimi_interni
+- Elementali: da formattare e controllare
 #DONE Esploratore (pagine 40-40): header_continuation_o_parse_da_verificare - Sopravvivenza +5
 #DONE Ettin (pagine 40-41): header_continuation_o_parse_da_verificare - spaventato, stordito
 #DONE Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - perforante, tagliente, tuono

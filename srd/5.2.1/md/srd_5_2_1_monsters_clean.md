@@ -5049,7 +5049,8 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 
 ## Dretch
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Piccolo
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 11  
@@ -5086,16 +5087,17 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni taglienti.
 
-**Colpito: 4 (1d6 + 1) danni taglienti**  
-Nube fetida (1/giorno) Tiro salvezza su Costituzione: CD 11, tutte le creature in un'emanazione di 3 metri di cui il dretch è il punto di origine. Fallimento: il bersaglio è avvelenato fino al termine del proprio turno successivo. Finché è avvelenata, la creatura può effettuare nel suo turno un'azione o un'azione bonus, ma non entrambe, e non può effettuare reazioni. Driade
+**Nube fetida (1/giorno)**
+Tiro salvezza su Costituzione: CD 11, tutte le creature in un'emanazione di 3 metri di cui il dretch è il punto di origine. Fallimento: il bersaglio è avvelenato fino al termine del proprio turno successivo. Finché è avvelenata, la creatura può effettuare nel suo turno un'azione o un'azione bonus, ma non entrambe, e non può effettuare reazioni.
 
 ---
 
 ## Driade
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -5152,13 +5154,14 @@ La driade lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 ### Azioni bonus
 
 **Passo arboreo**  
-Se si trova entro 1,5 metri da un albero di taglia Grande o superiore, la driade si teletrasporta in uno spazio libero entro 1,5 metri da un secondo albero di taglia Grande o superiore che si trova entro 18 metri dall'altro albero. Drider
+Se si trova entro 1,5 metri da un albero di taglia Grande o superiore, la driade si teletrasporta in uno spazio libero entro 1,5 metri da un secondo albero di taglia Grande o superiore che si trova entro 18 metri dall'altro albero.
 
 ---
 
 ## Drider
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 19  
@@ -5215,13 +5218,14 @@ Tiro per colpire a distanza: +6, gittata 36 m. Colpito: 13 (3d6 + 3) danni da ve
 ### Azioni bonus
 
 **Magia della Regina Ragno (ricarica 5-6)**  
-Il drider lancia luminescenza, oscurità o ragnatela, senza bisogno di componenti materiali e utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14). Druido
+Il drider lancia luminescenza, oscurità o ragnatela, senza bisogno di componenti materiali e utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14).
 
 ---
 
 ## Druido
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -5266,13 +5270,17 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni contun
 Tiro per colpire a distanza: +5, gittata 27 m. Colpito: 10 (3d6) danni radiosi.
 
 **Incantesimi**  
-Il druido lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: animale messaggero, bagliore lunare, passo veloce 2/giorno ciascuno: intralciare, onda tonante A volontà: artificio druidico, parlare con gli animali Efreeti
+Il druido lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
+**1/giorno ciascuno:** animale messaggero, bagliore lunare, passo veloce 
+**2/giorno ciascuno:** intralciare, onda tonante 
+**A volontà:** artificio druidico, parlare con gli animali
 
 ---
 
 ## Efreeti
 
-**tipo:** Elementale  
+**tipo:** Elementale (genio)
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
@@ -5315,6 +5323,61 @@ L'efreeti dispone di vantaggio ai tiri salvezza contro incantesimi e altri effet
 **Ristoro elementale**  
 Se l'efreeti muore al di fuori del Piano Elementale del Fuoco, il suo corpo si dissolve in cenere ed esso ne acquisisce uno nuovo dopo 1d4 giorni, tornando in vita con tutti i suoi punti ferita da qualche parte sul Piano Elementale del Fuoco.
 
+### Azioni
+
+**Multiattacco**  
+L'efreeti effettua tre attacchi, usando Lama cocente o Scagliare fiamma in qualsiasi combinazione.
+
+**Lama cocente**  
+Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 13 (2d6 + 6) danni taglienti più 13 (2d12) danni da fuoco.
+
+**Scagliare fiamma**  
+Tiro per colpire a distanza: +8, gittata 36 m. Colpito: 24 (7d6) danni da fuoco.
+
+**Incantesimi**  
+L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
+**1/giorno ciascuno:** forma gassosa, immagine maggiore, invisibilità, linguaggi, muro di fuoco (di 7º livello), spostamento planare 
+**A volontà:** elementalismo, individuazione del magico 
+
+## Elementale del fuoco
+
+**tipo:** Elementale
+**dimensione:** Grande
+**allineamento:** neutrale  
+
+**classe_armatura:** 13
+**iniziativa:** +3 (13)
+**punti_ferita:** 93 (11d10 + 33)
+**velocita:** 15 m
+
+**caratteristiche:**
+- forza: 10 (+0)
+- destrezza: 17 (+3)
+- costituzione: 16 (+3)
+- intelligenza: 6 (-2)
+- saggezza: 10 (+0)
+- carisma: 7 (-2)
+
+**tiri_salvezza_base:**
+- forza: +0
+- destrezza: +3
+- costituzione: +3
+- intelligenza: -2
+- saggezza: +0
+- carisma: -2
+
+**resistenze:** contundente, perforante, tagliente
+**immunita_danni:** fuoco, veleno
+**immunita_condizioni:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**sensi:** Percezione passiva 10; scurovisione 18 m
+**lingue:** Primordiale (Ignan)  
+**grado_sfida:** 5
+**punti_esperienza:** PE 1.800
+**bonus_competenza:** +3
+**grado_sfida_raw:** 5 (PE 1.800; BC +3)
+
+### Tratti
+
 **Aura di fuoco**  
 Alla fine di ogni turno dell'elementale, tutte le creature in un'emanazione di 3 metri di cui l'elementale è il punto di origine subiscono 5 (1d10) danni da fuoco. Le creature e gli oggetti infiammabili che si trovano nell'emanazione iniziano a bruciare.
 
@@ -5326,6 +5389,21 @@ L'elementale emana luce intensa in un raggio di 9 metri e luce fioca per altri 9
 
 **Suscettibilità all'acqua**  
 Per ogni 1,5 metri di cui l'elementale si muove nell'acqua o per ogni 4 litri d'acqua versatigli addosso, l'elementale subisce 3 (1d6) danni da freddo.
+
+### Azioni
+
+**Multiattacco**  
+L'elementale effettua due attacchi Bruciatura.
+
+**Bruciatura**  
+Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, inizia a bruciare. 
+
+## Elementale dell'acqua 
+
+ Elementale Grande, neutrale CA 14 Iniziativa +2 (12) PF 114 (12d10 + 48) Velocità 9 m, nuoto 27 m MOD SALV MOD SALV MOD SALV For 18 +4 +4 Des 14 +2 +2 Cos 18 +4 +4 Int 5 -3 -3 Sag 10 +0 +0 Car 8 -1 -1 Resistenze acido, fuoco Immunità veleno; afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto Sensi Percezione passiva 10; scurovisione 18 m Lingue Primordiale (Aquan)
+
+**GS 5 (PE 1**  
+800; BC +3) 331 System Reference Document 5.2.1
 
 **Congelamento**  
 Se l'elementale subisce danni da freddo, la sua velocità è ridotta di 6 metri fino al termine del suo turno successivo.
@@ -5342,34 +5420,6 @@ L'elementale infligge danni doppi a oggetti e strutture.
 **Scivolare nella terra**  
 L'elementale può scavare attraverso la terra e la pietra non magiche e non lavorate, senza disturbare il materiale attraverso cui si muove.
 
-### Azioni
-
-**Multiattacco**  
-L'efreeti effettua tre attacchi, usando Lama cocente o Scagliare fiamma in qualsiasi combinazione.
-
-**Lama cocente**  
-Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 13 (2d6 + 6) danni taglienti più 13 (2d12) danni da fuoco.
-
-**Scagliare fiamma**  
-Tiro per colpire a distanza: +8, gittata 36 m. Colpito: 24 (7d6) danni da fuoco.
-
-**Incantesimi**  
-L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: forma gassosa, immagine maggiore, invisibilità, linguaggi, muro di fuoco (di 7º livello), spostamento planare A volontà: elementalismo, individuazione del magico Elementale del fuoco Elementale del fuoco Elementale Grande, neutrale CA 13 Iniziativa +3 (13) PF 93 (11d10 + 33) Velocità 15 m MOD SALV MOD SALV MOD SALV For 10 +0 +0 Des 17 +3 +3 Cos 16 +3 +3 Int 6 -2 -2 Sag 10 +0 +0 Car 7 -2 -2 Resistenze contundente, perforante, tagliente Immunità fuoco, veleno; afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto Sensi Percezione passiva 10; scurovisione 18 m Lingue Primordiale (Ignan)
-
-**GS 5 (PE 1**  
-800; BC +3)
-
-**Multiattacco**  
-L'elementale effettua due attacchi
-
-**Bruciatura**  
-
-
-**Bruciatura**  
-Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, inizia a bruciare. Elementale dell'acqua Elementale dell'acqua Elementale Grande, neutrale CA 14 Iniziativa +2 (12) PF 114 (12d10 + 48) Velocità 9 m, nuoto 27 m MOD SALV MOD SALV MOD SALV For 18 +4 +4 Des 14 +2 +2 Cos 18 +4 +4 Int 5 -3 -3 Sag 10 +0 +0 Car 8 -1 -1 Resistenze acido, fuoco Immunità veleno; afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto Sensi Percezione passiva 10; scurovisione 18 m Lingue Primordiale (Aquan)
-
-**GS 5 (PE 1**  
-800; BC +3) 331 System Reference Document 5.2.1
 
 **Multiattacco**  
 L'elementale effettua due attacchi
