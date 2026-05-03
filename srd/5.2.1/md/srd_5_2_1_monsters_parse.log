@@ -126,14 +126,14 @@ Totale mostri estratti: 288
 #DONE Hezrou (pagine 52-52): header_continuation_o_parse_da_verificare - 345 System Reference Document 5.2.1
 #DONE Hobgoblin guerriero (pagine 52-53): gruppo_header - Hobgoblin
 #DONE Hobgoblin guerriero (pagine 52-53): header_continuation_o_parse_da_verificare - lunga
-- Idra (pagine 53-53): header_continuation_o_parse_da_verificare - spaventato, stordito
-- Imp (pagine 53-54): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
-- Imp (pagine 53-54): mutaforma
-- Incubo (pagine 54-54): header_continuation_o_parse_da_verificare - +5, Persuasione +9
-- Incubo (pagine 54-54): incantesimi_interni
-- Kraken (pagine 54-55): header_continuation_o_parse_da_verificare - spaventato, trattenuto
-- Kraken (pagine 54-55): lair_variant_in_gs
-- Kraken (pagine 54-55): azioni_leggendarie
+#DONE Idra (pagine 53-53): header_continuation_o_parse_da_verificare - spaventato, stordito
+#DONE Imp (pagine 53-54): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
+#DONE Imp (pagine 53-54): mutaforma
+#DONE Incubo (pagine 54-54): header_continuation_o_parse_da_verificare - +5, Persuasione +9
+#DONE Incubo (pagine 54-54): incantesimi_interni
+#DONE Kraken (pagine 54-55): header_continuation_o_parse_da_verificare - spaventato, trattenuto
+#DONE Kraken (pagine 54-55): lair_variant_in_gs
+#DONE Kraken (pagine 54-55): azioni_leggendarie
 - Lamia (pagine 55-55): header_continuation_o_parse_da_verificare - 348 System Reference Document 5.2.1
 - Lamia (pagine 55-55): incantesimi_interni
 - Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - spaventato
