@@ -4035,8 +4035,12 @@ Tiro salvezza su Carisma: CD 24, una creatura che il drago è in grado di vedere
 
 ---
 
-## Draghi d'ottone
+## Drago d'ottone cucciolo
 
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** caotico buono
 
 **classe_armatura:** 15  
 **iniziativa:** +2 (12)  
@@ -4061,52 +4065,118 @@ Tiro salvezza su Carisma: CD 24, una creatura che il drago è in grado di vedere
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fuoco  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1 (PE 200; BC +2)  
 
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. 323 System Reference Document 5.2.1
-
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (1d10 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni taglienti.
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri e larga 1,5 metri. Fallimento: 14 (4d6) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio di sonno**  
-Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. Drago d'ottone giovane Drago Grande (metallico), caotico buono CA 17 Iniziativa +3 (13) PF 110 (13d10 + 39) Velocità 12 m, scavo 6 m, volo 24 m MOD SALV MOD SALV MOD SALV For 19 +4 +4 Des 10 +0 +3 Cos 17 +3 +3 Int 12 +1 +1 Sag 11 +0 +3 Car 15 +2 +2 Abilità Furtività +3, Percezione +6, Persuasione +5 Immunità fuoco Sensi Percezione passiva 16; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. 
 
-**GS 6 (PE 2**  
-300; BC +3)
+## Drago d'ottone giovane
+
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** caotico buono
+
+**classe_armatura:** 17
+**iniziativa:** +3 (13)  
+**punti_ferita:** 110 (13d10 + 39)
+**velocita:** 12 m, scavo 6 m, volo 24 m
+
+**caratteristiche:**
+- forza: 19 (+4)
+- destrezza: 10 (+0)
+- costituzione: 17 (+3)
+- intelligenza: 12 (+1)
+- saggezza: 11 (+0)
+- carisma: 15 (+2)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +3
+- costituzione: +3
+- intelligenza: +1
+- saggezza: +3
+- carisma: +2
+
+**abilita:** Furtività +3, Percezione +6, Persuasione +5
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 16; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 6
+**punti_esperienza:** PE 2.300  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 6 (PE 2.300; BC +3)
+
+### Azioni
 
 **Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire due attacchi con un utilizzo di Soffio di sonno. 322 System Reference Document 5.2.1
+Il drago effettua tre attacchi Squarcio. Può sostituire due attacchi con un utilizzo di Soffio di sonno.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 15 (2d10 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 15 (2d10 + 4) danni taglienti.
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri e larga 1,5 metri. Fallimento: 38 (11d6) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio di sonno**  
-Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. Drago d'ottone adulto Drago Enorme (metallico), caotico buono CA 18 Iniziativa +10 (20) PF 172 (15d12 + 75) Velocità 12 m, scavo 9 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 10 +0 +5 Cos 21 +5 +5 Int 14 +2 +2 Sag 13 +1 +6 Car 17 +3 +3 Abilità Furtività +5, Percezione +11, Persuasione +8, Storia +7 Immunità fuoco Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
 
-**GS 13 (PE 10**  
-000, o 11.500 nella tana; BC +5)
+## Drago d'ottone adulto
+
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** caotico buono
+
+**classe_armatura:** 18
+**iniziativa:** +10 (20)  
+**punti_ferita:** 172 (15d12 + 75)
+**velocita:** 12 m, scavo 9 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 10 (+0)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 17 (+3)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +5
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +6
+- carisma: +3
+
+**abilita:** Furtività +5, Percezione +11, Persuasione +8, Storia +7
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 13
+**punti_esperienza:** PE 10.000, o 11.500 nella tana
+**bonus_competenza:** +5  
+**grado_sfida_raw:** 13 (PE 10.000, o 11.500 nella tana; BC +5)
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio di sonno o (B) Incantesimi per lanciare raggio rovente.
@@ -4115,28 +4185,15 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 17 (2d10 + 6) danni taglienti più 4 (1d8) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: Controllare tempo atmosferico, individuazione dei pensieri A volontà: Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
+**1/giorno ciascuno:** Controllare tempo atmosferico, individuazione dei pensieri
+*A volontà:* Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 45 (10d8) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio di sonno**  
 Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 10 minuti. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio di sonno o (B) Incantesimi per lanciare raggio rovente (di 3º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +14, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 7 (2d6) danni da fuoco.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 1/giorno ciascuno: Controllare tempo atmosferico, individuazione dei pensieri A volontà: Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente (di 3º livello), trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
-
-**Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 21, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 58 (13d8) danni da fuoco. Successo: danni dimezzati.
-
-**Soffio di sonno**  
-Tiro salvezza su Costituzione: CD 21, tutte le creature in un cono di 27 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 10 minuti. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
 
 ### Azioni leggendarie
 
@@ -4150,10 +4207,70 @@ Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squar
 Il drago usa Incantesimi per lanciare raggio rovente.
 
 **Sabbie roventi**  
-Tiro salvezza su Destrezza: CD 16, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 27 (6d8) danni da fuoco, e la velocità del bersaglio è dimezzata fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago d'ottone antico Drago Mastodontico (metallico), caotico buono CA 20 Iniziativa +12 (22) PF 332 (19d20 + 133) Velocità 12 m, scavo 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 10 +0 +6 Cos 25 +7 +7 Int 16 +3 +3 Sag 15 +2 +8 Car 22 +6 +6 Abilità Furtività +6, Percezione +14, Persuasione +12, Storia +9 Immunità fuoco Sensi Percezione passiva 24; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 16, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 27 (6d8) danni da fuoco, e la velocità del bersaglio è dimezzata fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
-**GS 20 (PE 25**  
-000, o 33.000 nella tana; BC +6)
+## Drago d'ottone antico 
+
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** caotico buono
+
+**classe_armatura:** 20
+**iniziativa:** +12 (22)  
+**punti_ferita:** 332 (19d20 + 133)
+**velocita:** 12 m, scavo 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 10 (+0)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +6
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +8
+- carisma: +6
+
+**abilita:** Furtività +6, Percezione +14, Persuasione +12, Storia +9
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 24; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 20
+**punti_esperienza:** PE 25.000, o 33.000 nella tana
+**bonus_competenza:** +6
+**grado_sfida_raw:** 20 (PE 25.000, o 33.000 nella tana; BC +6)
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio di sonno o (B) Incantesimi per lanciare raggio rovente (di 3º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +14, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 7 (2d6) danni da fuoco.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 
+**1/giorno ciascuno:** Controllare tempo atmosferico, individuazione dei pensieri 
+**A volontà:** Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente (di 3º livello), trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+
+**Soffio di fuoco (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 21, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 58 (13d8) danni da fuoco. Successo: danni dimezzati.
+
+**Soffio di sonno**  
+Tiro salvezza su Costituzione: CD 21, tutte le creature in un cono di 27 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 10 minuti. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
