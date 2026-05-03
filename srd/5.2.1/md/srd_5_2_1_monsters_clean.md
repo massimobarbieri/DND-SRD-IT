@@ -7796,7 +7796,8 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 
 ## Idra
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -7821,13 +7822,13 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 - carisma: -2
 
 **abilita:** Percezione +6  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi,  
+**immunita_danni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 16; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 8  
 **punti_esperienza:** PE 3.900  
 **bonus_competenza:** +3  
-**grado_sfida_raw:** 8 (PE 3.900; BC +3) 346 System Reference Document 5.2.1  
+**grado_sfida_raw:** 8 (PE 3.900; BC +3)
 
 ### Tratti
 
@@ -7843,22 +7844,17 @@ Per ogni testa che l'idra possiede oltre la prima, riceve una reazione extra che
 ### Azioni
 
 **Multiattacco**  
-L'idra effettua un numero di attacchi
-
-**Morso pari al numero di teste che possiede**  
-
+L'idra effettua un numero di attacchi Morso pari al numero di teste che possiede.
 
 **Morso**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 10 (1d10 + 5) danni perforanti**  
-Imp
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 10 (1d10 + 5) danni perforanti.
 
 ---
 
 ## Imp
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Minuscolo
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 13  
@@ -7886,7 +7882,7 @@ Imp
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 11; scurovisione 36 m (non  
+**sensi:** Percezione passiva 11; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Comune, Infernale  
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
@@ -7907,7 +7903,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perfor
 L'imp può lanciare invisibilità su di sé senza bisogno di componenti per incantesimi e utilizzando il Carisma come caratteristica da incantatore.
 
 **Mutaforma**  
-L'imp può assumere la forma bestiale di un topo (velocità 6 m), un corvo (6 m, volo 18 m) o un ragno (6 m, scalata 6 m), o tornare alla sua vera forma. Le sue statistiche di gioco restano le stesse in ogni forma, a eccezione della velocità. Nessun oggetto che indossa o trasporta viene trasformato. Incubo
+L'imp può assumere la forma bestiale di un topo (velocità 6 m), un corvo (6 m, volo 18 m) o un ragno (6 m, scalata 6 m), o tornare alla sua vera forma. Le sue statistiche di gioco restano le stesse in ogni forma, a eccezione della velocità. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
