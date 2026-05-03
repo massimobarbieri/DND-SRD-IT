@@ -7526,7 +7526,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni tag
 ## Guerriero di fanteria
 
 **gruppo:** Guerrieri  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -7572,7 +7573,9 @@ Tiro per colpire in mischia o a distanza: +3, portata 1,5 m o gittata 6/18 m. Co
 
 ## Guerriero veterano
 
-**tipo:** Umanoide  
+**gruppo:** Guerrieri  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
@@ -7611,10 +7614,7 @@ Tiro per colpire in mischia o a distanza: +3, portata 1,5 m o gittata 6/18 m. Co
 Il guerriero effettua due attacchi Spadone o Balestra pesante.
 
 **Spadone**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Balestra pesante**  
 Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 12 (2d10 + 1) danni perforanti.
@@ -7622,13 +7622,14 @@ Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 12 (2d10 + 1) danni 
 ### Reazioni
 
 **Parata**  
-Attivazione: il guerriero viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il guerriero aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Hezrou
+Attivazione: il guerriero viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il guerriero aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Hezrou
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 18  
@@ -7684,7 +7685,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 6 (1d4 + 4) danni tagli
 ### Azioni bonus
 
 **Balzo**  
-L'hezrou salta fino a 9 metri usando 3 metri di movimento. Hobgoblin
+L'hezrou salta fino a 9 metri usando 3 metri di movimento.
 
 ---
 
