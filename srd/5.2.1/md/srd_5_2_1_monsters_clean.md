@@ -5945,6 +5945,7 @@ Il fuoco fatuo e la luce che emana sono invisibili finché la sua concentrazione
 ## Fustigatore
 
 **tipo:** Aberrazione  
+**dimensione:** Grande 
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 20  
@@ -5987,25 +5988,21 @@ Il fustigatore può scalare le superfici difficili, compresi i soffitti, senza e
 Il fustigatore effettua due attacchi Tentacolo, usa Riavvolgere ed effettua due attacchi Morso.
 
 **Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 17 (3d8 + 4) danni perforanti**  
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 17 (3d8 + 4) danni perforanti
 
 
 **Tentacolo**  
-Tiro per colpire in mischia: +7, portata 18 m. Colpito: il bersaglio è afferrato (CD 14 per sfuggire) da uno dei sei tentacoli, ed è avvelenato finché la presa perdura. Il tentacolo può essere danneggiato e, quando viene distrutto, libera la creatura che aveva afferrato (CA 20,
-
-**PF 10, immunità ai danni psichici e da veleno)**  
-I danni inflitti al tentacolo non danneggiano in alcun modo il fustigatore, e il tentacolo distrutto ricresce all'inizio del turno successivo del fustigatore.
+Tiro per colpire in mischia: +7, portata 18 m. Colpito: il bersaglio è afferrato (CD 14 per sfuggire) da uno dei sei tentacoli, ed è avvelenato finché la presa perdura. Il tentacolo può essere danneggiato e, quando viene distrutto, libera la creatura che aveva afferrato (CA 20, PF 10, immunità ai danni psichici e da veleno). I danni inflitti al tentacolo non danneggiano in alcun modo il fustigatore, e il tentacolo distrutto ricresce all'inizio del turno successivo del fustigatore.
 
 **Riavvolgere**  
-Il fustigatore tira in linea retta verso di sé ogni creatura che ha afferrato per un massimo di 9 metri. Gargoyle
+Il fustigatore tira in linea retta verso di sé ogni creatura che ha afferrato per un massimo di 9 metri.
 
 ---
 
 ## Gargoyle
 
 **tipo:** Elementale  
+**dimensione:** Medio 
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -6113,7 +6110,8 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 
 ## Ghoul
 
-**tipo:** Non  
+**tipo:** Non morto 
+**dimensione:** Medio 
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -6146,27 +6144,21 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1 (PE 200; BC +2)  
 
-### Tratti
-
-**Anfibio**  
-Il gigante può respirare in aria e in acqua.
-
 ### Azioni
 
 **Multiattacco**  
 Il ghoul effettua due attacchi Morso.
 
 **Artiglio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 4 (1d4 + 2) danni taglienti**  
-Se il bersaglio è una creatura diversa da un non morto o da un elfo, subisce il seguente effetto. Tiro salvezza su Costituzione:
-
-**CD 10**  
-Fallimento: il bersaglio è paralizzato fino al termine del proprio turno successivo.
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 4 (1d4 + 2) danni taglienti. Se il bersaglio è una creatura diversa da un non morto o da un elfo, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 10. Fallimento: il bersaglio è paralizzato fino al termine del proprio turno successivo.
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perforanti più 3 (1d6) danni necrotici. Gigante del fuoco Gigante del fuoco Gigante Enorme, legale malvagio CA 18 Iniziativa +3 (13) PF 162 (13d12 + 78) Velocità 9 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 9 -1 +3 Cos 23 +6 +10 Int 10 +0 +0 Sag 14 +2 +2 Car 13 +1 +5 Abilità Atletica +11, Percezione +6 Immunità fuoco Sensi Percezione passiva 16 Lingue Gigante
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perforanti più 3 (1d6) danni necrotici.
+
+---
+
+# Gigante del fuoco
+Gigante del fuoco Gigante Enorme, legale malvagio CA 18 Iniziativa +3 (13) PF 162 (13d12 + 78) Velocità 9 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 9 -1 +3 Cos 23 +6 +10 Int 10 +0 +0 Sag 14 +2 +2 Car 13 +1 +5 Abilità Atletica +11, Percezione +6 Immunità fuoco Sensi Percezione passiva 16 Lingue Gigante
 
 **GS 9 (PE 5**  
 000; BC +4)
