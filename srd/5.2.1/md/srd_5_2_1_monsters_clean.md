@@ -282,7 +282,8 @@ L'orda può occupare lo spazio di un'altra creatura e viceversa, e può muoversi
 
 ## Assassino
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -307,7 +308,7 @@ L'orda può occupare lo spazio di un'altra creatura e viceversa, e può muoversi
 - carisma: +0
 
 **abilita:** Acrobazia +7, Furtività +10, Percezione +6  
-**attrezzatura:** armatura di cuoio borchiato, balestra  
+**attrezzatura:** armatura di cuoio borchiato, balestra leggera, spada corta
 **resistenze:** veleno  
 **sensi:** Percezione passiva 16  
 **lingue:** Comune, Gergo ladresco  
@@ -335,14 +336,15 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 7 (1d6 + 4) danni perfo
 ### Azioni bonus
 
 **Azione scaltra**  
-L'assassino effettua l'azione di Disimpegno, Nascondersi o Scatto. 296 System Reference Document 5.2.1 Azer
+L'assassino effettua l'azione di Disimpegno, Nascondersi o Scatto.
 
 ---
 
 ## Azer sentinella
 
-**gruppo:** Azer  
-**tipo:** Elementale  
+**gruppo:** Azer
+**tipo:** Elementale
+**dimensione:** Medio
 **allineamento:** legale neutrale  
 
 **classe_armatura:** 17  
@@ -386,19 +388,20 @@ L'azer emana luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri
 ### Azioni
 
 **Martello ardente**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni contundenti più 3 (1d6) danni da fuoco. Balor
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni contundenti più 3 (1d6) danni da fuoco.
 
 ---
 
 ## Balor
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Enorme
 **allineamento:** caotico malvagio  
 
-**classe_armatura:** 19  
-**iniziativa:** +14 (24)  
-**punti_ferita:** 287 (23d12 + 138)  
-**velocita:** 12 m, volo 24 m  
+**classe_armatura:** 19 
+**iniziativa:** +14 (24)
+**punti_ferita:** 287 (23d12 + 138)
+**velocita:** 12 m, volo 24 m
 
 **caratteristiche:**
 - forza: 26 (+8)
@@ -455,14 +458,15 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 21 (3d8 + 8) danni da fo
 ### Azioni bonus
 
 **Teletrasporto**  
-Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé) fino a 18 metri in uno spazio libero che il balor è in grado di vedere. Banditi
+Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé) fino a 18 metri in uno spazio libero che il balor è in grado di vedere.
 
 ---
 
 ## Bandito
 
 **gruppo:** Banditi  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -486,7 +490,7 @@ Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé)
 - saggezza: +0
 - carisma: +0
 
-**attrezzatura:** armatura di cuoio, balestra leggera,  
+**attrezzatura:** armatura di cuoio, balestra leggera, scimitarra
 **sensi:** Percezione passiva 10  
 **lingue:** Comune, Gergo ladresco  
 **grado_sfida:** 1/8  
@@ -496,18 +500,19 @@ Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé)
 
 ### Azioni
 
-**Balestra leggera**  
+**Balestra leggera**
 Tiro per colpire a distanza: +3, gittata 24/96 m. Colpito: 5 (1d8 + 1) danni perforanti.
 
-**Scimitarra**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni taglienti. 297 System Reference Document 5.2.1
+**Scimitarra**
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni taglienti.
 
 ---
 
 ## Capo dei banditi
 
-**gruppo:** Banditi  
-**tipo:** Umanoide  
+**gruppo:** Banditi
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 15  
@@ -532,7 +537,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni tagli
 - carisma: +2
 
 **abilita:** Atletica +4, Inganno +4  
-**attrezzatura:** armatura di cuoio borchiato, pistola,  
+**attrezzatura:** armatura di cuoio borchiato, pistola, scimitarra
 **sensi:** Percezione passiva 10  
 **lingue:** Comune, Gergo ladresco  
 **grado_sfida:** 2  
@@ -554,13 +559,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni tagli
 ### Reazioni
 
 **Parata**  
-Attivazione: il bandito viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il bandito aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Basilisco
+Attivazione: il bandito viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il bandito aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Basilisco
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -599,13 +605,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perfo
 ### Azioni bonus
 
 **Sguardo pietrificante (ricarica 4-6)**  
-Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 9 metri. Se il basilisco vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto. Beccoaguzzo
+Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 9 metri. Se il basilisco vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto.
 
 ---
 
 ## Beccoaguzzo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -639,22 +646,20 @@ Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 9 metri. S
 ### Azioni
 
 **Becco**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 6 (1d8 + 2) danni taglienti**  
-Behir
+Tiro per colpire in mischia: +4, portata 1,5 m *Colpito:* 6 (1d8 + 2) danni taglienti
 
 ---
 
 ## Behir
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Enorme
 **allineamento:** neutrale malvagio  
 
-**classe_armatura:** 17  
-**iniziativa:** +3 (13)  
-**punti_ferita:** 168 (16d12 + 64)  
-**velocita:** 15 m, scalata 15 m  
+**classe_armatura:** 17
+**iniziativa:** +3 (13)
+**punti_ferita:** 168 (16d12 + 64)
+**velocita:** 15 m, scalata 15 m
 
 **caratteristiche:**
 - forza: 23 (+6)
@@ -672,11 +677,11 @@ Behir
 - saggezza: +2
 - carisma: +1
 
-**abilita:** Furtività +7, Percezione +6  
-**immunita_danni:** fulmine  
-**sensi:** Percezione passiva 16; scurovisione 27 m  
-**lingue:** Draconico  
-**grado_sfida:** 11  
+**abilita:** Furtività +7, Percezione +6
+**immunita_danni:** fulmine
+**sensi:** Percezione passiva 16; scurovisione 27 m
+**lingue:** Draconico
+**grado_sfida:** 11
 **punti_esperienza:** PE 7.200  
 **bonus_competenza:** +4  
 **grado_sfida_raw:** 11 (PE 7.200; BC +4)  
@@ -684,10 +689,7 @@ Behir
 ### Azioni
 
 **Multiattacco**  
-Il behir effettua un attacco Morso e usa
-
-**Stritolare**  
-
+Il behir effettua un attacco Morso e usa Stritolare.
 
 **Morso**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 19 (2d12 + 6) danni perforanti più 11 (2d10) danni da fulmine.
@@ -701,13 +703,14 @@ Tiro salvezza su Forza: CD 18, una creatura di taglia Grande o inferiore che il 
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Destrezza: CD 18, una creatura di taglia Grande o inferiore afferrata dal behir (il behir può inghiottire solo una creatura alla volta). Fallimento: Il behir inghiotte il bersaglio, che non è più afferrato. Finché è inghiottita, la creatura è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del behir, e subisce 21 (6d6) danni da acido all'inizio di ogni turno del behir. Se il behir subisce 30 o più danni in un singolo turno dalla creatura inghiottita, deve superare un tiro salvezza su Costituzione con CD 14 alla fine di quel turno, altrimenti rigurgita la creatura, che cade prona in uno spazio entro 3 metri dal behir. Se il behir muore, la creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona. Berserker
+Tiro salvezza su Destrezza: CD 18, una creatura di taglia Grande o inferiore afferrata dal behir (il behir può inghiottire solo una creatura alla volta). Fallimento: Il behir inghiotte il bersaglio, che non è più afferrato. Finché è inghiottita, la creatura è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del behir, e subisce 21 (6d6) danni da acido all'inizio di ogni turno del behir. Se il behir subisce 30 o più danni in un singolo turno dalla creatura inghiottita, deve superare un tiro salvezza su Costituzione con CD 14 alla fine di quel turno, altrimenti rigurgita la creatura, che cade prona in uno spazio entro 3 metri dal behir. Se il behir muore, la creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona.
 
 ---
 
 ## Berserker
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -741,20 +744,21 @@ Tiro salvezza su Destrezza: CD 18, una creatura di taglia Grande o inferiore aff
 
 ### Tratti
 
-**Frenesia sanguinante**  
+**Frenesia sanguinante**
 Finché è sanguinante, il berserker dispone di vantaggio ai tiri per colpire e ai tiri salvezza.
 
 ### Azioni
 
-**Ascia bipenne**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 9 (1d12 + 3) danni taglienti. Bruti
+**Ascia bipenne**
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 9 (1d12 + 3) danni taglienti.
 
 ---
 
 ## Bruto
 
 **gruppo:** Bruti  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -794,10 +798,7 @@ Il bruto dispone di vantaggio a un tiro per colpire contro una creatura se almen
 ### Azioni
 
 **Mazza**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 5 (1d6 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m *Colpito:* 5 (1d6 + 2) danni contundenti
 
 **Balestra pesante**  
 Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 6 (1d10 + 1) danni perforanti.
@@ -807,7 +808,8 @@ Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 6 (1d10 + 1) danni p
 ## Capo dei bruti
 
 **gruppo:** Bruti  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -850,17 +852,18 @@ Il bruto dispone di vantaggio a un tiro per colpire contro una creatura se almen
 Il bruto effettua due attacchi, usando Martello da guerra o Balestra pesante in qualsiasi combinazione.
 
 **Martello da guerra**  
-Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 12 (2d8 + 3) danni contundenti. 299 System Reference Document 5.2.1 Se il bersaglio è una creatura di taglia Grande o inferiore, il bruto lo spinge fino a 3 metri lontano da sé.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 12 (2d8 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, il bruto lo spinge fino a 3 metri lontano da sé.
 
 **Balestra pesante**  
-Tiro per colpire a distanza: +4, gittata 30/120 m. Colpito: 13 (2d10 + 2) danni perforanti. Bugbear
+Tiro per colpire a distanza: +4, gittata 30/120 m. Colpito: 13 (2d10 + 2) danni perforanti.
 
 ---
 
 ## Bugbear cacciatore
 
-**gruppo:** Bugbear  
-**tipo:** Folletto  
+**gruppo:** Bugbear
+**tipo:** Folletto (goblinoide)
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -918,8 +921,9 @@ Tiro salvezza su Destrezza: CD 13, una creatura di taglia Media o inferiore che 
 
 ## Bugbear guerriero
 
-**gruppo:** Bugbear  
-**tipo:** Folletto  
+**gruppo:** Bugbear
+**tipo:** Folletto (goblinoide)
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 14  
@@ -963,16 +967,14 @@ Il bugbear non ha bisogno di usare movimento extra per spostare una creatura che
 Tiro per colpire in mischia o a distanza: +4 (con vantaggio se il bersaglio è afferrato dal bugbear), portata 3 m o gittata 6/18 m. Colpito: 9 (3d4 + 2) danni contundenti.
 
 **Presa**  
-Tiro per colpire in mischia: +4, portata 3 m.
-
-**Colpito: 9 (2d6 + 2) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire). Bulette
+Tiro per colpire in mischia: +4, portata 3 m. *Colpito:* 9 (2d6 + 2) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire).
 
 ---
 
 ## Bulette
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -997,7 +999,7 @@ Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12
 - carisma: -3
 
 **abilita:** Percezione +6  
-**sensi:** Percezione passiva 16; percezione tellurica 36 m, scurovisione 18m 
+**sensi:** Percezione passiva 16; percezione tellurica 36 m, scurovisione 18 m 
 **lingue:** nessuna  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
@@ -1010,24 +1012,22 @@ Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12
 Il bulette effettua due attacchi Morso.
 
 **Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 17 (2d12 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. *Colpito:* 17 (2d12 + 4) danni perforanti.
 
 **Balzo letale**  
-Il bulette usa 1,5 metri di movimento per saltare in uno spazio entro 4,5 metri che contiene una o più creature di taglia Grande o inferiore. Tiro salvezza su Destrezza: CD 15, tutte le creature nello spazio di destinazione del bulette. Fallimento: 19 (3d12) danni contundenti, e il bersaglio è prono. Successo: danni dimezzati, e il bersaglio viene spinto a 1,5 metri di distanza dal bulette. 300 System Reference Document 5.2.1
+Il bulette usa 1,5 metri di movimento per saltare in uno spazio entro 4,5 metri che contiene una o più creature di taglia Grande o inferiore. Tiro salvezza su Destrezza: CD 15, tutte le creature nello spazio di destinazione del bulette. Fallimento: 19 (3d12) danni contundenti, e il bersaglio è prono. Successo: danni dimezzati, e il bersaglio viene spinto a 1,5 metri di distanza dal bulette.
 
 ### Azioni bonus
 
 **Balzo**  
-Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento. Cacciatore invisibile
+Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento.
 
 ---
 
 ## Cacciatore invisibile
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -1082,13 +1082,14 @@ Può sostituire un attacco con un utilizzo di Vortice.
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni da forza.
 
 **Vortice**  
-Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore nello spazio del cacciatore. Fallimento: 7 (1d8 + 3) danni da tuono, e il bersaglio è afferrato (CD 13 per sfuggire). Finché la presa perdura, il bersaglio non può lanciare incantesimi con una componente verbale, e subisce 7 (2d6) danni da tuono all'inizio di ogni turno del cacciatore. Cane della morte
+Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore nello spazio del cacciatore. Fallimento: 7 (1d8 + 3) danni da tuono, e il bersaglio è afferrato (CD 13 per sfuggire). Finché la presa perdura, il bersaglio non può lanciare incantesimi con una componente verbale, e subisce 7 (2d6) danni da tuono all'inizio di ogni turno del cacciatore.
 
 ---
 
 ## Cane della morte
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 12  
@@ -1124,22 +1125,17 @@ Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore 
 ### Azioni
 
 **Multiattacco**  
-Il cane della morte effettua due attacchi
+Il cane della morte effettua due attacchi Morso.
 
 **Morso**  
-
-
-**Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni perforanti**  
-Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Primo fallimento: il bersaglio è avvelenato. Finché lo resta, i punti ferita massimi del bersaglio non tornano alla normalità al termine di un riposo lungo. La creatura ripete il tiro salvezza ogni 24 ore trascorse e, se lo supera, l'effetto svanisce. Fallimenti successivi: i punti ferita massimi del bersaglio avvelenato sono ridotti di 5 (1d10). Cane intermittente
+Tiro per colpire in mischia: +4, portata 1,5 m. *Colpito:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Primo fallimento: il bersaglio è avvelenato. Finché lo resta, i punti ferita massimi del bersaglio non tornano alla normalità al termine di un riposo lungo. La creatura ripete il tiro salvezza ogni 24 ore trascorse e, se lo supera, l'effetto svanisce. Fallimenti successivi: i punti ferita massimi del bersaglio avvelenato sono ridotti di 5 (1d10).
 
 ---
 
 ## Cane intermittente
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** legale buono  
 
 **classe_armatura:** 13  
@@ -1174,27 +1170,25 @@ Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su C
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 5 (1d4 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m *Colpito:* 5 (1d4 + 3) danni perforanti.
 
 ### Azioni bonus
 
 **Teletrasporto (ricarica 4-6)**  
-Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che è in grado di vedere. 301 System Reference Document 5.2.1 Cavaliere
+Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che è in grado di vedere.
 
 ---
 
 ## Cavaliere
 
-**tipo:** Umanoide  
-**allineamento:** neutrale  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
+**allineamento:** neutrale
 
-**classe_armatura:** 18  
-**iniziativa:** +0 (10)  
-**punti_ferita:** 52 (8d8 + 16)  
-**velocita:** 9 m  
+**classe_armatura:** 18
+**iniziativa:** +0 (10)
+**punti_ferita:** 52 (8d8 + 16)
+**velocita:** 9 m
 
 **caratteristiche:**
 - forza: 16 (+3)
@@ -1224,10 +1218,7 @@ Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che 
 ### Azioni
 
 **Multiattacco**  
-Il cavaliere effettua due attacchi, usando
-
-**Spadone o Balestra pesante in qualsiasi combinazione**  
-
+Il cavaliere effettua due attacchi, usando Spadone o Balestra pesante in qualsiasi combinazione.
 
 **Spadone**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni taglienti più 4 (1d8) danni radiosi.
@@ -1238,19 +1229,20 @@ Tiro per colpire a distanza: +2, gittata 30/120 m. Colpito: 11 (2d10) danni perf
 ### Reazioni
 
 **Parata**  
-Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il cavaliere aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Cavallo degli incubi
+Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il cavaliere aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Cavallo degli incubi
 
-**tipo:** Immondo  
-**allineamento:** neutrale malvagio  
+**tipo:** Immondo
+**dimensione:** Grande
+**allineamento:** neutrale malvagio
 
-**classe_armatura:** 13  
-**iniziativa:** +2 (12)  
-**punti_ferita:** 68 (8d10 + 24)  
-**velocita:** 18 m, volo 27 m (fluttuare)  
+**classe_armatura:** 13
+**iniziativa:** +2 (12)
+**punti_ferita:** 68 (8d10 + 24)
+**velocita:** 18 m, volo 27 m (fluttuare)
 
 **caratteristiche:**
 - forza: 18 (+4)
@@ -1268,17 +1260,17 @@ Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre
 - saggezza: +1
 - carisma: +2
 
-**immunita_danni:** fuoco  
-**sensi:** Percezione passiva 11  
-**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non li parla 
-**grado_sfida:** 3  
-**punti_esperienza:** PE 700  
-**bonus_competenza:** +2  
-**grado_sfida_raw:** 3 (PE 700; BC +2)  
+**immunita_danni:** fuoco
+**sensi:** Percezione passiva 11
+**lingue:** capisce l'Abissale, il Comune e l'Infernale ma non li parla
+**grado_sfida:** 3
+**punti_esperienza:** PE 700
+**bonus_competenza:** +2
+**grado_sfida_raw:** 3 (PE 700; BC +2)
 
 ### Tratti
 
-**Conferire resistenza al fuoco**  
+**Conferire resistenza al fuoco**
 Il cavallo degli incubi può conferire resistenza ai danni da fuoco a un cavaliere finché questi si trova sul cavallo.
 
 **Illuminazione**  
@@ -1290,20 +1282,21 @@ Il cavallo degli incubi emana luce intensa in un raggio di 3 metri e luce fioca 
 Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti più 10 (3d6) danni da fuoco.
 
 **Passo etereo**  
-Il cavallo degli incubi e un massimo di tre creature consenzienti situate entro 1,5 metri da esso si teletrasportano dal Piano Materiale al Piano Etereo o viceversa. Centauro
+Il cavallo degli incubi e un massimo di tre creature consenzienti situate entro 1,5 metri da esso si teletrasportano dal Piano Materiale al Piano Etereo o viceversa.
 
 ---
 
 ## Centauro combattente
 
-**gruppo:** Centauro  
-**tipo:** Folletto  
+**gruppo:** Centauro
+**tipo:** Folletto
+**dimensione:** Grande
 **allineamento:** neutrale buono  
 
-**classe_armatura:** 16  
-**iniziativa:** +2 (12)  
-**punti_ferita:** 45 (6d10 + 12)  
-**velocita:** 15 m  
+**classe_armatura:** 16
+**iniziativa:** +2 (12)
+**punti_ferita:** 45 (6d10 + 12)
+**velocita:** 15 m
 
 **caratteristiche:**
 - forza: 18 (+4)
@@ -1336,10 +1329,7 @@ Il cavallo degli incubi e un massimo di tre creature consenzienti situate entro 
 Il centauro effettua due attacchi, utilizzando Picca o Arco lungo in qualsiasi combinazione.
 
 **Picca**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 9 (1d10 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. *Colpito:* 9 (1d10 + 4) danni perforanti.
 
 **Arco lungo**  
 Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti.
@@ -1347,22 +1337,20 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 ### Azioni bonus
 
 **Carica travolgente (Ricarica 5-6)**  
-Il centauro si muove fino alla sua velocità massima senza provocare attacchi di opportunità e può attraversare gli spazi di qualsiasi creatura di taglia Media o inferiore. Ogni creatura il cui spazio viene invaso dal centauro viene bersagliata una volta dal seguente effetto. Tiro salvezza su Forza:
-
-**CD 14**  
-Fallimento: 7 (1d6 + 4) danni contundenti, e il bersaglio è prono. Chimera
+Il centauro si muove fino alla sua velocità massima senza provocare attacchi di opportunità e può attraversare gli spazi di qualsiasi creatura di taglia Media o inferiore. Ogni creatura il cui spazio viene invaso dal centauro viene bersagliata una volta dal seguente effetto. Tiro salvezza su Forza: CD 14 Fallimento: 7 (1d6 + 4) danni contundenti, e il bersaglio è prono.
 
 ---
 
 ## Chimera
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
-**classe_armatura:** 14  
-**iniziativa:** +0 (10)  
-**punti_ferita:** 114 (12d10 + 48)  
-**velocita:** 9 m, volo 18 m  
+**classe_armatura:** 14
+**iniziativa:** +0 (10)
+**punti_ferita:** 114 (12d10 + 48)
+**velocita:** 9 m, volo 18 m
 
 **caratteristiche:**
 - forza: 19 (+4)
@@ -1396,7 +1384,6 @@ La chimera effettua un attacco Sfondamento, un attacco Morso e un attacco Artigl
 **Artiglio**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 7 (1d6 + 4) danni taglienti
 
-
 **Morso**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti, o 18 (4d6 + 4) danni perforanti se la chimera dispone di vantaggio al tiro per colpire.
 
@@ -1404,13 +1391,14 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perf
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 10 (1d12 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 15, tutte le creature in un cono di 4,5 metri. Fallimento: 31 (7d8) danni da fuoco. Successo: danni dimezzati. Chuul
+Tiro salvezza su Destrezza: CD 15, tutte le creature in un cono di 4,5 metri. Fallimento: 31 (7d8) danni da fuoco. Successo: danni dimezzati.
 
 ---
 
 ## Chuul
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 16  
@@ -1458,22 +1446,17 @@ Il chuul percepisce la magia entro 36 metri da sé. Sotto ogni altro aspetto, qu
 Il chuul effettua due attacchi Tenaglia e utilizza Tentacoli paralizzanti.
 
 **Tenaglia**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 9 (1d10 + 4) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due tenaglie.
+Tiro per colpire in mischia: +6, portata 3 m. *Colpito:* 9 (1d10 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due tenaglie.
 
 **Tentacoli paralizzanti**  
-Tiro salvezza su Costituzione:
-
-**CD 13, una creatura afferrata dal chuul**  
-Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del suo turno successivo e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Finché è avvelenato, il bersaglio è paralizzato. Cinghiale mannaro
+Tiro salvezza su Costituzione: CD 13, una creatura afferrata dal chuul. Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del suo turno successivo e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Finché è avvelenato, il bersaglio è paralizzato.
 
 ---
 
 ## Cinghiale mannaro
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** neutrale malvagio 
 
 **classe_armatura:** 15  
@@ -1509,19 +1492,13 @@ Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del s
 ### Azioni
 
 **Multiattacco**  
-Il cinghiale mannaro effettua due attacchi, usando Giavellotto o Zanne in qualsiasi combinazione. Può sostituire un attacco con un attacco
-
-**Trafiggere**  
-
+Il cinghiale mannaro effettua due attacchi, usando Giavellotto o Zanne in qualsiasi combinazione. Può sostituire un attacco con un attacco Trafiggere.
 
 **Giavellotto (solo in forma umanoide o ibrida)**  
 Tiro per colpire in mischia o a distanza: +5, portata 1,5 m o gittata 9/36 m. Colpito: 13 (3d6 + 3) danni perforanti.
 
 **Trafiggere (solo in forma di cinghiale o ibrida)**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su
-
-**Costituzione: CD 12**  
-Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un cinghiale mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del cinghiale mannaro per 24 ore.
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un cinghiale mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del cinghiale mannaro per 24 ore.
 
 **Zanne (solo in forma di cinghiale o ibrida)**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore e il cinghiale mannaro si è mosso di 6 metri o più in linea retta verso di esso 303 System Reference Document 5.2.1 subito prima del colpo, il bersaglio subisce 7 (2d6) danni perforanti extra e cade a terra prono.
@@ -1529,15 +1506,16 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perfo
 ### Azioni bonus
 
 **Mutaforma**  
-Il cinghiale mannaro si trasforma in un ibrido umanoide-cinghiale di taglia Media o in un cinghiale di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Coboldo
+Il cinghiale mannaro si trasforma in un ibrido umanoide-cinghiale di taglia Media o in un cinghiale di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Coboldo guerriero
 
-**gruppo:** Coboldo  
-**tipo:** Drago  
-**allineamento:** neutrale  
+**gruppo:** Coboldo
+**tipo:** Drago
+**dimensione:** Piccolo
+**allineamento:** neutrale
 
 **classe_armatura:** 14  
 **iniziativa:** +2 (12)  
@@ -1579,13 +1557,14 @@ Il coboldo dispone di vantaggio a un tiro per colpire contro una creatura se alm
 ### Azioni
 
 **Pugnale**  
-Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Colpito: 4 (1d4 + 2) danni perforanti. Coccatrice
+Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Colpito: 4 (1d4 + 2) danni perforanti.
 
 ---
 
 ## Coccatrice
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -1620,13 +1599,14 @@ Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Co
 ### Azioni
 
 **Morso pietrificante**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni perforanti. Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 11. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza alla fine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto per 24 ore. Couatl
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni perforanti. Se il bersaglio è una creatura, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 11. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza alla fine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto per 24 ore.
 
 ---
 
 ## Couatl
 
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Medio
 **allineamento:** legale buono  
 
 **classe_armatura:** 19  
@@ -1678,13 +1658,14 @@ Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore che il c
 ### Azioni bonus
 
 **Aiuto divino (2/giorno)**  
-Il couatl lancia benedizione, ristorare inferiore o santuario senza bisogno di componenti, utilizzando la stessa caratteristica da incantatore di Incantesimi. Cubo gelatinoso
+Il couatl lancia benedizione, ristorare inferiore o santuario senza bisogno di componenti, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Cubo gelatinoso
 
-**tipo:** Melma  
+**tipo:** Melma
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 6  
@@ -1731,15 +1712,16 @@ Anche quando il cubo è in piena vista, una creatura deve superare una prova di 
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 12 (3d6 + 2) danni da acido.
 
 **Avviluppare**  
-Il cubo si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Il cubo può muoversi nello spazio di creature di taglia Grande o inferiore se, al suo interno, ha spazio sufficiente a contenerle (vedi il tratto Cubo di melma). Tiro salvezza su Destrezza: CD 12, tutte le creature nel cui spazio il cubo entra per la prima volta durante questo movimento. Fallimento: 10 (3d6) danni da acido, e il bersaglio è avviluppato. Un bersaglio avviluppato soffoca, non può lanciare incantesimi con una componente Verbale, è trattenuto e subisce 10 (3d6) danni da acido all'inizio di ogni turno del cubo. Quando il cubo si muove, il bersaglio avviluppato si muove insieme a esso. Un bersaglio avviluppato può tentare di sfuggire usando un'azione per effettuare una prova di Forza (Atletica) con CD 12. Se la prova viene superata, il bersaglio sfugge ed entra nello spazio libero più vicino. Successo: danni dimezzati, e il bersaglio si sposta in uno spazio libero entro 1,5 metri dal cubo. Se non c'è alcuno spazio libero, il bersaglio fallisce la prova. Cultisti
+Il cubo si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Il cubo può muoversi nello spazio di creature di taglia Grande o inferiore se, al suo interno, ha spazio sufficiente a contenerle (vedi il tratto Cubo di melma). Tiro salvezza su Destrezza: CD 12, tutte le creature nel cui spazio il cubo entra per la prima volta durante questo movimento. Fallimento: 10 (3d6) danni da acido, e il bersaglio è avviluppato. Un bersaglio avviluppato soffoca, non può lanciare incantesimi con una componente Verbale, è trattenuto e subisce 10 (3d6) danni da acido all'inizio di ogni turno del cubo. Quando il cubo si muove, il bersaglio avviluppato si muove insieme a esso. Un bersaglio avviluppato può tentare di sfuggire usando un'azione per effettuare una prova di Forza (Atletica) con CD 12. Se la prova viene superata, il bersaglio sfugge ed entra nello spazio libero più vicino. Successo: danni dimezzati, e il bersaglio si sposta in uno spazio libero entro 1,5 metri dal cubo. Se non c'è alcuno spazio libero, il bersaglio fallisce la prova.
 
 ---
 
 ## Cultista
 
-**gruppo:** Cultisti  
-**tipo:** Umanoide  
-**allineamento:** neutrale  
+**gruppo:** Cultisti
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
+**allineamento:** neutrale
 
 **classe_armatura:** 12  
 **iniziativa:** +1 (11)  
@@ -1780,8 +1762,9 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 3 (1d4 + 1) danni taglie
 
 ## Cultista fanatico
 
-**gruppo:** Cultisti  
-**tipo:** Umanoide  
+**gruppo:** Cultisti
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -1825,13 +1808,14 @@ Il cultista lancia uno dei seguenti incantesimi, utilizzando Saggezza come carat
 ### Azioni bonus
 
 **Arma spirituale (2/giorno)**  
-Il cultista lancia l'incantesimo arma spirituale, utilizzando la stessa caratteristica da incantatore di Incantesimi. Cumulo strisciante
+Il cultista lancia l'incantesimo arma spirituale, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Cumulo strisciante
 
-**tipo:** Vegetale  
+**tipo:** Vegetale
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -1883,13 +1867,14 @@ Può sostituire un attacco con un utilizzo di Avviluppare.
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni contundenti più 5 (2d4) danni da fulmine. Se il bersaglio è una creatura di taglia Media o inferiore, il cumulo strisciante lo tira in linea retta verso di sé per 1,5 metri.
 
 **Avviluppare**  
-Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore entro 1,5 metri. Fallimento: il bersaglio viene attirato nello spazio del cumulo strisciante ed è afferrato (CD 14 per sfuggire). Finché la presa perdura il bersaglio è accecato e trattenuto, e subisce 10 (3d6) danni da fulmine all'inizio di ogni suo turno. Quando il cumulo strisciante si muove, il bersaglio afferrato si muove con esso senza fargli consumare movimento extra. Il cumulo strisciante può afferrare una sola creatura per volta con questa azione. Deva
+Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore entro 1,5 metri. Fallimento: il bersaglio viene attirato nello spazio del cumulo strisciante ed è afferrato (CD 14 per sfuggire). Finché la presa perdura il bersaglio è accecato e trattenuto, e subisce 10 (3d6) danni da fulmine all'inizio di ogni suo turno. Quando il cumulo strisciante si muove, il bersaglio afferrato si muove con esso senza fargli consumare movimento extra. Il cumulo strisciante può afferrare una sola creatura per volta con questa azione.
 
 ---
 
 ## Deva
 
-**tipo:** Celestiale  
+**tipo:** Celestiale (angelo)
+**dimensione:** Medio
 **allineamento:** legale buono  
 
 **classe_armatura:** 17  
@@ -1945,13 +1930,14 @@ Il deva lancia uno dei seguenti incantesimi, senza bisogno di componenti materia
 ### Azioni bonus
 
 **Aiuto divino (2/giorno)**  
-Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi. Diavolo barbuto
+Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Diavolo barbuto
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 13  
@@ -1978,7 +1964,7 @@ Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzan
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato, spaventato  
-**sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica) 
+**sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
@@ -1999,16 +1985,14 @@ Il diavolo effettua un attacco Barba e un attacco Falcione infernale.
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti, e il bersaglio è avvelenato fino all'inizio del turno successivo del diavolo. Finché è avvelenato, il bersaglio non può recuperare punti ferita.
 
 **Falcione infernale**  
-Tiro per colpire in mischia: +5, portata 3 m. Colpito: 8 (1d10 + 3) danni taglienti. Se il bersaglio è una creatura e non ha già una ferita infernale, subisce il seguente effetto. Tiro salvezza su
-
-**Costituzione: CD 12**  
-Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il bersaglio perde 5 (1d10) punti ferita all'inizio di ogni suo turno. La ferita si rimargina dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 12. Diavolo cornuto
+Tiro per colpire in mischia: +5, portata 3 m. Colpito: 8 (1d10 + 3) danni taglienti. Se il bersaglio è una creatura e non ha già una ferita infernale, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il bersaglio perde 5 (1d10) punti ferita all'inizio di ogni suo turno. La ferita si rimargina dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 12.
 
 ---
 
 ## Diavolo cornuto
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 18  
@@ -2035,7 +2019,7 @@ Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il ber
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 13; scurovisione 45 m (non ostacolata dall'oscurità magica) 
+**sensi:** Percezione passiva 13; scurovisione 45 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 11  
 **punti_esperienza:** PE 7.200  
@@ -2048,18 +2032,12 @@ Fallimento: Il bersaglio subisce una ferita infernale. Finché è ferito, il ber
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
 **Multiattacco**  
-Il diavolo effettua tre attacchi, utilizzando Forcone ardente o Scagliare fiamma in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di
-
-**Coda infernale**  
-
+Il diavolo effettua tre attacchi, utilizzando Forcone ardente o Scagliare fiamma in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di Coda infernale.
 
 **Forcone ardente**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (2d8 + 6) danni perforanti più 9 (2d8) danni da fuoco.
@@ -2068,13 +2046,14 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (2d8 + 6) danni perfo
 Tiro per colpire a distanza: +8, gittata 45 m. Colpito: 26 (5d8 + 4) danni da fuoco. Se il bersaglio è un oggetto infiammabile che non è indossato o trasportato, inizia a bruciare.
 
 **Coda infernale**  
-Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di vedere entro 3 metri. Fallimento: 10 (1d8 + 6) danni necrotici, e il bersaglio subisce una ferita infernale se non ne ha già una. Finché è ferito, il bersaglio perde 10 (3d6) punti ferita all'inizio di ogni suo turno. La ferita si chiude dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 17. Diavolo del ghiaccio
+Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di vedere entro 3 metri. Fallimento: 10 (1d8 + 6) danni necrotici, e il bersaglio subisce una ferita infernale se non ne ha già una. Finché è ferito, il bersaglio perde 10 (3d6) punti ferita all'inizio di ogni suo turno. La ferita si chiude dopo 1 minuto, dopo che un incantesimo ripristina i punti ferita del bersaglio, o dopo che il bersaglio o una creatura entro 1,5 metri effettua un'azione per tamponare la ferita superando una prova di Saggezza (Medicina) con CD 17.
 
 ---
 
 ## Diavolo del ghiaccio
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 18  
@@ -2102,7 +2081,7 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di ve
 **immunita_danni:** freddo, fuoco, veleno  
 **immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 17; vista cieca 36 m  
-**lingue:** Infernale; telepatia 36 m  
+**lingue:** Infernale; telepatia 36 m 
 **grado_sfida:** 14  
 **punti_esperienza:** PE 11.500  
 **bonus_competenza:** +5  
@@ -2111,21 +2090,15 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di ve
 ### Tratti
 
 **Resistenza alla magia**  
-Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici. 307 System Reference Document 5.2.1
+Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
 **Multiattacco**  
-Il diavolo effettua tre attacchi Lancia di ghiaccio. Può sostituire un attacco con un attacco
-
-**Coda**  
-
+Il diavolo effettua tre attacchi Lancia di ghiaccio. Può sostituire un attacco con un attacco Coda.
 
 **Coda**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (3d6 + 5) danni contundenti più 18 (4d8) danni da freddo.
@@ -2134,16 +2107,17 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (3d6 + 5) danni contu
 Tiro per colpire in mischia o a distanza: +10, portata 1,5 m o gittata 9/36 m. Colpito: 14 (2d8 + 5) danni perforanti più 10 (3d6) danni da freddo. Fino al termine del proprio turno successivo, il bersaglio non può effettuare un'azione bonus o una reazione, la sua velocità è ridotta di 3 metri e durante il suo turno può muoversi o effettuare un'azione, ma non entrambe le cose. Colpito o mancato: la lancia fa magicamente ritorno nella mano del diavolo subito dopo un attacco a distanza.
 
 **Muro di ghiaccio (ricarica 6)**  
-Il diavolo lancia muro di ghiaccio (di 8º livello), senza bisogno di componenti e utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17). Diavolo della fossa
+Il diavolo lancia muro di ghiaccio (di 8º livello), senza bisogno di componenti e utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17).
 
 ---
 
 ## Diavolo della fossa
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
-**classe_armatura:** 21  
+**classe_armatura:** 21
 **iniziativa:** +14 (24)  
 **punti_ferita:** 337 (27d10 + 189)  
 **velocita:** 9 m, volo 18 m  
@@ -2187,18 +2161,12 @@ Il diavolo della fossa dispone di vantaggio ai tiri salvezza contro incantesimi 
 Se il diavolo della fossa fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 **Ristoro diabolico**  
-Se il diavolo della fossa muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei
-
-**Nove Inferi**  
-
+Se il diavolo della fossa muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
 **Multiattacco**  
-Il diavolo della fossa effettua un attacco Morso, due attacchi Artiglio diabolico e un attacco
-
-**Mazza fiammeggiante**  
-
+Il diavolo della fossa effettua un attacco Morso, due attacchi Artiglio diabolico e un attacco Mazza fiammeggiante.
 
 **Artiglio diabolico**  
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 26 (4d8 + 8) danni necrotici.
@@ -2207,22 +2175,17 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 26 (4d8 + 8) danni necro
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 22 (4d6 + 8) danni da forza più 21 (6d6) danni da fuoco.
 
 **Morso**  
-Tiro per colpire in mischia: +14, portata 3 m.
-
-**Colpito: 18 (3d6 + 8) danni perforanti**  
-Se il bersaglio è una creatura, deve effettuare il seguente tiro salvezza.
-
-**Tiro salvezza su Costituzione: CD 21**  
-Fallimento: il bersaglio viene avvelenato. Finché è avvelenato, il bersaglio non può recuperare punti ferita e subisce 21 (6d6) danni da veleno all'inizio di ogni suo turno; il bersaglio ripete il tiro salvezza al termine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, la prova viene superata automaticamente.
+Tiro per colpire in mischia: +14, portata 3 m. *Colpito:* 18 (3d6 + 8) danni perforanti. Se il bersaglio è una creatura, deve effettuare il seguente tiro salvezza. Tiro salvezza su Costituzione: CD 21. Fallimento: il bersaglio viene avvelenato. Finché è avvelenato, il bersaglio non può recuperare punti ferita e subisce 21 (6d6) danni da veleno all'inizio di ogni suo turno; il bersaglio ripete il tiro salvezza al termine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, la prova viene superata automaticamente.
 
 **Incantesimi del fuoco infernale (ricarica 4-6)**  
-Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21). Può sostituire un incantesimo palla di fuoco con blocca mostri (di 7º livello) o con muro di fuoco. Diavolo delle catene
+Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21). Può sostituire un incantesimo palla di fuoco con blocca mostri (di 7º livello) o con muro di fuoco.
 
 ---
 
 ## Diavolo delle catene
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -2249,7 +2212,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 **resistenze:** contundente, freddo, perforante, tagliente  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 11; scurovisione 36 m (non ostacolata dall'oscurità magica) 
+**sensi:** Percezione passiva 11; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 8  
 **punti_esperienza:** PE 3.900  
@@ -2262,8 +2225,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -2271,10 +2233,7 @@ Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fum
 Il diavolo effettua due attacchi Catena e utilizza Evoca catena infernale.
 
 **Catena**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni taglienti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due catene, e resta trattenuto finché la presa perdura.
+Tiro per colpire in mischia: +7, portata 3 m. *Colpito:* 11 (2d6 + 4) danni taglienti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire) da una delle due catene, e resta trattenuto finché la presa perdura.
 
 **Evoca catena infernale**  
 Il diavolo evoca una catena di fuoco per legare una creatura. Tiro salvezza su Destrezza: CD 15, una creatura che il diavolo è in grado di vedere entro 18 metri. Fallimento: 9 (2d4 + 4) danni da fuoco, e il bersaglio è trattenuto fino alla fine del turno successivo del diavolo; a quel punto la catena scompare. Se il bersaglio è di taglia Grande o inferiore, il diavolo lo trascina in linea retta verso di sé fino a un massimo di 9 metri. Successo: La catena svanisce.
@@ -2282,13 +2241,14 @@ Il diavolo evoca una catena di fuoco per legare una creatura. Tiro salvezza su D
 ### Reazioni
 
 **Sguardo snervante**  
-Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo turno entro 9 metri da quest'ultimo e può vedere il diavolo. Esito - Tiro salvezza su Saggezza: CD 15, la creatura che ha provocato la reazione. Fallimento: il bersaglio è spaventato fino al termine del proprio turno successivo. Successo: il bersaglio è immune allo Sguardo snervante di questo diavolo per 24 ore. Diavolo d'ossa
+Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo turno entro 9 metri da quest'ultimo e può vedere il diavolo. Esito - Tiro salvezza su Saggezza: CD 15, la creatura che ha provocato la reazione. Fallimento: il bersaglio è spaventato fino al termine del proprio turno successivo. Successo: il bersaglio è immune allo Sguardo snervante di questo diavolo per 24 ore.
 
 ---
 
 ## Diavolo d'ossa
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 16  
@@ -2329,10 +2289,7 @@ Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo tur
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -2340,19 +2297,18 @@ Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fum
 Il diavolo effettua due attacchi Artiglio e un attacco Pungiglione infernale.
 
 **Artiglio**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 13 (2d8 + 4) danni taglienti**  
+Tiro per colpire in mischia: +8, portata 3 m. *Colpito:* 13 (2d8 + 4) danni taglienti.
 
 
 **Pungiglione infernale**  
-Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perforanti più 18 (4d8) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo del diavolo. Finché è avvelenato, il bersaglio non può recuperare punti ferita. Diavolo uncinato
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perforanti più 18 (4d8) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo del diavolo. Finché è avvelenato, il bersaglio non può recuperare punti ferita.
 
 ---
 
 ## Diavolo uncinato
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -2390,16 +2346,13 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perfo
 ### Tratti
 
 **Pelle uncinata**  
-All'inizio di ogni suo turno, il diavolo infligge 5 (1d10) danni perforanti a tutte le creature che afferra o a qualsiasi creatura lo afferri. 309 System Reference Document 5.2.1
+All'inizio di ogni suo turno, il diavolo infligge 5 (1d10) danni perforanti a tutte le creature che afferra o a qualsiasi creatura lo afferri.
 
 **Resistenza alla magia**  
 Il diavolo dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -2407,31 +2360,27 @@ Se il diavolo muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fum
 Il diavolo effettua un attacco Artigli e un attacco Coda, o effettua due attacchi Scagliare fiamma.
 
 **Artigli**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 10 (2d6 + 3) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da entrambi gli artigli.
+Tiro per colpire in mischia: +6, portata 1,5 m. *Colpito:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da entrambi gli artigli.
 
 **Coda**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 14 (2d10 + 3) danni taglienti**  
+Tiro per colpire in mischia: +6, portata 3 m. *Colpito:* 14 (2d10 + 3) danni taglienti.
 
 
 **Scagliare fiamma**  
-Tiro per colpire a distanza: +5, gittata 45 m. Colpito: 17 (5d6) danni da fuoco. Se il bersaglio è un oggetto infiammabile che non è indossato o trasportato, inizia a bruciare. Djinni
+Tiro per colpire a distanza: +5, gittata 45 m. Colpito: 17 (5d6) danni da fuoco. Se il bersaglio è un oggetto infiammabile che non è indossato o trasportato, inizia a bruciare.
 
 ---
 
 ## Djinni
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
 **punti_ferita:** 218 (19d10 + 114)  
-**velocita:** 9 m, volo 27 m (fluttuare)  
+**velocita:** 9 m, volo 27 m (fluttuare)
 
 **caratteristiche:**
 - forza: 21 (+5)
@@ -2483,13 +2432,17 @@ Tiro per colpire a distanza: +9, gittata 36 m. Colpito: 13 (3d8) danni da tuono.
 Il djinni evoca un vortice in un punto che è in grado di vedere entro 36 metri. Il vortice riempie un cilindro del raggio di 6 metri e alto 18 metri, centrato su quel punto, e perdura fino al termine della concentrazione del djinni su di esso. Il djinni può spostare il vortice fino a 6 metri all'inizio di ogni suo turno. Ogni volta che il vortice entra nello spazio di una creatura o una creatura entro nello spazio del vortice, la creatura è soggetta al seguente effetto. Tiro salvezza su Forza: CD 17 (una creatura effettua questo tiro salvezza solo una volta per turno, e il djinni non subisce alcun effetto). Fallimento: Finché si trova nel vortice, il bersaglio è trattenuto e si sposta insieme al vortice. All'inizio di ogni suo turno, il bersaglio trattenuto subisce 21 (6d6) danni da tuono. Alla fine di ogni suo turno, il bersaglio ripete il tiro salvezza e, se lo supera, l'effetto svanisce.
 
 **Incantesimi**  
-Il djinni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: creazione, forma gassosa, immagine maggiore, invisibilità, spostamento planare 2/giorno ciascuno: Camminare nel vento, creare cibo e acqua (è in grado di creare vino invece di acqua), linguaggi A volontà: individuazione del bene e del male, individuazione del magico Doppelganger
+Il djinni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
+1/giorno ciascuno: creazione, forma gassosa, immagine maggiore, invisibilità, spostamento planare 
+2/giorno ciascuno: Camminare nel vento, creare cibo e acqua (è in grado di creare vino invece di acqua), linguaggi 
+A volontà: individuazione del bene e del male, individuazione del magico
 
 ---
 
 ## Doppelganger
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -2525,10 +2478,7 @@ Il djinni lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 ### Azioni
 
 **Multiattacco**  
-Il doppelganger effettua due attacchi
-
-**Schianto e usa Sembianze inquietanti**  
-
+Il doppelganger effettua due attacchi Schianto e usa Sembianze inquietanti.
 
 **Schianto**  
 Tiro per colpire in mischia: +6 (con vantaggio durante il primo round di ogni combattimento), portata 1,5 m. Colpito: 11 (2d6 + 4) danni contundenti.
@@ -2546,8 +2496,12 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 
 ---
 
-## Draghi bianchi
+## Drago bianco cucciolo
 
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** caotico malvagio  
 
 **classe_armatura:** 16  
 **iniziativa:** +2 (12)  
@@ -2572,7 +2526,7 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** freddo  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
@@ -2584,15 +2538,6 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 **Camminare sul ghiaccio**  
 Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
 
-**Camminare sul ghiaccio**  
-Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
-
-**Camminare sul ghiaccio**  
-Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
-**Camminare sul ghiaccio**  
-Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
 ### Azioni
 
 **Multiattacco**  
@@ -2602,10 +2547,51 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 6 (1d8 + 2) danni taglienti più 2 (1d4) danni da freddo.
 
 **Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 22 (5d8) danni da freddo. Successo: danni dimezzati. Drago bianco giovane Drago Grande (cromatico), caotico malvagio CA 17 Iniziativa +3 (13) PF 123 (13d10 + 52) Velocità 12 m, nuoto 12 m, scavo 6 m, volo 24 m MOD SALV MOD SALV MOD SALV For 18 +4 +4 Des 10 +0 +3 Cos 18 +4 +4 Int 6 -2 2 Sag 11 +0 +3 Car 12 +1 +1 Abilità Furtività +3, Percezione +6 Immunità freddo Sensi Percezione passiva 16; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 22 (5d8) danni da freddo. Successo: danni dimezzati. 
 
-**GS 6 (PE 2**  
-300; BC +3)
+## Drago bianco giovane
+
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 17
+**iniziativa:** +3 (13)  
+**punti_ferita:** 123 (13d10 + 52)  
+**velocita:** 12 m, nuoto 12 m, scavo 6 m, volo 24 m  
+
+**caratteristiche:**
+- forza: 18 (+4)
+- destrezza: 10 (+0)
+- costituzione: 18 (+4)
+- intelligenza: 6 (-2)
+- saggezza: 11 (+0)
+- carisma: 12 (+1)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +3
+- costituzione: +4
+- intelligenza: -2
+- saggezza: +3
+- carisma: +1
+
+**abilita:** Percezione +6, Furtività +3 
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 16; scurovisione 36 m, vista cieca 9 m
+**lingue:** Draconico  
+**grado_sfida:** 6
+**punti_esperienza:** PE 2.300
+**bonus_competenza:** +3
+**grado_sfida_raw:** 6 (PE 2.300; BC +3)  
+
+### Tratti
+
+**Camminare sul ghiaccio**  
+Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2614,10 +2600,51 @@ Il drago effettua tre attacchi Squarcio.
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglienti più 2 (1d4) danni da freddo.
 
 **Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 15, tutte le creature in un cono di 9 metri. Fallimento: 40 (9d8) danni da freddo. Successo: danni dimezzati. 311 System Reference Document 5.2.1 Drago bianco adulto Drago Enorme (cromatico), caotico malvagio CA 18 Iniziativa +10 (20) PF 200 (16d12 + 96) Velocità 12 m, nuoto 12 m, scavo 9 m, volo 24 m MOD SALV MOD SALV MOD SALV For 22 +6 +6 Des 10 +0 +5 Cos 22 +6 +6 Int 8 -1 -1 Sag 12 +1 +6 Car 12 +1 +1 Abilità Furtività +5, Percezione +11 Immunità freddo Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 15, tutte le creature in un cono di 9 metri. Fallimento: 40 (9d8) danni da freddo. Successo: danni dimezzati.
 
-**GS 13 (PE 10**  
-000, o 11.500 nella tana; BC +5)
+## Drago bianco adulto
+
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +10 (20)  
+**punti_ferita:** 200 (16d12 + 96)  
+**velocita:** 12 m, nuoto 12 m, scavo 9 m, volo 24 m 
+
+**caratteristiche:**
+- forza: 22 (+6)
+- destrezza: 10 (+0)
+- costituzione: 22 (+6)
+- intelligenza: 8 (-1)
+- saggezza: 12 (+1)
+- carisma: 12 (+1)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +5
+- costituzione: +6
+- intelligenza: -1
+- saggezza: +6
+- carisma: +1
+
+**abilita:** Furtività +5, Percezione +11
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 13
+**punti_esperienza:** PE 10.000, o  11.500 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 6 (PE 10.000, o  11.500 nella tana; BC +5)
+
+### Tratti
+
+**Camminare sul ghiaccio**  
+Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2627,6 +2654,63 @@ Tiro per colpire in mischia: +11, portata 3 m. Colpito: 13 (2d6 + 6) danni tagli
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. Fallimento: 54 (12d8) danni da freddo. Successo: danni dimezzati.
+
+### Azioni leggendarie
+**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
+Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+
+**Esplosione congelante**  
+Tiro salvezza su Costituzione: CD 14, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 7 (2d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+**Presenza terrificante**  
+Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+**Balzo**  
+Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio. 
+
+## Drago bianco antico 
+
+**gruppo:** Draghi bianchi
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 20
+**iniziativa:** +12 (22)  
+**punti_ferita:** 333 (18d20 + 144)  
+**velocita:** 12 m, nuoto 12 m, scavo 12 m, volo 24 m 
+
+**caratteristiche:**
+- forza: 26 (+8)
+- destrezza: 10 (+0)
+- costituzione: 26 (+8)
+- intelligenza: 10 (+0)
+- saggezza: 13 (+1)
+- carisma: 18 (+4)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +6
+- costituzione: +8
+- intelligenza: +0
+- saggezza: +7
+- carisma: +4
+
+**abilita:** Furtività +6, Percezione +13
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 23; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 20
+**punti_esperienza:** PE 25.000, o 33.000 nella tana
+**bonus_competenza:** +6
+**grado_sfida_raw:** 20 (PE 25.000, o 33.000 nella tana; BC +6)
+
+### Tratti
+
+**Camminare sul ghiaccio**  
+Il drago può muoversi sulle superfici di ghiaccio e scalarle senza bisogno di effettuare una prova di caratteristica. Inoltre, un terreno difficile costituito da ghiaccio o neve non gli costa alcun movimento aggiuntivo.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2643,33 +2727,22 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. 
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Esplosione congelante**  
-Tiro salvezza su Costituzione: CD 14, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 7 (2d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
-
-**Presenza terrificante**  
-Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
-
-**Balzo**  
-Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio. Drago bianco antico Drago Mastodontico (Cromatico), Caotico Malvagio CA 20 Iniziativa +12 (22) PF 333 (18d20 + 144) Velocità 12 m, nuoto 12 m, scavo 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 26 +8 +8 Des 10 +0 +6 Cos 26 +8 +8 Int 10 +0 +0 Sag 13 +1 +7 Car 18 +4 +4 Abilità Furtività +6, Percezione +13 Immunità freddo Sensi Percezione passiva 23; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
-
-**GS 20 (PE 25**  
-000, o 33.000 nella tana; BC +6)
-
-**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
-
-**Esplosione congelante**  
 Tiro salvezza su Costituzione: CD 20, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 14 (4d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Presenza terrificante**  
-Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro 312 System Reference Document 5.2.1 salvezza sull'incantesimo 18). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio.
 
 ---
 
-## Draghi blu
+## Drago blu cucciolo
 
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** legale malvagio
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
@@ -2694,17 +2767,13 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fulmine  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
-**lingue:** Draconico  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
+**lingue:** Draconico
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 3 (PE 700; BC +2)  
 
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -2715,10 +2784,46 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni taglienti più 3 (1d6) danni da fulmine.
 
 **Soffio di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 21 (6d6) danni da fulmine. Successo: danni dimezzati. Drago blu giovane Drago Grande (cromatico), legale malvagio CA 18 Iniziativa +4 (14) PF 152 (16d10 + 64) Velocità 12 m, scavo 6 m, volo 24 m MOD SALV MOD SALV MOD SALV For 21 +5 +5 Des 10 +0 +4 Cos 19 +4 +4 Int 14 +2 +2 Sag 13 +1 +5 Car 17 +3 +3 Abilità Furtività +4, Percezione +9 Immunità fulmine Sensi Percezione passiva 19; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 21 (6d6) danni da fulmine. Successo: danni dimezzati.
 
-**GS 9 (PE 5**  
-000; BC +4)
+## Drago blu giovane 
+
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** legale malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +4 (14)  
+**punti_ferita:** 152 (16d10 + 64)
+**velocita:** 12 m, scavo 6 m, volo 24 m
+
+**caratteristiche:**
+- forza: 21 (+5)
+- destrezza: 10 (+0)
+- costituzione: 19 (+4)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 17 (+3)
+
+**tiri_salvezza_base:**
+- forza: +5
+- destrezza: +4
+- costituzione: +4
+- intelligenza: +2
+- saggezza: +5
+- carisma: +3
+
+**abilita:** Furtività +4, Percezione +9 
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 19; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 9
+**punti_esperienza:** PE 5.000
+**bonus_competenza:** +4
+**grado_sfida_raw:** 9 (PE 5.000; BC +4)  
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -2727,10 +2832,51 @@ Il drago effettua tre attacchi Squarcio.
 Tiro per colpire in mischia: +9, portata 3 m. Colpito: 12 (2d6 + 5) danni taglienti più 5 (1d10) danni da fulmine.
 
 **Soffio di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. Drago blu adulto Drago Enorme (cromatico), legale malvagio CA 19 Iniziativa +10 (20) PF 212 (17d12 + 102) Velocità 12 m, scavo 9 m, volo 24 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 10 +0 +5 Cos 23 +6 +6 Int 16 +3 +3 Sag 15 +2 +7 Car 20 +5 +5 Abilità Furtività +5, Percezione +12 Immunità fulmine Sensi Percezione passiva 22; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. 
 
-**GS 16 (PE 15**  
-000, o 18.000 nella tana; BC +5)
+## Drago blu adulto
+
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** legale malvagio
+
+**classe_armatura:** 19
+**iniziativa:** +10 (20)  
+**punti_ferita:** 212 (17d12 + 102)
+**velocita:** 12 m, scavo 9 m, volo 24 m
+
+**caratteristiche:**
+- forza: 25 (+7)
+- destrezza: 10 (+0)
+- costituzione: 23 (+6)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 20 (+5)
+
+**tiri_salvezza_base:**
+- forza: +7
+- destrezza: +5
+- costituzione: +6
+- intelligenza: +3
+- saggezza: +7
+- carisma: +5
+
+**abilita:** Furtività +5, Percezione +12
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 22; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 16
+**punti_esperienza:** PE 15.000, o 18.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 16 (PE 15.000, o 18.000 nella tana; BC +5)  
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare frantumare.
@@ -2751,7 +2897,9 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 11 (2d10) danni da fulmine.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22): 1/giorno ciascuno: Inviare, scrutare A volontà: frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22): 
+**1/giorno ciascuno:** Inviare, scrutare 
+**A volontà:** frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 88 (16d10) danni da fulmine. Successo: danni dimezzati.
@@ -2765,13 +2913,70 @@ Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo p
 Il drago usa Incantesimi per lanciare frantumare. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Spazzata di coda**  
-Il drago effettua un attacco Squarcio. 313 System Reference Document 5.2.1
+Il drago effettua un attacco Squarcio.
 
 **Volo celato**  
-Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare fino a metà della sua velocità di volo. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago blu antico Drago Mastodontico (cromatico), legale malvagio CA 22 Iniziativa +14 (24) PF 481 (26d20 + 208) Velocità 12 m, scavo 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 29 +9 +9 Des 10 +0 +7 Cos 27 +8 +8 Int 18 +4 +4 Sag 17 +3 +10 Car 25 +7 +7 Abilità Furtività +7, Percezione +17 Immunità fulmine Sensi Percezione passiva 27; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare fino a metà della sua velocità di volo. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 23 (PE 50**  
-000, o 62.000 nella tana; BC +7)
+## Drago blu antico 
+
+**gruppo:** Draghi blu
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** legale malvagio
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)
+**punti_ferita:** 481 (26d20 + 208)
+**velocita:** 12 m, scavo 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 29 (+9)
+- destrezza: 10 (+0)
+- costituzione: 27 (+8)
+- intelligenza: 18 (+4)
+- saggezza: 17 (+3)
+- carisma: 25 (+7)
+
+**tiri_salvezza_base:**
+- forza: +9
+- destrezza: +7
+- costituzione: +8
+- intelligenza: +4
+- saggezza: +10
+- carisma: +7
+
+**abilita:** Furtività +7, Percezione +17
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 23
+**punti_esperienza:** PE 50.000, o 62.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 23 (PE 50.000, o 62.000 nella tana; BC +7)  
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana)**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco.** 
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare frantumare (di 3º livello).
+
+**Squarcio.**
+Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 11 (2d10) danni da fulmine.
+
+**Incantesimi.** 
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22):
+**1/giorno ciascuno:** Inviare, scrutare
+**A volontà:** frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
+
+**Soffio di fulmini (ricarica 5–6).** 
+Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 88 (16d10) danni da fulmine. Successo: danni dimezzati.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
@@ -2787,8 +2992,12 @@ Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare 
 
 ---
 
-## Draghi d'argento
+## Drago d'argento cucciolo
 
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** legale buono
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
@@ -2813,17 +3022,12 @@ Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare 
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** freddo  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 2 (PE 450; BC +2)  
-
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -2831,43 +3035,108 @@ Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Res
 Il drago effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (1d10 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (1d10 + 4) danni perforanti
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 18 (4d8) danni da freddo. Successo: danni dimezzati.
 
 **Soffio paralizzante**  
-Tiro salvezza su Costituzione:
+Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
-**CD 13, tutte le creature in un cono di 4,5 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Drago d'argento giovane Drago Grande (metallico), legale buono CA 18 Iniziativa +4 (14) PF 168 (16d10 + 80) Velocità 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 10 +0 +4 Cos 21 +5 +5 Int 14 +2 +2 Sag 11 +0 +4 Car 19 +4 +4 Abilità Furtività +4, Percezione +8, Storia +6 Immunità freddo Sensi Percezione passiva 18; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+## Drago d'argento giovane
 
-**GS 9 (PE 5**  
-000; BC +4) 314 System Reference Document 5.2.1
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** legale buono
+
+**classe_armatura:** 18
+**iniziativa:** +4 (14)
+**punti_ferita:** 168 (16d10 + 80)
+**velocita:** 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 10 (+0)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 11 (+0)
+- carisma: 19 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +4
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +4
+- carisma: +4
+
+**abilita:** Furtività +4, Percezione +8, Storia +6
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 18; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 9
+**punti_esperienza:** PE 5.000  
+**bonus_competenza:** +4
+**grado_sfida_raw:** 9 (PE 5.000; BC +4)
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Soffio paralizzante.
 
 **Squarcio**  
-Tiro per colpire in mischia: +10, portata 3 m.
-
-**Colpito: 15 (2d8 + 6) danni taglienti**  
-
+Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (2d8 + 6) danni taglienti.
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 49 (11d8) danni da freddo. Successo: danni dimezzati.
 
 **Soffio paralizzante**  
-Tiro salvezza su Costituzione:
+Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
-**CD 17, tutte le creature in un cono di 9 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Drago d'argento adulto Drago Enorme (metallico), Legale Buono CA 19 Iniziativa +10 (20) PF 216 (16d12 + 112) Velocità 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 10 +0 +5 Cos 25 +7 +7 Int 16 +3 +3 Sag 13 +1 +6 Car 22 +6 +6 Abilità Furtività +5, Percezione +11, Storia +8 Immunità freddo Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+## Drago d'argento adulto
 
-**GS 16 (PE 15**  
-000, o 18.000 nella tana; BC +5)
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** legale buono
+
+**classe_armatura:** 19
+**iniziativa:** +10 (20)
+**punti_ferita:** 216 (16d12 + 112)
+**velocita:** 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 10 (+0)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 13 (+1)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +5
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +6
+- carisma: +6
+
+**abilita:** Furtività +5, Percezione +11, Storia +8
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 16
+**punti_esperienza:** PE 15.000, o 18.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 16 (PE 15.000, o 18.000 nella tana; BC +5)
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio paralizzante o (B) Incantesimi per lanciare coltello di ghiaccio.
@@ -2876,34 +3145,15 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +13, portata 3 m. Colpito: 17 (2d8 + 8) danni taglienti più 4 (1d8) danni da freddo.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 19, +11 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Tempesta di ghiaccio (di 5º livello), zona di verità A volontà: Blocca mostri, coltello di ghiaccio, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 19, +11 al tiro per colpire degli attacchi con incantesimo): 
+1/giorno ciascuno: Tempesta di ghiaccio (di 5º livello), zona di verità 
+A volontà: Blocca mostri, coltello di ghiaccio, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 20, tutte le creature in un cono di 18 metri. Fallimento: 54 (12d8) danni da freddo. Successo: danni dimezzati.
 
-**Soffio paralizzante**  
-Tiro salvezza su Costituzione:
-
-**CD 20, tutte le creature in un cono di 18 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio paralizzante o (B) Incantesimi per lanciare coltello di ghiaccio (di 2º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 9 (2d8) danni da freddo.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Controllare tempo atmosferico, teletrasporto, tempesta di ghiaccio (di 7º livello), zona di verità A volontà: Blocca mostri, coltello di ghiaccio (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
-
-**Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 67 (15d8) danni da freddo. Successo: danni dimezzati.
-
-**Soffio paralizzante**  
-Tiro salvezza su Costituzione:
-
-**CD 24, tutte le creature in un cono di 27 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+**Soffio paralizzante**
+Tiro salvezza su Costituzione: CD 20, tutte le creature in un cono di 18 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 ### Azioni leggendarie
 
@@ -2917,10 +3167,70 @@ Il drago usa Incantesimi per lanciare blocca mostri. il drago non può ripetere 
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
 
 **Bufera**  
-Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 18 metri e larga 3 metri. Fallimento: 14 (4d6) danni da freddo, e il bersaglio viene spinto in linea retta fino a un massimo di 9 metri lontano dal drago. Successo: danni dimezzati. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago d'argento antico Drago Mastodontico (Metallico), Legale Buono CA 22 Iniziativa +14 (24) PF 468 (24d20 + 216) Velocità 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 30 +10 +10 Des 10 +0 +7 Cos 29 +9 +9 Int 18 +4 +4 Sag 15 +2 +9 Car 26 +8 +8 Abilità Furtività +7, Percezione +16, Storia +11 Immunità freddo Sensi Percezione passiva 26; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 18 metri e larga 3 metri. Fallimento: 14 (4d6) danni da freddo, e il bersaglio viene spinto in linea retta fino a un massimo di 9 metri lontano dal drago. Successo: danni dimezzati. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
-**GS 23 (PE 50**  
-000, o 62.000 nella tana; BC +7) 315 System Reference Document 5.2.1
+## Drago d'argento antico
+
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** legale buono
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)
+**punti_ferita:** 468 (24d20 + 216)
+**velocita:** 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 30 (+10)
+- destrezza: 10 (+0)
+- costituzione: 29 (+9)
+- intelligenza: 18 (+4)
+- saggezza: 15 (+2)
+- carisma: 26 (+8)
+
+**tiri_salvezza_base:**
+- forza: +10
+- destrezza: +7
+- costituzione: +9
+- intelligenza: +4
+- saggezza: +9
+- carisma: +8
+
+**abilita:** Furtività +7, Percezione +16, Storia +11
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 26; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 23
+**punti_esperienza:** PE 50.000, o 62.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 23 (PE 50.000, o 62.000 nella tana; BC +7)
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio paralizzante o (B) Incantesimi per lanciare coltello di ghiaccio (di 2º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 9 (2d8) danni da freddo.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Controllare tempo atmosferico, teletrasporto, tempesta di ghiaccio (di 7º livello), zona di verità 
+**A volontà:** Blocca mostri, coltello di ghiaccio (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+
+**Soffio di freddo (ricarica 5-6)**  
+Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 67 (15d8) danni da freddo. Successo: danni dimezzati.
+
+**Soffio paralizzante**  
+Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
@@ -2936,8 +3246,12 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 
 ---
 
-## Draghi di bronzo
+## Drago di bronzo cucciolo
 
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** legale buono
 
 **classe_armatura:** 15  
 **iniziativa:** +2 (12)  
@@ -2962,7 +3276,7 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fulmine  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
@@ -2974,52 +3288,122 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 **Anfibio**  
 Il drago può respirare in aria e in acqua.
 
-**Anfibio**  
-Il drago può respirare in aria e in acqua.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. 317 System Reference Document 5.2.1
-
 ### Azioni
 
 **Multiattacco**  
 Il drago effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 8 (1d10 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 8 (1d10 + 3) danni taglienti.
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 12 metri e larga 1,5 metri. Fallimento: 16 (3d10) danni da fulmine. Successo: danni dimezzati.
 
 **Soffio repulsivo**  
-Tiro salvezza su Forza: CD 12, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 9 metri di distanza dal drago e cade a terra prono. Drago di bronzo giovane Drago Grande (metallico), legale buono CA 17 Iniziativa +3 (13) PF 142 (15d10 + 60) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 21 +5 +5 Des 10 +0 +3 Cos 19 +4 +4 Int 14 +2 +2 Sag 13 +1 +4 Car 17 +3 +3 Abilità Furtività +3, Intuizione +4, Percezione +7 Immunità fulmine Sensi Percezione passiva 17; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Forza: CD 12, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 9 metri di distanza dal drago e cade a terra prono. 
 
-**GS 8 (PE 3**  
-900; BC +3) 316 System Reference Document 5.2.1
+## Drago di bronzo giovane
+
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** legale buono
+
+**classe_armatura:** 17
+**iniziativa:** +3 (13)
+**punti_ferita:** 142 (15d10 + 60)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 21 (+5)
+- destrezza: 10 (+0)
+- costituzione: 19 (+4)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 17 (+3)
+
+**tiri_salvezza_base:**
+- forza: +5
+- destrezza: +3
+- costituzione: +4
+- intelligenza: +2
+- saggezza: +4
+- carisma: +3
+
+**abilita:** Furtività +3, Intuizione +4, Percezione +7
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 17; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 8
+**punti_esperienza:** PE 3.900
+**bonus_competenza:** +3
+**grado_sfida_raw:** 8 (PE 3.900; BC +3)
+
+### Tratti
+
+**Anfibio**  
+Il drago può respirare in aria e in acqua.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Soffio repulsivo.
 
 **Squarcio**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 16 (2d10 + 5) danni taglienti**  
-
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 16 (2d10 + 5) danni taglienti.
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 15, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 49 (9d10) danni da fulmine. Successo: danni dimezzati.
 
 **Soffio repulsivo**  
-Tiro salvezza su Forza: CD 15, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 12 metri di distanza dal drago e cade a terra prono. Drago di bronzo adulto Drago Enorme (metallico), Legale Buono CA 18 Iniziativa +10 (20) PF 212 (17d12 + 102) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 25 +7 +7 Des 10 +0 +5 Cos 23 +6 +6 Int 16 +3 +3 Sag 15 +2 +7 Car 20 +5 +5 Abilità Furtività +5, Intuizione +7, Percezione +12 Immunità fulmine Sensi Percezione passiva 22; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Forza: CD 15, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 12 metri di distanza dal drago e cade a terra prono. 
 
-**GS 15 (PE 13**  
-000, o 15.000 nella tana; BC +5)
+## Drago di bronzo adulto 
+
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** legale buono
+
+**classe_armatura:** 18
+**iniziativa:** +10 (20)
+**punti_ferita:** 212 (17d12 + 102)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 25 (+7)
+- destrezza: 10 (+0)
+- costituzione: 23 (+6)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 20 (+5)
+
+**tiri_salvezza_base:**
+- forza: +7
+- destrezza: +5
+- costituzione: +6
+- intelligenza: +3
+- saggezza: +7
+- carisma: +5
+
+**abilita:** Furtività +5, Intuizione +7, Percezione +12
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 22; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 15
+**punti_esperienza:** PE 13.000, o 15.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 15 (PE 13.000, o 15.000 nella tana; BC +5)
+
+### Tratti
+
+**Anfibio.** 
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana). **
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio repulsivo o (B) Incantesimi per lanciare dardo tracciante (di 2º livello).
@@ -3028,13 +3412,76 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +12, portata 3 m. Colpito: 16 (2d8 + 7) danni taglienti più 5 (1d10) danni da fulmine.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +10 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Individuazione dei pensieri, respirare sott'acqua A volontà: Dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +10 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Individuazione dei pensieri, respirare sott'acqua 
+**A volontà:** Dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati.
 
 **Soffio repulsivo**  
 Tiro salvezza su Forza: CD 19, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 18 metri di distanza dal drago e cade a terra prono.
+
+### Azioni leggendarie
+
+**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
+Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+
+**Balzo**  
+Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
+
+**Luce guida**  
+Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
+
+**Rombo di tuono**  
+Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 10 (3d6) danni da tuono, e il bersaglio è assordato fino al termine del proprio turno successivo. 
+
+## Drago di bronzo antico 
+
+**gruppo:** Draghi di bronzo
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** legale buono
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)
+**punti_ferita:** 444 (24d20 + 192)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 29 (+9)
+- destrezza: 10 (+0)
+- costituzione: 27 (+8)
+- intelligenza: 18 (+4)
+- saggezza: 17 (+3)
+- carisma: 25 (+7)
+
+**tiri_salvezza_base:**
+- forza: +9
+- destrezza: +7
+- costituzione: +8
+- intelligenza: +4
+- saggezza: +10
+- carisma: +7
+
+**abilita:** Furtività +7, Intuizione +10, Percezione +17
+**immunita_danni:** fulmine  
+**sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 22
+**punti_esperienza:** PE 41.000, o 50.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 22 (PE 41.000, o 50.000 nella tana; BC +7)
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio repulsivo o (B) Incantesimi per lanciare dardo tracciante (di 2º livello).
@@ -3043,7 +3490,9 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 9 (2d8) danni da fulmine.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22, +14 al tiro per colpire degli attacchi con incantesimo): A volontà: dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza concentrazione o punti ferita temporanei per mantenere l'incantesimo) 1/giorno ciascuno: controllare acqua, individuazione dei pensieri, respirare sott'acqua, scrutare
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22, +14 al tiro per colpire degli attacchi con incantesimo): 
+**A volontà:** dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza concentrazione o punti ferita temporanei per mantenere l'incantesimo) 
+**1/giorno ciascuno:** controllare acqua, individuazione dei pensieri, respirare sott'acqua, scrutare
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 82 (15d10) danni da fulmine. Successo: danni dimezzati.
@@ -3063,27 +3512,16 @@ Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squar
 Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
 
 **Rombo di tuono**  
-Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 10 (3d6) danni da tuono, e il bersaglio è assordato fino al termine del proprio turno successivo. Drago di bronzo antico Drago Mastodontico (Metallico), Legale Buono CA 22 Iniziativa +14 (24) PF 444 (24d20 + 192) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 29 +9 +9 Des 10 +0 +7 Cos 27 +8 +8 Int 18 +4 +4 Sag 17 +3 +10 Car 25 +7 +7 Abilità Furtività +7, Intuizione +10, Percezione +17 Immunità fulmine Sensi Percezione passiva 27; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
-
-**GS 22 (PE 41**  
-000, o 50.000 nella tana; BC +7)
-
-**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
-
-**Balzo**  
-Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
-
-**Luce guida**  
-Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
-
-**Rombo di tuono**  
 Tiro salvezza su Costituzione: CD 22, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 13 (3d8) danni da tuono, e il bersaglio è assordato fino al termine del proprio turno successivo.
 
 ---
 
-## Draghi di rame
+## Drago di rame cucciolo
 
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** caotico buono
 
 **classe_armatura:** 16  
 **iniziativa:** +3 (13)  
@@ -3108,52 +3546,118 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in una sfera di 6 metri 
 
 **abilita:** Furtività +3, Percezione +4  
 **immunita_danni:** acido  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1 (PE 200; BC +2)  
 
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (1d10 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni taglienti.
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri e larga 1,5 metri. Fallimento: 18 (4d8) danni da acido. Successo: danni dimezzati.
 
 **Soffio rallentante**  
-Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. Drago di rame giovane Drago Grande (metallico), caotico buono CA 17 Iniziativa +4 (14) PF 119 (14d10 + 42) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 19 +4 +4 Des 12 +1 +4 Cos 17 +3 +3 Int 16 +3 +3 Sag 13 +1 +4 Car 15 +2 +2 Abilità Furtività +4, Inganno +5, Percezione +7 Immunità acido Sensi Percezione passiva 17; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
 
-**GS 7 (PE 2**  
-900; BC +3)
+## Drago di rame giovane
+
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** caotico buono
+
+**classe_armatura:** 17
+**iniziativa:** +4 (14)
+**punti_ferita:** 119 (14d10 + 42)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 19 (+4)
+- destrezza: 12 (+1)
+- costituzione: 17 (+3)
+- intelligenza: 16 (+3)
+- saggezza: 13 (+1)
+- carisma: 15 (+2)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +4
+- costituzione: +3
+- intelligenza: +3
+- saggezza: +4
+- carisma: +2
+
+**abilita:** Furtività +4, Inganno +5, Percezione +7
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 17; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 7
+**punti_esperienza:** PE 2.900
+**bonus_competenza:** +3
+**grado_sfida_raw:** 7 (PE 2.900; BC +3)  
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Soffio rallentante.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 15 (2d10 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 15 (2d10 + 4) danni taglienti.
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri e larga 1,5 metri. Fallimento: 40 (9d8) danni da acido. Successo: danni dimezzati.
 
 **Soffio rallentante**  
-Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione 318 System Reference Document 5.2.1 o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. Drago di rame adulto Drago Enorme (metallico), caotico buono CA 18 Iniziativa +11 (21) PF 184 (16d12 + 80) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 12 +1 +6 Cos 21 +5 +5 Int 18 +4 +4 Sag 15 +2 +7 Car 18 +4 +4 Abilità Furtività +6, Inganno +9, Percezione +12 Immunità acido Sensi Percezione passiva 22; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
 
-**GS 14 (PE 11**  
-500, o 13.000 nella tana; BC +5)
+## Drago di rame adulto
+
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** caotico buono
+
+**classe_armatura:** 18
+**iniziativa:** +11 (21)
+**punti_ferita:** 184 (16d12 + 80)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 12 (+1)
+- costituzione: 21 (+5)
+- intelligenza: 18 (+4)
+- saggezza: 15 (+2)
+- carisma: 18 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +6
+- costituzione: +5
+- intelligenza: +4
+- saggezza: +7
+- carisma: +4
+
+**abilita:** Furtività +6, Inganno +9, Percezione +12
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 22; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 14
+**punti_esperienza:** PE 11.500, o 13.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 14 (PE 11.500, o 13.000 nella tana; BC +5)  
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio rallentante o (B) Incantesimi per lanciare aculeo mentale (di 4º livello).
@@ -3162,16 +3666,73 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 17 (2d10 + 6) danni taglienti più 4 (1d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: Immagine maggiore, ristorare superiore A volontà: Aculeo mentale (di 4º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
+**1/giorno ciascuno:** Immagine maggiore, ristorare superiore 
+**A volontà:** Aculeo mentale (di 4º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 54 (12d8) danni da acido. Successo: danni dimezzati.
 
 **Soffio rallentante**  
-Tiro salvezza su Costituzione:
+Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo.
 
-**CD 18, tutte le creature in un cono di 18 metri**  
-Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo.
+### Azioni leggendarie
+
+**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
+Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+
+**Balzo**  
+Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
+
+**Magia ridacchiante**  
+Tiro salvezza su Carisma: CD 17, una creatura che il drago è in grado di vedere entro 27 metri. Fallimento: 24 (7d6) danni psichici. Fino al termine del proprio turno successivo, il bersaglio tira 1d6 ogni volta che effettua una prova di caratteristica o un tiro per colpire e sottrae il risultato dalla prova con d20. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+**Scossa mentale**  
+Il drago usa Incantesimi per lanciare aculeo mentale (di 4º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
+
+## Drago di rame antico
+
+**gruppo:** Draghi di rame
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** caotico buono
+
+**classe_armatura:** 21
+**iniziativa:** +15 (25)
+**punti_ferita:** 367 (21d20 + 147)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 12 (+1)
+- costituzione: 25 (+7)
+- intelligenza: 20 (+5)
+- saggezza: 17 (+3)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +8
+- costituzione: +7
+- intelligenza: +5
+- saggezza: +10
+- carisma: +6
+
+**abilita:** Furtività +8, Inganno +13, Percezione +17
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 21
+**punti_esperienza:** PE 33.000, o 41.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 21 (PE 33.000, o 41.000 nella tana; BC +7) 
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio rallentante o (B) Incantesimi per lanciare aculeo mentale (di 5º livello).
@@ -3180,7 +3741,9 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 9 (2d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 1/giorno ciascuno: Immagine maggiore, immagine proiettata, ristorare superiore 319 System Reference Document 5.2.1 A volontà: Aculeo mentale (di 5º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 
+**1/giorno ciascuno:** Immagine maggiore, immagine proiettata, ristorare superiore
+**A volontà:** Aculeo mentale (di 5º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 63 (14d8) danni da acido. Successo: danni dimezzati.
@@ -3197,21 +3760,6 @@ Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo p
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
 
 **Magia ridacchiante**  
-Tiro salvezza su Carisma: CD 17, una creatura che il drago è in grado di vedere entro 27 metri. Fallimento: 24 (7d6) danni psichici. Fino al termine del proprio turno successivo, il bersaglio tira 1d6 ogni volta che effettua una prova di caratteristica o un tiro per colpire e sottrae il risultato dalla prova con d20. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
-
-**Scossa mentale**  
-Il drago usa Incantesimi per lanciare aculeo mentale (di 4º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago di rame antico Drago Mastodontico (metallico), caotico buono CA 21 Iniziativa +15 (25) PF 367 (21d20 + 147) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 12 +1 +8 Cos 25 +7 +7 Int 20 +5 +5 Sag 17 +3 +10 Car 22 +6 +6 Abilità Furtività +8, Inganno +13, Percezione +17 Immunità acido Sensi Percezione passiva 27; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
-
-**GS 21 (PE 33**  
-000, o 41.000 nella tana; BC +7)
-
-**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
-
-**Balzo**  
-Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
-
-**Magia ridacchiante**  
 Tiro salvezza su Carisma: CD 21, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 31 (9d6) danni psichici. Fino al termine del proprio turno successivo, il bersaglio tira 1d8 ogni volta che effettua una prova di caratteristica o un tiro per colpire e sottrae il risultato dalla prova con d20. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Scossa mentale**  
@@ -3219,8 +3767,12 @@ Il drago usa Incantesimi per lanciare aculeo mentale (di 5º livello). il drago 
 
 ---
 
-## Draghi d'oro
+## Drago d'oro cucciolo
 
+**gruppo:** Draghi d'oro
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** legale buono
 
 **classe_armatura:** 17  
 **iniziativa:** +4 (14)  
@@ -3245,7 +3797,7 @@ Il drago usa Incantesimi per lanciare aculeo mentale (di 5º livello). il drago 
 
 **abilita:** Furtività +4, Percezione +4  
 **immunita_danni:** fuoco  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
@@ -3257,58 +3809,122 @@ Il drago usa Incantesimi per lanciare aculeo mentale (di 5º livello). il drago 
 **Anfibio**  
 Il drago può respirare in aria e in acqua.
 
-**Anfibio**  
-Il drago può respirare in aria e in acqua.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
 ### Azioni
 
 **Multiattacco**  
 Il drago effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (1d10 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (1d10 + 4) danni taglienti.
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 22 (4d10) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio indebolente**  
-Tiro salvezza su Forza: CD 13, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 4,5 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla
+Tiro salvezza su Forza: CD 13, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 4,5 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 2 (1d4) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
-**Forza e sottrae 2 (1d4) ai tiri per i danni**  
-La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Drago d'oro giovane Drago Grande (metallico), legale buono CA 18 Iniziativa +6 (16) PF 178 (17d10 + 85) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 14 +2 +6 Cos 21 +5 +5 Int 16 +3 +3 Sag 13 +1 +5 Car 20 +5 +5 Abilità Furtività +6, Intuizione +5, Percezione +9, Persuasione +9 Immunità fuoco Sensi Percezione passiva 19; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+## Drago d'oro giovane
 
-**GS 10 (PE 5**  
-900; BC +4)
+**gruppo:** Draghi d'oro
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** legale buono
+
+**classe_armatura:** 18
+**iniziativa:** +6 (16)
+**punti_ferita:** 178 (17d10 + 85)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 14 (+2)
+- costituzione: 21 (+5)
+- intelligenza: 16 (+3)
+- saggezza: 13 (+1)
+- carisma: 20 (+5)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +6
+- costituzione: +5
+- intelligenza: +3
+- saggezza: +5
+- carisma: +5
+
+**abilita:** Furtività +6, Intuizione +5, Percezione +9, Persuasione +9
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 19; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 10
+**punti_esperienza:** PE 5.900
+**bonus_competenza:** +4
+**grado_sfida_raw:** 10 (PE 5.900; BC +4)  
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Soffio indebolente.
 
 **Squarcio**  
-Tiro per colpire in mischia: +10, portata 3 m.
-
-**Colpito: 17 (2d10 + 6) danni taglienti**  
-
+Tiro per colpire in mischia: +10, portata 3 m. Colpito: 17 (2d10 + 6) danni taglienti.
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 55 (10d10) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio indebolente**  
-Tiro salvezza su Forza: CD 17, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 9 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla 320 System Reference Document 5.2.1
+Tiro salvezza su Forza: CD 17, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 9 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 3 (1d6) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
-**Forza e sottrae 3 (1d6) ai tiri per i danni**  
-La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Drago d'oro adulto Drago Enorme (metallico), Legale Buono CA 19 Iniziativa +14 (24) PF 243 (18d12 + 126) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 14 +2 +8 Cos 25 +7 +7 Int 16 +3 +3 Sag 15 +2 +8 Car 24 +7 +7 Abilità Furtività +8, Intuizione +8, Percezione +14, Persuasione +13 Immunità fuoco Sensi Percezione passiva 24; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+## Drago d'oro adulto
 
-**GS 17 (PE 18**  
-000, o 20.000 nella tana; BC +6)
+**gruppo:** Draghi d'oro
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** legale buono
+
+**classe_armatura:** 19
+**iniziativa:** +14 (24)
+**punti_ferita:** 243 (18d12 + 126)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 14 (+2)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 24 (+7)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +8
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +8
+- carisma: +7
+
+**abilita:** Furtività +8, Intuizione +8, Percezione +14, Persuasione +13
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 24; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 17
+**punti_esperienza:** PE 18.000, o 20.000 nella tana
+**bonus_competenza:** +6
+**grado_sfida_raw:** 17 (PE 18.000, o 20.000 nella tana; BC +6) 
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Incantesimi per lanciare dardo tracciante (di 2º livello) o (B) Soffio indebolente.
@@ -3317,34 +3933,15 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 17 (2d8 + 8) danni taglienti più 4 (1d8) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Colpo infuocato, zona di verità A volontà: Dardo tracciante (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Colpo infuocato, zona di verità 
+*A volontà:* Dardo tracciante (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 21, tutte le creature in un cono di 18 metri. Fallimento: 66 (12d10) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio indebolente**  
-Tiro salvezza su Forza: CD 21, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 18 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla
-
-**Forza e sottrae 3 (1d6) ai tiri per i danni**  
-La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Incantesimi per lanciare dardo tracciante (di 4º livello) o (B) Soffio indebolente. 321 System Reference Document 5.2.1
-
-**Squarcio**  
-Tiro per colpire in mischia: +17 al tiro per colpire, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 9 (2d8) danni da fuoco.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 24, +16 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Colpo infuocato (versione di 6º livello), parola del ritiro, zona di verità A volontà: Dardo tracciante (di 4º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
-
-**Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 71 (13d10) danni da fuoco. Successo: danni dimezzati.
-
-**Soffio indebolente**  
-Tiro salvezza su Forza: CD 24, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 27 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla
-
-**Forza e sottrae 5 (1d10) ai tiri per i danni**  
-La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+Tiro salvezza su Forza: CD 21, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 18 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 3 (1d6) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 ### Azioni leggendarie
 
@@ -3358,10 +3955,71 @@ Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squar
 Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
 
 **Ostracismo**  
-Tiro salvezza su Carisma: CD 21, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 10 (3d6) danni da forza, il bersaglio è incapacitato e viene trasportato su un semipiano sicuro fino all'inizio del turno successivo del drago, durante cui riappare in uno spazio libero a scelta del drago entro 36 metri da quest'ultimo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago d'oro antico Drago Mastodontico (Metallico), Legale Buono CA 22 Iniziativa +16 (26) PF 546 (28d20 + 252) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 30 +10 +10 Des 14 +2 +9 Cos 29 +9 +9 Int 18 +4 +4 Sag 17 +3 +10 Car 28 +9 +9 Abilità Furtività +9, Intuizione +10, Percezione +17, Persuasione +16 Immunità fuoco Sensi Percezione passiva 27; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Carisma: CD 21, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 10 (3d6) danni da forza, il bersaglio è incapacitato e viene trasportato su un semipiano sicuro fino all'inizio del turno successivo del drago, durante cui riappare in uno spazio libero a scelta del drago entro 36 metri da quest'ultimo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 24 (PE 62**  
-000, o 75.000 nella tana; BC +7)
+## Drago d'oro antico
+
+**gruppo:** Draghi d'oro
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** legale buono
+
+**classe_armatura:** 22
+**iniziativa:** +16 (26)
+**punti_ferita:** 546 (28d20 + 252)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 30 (+10)
+- destrezza: 14 (+2)
+- costituzione: 29 (+9)
+- intelligenza: 18 (+4)
+- saggezza: 17 (+3)
+- carisma: 28 (+9)
+
+**tiri_salvezza_base:**
+- forza: +10
+- destrezza: +9
+- costituzione: +9
+- intelligenza: +4
+- saggezza: +10
+- carisma: +9
+
+**abilita:** Furtività +9, Intuizione +10, Percezione +17, Persuasione +16
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 24
+**punti_esperienza:** PE 62.000, o 75.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 24 (PE 62.000, o 75.000 nella tana; BC +7) 
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Incantesimi per lanciare dardo tracciante (di 4º livello) o (B) Soffio indebolente.
+
+**Squarcio**  
+Tiro per colpire in mischia: +17 al tiro per colpire, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 9 (2d8) danni da fuoco.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 24, +16 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Colpo infuocato (versione di 6º livello), parola del ritiro, zona di verità A volontà: Dardo tracciante (di 4º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+
+**Soffio di fuoco (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 71 (13d10) danni da fuoco. Successo: danni dimezzati.
+
+**Soffio indebolente**  
+Tiro salvezza su Forza: CD 24, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 27 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 5 (1d10) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
@@ -3377,8 +4035,12 @@ Tiro salvezza su Carisma: CD 24, una creatura che il drago è in grado di vedere
 
 ---
 
-## Draghi d'ottone
+## Drago d'ottone cucciolo
 
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** caotico buono
 
 **classe_armatura:** 15  
 **iniziativa:** +2 (12)  
@@ -3403,52 +4065,118 @@ Tiro salvezza su Carisma: CD 24, una creatura che il drago è in grado di vedere
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fuoco  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1 (PE 200; BC +2)  
 
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. 323 System Reference Document 5.2.1
-
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (1d10 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni taglienti.
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri e larga 1,5 metri. Fallimento: 14 (4d6) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio di sonno**  
-Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. Drago d'ottone giovane Drago Grande (metallico), caotico buono CA 17 Iniziativa +3 (13) PF 110 (13d10 + 39) Velocità 12 m, scavo 6 m, volo 24 m MOD SALV MOD SALV MOD SALV For 19 +4 +4 Des 10 +0 +3 Cos 17 +3 +3 Int 12 +1 +1 Sag 11 +0 +3 Car 15 +2 +2 Abilità Furtività +3, Percezione +6, Persuasione +5 Immunità fuoco Sensi Percezione passiva 16; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. 
 
-**GS 6 (PE 2**  
-300; BC +3)
+## Drago d'ottone giovane
+
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** caotico buono
+
+**classe_armatura:** 17
+**iniziativa:** +3 (13)  
+**punti_ferita:** 110 (13d10 + 39)
+**velocita:** 12 m, scavo 6 m, volo 24 m
+
+**caratteristiche:**
+- forza: 19 (+4)
+- destrezza: 10 (+0)
+- costituzione: 17 (+3)
+- intelligenza: 12 (+1)
+- saggezza: 11 (+0)
+- carisma: 15 (+2)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +3
+- costituzione: +3
+- intelligenza: +1
+- saggezza: +3
+- carisma: +2
+
+**abilita:** Furtività +3, Percezione +6, Persuasione +5
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 16; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 6
+**punti_esperienza:** PE 2.300  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 6 (PE 2.300; BC +3)
+
+### Azioni
 
 **Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire due attacchi con un utilizzo di Soffio di sonno. 322 System Reference Document 5.2.1
+Il drago effettua tre attacchi Squarcio. Può sostituire due attacchi con un utilizzo di Soffio di sonno.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 15 (2d10 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 15 (2d10 + 4) danni taglienti.
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri e larga 1,5 metri. Fallimento: 38 (11d6) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio di sonno**  
-Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. Drago d'ottone adulto Drago Enorme (metallico), caotico buono CA 18 Iniziativa +10 (20) PF 172 (15d12 + 75) Velocità 12 m, scavo 9 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 10 +0 +5 Cos 21 +5 +5 Int 14 +2 +2 Sag 13 +1 +6 Car 17 +3 +3 Abilità Furtività +5, Percezione +11, Persuasione +8, Storia +7 Immunità fuoco Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
 
-**GS 13 (PE 10**  
-000, o 11.500 nella tana; BC +5)
+## Drago d'ottone adulto
+
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** caotico buono
+
+**classe_armatura:** 18
+**iniziativa:** +10 (20)  
+**punti_ferita:** 172 (15d12 + 75)
+**velocita:** 12 m, scavo 9 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 10 (+0)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 17 (+3)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +5
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +6
+- carisma: +3
+
+**abilita:** Furtività +5, Percezione +11, Persuasione +8, Storia +7
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 13
+**punti_esperienza:** PE 10.000, o 11.500 nella tana
+**bonus_competenza:** +5  
+**grado_sfida_raw:** 13 (PE 10.000, o 11.500 nella tana; BC +5)
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio di sonno o (B) Incantesimi per lanciare raggio rovente.
@@ -3457,13 +4185,73 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 17 (2d10 + 6) danni taglienti più 4 (1d8) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: Controllare tempo atmosferico, individuazione dei pensieri A volontà: Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
+**1/giorno ciascuno:** Controllare tempo atmosferico, individuazione dei pensieri
+*A volontà:* Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 45 (10d8) danni da fuoco. Successo: danni dimezzati.
 
 **Soffio di sonno**  
 Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 10 minuti. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
+
+### Azioni leggendarie
+
+**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
+Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+
+**Balzo**  
+Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
+
+**Luce accecante**  
+Il drago usa Incantesimi per lanciare raggio rovente.
+
+**Sabbie roventi**  
+Tiro salvezza su Destrezza: CD 16, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 27 (6d8) danni da fuoco, e la velocità del bersaglio è dimezzata fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+## Drago d'ottone antico 
+
+**gruppo:** Draghi d'ottone
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** caotico buono
+
+**classe_armatura:** 20
+**iniziativa:** +12 (22)  
+**punti_ferita:** 332 (19d20 + 133)
+**velocita:** 12 m, scavo 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 10 (+0)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +6
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +8
+- carisma: +6
+
+**abilita:** Furtività +6, Percezione +14, Persuasione +12, Storia +9
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 24; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 20
+**punti_esperienza:** PE 25.000, o 33.000 nella tana
+**bonus_competenza:** +6
+**grado_sfida_raw:** 20 (PE 25.000, o 33.000 nella tana; BC +6)
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio di sonno o (B) Incantesimi per lanciare raggio rovente (di 3º livello).
@@ -3472,7 +4260,9 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +14, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 7 (2d6) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 1/giorno ciascuno: Controllare tempo atmosferico, individuazione dei pensieri A volontà: Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente (di 3º livello), trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 
+**1/giorno ciascuno:** Controllare tempo atmosferico, individuazione dei pensieri 
+**A volontà:** Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente (di 3º livello), trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 21, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 58 (13d8) danni da fuoco. Successo: danni dimezzati.
@@ -3489,21 +4279,6 @@ Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo p
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
 
 **Luce accecante**  
-Il drago usa Incantesimi per lanciare raggio rovente.
-
-**Sabbie roventi**  
-Tiro salvezza su Destrezza: CD 16, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 27 (6d8) danni da fuoco, e la velocità del bersaglio è dimezzata fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago d'ottone antico Drago Mastodontico (metallico), caotico buono CA 20 Iniziativa +12 (22) PF 332 (19d20 + 133) Velocità 12 m, scavo 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 10 +0 +6 Cos 25 +7 +7 Int 16 +3 +3 Sag 15 +2 +8 Car 22 +6 +6 Abilità Furtività +6, Percezione +14, Persuasione +12, Storia +9 Immunità fuoco Sensi Percezione passiva 24; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
-
-**GS 20 (PE 25**  
-000, o 33.000 nella tana; BC +6)
-
-**Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
-
-**Balzo**  
-Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
-
-**Luce accecante**  
 Il drago usa Incantesimi per lanciare raggio rovente (di 3º livello).
 
 **Sabbie roventi**  
@@ -3511,8 +4286,12 @@ Tiro salvezza su Destrezza: CD 20, una creatura che il drago è in grado di vede
 
 ---
 
-## Draghi neri
+## Drago nero cucciolo
 
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** caotico malvagio
 
 **classe_armatura:** 17  
 **iniziativa:** +4 (14)  
@@ -3537,7 +4316,7 @@ Tiro salvezza su Destrezza: CD 20, una creatura che il drago è in grado di vede
 
 **abilita:** Furtività +4, Percezione +4  
 **immunita_danni:** acido  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
@@ -3549,15 +4328,6 @@ Tiro salvezza su Destrezza: CD 20, una creatura che il drago è in grado di vede
 **Anfibio**  
 Il drago può respirare in aria e in acqua.
 
-**Anfibio**  
-Il drago può respirare in aria e in acqua.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
-**Anfibio**  
-Il drago può respirare in aria e in acqua. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
-
 ### Azioni
 
 **Multiattacco**  
@@ -3567,22 +4337,107 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni taglienti più 2 (1d4) danni da acido.
 
 **Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 4,5 metri e larga 1,5 metri. Fallimento: 22 (5d8) danni da acido. Successo: danni dimezzati. Drago nero giovane Drago Grande (cromatico), caotico malvagio CA 18 Iniziativa +5 (15) PF 127 (15d10 + 45) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 19 +4 +4 Des 14 +2 +5 Cos 17 +3 +3 Int 12 +1 +1 Sag 11 +0 +3 Car 15 +2 +2 Abilità Furtività +5, Percezione +6 Immunità acido Sensi Percezione passiva 16; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 4,5 metri e larga 1,5 metri. Fallimento: 22 (5d8) danni da acido. Successo: danni dimezzati. 
 
-**GS 7 (PE 2**  
-900; BC +3)
+## Drago nero giovane
+
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +5 (15)
+**punti_ferita:** 127 (15d10 + 45)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 19 (+4)
+- destrezza: 14 (+2)
+- costituzione: 17 (+3)
+- intelligenza: 12 (+1)
+- saggezza: 11 (+0)
+- carisma: 15 (+2)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +5
+- costituzione: +3
+- intelligenza: +1
+- saggezza: +4
+- carisma: +2
+
+**abilita:** Furtività +5, Percezione +6
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 16; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 7
+**punti_esperienza:** PE 2.900
+**bonus_competenza:** +3
+**grado_sfida_raw:** 7 (PE 2.900; BC +3)  
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglienti più 3 (1d6) danni da acido. 324 System Reference Document 5.2.1
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglienti più 3 (1d6) danni da acido.
 
 **Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 49 (14d6) danni da acido. Successo: danni dimezzati. Drago nero adulto Drago Enorme (cromatico), caotico malvagio CA 19 Iniziativa +12 (22) PF 195 (17d12 + 85) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 14 +2 +7 Cos 21 +5 +5 Int 14 +2 +2 Sag 13 +1 +6 Car 19 +4 +4 Abilità Furtività +7, Percezione +11 Immunità acido Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 49 (14d6) danni da acido. Successo: danni dimezzati.
 
-**GS 14 (PE 11**  
-500, o 13.000 nella tana; BC +5)
+## Drago nero adulto
+
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 19
+**iniziativa:** +12 (22)
+**punti_ferita:** 195 (17d12 + 85)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 14 (+2)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 13 (+1)
+- carisma: 19 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +7
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +6
+- carisma: +4
+
+**abilita:** Furtività +7, Percezione +11
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 14
+**punti_esperienza:** PE 11.500, o 13.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 14 (PE 11.500, o 13.000 nella tana; BC +5)
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare freccia acida (di 3º livello).
@@ -3591,22 +4446,12 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 13 (2d6 + 6) danni taglienti più 4 (1d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Parlare con i morti, sfera al vetriolo A volontà: Freccia acida (di 3º livello), individuazione del magico, paura
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Parlare con i morti, sfera al vetriolo 
+**A volontà:** Freccia acida (di 3º livello), individuazione del magico, paura
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 54 (12d8) danni da acido. Successo: danni dimezzati.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare freccia acida (di 4º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 17 (2d8 + 8) danni taglienti più 9 (2d8) danni da acido.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Creare non morti, parlare con i morti, sfera al vetriolo (di 5º livello) A volontà: Freccia acida (di 4º livello), individuazione del magico, paura
-
-**Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 67 (15d8) danni da acido. Successo: danni dimezzati. 325 System Reference Document 5.2.1
 
 ### Azioni leggendarie
 
@@ -3620,10 +4465,70 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 Tiro salvezza su Destrezza: CD 17, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 22 (4d10) danni da veleno, e il bersaglio subisce svantaggio ai tiri salvezza per mantenere la concentrazione fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Presenza terrificante**  
-Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago nero antico Drago Mastodontico (Cromatico), Caotico Malvagio CA 22 Iniziativa +16 (26) PF 367 (21d20 + 147) Velocità 12 m, nuoto 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 14 +2 +9 Cos 25 +7 +7 Int 16 +3 +3 Sag 15 +2 +9 Car 22 +6 +6 Abilità Furtività +9, Percezione +16 Immunità acido Sensi Percezione passiva 26; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 21 (PE 33**  
-000, o 41.000 nella tana; BC +7)
+## Drago nero antico
+
+**gruppo:** Draghi neri
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 22
+**iniziativa:** +16 (26)
+**punti_ferita:** 367 (21d20 + 147)
+**velocita:** 12 m, nuoto 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 14 (+2)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 15 (+2)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +9
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +9
+- carisma: +6
+
+**abilita:** Furtività +9, Percezione +16
+**immunita_danni:** acido  
+**sensi:** Percezione passiva 26; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 21
+**punti_esperienza:** PE 33.000, o 41.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 21 (PE 33.000, o 41.000 nella tana; BC +7)
+
+### Tratti
+
+**Anfibio.**
+Il drago può respirare in aria e in acqua.
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare freccia acida (di 4º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 17 (2d8 + 8) danni taglienti più 9 (2d8) danni da acido.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Creare non morti, parlare con i morti, sfera al vetriolo (di 5º livello) 
+**A volontà:** Freccia acida (di 4º livello), individuazione del magico, paura
+
+**Soffio di acido (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 67 (15d8) danni da acido. Successo: danni dimezzati. 325 System Reference Document 5.2.1
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
@@ -3639,8 +4544,12 @@ Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'az
 
 ---
 
-## Draghi rossi
+## Drago rosso cucciolo
 
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** caotico malvagio
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
@@ -3665,17 +4574,12 @@ Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'az
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fuoco  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 4  
 **punti_esperienza:** PE 1.100  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 4 (PE 1.100; BC +2)  
-
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -3686,10 +4590,46 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (1d10 + 4) danni taglienti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 24 (7d6) danni da fuoco. Successo: danni dimezzati. Drago rosso giovane Drago Grande (cromatico), caotico malvagio CA 18 Iniziativa +4 (14) PF 178 (17d10 + 85) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 10 +0 +4 Cos 21 +5 +5 Int 14 +2 +2 Sag 11 +0 +4 Car 19 +4 +4 Abilità Furtività +4, Percezione +8 Immunità fuoco Sensi Percezione passiva 18; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 24 (7d6) danni da fuoco. Successo: danni dimezzati. 
 
-**GS 10 (PE 5**  
-900; BC +4)
+## Drago rosso giovane
+
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +4 (14)  
+**punti_ferita:** 178 (17d10 + 85)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 10 (+0)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 11 (+0)
+- carisma: 19 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +4
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +4
+- carisma: +4
+
+**abilita:** Furtività +4, Percezione +8
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 18; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 10
+**punti_esperienza:** PE 5.900
+**bonus_competenza:** +4
+**grado_sfida_raw:** 10 (PE 5.900; BC +4)
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -3698,10 +4638,50 @@ Il drago effettua tre attacchi Squarcio.
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 13 (2d6 + 6) danni taglienti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. Drago rosso adulto Drago Enorme (cromatico), caotico malvagio CA 19 Iniziativa +12 (22) PF 256 (19d12 + 133) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 10 +0 +6 Cos 25 +7 +7 Int 16 +3 +3 Sag 13 +1 +7 Car 23 +6 +6 Abilità Furtività +6, Percezione +13 Immunità fuoco Sensi Percezione passiva 23; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. 
 
-**GS 17 (PE 18**  
-000, o 20.000 nella tana; BC +6)
+## Drago rosso adulto
+
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 19
+**iniziativa:** +12 (22)  
+**punti_ferita:** 256 (19d12 + 133)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 10 (+0)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 13 (+1)
+- carisma: 23 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +6
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +7
+- carisma: +6
+
+**abilita:** Furtività +6, Percezione +13
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 23; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 17
+**punti_esperienza:** PE 18.000, o 20.000 nella tana
+**bonus_competenza:** +6
+**grado_sfida_raw:** 17 (PE 18.000, o 20.000 nella tana; BC +6)
+
+### Tratti
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare raggio rovente.
@@ -3710,22 +4690,12 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 13 (1d10 + 8) danni taglienti più 5 (2d4) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20, +12 al tiro per colpire degli attacchi con incantesimo): 1/giorno: palla di fuoco 326 System Reference Document 5.2.1 A volontà: Comando (di 2º livello), individuazione del magico, raggio rovente
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20, +12 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno:** palla di fuoco
+**A volontà:** Comando (di 2º livello), individuazione del magico, raggio rovente
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 21, tutte le creature in un cono di 18 metri. Fallimento: 59 (17d6) danni da fuoco. Successo: danni dimezzati.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare raggio rovente (di 3º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 10 (3d6) danni da fuoco.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Palla di fuoco (di 6º livello), scrutare A volontà: Comando (di 2º livello), individuazione del magico, raggio rovente (di 3º livello)
-
-**Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 91 (26d6) danni da fuoco. Successo: danni dimezzati.
 
 ### Azioni leggendarie
 
@@ -3739,10 +4709,67 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 Il drago usa Incantesimi per lanciare comando (di 2º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Raggi fiammeggianti**  
-Il drago usa Incantesimi per lanciare raggio rovente. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago rosso antico Drago Mastodontico (Cromatico), Caotico Malvagio CA 22 Iniziativa +14 (24) PF 507 (26d20 + 234) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 30 +10 +10 Des 10 +0 +7 Cos 29 +9 +9 Int 18 +4 +4 Sag 15 +2 +9 Car 27 +8 +8 Abilità Furtività +7, Percezione +16 Immunità fuoco Sensi Percezione passiva 26; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Il drago usa Incantesimi per lanciare raggio rovente. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 24 (PE 62**  
-000, o 75.000 nella tana; BC +7)
+## Drago rosso antico
+
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)  
+**punti_ferita:** 507 (26d20 + 234)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 30 (+10)
+- destrezza: 10 (+0)
+- costituzione: 29 (+9)
+- intelligenza: 18 (+4)
+- saggezza: 15 (+2)
+- carisma: 27 (+8)
+
+**tiri_salvezza_base:**
+- forza: +10
+- destrezza: +7
+- costituzione: +9
+- intelligenza: +4
+- saggezza: +9
+- carisma: +8
+
+**abilita:** Furtività +7, Percezione +16
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 26; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 24
+**punti_esperienza:** PE 62.000, o 75.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 24 (PE 62.000, o 75.000 nella tana; BC +7)
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare raggio rovente (di 3º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 10 (3d6) danni da fuoco.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Palla di fuoco (di 6º livello), scrutare 
+**A volontà:** Comando (di 2º livello), individuazione del magico, raggio rovente (di 3º livello)
+
+**Soffio di fuoco (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 91 (26d6) danni da fuoco. Successo: danni dimezzati.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.

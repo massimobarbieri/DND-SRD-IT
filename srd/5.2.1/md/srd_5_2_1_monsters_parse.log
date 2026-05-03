@@ -34,7 +34,7 @@ Totale mostri estratti: 288
 - Couatl (pagine 11-11): incantesimi_interni
 #DONE Cubo gelatinoso (pagine 11-12): header_continuation_o_parse_da_verificare - indebolimento, prono, spaventato
 #DONE Cultista (pagine 12-12): gruppo_header - Cultisti
-- Cultista fanatico (pagine 12-12): incantesimi_interni
+#DONE Cultista fanatico (pagine 12-12): incantesimi_interni
 - Deva (pagine 13-13): incantesimi_interni
 #DONE Diavolo barbuto (pagine 13-13): header_continuation_o_parse_da_verificare - 306 System Reference Document 5.2.1
 #DONE Diavolo barbuto (pagine 13-13): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
@@ -44,43 +44,43 @@ Totale mostri estratti: 288
 #DONE Diavolo d'ossa (pagine 15-16): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
 #DONE Diavolo uncinato (pagine 16-16): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
 - Djinni (pagine 16-17): incantesimi_interni
-- Doppelganger (pagine 17-17): header_continuation_o_parse_da_verificare - 310 System Reference Document 5.2.1
+#DONE Doppelganger (pagine 17-17): header_continuation_o_parse_da_verificare - 310 System Reference Document 5.2.1
 - Doppelganger (pagine 17-17): mutaforma
-- Draghi bianchi (pagine 17-19): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), caotico malvagio
-- Draghi bianchi (pagine 17-19): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi bianchi (pagine 17-19): azioni_leggendarie
-- Draghi blu (pagine 19-21): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), legale malvagio
-- Draghi blu (pagine 19-21): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi blu (pagine 19-21): azioni_leggendarie
-- Draghi blu (pagine 19-21): incantesimi_interni
-- Draghi d'argento (pagine 21-23): header_continuation_o_parse_da_verificare - Drago Medio (metallico), legale buono
-- Draghi d'argento (pagine 21-23): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi d'argento (pagine 21-23): azioni_leggendarie
-- Draghi d'argento (pagine 21-23): incantesimi_interni
-- Draghi di bronzo (pagine 23-24): header_continuation_o_parse_da_verificare - Drago Medio (metallico), legale buono
-- Draghi di bronzo (pagine 23-24): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi di bronzo (pagine 23-24): azioni_leggendarie
-- Draghi di bronzo (pagine 23-24): incantesimi_interni
-- Draghi di rame (pagine 24-26): header_continuation_o_parse_da_verificare - Drago Medio (metallico), caotico buono
-- Draghi di rame (pagine 24-26): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi di rame (pagine 24-26): azioni_leggendarie
-- Draghi di rame (pagine 24-26): incantesimi_interni
-- Draghi d'oro (pagine 26-28): header_continuation_o_parse_da_verificare - Drago Medio (metallico), legale buono
-- Draghi d'oro (pagine 26-28): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi d'oro (pagine 26-28): azioni_leggendarie
-- Draghi d'oro (pagine 26-28): incantesimi_interni
-- Draghi d'ottone (pagine 29-30): header_continuation_o_parse_da_verificare - Drago Medio (metallico), caotico buono
-- Draghi d'ottone (pagine 29-30): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi d'ottone (pagine 29-30): azioni_leggendarie
-- Draghi d'ottone (pagine 29-30): incantesimi_interni
-- Draghi neri (pagine 31-32): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), caotico malvagio
-- Draghi neri (pagine 31-32): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi neri (pagine 31-32): azioni_leggendarie
-- Draghi neri (pagine 31-32): incantesimi_interni
-- Draghi rossi (pagine 32-34): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), caotico malvagio
-- Draghi rossi (pagine 32-34): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi rossi (pagine 32-34): azioni_leggendarie
-- Draghi rossi (pagine 32-34): incantesimi_interni
+#DONE Draghi bianchi (pagine 17-19): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), caotico malvagio
+#DONE Draghi bianchi (pagine 17-19): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi bianchi (pagine 17-19): azioni_leggendarie
+#DONE Draghi blu (pagine 19-21): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), legale malvagio
+#DONE Draghi blu (pagine 19-21): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi blu (pagine 19-21): azioni_leggendarie
+#DONE Draghi blu (pagine 19-21): incantesimi_interni
+#DONE Draghi d'argento (pagine 21-23): header_continuation_o_parse_da_verificare - Drago Medio (metallico), legale buono
+#DONE Draghi d'argento (pagine 21-23): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi d'argento (pagine 21-23): azioni_leggendarie
+#DONE Draghi d'argento (pagine 21-23): incantesimi_interni
+#DONE Draghi di bronzo (pagine 23-24): header_continuation_o_parse_da_verificare - Drago Medio (metallico), legale buono
+#DONE Draghi di bronzo (pagine 23-24): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi di bronzo (pagine 23-24): azioni_leggendarie
+#DONE Draghi di bronzo (pagine 23-24): incantesimi_interni
+#DONE Draghi di rame (pagine 24-26): header_continuation_o_parse_da_verificare - Drago Medio (metallico), caotico buono
+#DONE Draghi di rame (pagine 24-26): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi di rame (pagine 24-26): azioni_leggendarie
+#DONE Draghi di rame (pagine 24-26): incantesimi_interni
+#DONE Draghi d'oro (pagine 26-28): header_continuation_o_parse_da_verificare - Drago Medio (metallico), legale buono
+#DONE Draghi d'oro (pagine 26-28): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi d'oro (pagine 26-28): azioni_leggendarie
+#DONE Draghi d'oro (pagine 26-28): incantesimi_interni
+#DONE Draghi d'ottone (pagine 29-30): header_continuation_o_parse_da_verificare - Drago Medio (metallico), caotico buono
+#DONE Draghi d'ottone (pagine 29-30): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi d'ottone (pagine 29-30): azioni_leggendarie
+#DONE Draghi d'ottone (pagine 29-30): incantesimi_interni
+#DONE Draghi neri (pagine 31-32): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), caotico malvagio
+#DONE Draghi neri (pagine 31-32): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi neri (pagine 31-32): azioni_leggendarie
+#DONE Draghi neri (pagine 31-32): incantesimi_interni
+#DONE Draghi rossi (pagine 32-34): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), caotico malvagio
+#DONE Draghi rossi (pagine 32-34): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi rossi (pagine 32-34): azioni_leggendarie
+#DONE Draghi rossi (pagine 32-34): incantesimi_interni
 - Draghi verdi (pagine 34-35): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), legale malvagio
 - Draghi verdi (pagine 34-35): header_continuation_o_parse_da_verificare - cieca 3 m
 - Draghi verdi (pagine 34-35): azioni_leggendarie
