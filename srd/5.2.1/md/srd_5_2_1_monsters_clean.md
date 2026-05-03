@@ -2276,7 +2276,7 @@ Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo tur
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 12; scurovisione 36 m (non ostacolata dall'oscurità magica)
+**sensi:** Percezione passiva 12; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 9  
 **punti_esperienza:** PE 5.000  
@@ -2336,7 +2336,7 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perfo
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
 **immunita_condizione:** avvelenato  
-**sensi:** Percezione passiva 18; scurovisione 36 m (non ostacolata dall'oscurità magica)
+**sensi:** Percezione passiva 18; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
@@ -4944,7 +4944,7 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 **immunita_danni:** veleno  
 **immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
-**lingue:** Abissale; telepatia 18 m (funziona solo con  
+**lingue:** Abissale; telepatia 18 m (funziona solo le creature che capiscono l'Abissale) 
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -5334,9 +5334,7 @@ L'erinni possiede una corda magica. Finché la porta con sé, può usare l'azion
 L'erinni dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se l'erinni muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo ed essa ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
+Se l'erinni muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo ed essa ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi
 
 
 ### Azioni
@@ -5383,7 +5381,7 @@ Attivazione: l'erinni viene colpita da un tiro per colpire in mischia mentre tie
 - saggezza: +1
 - carisma: +0
 
-**abilita:** Furtività +6, Natura +4, Percezione +5,  
+**abilita:** Furtività +6, Natura +4, Percezione +5, Sopravvivenza +5 
 **attrezzatura:** arco lungo, armatura di cuoio, spada corta  
 **sensi:** Percezione passiva 15  
 **lingue:** Comune più un'altra lingua  
@@ -5499,7 +5497,7 @@ L'ettercap attira in linea retta verso di sé una creatura entro 9 metri tratten
 
 **abilita:** Percezione +4  
 **attrezzatura:** ascia da battaglia, mazza chiodata  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi,  
+**immunita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Gigante  
 **grado_sfida:** 4  
@@ -5547,8 +5545,8 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata. Fant
 - carisma: +3
 
 **resistenze:** acido, contundente, freddo, fulmine, fuoco,  
-**immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_danni:** necrotico, veleno, perforante, tagliente, tuono 
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 4  
