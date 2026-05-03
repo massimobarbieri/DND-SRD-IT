@@ -2992,7 +2992,12 @@ Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare 
 
 ---
 
-## Draghi d'argento
+## Draghi d'argento cucciolo
+
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Medio
+**allineamento:** legale buono
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
@@ -3017,17 +3022,12 @@ Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare 
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** freddo  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 2 (PE 450; BC +2)  
-
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -3035,43 +3035,108 @@ Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Res
 Il drago effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (1d10 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (1d10 + 4) danni perforanti
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 18 (4d8) danni da freddo. Successo: danni dimezzati.
 
 **Soffio paralizzante**  
-Tiro salvezza su Costituzione:
+Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
-**CD 13, tutte le creature in un cono di 4,5 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Drago d'argento giovane Drago Grande (metallico), legale buono CA 18 Iniziativa +4 (14) PF 168 (16d10 + 80) Velocità 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 10 +0 +4 Cos 21 +5 +5 Int 14 +2 +2 Sag 11 +0 +4 Car 19 +4 +4 Abilità Furtività +4, Percezione +8, Storia +6 Immunità freddo Sensi Percezione passiva 18; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+## Drago d'argento giovane
 
-**GS 9 (PE 5**  
-000; BC +4) 314 System Reference Document 5.2.1
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Grande
+**allineamento:** legale buono
+
+**classe_armatura:** 18
+**iniziativa:** +4 (14)
+**punti_ferita:** 168 (16d10 + 80)
+**velocita:** 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 10 (+0)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 11 (+0)
+- carisma: 19 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +4
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +4
+- carisma: +4
+
+**abilita:** Furtività +4, Percezione +8, Storia +6
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 18; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 9
+**punti_esperienza:** PE 5.000  
+**bonus_competenza:** +4
+**grado_sfida_raw:** 9 (PE 5.000; BC +4)
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Soffio paralizzante.
 
 **Squarcio**  
-Tiro per colpire in mischia: +10, portata 3 m.
-
-**Colpito: 15 (2d8 + 6) danni taglienti**  
-
+Tiro per colpire in mischia: +10, portata 3 m. Colpito: 15 (2d8 + 6) danni taglienti.
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 49 (11d8) danni da freddo. Successo: danni dimezzati.
 
 **Soffio paralizzante**  
-Tiro salvezza su Costituzione:
+Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
-**CD 17, tutte le creature in un cono di 9 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Drago d'argento adulto Drago Enorme (metallico), Legale Buono CA 19 Iniziativa +10 (20) PF 216 (16d12 + 112) Velocità 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 10 +0 +5 Cos 25 +7 +7 Int 16 +3 +3 Sag 13 +1 +6 Car 22 +6 +6 Abilità Furtività +5, Percezione +11, Storia +8 Immunità freddo Sensi Percezione passiva 21; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+## Drago d'argento adulto
 
-**GS 16 (PE 15**  
-000, o 18.000 nella tana; BC +5)
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Enorme
+**allineamento:** legale buono
+
+**classe_armatura:** 19
+**iniziativa:** +10 (20)
+**punti_ferita:** 216 (16d12 + 112)
+**velocita:** 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 10 (+0)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 13 (+1)
+- carisma: 22 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +5
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +6
+- carisma: +6
+
+**abilita:** Furtività +5, Percezione +11, Storia +8
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 21; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 16
+**punti_esperienza:** PE 15.000, o 18.000 nella tana
+**bonus_competenza:** +5
+**grado_sfida_raw:** 16 (PE 15.000, o 18.000 nella tana; BC +5)
+
+### Tratti
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio paralizzante o (B) Incantesimi per lanciare coltello di ghiaccio.
@@ -3080,34 +3145,15 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +13, portata 3 m. Colpito: 17 (2d8 + 8) danni taglienti più 4 (1d8) danni da freddo.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 19, +11 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Tempesta di ghiaccio (di 5º livello), zona di verità A volontà: Blocca mostri, coltello di ghiaccio, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 19, +11 al tiro per colpire degli attacchi con incantesimo): 
+1/giorno ciascuno: Tempesta di ghiaccio (di 5º livello), zona di verità 
+A volontà: Blocca mostri, coltello di ghiaccio, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 20, tutte le creature in un cono di 18 metri. Fallimento: 54 (12d8) danni da freddo. Successo: danni dimezzati.
 
-**Soffio paralizzante**  
-Tiro salvezza su Costituzione:
-
-**CD 20, tutte le creature in un cono di 18 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio paralizzante o (B) Incantesimi per lanciare coltello di ghiaccio (di 2º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 9 (2d8) danni da freddo.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Controllare tempo atmosferico, teletrasporto, tempesta di ghiaccio (di 7º livello), zona di verità A volontà: Blocca mostri, coltello di ghiaccio (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
-
-**Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 67 (15d8) danni da freddo. Successo: danni dimezzati.
-
-**Soffio paralizzante**  
-Tiro salvezza su Costituzione:
-
-**CD 24, tutte le creature in un cono di 27 metri**  
-Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+**Soffio paralizzante**
+Tiro salvezza su Costituzione: CD 20, tutte le creature in un cono di 18 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 ### Azioni leggendarie
 
@@ -3121,10 +3167,70 @@ Il drago usa Incantesimi per lanciare blocca mostri. il drago non può ripetere 
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
 
 **Bufera**  
-Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 18 metri e larga 3 metri. Fallimento: 14 (4d6) danni da freddo, e il bersaglio viene spinto in linea retta fino a un massimo di 9 metri lontano dal drago. Successo: danni dimezzati. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago d'argento antico Drago Mastodontico (Metallico), Legale Buono CA 22 Iniziativa +14 (24) PF 468 (24d20 + 216) Velocità 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 30 +10 +10 Des 10 +0 +7 Cos 29 +9 +9 Int 18 +4 +4 Sag 15 +2 +9 Car 26 +8 +8 Abilità Furtività +7, Percezione +16, Storia +11 Immunità freddo Sensi Percezione passiva 26; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 18 metri e larga 3 metri. Fallimento: 14 (4d6) danni da freddo, e il bersaglio viene spinto in linea retta fino a un massimo di 9 metri lontano dal drago. Successo: danni dimezzati. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
-**GS 23 (PE 50**  
-000, o 62.000 nella tana; BC +7) 315 System Reference Document 5.2.1
+## Drago d'argento antico
+
+**gruppo:** Draghi d'argento
+**tipo:** Drago (metallico)
+**dimensione:** Mastodontico
+**allineamento:** legale buono
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)
+**punti_ferita:** 468 (24d20 + 216)
+**velocita:** 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 30 (+10)
+- destrezza: 10 (+0)
+- costituzione: 29 (+9)
+- intelligenza: 18 (+4)
+- saggezza: 15 (+2)
+- carisma: 26 (+8)
+
+**tiri_salvezza_base:**
+- forza: +10
+- destrezza: +7
+- costituzione: +9
+- intelligenza: +4
+- saggezza: +9
+- carisma: +8
+
+**abilita:** Furtività +7, Percezione +16, Storia +11
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 26; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico
+**grado_sfida:** 23
+**punti_esperienza:** PE 50.000, o 62.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 23 (PE 50.000, o 62.000 nella tana; BC +7)
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di (A) Soffio paralizzante o (B) Incantesimi per lanciare coltello di ghiaccio (di 2º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 9 (2d8) danni da freddo.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Controllare tempo atmosferico, teletrasporto, tempesta di ghiaccio (di 7º livello), zona di verità 
+**A volontà:** Blocca mostri, coltello di ghiaccio (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+
+**Soffio di freddo (ricarica 5-6)**  
+Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 67 (15d8) danni da freddo. Successo: danni dimezzati.
+
+**Soffio paralizzante**  
+Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
@@ -3141,7 +3247,6 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 ---
 
 ## Draghi di bronzo
-
 
 **classe_armatura:** 15  
 **iniziativa:** +2 (12)  
