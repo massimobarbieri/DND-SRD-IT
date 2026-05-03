@@ -5573,7 +5573,8 @@ Tiro per colpire a distanza: +8, gittata 18 m. Colpito: 8 (1d6 + 5) danni contun
 
 ## Erinni
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 18  
@@ -5617,8 +5618,7 @@ L'erinni possiede una corda magica. Finché la porta con sé, può usare l'azion
 L'erinni dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
 
 **Ristoro diabolico**  
-Se l'erinni muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo ed essa ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi
-
+Se l'erinni muore al di fuori dei Nove Inferi, il suo corpo si dissolve in fumo sulfureo ed essa ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -5634,13 +5634,14 @@ Tiro salvezza su Forza: CD 16, una creatura che l'erinni è in grado di vedere e
 ### Reazioni
 
 **Parata**  
-Attivazione: l'erinni viene colpita da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: l'erinni aggiunge 4 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Esploratore
+Attivazione: l'erinni viene colpita da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: l'erinni aggiunge 4 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Esploratore
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -5682,13 +5683,14 @@ L'esploratore effettua due attacchi, usando Spada corta e Arco lungo in qualsias
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perforanti.
 
 **Arco lungo**  
-Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti. Ettercap
+Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti.
 
 ---
 
 ## Ettercap
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -5731,13 +5733,10 @@ L'ettercap può scalare le superfici difficili, compresi i soffitti, senza effet
 ### Azioni
 
 **Multiattacco**  
-L'ettercap effettua un attacco Morso e un attacco Artiglio. 333 System Reference Document 5.2.1
+L'ettercap effettua un attacco Morso e un attacco Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (2d4 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni taglienti.
 
 **Morso**  
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perforanti più 2 (1d4) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo dell'ettercap.
@@ -5748,13 +5747,14 @@ Tiro salvezza su Destrezza: CD 12, una creatura di taglia Grande o inferiore che
 ### Azioni bonus
 
 **Riavvolgere**  
-L'ettercap attira in linea retta verso di sé una creatura entro 9 metri trattenuta dal suo Filo di ragnatela per un massimo di 7,5 metri. Ettin
+L'ettercap attira in linea retta verso di sé una creatura entro 9 metri trattenuta dal suo Filo di ragnatela per un massimo di 7,5 metri.
 
 ---
 
 ## Ettin
 
-**tipo:** Gigante  
+**tipo:** Gigante
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -5797,13 +5797,14 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni tagl
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni perforanti, e il bersaglio subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo.
 
 **Multiattacco**  
-L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata. Fantasma
+L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata.
 
 ---
 
 ## Fantasma
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 11  
@@ -5843,10 +5844,7 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata. Fant
 Il fantasma può muoversi attraverso altri oggetti o creature come se fossero terreno difficile. Se termina il suo turno all'interno di un oggetto, subisce 5 (1d10) danni da forza.
 
 **Vista eterea**  
-Quando si trova sul Piano Materiale, il fantasma è in grado di vedere per 18 metri sul Piano
-
-**Etereo**  
-
+Quando si trova sul Piano Materiale, il fantasma è in grado di vedere per 18 metri sul Piano Etereo.
 
 ### Azioni
 
@@ -5862,17 +5860,18 @@ Il fantasma lancia l'incantesimo forma eterea, senza bisogno di componenti, util
 **Carisma come caratteristica da incantatore**  
 Finché si trova sul Confine Etereo, il fantasma è visibile sul Piano Materiale e viceversa, ma non può influenzare o essere influenzato da nulla di quanto accade sull'altro piano.
 
-**Possessione (ricarica 6)**  
-Tiro salvezza su Carisma: CD 13, un umanoide che il fantasma è in grado di vedere entro 1,5 metri. Fallimento: il bersaglio è posseduto dal fantasma; il fantasma scompare e il bersaglio è incapacitato e perde il controllo del suo corpo. Ora il fantasma controlla il corpo del bersaglio, ma senza privarlo della sua consapevolezza. Il fantasma non può essere il bersaglio di alcun attacco, incantesimo o altro effetto, ad eccezione di quelli che bersagliano specificatamente i non morti. Le statistiche di gioco del fantasma sono le stesse, ma il fantasma usa la velocità e i modificatori di Forza, Destrezza e Costituzione del bersaglio. La possessione dura finché il corpo non scende a 0 punti ferita o il fantasma non lo abbandona con un'azione bonus. Quando la possessione termina, 334 System Reference Document 5.2.1 il fantasma riappare in uno spazio libero entro 1,5 metri dal bersaglio, e il bersaglio è immune alla Possessione di questo fantasma per 24 ore. Successo: Il bersaglio è immune alla Possessione di questo fantasma per 24 ore.
+**Possessione (ricarica 6)**
+Tiro salvezza su Carisma: CD 13, un umanoide che il fantasma è in grado di vedere entro 1,5 metri. Fallimento: il bersaglio è posseduto dal fantasma; il fantasma scompare e il bersaglio è incapacitato e perde il controllo del suo corpo. Ora il fantasma controlla il corpo del bersaglio, ma senza privarlo della sua consapevolezza. Il fantasma non può essere il bersaglio di alcun attacco, incantesimo o altro effetto, ad eccezione di quelli che bersagliano specificatamente i non morti. Le statistiche di gioco del fantasma sono le stesse, ma il fantasma usa la velocità e i modificatori di Forza, Destrezza e Costituzione del bersaglio. La possessione dura finché il corpo non scende a 0 punti ferita o il fantasma non lo abbandona con un'azione bonus. Quando la possessione termina, il fantasma riappare in uno spazio libero entro 1,5 metri dal bersaglio, e il bersaglio è immune alla Possessione di questo fantasma per 24 ore. Successo: Il bersaglio è immune alla Possessione di questo fantasma per 24 ore.
 
 **Volto terrificante**  
-Tiro salvezza su Saggezza: CD 13, tutte le creature in un cono di 18 metri in grado di vedere il fantasma e diverse da un non morto. Fallimento: 10 (2d6 + 3) danni psichici, e il bersaglio è spaventato fino all'inizio del turno successivo del fantasma. Successo: Il bersaglio è immune al Volto terrificante di questo fantasma per 24 ore. Fauce gorgogliante
+Tiro salvezza su Saggezza: CD 13, tutte le creature in un cono di 18 metri in grado di vedere il fantasma e diverse da un non morto. Fallimento: 10 (2d6 + 3) danni psichici, e il bersaglio è spaventato fino all'inizio del turno successivo del fantasma. Successo: Il bersaglio è immune al Volto terrificante di questo fantasma per 24 ore.
 
 ---
 
 ## Fauce gorgogliante
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Media
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 9  
@@ -5915,20 +5914,18 @@ Il terreno in un'emanazione di 3 metri di cui la fauce gorgogliante è il punto 
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 7 (2d6) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono. Il bersaglio muore se viene ridotto a 0 punti ferita da questo attacco. Del suo corpo, che viene assorbito dalla fauce gorgogliante, resta solo l'equipaggiamento.
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 7 (2d6) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono. Il bersaglio muore se viene ridotto a 0 punti ferita da questo attacco. Del suo corpo, che viene assorbito dalla fauce gorgogliante, resta solo l'equipaggiamento.
 
 **Sputo accecante (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 10, tutte le creature in una sfera di 3 metri di raggio centrata su un punto entro 9 metri. Fallimento: 7 (2d6) danni radiosi, e il bersaglio è accecato fino al termine del turno successivo della fauce gorgogliante. Funghi
+Tiro salvezza su Destrezza: CD 10, tutte le creature in una sfera di 3 metri di raggio centrata su un punto entro 9 metri. Fallimento: 7 (2d6) danni radiosi, e il bersaglio è accecato fino al termine del turno successivo della fauce gorgogliante.
 
 ---
 
 ## Boleto stridente
 
 **gruppo:** Funghi  
-**tipo:** Vegetale  
+**tipo:** Vegetale
+**dimensione:** Medio
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 5  
@@ -5969,7 +5966,9 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 
 ## Fungo viola
 
-**tipo:** Vegetale  
+**gruppo:** Funghi  
+**tipo:** Vegetale
+**dimensione:** Medio
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 5  
@@ -6007,13 +6006,14 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 Il fungo effettua due attacchi Tocco marcescente.
 
 **Tocco marcescente**  
-Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici. Fuoco fatuo
+Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici.
 
 ---
 
 ## Fuoco fatuo
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Minuscolo
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 19  
@@ -6037,9 +6037,9 @@ Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici. 
 - saggezza: +2
 - carisma: +0
 
-**resistenze:** acido, contundente, freddo, fuoco, necrotico,  
+**resistenze:** acido, contundente, freddo, fuoco, necrotico, perforante, tagliente
 **immunita_danni:** fulmine, veleno  
-**immunita_condizione:** afferrato, avvelenato,  
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 12; scurovisione 36 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 2  
@@ -6061,10 +6061,7 @@ Il fuoco fatuo può muoversi attraverso altre creature e oggetti come se fossero
 ### Azioni
 
 **Folgore**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 11 (2d8 + 2) danni da fulmine**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 11 (2d8 + 2) danni da fulmine.
 
 ### Azioni bonus
 
@@ -6072,7 +6069,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m
 Tiro salvezza su Costituzione: CD 10, una creatura vivente che il fuoco fatuo è in grado di vedere entro 1,5 metri con 0 punti ferita. Fallimento: il bersaglio muore, e il fuoco fatuo recupera 10 (3d6) punti ferita.
 
 **Svanire**  
-Il fuoco fatuo e la luce che emana sono invisibili finché la sua concentrazione non termina su tale effetto; l'effetto cessa immediatamente dopo che il fuoco fatuo effettua un tiro per colpire o usa Assorbire vita. Fustigatore
+Il fuoco fatuo e la luce che emana sono invisibili finché la sua concentrazione non termina su tale effetto; l'effetto cessa immediatamente dopo che il fuoco fatuo effettua un tiro per colpire o usa Assorbire vita.
 
 ---
 
