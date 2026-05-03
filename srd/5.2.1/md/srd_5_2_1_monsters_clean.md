@@ -5052,7 +5052,7 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 **tipo:** Immondo (demone)
 **dimensione:** Piccolo
 **allineamento:** caotico malvagio  
-
+**dimensione:** Piccolo
 **classe_armatura:** 11  
 **iniziativa:** +0 (10)  
 **punti_ferita:** 18 (4d6 + 4)  
@@ -5163,6 +5163,7 @@ Se si trova entro 1,5 metri da un albero di taglia Grande o superiore, la driade
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
+**dimensione:** Grande
 
 **classe_armatura:** 19  
 **iniziativa:** +4 (14)  
@@ -5227,6 +5228,7 @@ Il drider lancia luminescenza, oscurità o ragnatela, senza bisogno di component
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
+**dimensione:** Medio o piccolo
 
 **classe_armatura:** 13  
 **iniziativa:** +1 (11)  
@@ -5381,14 +5383,14 @@ L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 **Aura di fuoco**  
 Alla fine di ogni turno dell'elementale, tutte le creature in un'emanazione di 3 metri di cui l'elementale è il punto di origine subiscono 5 (1d10) danni da fuoco. Le creature e gli oggetti infiammabili che si trovano nell'emanazione iniziano a bruciare.
 
-**Forma di fuoco**  
-L'elementale può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo, e può entrare nello spazio di una creatura e fermarvisi. La prima volta che entra nello spazio di una creatura in un turno, quella creatura subisce 5 (1d10) danni da fuoco.
+**Multiattacco**
+L'efreeti effettua tre attacchi, usando Lama cocente o Scagliare fiamma in qualsiasi combinazione.
 
-**Illuminazione**  
-L'elementale emana luce intensa in un raggio di 9 metri e luce fioca per altri 9 metri.
+**Lama cocente**
+Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 13 (2d6 + 6) danni taglienti più 13 (2d12) danni da fuoco.
 
-**Suscettibilità all'acqua**  
-Per ogni 1,5 metri di cui l'elementale si muove nell'acqua o per ogni 4 litri d'acqua versatigli addosso, l'elementale subisce 3 (1d6) danni da freddo.
+**Scagliare fiamma**
+Tiro per colpire a distanza: +8, gittata 36 m. Colpito: 24 (7d6) danni da fuoco.
 
 ### Azioni
 
@@ -5440,8 +5442,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fu
 **Congelamento**  
 Se l'elementale subisce danni da freddo, la sua velocità è ridotta di 6 metri fino al termine del suo turno successivo.
 
-**Forma d'acqua**  
-L'elementale può entrare nello spazio di un nemico e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
+---
 
 ### Attacchi
 
@@ -5560,8 +5561,10 @@ L'elementale può scavare attraverso la terra e la pietra non magiche e non lavo
 
 ### Attacchi
 
-**Multiattacco**  
-L'elementale effettua due attacchi, usando Schianto o Lancio di roccia in qualsiasi combinazione.
+**classe_armatura:** 17  
+**iniziativa:** -1 (9)  
+**punti_ferita:** 126 (12d10 + 60)  
+**velocita:** 9 m, scavo 9 m  
 
 **Schianto**  
 Tiro per colpire in mischia: +8, portata 3 m. Colpito: 14 (2d8 + 5) danni contundenti.
@@ -6269,11 +6272,6 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1 (PE 200; BC +2)  
 
-### Tratti
-
-**Anfibio**  
-Il gigante può respirare in aria e in acqua.
-
 ### Azioni
 
 **Multiattacco**  
@@ -6386,14 +6384,85 @@ Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di
 
 ## Gigante delle colline
 
-**tipo:** Gigante
-**dimensione:** Enorme
+**Spada di fiamme**  
+*Tiro per colpire in mischia:* +11, portata 3 m. *Colpito:* 21 (4d6 + 7) danni taglienti più 10 (3d6) danni da fuoco.
+
+**Lancio di martello**  
+*Tiro per colpire a distanza:* +11, portata 18/72 m. *Colpito:* 23 (3d10 + 7) danni contundenti più 4 (1d8) danni da fuoco, il bersaglio viene spinto in linea retta fino a un massimo di 4,5 metri di distanza dal gigante, e subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo.
+
+---
+
+## Gigante del gelo
+
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
+**allineamento:** neutrale malvagio  
+
+**classe_armatura:** 15  
+**iniziativa:** +2 (12)  
+**punti_ferita:** 149 (13d12 + 65)  
+**velocita:** 12 m  
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 9 (-1)
+- costituzione: 21 (+5)
+- intelligenza: 9 (-1)
+- saggezza: 10 (+0)
+- carisma: 12 (+1)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: -1
+- costituzione: +8
+- intelligenza: -1
+- saggezza: +3
+- carisma: +4
+
+**abilita:** Atletica +9, Percezione +3  
+**immunita_danni:** freddo  
+**sensi:** Percezione passiva 13  
+**lingue:** Gigante  
+**grado_sfida:** 8  
+**punti_esperienza:** PE 3.900  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 8 (PE 3.900; BC +3)  
+
+### Azioni
+
+**tiri_salvezza_base:**
+- forza: +5
+- destrezza: -1
+- costituzione: +4
+- intelligenza: -3
+- saggezza: -1
+- carisma: -2
+
+**Ascia del gelo**  
+*Tiro per colpire in mischia:* +9, portata 3 m. *Colpito:* 19 (2d12 + 6) danni taglienti più 9 (2d8) danni da freddo.
+
+**Grande arco**  
+*Tiro per colpire a distanza:* +9, gittata 45/180 m. *Colpito:* 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da freddo, e la velocità del bersaglio è ridotta di 3 metri fino al termine del proprio turno successivo.
+
+### Azioni bonus
+
+**Grido di battaglia (ricarica 5-6)**  
+Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di sentire ottiene 16 (2d10 + 5) punti ferita temporanei e dispone di vantaggio ai tiri per colpire fino all'inizio del turno successivo del gigante.
+
+---
+
+## Gigante delle colline
+
+**gruppo:** Giganti  
+**tipo:** Gigante  
+**dimensione:** Enorme  
 **allineamento:** caotico malvagio  
 
-**classe_armatura:** 13
-**iniziativa:** +2 (12)
-**punti_ferita:** 105 (10d12 + 40)
-**velocita:** 12 m
+**classe_armatura:** 13  
+**iniziativa:** +2 (12)  
+**punti_ferita:** 105 (10d12 + 40)  
+**velocita:** 12 m  
 
 **caratteristiche:**
 - forza: 21 (+5)
@@ -6411,13 +6480,13 @@ Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di
 - saggezza: -1
 - carisma: -2
 
-**abilità:** Percezione +2
-**sensi:** Percezione passiva 12
+**abilita:** Percezione +2  
+**sensi:** Percezione passiva 12  
 **lingue:** Gigante  
-**grado_sfida:** 5
-**punti_esperienza:** PE 1.800
-**bonus_competenza:** +3
-**grado_sfida_raw:** 5 (PE 1.800; BC +3)
+**grado_sfida:** 5  
+**punti_esperienza:** PE 1.800  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 5 (PE 1.800; BC +3)  
 
 ### Azioni
 
@@ -6425,7 +6494,7 @@ Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di
 Il gigante effettua due attacchi, utilizzando Tronco d'albero o Lancio di rifiuti in qualsiasi combinazione.
 
 **Tronco d'albero**  
-Tiro per colpire in mischia: +8, portata 3 m. Colpito: 18 (3d8 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+*Tiro per colpire in mischia:* +8, portata 3 m. *Colpito:* 18 (3d8 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Lancio di rifiuti**  
 Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni contundenti, e il bersaglio è avvelenato fino al termine del proprio turno successivo.
@@ -6471,10 +6540,10 @@ Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni c
 Il gigante effettua due attacchi, utilizzando Mazza tonante o Nuvola di tuoni in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare nube di nebbia.
 
 **Mazza tonante**  
-Tiro per colpire in mischia: +12, portata 3 m. Colpito: 21 (3d8 + 8) danni contundenti più 7 (2d6) danni da tuono.
+*Tiro per colpire in mischia:* +12, portata 3 m. *Colpito:* 21 (3d8 + 8) danni contundenti più 7 (2d6) danni da tuono.
 
 **Nuvola di tuoni**  
-Tiro per colpire a distanza: +12, gittata 72 m. Colpito: 18 (3d6 + 8) danni da tuono, e il bersaglio è incapacitato fino al termine del proprio turno successivo.
+*Tiro per colpire a distanza:* +12, gittata 72 m. *Colpito:* 18 (3d6 + 8) danni da tuono, e il bersaglio è incapacitato fino al termine del proprio turno successivo.
 
 **Incantesimi**  
 Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15): 
@@ -6527,10 +6596,10 @@ Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristi
 Il gigante effettua due attacchi, usando Randello di pietra o Macigno in qualsiasi combinazione.
 
 **Randello di pietra**  
-Tiro per colpire in mischia: +9, portata 4,5 m. Colpito: 22 (3d10 + 6) danni contundenti.
+*Tiro per colpire in mischia:* +9, portata 4,5 m. *Colpito:* 22 (3d10 + 6) danni contundenti.
 
 **Macigno**  
-Tiro per colpire a distanza: +9, gittata 18/72 m. Colpito: 15 (2d8 + 6) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+*Tiro per colpire a distanza:* +9, gittata 18/72 m. *Colpito:* 15 (2d8 + 6) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 ### Reazioni
 
@@ -6650,9 +6719,7 @@ Il glabrezu effettua due attacchi Tenaglia, e utilizza Pugno o Incantesimi.
 Tiro per colpire in mischia: +9, portata 3 m. Colpito: 16 (2d10 + 5) danni taglienti. Se il bersaglio è una creatura di taglia Media o inferiore viene afferrato (CD 15 per sfuggire) da una delle due tenaglie.
 
 **Incantesimi**  
-Il glabrezu lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
-**1/giorno ciascuno:** confusione, parola del potere stordire, volare
-**A volontà:** dissolvi magie, individuazione del magico, oscurità
+Il glabrezu lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: confusione, parola del potere stordire, volare. A volontà: dissolvi magie, individuazione del magico, oscurità
 
 **Pugno**
 Tiro salvezza su Destrezza: CD 17, una creatura afferrata dal glabrezu. Fallimento: 15 (3d6 + 5) danni contundenti. Successo: danni dimezzati.
@@ -6718,6 +6785,7 @@ Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentr
 **gruppo:** Gnoll
 **dimensione:** Medio
 **tipo:** Immondo  
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -6752,6 +6820,7 @@ Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentr
 
 **Squarcio**  
 Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti.
+
 
 **Arco d'ossa**  
 Tiro per colpire a distanza: +3, gittata 45/180 m. Colpito: 6 (1d10 + 1) danni perforanti.
@@ -6904,9 +6973,7 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi.
 ### Azioni
 
 **Multiattacco**  
-Il goblin effettua due attacchi, utilizzando
-
-**Scimitarra o Arco corto in qualsiasi combinazione**  
+Il goblin effettua due attacchi, utilizzando Scimitarra o Arco corto in qualsiasi combinazione
 
 
 **Scimitarra**  
