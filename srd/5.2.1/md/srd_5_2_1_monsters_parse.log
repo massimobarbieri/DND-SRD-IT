@@ -81,56 +81,59 @@ Totale mostri estratti: 288
 #DONE Draghi rossi (pagine 32-34): header_continuation_o_parse_da_verificare - cieca 3 m
 #DONE Draghi rossi (pagine 32-34): azioni_leggendarie
 #DONE Draghi rossi (pagine 32-34): incantesimi_interni
-- Draghi verdi (pagine 34-35): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), legale malvagio
-- Draghi verdi (pagine 34-35): header_continuation_o_parse_da_verificare - cieca 3 m
-- Draghi verdi (pagine 34-35): azioni_leggendarie
-- Draghi verdi (pagine 34-35): incantesimi_interni
+#DONE Draghi verdi (pagine 34-35): header_continuation_o_parse_da_verificare - Drago Medio (cromatico), legale malvagio
+#DONE Draghi verdi (pagine 34-35): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Draghi verdi (pagine 34-35): azioni_leggendarie
+#DONE Draghi verdi (pagine 34-35): incantesimi_interni
 #DONE Dretch (pagine 35-36): header_continuation_o_parse_da_verificare - le creature che capiscono l'Abissale)
-- Driade (pagine 36-36): incantesimi_interni
-- Druido (pagine 37-37): incantesimi_interni
-- Efreeti (pagine 37-39): header_continuation_o_parse_da_verificare - 330 System Reference Document 5.2.1
-- Efreeti (pagine 37-39): incantesimi_interni
+#DONE Driade (pagine 36-36): incantesimi_interni
+#DONE Druido (pagine 37-37): incantesimi_interni
+#DONE Efreeti (pagine 37-39): header_continuation_o_parse_da_verificare - 330 System Reference Document 5.2.1
+#DONE Efreeti (pagine 37-39): incantesimi_interni
+#DONE Elementali: da formattare e controllare
 #DONE Esploratore (pagine 40-40): header_continuation_o_parse_da_verificare - Sopravvivenza +5
 #DONE Ettin (pagine 40-41): header_continuation_o_parse_da_verificare - spaventato, stordito
 #DONE Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - perforante, tagliente, tuono
 #DONE Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
 #DONE Fantasma (pagine 41-41): header_continuation_o_parse_da_verificare - prono, spaventato, trattenuto
 #DONE Boleto stridente (pagine 42-42): gruppo_header - Funghi
+#DONE Fungo viola: gruppo_header - Funghi
 #DONE Fuoco fatuo (pagine 42-42): header_continuation_o_parse_da_verificare - 335 System Reference Document 5.2.1
 #DONE Fuoco fatuo (pagine 42-42): header_continuation_o_parse_da_verificare - perforante, tagliente
 #DONE Fuoco fatuo (pagine 42-42): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, privo di sensi,
 #DONE Fuoco fatuo (pagine 42-42): header_continuation_o_parse_da_verificare - prono, trattenuto
 #DONE Ghoul (pagine 43-46): incantesimi_interni
+- Giganti: tutto
 #DONE Glabrezu (pagine 46-46): incantesimi_interni
 #DONE Gnoll guerriero (pagine 47-47): gruppo_header - Gnoll
 #DONE Goblin tirapiedi (pagine 47-47): gruppo_header - Goblin
 #DONE Goblin guerriero (pagine 47-47): header_continuation_o_parse_da_verificare - scudo
-- Golem di argilla (pagine 48-48): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
-- Golem di carne (pagine 48-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
-- Golem di carne (pagine 48-49): header_continuation_o_parse_da_verificare - le parla
-- Golem di ferro (pagine 49-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
-- Golem di ferro (pagine 49-49): header_continuation_o_parse_da_verificare - le parla
-- Golem di pietra (pagine 49-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
-- Golem di pietra (pagine 49-49): header_continuation_o_parse_da_verificare - le parla
-- Grifone (pagine 50-50): header_continuation_o_parse_da_verificare - 343 System Reference Document 5.2.1
-- Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - paralizzato, pietrificato, spaventato
-- Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - cieca 3 m
-- Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - non è in grado di parlare
-- Guardia (pagine 51-51): gruppo_header - Guardie
-- Guardia (pagine 51-51): header_continuation_o_parse_da_verificare - 344 System Reference Document 5.2.1
-- Capitano delle guardie (pagine 51-51): header_continuation_o_parse_da_verificare - spada lunga
-- Guerriero di fanteria (pagine 51-52): gruppo_header - Guerrieri
-- Hezrou (pagine 52-52): header_continuation_o_parse_da_verificare - 345 System Reference Document 5.2.1
-- Hobgoblin guerriero (pagine 52-53): gruppo_header - Hobgoblin
-- Hobgoblin guerriero (pagine 52-53): header_continuation_o_parse_da_verificare - lunga
-- Idra (pagine 53-53): header_continuation_o_parse_da_verificare - spaventato, stordito
-- Imp (pagine 53-54): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
-- Imp (pagine 53-54): mutaforma
-- Incubo (pagine 54-54): header_continuation_o_parse_da_verificare - +5, Persuasione +9
-- Incubo (pagine 54-54): incantesimi_interni
-- Kraken (pagine 54-55): header_continuation_o_parse_da_verificare - spaventato, trattenuto
-- Kraken (pagine 54-55): lair_variant_in_gs
-- Kraken (pagine 54-55): azioni_leggendarie
+#DONE Golem di argilla (pagine 48-48): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
+#DONE Golem di carne (pagine 48-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
+#DONE Golem di carne (pagine 48-49): header_continuation_o_parse_da_verificare - le parla
+#DONE Golem di ferro (pagine 49-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
+#DONE Golem di ferro (pagine 49-49): header_continuation_o_parse_da_verificare - le parla
+#DONE Golem di pietra (pagine 49-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
+#DONE Golem di pietra (pagine 49-49): header_continuation_o_parse_da_verificare - le parla
+#DONE Grifone (pagine 50-50): header_continuation_o_parse_da_verificare - 343 System Reference Document 5.2.1
+#DONE Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - paralizzato, pietrificato, spaventato
+#DONE Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Guardiano protettore (pagine 50-51): header_continuation_o_parse_da_verificare - non è in grado di parlare
+#DONE Guardia (pagine 51-51): gruppo_header - Guardie
+#DONE Guardia (pagine 51-51): header_continuation_o_parse_da_verificare - 344 System Reference Document 5.2.1
+#DONE Capitano delle guardie (pagine 51-51): header_continuation_o_parse_da_verificare - spada lunga
+#DONE Guerriero di fanteria (pagine 51-52): gruppo_header - Guerrieri
+#DONE Hezrou (pagine 52-52): header_continuation_o_parse_da_verificare - 345 System Reference Document 5.2.1
+#DONE Hobgoblin guerriero (pagine 52-53): gruppo_header - Hobgoblin
+#DONE Hobgoblin guerriero (pagine 52-53): header_continuation_o_parse_da_verificare - lunga
+#DONE Idra (pagine 53-53): header_continuation_o_parse_da_verificare - spaventato, stordito
+#DONE Imp (pagine 53-54): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
+#DONE Imp (pagine 53-54): mutaforma
+#DONE Incubo (pagine 54-54): header_continuation_o_parse_da_verificare - +5, Persuasione +9
+#DONE Incubo (pagine 54-54): incantesimi_interni
+#DONE Kraken (pagine 54-55): header_continuation_o_parse_da_verificare - spaventato, trattenuto
+#DONE Kraken (pagine 54-55): lair_variant_in_gs
+#DONE Kraken (pagine 54-55): azioni_leggendarie
 - Lamia (pagine 55-55): header_continuation_o_parse_da_verificare - 348 System Reference Document 5.2.1
 - Lamia (pagine 55-55): incantesimi_interni
 - Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - spaventato
