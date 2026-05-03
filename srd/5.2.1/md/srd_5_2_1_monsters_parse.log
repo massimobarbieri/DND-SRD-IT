@@ -102,9 +102,9 @@ Totale mostri estratti: 288
 #DONE Fuoco fatuo (pagine 42-42): header_continuation_o_parse_da_verificare - prono, trattenuto
 #DONE Ghoul (pagine 43-46): incantesimi_interni
 #DONE Glabrezu (pagine 46-46): incantesimi_interni
-- Gnoll guerriero (pagine 47-47): gruppo_header - Gnoll
-- Goblin tirapiedi (pagine 47-47): gruppo_header - Goblin
-- Goblin guerriero (pagine 47-47): header_continuation_o_parse_da_verificare - scudo
+#DONE Gnoll guerriero (pagine 47-47): gruppo_header - Gnoll
+#DONE Goblin tirapiedi (pagine 47-47): gruppo_header - Goblin
+#DONE Goblin guerriero (pagine 47-47): header_continuation_o_parse_da_verificare - scudo
 - Golem di argilla (pagine 48-48): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
 - Golem di carne (pagine 48-49): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, spaventato
 - Golem di carne (pagine 48-49): header_continuation_o_parse_da_verificare - le parla

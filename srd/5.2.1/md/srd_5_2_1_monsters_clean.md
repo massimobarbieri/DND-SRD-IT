@@ -6556,6 +6556,7 @@ Tiro salvezza su Destrezza: CD 17, una creatura afferrata dal glabrezu. Fallimen
 ## Gladiatore
 
 **tipo:** Umanoide  
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 16  
@@ -6610,6 +6611,7 @@ Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentr
 
 **gruppo:** Gnoll  
 **tipo:** Immondo  
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -6643,9 +6645,7 @@ Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentr
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 5 (1d6 + 2) danni perforanti**  
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti.
 
 
 **Arco d'ossa**  
@@ -6662,6 +6662,7 @@ Subito dopo aver inflitto danni a una creatura già sanguinante, lo gnoll si muo
 
 **gruppo:** Goblin  
 **tipo:** Folletto  
+**dimensione:** Piccolo 
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 12  
@@ -6708,7 +6709,9 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi. 340 System Reference Do
 
 ## Goblin guerriero
 
+**gruppo:** Goblin
 **tipo:** Folletto  
+**dimensione:** Piccolo 
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 15  
@@ -6733,7 +6736,7 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi. 340 System Reference Do
 - carisma: -1
 
 **abilita:** Furtività +6  
-**attrezzatura:** arco corto, armatura di cuoio, scimitarra,  
+**attrezzatura:** arco corto, armatura di cuoio, scimitarra, scudo 
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** Comune, Goblin  
 **grado_sfida:** 1/4  
@@ -6758,7 +6761,9 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi.
 
 ## Goblin capo
 
+**gruppo:** Goblin
 **tipo:** Folletto  
+**dimensione:** Piccolo 
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 17  
@@ -6794,9 +6799,7 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi.
 ### Azioni
 
 **Multiattacco**  
-Il goblin effettua due attacchi, utilizzando
-
-**Scimitarra o Arco corto in qualsiasi combinazione**  
+Il goblin effettua due attacchi, utilizzando Scimitarra o Arco corto in qualsiasi combinazione
 
 
 **Scimitarra**  
@@ -6819,7 +6822,8 @@ Attivazione: Una creatura che il goblin è in grado di vedere effettua un tiro p
 
 ## Golem di argilla
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
