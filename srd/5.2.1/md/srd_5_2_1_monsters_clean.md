@@ -5383,14 +5383,14 @@ L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 **Aura di fuoco**  
 Alla fine di ogni turno dell'elementale, tutte le creature in un'emanazione di 3 metri di cui l'elementale è il punto di origine subiscono 5 (1d10) danni da fuoco. Le creature e gli oggetti infiammabili che si trovano nell'emanazione iniziano a bruciare.
 
-**Multiattacco**
-L'efreeti effettua tre attacchi, usando Lama cocente o Scagliare fiamma in qualsiasi combinazione.
+**Forma di fuoco**
+L'elementale può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo, e può entrare nello spazio di una creatura e fermarvisi. La prima volta che entra nello spazio di una creatura in un turno, quella creatura subisce 5 (1d10) danni da fuoco.
 
-**Lama cocente**
-Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 13 (2d6 + 6) danni taglienti più 13 (2d12) danni da fuoco.
+**Illuminazione**
+L'elementale emana luce intensa in un raggio di 9 metri e luce fioca per altri 9 metri.
 
-**Scagliare fiamma**
-Tiro per colpire a distanza: +8, gittata 36 m. Colpito: 24 (7d6) danni da fuoco.
+**Suscettibilità all'acqua**
+Per ogni 1,5 metri di cui l'elementale si muove nell'acqua o per ogni 4 litri d'acqua versatigli addosso, l'elementale subisce 3 (1d6) danni da freddo.
 
 ### Azioni
 
@@ -5399,6 +5399,8 @@ L'elementale effettua due attacchi Bruciatura.
 
 **Bruciatura**  
 Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, inizia a bruciare. 
+
+---
 
 ## Elementale dell'acqua
 
@@ -5442,7 +5444,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fu
 **Congelamento**  
 Se l'elementale subisce danni da freddo, la sua velocità è ridotta di 6 metri fino al termine del suo turno successivo.
 
----
+**Forma d'acqua**
+L'elementale può entrare nello spazio di un nemico e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
 
 ### Attacchi
 
@@ -5454,6 +5457,8 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 
 **Sommergere (ricarica 4-6)**  
 Tiro salvezza su Forza: CD 15, ogni creatura nello spazio dell'elementale. Fallimento: 22 (4d8 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 14 per sfuggire). Finché la presa perdura, il bersaglio è trattenuto e soffoca (a meno che non sia in grado di respirare sott'acqua) e subisce 9 (2d8) danni contundenti all'inizio di ogni turno dell'elementale. Tramite Sommergere, l'elementale può afferrare una creatura di taglia Grande o un massimo di due creature di taglia Media o inferiore contemporaneamente. Con un'azione, una creatura entro 1,5 metri dall'elementale può tirare una creatura fuori da esso superando una prova di Forza (Atletica) con CD 14. Successo: danni dimezzati.
+
+---
 
 ## Elementale dell'aria 
 
@@ -5497,12 +5502,6 @@ Tiro salvezza su Forza: CD 15, ogni creatura nello spazio dell'elementale. Falli
 **Forma d'aria**  
 L'elementale può entrare nello spazio di una creatura e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
 
-**Mostro da assedio**  
-L'elementale infligge danni doppi a oggetti e strutture.
-
-**Scivolare nella terra**  
-L'elementale può scavare attraverso la terra e la pietra non magiche e non lavorate, senza disturbare il materiale attraverso cui si muove.
-
 ### Attacchi
 
 **Multiattacco**  
@@ -5513,6 +5512,8 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 14 (2d8 + 5) danni da tuo
 
 **Vortice (ricarica 4-6)**  
 Tiro salvezza su Forza: CD 13, una creatura di taglia Media o inferiore nello spazio dell'elementale. Fallimento: 24 (4d10 + 2) danni da tuono, il bersaglio viene spinto fino a un massimo di 6 metri di distanza dall'elementale e cade a terra prono. Successo: danni dimezzati. 
+
+---
 
 ## Elementale della terra
 
@@ -5559,12 +5560,10 @@ L'elementale infligge danni doppi a oggetti e strutture.
 **Scivolare nella terra.**
 L'elementale può scavare attraverso la terra e la pietra non magiche e non lavorate, senza disturbare il materiale attraverso cui si muove.
 
-### Attacchi
+### Azioni
 
-**classe_armatura:** 17  
-**iniziativa:** -1 (9)  
-**punti_ferita:** 126 (12d10 + 60)  
-**velocita:** 9 m, scavo 9 m  
+**Multiattacco**
+L'elementale effettua due attacchi, usando Schianto o Lancio di roccia in qualsiasi combinazione.
 
 **Schianto**  
 Tiro per colpire in mischia: +8, portata 3 m. Colpito: 14 (2d8 + 5) danni contundenti.
@@ -6283,6 +6282,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni tagli
 **Morso**  
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perforanti più 3 (1d6) danni necrotici. 
 
+---
+
 ## Gigante del fuoco
 
 **gruppo:** Giganti  
@@ -6331,17 +6332,19 @@ Tiro per colpire in mischia: +11, portata 3 m. Colpito: 21 (4d6 + 7) danni tagli
 **Lancio di martello**  
 Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni contundenti più 4 (1d8) danni da fuoco, il bersaglio viene spinto in linea retta fino a un massimo di 4,5 metri di distanza dal gigante, e subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo. 
 
+---
+
 ## Gigante del gelo
 
 **gruppo:** Giganti  
-**tipo:** Gigante
-**dimensione:** Enorme
+**tipo:** Gigante  
+**dimensione:** Enorme  
 **allineamento:** neutrale malvagio  
 
-**classe_armatura:** 15
-**iniziativa:** +2 (12)
-**punti_ferita:** 149 (13d12 + 65)
-**velocita:** 12 m
+**classe_armatura:** 15  
+**iniziativa:** +2 (12)  
+**punti_ferita:** 149 (13d12 + 65)  
+**velocita:** 12 m  
 
 **caratteristiche:**
 - forza: 23 (+6)
@@ -6359,14 +6362,14 @@ Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni 
 - saggezza: +3
 - carisma: +4
 
-**abilità:** Atletica +9, Percezione +3
+**abilita:** Atletica +9, Percezione +3  
 **immunita_danni:** freddo  
-**sensi:** Percezione passiva 13
+**sensi:** Percezione passiva 13  
 **lingue:** Gigante  
-**grado_sfida:** 8
-**punti_esperienza:** PE 3.900
-**bonus_competenza:** +3
-**grado_sfida_raw:** 8 (PE 3.900; BC +3)
+**grado_sfida:** 8  
+**punti_esperienza:** PE 3.900  
+**bonus_competenza:** +3  
+**grado_sfida_raw:** 8 (PE 3.900; BC +3)  
 
 ### Azioni
 
@@ -6374,14 +6377,14 @@ Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni 
 Il gigante effettua due attacchi, usando Ascia del gelo o Grande arco in qualsiasi combinazione.
 
 **Ascia del gelo**  
-Tiro per colpire in mischia: +9, portata 3 m. Colpito: 19 (2d12 + 6) danni taglienti più 9 (2d8) danni da freddo.
+*Tiro per colpire in mischia:* +9, portata 3 m. *Colpito:* 19 (2d12 + 6) danni taglienti più 9 (2d8) danni da freddo.
 
 **Grande arco**  
-Tiro per colpire a distanza: +9, gittata 45/180 m. Colpito: 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da freddo, e la velocità del bersaglio è ridotta di 3 metri fino al termine del proprio turno successivo.
+*Tiro per colpire a distanza:* +9, gittata 45/180 m. *Colpito:* 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da freddo, e la velocità del bersaglio è ridotta di 3 metri fino al termine del proprio turno successivo.
 
 ### Azioni bonus
 
-**Grido di battaglia (ricarica 5–6).** 
+**Grido di battaglia (ricarica 5-6)**  
 Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di sentire ottiene 16 (2d10 + 5) punti ferita temporanei e dispone di vantaggio ai tiri per colpire fino all'inizio del turno successivo del gigante.
 
 ---
@@ -6432,6 +6435,8 @@ Il gigante effettua due attacchi, utilizzando Tronco d'albero o Lancio di rifiut
 
 **Lancio di rifiuti**  
 Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni contundenti, e il bersaglio è avvelenato fino al termine del proprio turno successivo.
+
+---
 
 ## Gigante delle nuvole 
 
@@ -6490,6 +6495,8 @@ Il gigante lancia uno dei seguenti incantesimi, senza bisogno di componenti mate
 **Passo velato**
 Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
+---
+
 ## Gigante delle pietre
 
 **gruppo:** Giganti  
@@ -6541,6 +6548,8 @@ Il gigante effettua due attacchi, usando Randello di pietra o Macigno in qualsia
 
 **Deviare proiettili (ricarica 5–6).**
 Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli infligge danni contundenti, perforanti o taglienti. Esito: il gigante riduce i danni subiti dall'attacco di 11 (1d10 + 6) e, se li riduce a 0, può deflettere una parte della forza di quell'attacco. Tiro salvezza su Destrezza: CD 17, una creatura che il gigante è in grado di vedere entro 18 metri. Fallimento: 11 (1d10 + 6) danni da forza.
+
+---
 
 ## Gigante delle tempeste
 
