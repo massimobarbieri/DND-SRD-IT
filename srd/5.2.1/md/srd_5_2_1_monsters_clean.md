@@ -6285,6 +6285,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perfor
 
 ## Gigante del fuoco
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** legale malvagio  
@@ -6332,6 +6333,7 @@ Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni 
 
 ## Gigante del gelo
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** neutrale malvagio  
@@ -6380,74 +6382,6 @@ Tiro per colpire a distanza: +9, gittata 45/180 m. Colpito: 17 (2d10 + 6) danni 
 ### Azioni bonus
 
 **Grido di battaglia (ricarica 5–6).** 
-Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di sentire ottiene 16 (2d10 + 5) punti ferita temporanei e dispone di vantaggio ai tiri per colpire fino all'inizio del turno successivo del gigante.
-
-## Gigante delle colline
-
-**Spada di fiamme**  
-*Tiro per colpire in mischia:* +11, portata 3 m. *Colpito:* 21 (4d6 + 7) danni taglienti più 10 (3d6) danni da fuoco.
-
-**Lancio di martello**  
-*Tiro per colpire a distanza:* +11, portata 18/72 m. *Colpito:* 23 (3d10 + 7) danni contundenti più 4 (1d8) danni da fuoco, il bersaglio viene spinto in linea retta fino a un massimo di 4,5 metri di distanza dal gigante, e subisce svantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno successivo.
-
----
-
-## Gigante del gelo
-
-**gruppo:** Giganti  
-**tipo:** Gigante  
-**dimensione:** Enorme  
-**allineamento:** neutrale malvagio  
-
-**classe_armatura:** 15  
-**iniziativa:** +2 (12)  
-**punti_ferita:** 149 (13d12 + 65)  
-**velocita:** 12 m  
-
-**caratteristiche:**
-- forza: 23 (+6)
-- destrezza: 9 (-1)
-- costituzione: 21 (+5)
-- intelligenza: 9 (-1)
-- saggezza: 10 (+0)
-- carisma: 12 (+1)
-
-**tiri_salvezza_base:**
-- forza: +6
-- destrezza: -1
-- costituzione: +8
-- intelligenza: -1
-- saggezza: +3
-- carisma: +4
-
-**abilita:** Atletica +9, Percezione +3  
-**immunita_danni:** freddo  
-**sensi:** Percezione passiva 13  
-**lingue:** Gigante  
-**grado_sfida:** 8  
-**punti_esperienza:** PE 3.900  
-**bonus_competenza:** +3  
-**grado_sfida_raw:** 8 (PE 3.900; BC +3)  
-
-### Azioni
-
-**tiri_salvezza_base:**
-- forza: +5
-- destrezza: -1
-- costituzione: +4
-- intelligenza: -3
-- saggezza: -1
-- carisma: -2
-
-**Ascia del gelo**  
-*Tiro per colpire in mischia:* +9, portata 3 m. *Colpito:* 19 (2d12 + 6) danni taglienti più 9 (2d8) danni da freddo.
-
-**Grande arco**  
-*Tiro per colpire a distanza:* +9, gittata 45/180 m. *Colpito:* 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da freddo, e la velocità del bersaglio è ridotta di 3 metri fino al termine del proprio turno successivo.
-
-### Azioni bonus
-
-**Grido di battaglia (ricarica 5-6)**  
 Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di sentire ottiene 16 (2d10 + 5) punti ferita temporanei e dispone di vantaggio ai tiri per colpire fino all'inizio del turno successivo del gigante.
 
 ---
@@ -6501,6 +6435,7 @@ Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni c
 
 ## Gigante delle nuvole 
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** neutrale
@@ -6557,6 +6492,7 @@ Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristi
 
 ## Gigante delle pietre
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** neutrale
@@ -6608,6 +6544,7 @@ Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli 
 
 ## Gigante delle tempeste
 
+**gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
 **allineamento:** caotico buono
