@@ -4544,8 +4544,12 @@ Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'az
 
 ---
 
-## Draghi rossi
+## Drago rosso cucciolo
 
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Medio
+**allineamento:** caotico malvagio
 
 **classe_armatura:** 17  
 **iniziativa:** +2 (12)  
@@ -4570,17 +4574,12 @@ Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'az
 
 **abilita:** Furtività +2, Percezione +4  
 **immunita_danni:** fuoco  
-**sensi:** Percezione passiva 14; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 4  
 **punti_esperienza:** PE 1.100  
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 4 (PE 1.100; BC +2)  
-
-### Tratti
-
-**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**  
-Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -4591,10 +4590,46 @@ Il drago effettua due attacchi Squarcio.
 Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (1d10 + 4) danni taglienti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 24 (7d6) danni da fuoco. Successo: danni dimezzati. Drago rosso giovane Drago Grande (cromatico), caotico malvagio CA 18 Iniziativa +4 (14) PF 178 (17d10 + 85) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 23 +6 +6 Des 10 +0 +4 Cos 21 +5 +5 Int 14 +2 +2 Sag 11 +0 +4 Car 19 +4 +4 Abilità Furtività +4, Percezione +8 Immunità fuoco Sensi Percezione passiva 18; scurovisione 36 m, vista cieca 9 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 24 (7d6) danni da fuoco. Successo: danni dimezzati. 
 
-**GS 10 (PE 5**  
-900; BC +4)
+## Drago rosso giovane
+
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Grande
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 18
+**iniziativa:** +4 (14)  
+**punti_ferita:** 178 (17d10 + 85)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 23 (+6)
+- destrezza: 10 (+0)
+- costituzione: 21 (+5)
+- intelligenza: 14 (+2)
+- saggezza: 11 (+0)
+- carisma: 19 (+4)
+
+**tiri_salvezza_base:**
+- forza: +6
+- destrezza: +4
+- costituzione: +5
+- intelligenza: +2
+- saggezza: +4
+- carisma: +4
+
+**abilita:** Furtività +4, Percezione +8
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 18; scurovisione 36 m, vista cieca 9 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 10
+**punti_esperienza:** PE 5.900
+**bonus_competenza:** +4
+**grado_sfida_raw:** 10 (PE 5.900; BC +4)
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio.
@@ -4603,10 +4638,50 @@ Il drago effettua tre attacchi Squarcio.
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 13 (2d6 + 6) danni taglienti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. Drago rosso adulto Drago Enorme (cromatico), caotico malvagio CA 19 Iniziativa +12 (22) PF 256 (19d12 + 133) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 27 +8 +8 Des 10 +0 +6 Cos 25 +7 +7 Int 16 +3 +3 Sag 13 +1 +7 Car 23 +6 +6 Abilità Furtività +6, Percezione +13 Immunità fuoco Sensi Percezione passiva 23; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. 
 
-**GS 17 (PE 18**  
-000, o 20.000 nella tana; BC +6)
+## Drago rosso adulto
+
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Enorme
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 19
+**iniziativa:** +12 (22)  
+**punti_ferita:** 256 (19d12 + 133)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 27 (+8)
+- destrezza: 10 (+0)
+- costituzione: 25 (+7)
+- intelligenza: 16 (+3)
+- saggezza: 13 (+1)
+- carisma: 23 (+6)
+
+**tiri_salvezza_base:**
+- forza: +8
+- destrezza: +6
+- costituzione: +7
+- intelligenza: +3
+- saggezza: +7
+- carisma: +6
+
+**abilita:** Furtività +6, Percezione +13
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 23; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 17
+**punti_esperienza:** PE 18.000, o 20.000 nella tana
+**bonus_competenza:** +6
+**grado_sfida_raw:** 17 (PE 18.000, o 20.000 nella tana; BC +6)
+
+### Tratti
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
 
 **Multiattacco**  
 Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare raggio rovente.
@@ -4615,22 +4690,12 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 13 (1d10 + 8) danni taglienti più 5 (2d4) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20, +12 al tiro per colpire degli attacchi con incantesimo): 1/giorno: palla di fuoco 326 System Reference Document 5.2.1 A volontà: Comando (di 2º livello), individuazione del magico, raggio rovente
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20, +12 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno:** palla di fuoco
+**A volontà:** Comando (di 2º livello), individuazione del magico, raggio rovente
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 21, tutte le creature in un cono di 18 metri. Fallimento: 59 (17d6) danni da fuoco. Successo: danni dimezzati.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare raggio rovente (di 3º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 10 (3d6) danni da fuoco.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Palla di fuoco (di 6º livello), scrutare A volontà: Comando (di 2º livello), individuazione del magico, raggio rovente (di 3º livello)
-
-**Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 91 (26d6) danni da fuoco. Successo: danni dimezzati.
 
 ### Azioni leggendarie
 
@@ -4644,10 +4709,67 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 Il drago usa Incantesimi per lanciare comando (di 2º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Raggi fiammeggianti**  
-Il drago usa Incantesimi per lanciare raggio rovente. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. Drago rosso antico Drago Mastodontico (Cromatico), Caotico Malvagio CA 22 Iniziativa +14 (24) PF 507 (26d20 + 234) Velocità 12 m, scalata 12 m, volo 24 m MOD SALV MOD SALV MOD SALV For 30 +10 +10 Des 10 +0 +7 Cos 29 +9 +9 Int 18 +4 +4 Sag 15 +2 +9 Car 27 +8 +8 Abilità Furtività +7, Percezione +16 Immunità fuoco Sensi Percezione passiva 26; scurovisione 36 m, vista cieca 18 m Lingue Comune, Draconico
+Il drago usa Incantesimi per lanciare raggio rovente. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
-**GS 24 (PE 62**  
-000, o 75.000 nella tana; BC +7)
+## Drago rosso antico
+
+**gruppo:** Draghi rossi
+**tipo:** Drago (cromatico)
+**dimensione:** Mastodontico
+**allineamento:** caotico malvagio
+
+**classe_armatura:** 22
+**iniziativa:** +14 (24)  
+**punti_ferita:** 507 (26d20 + 234)
+**velocita:** 12 m, scalata 12 m, volo 24 m
+
+**caratteristiche:**
+- forza: 30 (+10)
+- destrezza: 10 (+0)
+- costituzione: 29 (+9)
+- intelligenza: 18 (+4)
+- saggezza: 15 (+2)
+- carisma: 27 (+8)
+
+**tiri_salvezza_base:**
+- forza: +10
+- destrezza: +7
+- costituzione: +9
+- intelligenza: +4
+- saggezza: +9
+- carisma: +8
+
+**abilita:** Furtività +7, Percezione +16
+**immunita_danni:** fuoco  
+**sensi:** Percezione passiva 26; scurovisione 36 m, vista cieca 18 m
+**lingue:** Comune, Draconico  
+**grado_sfida:** 24
+**punti_esperienza:** PE 62.000, o 75.000 nella tana
+**bonus_competenza:** +7
+**grado_sfida_raw:** 24 (PE 62.000, o 75.000 nella tana; BC +7)
+
+### Tratti
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana).**
+Se il drago fallisce un tiro salvezza, può scegliere di superarlo comunque.
+
+### Azioni
+
+**Multiattacco**  
+Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare raggio rovente (di 3º livello).
+
+**Squarcio**  
+Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 10 (3d6) danni da fuoco.
+
+**Incantesimi**  
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Palla di fuoco (di 6º livello), scrutare 
+**A volontà:** Comando (di 2º livello), individuazione del magico, raggio rovente (di 3º livello)
+
+**Soffio di fuoco (ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 91 (26d6) danni da fuoco. Successo: danni dimezzati.
+
+### Azioni leggendarie
 
 **Utilizzi di azioni leggendarie: 3 (4 nella tana)**  
 Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
