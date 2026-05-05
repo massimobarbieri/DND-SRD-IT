@@ -8303,7 +8303,8 @@ Il lich si teletrasporta fino a 18 metri in uno spazio libero che è in grado di
 
 ## Lupo invernale
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -8344,13 +8345,10 @@ Il lupo dispone di vantaggio al tiro per colpire contro una creatura se almeno u
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 11 (2d6 + 4) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 18 (4d8) danni da freddo. Successo: danni dimezzati. Lupo mannaro
+Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 18 (4d8) danni da freddo. Successo: danni dimezzati.
 
 ---
 
