@@ -11653,7 +11653,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perf
 
 ## Segugio infernale
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -11700,7 +11701,7 @@ Il segugio effettua due attacchi Morso.
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 17 (5d6) danni da fuoco. Successo: danni dimezzati. Sfingi
+Tiro salvezza su Destrezza: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 17 (5d6) danni da fuoco. Successo: danni dimezzati.
 
 ---
 
