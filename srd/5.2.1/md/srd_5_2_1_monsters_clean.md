@@ -10823,7 +10823,8 @@ Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti fe
 
 ## Pseudodrago
 
-**tipo:** Drago  
+**tipo:** Drago
+**dimensione:** Minuscolo
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 14  
@@ -10848,7 +10849,7 @@ Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti fe
 - carisma: +0
 
 **abilita:** Furtività +4, Percezione +5  
-**sensi:** Percezione passiva 15; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 15; scurovisione 18 m, vista cieca 3 m
 **lingue:** capisce Comune e Draconico, ma non li parla  
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
@@ -10863,19 +10864,14 @@ Lo pseudodrago dispone di vantaggio ai tiri salvezza contro incantesimi e altri 
 ### Azioni
 
 **Multiattacco**  
-Lo pseudodrago effettua due attacchi
+Lo pseudodrago effettua due attacchi Morso.
 
 **Morso**  
-
-
-**Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 4 (1d4 + 2) danni perforanti**  
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni perforanti.
 
 
 **Pungiglione**  
-Tiro salvezza su Costituzione: CD 12, una creatura che lo pseudodrago è in grado di vedere entro 1,5 metri. Fallimento: 5 (2d4) danni da veleno, e il bersaglio è avvelenato per 1 ora. Fallimento di 5 o più: finché rimane avvelenato, il bersaglio è privo di sensi. Il bersaglio si sveglia se subisce danni o se una creatura entro 1,5 metri da esso effettua un'azione per svegliarlo. Quasit
+Tiro salvezza su Costituzione: CD 12, una creatura che lo pseudodrago è in grado di vedere entro 1,5 metri. Fallimento: 5 (2d4) danni da veleno, e il bersaglio è avvelenato per 1 ora. Fallimento di 5 o più: finché rimane avvelenato, il bersaglio è privo di sensi. Il bersaglio si sveglia se subisce danni o se una creatura entro 1,5 metri da esso effettua un'azione per svegliarlo. 
 
 ---
 
