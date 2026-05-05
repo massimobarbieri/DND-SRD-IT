@@ -8875,7 +8875,8 @@ Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Co
 
 ## Medusa
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -8913,10 +8914,7 @@ Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Co
 La medusa effettua due attacchi Artiglio e un attacco Chioma di serpenti, o tre attacchi Raggio velenoso.
 
 **Artiglio**  
-Tiro per colpire in mischia: +6, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Chioma di serpenti**  
 Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 5 (1d4 + 3) danni perforanti più 14 (4d6) danni da veleno.
@@ -8927,7 +8925,7 @@ Tiro per colpire a distanza: +5, gittata 45 m. Colpito: 11 (2d8 + 2) danni da ve
 ### Azioni bonus
 
 **Sguardo pietrificante (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 9 metri. Se la medusa vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto. Megera marina
+Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 9 metri. Se la medusa vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto.
 
 ---
 
