@@ -8218,7 +8218,8 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno
 
 ## Lich
 
-**tipo:** Non  
+**tipo:** Non morto (mago)
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 20  
@@ -8242,11 +8243,11 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno
 - saggezza: +9
 - carisma: +3
 
-**abilita:** Arcano +19, Intuizione +9, Percezione +9, Storia  
+**abilita:** Arcano +19, Intuizione +9, Percezione +9, Storia +12
 **attrezzatura:** borsa per componenti  
 **resistenze:** freddo, fulmine  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista pura 36 m  
 **lingue:** tutte  
 **grado_sfida:** 21  
@@ -8257,7 +8258,10 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno
 ### Tratti
 
 **Filatterio**  
-Se annientato, il lich si riforma dopo 1d10 giorni se possiede un filatterio, tornando in vita con tutti i suoi punti ferita. Il nuovo corpo appare in uno spazio libero all'interno della tana della lich. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il lich fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Se annientato, il lich si riforma dopo 1d10 giorni se possiede un filatterio, tornando in vita con tutti i suoi punti ferita. Il nuovo corpo appare in uno spazio libero all'interno della tana della lich. 
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana)**
+Se il lich fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -8271,15 +8275,15 @@ Tiro per colpire in mischia o a distanza: +12, portata 1,5 m o gittata 36 m. Col
 Tiro per colpire in mischia: +12, portata 1,5 m. Colpito: 15 (3d6 + 5) danni da freddo, e il bersaglio è paralizzato fino all'inizio del turno successivo del lich.
 
 **Incantesimi**  
-Il lich lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 349 System Reference Document 5.2.1 1/giorno ciascuno: catena di fulmini, dito della morte, parola del potere uccidere, scrutare 2/giorno ciascuno: animare morti, porta dimensionale, spostamento planare A volontà: Dissolvi magie, fulmine (di 5º livello), individuazione dei pensieri, individuazione del magico, invisibilità, mano magica, palla di fuoco (di 5º livello), prestidigitazione
+Il lich lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20):
+**1/giorno ciascuno:** catena di fulmini, dito della morte, parola del potere uccidere, scrutare 
+**2/giorno ciascuno:** animare morti, porta dimensionale, spostamento planare 
+**A volontà:** Dissolvi magie, fulmine (di 5º livello), individuazione dei pensieri, individuazione del magico, invisibilità, mano magica, palla di fuoco (di 5º livello), prestidigitazione
 
 ### Reazioni
 
 **Magia di protezione**  
-Il lich lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-
+Il lich lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ### Azioni leggendarie
 
@@ -8293,7 +8297,7 @@ Tiro salvezza su Costituzione: CD 20, tutte le creature diverse da un non morto 
 Il lich lancia paura, utilizzando la stessa caratteristica da incantatore di Incantesimi. il lich non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Teletrasporto mortale**  
-Il lich si teletrasporta fino a 18 metri in uno spazio libero che è in grado di vedere, e ogni creatura entro 3 metri dallo spazio che ha lasciato subisce 11 (2d10) danni necrotici. Lupo invernale
+Il lich si teletrasporta fino a 18 metri in uno spazio libero che è in grado di vedere, e ogni creatura entro 3 metri dallo spazio che ha lasciato subisce 11 (2d10) danni necrotici.
 
 ---
 

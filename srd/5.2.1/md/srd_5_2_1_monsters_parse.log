@@ -138,10 +138,10 @@ Totale mostri estratti: 288
 #DONE Lamia (pagine 55-55): incantesimi_interni
 #DONE Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - spaventato
 #DONE Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
-- Lich (pagine 56-56): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
-- Lich (pagine 56-56): lair_variant_in_gs
-- Lich (pagine 56-56): azioni_leggendarie
-- Lich (pagine 56-56): incantesimi_interni
+#DONE Lich (pagine 56-56): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
+#DONE Lich (pagine 56-56): lair_variant_in_gs
+#DONE Lich (pagine 56-56): azioni_leggendarie
+#DONE Lich (pagine 56-56): incantesimi_interni
 - Lupo mannaro (pagine 57-57): header_continuation_o_parse_da_verificare - di un lupo)
 - Lupo mannaro (pagine 57-57): mutaforma
 - Mago (pagine 57-57): gruppo_header - Maghi
