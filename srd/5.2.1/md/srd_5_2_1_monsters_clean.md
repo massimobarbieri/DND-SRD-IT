@@ -10877,7 +10877,8 @@ Tiro salvezza su Costituzione: CD 12, una creatura che lo pseudodrago è in grad
 
 ## Quasit
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Minuscolo
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
@@ -10929,10 +10930,7 @@ Il quasit può lanciare invisibilità su di sé senza bisogno di componenti per 
 Il quasit può assumere la forma bestiale di un pipistrello (velocità 3 m, volo 12 m), un millepiedi (12 m, scalata 12 m) o un rospo (12 m, scalata 12 m), o tornare alla sua vera forma. Le sue statistiche di gioco restano le stesse in ogni forma, a eccezione della velocità. Nessun oggetto che indossa o trasporta viene trasformato.
 
 **Spaventare (1/giorno)**  
-Tiro salvezza su Saggezza:
-
-**CD 10, una creatura entro 6 metri**  
-Fallimento: il bersaglio è spaventato. Alla fine di ogni suo turno, il bersaglio ripete il tiro salvezza e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Ragno-fase
+Tiro salvezza su Saggezza: CD 10, una creatura entro 6 metri. Fallimento: il bersaglio è spaventato. Alla fine di ogni suo turno, il bersaglio ripete il tiro salvezza e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 ---
 
