@@ -10226,7 +10226,8 @@ Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azi
 
 ## Omuncolo
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Minuscolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -10253,7 +10254,7 @@ Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azi
 **immunita_danni:** veleno  
 **immunita_condizione:** affascinato, avvelenato  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
 **bonus_competenza:** +2  
@@ -10267,7 +10268,7 @@ Finché l'omuncolo si trova sullo stesso piano di esistenza del suo padrone, i d
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante, e il bersaglio subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è avvelenato fino al termine del turno successivo dell'omuncolo. Fallimento di 5 o più: il bersaglio è avvelenato per 1 minuto. Finché è avvelenato, è privo di sensi, ma la condizione termina prima se subisce dei danni. Oni
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante, e il bersaglio subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è avvelenato fino al termine del turno successivo dell'omuncolo. Fallimento di 5 o più: il bersaglio è avvelenato per 1 minuto. Finché è avvelenato, è privo di sensi, ma la condizione termina prima se subisce dei danni.
 
 ---
 
