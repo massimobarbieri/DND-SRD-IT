@@ -8931,7 +8931,8 @@ Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 9 metri. S
 
 ## Megera marina
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 14  
@@ -8976,22 +8977,13 @@ Tiro salvezza su Saggezza: CD 11, qualsiasi bestia o umanoide inizi il proprio t
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Aspetto illusorio**  
-La megera lancia camuffare se stesso, utilizzando Costituzione come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13).
-
-**L'incantesimo dura 24 ore**  
-
+La megera lancia camuffare se stesso, utilizzando Costituzione come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13). L'incantesimo dura 24 ore.
 
 **Sguardo mortale (ricarica 5-6)**  
-Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in grado di vedere entro 9 metri. Fallimento: se il bersaglio ha 20 punti ferita o meno, scende a 0 punti ferita.
-
-**Altrimenti, il bersaglio subisce 13 (3d8) danni psichici**  
-354 System Reference Document 5.2.1 Megera notturna
+Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in grado di vedere entro 9 metri. Fallimento: se il bersaglio ha 20 punti ferita o meno, scende a 0 punti ferita. Altrimenti, il bersaglio subisce 13 (3d8) danni psichici.
 
 ---
 
