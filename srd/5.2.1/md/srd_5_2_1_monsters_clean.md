@@ -10646,7 +10646,8 @@ Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre ti
 
 ## Planetar
 
-**tipo:** Celestiale  
+**tipo:** Celestiale (angelo)
+**dimensione:** Grande
 **allineamento:** legale buono  
 
 **classe_armatura:** 19  
@@ -10683,7 +10684,7 @@ Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre ti
 ### Tratti
 
 **Consapevolezza divina**  
-Il planetar sa riconoscere le menzogne. 365 System Reference Document 5.2.1
+Il planetar sa riconoscere le menzogne.
 
 **Resistenza alla magia**  
 Il planetar dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
@@ -10703,15 +10704,14 @@ Tiro per colpire in mischia: +12, portata 3 m. Colpito: 14 (2d6 + 7) danni tagli
 Tiro salvezza su Destrezza: CD 20, tutti i nemici in una sfera di 6 metri di raggio centrata su un punto che il planetar è in grado di vedere entro 36 metri. Fallimento: 24 (7d6) danni radiosi. Successo: danni dimezzati.
 
 **Incantesimi**  
-Il planetar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): A volontà: Individuazione del bene e del male 1/giorno ciascuno: Comunione, controllare tempo atmosferico, dissolvi il bene e il male, rianimare morti
+Il planetar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 
+**A volontà:** Individuazione del bene e del male
+**1/giorno ciascuno:** Comunione, controllare tempo atmosferico, dissolvi il bene e il male, rianimare morti
 
 ### Azioni bonus
 
 **Aiuto divino (2/giorno)**  
-Il planetar lancia cura ferite, invisibilità, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-Popolano
+Il planetar lancia cura ferite, invisibilità, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
