@@ -11060,7 +11060,8 @@ Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di 
 
 ## Remorhaz
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -11085,7 +11086,7 @@ Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di 
 - carisma: -3
 
 **immunita_danni:** freddo, fuoco  
-**sensi:** Percezione passiva 10; percezione tellurica 18 m,  
+**sensi:** Percezione passiva 10; percezione tellurica 18 m, scurovisione 18 m
 **lingue:** nessuna  
 **grado_sfida:** 11  
 **punti_esperienza:** PE 7.200  
@@ -11095,7 +11096,7 @@ Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di 
 ### Tratti
 
 **Aura di calore**  
-Al termine di ogni turno del remorhaz, tutte le creature in un'emanazione di 1,5 metri di cui il remorhaz è il punto di origine subiscono 16 (3d10) danni da fuoco. 368 System Reference Document 5.2.1
+Al termine di ogni turno del remorhaz, tutte le creature in un'emanazione di 1,5 metri di cui il remorhaz è il punto di origine subiscono 16 (3d10) danni da fuoco.
 
 ### Azioni
 
@@ -11105,7 +11106,7 @@ Tiro per colpire in mischia: +11, portata 3 m. Colpito: 18 (2d10 + 7) danni perf
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal remorhaz (può inghiottire fino a due creature per volta). Fallimento: il bersaglio viene inghiottito dal remorhaz, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro attacchi e altri effetti al di fuori del remorhaz, e subisce 10 (3d6) danni da acido più 10 (3d6) danni da fuoco all'inizio di ogni turno del remorhaz. Se il remorhaz subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 15 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal remorhaz. Se il remorhaz muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona. Roc
+Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal remorhaz (può inghiottire fino a due creature per volta). Fallimento: il bersaglio viene inghiottito dal remorhaz, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro attacchi e altri effetti al di fuori del remorhaz, e subisce 10 (3d6) danni da acido più 10 (3d6) danni da fuoco all'inizio di ogni turno del remorhaz. Se il remorhaz subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 15 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal remorhaz. Se il remorhaz muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona.
 
 ---
 
