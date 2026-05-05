@@ -8649,7 +8649,8 @@ Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni per
 
 ## Manto assassino
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 14  
@@ -8690,33 +8691,21 @@ Finché è esposto alla luce intensa, il manto assassino subisce svantaggio ai t
 ### Azioni
 
 **Multiattacco**  
-Il manto assassino effettua un attacco
-
-**Avvinghiare e due attacchi Coda**  
-
+Il manto assassino effettua un attacco Avvinghiare e due attacchi Coda.
 
 **Avvinghiare**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (3d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, il manto si avvinghia ad essa. Finché resta avvinghiato al bersaglio, quest'ultimo è accecato, e il manto non può effettuare attacchi Avvinghiare contro altri bersagli. Inoltre, il manto assassino dimezza i danni subiti (arrotondati per difetto) e il bersaglio subisce lo stesso ammontare di danni. Il manto assassino può staccarsi da solo usando 1,5 metri di movimento. Il bersaglio o una creatura entro 1,5 metri da esso può effettuare un'azione per staccarsi il manto di dosso, superando una prova di
-
-**Forza (Atletica) con CD 14**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (3d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, il manto si avvinghia ad essa. Finché resta avvinghiato al bersaglio, quest'ultimo è accecato, e il manto non può effettuare attacchi Avvinghiare contro altri bersagli. Inoltre, il manto assassino dimezza i danni subiti (arrotondati per difetto) e il bersaglio subisce lo stesso ammontare di danni. Il manto assassino può staccarsi da solo usando 1,5 metri di movimento. Il bersaglio o una creatura entro 1,5 metri da esso può effettuare un'azione per staccarsi il manto di dosso, superando una prova di Forza (Atletica) con CD 14.
 
 **Coda**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 8 (1d10 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 8 (1d10 + 3) danni taglienti.
 
 ### Azioni bonus
 
 **Allucinazioni (ricarica dopo un riposo breve o lungo)**  
-Il manto assassino lancia l'incantesimo immagine speculare senza bisogno di componenti, utilizzando
-
-**Saggezza come caratteristica da incantatore**  
-L'incantesimo termina in anticipo se il manto assassino inizia o termina il proprio turno mentre è esposto alla luce intensa.
+Il manto assassino lancia l'incantesimo immagine speculare senza bisogno di componenti, utilizzando Saggezza come caratteristica da incantatore. L'incantesimo termina in anticipo se il manto assassino inizia o termina il proprio turno mentre è esposto alla luce intensa.
 
 **Gemito**  
-Tiro salvezza su Saggezza: CD 13, tutte le creature in un'emanazione di 18 metri di cui il manto assassino è il punto di origine. Fallimento: il bersaglio è spaventato fino al termine del turno successivo del 352 System Reference Document 5.2.1 manto assassino. Successo: il bersaglio è immune al Gemito di questo manto assassino per le 24 ore successive. Mantoscuro
+Tiro salvezza su Saggezza: CD 13, tutte le creature in un'emanazione di 18 metri di cui il manto assassino è il punto di origine. Fallimento: il bersaglio è spaventato fino al termine del turno successivo del manto assassino. Successo: il bersaglio è immune al Gemito di questo manto assassino per le 24 ore successive.
 
 ---
 
