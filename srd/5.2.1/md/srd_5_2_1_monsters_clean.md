@@ -8480,7 +8480,9 @@ Il mago lancia controincantesimo o scudo come risposta all'innesco dell'incantes
 
 ## Arcimago
 
-**tipo:** Umanoide  
+**gruppo:** Maghi
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
@@ -8523,29 +8525,26 @@ L'arcimago dispone di vantaggio ai tiri salvezza contro incantesimi e altri effe
 ### Azioni
 
 **Multiattacco**  
-L'arcimago effettua quattro attacchi
-
-**Esplosione arcana**  
-
+L'arcimago effettua quattro attacchi Esplosione arcana.
 
 **Esplosione arcana**  
 Tiro per colpire in mischia o a distanza: +9, portata 1,5 m o gittata 45 m. Colpito: 27 (4d10 + 5) danni da forza.
 
 **Incantesimi**  
-L'arcimago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: Cono di freddo (di 9º livello), scrutare, teletrasporto, vuoto mentale (lanciato prima del combattimento) 2/giorno ciascuno: Fulmine (di 7º livello), volare A volontà: Armatura magica (inclusa nella CA), camuffare se stesso, individuazione dei pensieri, individuazione del magico, invisibilità, luce, mano magica, prestidigitazione
+L'arcimago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
+**1/giorno ciascuno:** Cono di freddo (di 9º livello), scrutare, teletrasporto, vuoto mentale (lanciato prima del combattimento) 
+**2/giorno ciascuno:** Fulmine (di 7º livello), volare 
+**A volontà:** Armatura magica (inclusa nella CA), camuffare se stesso, individuazione dei pensieri, individuazione del magico, invisibilità, luce, mano magica, prestidigitazione
 
 ### Azioni bonus
 
 **Passo velato (3/giorno)**  
-Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-
+Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ### Reazioni
 
 **Magia di protezione (3/giorno)**  
-L'arcimago lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di Incantesimi. 351 System Reference Document 5.2.1 Magmin
+L'arcimago lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
