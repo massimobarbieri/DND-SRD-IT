@@ -9811,7 +9811,9 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di ve
 
 ## Naga spirituale
 
-**tipo:** Immondo  
+**gruppo:** Naga
+**tipo:** Immondo
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 17  
@@ -9852,10 +9854,7 @@ Se la naga muore, torna in vita dopo 1d6 giorni e recupera tutti i suoi punti fe
 ### Azioni
 
 **Multiattacco**  
-La naga effettua tre attacchi, usando
-
-**Morso o Raggio necrotico in qualsiasi combinazione**  
-
+La naga effettua tre attacchi, usando Morso o Raggio necrotico in qualsiasi combinazione.
 
 **Morso**  
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni perforanti più 14 (4d6) danni da veleno.
@@ -9864,7 +9863,9 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni perfora
 Tiro per colpire a distanza: +6, gittata 18 m. Colpito: 21 (6d6) danni necrotici.
 
 **Incantesimi**  
-La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 2/giorno ciascuno: blocca persone (di 3º livello), individuazione dei pensieri, fulmine (di 4º livello), porta dimensionale A volontà: illusione minore, individuazione del magico, mano magica, respirare sott'acqua Nalfeshnee
+La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
+**2/giorno ciascuno:** blocca persone (di 3º livello), individuazione dei pensieri, fulmine (di 4º livello), porta dimensionale
+**A volontà:** illusione minore, individuazione del magico, mano magica, respirare sott'acqua
 
 ---
 
