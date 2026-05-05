@@ -9117,6 +9117,9 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 **A volontà:** Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio di infermità (di 3º livello).
 
 ## Melma Grigia
+**tipo:** Melma
+**dimensione:** Media
+**allineamento:** senza allineamento
 
 **classe_armatura:** 9  
 **iniziativa:** -2 (13)  
@@ -9141,7 +9144,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 
 **abilita:** Furtività +2  
 **resistenze:** acido, freddo, fuoco  
-**immunita_danni:** accecato, affascinato, afferrato, assordato,  
+**immunita_danni:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -9160,7 +9163,7 @@ Le munizioni non magiche che colpiscono la melma e infliggono danni sono distrut
 ### Azioni
 
 **Pseudopode**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 10 (2d8 + 1) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura. Mephit
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 10 (2d8 + 1) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura.
 
 ---
 
