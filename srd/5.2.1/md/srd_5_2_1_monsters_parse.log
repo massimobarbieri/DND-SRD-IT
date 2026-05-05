@@ -202,8 +202,8 @@ Totale mostri estratti: 288
 #DONE Sacerdote accolito (pagine 76-76): incantesimi_interni
 #DONE Sacerdote (pagine 76-77): incantesimi_interni
 #DONE Sahuagin guerriero (pagine 77-77): gruppo_header - Sahuagin
-- Scheletro (pagine 78-78): gruppo_header - Scheletri
-- Scheletro (pagine 78-78): header_continuation_o_parse_da_verificare - le parla
+#DONE Scheletro (pagine 78-78): gruppo_header - Scheletri
+#DONE Scheletro (pagine 78-78): header_continuation_o_parse_da_verificare - le parla
 - Sfinge della meraviglia (pagine 79-79): gruppo_header - Sfingi
 - Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - 372 System Reference Document 5.2.1
 - Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - Storia +12
