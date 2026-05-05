@@ -157,7 +157,7 @@ Totale mostri estratti: 288
 #DONE di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - Melma Media, senza allineamento
 #DONE di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - indebolimento, prono, spaventato, trattenuto
 #DONE Mephit del ghiaccio (pagine 63-63): gruppo_header - Mephit
-- Mephit del magma (pagine 63-63): header_continuation_o_parse_da_verificare - 356 System Reference Document 5.2.1
+#DONE Mephit del magma (pagine 63-63): header_continuation_o_parse_da_verificare - 356 System Reference Document 5.2.1
 - Merrow (pagine 64-64): ability_table_parse_failed
 - Merrow (pagine 64-64): header_continuation_o_parse_da_verificare - Int 8 -1 -1 Sag 10 +0 +0 Car 9 -1 -1
 - Mezzodrago (pagine 64-65): header_continuation_o_parse_da_verificare - draconica descritto sotto

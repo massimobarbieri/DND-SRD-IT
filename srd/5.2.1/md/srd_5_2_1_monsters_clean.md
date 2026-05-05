@@ -9226,7 +9226,9 @@ Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri.
 
 ## Mephit del magma
 
-**tipo:** Elementale  
+**gruppo:** Mephit  
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 11  
@@ -9272,10 +9274,7 @@ Il mephit esplode quando muore. Tiro salvezza su Destrezza: CD 11, tutte le crea
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni taglienti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 6)**  
-Tiro salvezza su Destrezza:
-
-**CD 11, tutte le creature in un cono di 4,5 metri**  
-Fallimento: 7 (2d6) danni da fuoco. Successo: danni dimezzati.
+Tiro salvezza su Destrezza: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: 7 (2d6) danni da fuoco. Successo: danni dimezzati.
 
 ---
 
