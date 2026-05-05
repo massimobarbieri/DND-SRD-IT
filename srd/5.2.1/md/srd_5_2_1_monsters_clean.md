@@ -10538,7 +10538,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 7 (1d6 + 4) danni contu
 ## Pirata
 
 **gruppo:** Pirati  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -10585,7 +10586,9 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il pirata è in grado di vede
 
 ## Capitano dei pirati
 
-**tipo:** Umanoide  
+**gruppo:** Pirati  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
@@ -10621,19 +10624,13 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il pirata è in grado di vede
 ### Azioni
 
 **Multiattacco**  
-Il pirata effettua tre attacchi, usando
-
-**Stocco o Pistola in qualsiasi combinazione**  
-
+Il pirata effettua tre attacchi, usando Stocco o Pistola in qualsiasi combinazione.
 
 **Stocco**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni perforanti, e il pirata dispone di vantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno corrente.
 
 **Pistola**  
-Tiro per colpire a distanza: +7, gittata 9/27 m.
-
-**Colpito: 15 (2d10 + 4) danni perforanti**  
-
+Tiro per colpire a distanza: +7, gittata 9/27 m. Colpito: 15 (2d10 + 4) danni perforanti.
 
 ### Azioni bonus
 
@@ -10643,7 +10640,7 @@ Tiro salvezza su Saggezza: CD 14, una creatura che il pirata è in grado di vede
 ### Reazioni
 
 **Replica**  
-Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il pirata aggiunge 3 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Se il colpo non va a segno, il pirata effettua un attacco Stocco contro la creatura che ha provocato la reazione se si trova entro gittata. Planetar
+Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il pirata aggiunge 3 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Se il colpo non va a segno, il pirata effettua un attacco Stocco contro la creatura che ha provocato la reazione se si trova entro gittata.
 
 ---
 
