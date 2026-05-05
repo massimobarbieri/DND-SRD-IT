@@ -10717,7 +10717,8 @@ Il planetar lancia cura ferite, invisibilità, rimuovi maledizione o ristorare i
 
 ## Popolano
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 10  
@@ -10757,16 +10758,13 @@ Il popolano ha competenza in un'abilità a scelta del GM e dispone di vantaggio 
 ### Azioni
 
 **Randello**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 2 (1d4) danni contundenti**  
-Protoplasma nero
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contundenti.
 
 ---
 
 ## Protoplasma nero
 
-**tipo:** Melma  
+**tipo:** Melma
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 7  
