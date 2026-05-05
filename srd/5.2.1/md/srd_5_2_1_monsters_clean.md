@@ -10034,7 +10034,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 
 ## Spada volante animata
 
-**tipo:** Costrutto  
+**gruppo:** Oggetti animati
+**tipo:** Costrutto
+**dimensione:** Piccolo
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -10059,7 +10061,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 7; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -10070,10 +10072,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 ### Azioni
 
 **Fendente**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 6 (1d8 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni taglienti.
 
 ---
 
