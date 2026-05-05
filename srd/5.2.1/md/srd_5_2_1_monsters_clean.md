@@ -8111,7 +8111,8 @@ Il kraken usa Colpo del fulmine.
 
 ## Lamia
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
@@ -8145,22 +8146,24 @@ Il kraken usa Colpo del fulmine.
 
 ### Azioni
 
-**Multiattacco**  
+**Multiattacco**
 Il lamia effettua due attacchi Artiglio. Può sostituire un attacco con un utilizzo di Tocco corruttore.
 
 **Artiglio**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni taglienti più 7 (2d6) danni psichici.
 
-**Incantesimi**  
-Il lamia lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: Costrizione, immagine maggiore, scrutare A volontà: Camuffare se stesso (può apparire come un bipede di taglia Grande o Media), illusione minore
+**Incantesimi**
+Il lamia lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
+**1/giorno ciascuno:** Costrizione, immagine maggiore, scrutare 
+**A volontà:** Camuffare se stesso (può apparire come un bipede di taglia Grande o Media), illusione minore
 
-**Tocco corruttore**  
+**Tocco corruttore**
 Tiro salvezza su Saggezza: CD 13, una creatura che il lamia è in grado di vedere entro 1,5 metri. Fallimento: 13 (3d8) danni psichici, e il bersaglio è maledetto per 1 ora. Finché la maledizione perdura, il bersaglio è affascinato e avvelenato.
 
 ### Azioni bonus
 
 **Balzo**  
-Il lamia salta fino a 9 metri usando 3 metri di movimento. Lemure
+Il lamia salta fino a 9 metri usando 3 metri di movimento.
 
 ---
 
