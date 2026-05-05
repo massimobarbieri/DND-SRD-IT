@@ -8829,7 +8829,8 @@ Attivazione: il marilith viene colpito da un tiro per colpire in mischia mentre 
 ## Marinide schermagliatore
 
 **gruppo:** Marinide  
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 11  
@@ -8868,7 +8869,7 @@ Il marinide può respirare in aria e in acqua.
 ### Azioni
 
 **Lancia oceanica**  
-Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Colpito: 3 (1d6) danni perforanti più 2 (1d4) danni da freddo. Se il bersaglio è una creatura, la sua velocità è ridotta di 3 metri fino al termine del proprio turno successivo. Colpito o mancato: la lancia fa magicamente ritorno nella mano del marinide subito dopo un attacco a distanza. Medusa
+Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Colpito: 3 (1d6) danni perforanti più 2 (1d4) danni da freddo. Se il bersaglio è una creatura, la sua velocità è ridotta di 3 metri fino al termine del proprio turno successivo. Colpito o mancato: la lancia fa magicamente ritorno nella mano del marinide subito dopo un attacco a distanza.
 
 ---
 

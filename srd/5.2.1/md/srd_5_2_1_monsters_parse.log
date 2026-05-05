@@ -147,8 +147,8 @@ Totale mostri estratti: 288
 #DONE Mago (pagine 57-57): gruppo_header - Maghi
 #DONE Mago (pagine 57-57): incantesimi_interni
 #DONE Arcimago (pagine 58-58): incantesimi_interni
-- Marinide schermagliatore (pagine 60-60): gruppo_header - Marinide
-- Marinide schermagliatore (pagine 60-60): header_continuation_o_parse_da_verificare - 353 System Reference Document 5.2.1
+#DONE Marinide schermagliatore (pagine 60-60): gruppo_header - Marinide
+#DONE Marinide schermagliatore (pagine 60-60): header_continuation_o_parse_da_verificare - 353 System Reference Document 5.2.1
 - Megera notturna (pagine 61-62): incantesimi_interni
 - Megera notturna (pagine 61-62): mutaforma
 - Megera verde (pagine 62-62): header_continuation_o_parse_da_verificare - Percezione +4
