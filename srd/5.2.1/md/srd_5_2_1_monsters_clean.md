@@ -9610,7 +9610,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perf
 ## Mummia
 
 **gruppo:** Mummie  
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 11  
@@ -9636,7 +9637,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perf
 
 **vulnerabilita:** fuoco  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più altre due lingue  
 **grado_sfida:** 3  
@@ -9659,7 +9660,9 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 
 ## Signore delle mummie
 
-**tipo:** Non  
+**gruppo:** Mummie
+**tipo:** Non morto (chierico)
+**dimensione:** Medio o Piccolo
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -9686,7 +9689,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 **abilita:** Percezione +9, Religione +5, Storia +5  
 **vulnerabilita:** fuoco  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista pura 18 m  
 **lingue:** Comune più altre tre lingue  
 **grado_sfida:** 15  
@@ -9697,7 +9700,10 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 ### Tratti
 
 **Resistenza alla magia**  
-Il signore delle mummie dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il signore delle mummie fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Il signore delle mummie dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici. 
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se il signore delle mummie fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 **Ristoro non morto**  
 Se annientata, la mummia acquisisce un nuovo corpo dopo 24 ore se il suo cuore è intatto, tornando in vita con tutti i suoi punti ferita. Il nuovo corpo appare in uno spazio libero all'interno della tana della mummia. Il cuore è un oggetto di taglia Minuscola con CA 17, PF 10 e immunità a tutti i danni, eccetto ai danni da fuoco.
@@ -9708,13 +9714,15 @@ Se annientata, la mummia acquisisce un nuovo corpo dopo 24 ore se il suo cuore �
 Il signore delle mummie effettua un attacco Pugno di putrefazione o Incanalare energia negativa, e usa Sguardo funesto.
 
 **Pugno di putrefazione**  
-Tiro per colpire in mischia: +9, portata 1,5 m Colpito: 15 (2d10 + 4) danni contundenti più 10 (3d6) danni necrotici. Se il bersaglio è una creatura, viene maledetto. Finché è maledetto, il bersaglio non può recuperare punti ferita, non ottiene alcun beneficio dai riposi lunghi, e i suoi punti ferita massimi sono ridotti di 10 (3d6) ogni 24 ore trascorse. Una creatura muore e si disintegra in polvere se viene ridotta a 0 punti ferita da questo attacco. 359 System Reference Document 5.2.1
+Tiro per colpire in mischia: +9, portata 1,5 m Colpito: 15 (2d10 + 4) danni contundenti più 10 (3d6) danni necrotici. Se il bersaglio è una creatura, viene maledetto. Finché è maledetto, il bersaglio non può recuperare punti ferita, non ottiene alcun beneficio dai riposi lunghi, e i suoi punti ferita massimi sono ridotti di 10 (3d6) ogni 24 ore trascorse. Una creatura muore e si disintegra in polvere se viene ridotta a 0 punti ferita da questo attacco.
 
 **Incanalare energia negativa**  
 Tiro per colpire a distanza: +9, gittata 18 m. Colpito: 25 (6d6 + 4) danni necrotici.
 
 **Incantesimi**  
-Il signore delle mummie lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Animare morti, ferire, piaga degli insetti (di 7º livello) A volontà: Dissolvi magie, taumaturgia
+Il signore delle mummie lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Animare morti, ferire, piaga degli insetti (di 7º livello) 
+**A volontà:** Dissolvi magie, taumaturgia
 
 **Sguardo funesto**  
 Tiro salvezza su Saggezza: CD 17, una creatura che la mummia è in grado di vedere entro 18 metri. Fallimento: 25 (6d6 + 4) danni psichici, e il bersaglio è paralizzato fino al termine del turno successivo della mummia.
@@ -9730,16 +9738,13 @@ Attivazione: la mummia viene colpita con un tiro per colpire. Esito: la mummia a
 Subito dopo il turno di un'altra creatura, la mummia può consumare un utilizzo per effettuare una delle seguenti azioni. La mummia recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Colpo necrotico**  
-La mummia effettua un attacco
-
-**Pugno di putrefazione o Incanalare energia negativa**  
-
+La mummia effettua un attacco Pugno di putrefazione o Incanalare energia negativa.
 
 **Comando intimidatorio**  
 La mummia lancia comando (di 2º livello), utilizzando la stessa caratteristica da incantatore di Incantesimi. Non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Sguardo**  
-La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio del proprio turno successivo. Naga guardiana
+La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 
