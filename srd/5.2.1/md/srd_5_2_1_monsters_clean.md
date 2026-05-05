@@ -11458,7 +11458,8 @@ Tiro salvezza su Forza: CD 15, una creatura di taglia Grande o inferiore che la 
 
 ## Satiro
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 13  
@@ -11498,13 +11499,10 @@ Il satiro dispone di vantaggio ai tiri salvezza contro incantesimi e altri effet
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 5 (1d4 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, il satiro lo spinge fino a 3 metri lontano da sé.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, il satiro lo spinge fino a 3 metri lontano da sé.
 
 **Derisione**  
-Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vedere entro 27 metri. Fallimento: 5 (1d6 + 2) danni psichici. Scheletri
+Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vedere entro 27 metri. Fallimento: 5 (1d6 + 2) danni psichici.
 
 ---
 
