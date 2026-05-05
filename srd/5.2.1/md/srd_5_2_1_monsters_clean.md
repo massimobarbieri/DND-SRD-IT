@@ -9750,7 +9750,9 @@ La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio de
 
 ## Naga guardiana
 
-**tipo:** Celestiale  
+**gruppo:** Naga
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale buono  
 
 **classe_armatura:** 18  
@@ -9776,7 +9778,7 @@ La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio de
 
 **abilita:** Arcano +11, Religione +11, Storia +11  
 **immunita_danni:** veleno  
-**immunita_condizione:** affascinato, avvelenato, paralizzato,  
+**immunita_condizione:** affascinato, avvelenato, paralizzato, trattenuto
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Celestiale, Comune  
 **grado_sfida:** 10  
@@ -9798,10 +9800,12 @@ La naga effettua due attacchi Morso. Può sostituire qualsiasi attacco con un ut
 Tiro per colpire in mischia: +8, portata 3 m. Colpito: 17 (2d12 + 4) danni perforanti più 22 (4d10) danni da veleno.
 
 **Incantesimi**  
-La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: Chiaroveggenza, colpo infuocato (di 6º livello), costrizione, cura ferite (di 6º livello), visione del vero A volontà: taumaturgia
+La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
+**1/giorno ciascuno:** Chiaroveggenza, colpo infuocato (di 6º livello), costrizione, cura ferite (di 6º livello), visione del vero 
+**A volontà:** taumaturgia
 
 **Sputo velenoso**  
-Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di vedere entro 18 metri. Fallimento: 31 (7d8) danni da veleno, e il bersaglio è accecato fino all'inizio del turno successivo della naga. Successo: danni dimezzati. Naga spirituale
+Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di vedere entro 18 metri. Fallimento: 31 (7d8) danni da veleno, e il bersaglio è accecato fino all'inizio del turno successivo della naga. Successo: danni dimezzati.
 
 ---
 
