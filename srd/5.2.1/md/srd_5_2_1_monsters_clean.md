@@ -9939,7 +9939,8 @@ Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina i
 
 ## Nobile
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 15  
@@ -9975,15 +9976,12 @@ Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina i
 ### Azioni
 
 **Stocco**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 5 (1d8 + 1) danni perforanti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni perforanti.
 
 ### Reazioni
 
 **Parata**  
-Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il nobile aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. 361 System Reference Document 5.2.1 Oggetti animati
+Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il nobile aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
