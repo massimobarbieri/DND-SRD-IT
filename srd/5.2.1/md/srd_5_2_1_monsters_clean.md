@@ -10495,7 +10495,8 @@ Tiro salvezza su Costituzione: CD 14, tutte le creature afferrate dall'otyugh. F
 
 ## Pegaso
 
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** caotico buono  
 
 **classe_armatura:** 12  
@@ -10521,7 +10522,7 @@ Tiro salvezza su Costituzione: CD 14, tutte le creature afferrate dall'otyugh. F
 
 **abilita:** Percezione +6  
 **sensi:** Percezione passiva 16  
-**lingue:** capisce il Celestiale, il Comune, l'Elfico e il Silvano  
+**lingue:** capisce il Celestiale, il Comune, l'Elfico e il Silvano ma non li parla
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
 **bonus_competenza:** +2  
@@ -10530,7 +10531,7 @@ Tiro salvezza su Costituzione: CD 14, tutte le creature afferrate dall'otyugh. F
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 7 (1d6 + 4) danni contundenti più 5 (2d4) danni radiosi. Pirati
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 7 (1d6 + 4) danni contundenti più 5 (2d4) danni radiosi.
 
 ---
 
