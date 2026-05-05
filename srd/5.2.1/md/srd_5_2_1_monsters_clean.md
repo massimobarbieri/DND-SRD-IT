@@ -10167,7 +10167,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 
 ## Ombra
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -10195,7 +10196,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 **vulnerabilita:** radioso  
 **resistenze:** acido, freddo, fulmine, fuoco, tuono  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** afferrato, avvelenato,  
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -10219,10 +10220,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni necrot
 ### Azioni bonus
 
 **Furtività d'ombra**  
-Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azione di
-
-**Nascondersi**  
-Omuncolo
+Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azione di Nascondersi.
 
 ---
 
