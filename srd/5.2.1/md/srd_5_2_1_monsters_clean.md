@@ -8756,7 +8756,8 @@ L'oscurità magica riempie un'emanazione di 4,5 metri di cui il mantoscuro è il
 
 ## Marilith
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 16  
@@ -8821,7 +8822,7 @@ Il marilith si teletrasporta fino a massimo di 36 metri in uno spazio libero che
 ### Reazioni
 
 **Parata**  
-Attivazione: il marilith viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il marilith aggiunge 5 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Marinide
+Attivazione: il marilith viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il marilith aggiunge 5 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
