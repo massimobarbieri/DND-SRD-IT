@@ -10936,7 +10936,8 @@ Tiro salvezza su Saggezza: CD 10, una creatura entro 6 metri. Fallimento: il ber
 
 ## Ragno-fase
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -10966,7 +10967,7 @@ Tiro salvezza su Saggezza: CD 10, una creatura entro 6 metri. Fallimento: il ber
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 3 (PE 700; BC +2) 367 System Reference Document 5.2.1  
+**grado_sfida_raw:** 3 (PE 700; BC +2)
 
 ### Tratti
 
@@ -10990,10 +10991,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni perfo
 ### Azioni bonus
 
 **Transizione eterea**  
-Il ragno si teletrasporta dal Piano
-
-**Materiale al Piano Etereo o viceversa**  
-Rakshasa
+Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 
 ---
 
