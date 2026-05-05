@@ -10340,7 +10340,8 @@ L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzan
 
 ## Orsogufo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -10378,10 +10379,7 @@ L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzan
 L'orsogufo effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 14 (2d8 + 5) danni taglienti**  
-Orso mannaro
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni taglienti.
 
 ---
 
