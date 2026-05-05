@@ -11226,7 +11226,8 @@ Attivazione: Un tiro per colpire colpisce il rugginofago. Esito: il rugginofago 
 ## Sacerdote accolito
 
 **gruppo:** Sacerdoti  
-**tipo:** Umanoide  
+**tipo:** Umanoide (chierico)
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -11268,7 +11269,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni contun
 Tiro per colpire a distanza: +4, gittata 18 m. Colpito: 7 (2d6) danni radiosi.
 
 **Incantesimi**  
-Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore: A volontà: Luce, taumaturgia
+Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore: 
+**A volontà:** Luce, taumaturgia
 
 ### Azioni bonus
 
@@ -11279,7 +11281,9 @@ Il sacerdote lancia benedizione, parola guaritrice o santuario, utilizzando la s
 
 ## Sacerdote
 
-**tipo:** Umanoide  
+**gruppo:** Sacerdoti  
+**tipo:** Umanoide (chierico)
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -11315,10 +11319,7 @@ Il sacerdote lancia benedizione, parola guaritrice o santuario, utilizzando la s
 ### Azioni
 
 **Multiattacco**  
-Il sacerdote effettua due attacchi, usando
-
-**Mazza o Fiamma radiosa in qualsiasi combinazione**  
-
+Il sacerdote effettua due attacchi, usando Mazza o Fiamma radiosa in qualsiasi combinazione.
 
 **Mazza**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contundenti più 5 (2d4) danni radiosi.
@@ -11327,12 +11328,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contun
 Tiro per colpire a distanza: +5, gittata 18 m. Colpito: 11 (2d10) danni radiosi.
 
 **Incantesimi**  
-Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): A volontà: Luce, taumaturgia 1/giorno: Guardiani spirituali
+Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13):
+**A volontà:** Luce, taumaturgia 
+**1/giorno:** Guardiani spirituali
 
 ### Azioni bonus
 
 **Aiuto divino (3/giorno)**  
-Il sacerdote lancia benedizione, dissolvi magie, parola guaritrice o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi. Sahuagin
+Il sacerdote lancia benedizione, dissolvi magie, parola guaritrice o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 

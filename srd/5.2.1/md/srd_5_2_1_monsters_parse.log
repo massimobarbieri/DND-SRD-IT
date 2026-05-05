@@ -198,8 +198,8 @@ Totale mostri estratti: 288
 #DONE Rakshasa (pagine 74-75): header_continuation_o_parse_da_verificare - creature sotto l'effetto dell'incantesimo benedizione
 #DONE Rakshasa (pagine 74-75): incantesimi_interni
 #DONE Remorhaz (pagine 75-75): header_continuation_o_parse_da_verificare - scurovisione 18 m
-- Sacerdote accolito (pagine 76-76): gruppo_header - Sacerdoti
-- Sacerdote accolito (pagine 76-76): incantesimi_interni
+#DONE Sacerdote accolito (pagine 76-76): gruppo_header - Sacerdoti
+#DONE Sacerdote accolito (pagine 76-76): incantesimi_interni
 - Sacerdote (pagine 76-77): incantesimi_interni
 - Sahuagin guerriero (pagine 77-77): gruppo_header - Sahuagin
 - Scheletro (pagine 78-78): gruppo_header - Scheletri
