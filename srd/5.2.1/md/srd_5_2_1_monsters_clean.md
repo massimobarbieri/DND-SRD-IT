@@ -11342,7 +11342,8 @@ Il sacerdote lancia benedizione, dissolvi magie, parola guaritrice o ristorare i
 ## Sahuagin guerriero
 
 **gruppo:** Sahuagin  
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 12  
@@ -11392,15 +11393,12 @@ Il sahuagin può comandare magicamente ogni squalo entro 36 metri da sé, usando
 Il sahuagin effettua due attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +3, portata 1,5 m
-
-**Colpito: 4 (1d6 + 1) danni taglienti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni taglienti.
 
 ### Azioni bonus
 
 **Carica acquatica**  
-Il sahuagin nuota fino al massimo della sua velocità di nuoto in linea retta verso un nemico che è in grado di vedere. 370 System Reference Document 5.2.1 Salamandra
+Il sahuagin nuota fino al massimo della sua velocità di nuoto in linea retta verso un nemico che è in grado di vedere.
 
 ---
 
