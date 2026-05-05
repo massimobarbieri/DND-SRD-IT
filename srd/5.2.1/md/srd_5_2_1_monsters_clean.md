@@ -10445,7 +10445,8 @@ L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un 
 
 ## Otyugh
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -10470,7 +10471,7 @@ L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un 
 - carisma: -2
 
 **sensi:** Percezione passiva 11; scurovisione 36 m  
-**lingue:** Otyugh; telepatia 36 m (non consente alla creatura  
+**lingue:** Otyugh; telepatia 36 m (non consente alla creatura interlocutrice di rispondere telepaticamente)
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
 **bonus_competenza:** +3  
@@ -10482,22 +10483,13 @@ L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un 
 L'otyugh effettua un attacco Morso e due attacchi Tentacolo.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 12 (2d8 + 3) danni perforanti, e il bersaglio è avvelenato. Ogni volta che il bersaglio avvelenato termina un riposo lungo, subisce il seguente effetto.
-
-**Tiro salvezza su Costituzione: CD 15**  
-Fallimento: i punti ferita massimi del bersaglio sono ridotti di 5 (1d10), e la riduzione permane finché la condizione avvelenato del bersaglio non termina. Successo: la condizione avvelenato termina.
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 12 (2d8 + 3) danni perforanti, e il bersaglio è avvelenato. Ogni volta che il bersaglio avvelenato termina un riposo lungo, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 15. Fallimento: i punti ferita massimi del bersaglio sono ridotti di 5 (1d10), e la riduzione permane finché la condizione avvelenato del bersaglio non termina. Successo: la condizione avvelenato termina.
 
 **Tentacolo**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 12 (2d8 + 3) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da uno dei due tentacoli.
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da uno dei due tentacoli.
 
 **Schianto con tentacolo**  
-Tiro salvezza su Costituzione:
-
-**CD 14, tutte le creature afferrate dall'otyugh**  
-Fallimento: 16 (3d8 + 3) danni contundenti, e il bersaglio è stordito fino all'inizio del turno successivo dell'otyugh. Successo: danni dimezzati. 364 System Reference Document 5.2.1 Pegaso
+Tiro salvezza su Costituzione: CD 14, tutte le creature afferrate dall'otyugh. Fallimento: 16 (3d8 + 3) danni contundenti, e il bersaglio è stordito fino all'inizio del turno successivo dell'otyugh. Successo: danni dimezzati.
 
 ---
 
