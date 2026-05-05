@@ -10997,7 +10997,8 @@ Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 
 ## Rakshasa
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -11022,7 +11023,7 @@ Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 - carisma: +5
 
 **abilita:** Inganno +10, Intuizione +8, Percezione +8  
-**vulnerabilita:** danni perforanti inflitti da armi brandite da  
+**vulnerabilita:** danni perforanti inflitti da armi brandite da creature sotto l'effetto dell'incantesimo benedizione
 **immunita_danni:** affascinato, spaventato  
 **sensi:** Percezione passiva 18; vista pura 36 m  
 **lingue:** Comune, Infernale  
@@ -11037,10 +11038,7 @@ Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 Il rakshasa supera automaticamente i tiri salvezza contro incantesimi e altri effetti magici, e i tiri per colpire degli incantesimi lo mancano automaticamente. Senza il consenso del rakshasa, nessun incantesimo può osservare il rakshasa a distanza o individuarne i pensieri, il tipo di creatura o l'allineamento.
 
 **Ristoro immondo**  
-Se il rakshasa muore al di fuori dei Nove Inferi, il suo corpo si dissolve diventando icore e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il rakshasa muore al di fuori dei Nove Inferi, il suo corpo si dissolve diventando icore e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -11051,10 +11049,12 @@ Il rakshasa effettua tre attacchi Tocco maledetto.
 Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 12 (2d6 + 5) danni taglienti più 19 (3d12) danni necrotici. Se il bersaglio è una creatura, viene maledetto. Finché è maledetto, il bersaglio non ottiene alcun beneficio dal riposo breve o lungo.
 
 **Incantesimi**  
-Il rakshasa lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18): 1/giorno ciascuno: Immagine maggiore, invisibilità, spostamento planare, volare A volontà: Camuffare se stesso, illusione minore, individuazione dei pensieri, individuazione del magico, mano magica
+Il rakshasa lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18):
+**1/giorno ciascuno:** Immagine maggiore, invisibilità, spostamento planare, volare
+**A volontà:** Camuffare se stesso, illusione minore, individuazione dei pensieri, individuazione del magico, mano magica
 
 **Ordine funesto (ricarica 5-6)**  
-Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di cui il rakshasa è il punto di origine. Fallimento: 28 (8d6) danni psichici, e il bersaglio è spaventato e incapacitato fino all'inizio del turno successivo del rakshasa. Remorhaz
+Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di cui il rakshasa è il punto di origine. Fallimento: 28 (8d6) danni psichici, e il bersaglio è spaventato e incapacitato fino all'inizio del turno successivo del rakshasa. 
 
 ---
 
