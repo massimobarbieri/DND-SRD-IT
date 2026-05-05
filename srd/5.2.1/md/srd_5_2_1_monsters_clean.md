@@ -8602,7 +8602,8 @@ Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta l
 
 ## Manticora
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 14  
@@ -8636,19 +8637,13 @@ Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta l
 ### Azioni
 
 **Multiattacco**  
-La manticora effettua tre attacchi, usando
-
-**Squarcio o Aculeo caudale in qualsiasi combinazione**  
-
+La manticora effettua tre attacchi, usando Squarcio o Aculeo caudale in qualsiasi combinazione.
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 7 (1d8 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni taglienti.
 
 **Aculeo caudale**  
-Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni perforanti. Manto assassino
+Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni perforanti.
 
 ---
 
