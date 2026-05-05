@@ -11404,7 +11404,8 @@ Il sahuagin nuota fino al massimo della sua velocità di nuoto in linea retta ve
 
 ## Salamandra
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 15  
@@ -11451,7 +11452,7 @@ La salamandra effettua due attacchi Lancia di fuoco. Può sostituire un attacco 
 Tiro per colpire in mischia o a distanza: +7, portata 1,5 m o gittata 6/18 m. Colpito: 13 (2d8 + 4) danni perforanti più 7 (2d6) danni da fuoco. Colpito o mancato: la lancia torna magicamente tra le mani della salamandra subito dopo un attacco a distanza.
 
 **Stritolare**  
-Tiro salvezza su Forza: CD 15, una creatura di taglia Grande o inferiore che la salamandra è in grado di vedere entro 3 metri. Fallimento: 11 (2d6 + 4) danni contundenti più 7 (2d6) danni da fuoco. Il bersaglio è afferrato (CD 14 per sfuggire) ed è trattenuto finché la presa perdura. Satiro
+Tiro salvezza su Forza: CD 15, una creatura di taglia Grande o inferiore che la salamandra è in grado di vedere entro 3 metri. Fallimento: 11 (2d6 + 4) danni contundenti più 7 (2d6) danni da fuoco. Il bersaglio è afferrato (CD 14 per sfuggire) ed è trattenuto finché la presa perdura.
 
 ---
 
