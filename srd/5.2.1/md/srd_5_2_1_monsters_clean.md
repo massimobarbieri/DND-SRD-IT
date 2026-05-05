@@ -9507,7 +9507,8 @@ Il mezzodrago salta fino a 9 metri usando 3 metri di movimento.
 
 ## Mimic
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -9557,13 +9558,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni contun
 ### Azioni bonus
 
 **Mutaforma**  
-Il mimic assume la forma di un oggetto Medio o Piccolo, mantenendo le proprie statistiche di gioco, o ritorna alla sua forma autentica. Nessun oggetto che indossa o trasporta viene trasformato. 358 System Reference Document 5.2.1 Minotauro di Baphomet
+Il mimic assume la forma di un oggetto Medio o Piccolo, mantenendo le proprie statistiche di gioco, o ritorna alla sua forma autentica. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Minotauro di Baphomet
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 14  
@@ -9601,7 +9603,7 @@ Il mimic assume la forma di un oggetto Medio o Piccolo, mantenendo le proprie st
 Tiro per colpire in mischia: +6, portata 3 m. Colpito: 10 (1d12 + 4) danni taglienti più 10 (3d6) danni necrotici.
 
 **Trafiggere (ricarica 5-6)**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e il minotauro si è mosso di 3 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 10 (3d6) danni perforanti extra e cade a terra prono. Mummie
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e il minotauro si è mosso di 3 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 10 (3d6) danni perforanti extra e cade a terra prono.
 
 ---
 

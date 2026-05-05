@@ -162,7 +162,7 @@ Totale mostri estratti: 288
 #DONE Merrow (pagine 64-64): header_continuation_o_parse_da_verificare - Int 8 -1 -1 Sag 10 +0 +0 Car 9 -1 -1
 #DONE Mezzodrago (pagine 64-65): header_continuation_o_parse_da_verificare - draconica descritto sotto
 #DONE Mezzodrago (pagine 64-65): header_continuation_o_parse_da_verificare - cieca 3 m
-- Mimic (pagine 65-65): mutaforma
+#DONE Mimic (pagine 65-65): mutaforma
 - Mummia (pagine 65-66): gruppo_header - Mummie
 - Mummia (pagine 65-66): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
 - Signore delle mummie (pagine 66-66): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
