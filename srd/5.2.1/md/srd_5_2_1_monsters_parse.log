@@ -204,15 +204,15 @@ Totale mostri estratti: 288
 #DONE Sahuagin guerriero (pagine 77-77): gruppo_header - Sahuagin
 #DONE Scheletro (pagine 78-78): gruppo_header - Scheletri
 #DONE Scheletro (pagine 78-78): header_continuation_o_parse_da_verificare - le parla
-- Sfinge della meraviglia (pagine 79-79): gruppo_header - Sfingi
-- Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - 372 System Reference Document 5.2.1
-- Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - Storia +12
-- Sfinge della conoscenza (pagine 79-80): lair_variant_in_gs
-- Sfinge della conoscenza (pagine 79-80): azioni_leggendarie
-- Sfinge della conoscenza (pagine 79-80): incantesimi_interni
-- Sfinge del valore (pagine 80-80): lair_variant_in_gs
-- Sfinge del valore (pagine 80-80): azioni_leggendarie
-- Sfinge del valore (pagine 80-80): incantesimi_interni
+#DONE Sfinge della meraviglia (pagine 79-79): gruppo_header - Sfingi
+#DONE Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - 372 System Reference Document 5.2.1
+#DONE Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - Storia +12
+#DONE Sfinge della conoscenza (pagine 79-80): lair_variant_in_gs
+#DONE Sfinge della conoscenza (pagine 79-80): azioni_leggendarie
+#DONE Sfinge della conoscenza (pagine 79-80): incantesimi_interni
+#DONE Sfinge del valore (pagine 80-80): lair_variant_in_gs
+#DONE Sfinge del valore (pagine 80-80): azioni_leggendarie
+#DONE Sfinge del valore (pagine 80-80): incantesimi_interni
 - Solar (pagine 80-81): header_continuation_o_parse_da_verificare - indebolimento, spaventato
 - Solar (pagine 80-81): azioni_leggendarie
 - Solar (pagine 80-81): incantesimi_interni

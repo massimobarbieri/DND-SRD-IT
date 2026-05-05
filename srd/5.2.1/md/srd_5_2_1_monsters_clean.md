@@ -11708,7 +11708,8 @@ Tiro salvezza su Destrezza: CD 12, tutte le creature in un cono di 4,5 metri. Fa
 ## Sfinge della meraviglia
 
 **gruppo:** Sfingi  
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Minuscolo
 **allineamento:** legale buono  
 
 **classe_armatura:** 13  
@@ -11760,7 +11761,9 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 
 ## Sfinge della conoscenza
 
-**tipo:** Celestiale  
+**gruppo:** Sfingi  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale neutrale  
 
 **classe_armatura:** 17  
@@ -11798,7 +11801,10 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 ### Tratti
 
 **Imperscrutabile**  
-Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio. 
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -11806,13 +11812,12 @@ Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i
 La sfinge effettua tre attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +8, portata 1,5 m.
-
-**Colpito: 14 (3d6 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 14 (3d6 + 4) danni taglienti.
 
 **Incantesimi**  
-La sfinge lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: conoscenza delle leggende, dissolvi magie, linguaggi, localizza oggetto, rimuovi maledizione, spostamento planare A volontà: identificare, illusione minore, individuazione del magico, mano magica, prestidigitazione
+La sfinge lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16):
+**1/giorno ciascuno:** conoscenza delle leggende, dissolvi magie, linguaggi, localizza oggetto, rimuovi maledizione, spostamento planare
+**A volontà:** identificare, illusione minore, individuazione del magico, mano magica, prestidigitazione
 
 **Ruggito spezza-mente (ricarica 5-6)**  
 Tiro salvezza su Saggezza: CD 16, tutti i nemici in un'emanazione di 90 metri di cui la sfinge è il punto di origine. Fallimento: 35 (10d6) danni psichici, e il bersaglio è incapacitato fino all'inizio del turno successivo della sfinge.
@@ -11832,7 +11837,9 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 
 ## Sfinge del valore
 
-**tipo:** Celestiale  
+**gruppo:** Sfingi  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale neutrale  
 
 **classe_armatura:** 17  
@@ -11870,7 +11877,10 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 ### Tratti
 
 **Imperscrutabile**  
-Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio.
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -11878,10 +11888,7 @@ Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i
 La sfinge effettua due attacchi Artiglio e utilizza Ruggito.
 
 **Artiglio**  
-Tiro per colpire in mischia: +12, portata 1,5 m.
-
-**Colpito: 20 (4d6 + 6) danni taglienti**  
-
+Tiro per colpire in mischia: +12, portata 1,5 m. Colpito: 20 (4d6 + 6) danni taglienti.
 
 **Incantesimi**  
 La sfinge lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 1/giorno ciascuno: banchetto degli eroi, dissolvi magie, individuazione del magico, ristorare superiore, zona di verità A volontà: Individuazione del bene e del male, taumaturgia
@@ -11893,7 +11900,7 @@ Tiro salvezza su Saggezza: CD 20, tutti i nemici in un'emanazione di 150 metri d
 La sfinge emette un ruggito magico. Ogni suo ruggito sortisce un effetto diverso come descritto sotto (la sequenza si ripristina dopo aver completato un riposo lungo):
 
 **Secondo ruggito**  
-Tiro salvezza su Saggezza: CD 20, tutti i nemici in un'emanazione di 150 metri di cui la sfinge è il punto di origine. Fallimento: il bersaglio 373 System Reference Document 5.2.1 è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+Tiro salvezza su Saggezza: CD 20, tutti i nemici in un'emanazione di 150 metri di cui la sfinge è il punto di origine. Fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 **Terzo ruggito**  
 Tiro salvezza su Costituzione: CD 20, tutti i nemici in un'emanazione di 150 metri di cui la sfinge è il punto di origine. Fallimento: 44 (8d10) danni da tuono, e il bersaglio cade a terra prono. Successo: danni dimezzati.
@@ -11907,7 +11914,7 @@ Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo 
 La sfinge può teletrasportarsi fino a 9 metri in uno spazio libero che è in grado di vedere, effettuando un attacco Artiglio.
 
 **Peso degli anni**  
-Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di vedere entro 36 metri. Fallimento: il bersaglio ottiene 1 livello di indebolimento. Finché il bersaglio ha uno o più livelli di indebolimento, apparirà più vecchio di 3d10 anni. Fallimento o successo: la sfinge non può ripetere quest'azione fino all'inizio del proprio turno successivo. Solar
+Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di vedere entro 36 metri. Fallimento: il bersaglio ottiene 1 livello di indebolimento. Finché il bersaglio ha uno o più livelli di indebolimento, apparirà più vecchio di 3d10 anni. Fallimento o successo: la sfinge non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 
