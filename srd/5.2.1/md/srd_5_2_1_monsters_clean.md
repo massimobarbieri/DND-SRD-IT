@@ -9393,13 +9393,30 @@ Il mephit lancia sonno senza bisogno di componenti, utilizzando Carisma come car
 
 ## Merrow
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
 **iniziativa:** +2 (12)  
 **punti_ferita:** 45 (6d10 + 12)  
-**velocita:** 3 m, nuoto 12 m  
+**velocita:** 3 m, nuoto 12 m
+
+**caratteristiche:**
+- forza: 18 (+4)
+- destrezza: 15 (+2)
+- costituzione: 15 (+2)
+- intelligenza: 8 (-1)
+- saggezza: 10 (+0)
+- carisma: 9 (-1)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +2
+- costituzione: +2
+- intelligenza: -1
+- saggezza: +0
+- carisma: -1
 
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** Abissale, Primordiale (Aquan)  
@@ -9416,22 +9433,16 @@ Il merrow può respirare in aria e in acqua.
 ### Azioni
 
 **Multiattacco**  
-Il merrow effettua due attacchi, usando
-
-**Morso, Artiglio o Arpione in qualsiasi combinazione**  
-
+Il merrow effettua due attacchi, usando Morso, Artiglio o Arpione in qualsiasi combinazione.
 
 **Arpione**  
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 6/18 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, il merrow trascina il bersaglio in linea retta verso di sé fino a 4,5 metri.
 
 **Artiglio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (2d4 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni taglienti.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni perforanti, e il bersaglio è avvelenato fino al termine del turno successivo del merrow. Mezzodrago
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni perforanti, e il bersaglio è avvelenato fino al termine del turno successivo del merrow.
 
 ---
 
