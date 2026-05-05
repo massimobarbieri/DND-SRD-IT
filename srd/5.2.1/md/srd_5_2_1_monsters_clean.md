@@ -8989,7 +8989,8 @@ Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in gr
 
 ## Megera notturna
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 17  
@@ -9040,24 +9041,20 @@ La megera dispone di vantaggio ai tiri salvezza contro incantesimi e altri effet
 La megera effettua due attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 13 (2d8 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni taglienti.
 
 **Incantesimi**  
-La megera lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 2/giorno ciascuno: Allucinazione mortale, spostamento planare (solo se stessa) A volontà: Dardo incantato (di 4º livello), forma eterea, individuazione del magico
+La megera lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
+**2/giorno ciascuno:** Allucinazione mortale, spostamento planare (solo se stessa) 
+**A volontà:** Dardo incantato (di 4º livello), forma eterea, individuazione del magico
 
 **Infestare incubi (1/giorno; richiede Borsa dell'anima)**  
-Finché si trova sul Piano Etereo, la megera lancia sogno, utilizzando la stessa caratteristica da incantatore di Incantesimi. Soltanto la megera può agire da messaggera dell'incantesimo, e il bersaglio deve essere una creatura che la megera è in grado di vedere sul
-
-**Piano Materiale**  
-L'incantesimo fallisce ed è sprecato se il bersaglio è sotto l'effetto dell'incantesimo protezione dal bene e dal male o se si trova nel raggio dell'incantesimo cerchio magico. Se il bersaglio subisce danni dall'incantesimo sogno, i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni subiti. Se l'incantesimo uccide il bersaglio, la sua anima resta intrappolata nella borsa dell'anima della megera, e il bersaglio non può essere resuscitato finché la sua anima non viene liberata.
+Finché si trova sul Piano Etereo, la megera lancia sogno, utilizzando la stessa caratteristica da incantatore di Incantesimi. Soltanto la megera può agire da messaggera dell'incantesimo, e il bersaglio deve essere una creatura che la megera è in grado di vedere sul Piano Materiale. L'incantesimo fallisce ed è sprecato se il bersaglio è sotto l'effetto dell'incantesimo protezione dal bene e dal male o se si trova nel raggio dell'incantesimo cerchio magico. Se il bersaglio subisce danni dall'incantesimo sogno, i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni subiti. Se l'incantesimo uccide il bersaglio, la sua anima resta intrappolata nella borsa dell'anima della megera, e il bersaglio non può essere resuscitato finché la sua anima non viene liberata.
 
 ### Azioni bonus
 
 **Mutaforma**  
-La megera si trasforma in un umanoide di taglia Piccola o Media, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Megera verde
+La megera si trasforma in un umanoide di taglia Piccola o Media, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
