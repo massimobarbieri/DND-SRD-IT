@@ -11112,7 +11112,8 @@ Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferra
 
 ## Roc
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Mastodontica
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -11150,10 +11151,7 @@ Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferra
 Il roc effettua due attacchi Becco. Può sostituire un attacco con un attacco Speroni.
 
 **Becco**  
-Tiro per colpire in mischia: +13, portata 3 m.
-
-**Colpito: 28 (3d12 + 9) danni perforanti**  
-
+Tiro per colpire in mischia: +13, portata 3 m. Colpito: 28 (3d12 + 9) danni perforanti.
 
 **Speroni**  
 Tiro per colpire in mischia: +13, portata 1,5 m. Colpito: 23 (4d6 + 9) danni taglienti. Se il bersaglio è una creatura di taglia Enorme o inferiore, è afferrato (CD 19 per sfuggire) da entrambi gli speroni, ed è trattenuto finché la presa perdura.
@@ -11161,7 +11159,7 @@ Tiro per colpire in mischia: +13, portata 1,5 m. Colpito: 23 (4d6 + 9) danni tag
 ### Azioni bonus
 
 **In picchiata (ricarica 5-6)**  
-Se il roc ha afferrato una creatura, vola fino a metà della sua velocità di volo senza provocare attacchi di opportunità e lascia cadere la creatura. Rugginofago
+Se il roc ha afferrato una creatura, vola fino a metà della sua velocità di volo senza provocare attacchi di opportunità e lascia cadere la creatura.
 
 ---
 
