@@ -10078,7 +10078,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni tagli
 
 ## Tappeto soffocante animato
 
-**tipo:** Costrutto  
+**gruppo:** Oggetti animati
+**tipo:** Costrutto
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -10103,7 +10105,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni tagli
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 6; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -10114,10 +10116,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni tagli
 ### Azioni
 
 **Soffocare**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, il tappeto lo afferra (CD 13 per sfuggire) invece di infliggere danni. Finché la presa perdura, il bersaglio è accecato e trattenuto, soffoca, e subisce 10 (2d6 + 3) danni contundenti all'inizio di ogni suo turno. Il tappeto può soffocare solo una creatura alla volta. Finché afferra il bersaglio, il tappeto non può effettuare questa azione e dimezza i danni subiti (arrotondati per difetto); il bersaglio subisce la stessa quantità di danni. Ogre
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, il tappeto lo afferra (CD 13 per sfuggire) invece di infliggere danni. Finché la presa perdura, il bersaglio è accecato e trattenuto, soffoca, e subisce 10 (2d6 + 3) danni contundenti all'inizio di ogni suo turno. Il tappeto può soffocare solo una creatura alla volta. Finché afferra il bersaglio, il tappeto non può effettuare questa azione e dimezza i danni subiti (arrotondati per difetto); il bersaglio subisce la stessa quantità di danni.
 
 ---
 
