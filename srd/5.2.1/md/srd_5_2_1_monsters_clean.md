@@ -9280,7 +9280,9 @@ Tiro salvezza su Destrezza: CD 11, tutte le creature in un cono di 4,5 metri. Fa
 
 ## Mephit del vapore
 
-**tipo:** Elementale  
+**gruppo:** Mephit 
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 10  
