@@ -8550,7 +8550,8 @@ L'arcimago lancia controincantesimo o scudo come risposta all'innesco dell'incan
 
 ## Magmin
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 14  
@@ -8590,15 +8591,12 @@ Il magmin esplode quando muore. Tiro salvezza su Destrezza: CD 11, tutte le crea
 ### Azioni
 
 **Tocco**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (2d4 + 2) danni da fuoco**  
-Se il bersaglio è una creatura o un oggetto infiammabile che non è indossato o trasportato, prende fuoco.
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile che non è indossato o trasportato, prende fuoco.
 
 ### Azioni bonus
 
 **Illuminazione fiammeggiante**  
-Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri. Manticora
+Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri.
 
 ---
 
