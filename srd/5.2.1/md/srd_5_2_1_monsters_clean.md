@@ -9987,8 +9987,9 @@ Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre ti
 
 ## Armatura animata
 
-**gruppo:** Oggetti animati  
-**tipo:** Costrutto  
+**gruppo:** Oggetti animati
+**tipo:** Costrutto
+**dimensione:** Medio
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 18  
@@ -10013,7 +10014,7 @@ Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre ti
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 6; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -10027,10 +10028,7 @@ Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre ti
 L'armatura effettua due attacchi Schianto.
 
 **Schianto**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 5 (1d6 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contundenti.
 
 ---
 

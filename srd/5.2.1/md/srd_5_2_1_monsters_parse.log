@@ -172,9 +172,9 @@ Totale mostri estratti: 288
 #DONE Naga guardiana (pagine 66-67): header_continuation_o_parse_da_verificare - trattenuto
 #DONE Naga guardiana (pagine 66-67): incantesimi_interni
 #DONE Naga spirituale (pagine 67-67): incantesimi_interni
-- Armatura animata (pagine 68-68): gruppo_header - Oggetti animati
-- Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
-- Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - spaventato
+#DONE Armatura animata (pagine 68-68): gruppo_header - Oggetti animati
+#DONE Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
+#DONE Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - spaventato
 - Spada volante animata (pagine 68-68): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
 - Spada volante animata (pagine 68-68): header_continuation_o_parse_da_verificare - spaventato
 - Tappeto soffocante animato (pagine 68-69): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
