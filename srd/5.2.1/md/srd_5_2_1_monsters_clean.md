@@ -11165,7 +11165,8 @@ Se il roc ha afferrato una creatura, vola fino a metà della sua velocità di vo
 
 ## Rugginofago
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -11207,10 +11208,7 @@ Il rugginofago può individuare la precisa ubicazione di qualsiasi metallo ferro
 Il rugginofago effettua un attacco Morso e usa Antenne due volte.
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m
-
-**Colpito: 5 (1d8 + 1) danni perforanti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni perforanti.
 
 **Antenne**  
 Il rugginofago prende di mira un oggetto in metallo non magico (armatura o arma) indossato o trasportato da una creatura entro 1,5 metri da sé. Tiro salvezza su Destrezza: CD 11, la creatura che possiede l'oggetto. Fallimento: l'oggetto subisce una penalità di -1 alla CA che fornisce (armatura) o ai suoi tiri per colpire (arma). L'armatura viene distrutta se la penalità riduce la sua CA a 10; l'arma viene distrutta se la sua penalità arriva a -5. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura o sull'arma.
@@ -11221,7 +11219,7 @@ Il rugginofago tocca un oggetto in metallo non magico entro 1,5 metri da sé che
 ### Reazioni
 
 **Antenne riflesse**  
-Attivazione: Un tiro per colpire colpisce il rugginofago. Esito: il rugginofago usa Antenne. 369 System Reference Document 5.2.1 Sacerdoti
+Attivazione: Un tiro per colpire colpisce il rugginofago. Esito: il rugginofago usa Antenne.
 
 ---
 
