@@ -11509,7 +11509,8 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vede
 ## Scheletro
 
 **gruppo:** Scheletri  
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 14  
@@ -11538,7 +11539,7 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vede
 **immunita_danni:** veleno  
 **immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -11556,7 +11557,9 @@ Tiro per colpire a distanza: +5, portata 24/96 m Colpito: 6 (1d6 + 3) danni perf
 
 ## Scheletro di cavallo da guerra
 
-**tipo:** Non  
+**gruppo:** Scheletri  
+**tipo:** Non morto
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 13  
@@ -11588,7 +11591,7 @@ Tiro per colpire a distanza: +5, portata 24/96 m Colpito: 6 (1d6 + 3) danni perf
 **grado_sfida:** 1/2  
 **punti_esperienza:** PE 100  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 1/2 (PE 100; BC +2) 371 System Reference Document 5.2.1  
+**grado_sfida_raw:** 1/2 (PE 100; BC +2)
 
 ### Azioni
 
@@ -11602,7 +11605,9 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si �
 
 ## Scheletro di minotauro
 
-**tipo:** Non  
+**gruppo:** Scheletri  
+**tipo:** Non morto
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 12  
@@ -11639,13 +11644,10 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si �
 ### Azioni
 
 **Schianto**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 15 (2d10 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni contundenti.
 
 **Trafiggere**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 9 (2d8) danni perforanti extra e cade a terra prono. Segugio infernale
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 9 (2d8) danni perforanti extra e cade a terra prono.
 
 ---
 
