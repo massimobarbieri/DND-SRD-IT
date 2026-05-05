@@ -9170,7 +9170,8 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 10 (2d8 + 1) danni da a
 ## Mephit del ghiaccio
 
 **gruppo:** Mephit  
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 11  
@@ -9216,10 +9217,7 @@ Il mephit esplode quando muore. Tiro salvezza su Costituzione: CD 10, tutte le c
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni taglienti più 2 (1d4) danni da freddo.
 
 **Nube di nebbia (1/giorno)**  
-Il mephit lancia nube di nebbia senza bisogno di componenti, utilizzando
-
-**Carisma come caratteristica da incantatore**  
-
+Il mephit lancia nube di nebbia senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore.
 
 **Soffio di gelo (ricarica 6)**  
 Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri. Fallimento: 7 (3d4) danni da freddo. Successo: danni dimezzati.
