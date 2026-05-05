@@ -10122,7 +10122,8 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni cont
 
 ## Ogre
 
-**tipo:** Gigante  
+**tipo:** Gigante
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 11  
@@ -10160,7 +10161,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni cont
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 9/36 m. Colpito: 11 (2d6 + 4) danni perforanti.
 
 **Randello pesante**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti. Ombra
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti.
 
 ---
 
