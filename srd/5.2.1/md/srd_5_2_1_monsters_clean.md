@@ -8169,7 +8169,8 @@ Il lamia salta fino a 9 metri usando 3 metri di movimento.
 
 ## Lemure
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 9  
@@ -8195,8 +8196,8 @@ Il lamia salta fino a 9 metri usando 3 metri di movimento.
 
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
-**sensi:** Percezione passiva 10; scurovisione 36 m (non  
+**immunita_condizione:** affascinato, avvelenato, spaventato
+**sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** capisce l'Infernale ma non lo parla  
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
@@ -8211,7 +8212,7 @@ Se il lemure muore nei Nove Inferi, torna in vita con tutti i suoi punti ferita 
 ### Azioni
 
 **Melma vile**  
-Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno. Lich
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno.
 
 ---
 
