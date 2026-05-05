@@ -10765,6 +10765,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contunden
 ## Protoplasma nero
 
 **tipo:** Melma
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 7  
@@ -10788,8 +10789,8 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contunden
 - saggezza: -2
 - carisma: -5
 
-**immunita_danni:** acido, freddo, fulmine, tagliente  
-**immunita_condizione:** affascinato,  
+**immunita_danni:** acido, freddo, fulmine, tagliente
+**immunita_condizione:** affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 4  
@@ -10811,12 +10812,12 @@ Il protoplasma può scalare le superfici difficili, compresi i soffitti, senza e
 ### Azioni
 
 **Pseudopode dissolvente**  
-Tiro per colpire in mischia: +5, portata 3 m. Colpito: 17 (4d6 + 3) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura. 366 System Reference Document 5.2.1
+Tiro per colpire in mischia: +5, portata 3 m. Colpito: 17 (4d6 + 3) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura.
 
 ### Reazioni
 
 **Scindersi**  
-Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetto a danni da fulmine o taglienti. Esito: il protoplasma si scinde in due nuovi protoplasmi neri. Ogni nuovo protoplasma è inferiore di una taglia rispetto al protoplasma originale, e agisce di propria iniziativa. I punti ferita del protoplasma originale sono divisi equamente tra i due nuovi protoplasmi (arrotondati per difetto). Pseudodrago
+Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetto a danni da fulmine o taglienti. Esito: il protoplasma si scinde in due nuovi protoplasmi neri. Ogni nuovo protoplasma è inferiore di una taglia rispetto al protoplasma originale, e agisce di propria iniziativa. I punti ferita del protoplasma originale sono divisi equamente tra i due nuovi protoplasmi (arrotondati per difetto).
 
 ---
 
