@@ -9871,7 +9871,8 @@ La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatic
 
 ## Nalfeshnee
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 18  
@@ -9916,10 +9917,7 @@ Se il nalfeshnee muore al di fuori dell'Abisso, il suo corpo si dissolve diventa
 ### Azioni
 
 **Multiattacco**  
-Il nalfeshnee effettua tre attacchi
-
-**Squarcio**  
-
+Il nalfeshnee effettua tre attacchi Squarcio.
 
 **Squarcio**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 16 (2d10 + 5) danni taglienti più 11 (2d10) danni da forza.
@@ -9935,7 +9933,7 @@ Tiro salvezza su Saggezza: CD 15, tutte le creature in un'emanazione di 4,5 metr
 ### Reazioni
 
 **Inseguimento**  
-Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina il proprio movimento entro 36 metri dal nalfeshnee. Esito: il nalfeshnee usa Teletrasporto, ma lo spazio di destinazione deve trovarsi entro 3 metri dalla creatura che ha provocato la reazione. Nobile
+Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina il proprio movimento entro 36 metri dal nalfeshnee. Esito: il nalfeshnee usa Teletrasporto, ma lo spazio di destinazione deve trovarsi entro 3 metri dalla creatura che ha provocato la reazione.
 
 ---
 
