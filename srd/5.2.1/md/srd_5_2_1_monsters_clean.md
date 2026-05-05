@@ -10385,7 +10385,8 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni tagl
 
 ## Orso mannaro
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 15  
@@ -10430,10 +10431,7 @@ L'orso mannaro effettua due attacchi, usando Ascia o Squarcio in qualsiasi combi
 Tiro per colpire in mischia o a distanza: +7, portata 1,5 m o gittata 6/18 m. Colpito: 14 (3d6 + 4) danni taglienti.
 
 **Morso (solo in forma di orso o ibrida)**  
-Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 17 (2d12 + 4) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione:
-
-**CD 14**  
-Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un orso mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione dell'orso mannaro per 24 ore.
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 17 (2d12 + 4) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 14. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un orso mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione dell'orso mannaro per 24 ore.
 
 **Squarcio (solo in forma di orso o ibrida)**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni taglienti.
@@ -10441,7 +10439,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni tagl
 ### Azioni bonus
 
 **Mutaforma**  
-L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un orso di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Otyugh
+L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un orso di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
