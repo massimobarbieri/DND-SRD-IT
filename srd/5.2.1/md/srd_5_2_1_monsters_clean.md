@@ -10274,7 +10274,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante, e il
 
 ## Oni
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -10324,15 +10325,16 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 10 (1d12 + 4) danni tagli
 Tiro per colpire a distanza: +5, gittata 18 m. Colpito: 9 (2d6 + 2) danni psichici, e il bersaglio è spaventato fino all'inizio del turno successivo dell'oni.
 
 **Incantesimi**  
-L'oni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: Charme su persone (di 2º livello), forma gassosa, oscurità, sonno
+L'oni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
+**1/giorno ciascuno:** Charme su persone (di 2º livello), forma gassosa, oscurità, sonno
 
 **Mutaforma**  
-L'oni si trasforma in un umanoide di taglia Piccola o Media, o in un gigante di taglia Grande, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. 363 System Reference Document 5.2.1
+L'oni si trasforma in un umanoide di taglia Piccola o Media, o in un gigante di taglia Grande, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ### Azioni bonus
 
 **Invisibilità**  
-L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzando la stessa caratteristica da incantatore di Incantesimi. Orsogufo
+L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
