@@ -144,8 +144,8 @@ Totale mostri estratti: 288
 #DONE Lich (pagine 56-56): incantesimi_interni
 #DONE Lupo mannaro (pagine 57-57): header_continuation_o_parse_da_verificare - di un lupo)
 #DONE Lupo mannaro (pagine 57-57): mutaforma
-- Mago (pagine 57-57): gruppo_header - Maghi
-- Mago (pagine 57-57): incantesimi_interni
+#DONE Mago (pagine 57-57): gruppo_header - Maghi
+#DONE Mago (pagine 57-57): incantesimi_interni
 - Arcimago (pagine 58-58): incantesimi_interni
 - Marinide schermagliatore (pagine 60-60): gruppo_header - Marinide
 - Marinide schermagliatore (pagine 60-60): header_continuation_o_parse_da_verificare - 353 System Reference Document 5.2.1

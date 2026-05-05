@@ -8417,8 +8417,9 @@ Il lupo mannaro si trasforma in un ibrido umanoide-lupo di taglia Grande o in un
 
 ## Mago
 
-**gruppo:** Maghi  
-**tipo:** Umanoide  
+**gruppo:** Maghi
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 15  
@@ -8460,15 +8461,15 @@ Il mago effettua tre attacchi Esplosione arcana.
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 36 m. Colpito: 16 (3d8 + 3) danni da forza.
 
 **Incantesimi**  
-Il mago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 1/giorno ciascuno: Cono di freddo, volare 2/giorno ciascuno: Invisibilità, palla di fuoco (di 4º livello) A volontà: Armatura magica (inclusa nella CA), individuazione del magico, luce, mano magica, prestidigitazione
+Il mago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
+**1/giorno ciascuno:** Cono di freddo, volare 
+**2/giorno ciascuno:** Invisibilità, palla di fuoco (di 4º livello) 
+**A volontà:** Armatura magica (inclusa nella CA), individuazione del magico, luce, mano magica, prestidigitazione
 
 ### Azioni bonus
 
 **Passo velato (3/giorno)**  
-Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-
+Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ### Reazioni
 
