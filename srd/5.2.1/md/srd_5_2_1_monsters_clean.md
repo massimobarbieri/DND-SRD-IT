@@ -13837,7 +13837,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni tagli
 
 ## Archelon
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -13880,10 +13882,7 @@ L'archelon può respirare in aria e in acqua.
 L'archelon effettua due attacchi Morso.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 14 (3d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 14 (3d6 + 4) danni perforanti.
 
 ---
 
