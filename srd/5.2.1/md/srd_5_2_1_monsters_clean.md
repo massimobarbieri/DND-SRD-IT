@@ -12364,7 +12364,8 @@ Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. 
 
 ## Tigre mannara
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -12400,22 +12401,13 @@ Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. 
 ### Azioni
 
 **Multiattacco**  
-La tigre mannara effettua due attacchi, usando Graffio o Arco lungo in qualsiasi combinazione.
-
-**Può sostituire un attacco con un attacco Morso**  
-
+La tigre mannara effettua due attacchi, usando Graffio o Arco lungo in qualsiasi combinazione. Può sostituire un attacco con un attacco Morso.
 
 **Graffio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Morso (solo in forma di tigre o ibrida)**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione:
-
-**CD 13**  
-Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa una tigre mannara sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione della tigre mannara per 24 ore.
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 13. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa una tigre mannara sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione della tigre mannara per 24 ore.
 
 **Arco lungo (solo in forma umanoide o ibrida)**  
 Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 11 (2d8 + 2) danni perforanti.
@@ -12423,13 +12415,10 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 11 (2d8 + 2) danni p
 ### Azioni bonus
 
 **Movimento predatorio (solo in forma di tigre o ibrida)**  
-La tigre mannara si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Alla fine di questo movimento, può effettuare l'azione di
-
-**Nascondersi**  
-
+La tigre mannara si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Alla fine di questo movimento, può effettuare l'azione di Nascondersi.
 
 **Mutaforma**  
-La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in una tigre di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. 377 System Reference Document 5.2.1 Topo mannaro
+La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in una tigre di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
