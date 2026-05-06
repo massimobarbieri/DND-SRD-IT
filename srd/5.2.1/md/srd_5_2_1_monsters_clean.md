@@ -13139,11 +13139,13 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 16 (2d6 + 9) danni perfo
 
 **Inghiottire**  
 Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal verme (può inghiottire fino a tre creature alla volta). Fallimento: il bersaglio viene inghiottito dal verme, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del verme, e subisce 17 (5d6) danni da acido all'inizio di ogni turno del verme. Se il verme subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 21 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal verme. Se il verme muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona.
+
 ---
 
 ## Viverna
 
-**tipo:** Drago  
+**tipo:** Drago
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -13181,13 +13183,10 @@ Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferra
 La viverna effettua un attacco Morso e un attacco Pungiglione.
 
 **Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 13 (2d8 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni perforanti.
 
 **Pungiglione**  
-Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti più 24 (7d6) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo della viverna. Vrock
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti più 24 (7d6) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo della viverna. 
 
 ---
 
