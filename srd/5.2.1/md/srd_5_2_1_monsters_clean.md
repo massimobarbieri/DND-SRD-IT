@@ -18048,7 +18048,9 @@ Tiro per colpire in mischia: +9, portata 1,5 m. Colpito: 19 (2d12 + 6) danni per
 
 ## Vespa gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
