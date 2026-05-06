@@ -16224,7 +16224,9 @@ La pantera effettua l'azione di Disimpegno o Nascondersi.
 
 ## Piovra
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16278,7 +16280,9 @@ Attivazione: una creatura termina il suo turno entro 1,5 metri dalla piovra sott
 
 ## Piovra gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16313,15 +16317,12 @@ Attivazione: una creatura termina il suo turno entro 1,5 metri dalla piovra sott
 ### Tratti
 
 **Respirare sott'acqua**  
-La piovra può respirare soltanto sott'acqua e può trattenere il respiro per 1 ora fuori dall'acqua. 397 System Reference Document 5.2.1
+La piovra può respirare soltanto sott'acqua e può trattenere il respiro per 1 ora fuori dall'acqua.
 
 ### Azioni
 
 **Tentacoli**  
-Tiro per colpire in mischia: +5, portata 3 m.
-
-**Colpito: 10 (2d6 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da tutti e otto i tentacoli. Mentre è afferrato, il bersaglio è anche trattenuto.
+Tiro per colpire in mischia: +5, portata 3 m. Colpito: 10 (2d6 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da tutti e otto i tentacoli. Mentre è afferrato, il bersaglio è anche trattenuto.
 
 ### Reazioni
 
