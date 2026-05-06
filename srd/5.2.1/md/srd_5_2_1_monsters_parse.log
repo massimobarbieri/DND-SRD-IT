@@ -243,8 +243,8 @@ Totale mostri estratti: 288
 #DONE Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - privo di sensi, prono, trattenuto
 #DONE Xorn (pagine 91-91): header_continuation_o_parse_da_verificare - scurovisione 18 m
 #DONE Zombi (pagine 91-91): header_continuation_o_parse_da_verificare - le parla
-- Alce (pagine 92-92): gruppo_header - Animali
-- Alce gigante (pagine 92-92): header_continuation_o_parse_da_verificare - ma non li parla
+#DONE Alce (pagine 92-92): gruppo_header - Animali
+#DONE Alce gigante (pagine 92-92): header_continuation_o_parse_da_verificare - ma non li parla
 - Allosauro (pagine 92-92): header_continuation_o_parse_da_verificare - 385 System Reference Document 5.2.1
 - Aquila gigante (pagine 93-93): header_continuation_o_parse_da_verificare - (Auran) ma non li parla
 - Avvoltoio (pagine 93-93): header_continuation_o_parse_da_verificare - 386 System Reference Document 5.2.1

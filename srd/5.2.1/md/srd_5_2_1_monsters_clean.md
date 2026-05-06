@@ -13569,8 +13569,9 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 
 ## Alce
 
-**gruppo:** Animali  
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -13611,7 +13612,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 
 ## Alce gigante
 
-**tipo:** Celestiale  
+**gruppo:** Animali
+**tipo:** Celestiale
+**dimensione:** Enorme
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 14  
@@ -13638,7 +13641,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 **abilita:** Percezione +4  
 **resistenze:** necrotico, radioso  
 **sensi:** Percezione passiva 14; scurovisione 27 m  
-**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano  
+**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano ma non li parla
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
 **bonus_competenza:** +2  
