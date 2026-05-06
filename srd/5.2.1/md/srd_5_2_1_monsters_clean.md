@@ -15212,7 +15212,9 @@ Il gorilla salta fino a 9 metri usando 3 metri di movimento.
 
 ## Granchio
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -15252,16 +15254,15 @@ Il granchio può respirare in aria e in acqua.
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 1 danno contundente**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno contundente.
 
 ---
 
 ## Granchio gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -15301,10 +15302,7 @@ Il granchio può respirare in aria e in acqua.
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +3, portata 1,5 m
-
-**Colpito: 4 (1d6 + 1) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire) da una delle due chele.
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire) da una delle due chele.
 
 ---
 
