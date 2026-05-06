@@ -14636,7 +14636,11 @@ Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni per
 
 ## Colonia di serpenti velenosi
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -14661,7 +14665,7 @@ Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni per
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 3 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
