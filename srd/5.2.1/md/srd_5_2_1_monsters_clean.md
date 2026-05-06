@@ -16860,7 +16860,9 @@ La rana inghiotte un bersaglio di taglia Piccola o inferiore che sta afferrando.
 
 ## Rinoceronte
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
