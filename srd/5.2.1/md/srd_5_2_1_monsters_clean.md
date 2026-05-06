@@ -14086,7 +14086,9 @@ Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i pu
 
 ## Cammello
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14115,15 +14117,12 @@ Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i pu
 **grado_sfida:** 1/8  
 **punti_esperienza:** PE 25  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 1/8 (PE 25; BC +2) 387 System Reference Document 5.2.1  
+**grado_sfida_raw:** 1/8 (PE 25; BC +2)
 
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contundenti.
 
 ---
 
