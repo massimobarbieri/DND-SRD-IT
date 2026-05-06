@@ -14738,7 +14738,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 5 (2d4) danni perforant
 
 ## Corvo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14778,10 +14780,7 @@ Il corvo può imitare dei suoni semplici che ha sentito, come sussurri o cinguet
 ### Azioni
 
 **Becco**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
