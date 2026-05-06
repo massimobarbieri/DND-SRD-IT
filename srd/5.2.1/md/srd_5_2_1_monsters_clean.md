@@ -16034,7 +16034,9 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 21 (5d6 + 4) danni perf
 
 ## Orso bruno
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16072,22 +16074,18 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 21 (5d6 + 4) danni perf
 L'orso effettua un attacco Morso e un attacco Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 5 (1d4 + 3) danni taglienti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni taglienti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 7 (1d8 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni perforanti.
 
 ---
 
 ## Orso nero
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16125,16 +16123,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m.
 L'orso effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 5 (1d6 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni taglienti.
 
 ---
 
 ## Orso polare
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16173,10 +16170,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 L'orso effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 9 (1d8 + 5) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d8 + 5) danni taglienti.
 
 ---
 
