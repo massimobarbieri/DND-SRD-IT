@@ -14970,7 +14970,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perfo
 
 ## Falco
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -15005,16 +15007,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perfo
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 1 danno tagliente**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
 ## Falco di sangue
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
