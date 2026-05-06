@@ -16902,7 +16902,9 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni perf
 
 ## Rospo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16939,7 +16941,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni perf
 Il rospo può respirare in aria e in acqua.
 
 **Balzo da fermo**  
-Il rospo può compiere un salto in lungo di massimo 6 metri e uno in alto di massimo 3 metri, con o senza rincorsa. 400 System Reference Document 5.2.1
+Il rospo può compiere un salto in lungo di massimo 6 metri e uno in alto di massimo 3 metri, con o senza rincorsa.
 
 ### Azioni
 
