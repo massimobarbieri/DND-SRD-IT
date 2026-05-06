@@ -1855,10 +1855,7 @@ Ogni volta che il cumulo strisciante subisce danni da fulmine, recupera un numer
 ### Azioni
 
 **Multiattacco**  
-Il cumulo strisciante effettua tre attacchi
-
-**Radice elettrificata**  
-Può sostituire un attacco con un utilizzo di Avviluppare.
+Il cumulo strisciante effettua tre attacchi. Può sostituire un attacco con un utilizzo di Avviluppare.
 
 **Radice elettrificata**  
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni contundenti più 5 (2d4) danni da fulmine. Se il bersaglio è una creatura di taglia Media o inferiore, il cumulo strisciante lo tira in linea retta verso di sé per 1,5 metri.
@@ -1897,7 +1894,7 @@ Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore entro 1,
 
 **abilita:** Intuizione +9, Percezione +9  
 **resistenze:** radioso  
-**immunita_danni:** affascinato, indebolimento, spaventato  
+**immunita_condizioni:** affascinato, indebolimento, spaventato  
 **sensi:** Percezione passiva 19; scurovisione 36 m  
 **lingue:** tutte; telepatia 36 m  
 **grado_sfida:** 10  
@@ -2464,7 +2461,7 @@ A volontà: individuazione del bene e del male, individuazione del magico
 - carisma: +2
 
 **abilita:** Inganno +6, Intuizione +3  
-**immunita_danni:** affascinato  
+**immunita_condizioni:** affascinato  
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più altre tre lingue  
 **grado_sfida:** 3  
