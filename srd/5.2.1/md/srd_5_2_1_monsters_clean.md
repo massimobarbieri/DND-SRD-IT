@@ -17907,7 +17907,9 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 33 (4d12 + 7) danni perf
 
 ## Topo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -17947,16 +17949,15 @@ Il topo non provoca attacchi di opportunità quando esce dalla portata di un nem
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Topo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17996,10 +17997,7 @@ Il topo dispone di vantaggio a un tiro per colpire contro una creatura se almeno
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 5 (1d4 + 3) danni perforanti**  
-405 System Reference Document 5.2.1
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perforanti.
 
 ---
 
