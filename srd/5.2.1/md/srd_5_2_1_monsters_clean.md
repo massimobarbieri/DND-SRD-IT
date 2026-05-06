@@ -14214,7 +14214,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 
 ## Cavallo da galoppo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande 
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -14248,16 +14250,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 7 (1d8 + 3) danni contundenti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni contundenti.
 
 ---
 
 ## Cavallo da guerra
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -14291,16 +14292,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (2d4 + 4) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore e il cavallo si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 5 (2d4) danni contundenti extra e cade a terra prono.
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore e il cavallo si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 5 (2d4) danni contundenti extra e cade a terra prono.
 
 ---
 
 ## Cavallo da tiro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14334,16 +14334,15 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e il cavallo si è 
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +6, portata 1,5 m
-
-**Colpito: 6 (1d4 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni contundenti.
 
 ---
 
 ## Cavalluccio marino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14389,7 +14388,9 @@ Finché è sott'acqua, il cavalluccio marino può muoversi fino alla sua velocit
 
 ## Cavalluccio marino gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
