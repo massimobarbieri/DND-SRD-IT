@@ -13313,7 +13313,8 @@ Tiro salvezza su Costituzione: CD 13, una creatura entro 1,5 metri. Fallimento: 
 
 ## Worg
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -13348,7 +13349,7 @@ Tiro salvezza su Costituzione: CD 13, una creatura entro 1,5 metri. Fallimento: 
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti, e il tiro per colpire successivo effettuato contro il bersaglio prima dell'inizio del turno successivo del worg dispone di vantaggio. Wraith
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti, e il tiro per colpire successivo effettuato contro il bersaglio prima dell'inizio del turno successivo del worg dispone di vantaggio.
 
 ---
 
