@@ -16755,7 +16755,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 5 (1d4 + 3) danni perfor
 
 ## Rana
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16798,16 +16800,15 @@ La rana può compiere un salto in lungo di un massimo di 3 metri e uno in alto d
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Rana gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16850,10 +16851,7 @@ La rana può compiere un salto in lungo di un massimo di 6 metri e uno in alto d
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 5 (1d6 + 2) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire).
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire).
 
 **Inghiottire**  
 La rana inghiotte un bersaglio di taglia Piccola o inferiore che sta afferrando. La creatura inghiottita non è afferrata, ma è accecata e trattenuta, e beneficia di copertura totale contro attacchi e altri effetti al di fuori della rana. Mentre inghiotte il bersaglio, la rana non può usare Morso; se la rana muore, il bersaglio inghiottito non è più trattenuto e può fuggire dal cadavere usando 1,5 metri di movimento, uscendo prono. Alla fine del turno successivo della rana, il bersaglio inghiottito subisce 5 (2d4) danni da acido. Se i danni non uccidono il bersaglio, la rana lo vomita, facendolo uscire prono.
