@@ -13087,7 +13087,8 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ## Verme purpureo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Mastodontica
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 18  
@@ -13111,7 +13112,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno tagliente.
 - saggezza: +4
 - carisma: -3
 
-**sensi:** Percezione passiva 9; percezione tellurica 18 m,  
+**sensi:** Percezione passiva 9; percezione tellurica 18 m, vista cieca 9 m
 **lingue:** nessuna  
 **grado_sfida:** 15  
 **punti_esperienza:** PE 13.000  
@@ -13129,10 +13130,7 @@ Il verme può scavare attraverso la roccia solida a metà della sua velocità di
 Il verme effettua un attacco Morso e un attacco Pungiglione caudale.
 
 **Morso**  
-Tiro per colpire in mischia: +14, portata 3 m.
-
-**Colpito: 22 (3d8 + 9) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 19 per sfuggire), ed è trattenuto finché la presa perdura.
+Tiro per colpire in mischia: +14, portata 3 m. Colpito: 22 (3d8 + 9) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 19 per sfuggire), ed è trattenuto finché la presa perdura.
 
 **Pungiglione caudale**  
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 16 (2d6 + 9) danni perforanti più 35 (10d6) danni da veleno.
@@ -13140,8 +13138,7 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 16 (2d6 + 9) danni perfo
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal verme (può inghiottire fino a tre creature alla volta). Fallimento: il bersaglio viene inghiottito dal verme, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del verme, e subisce 17 (5d6) danni da acido all'inizio di ogni turno del verme. Se il verme subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 21 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal verme. Se il verme muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona. 382 System Reference Document 5.2.1 Viverna
-
+Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal verme (può inghiottire fino a tre creature alla volta). Fallimento: il bersaglio viene inghiottito dal verme, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del verme, e subisce 17 (5d6) danni da acido all'inizio di ogni turno del verme. Se il verme subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 21 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal verme. Se il verme muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona.
 ---
 
 ## Viverna
