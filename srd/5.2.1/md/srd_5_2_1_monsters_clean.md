@@ -17560,7 +17560,9 @@ Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i pu
 
 ## Squalo tropicale
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17590,7 +17592,7 @@ Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i pu
 **grado_sfida:** 1/2  
 **punti_esperienza:** PE 100  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 1/2 (PE 100; BC +2) 403 System Reference Document 5.2.1  
+**grado_sfida_raw:** 1/2 (PE 100; BC +2)
 
 ### Tratti
 
@@ -17603,10 +17605,7 @@ Lo squalo può respirare soltanto sott'acqua.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (2d4 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perforanti.
 
 ---
 
