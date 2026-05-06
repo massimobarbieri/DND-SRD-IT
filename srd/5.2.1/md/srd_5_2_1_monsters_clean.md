@@ -14534,7 +14534,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni perf
 
 ## Coccodrillo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14574,16 +14576,15 @@ Il coccodrillo può trattenere il respiro per 1 ora.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 6 (1d8 + 2) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire). Mentre è afferrato, il bersaglio è anche trattenuto.
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire). Mentre è afferrato, il bersaglio è anche trattenuto.
 
 ---
 
 ## Coccodrillo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -14626,16 +14627,10 @@ Il coccodrillo può trattenere il respiro per 1 ora.
 Il coccodrillo effettua un attacco Morso e un attacco Coda.
 
 **Coda**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 18 (3d8 + 5) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 18 (3d8 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Morso**  
-Tiro per colpire in mischia: +8, portata 1,5 m.
-
-**Colpito: 21 (3d10 + 5) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 15 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del coccodrillo.
+Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 15 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del coccodrillo.
 
 ---
 
