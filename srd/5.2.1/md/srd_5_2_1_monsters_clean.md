@@ -16512,7 +16512,9 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni perfor
 
 ## Pony
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -16546,10 +16548,7 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni perfor
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni contundenti**  
-398 System Reference Document 5.2.1
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contundenti.
 
 ---
 
