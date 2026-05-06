@@ -6581,7 +6581,7 @@ Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli 
 
 **abilita:** Arcano +8, Atletica +14, Percezione +10, Storia +8
 **resistenze:** freddo
-**immunità_danni:** fulmine, tuono
+**immunita_danni:** fulmine, tuono
 **sensi:** Percezione passiva 20; scurovisione 36 m, vista pura 9 m
 **lingue:** Comune, Gigante
 **grado_sfida:** 13
