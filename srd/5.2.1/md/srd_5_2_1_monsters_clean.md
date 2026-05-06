@@ -13355,7 +13355,8 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 
 ## Wraith
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -13379,9 +13380,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 - saggezza: +2
 - carisma: +2
 
-**resistenze:** acido, contundente, freddo, fuoco, perforante,  
+**resistenze:** acido, contundente, freddo, fuoco, perforante, tagliente
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 12; scurovisione 18 m  
 **lingue:** Comune più altre due lingue  
 **grado_sfida:** 5  
@@ -13403,7 +13404,7 @@ Finché è esposto alla luce del sole, il wraith subisce svantaggio alle prove d
 Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 21 (4d8 + 3) danni necrotici. Se il bersaglio è una creatura, i suoi punti ferita massimi sono ridotti di una quantità pari ai danni subiti.
 
 **Creare spettro**  
-Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che non abbia perso la vita da più di 1 minuto. Lo spirito del bersaglio si anima come spettro nello spazio del suo cadavere o nello spazio libero più vicino. Lo spettro è sotto il controllo del wraith. Il wraith non può controllare più di sette spettri simultaneamente. Xorn
+Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che non abbia perso la vita da più di 1 minuto. Lo spirito del bersaglio si anima come spettro nello spazio del suo cadavere o nello spazio libero più vicino. Lo spettro è sotto il controllo del wraith. Il wraith non può controllare più di sette spettri simultaneamente.
 
 ---
 
