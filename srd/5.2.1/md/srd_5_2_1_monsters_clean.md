@@ -14128,7 +14128,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contu
 
 ## Capra
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14169,7 +14171,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno contundente, o 
 
 ## Capra gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
