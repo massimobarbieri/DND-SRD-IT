@@ -14032,7 +14032,11 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 
 ## Banco di piranha
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14057,7 +14061,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 8; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
