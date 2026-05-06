@@ -14786,7 +14786,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante.
 
 ## Daino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14832,7 +14834,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contunden
 
 ## Elefante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
