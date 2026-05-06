@@ -15897,7 +15897,9 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni perfo
 
 ## Millepiedi gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -15937,7 +15939,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 4 (1d4 + 2) danni perfor
 
 ## Mulo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -15976,10 +15980,7 @@ Per determinare la sua capacità di carico, il mulo è considerato come se fosse
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contundenti.
 
 ---
 
