@@ -15410,8 +15410,9 @@ Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utiliz
 
 ## Iena
 
-**gruppo:** duazione del magico  
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -15441,7 +15442,7 @@ Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utiliz
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 0 (PE 10; BC +2) 393 System Reference Document 5.2.1  
+**grado_sfida_raw:** 0 (PE 10; BC +2) 
 
 ### Tratti
 
@@ -15451,16 +15452,15 @@ La iena dispone di vantaggio a un tiro per colpire contro una creatura se almeno
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 3 (1d6) danni perforanti**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 3 (1d6) danni perforanti.
 
 ---
 
 ## Iena gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15495,10 +15495,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 10 (2d6 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni perforanti.
 
 ### Azioni bonus
 
