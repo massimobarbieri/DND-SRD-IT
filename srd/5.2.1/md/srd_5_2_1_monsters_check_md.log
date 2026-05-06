@@ -2,22 +2,22 @@
 [DONE][WARN] Ameba paglierina — lista_con_separatore_finale: immunita_condizione: affascinato, afferrato,
 [DONE][WARN] Behir — artefatti_pagina_pdf: 298 System Reference Document 5.2.1
 [DONE][WARN] Cacciatore invisibile — voce_duplicata_nella_sezione: azioni: Colpo di vento x2
-- [WARN] Cane della morte — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
-- [WARN] Cavaliere — immunita_danni_contiene_condizioni: spaventato
-- [WARN] Cinghiale mannaro — artefatti_pagina_pdf: 303 System Reference Document 5.2.1
-- [WARN] Coccatrice — immunita_danni_contiene_condizioni: pietrificato
+[DONE][WARN] Cane della morte — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+[DONE][WARN] Cavaliere — immunita_danni_contiene_condizioni: spaventato
+[DONE][WARN] Cinghiale mannaro — artefatti_pagina_pdf: 303 System Reference Document 5.2.1
+[DONE][WARN] Coccatrice — immunita_danni_contiene_condizioni: pietrificato
 - [WARN] Couatl — immunita_danni_contiene_condizioni: psichico, radioso
 - [WARN] Couatl — artefatti_pagina_pdf: 304 System Reference Document 5.2.1
 - [WARN] Cultista fanatico — artefatti_pagina_pdf: 305 System Reference Document 5.2.1
 - [WARN] Cumulo strisciante — voce_duplicata_nella_sezione: azioni: Radice elettrificata x2
 - [WARN] Deva — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
 - [WARN] Doppelganger — immunita_danni_contiene_condizioni: affascinato
-- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Multiattacco x2
-- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Squarcio x2
-- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Incantesimi x2
-- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Soffio di fulmini (ricarica 5-6) x2
-- [WARN] Drago nero antico — artefatti_pagina_pdf: 325 System Reference Document 5.2.1
-- [WARN] Driade — artefatti_pagina_pdf: 329 System Reference Document 5.2.1
+[DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Multiattacco x2
+[DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Squarcio x2
+[DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Incantesimi x2
+[DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Soffio di fulmini (ricarica 5-6) x2
+[DONE][WARN] Drago nero antico — artefatti_pagina_pdf: 325 System Reference Document 5.2.1
+[DONE][DONE][WARN] Driade — artefatti_pagina_pdf: 329 System Reference Document 5.2.1
 - [INFO] Elementale dell'acqua — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
 - [INFO] Elementale dell'aria — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
 - [WARN] Fantasma — lista_con_separatore_finale: resistenze: acido, contundente, freddo, fulmine, fuoco,
@@ -29,7 +29,7 @@
 - [WARN] Manto assassino — immunita_danni_contiene_condizioni: spaventato
 - [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
 - [WARN] Melma Grigia — immunita_danni_contiene_condizioni: accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
-- [WARN] Naga spirituale — artefatti_pagina_pdf: 360 System Reference Document 5.2.1
+[DONE][WARN] Naga spirituale — artefatti_pagina_pdf: 360 System Reference Document 5.2.1
 - [WARN] Planetar — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
 - [WARN] Rakshasa — immunita_danni_contiene_condizioni: affascinato, spaventato
 - [WARN] Sfinge della conoscenza — lista_con_separatore_finale: abilita: Arcano +12, Percezione +8, Religione +12,
@@ -39,7 +39,7 @@
 - [WARN] Colonia di serpenti velenosi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 - [WARN] Colonia di topi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 - [INFO] Sciame di pipistrelli — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
-- [WARN] Serpente velenoso — artefatti_pagina_pdf: 402 System Reference Document 5.2.1
+[DONE][WARN] Serpente velenoso — artefatti_pagina_pdf: 402 System Reference Document 5.2.1
 - [WARN] Stormo di corvi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 
 

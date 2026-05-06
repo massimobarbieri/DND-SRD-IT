@@ -1111,7 +1111,7 @@ Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore 
 - carisma: -2
 
 **abilita:** Furtività +4, Percezione +5  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito 
+**immunita_condizioni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito 
 **sensi:** Percezione passiva 15; scurovisione 36 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -1204,7 +1204,7 @@ Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che 
 - carisma: +2
 
 **attrezzatura:** armatura a piastre, balestra pesante, spadone  
-**immunita_danni:** spaventato  
+**immunita_condizioni:** spaventato  
 **sensi:** Percezione passiva 10  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
@@ -1585,7 +1585,7 @@ Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Co
 - saggezza: +1
 - carisma: -3
 
-**immunita_danni:** pietrificato  
+**immunita_condizioni:** pietrificato  
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -2886,20 +2886,6 @@ Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materi
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 60 (11d10) danni da fulmine. Successo: danni dimezzati.
-
-**Multiattacco**  
-Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utilizzo di Incantesimi per lanciare frantumare (di 3º livello).
-
-**Squarcio**  
-Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 11 (2d10) danni da fulmine.
-
-**Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22): 
-**1/giorno ciascuno:** Inviare, scrutare 
-**A volontà:** frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
-
-**Soffio di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 88 (16d10) danni da fulmine. Successo: danni dimezzati.
 
 ### Azioni leggendarie
 
