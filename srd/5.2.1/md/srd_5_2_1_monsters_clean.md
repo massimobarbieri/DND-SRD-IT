@@ -13888,7 +13888,9 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 14 (3d6 + 4) danni perf
 
 ## Avvoltoio
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -13928,16 +13930,15 @@ L'avvoltoio dispone di vantaggio a un tiro per colpire contro una creatura se al
 ### Azioni
 
 **Becco**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 2 (1d4) danni perforanti**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni perforanti.
 
 ---
 
 ## Avvoltoio gigante
 
-**tipo:** Mostruosità  
+**gruppo:** Animali
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 10  
