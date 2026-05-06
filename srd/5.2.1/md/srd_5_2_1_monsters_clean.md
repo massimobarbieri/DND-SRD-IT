@@ -12108,7 +12108,8 @@ La spia effettua l'azione di Disimpegno, Nascondersi o Scatto.
 
 ## Spiritello
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Minuscolo
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 15  
