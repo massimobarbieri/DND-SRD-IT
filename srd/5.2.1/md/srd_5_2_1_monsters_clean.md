@@ -1073,10 +1073,7 @@ Il cacciatore è invisibile.
 ### Azioni
 
 **Multiattacco**  
-Il cacciatore invisibile effettua tre attacchi
-
-**Colpo di vento**  
-Può sostituire un attacco con un utilizzo di Vortice.
+Il cacciatore invisibile effettua tre attacchi. Può sostituire un attacco con un utilizzo di Vortice.
 
 **Colpo di vento**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni da forza.

@@ -1,7 +1,7 @@
 [DONE][WARN] Ameba paglierina — immunita_danni_contiene_condizioni: fulmine, tagliente, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
-- [WARN] Ameba paglierina — lista_con_separatore_finale: immunita_condizione: affascinato, afferrato,
-- [WARN] Behir — artefatti_pagina_pdf: 298 System Reference Document 5.2.1
-- [WARN] Cacciatore invisibile — voce_duplicata_nella_sezione: azioni: Colpo di vento x2
+[DONE][WARN] Ameba paglierina — lista_con_separatore_finale: immunita_condizione: affascinato, afferrato,
+[DONE][WARN] Behir — artefatti_pagina_pdf: 298 System Reference Document 5.2.1
+[DONE][WARN] Cacciatore invisibile — voce_duplicata_nella_sezione: azioni: Colpo di vento x2
 - [WARN] Cane della morte — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 - [WARN] Cavaliere — immunita_danni_contiene_condizioni: spaventato
 - [WARN] Cinghiale mannaro — artefatti_pagina_pdf: 303 System Reference Document 5.2.1
