@@ -17858,7 +17858,9 @@ La tigre effettua l'azione di Disimpegno o Nascondersi.
 
 ## Tirannosauro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17896,16 +17898,10 @@ La tigre effettua l'azione di Disimpegno o Nascondersi.
 Il tirannosauro effettua un attacco Morso e un attacco Coda.
 
 **Coda**  
-Tiro per colpire in mischia: +10, portata 4,5 m.
-
-**Colpito: 25 (4d8 + 7) danni contundenti**  
-Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +10, portata 4,5 m. Colpito: 25 (4d8 + 7) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
 
 **Morso**  
-Tiro per colpire in mischia: +10, portata 3 m.
-
-**Colpito: 33 (4d12 + 7) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 17 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del tirannosauro.
+Tiro per colpire in mischia: +10, portata 3 m. Colpito: 33 (4d12 + 7) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 17 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del tirannosauro.
 
 ---
 
