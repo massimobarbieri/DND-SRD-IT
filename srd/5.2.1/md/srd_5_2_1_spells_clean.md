@@ -7401,17 +7401,23 @@ I danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
 
 L'incantatore genera una meraviglia minore entro gittata, oltre a uno degli effetti elencati di seguito. Se l'incantatore lancia questo incantesimo più volte, può tenere attivi contemporaneamente fino a tre dei suoi effetti dalla durata di 1 minuto.
 
-Mano invisibile. L'incantatore fa in modo che una porta o una finestra non chiusa a chiave si spalanchi o si chiuda di colpo da sola.
+**Mano invisibile**
+L'incantatore fa in modo che una porta o una finestra non chiusa a chiave si spalanchi o si chiuda di colpo da sola.
 
-Occhi alterati. L'incantatore altera l'aspetto dei suoi occhi per 1 minuto.
+**Occhi alterati**
+L'incantatore altera l'aspetto dei suoi occhi per 1 minuto.
 
-Suono spettrale. L'incantatore crea un suono improvviso che ha origine da un punto entro gittata a sua scelta, come un rombo di tuono, il verso di un corvo o un mormorio sinistro.
+**Suono spettrale**
+L'incantatore crea un suono improvviso che ha origine da un punto entro gittata a sua scelta, come un rombo di tuono, il verso di un corvo o un mormorio sinistro.
 
-Tremiti. L'incantatore genera un tremito innocuo sul terreno per 1 minuto.
+**Tremiti**
+L'incantatore genera un tremito innocuo sul terreno per 1 minuto.
 
-Trucchetto col fuoco. L'incantatore fa in modo che una fiamma tremi, si intensifichi, si affievolisca o cambi colore per 1 minuto.
+**Trucchetto col fuoco**
+L'incantatore fa in modo che una fiamma tremi, si intensifichi, si affievolisca o cambi colore per 1 minuto.
 
-Voce tonante. La voce dell'incantatore rimbomba con potenza tre volte superiore rispetto al normale per 1 minuto. Per la durata dell'incantesimo, dispone di vantaggio alle prove di Carisma (Intimidire).
+**Voce tonante**
+La voce dell'incantatore rimbomba con potenza tre volte superiore rispetto al normale per 1 minuto. Per la durata dell'incantesimo, dispone di vantaggio alle prove di Carisma (Intimidire).
 
 ## Telecinesi
 
@@ -7431,12 +7437,12 @@ Voce tonante. La voce dell'incantatore rimbomba con potenza tre volte superiore 
 
 L'incantatore ottiene la capacità di spostare o manipolare creature e oggetti con la forza del pensiero. Al lancio e come sua azione di Magia ogni turno successivo prima del termine dell'incantesimo, l'incantatore può esercitare la propria volontà su una creatura o un oggetto entro gittata che egli è in grado di vedere, provocando l'effetto appropriato descritto di seguito. L'incantatore può influenzare lo stesso bersaglio in ogni round o sceglierne uno nuovo in ogni momento. Se cambia bersaglio, quello precedente non risentirà più degli effetti dell'incantesimo.
 
-Creatura. L'incantatore può provare a spostare una creatura di taglia Enorme o inferiore. Il bersaglio deve superare un tiro salvezza su Forza, altrimenti verrà spostato dall'incantatore di massimo 9 metri in una direzione entro la gittata dell'incantesimo. Fino alla fine del suo turno successivo, la creatura è trattenuta e, se alzata a mezz'aria, rimarrà sospesa lì. Cadrà al termine del turno successivo dell'incantatore, a meno che non utilizzi di nuovo questa opzione su di essa e fallisca il tiro salvezza.
+**Creatura**
+L'incantatore può provare a spostare una creatura di taglia Enorme o inferiore. Il bersaglio deve superare un tiro salvezza su Forza, altrimenti verrà spostato dall'incantatore di massimo 9 metri in una direzione entro la gittata dell'incantesimo. Fino alla fine del suo turno successivo, la creatura è trattenuta e, se alzata a mezz'aria, rimarrà sospesa lì. Cadrà al termine del turno successivo dell'incantatore, a meno che non utilizzi di nuovo questa opzione su di essa e fallisca il tiro salvezza.
 
-Oggetto. L'incantatore può provare a spostare un oggetto di taglia Enorme o inferiore. Se esso non è indossato o trasportato, lo sposta automaticamente fino a 9 metri in qualsiasi direzione entro la gittata dell'incantesimo.
-
+**Oggetto**
+L'incantatore può provare a spostare un oggetto di taglia Enorme o inferiore. Se esso non è indossato o trasportato, lo sposta automaticamente fino a 9 metri in qualsiasi direzione entro la gittata dell'incantesimo.
 Se l'oggetto è indossato o trasportato da una creatura, quest'ultima deve superare un tiro salvezza su Forza, altrimenti l'incantatore lo tirerà via e lo sposterà fino a 9 metri in qualsiasi direzione entro la gittata dell'incantesimo.
-
 Con la sua presa telecinetica, l'incantatore può esercitare un controllo più preciso sugli oggetti, come manipolare uno strumento semplice.
 
 ## Teletrasporto
@@ -7457,16 +7463,9 @@ Con la sua presa telecinetica, l'incantatore può esercitare un controllo più p
 
 Questo incantesimo teletrasporta immediatamente l'incantatore e un solo oggetto o un massimo di otto creature consenzienti, che si trovano entro gittata e che egli è in grado di vedere, fino a una destinazione a sua scelta. Se il bersaglio è un oggetto, deve essere di taglia Grande o inferiore e non può essere impugnato o trasportato da una creatura non consenziente.
 
-```text
-La destinazione scelta deve essere nota
-all'incantatore e deve trovarsi sul suo stesso piano
-di esistenza. La sua familiarità con la destinazione
-determina il successo del teletrasporto. Il GM tira
-1d100 e consulta la tabella Risultato del teletra-
-sporto e le spiegazioni successive.
-```
+La destinazione scelta deve essere nota all'incantatore e deve trovarsi sul suo stesso piano di esistenza. La sua familiarità con la destinazione determina il successo del teletrasporto. Il GM tira 1d100 e consulta la tabella Risultato del teletrasporto e le spiegazioni successive.
 
-Risultato del teletrasporto
+### Risultato del teletrasporto
 
 Area simile
 
@@ -7584,9 +7583,10 @@ Chicchi di grandine cadono in un cilindro del raggio di 6 metri e alto 12 metri,
 
 La grandine trasforma l'area all'interno del cilindro in terreno difficile fino al termine del turno successivo dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni contundenti aumentano di 1d10 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni contundenti aumentano di 1d10 per ogni slot di livello superiore al 4º.
 
 ## Tempesta di nevischio
 
@@ -7678,10 +7678,13 @@ L'incantatore sceglie un punto del terreno entro gittata che egli è in grado di
 
 Quando l'incantatore lancia questo incantesimo, e alla fine di ogni suo turno per tutta la durata, ogni creatura sul terreno nell'area effettua un tiro salvezza su Destrezza. In caso di fallimento, la creatura cade prona e la sua concentrazione viene interrotta.
 
-L'incantatore può anche causare i seguenti effetti. Crepe. Un totale di 1d6 crepe si apre nell'area dell'incantesimo alla fine del turno in cui viene lanciato. L'incantatore sceglie i punti in cui si aprono le crepe, che non possono trovarsi al di sotto di strutture. Ognuna di esse è profonda 1d10 × 3 metri, ampia 3 metri e si estende da un lato all'altro dell'area dell'incantesimo. Se una creatura si trova nel punto i cui si apre una crepa, deve superare un tiro salvezza su Destrezza o vi cade dentro. Una creatura che supera il tiro salvezza riesce a spostarsi insieme al bordo della crepa mentre si apre.
+L'incantatore può anche causare i seguenti effetti. 
 
-Strutture. La scossa infligge 50 danni contundenti a una qualsiasi struttura a contatto con il terreno nell'area in cui è stato lanciato l'incantesimo e alla fine di ogni turno dell'incantatore fino al termine dell'incantesimo. Se la struttura scende a 0 punti ferita, crolla.
+**Crepe**
+Un totale di 1d6 crepe si apre nell'area dell'incantesimo alla fine del turno in cui viene lanciato. L'incantatore sceglie i punti in cui si aprono le crepe, che non possono trovarsi al di sotto di strutture. Ognuna di esse è profonda 1d10 × 3 metri, ampia 3 metri e si estende da un lato all'altro dell'area dell'incantesimo. Se una creatura si trova nel punto i cui si apre una crepa, deve superare un tiro salvezza su Destrezza o vi cade dentro. Una creatura che supera il tiro salvezza riesce a spostarsi insieme al bordo della crepa mentre si apre.
 
+**Strutture**
+La scossa infligge 50 danni contundenti a una qualsiasi struttura a contatto con il terreno nell'area in cui è stato lanciato l'incantesimo e alla fine di ogni turno dell'incantatore fino al termine dell'incantesimo. Se la struttura scende a 0 punti ferita, crolla.
 Una creatura situata entro una distanza da una struttura in disfacimento pari alla metà dell'altezza della struttura stessa effettua un tiro salvezza su Destrezza. Se fallisce, subisce 12d6 danni contundenti, viene buttata a terra prona e rimane sepolta sotto le macerie; per liberarsi con un'azione deve effettuare una prova di Forza (Atletica) con CD 20. In caso di successo, subisce soltanto la metà di quei danni.
 
 ## Terreno illusorio
@@ -7724,9 +7727,10 @@ Il tocco della mano dell'incantatore, avviluppata in una cortina d'ombra, può r
 
 Fino al termine dell'incantesimo, come azione di Magia, l'incantatore può effettuare di nuovo l'attacco a ogni suo turno, prendendo di mira la stessa creatura o un'altra.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 3º.
 
 ## Tocco gelido
 
@@ -7746,9 +7750,10 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 
 
 Incanalando un flusso di gelo sepolcrale, l'incantatore effettua un attacco con incantesimo in mischia contro un bersaglio a portata. Se il colpo va a segno, il bersaglio subisce 1d10 danni necrotici e non può recuperare punti ferita fino al termine del turno successivo dell'incantatore.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d10 quando l'incantatore raggiunge il 5º livello (2d10), l'11º livello (3d10) e il 17º livello (4d10).
+**Trucchetto potenziato**
+I danni aumentano di 1d10 quando l'incantatore raggiunge il 5º livello (2d10), l'11º livello (3d10) e il 17º livello (4d10).
 
 ## Trama ipnotica
 
@@ -7858,16 +7863,15 @@ Combattimento. La cavalcatura diventa un alleato per l'incantatore e i suoi alle
 
 Scomparsa della cavalcatura. La cavalcatura scompare quando scende a 0 punti ferita o se l'incantatore muore. Quando scompare, nello spazio che occupava in precedenza lascia qualsiasi oggetto stesse indossando o trasportando. Lanciando nuovamente l'incantesimo, l'incantatore può scegliere se evocare la cavalcatura scomparsa o una diversa.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
 
 ### Cavalcatura ultraterrena
 
 **tipo_blocco:** creatura_evocata  
-
 **nome:** Cavalcatura ultraterrena  
-
 **taglia:** Grande  
 **tipo:** Celestiale, folletto o immondo (a scelta)  
 **allineamento:** allineamento del tipo scelto  
@@ -7897,22 +7901,26 @@ Utilizzo di uno slot incantesimo di livello superiore. Usa il livello dello slot
 **lingue:** telepatia 1,5 km (funziona solo con l'incantatore) GS nessuno (PE 0; BC pari al bonus di competenza del personaggio)  
 **grado_sfida:** null  
 
-**Tratti**
+#### Tratti
 
-*Legame vitale*. Quando l'incantatore recupera punti ferita grazie a un incantesimo di 1º livello o superiore, la cavalcatura recupera la stessa quantità di punti ferita se l'incantatore si trova entro 1,5 metri da essa.
+**Legame vitale**
+Quando l'incantatore recupera punti ferita grazie a un incantesimo di 1º livello o superiore, la cavalcatura recupera la stessa quantità di punti ferita se l'incantatore si trova entro 1,5 metri da essa.
 
-**Azioni**
+#### Azioni
 
-*Schianto ultraterreno*. Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'incantesimo del personaggio, portata di 1,5 m Colpito: 1d8 più il livello dell'incantesimo danni radiosi (celestiale), danni psichici (folletto) o danni necrotici (immondo).
+**Schianto ultraterreno**
+Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'incantesimo del personaggio, portata di 1,5 m Colpito: 1d8 più il livello dell'incantesimo danni radiosi (celestiale), danni psichici (folletto) o danni necrotici (immondo).
 
-**Azioni bonus**
+#### Azioni bonus
 
-*Passo fatato* (solo folletto; ricarica dopo un riposo lungo). La cavalcatura si teletrasporta, insieme al suo cavaliere, in un uno spazio libero a scelta del personaggio situato a 18 metri da sé.
+**Passo fatato (solo folletto; ricarica dopo un riposo lungo)**
+La cavalcatura si teletrasporta, insieme al suo cavaliere, in un uno spazio libero a scelta del personaggio situato a 18 metri da sé.
 
-Sguardo letale (solo immondo; ricarica dopo un riposo lungo). Tiro salvezza su Saggezza: La CD è pari alla CD del tiro salvezza sull'incantesimo, una creatura entro 18 metri che la cavalcatura è in grado di vedere. Fallimento: Il bersaglio è spaventato fino al termine del turno successivo dell'incantantore.
+**Sguardo letale (solo immondo; ricarica dopo un riposo lungo)**
+Tiro salvezza su Saggezza: La CD è pari alla CD del tiro salvezza sull'incantesimo, una creatura entro 18 metri che la cavalcatura è in grado di vedere. Fallimento: Il bersaglio è spaventato fino al termine del turno successivo dell'incantantore.
 
-Tocco guaritore (solo celestiale; ricarica dopo un riposo lungo). Una creatura entro 1,5 metri dalla cavalcatura recupera un numero di punti ferita pari a 2d8 più il livello dell'incantesimo.
-
+**Tocco guaritore (solo celestiale; ricarica dopo un riposo lungo)**
+Una creatura entro 1,5 metri dalla cavalcatura recupera un numero di punti ferita pari a 2d8 più il livello dell'incantesimo.
 
 ## Trova famiglio
 
@@ -7932,15 +7940,18 @@ Tocco guaritore (solo celestiale; ricarica dopo un riposo lungo). Una creatura e
 
 L'incantatore ottiene i servigi di un famiglio, uno spirito che assume la forma di un animale a sua scelta: pipistrello, gatto, rana, falco, lucertola, piovra, gufo, ratto, corvo, ragno, faina o un'altra bestia che abbia un grado di sfida pari a 0. Il famiglio appare in uno spazio libero entro gittata, ha le statistiche della forma scelta (vedi "Mostri"), anche se si tratta di un celestiale, un folletto o un immondo (a scelta dell'incantatore) invece di una bestia. Il famiglio è indipendente dall'incantatore, ma obbedisce ai suoi comandi.
 
-Connessione telepatica. Finché il famiglio si trova a 30 metri dall'incantatore, quest'ultimo può comunicare con lui telepaticamente. Inoltre, come azione bonus, l'incantatore è in grado di vedere attraverso gli occhi del famiglio e sentire ciò che sente fino all'inizio del suo turno successivo, ottenendo i benefici di eventuali sensi speciali posseduti dal famiglio.
-
+**Connessione telepatica**
+Finché il famiglio si trova a 30 metri dall'incantatore, quest'ultimo può comunicare con lui telepaticamente. Inoltre, come azione bonus, l'incantatore è in grado di vedere attraverso gli occhi del famiglio e sentire ciò che sente fino all'inizio del suo turno successivo, ottenendo i benefici di eventuali sensi speciali posseduti dal famiglio.
 Infine, quando l'incantatore lancia un incantesimo con gittata a contatto, il suo famiglio può trasmettere il tocco. Il famiglio deve trovarsi entro 30 metri dall'incantatore e usare la sua reazione per trasmettere il tocco quando l'incantesimo viene lanciato.
 
-Combattimento. Il famiglio diventa un alleato per l'incantatore e i suoi alleati. Tira per la propria iniziativa e agisce nel proprio turno. Un famiglio non può attaccare, ma può effettuare altre azioni normalmente.
+**Combattimento**
+Il famiglio diventa un alleato per l'incantatore e i suoi alleati. Tira per la propria iniziativa e agisce nel proprio turno. Un famiglio non può attaccare, ma può effettuare altre azioni normalmente.
 
-Scomparsa del famiglio. Quando un famiglio scende a 0 punti ferita, scompare e riappare quando l'incantatore lancia nuovamente questo incantesimo. Come azione di Magia, l'incantatore può temporaneamente congedare il famiglio, che scompare in una sacca dimensionale. In alternativa, l'incantatore può farlo sparire per sempre. Come azione di Magia, finché il famiglio è congedato temporaneamente, l'incantatore può farlo ricomparire in uno spazio libero entro 9 metri da sé. Ogni volta che il famiglio scende a 0 punti ferita o scompare in una sacca dimensionale, nello spazio che occupava in precedenza lascia qualsiasi oggetto stesse indossando o trasportando.
+**Scomparsa del famiglio**
+Quando un famiglio scende a 0 punti ferita, scompare e riappare quando l'incantatore lancia nuovamente questo incantesimo. Come azione di Magia, l'incantatore può temporaneamente congedare il famiglio, che scompare in una sacca dimensionale. In alternativa, l'incantatore può farlo sparire per sempre. Come azione di Magia, finché il famiglio è congedato temporaneamente, l'incantatore può farlo ricomparire in uno spazio libero entro 9 metri da sé. Ogni volta che il famiglio scende a 0 punti ferita o scompare in una sacca dimensionale, nello spazio che occupava in precedenza lascia qualsiasi oggetto stesse indossando o trasportando.
 
-Un solo famiglio. Un incantatore non può avere più di un famiglio alla volta. Se lancia questo incantesimo mentre è già presente un famiglio, l'incantatore gli impartisce un'altra forma possibile.
+**Un solo famiglio**
+Un incantatore non può avere più di un famiglio alla volta. Se lancia questo incantesimo mentre è già presente un famiglio, l'incantatore gli impartisce un'altra forma possibile.
 
 ## Trucco della corda
 
@@ -8066,27 +8077,22 @@ Quando lancia questo incantesimo, l'incantatore può specificare quali individui
 
 L'incantesimo crea gli effetti illustrati di seguito all'interno dell'area protetta. Dissolvi magie non ha effetti su vigilanza e interdizione, ma ciascuno dei seguenti effetti può essere dissolto. Se tutti e quattro vengono dissolti, vigilanza e interdizione termina. Se l'incantatore lancia l'incantesimo ogni giorno per 365 giorni sulla stessa area, esso permane finché tutti i suoi effetti non vengono dissolti.
 
-Corridoi. Tutti i corridoi protetti si riempiono di nebbia e diventano pesantemente oscurati. Inoltre, a ogni incrocio o diramazione che richieda di scegliere una direzione, una creatura diversa dall'incantatore ha una probabilità del 50% di credere di andare in una direzione differente da quella che ha scelto.
+**Corridoi**
+Tutti i corridoi protetti si riempiono di nebbia e diventano pesantemente oscurati. Inoltre, a ogni incrocio o diramazione che richieda di scegliere una direzione, una creatura diversa dall'incantatore ha una probabilità del 50% di credere di andare in una direzione differente da quella che ha scelto.
 
-Porte. Tutte le porte nell'area protetta vengono chiuse a chiave magicamente, come sigillate dall'incantesimo serratura arcana. Inoltre, l'incantatore può coprire fino a dieci porte con un'illusione per farle apparire come normali sezioni di parete.
+**Porte**
+Tutte le porte nell'area protetta vengono chiuse a chiave magicamente, come sigillate dall'incantesimo serratura arcana. Inoltre, l'incantatore può coprire fino a dieci porte con un'illusione per farle apparire come normali sezioni di parete.
 
-Scale. Tutte le scale nell'area protetta si riempiono da cima a fondo di ragnatele, come succederebbe lanciando l'incantesimo ragnatela. Per la durata dell'incantesimo vigilanza e interdizione, i fili di queste ragnatele si riformano in 10 minuti se queste vengono distrutte.
+**Scale**
+Tutte le scale nell'area protetta si riempiono da cima a fondo di ragnatele, come succederebbe lanciando l'incantesimo ragnatela. Per la durata dell'incantesimo vigilanza e interdizione, i fili di queste ragnatele si riformano in 10 minuti se queste vengono distrutte.
 
 Altri effetti dell'incantesimo. L'incantatore posiziona uno dei seguenti effetti magici all'interno dell'area protetta:
 
-- Luci danzanti in quattro corridoi, specificando
-
-- anche un semplice schema che le luci ripetono per la durata di vigilanza e interdizione.
-- Bocca magica in due luoghi.
-- Nube maleodorante in due luoghi (il vapore riap-
-
-- pare nel giro di 10 minuti se disperso fintantoché vigilanza e interdizione permane).
-- Folata di vento in un corridoio o una stanza
-
-- (il vento soffia ininterrottamente per la durata dell'incantesimo).
-- Suggestione in un'area quadrata con lato di
-
-1,5 metri. Qualsiasi creatura che entri nell'area riceve mentalmente la suggestione.
+- Luci danzanti in quattro corridoi, specificando anche un semplice schema che le luci ripetono per la durata di vigilanza e interdizione.
+- Blocca magica in due luoghi.
+- Nube maleodorante in due luoghi (il vapore riappare nel giro di 10 minuti se disperso fintantoché vigilanza e interdizione permane).
+- Folata di vento in un corridoio o una stanza (il vento soffia ininterrottamente per la durata dell'incantesimo).
+- Suggestione in un'area quadrata con lato di 1,5 metri. Qualsiasi creatura che entri nell'area riceve mentalmente la suggestione.
 
 ## Vincolo di interdizione
 
@@ -8144,9 +8150,10 @@ Per la durata dell'incantesimo, una creatura consenziente toccata dall'incantato
 
 L'incantatore ottiene 2d4 + 4 punti ferita temporanei.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore ottiene 5 punti ferita temporanei aggiuntivi per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore ottiene 5 punti ferita temporanei aggiuntivi per ogni slot di livello superiore al 1º.
 
 ## Volare
 
@@ -8166,9 +8173,10 @@ Utilizzo di uno slot incantesimo di livello superiore. L'incantatore ottiene 5 p
 
 L'incantatore tocca una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ottiene una velocità di volo di 18 metri e può fluttuare. Al termine dell'incantesimo, il bersaglio ancora sospeso in aria cade, sempre che non abbia modo di impedire la caduta.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 3º.
 
 ## Vuoto mentale
 
