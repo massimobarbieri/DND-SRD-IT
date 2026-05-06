@@ -17006,7 +17006,9 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno da fuoco.
 
 ## Sciacallo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17036,7 +17038,52 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno da fuoco.
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 0 (PE 10; BC +2)  
+**grado_sfida_raw:** 0 (PE 10; BC +2)
+
+### Azioni
+
+**Morso**  
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perforanti.
+
+## Sciame di insetti
+
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
+**allineamento:** senza allineamento 
+
+**classe_armatura:** 11
+**iniziativa:** +1 (11)  
+**punti_ferita:** 19 (3d8 + 6) 
+**velocita:** 6 m, scalata o volo 6 m (a scelta del GM)
+
+**caratteristiche:**
+- forza: 3 (-4)
+- destrezza: 13 (+1)
+- costituzione: 14 (+2)
+- intelligenza: 1 (-5)
+- saggezza: 7 (-2)
+- carisma: 1 (-5)
+
+**tiri_salvezza_base:**
+- forza: -4
+- destrezza: +1
+- costituzione: +2
+- intelligenza: -5
+- saggezza: -2
+- carisma: -5
+
+**resistenze:** contundente, perforante, tagliente 
+**immunità_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
+**sensi:** Percezione passiva 8; vista cieca 9 m
+**lingue:** nessuna  
+**grado_sfida:** 1/2
+**punti_esperienza:** PE 100
+**bonus_competenza:** +2  
+**grado_sfida_raw:** 1/2 (PE 100; BC +2)
+
 
 ### Tratti
 
@@ -17046,19 +17093,49 @@ Se lo sciame ha una velocità di scalata, può scalare le superfici difficili, c
 **Sciame**  
 Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura sufficientemente larga da far passare un insetto Minuscolo. L'orda non può recuperare punti ferita o ottenere punti ferita temporanei.
 
-**Sciame**  
-Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura sufficientemente larga da far passare un pipistrello di taglia Minuscola. L'orda non può recuperare punti ferita o ottenere punti ferita temporanei. 401 System Reference Document 5.2.1
-
 ### Azioni
 
-**Morso**  
-Tiro per colpire in mischia: +1, portata 1,5 m.
-
-**Colpito: 1 (1d4 - 1) danni perforanti**  
-Sciame di insetti Sciame Medio di bestie Minuscole, senza allineamento CA 11 Iniziativa +1 (11) PF 19 (3d8 + 6) Velocità 6 m, scalata o volo 6 m (a scelta del GM) MOD SALV MOD SALV MOD SALV For 3 -4 -4 Des 13 +1 +1 Cos 14 +2 +2 Int 1 -5 -5 Sag 7 -2 -2 Car 1 -5 -5 Resistenze contundente, perforante, tagliente Immunità affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto Sensi Percezione passiva 8; vista cieca 9 m Lingue nessuna GS 1/2 (PE 100; BC +2)
-
 **Morsi**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. Sciame di pipistrelli Sciame Grande di bestie Minuscole, senza allineamento CA 12 Iniziativa +2 (12) PF 11 (2d10) Velocità 1,5 m, volo 9 m MOD SALV MOD SALV MOD SALV For 5 -3 -3 Des 15 +2 +2 Cos 10 +0 +0 Int 2 -4 -4 Sag 12 +1 +1 Car 4 -3 -3 Resistenze contundente, perforante, tagliente Immunità affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto Sensi Percezione passiva 11; vista cieca 18 m Lingue nessuna GS 1/4 (PE 50; BC +2)
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. 
+
+## Sciame di pipistrelli
+
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Grande
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
+**allineamento:** senza allineamento 
+
+**classe_armatura:** 12
+**iniziativa:** +2 (12)
+**punti_ferita:** 11 (2d10)
+**velocita:** 1,5 m, volo 9 m
+
+**caratteristiche:**
+- forza: 5 (-3)
+- destrezza: 15 (+2)
+- costituzione: 10 (+0)
+- intelligenza: 2 (-4)
+- saggezza: 12 (+1)
+- carisma: 4 (-3)
+
+**tiri_salvezza_base:**
+- forza: -3
+- destrezza: +2
+- costituzione: +0
+- intelligenza: -4
+- saggezza: +1
+- carisma: -3
+
+**resistenze:** contundente, perforante, tagliente 
+**immunità_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
+**sensi:** Percezione passiva 11; vista cieca 18 m
+**lingue:** nessuna  
+**grado_sfida:** 1/4
+**punti_esperienza:** PE 50
+**bonus_competenza:** +2
+**grado_sfida_raw:** 1/4 (PE 50; BC +2)
 
 **Morsi**  
 Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (2d4) danni perforanti, o 2 (1d4) danni perforanti se lo sciame è sanguinante.
