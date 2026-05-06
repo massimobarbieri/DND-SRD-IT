@@ -12057,7 +12057,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici.
 
 ## Spia
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -12081,8 +12082,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici.
 - saggezza: +2
 - carisma: +3
 
-**abilita:** Furtività +6, Indagare +5, Inganno +5, Intuizione  
-**attrezzatura:** arnesi da scasso, balestra a mano, spada  
+**abilita:** Furtività +6, Indagare +5, Inganno +5, Intuizione +4, Percezione +6, Rapidità di Mano +4
+**attrezzatura:** arnesi da scasso, balestra a mano, spada corta
 **sensi:** Percezione passiva 16  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 1  
@@ -12101,10 +12102,7 @@ Tiro per colpire a distanza: +4, gittata 9/36 m. Colpito: 5 (1d6 + 2) danni perf
 ### Azioni bonus
 
 **Azione scaltra**  
-La spia effettua l'azione di Disimpegno,
-
-**Nascondersi o Scatto**  
-Spiritello
+La spia effettua l'azione di Disimpegno, Nascondersi o Scatto.
 
 ---
 
