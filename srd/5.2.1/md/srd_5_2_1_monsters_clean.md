@@ -17144,7 +17144,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (2d4) danni perforant
 
 ## Scorpione
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -17184,7 +17186,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m Colpito: 1 danno perforante più 
 
 ## Scorpione gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -17221,10 +17225,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m Colpito: 1 danno perforante più 
 Lo scorpione effettua due attacchi Artiglio e un attacco Pungiglione.
 
 **Artiglio**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 6 (1d6 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da una delle due chele.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da una delle due chele.
 
 **Pungiglione**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti più 11 (2d10) danni da veleno.
@@ -17233,7 +17234,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 
 ## Serpente stritolatore
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17268,10 +17271,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 6 (1d8 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perforanti.
 
 **Stritolare**  
 Tiro salvezza su Forza: CD 12, una creatura di taglia Media o inferiore che il serpente è in grado di vedere entro 1,5 metri. Fallimento: 7 (3d4) danni contundenti e il bersaglio viene afferrato (CD 12 per sfuggire).
@@ -17280,7 +17280,9 @@ Tiro salvezza su Forza: CD 12, una creatura di taglia Media o inferiore che il s
 
 ## Serpente stritolatore gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17318,10 +17320,7 @@ Tiro salvezza su Forza: CD 12, una creatura di taglia Media o inferiore che il s
 Il serpente effettua un attacco Morso e usa Stritolare.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti.
 
 **Stritolare**  
 Tiro salvezza su Forza: CD 14, una creatura di taglia Grande o inferiore che il serpente è in grado di vedere entro 3 metri. Fallimento: 13 (2d8 + 4) danni contundenti, e il bersaglio è afferrato (CD 14 per sfuggire).
@@ -17330,7 +17329,9 @@ Tiro salvezza su Forza: CD 14, una creatura di taglia Grande o inferiore che il 
 
 ## Serpente velenoso
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17370,7 +17371,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 4 (1d4 + 2) danni perfor
 
 ## Serpente velenoso gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -17411,7 +17414,9 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 6 (1d4 + 4) danni perfora
 
 ## Serpente volante
 
-**tipo:** Mostruosità  
+**gruppo:** Animali
+**tipo:** Mostruosità
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
