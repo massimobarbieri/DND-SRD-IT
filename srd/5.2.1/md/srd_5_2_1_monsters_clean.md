@@ -17461,7 +17461,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante più
 
 ## Squalo cacciatore
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17501,16 +17503,15 @@ Lo squalo può respirare soltanto sott'acqua.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m.
-
-**Colpito: 14 (3d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m. Colpito: 14 (3d6 + 4) danni perforanti.
 
 ---
 
 ## Squalo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17553,10 +17554,7 @@ Lo squalo può respirare soltanto sott'acqua.
 Lo squalo effettua due attacchi Morso.
 
 **Morso**  
-Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m.
-
-**Colpito: 22 (3d10 + 6) danni perforanti**  
-
+Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m. Colpito: 22 (3d10 + 6) danni perforanti.
 
 ---
 
