@@ -12765,7 +12765,8 @@ L'unicorno prende di mira se stesso o una creatura che è in grado di vedere ent
 ## Famiglio del vampiro
 
 **gruppo:** Vampiri  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 15  
@@ -12792,7 +12793,7 @@ L'unicorno prende di mira se stesso o una creatura che è in grado di vedere ent
 **abilita:** Furtività +7, Percezione +4, Persuasione +4  
 **attrezzatura:** pugnali (10)  
 **resistenze:** necrotico  
-**immunita_danni:** affascinato (tranne che dal suo padrone  
+**immunita_danni:** affascinato (tranne che dal suo padrone vampiro)
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
@@ -12822,7 +12823,9 @@ Il famiglio effettua l'azione di Disimpegno o Scatto.
 
 ## Progenie vampirica
 
-**tipo:** Non  
+**gruppo:** Vampiri  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 16  
@@ -12887,7 +12890,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m.
 Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da uno dei due artigli.
 
 **Morso**  
-Tiro salvezza su Costituzione: CD 14, una creatura entro 1,5 metri che sia consenziente, afferrata, incapacitata o trattenuta. Fallimento: 5 (1d4 + 3) danni perforanti più 10 (3d6) danni necrotici. I punti ferita 380 System Reference Document 5.2.1 massimi del bersaglio sono ridotti di un ammontare pari ai danni necrotici subiti, e il vampiro recupera punti ferita pari a quell'ammontare.
+Tiro salvezza su Costituzione: CD 14, una creatura entro 1,5 metri che sia consenziente, afferrata, incapacitata o trattenuta. Fallimento: 5 (1d4 + 3) danni perforanti più 10 (3d6) danni necrotici. I punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni necrotici subiti, e il vampiro recupera punti ferita pari a quell'ammontare.
 
 ### Azioni bonus
 
@@ -12898,7 +12901,9 @@ Il vampiro effettua l'azione di Disimpegno o Scatto.
 
 ## Vampiro
 
-**tipo:** Non  
+**gruppo:** Vampiri  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 16  
@@ -12952,7 +12957,10 @@ Il vampiro può scalare le superfici difficili, compresi i soffitti, senza effet
 Se un'arma che infligge danni perforanti gli viene conficcata nel cuore mentre è incapacitato nel suo luogo di riposo, il vampiro è paralizzato finché non viene rimossa l'arma.
 
 **Proibizione**  
-Il vampiro non può entrare in casa di qualcuno se non viene invitato da chi vi risiede. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il vampiro fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Il vampiro non può entrare in casa di qualcuno se non viene invitato da chi vi risiede. 
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se il vampiro fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -12974,7 +12982,7 @@ Il vampiro lancia charme su persone, senza bisogno di componenti e utilizzando C
 Se il vampiro non è alla luce del sole o in acqua corrente, si trasforma in un pipistrello di taglia Minuscola (velocità 1,5 metri, volo 9 metri) o una nube di nebbia di taglia Media (velocità 1,5 metri, volo 6 metri [fluttuare]), oppure torna alla forma di vampiro.
 
 **Qualsiasi cosa indossi, si trasforma insieme a lui**  
-Finché è in forma di pipistrello, il vampiro non può parlare. Le sue statistiche di gioco, a eccezione della taglia e della velocità, non cambiano. Finché è in forma di nebbia, il vampiro non può effettuare alcuna azione, né parlare o manipolare oggetti. Non ha peso e può entrare nello spazio di un nemico e fermarvisi. Inoltre, se l'aria può passare attraverso uno spazio, anche la nebbia può farlo, ma non può attraversare l'acqua. È resistente a tutti i danni, eccetto quelli subiti dalla luce del sole. 381 System Reference Document 5.2.1
+Finché è in forma di pipistrello, il vampiro non può parlare. Le sue statistiche di gioco, a eccezione della taglia e della velocità, non cambiano. Finché è in forma di nebbia, il vampiro non può effettuare alcuna azione, né parlare o manipolare oggetti. Non ha peso e può entrare nello spazio di un nemico e fermarvisi. Inoltre, se l'aria può passare attraverso uno spazio, anche la nebbia può farlo, ma non può attraversare l'acqua. È resistente a tutti i danni, eccetto quelli subiti dalla luce del sole.
 
 ### Azioni leggendarie
 
@@ -12985,7 +12993,7 @@ Subito dopo il turno di un'altra creatura, il vampiro può consumare un utilizzo
 Il vampiro si muove fino a metà della sua velocità, ed effettua un attacco Colpo tombale.
 
 **Incantare**  
-Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17). Il vampiro non può ripetere quest'azione fino all'inizio del proprio turno successivo. Vegetali risvegliati
+Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17). Il vampiro non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 

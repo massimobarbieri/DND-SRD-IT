@@ -231,11 +231,11 @@ Totale mostri estratti: 288
 #DONE Topo mannaro (pagine 84-84): mutaforma
 #DONE Unicorno (pagine 86-86): azioni_leggendarie
 #DONE Unicorno (pagine 86-86): incantesimi_interni
-- Famiglio del vampiro (pagine 86-87): gruppo_header - Vampiri
-- Famiglio del vampiro (pagine 86-87): header_continuation_o_parse_da_verificare - vampiro)
-- Vampiro (pagine 87-88): lair_variant_in_gs
-- Vampiro (pagine 87-88): azioni_leggendarie
-- Vampiro (pagine 87-88): mutaforma
+#DONE Famiglio del vampiro (pagine 86-87): gruppo_header - Vampiri
+#DONE Famiglio del vampiro (pagine 86-87): header_continuation_o_parse_da_verificare - vampiro)
+#DONE Vampiro (pagine 87-88): lair_variant_in_gs
+#DONE Vampiro (pagine 87-88): azioni_leggendarie
+#DONE Vampiro (pagine 87-88): mutaforma
 - Albero risvegliato (pagine 88-88): gruppo_header - Vegetali risvegliati
 - Verme purpureo (pagine 89-89): header_continuation_o_parse_da_verificare - vista cieca 9 m
 - Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - tagliente
