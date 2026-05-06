@@ -13192,7 +13192,8 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni perfor
 
 ## Vrock
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -13237,10 +13238,7 @@ Se il vrock muore al di fuori dell'Abisso, il suo corpo si dissolve diventando i
 ### Azioni
 
 **Multiattacco**  
-Il vrock effettua due attacchi
-
-**Sbrandellare**  
-
+Il vrock effettua due attacchi Sbrandellare.
 
 **Sbrandellare**  
 Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni perforanti più 10 (3d6) danni da veleno.
@@ -13249,7 +13247,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni perfo
 Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 metri di cui il vrock è il punto di origine. Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del suo turno successivo e, se lo supera, l'effetto svanisce. Finché è avvelenato, il bersaglio subisce 5 (1d10) danni da veleno all'inizio di ogni suo turno. L'effetto termina anticipatamente svuotandogli addosso un'ampolla di acqua santa.
 
 **Stridio stordente (1/giorno)**  
-Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 metri di cui il vrock è il punto di origine (i demoni superano automaticamente il tiro). Fallimento: 10 (3d6) danni da tuono, e il bersaglio è stordito fino al termine del turno successivo del vrock. Wight
+Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 metri di cui il vrock è il punto di origine (i demoni superano automaticamente il tiro). Fallimento: 10 (3d6) danni da tuono, e il bersaglio è stordito fino al termine del turno successivo del vrock.
 
 ---
 
