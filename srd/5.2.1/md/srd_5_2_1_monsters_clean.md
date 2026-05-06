@@ -17611,7 +17611,11 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perfo
 
 ## Stormo di corvi
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17637,7 +17641,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perfo
 
 **abilita:** Percezione +5  
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 15  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -17656,10 +17660,7 @@ Lo stormo può occupare lo spazio di un'altra creatura e viceversa, e può muove
 Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti, o 2 (1d4) danni perforanti se lo stormo è sanguinante.
 
 **Cacofonia (ricarica 6)**  
-Tiro salvezza su Saggezza:
-
-**CD 10, una creatura nello spazio dello stormo**  
-Fallimento: il bersaglio è assordato fino all'inizio del turno successivo dello stormo. Quando è assordato, il bersaglio subisce svantaggio alle prove di caratteristica e ai tiri per colpire.
+Tiro salvezza su Saggezza: CD 10, una creatura nello spazio dello stormo. Fallimento: il bersaglio è assordato fino all'inizio del turno successivo dello stormo. Quando è assordato, il bersaglio subisce svantaggio alle prove di caratteristica e ai tiri per colpire.
 
 ---
 

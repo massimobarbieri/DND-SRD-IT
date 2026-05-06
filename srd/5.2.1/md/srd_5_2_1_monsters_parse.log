@@ -262,7 +262,7 @@ Totale mostri estratti: 288
 #DONE Orso nero (pagine 103-103): header_continuation_o_parse_da_verificare - 396 System Reference Document 5.2.1
 #DONE Ragno lupo gigante (pagine 106-106): header_continuation_o_parse_da_verificare - cieca 3 m
 #DONE Scarabeo di fuoco gigante (pagine 107-107): header_continuation_o_parse_da_verificare - Resistenze: fuoco
-- Stormo di corvi (pagine 110-110): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
+#DONE Stormo di corvi (pagine 110-110): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
 
 ## Note generali
 - Parsing a due colonne: ogni pagina viene letta colonna sinistra poi colonna destra.
