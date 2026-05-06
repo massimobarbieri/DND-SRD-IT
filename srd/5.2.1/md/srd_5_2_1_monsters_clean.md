@@ -15614,7 +15614,9 @@ Tiro salvezza su Saggezza: CD 11, una creatura entro 4,5 metri. Fallimento: il b
 
 ## Lucertola
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -15653,16 +15655,15 @@ La lucertola può scalare le superfici difficili, compresi i soffitti, senza eff
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-394 System Reference Document 5.2.1
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Lucertola gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15701,10 +15702,7 @@ La lucertola può scalare le superfici difficili, compresi i soffitti, senza eff
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 6 (1d8 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perforanti.
 
 ---
 
