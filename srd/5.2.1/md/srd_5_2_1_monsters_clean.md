@@ -15804,7 +15804,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 8 (1d10 + 3) danni perf
 
 ## Mammut
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -15838,10 +15840,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 8 (1d10 + 3) danni perf
 ### Azioni
 
 **Multiattacco**  
-Il mammut effettua due attacchi
-
-**Trafiggere**  
-
+Il mammut effettua due attacchi Trafiggere.
 
 **Trafiggere**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 18 (2d10 + 7) danni perforanti. Se il bersaglio è una creatura di taglia Enorme o inferiore e il mammut si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio cade a terra prono.
