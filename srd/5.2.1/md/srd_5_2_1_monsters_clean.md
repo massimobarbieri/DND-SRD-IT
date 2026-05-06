@@ -16602,7 +16602,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perfo
 
 ## Ragno
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16651,7 +16653,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante più 
 
 ## Ragno gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -16703,7 +16707,9 @@ Tiro salvezza su Destrezza: CD 13, una creatura che il ragno è in grado di vede
 
 ## Ragno lupo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16728,7 +16734,7 @@ Tiro salvezza su Destrezza: CD 13, una creatura che il ragno è in grado di vede
 - carisma: -3
 
 **abilita:** Furtività +7, Percezione +3  
-**sensi:** Percezione passiva 10; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 10; scurovisione 18 m, vista cieca 3 m
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
@@ -16738,7 +16744,7 @@ Tiro salvezza su Destrezza: CD 13, una creatura che il ragno è in grado di vede
 ### Tratti
 
 **Movimenti del ragno**  
-Il ragno può scalare le superfici difficili, compresi i soffitti, senza effettuare una prova di caratteristica. 399 System Reference Document 5.2.1
+Il ragno può scalare le superfici difficili, compresi i soffitti, senza effettuare una prova di caratteristica.
 
 ### Azioni
 
