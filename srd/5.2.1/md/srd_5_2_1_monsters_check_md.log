@@ -46,7 +46,7 @@
 ## Migliorie consigliate
 *DONE* Usare sempre chiavi canoniche senza accenti: `abilita` invece di alternare `abilità`/`abilita`.
 - Separare sempre immunità ai danni e immunità alle condizioni; nel PDF originale sono spesso sulla stessa riga “Immunità danni; condizioni”, mentre nel MD alcune condizioni finiscono in `immunita_danni`.
-- Rimuovere artefatti OCR/PDF del tipo `303 System Reference Document 5.2.1` dentro i testi.
+#DONE Rimuovere artefatti OCR/PDF del tipo `303 System Reference Document 5.2.1` dentro i testi.
 - Standardizzare le azioni con prefissi in grassetto/italico: `Tiro per colpire`, `Colpito`, `Tiro salvezza`, `Fallimento`, `Successo`.
 - Rappresentare `iniziativa`, `grado_sfida`, `punti_esperienza`, `bonus_competenza` anche in forma numerica oltre al testo originale.
 - Per voci come Incantesimi, Multiattacco e azioni con ricarica, aggiungere campi strutturati opzionali (`ricarica`, `usi`, `cd`, `tipo_tiro`, `portata`, `danni`).
