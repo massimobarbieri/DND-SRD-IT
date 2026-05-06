@@ -12686,7 +12686,8 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perfor
 
 ## Unicorno
 
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale buono  
 
 **classe_armatura:** 12  
@@ -12736,13 +12737,12 @@ L'unicorno effettua un attacco Zoccoli e un attacco Corno radioso.
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d10 + 4) danni radiosi.
 
 **Zoccoli**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 11 (2d6 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni contundenti.
 
 **Incantesimi**  
-L'unicorno lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 379 System Reference Document 5.2.1 1/giorno ciascuno: Calmare emozioni, dissolvi il bene e il male, intralciare, parola del ritiro, passare senza tracce A volontà: Artificio druidico, individuazione del bene e del male
+L'unicorno lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14):
+**1/giorno ciascuno:** Calmare emozioni, dissolvi il bene e il male, intralciare, parola del ritiro, passare senza tracce
+**A volontà:** Artificio druidico, individuazione del bene e del male
 
 ### Azioni bonus
 
@@ -12758,7 +12758,7 @@ Subito dopo il turno di un'altra creatura, l'unicorno può consumare un utilizzo
 L'unicorno si muove fino a metà della sua velocità senza provocare attacchi di opportunità, ed effettua un attacco Corno radioso.
 
 **Scudo luccicante**  
-L'unicorno prende di mira se stesso o una creatura che è in grado di vedere entro 18 metri da sé. Il bersaglio ottiene 10 (3d6) punti ferita temporanei, e la sua CA aumenta di 2 fino al termine del turno successivo dell'unicorno. L'unicorno non può ripetere quest'azione fino all'inizio del proprio turno successivo. Vampiri
+L'unicorno prende di mira se stesso o una creatura che è in grado di vedere entro 18 metri da sé. Il bersaglio ottiene 10 (3d6) punti ferita temporanei, e la sua CA aumenta di 2 fino al termine del turno successivo dell'unicorno. L'unicorno non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 

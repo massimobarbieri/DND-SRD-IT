@@ -229,8 +229,8 @@ Totale mostri estratti: 288
 #DONE Tarrasque (pagine 82-83): azioni_leggendarie
 #DONE Tigre mannara (pagine 84-84): mutaforma
 #DONE Topo mannaro (pagine 84-84): mutaforma
-- Unicorno (pagine 86-86): azioni_leggendarie
-- Unicorno (pagine 86-86): incantesimi_interni
+#DONE Unicorno (pagine 86-86): azioni_leggendarie
+#DONE Unicorno (pagine 86-86): incantesimi_interni
 - Famiglio del vampiro (pagine 86-87): gruppo_header - Vampiri
 - Famiglio del vampiro (pagine 86-87): header_continuation_o_parse_da_verificare - vampiro)
 - Vampiro (pagine 87-88): lair_variant_in_gs
