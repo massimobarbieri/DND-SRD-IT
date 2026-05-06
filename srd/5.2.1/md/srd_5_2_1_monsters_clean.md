@@ -13410,7 +13410,8 @@ Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che 
 
 ## Xorn
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 19  
@@ -13437,7 +13438,7 @@ Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che 
 **abilita:** Furtività +6, Percezione +6  
 **immunita_danni:** veleno  
 **immunita_condizione:** avvelenato, paralizzato, pietrificato  
-**sensi:** Percezione passiva 16; percezione tellurica 18 m,  
+**sensi:** Percezione passiva 16; percezione tellurica 18 m, scurovisione 18 m
 **lingue:** Primordiale (Terran)  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
@@ -13458,21 +13459,15 @@ Lo xorn può scavare attraverso la terra e la pietra non magiche e non lavorate,
 Lo xorn effettua un attacco Morso e tre attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 8 (1d10 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d10 + 3) danni taglienti.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 17 (4d6 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 17 (4d6 + 3) danni perforanti.
 
 ### Azioni bonus
 
 **Carica**  
-Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in linea retta verso un nemico che è in grado di percepire. 384 System Reference Document 5.2.1 Zombi
+Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in linea retta verso un nemico che è in grado di percepire.
 
 ---
 
