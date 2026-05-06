@@ -25,9 +25,10 @@ Documento generato automaticamente dal PDF di input. Questo file e' pensato come
 
 L'incantatore guida un flusso di energia psionica nella mente di una creatura entro gittata che egli è in grado di vedere. Il bersaglio effettua un tiro salvezza su Saggezza, subendo 3d8 danni psichici in caso di fallimento, o la metà dei danni in caso di successo. Se fallisce il tiro, l'incantatore sa sempre dove si trova il bersaglio fino al termine dell'incantesimo, ma solo se entrambi si trovano sullo stesso piano di esistenza. Finché l'incantatore è in possesso di queste conoscenze, il bersaglio non può nascondersi da lui e, se è invisibile, non ottiene alcun beneficio da questa condizione contro di lui.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 2º.
 
 ## Aiuto
 
@@ -47,29 +48,30 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 
 
 L'incantatore sceglie fino a tre creature entro gittata. I punti ferita massimi e i punti ferita attuali di ogni bersaglio aumentano di 5 per la durata dell'incantesimo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I punti ferita di ciascun bersaglio aumentano di 5 per ogni slot incantesimo di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I punti ferita di ciascun bersaglio aumentano di 5 per ogni slot incantesimo di livello superiore al 2º.
 
 ## Allarme
 
-**id:** allarme  
-**pagine_sorgente:** 122-122  
-**tipo:** incantesimo  
-**livello:** 1  
-**scuola:** Abiurazione  
-**classi:** mago, ranger  
+**id:** allarme
+**pagine_sorgente:** 122-122
+**tipo:** incantesimo
+**livello:** 1
+**scuola:** Abiurazione
+**classi:** mago, ranger
 
-**tempo_lancio:** 1 minuto o rituale  
-**gittata:** 9 metri  
-**componenti:** V, S, M (una campanella e un filo d'argento)  
-**durata:** 8 ore  
+**tempo_lancio:** 1 minuto o rituale
+**gittata:** 9 metri
+**componenti:** V, S, M (una campanella e un filo d'argento)
+**durata:** 8 ore
 
 ---
 
 L'incantatore predispone un allarme che segnala un'intrusione. Sceglie una porta, una finestra o un'area entro gittata che non sia più ampia di un cubo con spigolo di 6 metri. Fino al termine dell'incantesimo, un allarme avverte l'incantatore tutte le volte che una creatura tocca o entra nell'area protetta. Al momento del lancio dell'incantesimo, l'incantatore designa quali creature non faranno scattare l'allarme. Inoltre, sceglie se l'allarme è acustico o mentale.
-
-Allarme acustico. L'allarme produce il suono di una campanella per 10 secondi entro 18 metri dall'area protetta. Allarme mentale. Un suono nella mente avverte l'incantatore se questi si trova entro 1,5 chilometri dall'area protetta. Il suono sveglia l'incantatore se sta dormendo.
+**Allarme acustico.** L'allarme produce il suono di una campanella per 10 secondi entro 18 metri dall'area protetta. 
+**Allarme mentale.** Un suono nella mente avverte l'incantatore se questi si trova entro 1,5 chilometri dall'area protetta. Il suono sveglia l'incantatore se sta dormendo.
 
 ## Alleato planare
 
@@ -141,9 +143,10 @@ L'incantatore attinge agli incubi di una creatura entro gittata che egli è in g
 
 Per la durata dell'incantesimo, il bersaglio effettua un tiro salvezza su Saggezza alla fine di ogni suo turno. In caso di fallimento, subisce nuovamente i danni psichici. In caso di successo, l'incantesimo termina.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d10 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d10 per ogni slot di livello superiore al 4º.
 
 ## Alterare se stesso
 
@@ -163,11 +166,14 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d10
 
 L'incantatore altera la propria forma fisica scegliendo tra le opzioni seguenti. Gli effetti permangono per la sua durata, durante la quale l'incantatore può effettuare un'azione di Magia per sostituire l'opzione scelta con una diversa.
 
-Adattamento acquatico. L'incantatore sviluppa le branchie e una membrana tra le dita. Inoltre, può respirare sott'acqua e ottenere una velocità di nuoto pari alla sua velocità.
+**Adattamento acquatico**
+L'incantatore sviluppa le branchie e una membrana tra le dita. Inoltre, può respirare sott'acqua e ottenere una velocità di nuoto pari alla sua velocità.
 
-Armi naturali. L'incantatore sviluppa artigli (taglienti), zanne (perforanti), corna (perforanti) o zoccoli (contundenti). Quando usa il suo colpo senz'armi per infliggere danni con l'arma naturale creata, infligge 1d6 danni (del tipo indicato tra parentesi) invece di infliggere i danni normali del colpo senz'armi, usando il modificatore di caratteristica da incantatore per i tiri per colpire e per i tiri per i danni anziché quello di Forza.
+**Armi naturali**
+L'incantatore sviluppa artigli (taglienti), zanne (perforanti), corna (perforanti) o zoccoli (contundenti). Quando usa il suo colpo senz'armi per infliggere danni con l'arma naturale creata, infligge 1d6 danni (del tipo indicato tra parentesi) invece di infliggere i danni normali del colpo senz'armi, usando il modificatore di caratteristica da incantatore per i tiri per colpire e per i tiri per i danni anziché quello di Forza.
 
-Cambiare aspetto. L'incantatore altera il suo aspetto: decide come apparire e definisce altezza, peso, lineamenti facciali, tono della voce, lunghezza dei capelli, carnagione e altri tratti distintivi. Può scegliere di assomigliare a un membro di un'altra specie, ma le sue statistiche non subiscono modifiche. Non può apparire come una creatura di taglia diversa e la sua forma base rimane la stessa; per esempio, se è bipede, non può usare l'incantesimo per diventare quadrupede. Per la durata dell'incantesimo, può effettuare un'azione di Magia per cambiare di nuovo il suo aspetto.
+**Cambiare aspetto**
+L'incantatore altera il suo aspetto: decide come apparire e definisce altezza, peso, lineamenti facciali, tono della voce, lunghezza dei capelli, carnagione e altri tratti distintivi. Può scegliere di assomigliare a un membro di un'altra specie, ma le sue statistiche non subiscono modifiche. Non può apparire come una creatura di taglia diversa e la sua forma base rimane la stessa; per esempio, se è bipede, non può usare l'incantesimo per diventare quadrupede. Per la durata dell'incantesimo, può effettuare un'azione di Magia per cambiare di nuovo il suo aspetto.
 
 ## Amicizia con gli animali
 
