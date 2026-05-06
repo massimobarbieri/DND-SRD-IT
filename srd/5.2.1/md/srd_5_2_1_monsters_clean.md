@@ -14884,7 +14884,9 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 
 ## Faina
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14919,16 +14921,15 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Faina gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14963,10 +14964,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 5 (1d4 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perforanti.
 
 ---
 
