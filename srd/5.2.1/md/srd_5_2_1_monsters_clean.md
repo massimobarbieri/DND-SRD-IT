@@ -16958,7 +16958,9 @@ La creatura inghiottita non è afferrata, ma è accecata e trattenuta, e benefic
 
 ## Scarabeo di fuoco gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16982,6 +16984,7 @@ La creatura inghiottita non è afferrata, ma è accecata e trattenuta, e benefic
 - saggezza: -2
 - carisma: -4
 
+**resistenze:** fuoco 
 **sensi:** Percezione passiva 8; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 0  
@@ -16997,10 +17000,7 @@ Lo scarabeo proietta luce intensa in un raggio di 3 metri e luce fioca per altri
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +1, portata 1,5 m
-
-**Colpito: 1 danno da fuoco**  
-
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno da fuoco.
 
 ---
 
