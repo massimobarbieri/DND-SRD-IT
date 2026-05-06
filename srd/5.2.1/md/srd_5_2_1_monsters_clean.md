@@ -15986,7 +15986,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contu
 
 ## Orca assassina
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16026,10 +16028,7 @@ L'orca può trattenere il respiro per 30 minuti.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 21 (5d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 21 (5d6 + 4) danni perforanti.
 
 ---
 
