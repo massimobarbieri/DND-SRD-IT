@@ -12999,7 +12999,8 @@ Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come 
 
 ## Albero risvegliato
 
-**gruppo:** Vegetali risvegliati  
+**gruppo:** Vegetali risvegliati
+**dimensione:** Enorme
 **tipo:** Vegetale  
 **allineamento:** neutrale  
 
@@ -13036,17 +13037,16 @@ Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come 
 ### Azioni
 
 **Schianto**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 14 (3d6 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 14 (3d6 + 4) danni contundenti.
 
 ---
 
 ## Cespuglio risvegliato
 
-**tipo:** Vegetale  
-**allineamento:** neutrale  
+**gruppo:** Vegetali risvegliati
+**dimensione:** Piccolo
+**tipo:** Vegetale
+**allineamento:** neutrale
 
 **classe_armatura:** 9  
 **iniziativa:** -1 (9)  
@@ -13081,10 +13081,7 @@ Tiro per colpire in mischia: +6, portata 3 m.
 ### Azioni
 
 **Graffiare**  
-Tiro per colpire in mischia: +1, portata 1,5 m
-
-**Colpito: 1 danno tagliente**  
-Verme purpureo
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
