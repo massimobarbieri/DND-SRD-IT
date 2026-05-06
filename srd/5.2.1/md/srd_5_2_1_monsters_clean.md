@@ -12538,7 +12538,8 @@ Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio 
 
 ## Troll
 
-**tipo:** Gigante  
+**tipo:** Gigante
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -12573,7 +12574,7 @@ Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio 
 ### Tratti
 
 **Arti abominevoli (4/giorno)**  
-Se il troll termina qualsiasi turno sanguinante e subisce più di 15 danni taglienti durante tale turno, uno dei suoi arti viene reciso, cade nello spazio del troll e diventa un arto di troll. L'arto svolge il suo turno subito dopo quello del troll. Il troll ha 1 livello di indebolimento per ogni arto mancante 378 System Reference Document 5.2.1 e fa ricrescere gli arti la prossima volta che recupera punti ferita.
+Se il troll termina qualsiasi turno sanguinante e subisce più di 15 danni taglienti durante tale turno, uno dei suoi arti viene reciso, cade nello spazio del troll e diventa un arto di troll. L'arto svolge il suo turno subito dopo quello del troll. Il troll ha 1 livello di indebolimento per ogni arto mancante e fa ricrescere gli arti la prossima volta che recupera punti ferita.
 
 **Rigenerazione**  
 Il troll recupera 15 punti ferita all'inizio di ogni suo turno. Se il troll subisce danni da acido o fuoco, questo tratto non funziona all'inizio del suo turno successivo. Il troll muore solo se inizia il turno con 0 punti ferita e non si rigenera.
@@ -12584,10 +12585,7 @@ Il troll recupera 15 punti ferita all'inizio di ogni suo turno. Se il troll subi
 Il troll effettua tre attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni taglienti.
 
 ### Azioni bonus
 
