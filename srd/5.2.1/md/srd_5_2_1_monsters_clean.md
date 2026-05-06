@@ -13702,7 +13702,9 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni per
 
 ## Anchilosauro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -13736,16 +13738,10 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni per
 ### Azioni
 
 **Multiattacco**  
-L'anchilosauro effettua due attacchi
+L'anchilosauro effettua due attacchi Coda.
 
 **Coda**  
-
-
-**Coda**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 9 (1d10 + 4) danni contundenti**  
-Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 9 (1d10 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
 
 ---
 
