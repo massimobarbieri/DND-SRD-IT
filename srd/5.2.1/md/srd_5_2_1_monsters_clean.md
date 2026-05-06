@@ -12308,7 +12308,8 @@ Il tarrasque si muove fino alla sua velocità massima. Alla fine di questo movim
 
 ## Testuggine dragona
 
-**tipo:** Drago  
+**tipo:** Drago
+**dimensione:** Mastodonico
 **allineamento:** neutrale  
 
 **classe_armatura:** 20  
@@ -12348,22 +12349,16 @@ Il drago può respirare in aria e in acqua.
 ### Azioni
 
 **Multiattacco**  
-La testuggine dragona effettua tre attacchi Morso. Può sostituire un attacco con un attacco
+La testuggine dragona effettua tre attacchi Morso. Può sostituire un attacco con un attacco Coda.
 
 **Coda**  
-
-
-**Coda**  
-Tiro per colpire in mischia: +13, portata 4,5 m.
-
-**Colpito: 18 (2d10 + 7) danni contundenti**  
-Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +13, portata 4,5 m. Colpito: 18 (2d10 + 7) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
 
 **Morso**  
 Tiro per colpire in mischia: +13, portata 4,5 m. Colpito: 23 (3d10 + 7) danni perforanti più 7 (2d6) danni da fuoco. Trovarsi sott'acqua non conferisce alcuna resistenza contro questi danni da fuoco.
 
 **Soffio di vapore (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. Fallimento o successo: trovarsi sott'acqua non conferisce alcuna resistenza contro questi danni da fuoco. Tigre mannara
+Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. Fallimento o successo: trovarsi sott'acqua non conferisce alcuna resistenza contro questi danni da fuoco.
 
 ---
 
