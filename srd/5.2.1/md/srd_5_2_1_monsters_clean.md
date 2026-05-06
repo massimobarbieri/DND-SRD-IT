@@ -12005,7 +12005,8 @@ Il solar si teletrasporta fino a un massimo di 18 metri in uno spazio libero che
 
 ## Spettro
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -12029,11 +12030,11 @@ Il solar si teletrasporta fino a un massimo di 18 metri in uno spazio libero che
 - saggezza: +0
 - carisma: +0
 
-**resistenze:** acido, contundente, freddo, fulmine, fuoco,  
+**resistenze:** acido, contundente, freddo, fulmine, fuoco, perforante, tagliente, tuono
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
@@ -12050,7 +12051,7 @@ Finché è esposto alla luce del sole, lo spettro subisce svantaggio alle prove 
 ### Azioni
 
 **Risucchio di vita**  
-Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici. Se il bersaglio è una creatura, i suoi punti ferita massimi sono ridotti di una quantità pari ai danni subiti. Spia
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici. Se il bersaglio è una creatura, i suoi punti ferita massimi sono ridotti di una quantità pari ai danni subiti.
 
 ---
 
