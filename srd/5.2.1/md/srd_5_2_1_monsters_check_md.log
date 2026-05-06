@@ -1,0 +1,53 @@
+- [WARN] Ameba paglierina — immunita_danni_contiene_condizioni: fulmine, tagliente, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+- [WARN] Ameba paglierina — lista_con_separatore_finale: immunita_condizione: affascinato, afferrato,
+- [WARN] Behir — artefatti_pagina_pdf: 298 System Reference Document 5.2.1
+- [WARN] Cacciatore invisibile — voce_duplicata_nella_sezione: azioni: Colpo di vento x2
+- [WARN] Cane della morte — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+- [WARN] Cavaliere — immunita_danni_contiene_condizioni: spaventato
+- [WARN] Cinghiale mannaro — artefatti_pagina_pdf: 303 System Reference Document 5.2.1
+- [WARN] Coccatrice — immunita_danni_contiene_condizioni: pietrificato
+- [WARN] Couatl — immunita_danni_contiene_condizioni: psichico, radioso
+- [WARN] Couatl — artefatti_pagina_pdf: 304 System Reference Document 5.2.1
+- [WARN] Cultista fanatico — artefatti_pagina_pdf: 305 System Reference Document 5.2.1
+- [WARN] Cumulo strisciante — voce_duplicata_nella_sezione: azioni: Radice elettrificata x2
+- [WARN] Deva — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
+- [WARN] Doppelganger — immunita_danni_contiene_condizioni: affascinato
+- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Multiattacco x2
+- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Squarcio x2
+- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Incantesimi x2
+- [WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Soffio di fulmini (ricarica 5-6) x2
+- [WARN] Drago nero antico — artefatti_pagina_pdf: 325 System Reference Document 5.2.1
+- [WARN] Driade — artefatti_pagina_pdf: 329 System Reference Document 5.2.1
+- [INFO] Elementale dell'acqua — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+- [INFO] Elementale dell'aria — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+- [WARN] Fantasma — lista_con_separatore_finale: resistenze: acido, contundente, freddo, fulmine, fuoco,
+- [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
+- [WARN] Boleto stridente — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
+- [WARN] Fungo viola — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
+- [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato
+- [WARN] Idra — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+- [WARN] Manto assassino — immunita_danni_contiene_condizioni: spaventato
+- [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
+- [WARN] Melma Grigia — immunita_danni_contiene_condizioni: accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+- [WARN] Naga spirituale — artefatti_pagina_pdf: 360 System Reference Document 5.2.1
+- [WARN] Planetar — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
+- [WARN] Rakshasa — immunita_danni_contiene_condizioni: affascinato, spaventato
+- [WARN] Sfinge della conoscenza — lista_con_separatore_finale: abilita: Arcano +12, Percezione +8, Religione +12,
+- [WARN] Solar — immunita_danni_contiene_condizioni: radioso, veleno
+- [WARN] Famiglio del vampiro — immunita_danni_contiene_condizioni: affascinato (tranne che dal suo padrone vampiro)
+- [WARN] Banco di piranha — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+- [WARN] Colonia di serpenti velenosi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+- [WARN] Colonia di topi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+- [INFO] Sciame di pipistrelli — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+- [WARN] Serpente velenoso — artefatti_pagina_pdf: 402 System Reference Document 5.2.1
+- [WARN] Stormo di corvi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+
+
+## Migliorie consigliate
+- Usare sempre chiavi canoniche senza accenti: `abilita` invece di alternare `abilità`/`abilita`.
+- Separare sempre immunità ai danni e immunità alle condizioni; nel PDF originale sono spesso sulla stessa riga “Immunità danni; condizioni”, mentre nel MD alcune condizioni finiscono in `immunita_danni`.
+- Rimuovere artefatti OCR/PDF del tipo `303 System Reference Document 5.2.1` dentro i testi.
+- Standardizzare le azioni con prefissi in grassetto/italico: `Tiro per colpire`, `Colpito`, `Tiro salvezza`, `Fallimento`, `Successo`.
+- Rappresentare `iniziativa`, `grado_sfida`, `punti_esperienza`, `bonus_competenza` anche in forma numerica oltre al testo originale.
+- Per voci come Incantesimi, Multiattacco e azioni con ricarica, aggiungere campi strutturati opzionali (`ricarica`, `usi`, `cd`, `tipo_tiro`, `portata`, `danni`).
+- Mantenere `raw_markdown` o `testo_originale` per ogni mostro/azione, così le parti non ancora strutturate non vanno perse.
