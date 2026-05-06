@@ -1611,49 +1611,49 @@ Quando lancia un incantesimo, l'incantatore cambia le condizioni atmosferiche at
 
 Quando l'incantatore modifica le condizioni atmosferiche, trova la condizione attuale nelle tabelle seguenti e la modifica di un grado, verso l'alto o verso il basso. Quando l'incantatore cambia il vento, può modificarne anche la direzione.
 
-Precipitazioni
+### Precipitazioni
 
 Grado Condizione
 
-1 Sereno
+**1** Sereno
 
-2 Poco nuvoloso
+**2** Poco nuvoloso
 
-3 Nuvoloso o nebbia
+**3** Nuvoloso o nebbia
 
-4 Pioggia, grandine o neve
+**4 Pioggia, grandine o neve
 
-5 Pioggia torrenziale, grandinata violenta o tormenta
+**5** Pioggia torrenziale, grandinata violenta o tormenta
 
-Temperatura
-
-Vento
+### Temperatura
 
 Grado Condizione
 
+**1** Torrido
+
+**2** Caldo
+
+**3** Temperato
+
+**4** Fresco
+
+**5** Freddo
+
+**6** Gelido
+
+### Vento
+
 Grado Condizione
 
-1 Torrido
+**1** Calmo
 
-1 Calmo
+**2** Vento moderato
 
-2 Caldo
+**3** Vento forte
 
-2 Vento moderato
+**4** Burrasca
 
-3 Temperato
-
-3 Vento forte
-
-4 Fresco
-
-4 Burrasca
-
-5 Freddo
-
-5 Tempesta
-
-6 Gelido
+**5** Tempesta
 
 ## Costrizione
 
@@ -1679,9 +1679,10 @@ L'incantatore può impartire al bersaglio un comando a sua scelta, a eccezione d
 
 Un incantesimo desiderio, rimuovi maledizione o ristorare superiore è in grado di porre fine all'incantesimo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Se l'incantatore usa uno slot incantesimo di 7º o 8º livello, la durata diventa 365 giorni. Se l'incantatore usa uno slot incantesimo di 9º livello, l'incantesimo dura finché uno degli incantesimi menzionati sopra non vi pone fine.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Se l'incantatore usa uno slot incantesimo di 7º o 8º livello, la durata diventa 365 giorni. Se l'incantatore usa uno slot incantesimo di 9º livello, l'incantesimo dura finché uno degli incantesimi menzionati sopra non vi pone fine.
 
 ## Creare cibo e acqua
 
@@ -1723,9 +1724,10 @@ Come azione bonus a ogni suo turno, l'incantatore può comandare mentalmente qua
 
 La creatura rimane sotto il controllo dell'incantatore per 24 ore, passate le quali smette di obbedire a qualsiasi comando ulteriore. Per mantenere il controllo sulla creatura per altre 24 ore, l'incantatore deve lanciare questo incantesimo su di essa prima che l'attuale periodo di 24 ore termini. Questo uso dell'incantesimo gli permette di ristabilire il controllo su un massimo di tre creature da lui animate tramite questo incantesimo, anziché animarne di nuove.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Se l'incantatore usa uno slot incantesimo di 7º livello, può animare o ristabilire il controllo su quattro ghoul. Se l'incantatore usa uno slot incantesimo di 8º livello, può animare o ristabilire il controllo su cinque ghoul, o due ghast o wight. Se l'incantatore usa uno slot incantesimo di 9º livello, può animare o ristabilire il controllo su sei ghoul, tre ghast o wight, o due mummie. Vedi "Mostri" per le relative schede delle statistiche.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Se l'incantatore usa uno slot incantesimo di 7º livello, può animare o ristabilire il controllo su quattro ghoul. Se l'incantatore usa uno slot incantesimo di 8º livello, può animare o ristabilire il controllo su cinque ghoul, o due ghast o wight. Se l'incantatore usa uno slot incantesimo di 9º livello, può animare o ristabilire il controllo su sei ghoul, tre ghast o wight, o due mummie. Vedi "Mostri" per le relative schede delle statistiche.
 
 ## Creare o distruggere acqua
 
@@ -1745,11 +1747,16 @@ Utilizzo di uno slot incantesimo di livello superiore. Se l'incantatore usa uno 
 
 L'incantatore esegue una delle seguenti azioni:
 
-Creare acqua. L'incantatore crea fino a 40 litri d'acqua pulita in un contenitore aperto entro gittata. In alternativa, l'acqua cade sotto forma di pioggia in un cubo con spigolo di 9 metri entro gittata, estinguendo le fiamme presenti nell'area. Distruggere acqua. L'incantatore distrugge fino a 40 litri d'acqua in un contenitore aperto entro gittata. In alternativa, distrugge la nebbia presente in un cubo con spigolo di 9 metri entro gittata.
+**Creare acqua**
+L'incantatore crea fino a 40 litri d'acqua pulita in un contenitore aperto entro gittata. In alternativa, l'acqua cade sotto forma di pioggia in un cubo con spigolo di 9 metri entro gittata, estinguendo le fiamme presenti nell'area.
 
-### scaling
+**Distruggere acqua**
+L'incantatore distrugge fino a 40 litri d'acqua in un contenitore aperto entro gittata. In alternativa, distrugge la nebbia presente in un cubo con spigolo di 9 metri entro gittata.
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore crea o distrugge 40 litri aggiuntivi d'acqua, oppure la grandezza del cubo aumenta di 1,5 metri per spigolo, per ogni slot di livello superiore al 1º.
+### Scaling
+
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore crea o distrugge 40 litri aggiuntivi d'acqua, oppure la grandezza del cubo aumenta di 1,5 metri per spigolo, per ogni slot di livello superiore al 1º.
 
 ## Creazione
 
@@ -1771,23 +1778,24 @@ L'incantatore attrae a sé dei filamenti di sostanza d'ombra dalla Coltre Oscura
 
 La durata dell'incantesimo dipende dal materiale dell'oggetto, come indicato nella tabella Materiali. se l'oggetto è composto da vari materiali, si usa la durata più breve. Usare un qualsiasi oggetto creato da questo incantesimo come componente materiale di un altro incantesimo ne provoca il fallimento.
 
-Materiali
+### Materiali
 
 Materiale Durata
 
-Materia vegetale 24 ore
+**Materia vegetale** 24 ore
 
-Pietra o cristallo 12 ore
+**Pietra o cristallo** 12 ore
 
-Metalli preziosi 1 ora
+**Metalli preziosi** 1 ora
 
-Gemme 10 minuti
+**Gemme** 10 minuti
 
-Adamantio o mithral 1 minuto
+**Adamantio o mithral** 1 minuto
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Il cubo aumenta di 1,5 metri per spigolo per ogni slot di livello superiore al 5º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Il cubo aumenta di 1,5 metri per spigolo per ogni slot di livello superiore al 5º.
 
 ## Crescita di spine
 
@@ -1827,9 +1835,11 @@ La trasformazione del terreno è mimetizzata in modo da sembrare naturale. Quals
 
 Questo incantesimo incanala vitalità nei vegetali. Il tempo di lancio utilizzato dall'incantatore determina l'effetto che ha l'incantesimo tra i due descritti di seguito: Groviglio o Fertilità.
 
-Groviglio. L'incantatore sceglie un punto entro gittata e tutti i vegetali normali entro una sfera del raggio di 30 metri centrata su quel punto crescono rigogliosamente fino a formare un groviglio. Una creatura che si muove attraverso quell'area deve usare 1,2 metri di movimento per ogni 30 centimetri di cui si muove. L'incantatore può escludere dall'influenza dell'incantesimo una o più aree di qualsiasi dimensione all'interno dell'area scelta.
+**Groviglio**
+L'incantatore sceglie un punto entro gittata e tutti i vegetali normali entro una sfera del raggio di 30 metri centrata su quel punto crescono rigogliosamente fino a formare un groviglio. Una creatura che si muove attraverso quell'area deve usare 1,2 metri di movimento per ogni 30 centimetri di cui si muove. L'incantatore può escludere dall'influenza dell'incantesimo una o più aree di qualsiasi dimensione all'interno dell'area scelta.
 
-Fertilità. Tutti i vegetali entro un raggio di 750 metri centrato in un punto entro gittata cresceranno rigogliosamente per 365 giorni e al momento del raccolto produrranno il doppio del cibo normale. I vegetali possono beneficiare di crescita vegetale solo una volta all'anno.
+**Fertilità**
+Tutti i vegetali entro un raggio di 750 metri centrato in un punto entro gittata cresceranno rigogliosamente per 365 giorni e al momento del raccolto produrranno il doppio del cibo normale. I vegetali possono beneficiare di crescita vegetale solo una volta all'anno.
 
 ## Cura ferite
 
@@ -1849,9 +1859,10 @@ Fertilità. Tutti i vegetali entro un raggio di 750 metri centrato in un punto e
 
 Una creatura toccata dall'incantatore recupera un numero di punti ferita pari a 2d8 più il modificatore di caratteristica da incantatore dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 2d8 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+La guarigione aumenta di 2d8 per ogni slot di livello superiore al 1º.
 
 ## Cura ferite di massa
 
@@ -1871,9 +1882,10 @@ Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 
 
 Un'ondata di energia curativa si sprigiona da un punto entro gittata che l'incantatore è in grado di vedere. L'incantatore sceglie fino a sei creature in una sfera di 9 metri di raggio centrata su quel punto: ogni bersaglio recupera una quantità di punti ferita pari a 5d8 più il modificatore di caratteristica da incantatore dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 1d8 per ogni slot di livello superiore al 5º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+La guarigione aumenta di 1d8 per ogni slot di livello superiore al 5º.
 
 ## Danza irresistibile
 
@@ -1913,9 +1925,10 @@ Se il bersaglio fallisce il tiro, diventa affascinato per la durata dell'incante
 
 L'incantatore scaglia una scintilla di fuoco verso una creatura o un oggetto situato entro gittata, effettuando un attacco a distanza con incantesimo contro il bersaglio. Se il colpo va a segno, il bersaglio subisce 1d10 danni da fuoco. Un oggetto infiammabile colpito da questo incantesimo prende fuoco se non indossato o trasportato in quel momento.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d10 quando l'incantatore raggiunge il 5º livello (2d10), l'11º livello (3d10) e il 17º livello (4d10).
+**Trucchetto potenziato**
+I danni aumentano di 1d10 quando l'incantatore raggiunge il 5º livello (2d10), l'11º livello (3d10) e il 17º livello (4d10).
 
 ## Dardo incantato
 
@@ -1935,9 +1948,10 @@ Trucchetto potenziato. I danni aumentano di 1d10 quando l'incantatore raggiunge 
 
 L'incantatore crea tre dardi lucenti di forza magica. Ogni dardo colpisce una creatura a scelta dell'incantatore situata entro gittata che egli è in grado di vedere. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio. Tutti i dardi colpiscono simultaneamente e l'incantatore può dirigerli per colpire una o più creature.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantesimo crea un dardo aggiuntivo per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantesimo crea un dardo aggiuntivo per ogni slot di livello superiore al 1º.
 
 ## Dardo tracciante
 
@@ -1957,9 +1971,10 @@ Utilizzo di uno slot incantesimo di livello superiore. L'incantesimo crea un dar
 
 L'incantatore scaglia un lampo di luce verso una creatura entro gittata, effettuando un attacco a distanza con incantesimo contro il bersaglio. Se il colpo va a segno, esso subisce 4d6 danni radiosi, e il successivo tiro per colpire effettuato contro il bersaglio prima del termine del turno successivo dell'incantatore dispone di vantaggio.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
 
 ## Deflagrazione occulta
 
@@ -1979,9 +1994,10 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 
 
 L'incantatore scaglia un raggio di energia crepitante, effettuando un attacco a distanza con incantesimo contro una creatura o un oggetto entro gittata. Se il colpo va a segno, il bersaglio subisce 1d10 danni da forza.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. L'incantesimo crea due raggi al 5º livello, tre raggi all'11º livello e quattro raggi al 17º livello. L'incantatore può indirizzare i raggi contro lo stesso bersaglio o contro bersagli differenti, effettuando un tiro per colpire separato per ogni raggio.
+**Trucchetto potenziato**
+L'incantesimo crea due raggi al 5º livello, tre raggi all'11º livello e quattro raggi al 17º livello. L'incantatore può indirizzare i raggi contro lo stesso bersaglio o contro bersagli differenti, effettuando un tiro per colpire separato per ogni raggio.
 
 ## Desiderio
 
@@ -2005,7 +2021,20 @@ L'uso base di questo incantesimo è riprodurre un qualsiasi altro incantesimo di
 
 In alternativa, l'incantatore può creare uno dei seguenti effetti a sua scelta:
 
-Creazione di un oggetto. L'incantatore crea un oggetto del valore massimo di 25.000 mo che non sia un oggetto magico e che non misuri più di 90 metri in ogni dimensione. L'oggetto si materializza a terra in uno spazio libero che l'incantatore è in grado di vedere. Salute istantanea. L'incantatore consente a sé e un massimo di venti creature che egli è in grado di vedere di recuperare tutti i punti ferita e pone fine a tutti gli effetti su di loro come descritto nell'incantesimo ristorare superiore. Resistenza. L'incantatore conferisce a un massimo di dieci creature che egli è in grado di vedere resistenza a un tipo di danno a sua scelta. La resistenza conferita è permanente. Immunità a un incantesimo. L'incantatore confe- risce a un massimo di dieci creature che egli è in grado di vedere immunità a un singolo incantesimo o un altro effetto magico per 8 ore. Apprendimento improvviso. L'incantatore sostituisce uno dei suoi talenti con un altro di cui soddisfa i requisiti, perdendo tutti i benefici di quello precedente e ottenendo quelli del nuovo talento. Non è possibile sostituirne uno che è un prerequisito per altri talenti o caratteristiche del personaggio. Ripetizione del tiro. L'incantatore annulla un singolo evento recente imponendo la ripetizione di un qualsiasi tiro effettuato entro l'ultimo round (incluso il suo ultimo turno). La realtà viene rimodellata e si adatta al nuovo risultato. Per esempio, un incantesimo desiderio potrebbe annullare un tiro salvezza fallito da un alleato o il colpo critico inferto da un avversario. L'incantatore può imporre che il tiro ripetuto sia effettuato con vantaggio o svantaggio e poi può scegliere se usare il tiro ripetuto o il tiro originale. Riplasmazione della realtà. L'incantatore potrebbe desiderare qualcosa che non è incluso negli altri effetti elencati. Per farlo, deve dichiarare il suo desiderio al GM nel modo più preciso possibile. Il GM ha la massima libertà di decidere cosa accade in questi casi: più potente è il desiderio, maggiori sono le probabilità che qualcosa vada storto. L'incantesimo potrebbe semplicemente fallire, l'effetto desiderato potrebbe avverarsi solo in parte o l'incantatore potrebbe subire conseguenze inaspettate come risultato della formulazione del desiderio. Per esempio, se desidera che un suo nemico sia morto, potrebbe essere trascinato nel futuro fino al momento in cui quel nemico non è più in vita, venendo a tutti gli effetti rimosso dal gioco. Analogamente, se desidera un manufatto o un oggetto magico leggendario, potrebbe essere trasportato istantaneamente in presenza del suo attuale proprietario. Se il desiderio viene esaudito e i suoi effetti hanno conseguenze per un'intera comunità, regione o per tutto il mondo, l'incantatore potrebbe attirare l'attenzione di potenti nemici. Se invece potrebbe avere effetti su una divinità, i suoi servi divini potrebbero intervenire all'istante per impedirlo o incoraggiare l'incantatore a formularlo in un modo preciso. Se dovesse disfare il multiverso stesso, il desiderio fallisce.
+**Creazione di un oggetto**
+L'incantatore crea un oggetto del valore massimo di 25.000 mo che non sia un oggetto magico e che non misuri più di 90 metri in ogni dimensione. L'oggetto si materializza a terra in uno spazio libero che l'incantatore è in grado di vedere. Salute istantanea. L'incantatore consente a sé e un massimo di venti creature che egli è in grado di vedere di recuperare tutti i punti ferita e pone fine a tutti gli effetti su di loro come descritto nell'incantesimo ristorare superiore. 
+
+**Resistenza**
+L'incantatore conferisce a un massimo di dieci creature che egli è in grado di vedere resistenza a un tipo di danno a sua scelta. La resistenza conferita è permanente. Immunità a un incantesimo. L'incantatore confe- risce a un massimo di dieci creature che egli è in grado di vedere immunità a un singolo incantesimo o un altro effetto magico per 8 ore. 
+
+**Apprendimento improvviso**
+L'incantatore sostituisce uno dei suoi talenti con un altro di cui soddisfa i requisiti, perdendo tutti i benefici di quello precedente e ottenendo quelli del nuovo talento. Non è possibile sostituirne uno che è un prerequisito per altri talenti o caratteristiche del personaggio. 
+
+**Ripetizione del tiro**
+L'incantatore annulla un singolo evento recente imponendo la ripetizione di un qualsiasi tiro effettuato entro l'ultimo round (incluso il suo ultimo turno). La realtà viene rimodellata e si adatta al nuovo risultato. Per esempio, un incantesimo desiderio potrebbe annullare un tiro salvezza fallito da un alleato o il colpo critico inferto da un avversario. L'incantatore può imporre che il tiro ripetuto sia effettuato con vantaggio o svantaggio e poi può scegliere se usare il tiro ripetuto o il tiro originale. 
+
+**Riplasmazione della realtà**
+L'incantatore potrebbe desiderare qualcosa che non è incluso negli altri effetti elencati. Per farlo, deve dichiarare il suo desiderio al GM nel modo più preciso possibile. Il GM ha la massima libertà di decidere cosa accade in questi casi: più potente è il desiderio, maggiori sono le probabilità che qualcosa vada storto. L'incantesimo potrebbe semplicemente fallire, l'effetto desiderato potrebbe avverarsi solo in parte o l'incantatore potrebbe subire conseguenze inaspettate come risultato della formulazione del desiderio. Per esempio, se desidera che un suo nemico sia morto, potrebbe essere trascinato nel futuro fino al momento in cui quel nemico non è più in vita, venendo a tutti gli effetti rimosso dal gioco. Analogamente, se desidera un manufatto o un oggetto magico leggendario, potrebbe essere trasportato istantaneamente in presenza del suo attuale proprietario. Se il desiderio viene esaudito e i suoi effetti hanno conseguenze per un'intera comunità, regione o per tutto il mondo, l'incantatore potrebbe attirare l'attenzione di potenti nemici. Se invece potrebbe avere effetti su una divinità, i suoi servi divini potrebbero intervenire all'istante per impedirlo o incoraggiare l'incantatore a formularlo in un modo preciso. Se dovesse disfare il multiverso stesso, il desiderio fallisce.
 
 La tensione provocata dal lancio di desiderio per produrre un qualsiasi effetto diverso dalla duplicazione di un altro incantesimo debilita l'incantatore. Dopo aver sopportato quella tensione, ogni volta che l'incantatore lancia un incantesimo prima di avere completato un riposo lungo, subisce 1d10 danni necrotici per livello di quell'incantesimo. Questi danni non possono essere ridotti o prevenuti in alcun modo. Inoltre, il punteggio di Forza dell'incantatore scende a 3 per 2d4 giorni. Per ognuno di quei giorni trascorso a riposare e a non fare nulla fuorché attività poco impegnative, il tempo di recupero rimanente diminuisce di 2 giorni. Esiste infine una probabilità del 33% che l'incantatore non sia più in grado di lanciare desiderio, se non riesce a reggere la tensione.
 
@@ -2073,9 +2102,10 @@ Una creatura bersagliata da questo incantesimo effettua un tiro salvezza su Dest
 
 Questo incantesimo disintegra automaticamente un oggetto non magico di taglia Grande o inferiore, oppure una creazione di forza magica. Se il bersaglio è Enorme o superiore, questo incantesimo ne disintegra una parte pari a un cubo con spigolo di 3 metri.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 3d6 per ogni slot di livello superiore al 6º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 3d6 per ogni slot di livello superiore al 6º.
 
 ## Disorientare
 
@@ -2139,9 +2169,10 @@ Spezzare ammaliamento. Come azione di Magia, l'incantatore tocca una creatura af
 
 L'incantatore sceglie una creatura, un oggetto o un effetto magico situato entro gittata. Ogni incantesimo di 3º livello o inferiore presente sul bersaglio termina. Per ogni incantesimo di 4º livello o superiore presente sul bersaglio, l'incantatore effettua una prova di caratteristica usando la propria caratteristica da incantatore (CD 10 più il livello di quell'incantesimo). Se la prova viene superata, l'incantesimo termina.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore termina automaticamente un incantesimo sul bersaglio se il livello di quell'incantesimo è pari o inferiore al livello dello slot incantesimo usato dall'incantatore.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore termina automaticamente un incantesimo sul bersaglio se il livello di quell'incantesimo è pari o inferiore al livello dello slot incantesimo usato dall'incantatore.
 
 ## Dito della morte
 
@@ -2205,9 +2236,10 @@ L'incantatore ha un legame telepatico con il bersaglio affascinato mentre i due 
 
 L'incantatore può comandare al bersaglio di effettuare una reazione, ma per farlo dovrà utilizzare la propria reazione.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La concentrazione dell'incantatore può durare più a lungo utilizzando uno slot incantesimo di 5º livello (fino a 10 minuti), di 6º livello (fino a 1 ora) o di 7º livello o superiore (fino a 8 ore).
+**Utilizzo di uno slot incantesimo di livello superiore**
+La concentrazione dell'incantatore può durare più a lungo utilizzando uno slot incantesimo di 5º livello (fino a 10 minuti), di 6º livello (fino a 1 ora) o di 7º livello o superiore (fino a 8 ore).
 
 ## Dominare mostri
 
@@ -2231,9 +2263,10 @@ L'incantatore ha un legame telepatico con il bersaglio affascinato mentre i due 
 
 L'incantatore può comandare al bersaglio di effettuare una reazione, ma per farlo dovrà utilizzare la propria reazione.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La concentrazione dell'incantatore può durare più a lungo usando uno slot incantesimo di 9º livello (fino a 8 ore).
+**Utilizzo di uno slot incantesimo di livello superiore**
+La concentrazione dell'incantatore può durare più a lungo usando uno slot incantesimo di 9º livello (fino a 8 ore).
 
 ## Dominare persone
 
@@ -2257,9 +2290,10 @@ L'incantatore ha un legame telepatico con il bersaglio affascinato mentre i due 
 
 L'incantatore può comandare al bersaglio di effettuare una reazione, ma per farlo dovrà utilizzare la propria reazione.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La concentrazione dell'incantatore può durare più a lungo utilizzando uno slot incantesimo di 6º livello (fino a 10 minuti), di 7º livello (fino a 1 ora) o di 8º livello o superiore (fino a 8 ore).
+**Utilizzo di uno slot incantesimo di livello superiore**
+La concentrazione dell'incantatore può durare più a lungo utilizzando uno slot incantesimo di 6º livello (fino a 10 minuti), di 7º livello (fino a 1 ora) o di 8º livello o superiore (fino a 8 ore).
 
 ## Elementalismo
 
@@ -2279,15 +2313,20 @@ Utilizzo di uno slot incantesimo di livello superiore. La concentrazione dell'in
 
 L'incantatore esercita il suo controllo sugli elementi, creando uno dei seguenti effetti entro gittata.
 
-Richiamo del fuoco. Nell'area di un cubo con spigolo di 1,5 metri, l'incantatore crea una piccola nube di braci non incandescenti, colorate e che emettono fumo e un odore particolare. L'incantatore sceglie il colore e l'odore delle braci, che si possono usare per accendere candele, torce o lampade in quell'area. L'odore del fumo permane per 1 minuto.
+**Richiamo del fuoco**
+Nell'area di un cubo con spigolo di 1,5 metri, l'incantatore crea una piccola nube di braci non incandescenti, colorate e che emettono fumo e un odore particolare. L'incantatore sceglie il colore e l'odore delle braci, che si possono usare per accendere candele, torce o lampade in quell'area. L'odore del fumo permane per 1 minuto.
 
-Richiamo dell'acqua. L'incantatore crea uno spruzzo d'acqua fresca nebulizzata che inumidisce leggermente le creature e gli oggetti all'interno di un cubo con spigolo di 1,5 metri. In alternativa, crea 1 coppa di acqua pulita da riversare all'interno di un contenitore aperto o su una superficie; l'acqua evapora dopo 1 minuto.
+**Richiamo dell'acqua**
+L'incantatore crea uno spruzzo d'acqua fresca nebulizzata che inumidisce leggermente le creature e gli oggetti all'interno di un cubo con spigolo di 1,5 metri. In alternativa, crea 1 coppa di acqua pulita da riversare all'interno di un contenitore aperto o su una superficie; l'acqua evapora dopo 1 minuto.
 
-Richiamo dell'aria. Nell'area di un cubo con spigolo di 1,5 metri, l'incantatore crea una brezza in grado di far svolazzare i tessuti, sollevare la polvere, far oscillare le foglie e chiudere porte e persiane aperte. Se le porte e le persiane sono tenute aperte da qualcuno, l'incantesimo non ha effetto su di esse.
+**Richiamo dell'aria**
+Nell'area di un cubo con spigolo di 1,5 metri, l'incantatore crea una brezza in grado di far svolazzare i tessuti, sollevare la polvere, far oscillare le foglie e chiudere porte e persiane aperte. Se le porte e le persiane sono tenute aperte da qualcuno, l'incantesimo non ha effetto su di esse.
 
-Richiamo della terra. L'incantatore crea un sottile velo di polvere o sabbia che ricopre le superfici di un'area di 1,5 metri per lato, oppure fa comparire una singola parola scritta nella sua calligrafia su un lembo di terra o un letto di sabbia.
+**Richiamo della terra**
+L'incantatore crea un sottile velo di polvere o sabbia che ricopre le superfici di un'area di 1,5 metri per lato, oppure fa comparire una singola parola scritta nella sua calligrafia su un lembo di terra o un letto di sabbia.
 
-Scolpire elementi. L'incantatore fa in modo che un elemento a sua scelta tra terra, sabbia, fuoco, fumo, nebbia o acqua (in una quantità tale da poter essere contenuto in un cubo con spigolo di 30 centimetri) assuma una forma rozza (come quella di una creatura) per 1 ora.
+**Scolpire elementi**
+L'incantatore fa in modo che un elemento a sua scelta tra terra, sabbia, fuoco, fumo, nebbia o acqua (in una quantità tale da poter essere contenuto in un cubo con spigolo di 30 centimetri) assuma una forma rozza (come quella di una creatura) per 1 ora.
 
 ## Eroismo
 
@@ -2307,9 +2346,10 @@ Scolpire elementi. L'incantatore fa in modo che un elemento a sua scelta tra ter
 
 Una creatura consenziente toccata dall'incantatore è animata da grande coraggio. Fino al termine dell'incantesimo, la creatura è immune alla condizione spaventato e all'inizio di ogni suo turno ottiene una quantità di punti ferita temporanei pari al modificatore di caratteristica da incantatore dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
 
 ## Esilio
 
@@ -2331,9 +2371,10 @@ Una creatura entro gittata che l'incantatore è in grado di vedere deve superare
 
 Se l'incantesimo sul bersaglio dura 1 minuto, il bersaglio non fa ritorno se è un'aberrazione, un celestiale, un elementale, un folletto o un immondo. In questo caso, viene trasportato in un luogo casuale di un piano (a scelta del GM) associato al tipo di creatura di cui fa parte.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 4º.
 
 ## Esplosione solare
 
@@ -2397,9 +2438,10 @@ Mentre si trova entro 1,5 metri dal branco, l'incantatore dispone di vantaggio a
 
 Ogni volta che il branco si muove entro 3 metri da una creatura che l'incantatore è in grado di vedere e ogni volta che una creatura che l'incantatore è in grado di vedere entra in uno spazio entro 3 metri dal branco o vi termina il suo turno, l'incantatore può costringerla a effettuare un tiro salvezza su Destrezza. In caso di fallimento, subisce 3d10 danni taglienti. Una creatura effettua questo tiro salvezza solo una volta per turno.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d10 per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d10 per ogni slot di livello superiore al 3º.
 
 ## Evoca celestiale
 
@@ -2425,9 +2467,10 @@ Fino al termine dell'incantesimo, una luce intensa riempie il cilindro e, quando
 
 Ogni volta che il cilindro si muove nello spazio di una creatura che l'incantatore è in grado di vedere e ogni volta che una creatura che l'incantatore è in grado di vedere entra nel cilindro o vi termina il suo turno, l'incantatore può immergerla in una di queste luci. Una creatura può essere influenzata da questo incantesimo solo una volta per turno.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni e la guarigione aumentano di 1d12 per ogni slot di livello superiore al 7º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni e la guarigione aumentano di 1d12 per ogni slot di livello superiore al 7º.
 
 ## Evoca creature boschive
 
@@ -2449,9 +2492,10 @@ L'incantatore evoca degli spiriti della natura che gli fluttuano attorno in un'e
 
 Inoltre, per la durata dell'incantesimo, l'incantatore può effettuare l'azione di Disimpegno come azione bonus.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
 
 ## Evoca elementale
 
@@ -2473,9 +2517,10 @@ L'incantatore può evocare uno spirito intangibile di taglia Grande dai Piani El
 
 Ogni volta che una creatura che l'incantatore è in grado di vedere entra nello spazio dello spirito o inizia il suo turno entro un raggio di 1,5 metri da esso, l'incantatore può costringerla a effettuare un tiro salvezza su Destrezza, a patto che lo spirito non stia trattenendo una creatura. In caso di fallimento, il bersaglio subisce 8d8 danni del tipo dello spirito, e il bersaglio è trattenuto fino al termine dell'incantesimo. All'inizio di ogni suo turno, il bersaglio trattenuto ripete il tiro. In caso di fallimento, il bersaglio subisce 4d8 danni del tipo determinato dallo spirito. In caso di successo, il bersaglio non è più trattenuto dallo spirito.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
 
 ## Evoca elementali minori
 
@@ -2497,9 +2542,10 @@ L'incantatore evoca degli spiriti dai Piani Elementali che gli fluttuano attorno
 
 Inoltre, il terreno all'interno dell'emanazione diventa terreno difficile per i nemici.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
 
 ## Evoca folletto
 
@@ -2521,9 +2567,10 @@ L'incantatore evoca uno spirito di taglia Media dalla Selva Fatata in uno spazio
 
 Come azione bonus nei suoi turni successivi, l'incantatore può teletrasportare lo spirito in uno spazio libero che è in grado di vedere, a una distanza massima di 9 metri dal punto in cui si trovava prima, ed effettuare l'attacco contro una creatura entro 1,5 metri dallo spirito.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d12 per ogni slot di livello superiore al 6º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d12 per ogni slot di livello superiore al 6º.
 
 ## Evocazioni istantanee
 
@@ -2701,9 +2748,10 @@ Una fiamma si sprigiona da un oggetto toccato dall'incantatore. L'effetto proiet
 
 Un bagliore simile a una fiamma discende su una creatura entro gittata che egli è in grado di vedere. Il bersaglio deve superare un tiro salvezza su Destrezza, altrimenti subisce 1d8 danni radiosi. Per questo tiro salvezza, il bersaglio non trae beneficio dalla mezza copertura o dai tre quarti di copertura.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
+**Trucchetto potenziato**
+I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
 
 ## Fiotto acido
 
@@ -2723,9 +2771,10 @@ Trucchetto potenziato. I danni aumentano di 1d8 quando l'incantatore raggiunge i
 
 L'incantatore crea una bolla di acido in un punto entro gittata, dove la bolla esplode in una sfera del raggio di 1,5 metri. Ogni creatura all'interno della sfera deve superare un tiro salvezza su Destrezza, altrimenti subisce 1d6 danni da acido.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d6 quando l'incantatore raggiunge il 5º livello (2d6), l'11º livello (3d6) e il 17º livello (4d6).
+**Trucchetto potenziato**
+I danni aumentano di 1d6 quando l'incantatore raggiunge il 5º livello (2d6), l'11º livello (3d6) e il 17º livello (4d6).
 
 ## Folata di vento
 
@@ -2797,9 +2846,10 @@ Al termine dell'incantesimo, l'incantatore torna sul piano da cui proviene, sul 
 
 Questo incantesimo termina all'istante se l'incantatore lo lancia mentre si trova sul Piano Etereo o su un piano non confinante, come uno dei Piani Esterni.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare fino a un massimo di tre creature consenzienti (incluso se stesso) per ogni slot di livello superiore al 7º. Al momento del lancio dell'incantesimo, le creature non devono trovarsi a più di 3 metri dall'incantatore.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare fino a un massimo di tre creature consenzienti (incluso se stesso) per ogni slot di livello superiore al 7º. Al momento del lancio dell'incantesimo, le creature non devono trovarsi a più di 3 metri dall'incantatore.
 
 ## Forma gassosa
 
@@ -2823,9 +2873,10 @@ Mentre si trova in questa forma, una velocità di volo di 3 metri è l'unico met
 
 Il bersaglio non può parlare o manipolare oggetti e quelli che trasporta o impugna non possono essere lasciati cadere, usati o manipolati in alcun modo. Infine, il bersaglio non può attaccare o lanciare incantesimi.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 3º.
 
 ## Forme animali
 
@@ -2869,9 +2920,10 @@ Un rumore assordante esplode da un punto a scelta dell'incantatore entro gittata
 
 Anche un oggetto non magico che non sia indossato o trasportato subisce i danni se si trova entro l'area dell'incantesimo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 2º.
 
 ## Freccia acida
 
@@ -2891,9 +2943,10 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 
 
 Una freccia verde scintillante sfreccia verso un bersaglio entro gittata ed esplode in uno spruzzo di acido. L'incantatore effettua un attacco a distanza con incantesimo contro il bersaglio. Se il colpo va a segno, il bersaglio subisce 4d4 danni da acido e 2d4 danni da acido alla fine del suo turno successivo. Se il colpo manca, la freccia schizza acido sul bersaglio, infliggendo solo la metà dei danni iniziali.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni (sia iniziali che successivi) aumentano di 1d4 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni (sia iniziali che successivi) aumentano di 1d4 per ogni slot di livello superiore al 2º.
 
 ## Fulmine
 
@@ -2913,9 +2966,10 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni (sia iniziali che
 
 Un fulmine parte dall'incantatore in una direzione a sua scelta, formando una linea lunga 30 metri e larga 1,5 metri. Ogni creatura sulla linea effettua un tiro salvezza su Destrezza; se lo fallisce, subisce 8d6 danni da fulmine, mentre se lo supera subisce la metà dei danni.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 3º.
 
 ## Fuorviare
 
@@ -3025,9 +3079,10 @@ Runa esplosiva. Quando attivato, il glifo esplode in una sfera di energia magica
 
 Glifo magico. L'incantatore può custodire un incantesimo preparato di 3º livello o inferiore all'interno del glifo lanciandolo come parte del suo processo di creazione. L'incantesimo deve avere come bersaglio una sola creatura o un'area. In questo modo, l'incantesimo custodito non ha effetto immediato, ma ha effetto quando il glifo si attiva. Se l'incantesimo ha un bersaglio, risulterà essere la creatura che ha attivato il glifo, mentre se influenza un'area, tale area sarà centrata su quella creatura. Se l'incantesimo evoca creature ostili oppure crea oggetti o trappole dannose, ciò che viene evocato o creato appare nel punto più vicino possibile all'intruso e lo attacca. Se l'incantesimo richiede concentrazione, permane per tutta la sua durata.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni di una runa esplosiva aumentano di 1d8 per ogni slot di livello superiore al 3º. Se l'incantatore crea un glifo magico, può custodirvi qualsiasi incantesimo di livello pari o inferiore a quello dello slot incantesimo usato per il glifo di interdizione.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni di una runa esplosiva aumentano di 1d8 per ogni slot di livello superiore al 3º. Se l'incantatore crea un glifo magico, può custodirvi qualsiasi incantesimo di livello pari o inferiore a quello dello slot incantesimo usato per il glifo di interdizione.
 
 ## Globo cromatico
 
@@ -3049,9 +3104,10 @@ L'incantatore scaglia un globo di energia contro un bersaglio entro gittata. Pu�
 
 Se l'incantatore ottiene lo stesso risultato su due o più d8, il globo schizza verso un altro bersaglio a scelta dell'incantatore che si trovi entro 9 metri dal primo bersaglio. L'incantatore effettua un tiro per colpire contro il secondo bersaglio e anche un altro tiro per i danni. Il globo non può più schizzare verso un altro bersaglio, a meno che l'incantatore non lanci l'incantesimo usando uno slot incantesimo di 2º livello o superiore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 1º. Il globo può schizzare verso un altro bersaglio un numero massimo di volte pari al livello dello slot incantesimo consumato, ed è possibile bersagliare una creatura soltanto una volta per ogni lancio di questo incantesimo.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 1º. Il globo può schizzare verso un altro bersaglio un numero massimo di volte pari al livello dello slot incantesimo consumato, ed è possibile bersagliare una creatura soltanto una volta per ogni lancio di questo incantesimo.
 
 ## Globo di invulnerabilità
 
@@ -3073,9 +3129,10 @@ Una barriera scintillante e immobile si materializza in un'emanazione di 3 metri
 
 Qualsiasi incantesimo di 5º livello o inferiore lanciato dall'esterno della barriera non può influenzare niente che si trovi al suo interno. Questo tipo di incantesimo può essere rivolto contro le creature e gli oggetti all'interno della barriera, senza tuttavia avere effetti su di loro. Allo stesso modo, l'area all'interno della barriera è esclusa dalle aree di effetto create da questo tipo di incantesimi.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La barriera blocca incantesimi superiori di 1 livello per ogni slot di livello superiore al 6º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+La barriera blocca incantesimi superiori di 1 livello per ogni slot di livello superiore al 6º.
 
 ## Guardiani spirituali
 
@@ -3097,9 +3154,10 @@ Degli spiriti protettori fluttuano attorno al personaggio in un'emanazione di 4,
 
 Quando l'incantatore lancia questo incantesimo, può indicare le creature che non ne saranno influenzate. All'interno dell'emanazione, la velocità di ogni altra creatura è dimezzata e, ogni volta che una creatura entra nel suo spazio e viceversa, o ogni volta che vi termina lì il turno, dovrà effettuare un tiro salvezza su Saggezza. Se lo fallisce, subisce 3d8 danni radiosi (se l'incantatore è buono o neutrale) o 3d8 danni necrotici (se è malvagio), mentre se lo supera subisce soltanto la metà di quei danni. Una creatura effettua questo tiro salvezza solo una volta per turno.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 3º.
 
 ## Guardiano della fede
 
@@ -3139,9 +3197,10 @@ Qualsiasi nemico si muova in uno spazio entro 3 metri dal guardiano per la prima
 
 L'incantatore sceglie una creatura entro gittata che egli è in grado di vedere. Un flusso di energia positiva investe il bersaglio, facendogli recuperare 70 punti ferita. Inoltre, questo incantesimo termina le condizioni accecato, assordato e avvelenato che affliggono il bersaglio.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 10 per ogni slot di livello superiore al 6º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+La guarigione aumenta di 10 per ogni slot di livello superiore al 6º.
 
 ## Guarigione di massa
 
@@ -3239,9 +3298,11 @@ L'incantatore crea un suono o un'immagine di un oggetto entro gittata che perman
 
 Se una creatura effettua l'azione di Studio per esaminare il suono o l'immagine, può determinare che si tratta di un'illusione superando una prova di Intelligenza (Indagare) contro la CD del tiro salvezza sull'incantesimo. Se una creatura riconosce l'illusione per ciò che è, l'illusione risulta attenuata per quella creatura.
 
-Suono. Se l'incantatore crea un suono, la sua intensità può variare da quella di un sussurro a quella di un urlo. Può trattarsi della voce dell'incantatore o di altri, del ruggito di un leone, di un rullo di tamburi o di un qualsiasi altro suono a sua scelta. Il suono può echeggiare ininterrottamente per tutta la durata dell'incantesimo, oppure l'incantatore può emettere dei suoni separati in momenti diversi prima che l'incantesimo termini.
+**Suono**
+Se l'incantatore crea un suono, la sua intensità può variare da quella di un sussurro a quella di un urlo. Può trattarsi della voce dell'incantatore o di altri, del ruggito di un leone, di un rullo di tamburi o di un qualsiasi altro suono a sua scelta. Il suono può echeggiare ininterrottamente per tutta la durata dell'incantesimo, oppure l'incantatore può emettere dei suoni separati in momenti diversi prima che l'incantesimo termini.
 
-Immagine. Se l'incantatore crea l'immagine di un oggetto (come per esempio una sedia, una serie di impronte nel fango o uno scrigno), quell'oggetto non deve essere più grande di un cubo con spigolo di 1,5 metri. L'illusione non può emettere suoni, luci, odori o qualsiasi altro effetto sensoriale L'illusione può essere rivelata da un'interazione fisica, poiché gli oggetti possono attraversarla.
+**Immagine**
+Se l'incantatore crea l'immagine di un oggetto (come per esempio una sedia, una serie di impronte nel fango o uno scrigno), quell'oggetto non deve essere più grande di un cubo con spigolo di 1,5 metri. L'illusione non può emettere suoni, luci, odori o qualsiasi altro effetto sensoriale L'illusione può essere rivelata da un'interazione fisica, poiché gli oggetti possono attraversarla.
 
 ## Illusione programmata
 
@@ -3289,9 +3350,10 @@ Se l'incantatore si trova entro la gittata dell'immagine illusoria, può effettu
 
 L'illusione può essere rivelata da un'interazione fisica, poiché è possibile passarle attraverso. Una creatura che effettua l'azione di Studio per esaminare l'immagine può determinare che si tratta di un'illusione superando una prova di Intelligenza (Indagare) contro la CD del tiro salvezza sull'incantesimo. Se una creatura riconosce l'illusione per ciò che è, riesce a vedere attraverso l'immagine, di cui si attenuano le altre caratteristiche sensoriali.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantesimo dura finché non viene dissolto, e non necessita di concentrazione, se viene lanciato con uno slot incantesimo 4º livello o superiore.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantesimo dura finché non viene dissolto, e non necessita di concentrazione, se viene lanciato con uno slot incantesimo 4º livello o superiore.
 
 ## Immagine proiettata
 
@@ -3405,9 +3467,10 @@ Una creatura entro gittata che l'incantatore è in grado di vedere effettua un t
 
 In alternativa, l'incantatore bersaglia un vegetale non magico che non sia una creatura, come un albero o un arbusto. Il vegetale non effettua il tiro salvezza, semplicemente appassisce e muore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
 
 ## Individuazione dei pensieri
 
@@ -3427,12 +3490,12 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 
 
 L'incantatore attiva uno dei seguenti effetti. Fino al termine dell'incantesimo, può attivare entrambi gli effetti come azione di Magia nei suoi turni successivi.
 
-Pensieri sensoriali. L'incantatore percepisce la presenza di pensieri entro 9 metri da sé appartenenti a creature che conoscono delle lingue o che comunicano telepaticamente. L'incantatore non legge nel pensiero, ma avverte la presenza di una creatura pensante.
-
+**Pensieri sensoriali** 
+L'incantatore percepisce la presenza di pensieri entro 9 metri da sé appartenenti a creature che conoscono delle lingue o che comunicano telepaticamente. L'incantatore non legge nel pensiero, ma avverte la presenza di una creatura pensante.
 L'incantesimo viene bloccato da 30 cm di pietra, terriccio o legno, 2,5 centimetri di metallo o una sottile lamina di piombo.
 
-Lettura del pensiero. L'incantatore bersaglia una creatura entro 9 metri da sé che egli è in grado di vedere o che ha individuato con l'opzione Pensieri sensoriali e apprende i pensieri superficiali del bersaglio, ciò che sta pensando in quel momento. Se il bersaglio non conosce alcuna lingua e non comunica telepaticamente, l'incantatore non apprende nulla.
-
+**Lettura del pensiero**
+L'incantatore bersaglia una creatura entro 9 metri da sé che egli è in grado di vedere o che ha individuato con l'opzione Pensieri sensoriali e apprende i pensieri superficiali del bersaglio, ciò che sta pensando in quel momento. Se il bersaglio non conosce alcuna lingua e non comunica telepaticamente, l'incantatore non apprende nulla.
 Come azione di Magia nel suo turno successivo, l'incantatore può provare a scavare più in profondità nella mente della creatura. Nell'ultimo caso, il bersaglio effettua un tiro salvezza su Saggezza. In caso di fallimento, l'incantatore ha accesso ai suoi ragionamenti, al suo stato emotivo e a ciò che principalmente riempie la sua mente (qualcosa di cui si preoccupa, che ama o odia). In caso di successo, l'incantesimo termina. In ogni caso, il bersaglio è consapevole che l'incantatore ha accesso alla sua mente e, se quest'ultimo non distoglie la sua attenzione dalla mente del bersaglio, il bersaglio può usare un'azione nel proprio turno per effettuare una prova di Intelligenza (Arcano) contro la CD del tiro salvezza sull'incantesimo; in caso di successo, l'incantesimo termina.
 
 ## Individuazione del bene e del male
@@ -3513,9 +3576,10 @@ L'incantesimo viene bloccato da 30 cm di pietra, terriccio o legno, 2,5 centimet
 
 Una creatura toccata dall'incantatore effettua un tiro salvezza su Costituzione, subendo 2d10 danni necrotici in caso di fallimento, o la metà dei danni in caso di successo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d10 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d10 per ogni slot di livello superiore al 1º.
 
 ## Ingrandire/ridurre
 
@@ -3537,9 +3601,11 @@ Per la durata dell'incantesimo, l'incantatore ingrandisce o riduce una creatura 
 
 Tutto ciò che la creatura indossa o trasporta cambia di taglia insieme a lei. Se un oggetto cade a terra, torna immediatamente alle sue dimensioni normali. Le armi da lancio e le munizioni tornano alle loro dimensioni normali subito dopo aver colpito o mancato un bersaglio.
 
-Ingrandire. La taglia del bersaglio aumenta di una categoria (da Media a Grande, per esempio). Il bersaglio dispone anche di vantaggio alle prove di Forza e ai tiri salvezza su Forza. Gli attacchi effettuati dal bersaglio con armi ingrandite o con colpi senz'armi infliggono 1d4 danni extra se il colpo va a segno.
+**Ingrandire**
+La taglia del bersaglio aumenta di una categoria (da Media a Grande, per esempio). Il bersaglio dispone anche di vantaggio alle prove di Forza e ai tiri salvezza su Forza. Gli attacchi effettuati dal bersaglio con armi ingrandite o con colpi senz'armi infliggono 1d4 danni extra se il colpo va a segno.
 
-Ridurre. La taglia del bersaglio diminuisce di una categoria (da Media a Piccola, per esempio). Il bersaglio dispone anche di svantaggio alle prove di Forza e ai tiri salvezza su Forza. Gli attacchi effettuati dal bersaglio con armi ridotte o con colpi senz'armi infliggono 1d4 danni in meno se il colpo va a segno (i danni non possono scendere a meno di 1).
+**Ridurre**
+La taglia del bersaglio diminuisce di una categoria (da Media a Piccola, per esempio). Il bersaglio dispone anche di svantaggio alle prove di Forza e ai tiri salvezza su Forza. Gli attacchi effettuati dal bersaglio con armi ridotte o con colpi senz'armi infliggono 1d4 danni in meno se il colpo va a segno (i danni non possono scendere a meno di 1).
 
 ## Insetto gigante
 
@@ -3561,11 +3627,10 @@ L'incantatore evoca un millepiedi gigante, un ragno gigante o una vespa gigante 
 
 ed è un alleato per il personaggio e i suoi alleati. In combattimento, la creatura ha lo stesso punteggio di iniziativa dell'incantatore, ma inizia il turno immediatamente dopo il suo, obbedendo ai suoi comandi verbali (nessuna azione richiesta da parte dell'incantatore). Se l'incantatore non pronuncia comandi verbali, la creatura compie l'azione di Schivata e usa il suo movimento per sottrarsi al pericolo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
-
-
+**Utilizzo di uno slot incantesimo di livello superiore**
+Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
 
 ## Interdizione alla morte
 
@@ -3625,9 +3690,10 @@ L'incantatore fa ritorno sull'altro piano all'inizio del suo turno successivo e 
 
 La creatura che ha inflitto danni all'incantatore viene temporaneamente avviluppata da fiamme verdi. La creatura effettua un tiro salvezza su Destrezza, subendo 2d10 danni da fuoco in caso di fallimento, o la metà dei danni in caso di successo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d10 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d10 per ogni slot di livello superiore al 1º.
 
 ## Intralciare
 
@@ -3709,9 +3775,10 @@ Quando riceve il messaggio, una creatura può bloccare la capacità dell'incanta
 
 Una creatura toccata dall'incantatore diventa invisibile fino al termine dell'incantesimo. L'incantesimo termina immediatamente quando il bersaglio effettua un tiro per colpire, infligge danni o lancia un incantesimo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 2º.
 
 ## Invisibilità superiore
 
@@ -3755,9 +3822,10 @@ Fino al termine dell'incantesimo, l'incantatore può effettuare un'azione di Mag
 
 Se l'incantatore lancia questo incantesimo mentre si trova all'aperto durante una tempesta, l'incantesimo permette di controllare quella tempesta invece di crearne una nuova. In queste condizioni, i danni provocati dall'incantesimo aumentano di 1d10.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d10 per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d10 per ogni slot di livello superiore al 3º.
 
 ## Labirinto
 
@@ -3803,9 +3871,10 @@ Come azione di Magia, l'incantatore può effettuare un attacco in mischia con la
 
 La lama infuocata emana luce intensa in un raggio di 3 metri e luce fioca per ulteriori 3 metri.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
 
 ## Legame planare
 
@@ -3827,9 +3896,10 @@ L'incantatore tenta di vincolare un celestiale, un elementale, un folletto o un 
 
 Una creatura vincolata deve eseguire gli ordini al meglio delle sue capacità. L'incantatore potrebbe ordinarle di accompagnarlo in un'avventura, di proteggere un luogo o di consegnare un messaggio. Se la creatura è ostile, cercherà in tutti i modi di distorcere gli ordini dell'incantatore per perseguire i suoi obiettivi personali. Se la creatura porta a termine gli ordini dell'incantatore prima del termine dell'incantesimo, si reca da lui per riferirglielo, ma solo se si trovano sullo stesso piano di esistenza. Se l'incantatore si trova su un piano diverso, la creatura ritorna nel luogo in cui è stata vincolata e vi rimane fino al termine dell'incantesimo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La durata aumenta con uno slot incantesimo di 6º livello (10 giorni), di 7º livello (30 giorni), di 8º livello (180 giorni) e di 9º livello (366 giorni).
+**Utilizzo di uno slot incantesimo di livello superiore**
+La durata aumenta con uno slot incantesimo di 6º livello (10 giorni), di 7º livello (30 giorni), di 8º livello (180 giorni) e di 9º livello (366 giorni).
 
 ## Legame telepatico
 
@@ -3915,9 +3985,10 @@ L'incantatore tocca una creatura consenziente. Per la durata dell'incantesimo, i
 
 Inoltre, il bersaglio può usare 1,5 metri di movimento per sfuggire automaticamente alle restrizioni non magiche, come un paio di manette o la presa di una creatura che lo afferra.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 4º.
 
 ## Linguaggi
 
@@ -4077,9 +4148,10 @@ Se una parte dell'area di questo incantesimo si sovrappone a un'area di oscurit�
 
 L'incantatore lancia un globo di luce contro una creatura o un oggetto entro gittata, effettuando un attacco a distanza con incantesimo contro il bersaglio. Se il colpo va a segno, il bersaglio subisce 1d8 danni radiosi e, fino al termine del turno successivo dell'incantatore, emette luce fioca nel raggio di 3 metri e non può beneficiare della condizione di invisibilità.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
+**Trucchetto potenziato**
+I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
 
 ## Luci danzanti
 
@@ -4141,9 +4213,10 @@ Un sottile velo di fiamme si propaga dall'incantatore. Ogni creatura entro un co
 
 Gli oggetti infiammabili nel cono che non sono indossati o trasportati iniziano a bruciare.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
 
 ## Mano arcana
 
@@ -4167,13 +4240,22 @@ La mano è un oggetto che possiede CA 20 e una quantità di punti ferita pari ai
 
 Quando l'incantatore lancia l'incantesimo come azione bonus nei suoi turni successivi, può muovere la mano per un massimo di 18 metri e causare uno dei seguenti effetti:
 
-Mano interposta. La mano conferisce all'incanta- tore mezza copertura contro gli attacchi e altri effetti che hanno origine dal suo spazio o che la attraversano. Inoltre, il suo spazio conta come terreno difficile per i nemici. Mano possente. La mano tenta di spingere una creatura di taglia Enorme o inferiore situata entro 1,5 metri da essa: Il bersaglio deve superare un tiro salvezza su Forza, altrimenti viene spinto dalla mano fino a una distanza pari a 1,5 metri, più un numero di metri pari a cinque volte il modificatore di caratteristica da incantatore. La mano si muove insieme al bersaglio, rimanendo entro 1,5 metri da esso. Mano stritolatrice. La mano tenta di afferrare una creatura di taglia Enorme o inferiore situata entro 1,5 metri da essa. Il bersaglio deve superare un tiro salvezza su Destrezza, altrimenti viene afferrato; la CD per sfuggire alla presa è pari alla CD del tiro salvezza sull'incantesimo dell'incantatore. Mentre la mano afferra il bersaglio, l'incantatore può effettuare un'azione bonus per ordinarle di stritolarlo, infliggendogli danni contundenti pari a 4d6 più il modificatore di caratteristica da incantatore dell'incantatore.
+**Mano interposta**
+La mano conferisce all'incanta- tore mezza copertura contro gli attacchi e altri effetti che hanno origine dal suo spazio o che la attraversano. Inoltre, il suo spazio conta come terreno difficile per i nemici.
 
-Pugno serrato. La mano colpisce un bersaglio che si trova entro 1,5 metri da essa. L'incantatore effettua un attacco con incantesimo in mischia. Se il colpo va a segno, il bersaglio subisce 5d8 danni da forza.
+**Mano possente**
+La mano tenta di spingere una creatura di taglia Enorme o inferiore situata entro 1,5 metri da essa: Il bersaglio deve superare un tiro salvezza su Forza, altrimenti viene spinto dalla mano fino a una distanza pari a 1,5 metri, più un numero di metri pari a cinque volte il modificatore di caratteristica da incantatore. La mano si muove insieme al bersaglio, rimanendo entro 1,5 metri da esso. 
 
-### scaling
+**Mano stritolatrice**
+La mano tenta di afferrare una creatura di taglia Enorme o inferiore situata entro 1,5 metri da essa. Il bersaglio deve superare un tiro salvezza su Destrezza, altrimenti viene afferrato; la CD per sfuggire alla presa è pari alla CD del tiro salvezza sull'incantesimo dell'incantatore. Mentre la mano afferra il bersaglio, l'incantatore può effettuare un'azione bonus per ordinarle di stritolarlo, infliggendogli danni contundenti pari a 4d6 più il modificatore di caratteristica da incantatore dell'incantatore.
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni del pugno serrato aumentano di 2d8 e quelli della mano stritolatrice di 2d6 per ogni slot di livello superiore al 5º.
+**Pugno serrato**
+La mano colpisce un bersaglio che si trova entro 1,5 metri da essa. L'incantatore effettua un attacco con incantesimo in mischia. Se il colpo va a segno, il bersaglio subisce 5d8 danni da forza.
+
+### Scaling
+
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni del pugno serrato aumentano di 2d8 e quelli della mano stritolatrice di 2d6 per ogni slot di livello superiore al 5º.
 
 ## Mano magica
 
@@ -4219,11 +4301,10 @@ L'incantatore marchia magicamente come sua preda una creatura entro gittata che 
 
 Se il bersaglio scende a 0 punti ferita prima del termine dell'incantesimo, l'incantatore può effettuare un'azione bonus per spostare il marchio su un'altra creatura entro gittata che egli è in grado di vedere.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La concentrazione dell'incantatore può durare di più utilizzando uno slot incantesimo di
-
-3º o 4º livello (fino a 8 ore) o di 5º livello o superiore (fino a 24 ore).
+**Utilizzo di uno slot incantesimo di livello superiore**
+La concentrazione dell'incantatore può durare di più utilizzando uno slot incantesimo di 3º o 4º livello (fino a 8 ore) o di 5º livello o superiore (fino a 24 ore).
 
 ## Messaggio
 
@@ -4287,19 +4368,19 @@ L'attrezzatura del bersaglio si fonde nella sua nuova forma e la creatura non pu
 
 L'incantatore sceglie una creatura o un oggetto non magico entro gittata che egli è in grado di vedere La prima si trasforma in un'altra creatura o un oggetto non magico, mentre il secondo diventa una creatura (l'oggetto non deve essere né indossato né trasportato). La trasformazione permane per la durata dell'incantesimo, o finché il bersaglio non muore o viene distrutto. Tuttavia, se l'incantatore mantiene la concentrazione per l'intera durata, l'incantesimo ha efficacia finché non viene dissolto o una creatura non consenziente supera un tiro salvezza su Saggezza.
 
-Creatura in creatura. Se l'incantatore trasforma una creatura in un altro tipo di creatura, la nuova forma può essere di qualsiasi tipo, purché il suo grado di sfida sia pari o inferiore a quello del bersaglio (o al suo livello). Le sue statistiche di gioco sono sostituite dalla scheda delle statistiche della nuova forma, mantenendo punti ferita, Dadi Vita, allineamento e personalità.
+**Creatura in creatura**
+Se l'incantatore trasforma una creatura in un altro tipo di creatura, la nuova forma può essere di qualsiasi tipo, purché il suo grado di sfida sia pari o inferiore a quello del bersaglio (o al suo livello). Le sue statistiche di gioco sono sostituite dalla scheda delle statistiche della nuova forma, mantenendo punti ferita, Dadi Vita, allineamento e personalità.
 
 Il bersaglio guadagna un numero di punti ferita temporanei pari ai punti ferita della nuova forma. Al termine dell'incantesimo, il bersaglio perde tutti i punti ferita temporanei rimasti.
-
 Il bersaglio è limitato alle azioni che può effettuare in base alla anatomia della sua nuova forma e non può parlare o lanciare incantesimi.
-
 L'attrezzatura del bersaglio si fonde nella sua nuova forma e la creatura non può utilizzare il suo equipaggiamento o beneficiarne in alcun modo.
 
-Oggetto in creatura. L'incantatore può trasformare un oggetto in un qualsiasi tipo di creatura, purché la sua taglia non sia superiore a quella dell'oggetto e il suo grado di sfida sia pari o inferiore a 9. La creatura è amichevole nei confronti dell'incantatore e dei suoi compagni e, in combattimento, obbedisce ai suoi comandi e svolge il suo turno subito dopo di lui.
-
+**Oggetto in creatura**
+L'incantatore può trasformare un oggetto in un qualsiasi tipo di creatura, purché la sua taglia non sia superiore a quella dell'oggetto e il suo grado di sfida sia pari o inferiore a 9. La creatura è amichevole nei confronti dell'incantatore e dei suoi compagni e, in combattimento, obbedisce ai suoi comandi e svolge il suo turno subito dopo di lui.
 Tuttavia, se l'incantesimo dura per più di un'ora, l'incantatore perde il controllo su di essa. Potrebbe rimanere amichevole o meno nei suoi confronti, in base a come è stata trattata.
 
-Creatura in oggetto. Se l'incantatore trasforma una creatura in un oggetto, tutto ciò che essa indossa o trasporta si fonde nella nuova forma, purché la taglia dell'oggetto non sia superiore a quella della creatura. Le statistiche della creatura diventano quelle dell'oggetto e, una volta terminato l'incantesimo e tornata nella sua forma normale, essa non ricorderà nulla del tempo trascorso in quella forma.
+**Creatura in oggetto**
+Se l'incantatore trasforma una creatura in un oggetto, tutto ciò che essa indossa o trasporta si fonde nella nuova forma, purché la taglia dell'oggetto non sia superiore a quella della creatura. Le statistiche della creatura diventano quelle dell'oggetto e, una volta terminato l'incantesimo e tornata nella sua forma normale, essa non ricorderà nulla del tempo trascorso in quella forma.
 
 ## Miraggio arcano
 
@@ -4351,9 +4432,10 @@ Un ricordo modificato non influenza necessariamente il comportamento di una crea
 
 Un incantesimo rimuovi maledizione o ristorare superiore lanciato su un bersaglio ripristina i veri ricordi della creatura.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può alterare i ricordi del bersaglio relativi a un evento risalente fino a 7 giorni prima (slot incantesimo di 6º livello), 30 giorni prima (slot incantesimo di 7º livello), 365 giorni prima (slot incantesimo di 8º livello) o a un qualsiasi momento del suo passato (slot incantesimo di 9º livello).
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può alterare i ricordi del bersaglio relativi a un evento risalente fino a 7 giorni prima (slot incantesimo di 6º livello), 30 giorni prima (slot incantesimo di 7º livello), 365 giorni prima (slot incantesimo di 8º livello) o a un qualsiasi momento del suo passato (slot incantesimo di 9º livello).
 
 ## Movimenti del ragno
 
@@ -4373,9 +4455,10 @@ Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può altera
 
 Fino al termine dell'incantesimo, una creatura consenziente toccata dall'incantatore ottiene la capacità di muoversi verticalmente e orizzontalmente su pareti e soffitti, mantenendo le mani libere. Il bersaglio ottiene anche una velocità di scalata pari alla sua velocità.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 2º.
 
 ## Muovere il terreno
 
@@ -4443,9 +4526,10 @@ Quando compare, ogni creatura al suo interno effettua un tiro salvezza su Destre
 
 Un lato del muro, scelto dall'incantatore al momento del lancio dell'incantesimo, infligge 5d8 danni da fuoco a ogni creatura che termina il proprio turno entro 3 metri da quel lato o all'interno del muro. Una creatura subisce gli stessi danni quando lo attraversa per la prima volta in un turno o vi termina il suo turno. L'altro lato del muro non infligge danni.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
 
 ## Muro di ghiaccio
 
@@ -4471,9 +4555,10 @@ Il muro è un oggetto che può essere danneggiato e quindi sfondato, con CA 12 e
 
 Una creatura che attraversa tale cortina d'aria gelida per la per la prima volta in un turno effettua un tiro salvezza su Costituzione, subendo 5d6 danni da freddo in caso di fallimento, o la metà dei danni in caso di successo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni inflitti dal muro quando compare aumentano di 2d6 e quelli subiti da chi passa attraverso la cortina d'aria gelida aumentano di 1d6 per ogni slot incantesimo di livello superiore al 6º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni inflitti dal muro quando compare aumentano di 2d6 e quelli subiti da chi passa attraverso la cortina d'aria gelida aumentano di 1d6 per ogni slot incantesimo di livello superiore al 6º.
 
 ## Muro di pietra
 
@@ -4525,9 +4610,10 @@ Quando compare, ogni creatura al suo interno effettua un tiro salvezza su Destre
 
 Una creatura può muoversi attraverso il muro, seppur con fatica e dolore: per ogni 30 centimetri di muro che attraversa, deve usare 1,2 metri di movimento. Inoltre, la prima volta che una creatura entra in uno spazio nel muro in un turno o vi termina il proprio turno, effettua un tiro salvezza su Destrezza subendo 7d8 danni taglienti in caso di fallimento, o la metà dei danni in caso di successo. Una creatura effettua questo tiro salvezza solo una volta per turno.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Entrambi i tipi di danno aumentano di 1d8 per ogni slot incantesimo di livello superiore al 6º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Entrambi i tipi di danno aumentano di 1d8 per ogni slot incantesimo di livello superiore al 6º.
 
 ## Muro di vento
 
@@ -4577,25 +4663,23 @@ Il muro è composto da sette strati, ognuno di un colore diverso. Quando una cre
 
 Il muro, che ha una CA pari a 10, può essere distrutto uno strato alla volta e in ordine dal rosso al viola, in un modo specifico per ogni strato. Se uno strato viene distrutto, resta distrutto per la durata dell'incantesimo. L'incantesimo campo anti-magia non ha alcun effetto sul muro e l'incantesimo dissolvi magie può influenzare solo lo strato viola.
 
-Strati prismatici
+### Strati prismatici
 
-Ordine Effetti
+**Ordine Effetti**
 
-1 Rosso. Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza non magici non possono attraversare questo strato, che viene distrutto se subisce almeno 25 danni da freddo.
+**1 Rosso.** Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza non magici non possono attraversare questo strato, che viene distrutto se subisce almeno 25 danni da freddo.
 
-2 Arancione. Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza magici non possono attraversare questo strato, che viene distrutto da un vento forte (come quello creato da folata di vento).
+**2 Arancione.** Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza magici non possono attraversare questo strato, che viene distrutto da un vento forte (come quello creato da folata di vento).
 
-3 Giallo. Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 60 danni da forza.
+**3 Giallo.** Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 60 danni da forza.
 
-4 Verde. Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: un incantesimo passapareti o un altro incantesimo di livello pari o superiore che è in grado di aprire un portale su una superficie solida, distrugge questo strato.
+**4 Verde.** Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: un incantesimo passapareti o un altro incantesimo di livello pari o superiore che è in grado di aprire un portale su una superficie solida, distrugge questo strato.
 
-5 Blu. Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 25 danni da fuoco.
+**5 Blu.** Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 25 danni da fuoco.
 
-6 Indaco. Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo. Effetti aggiuntivi: non è possibile lanciare incantesimi attraverso questo strato, che viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna.
+**6 Indaco.** Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo. Effetti aggiuntivi: non è possibile lanciare incantesimi attraverso questo strato, che viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna.
 
-Ordine Effetti
-
-7 Viola. Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM). Effetti aggiuntivi: questo strato viene distrutto da dissolvi magie.
+**7 Viola.** Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM). Effetti aggiuntivi: questo strato viene distrutto da dissolvi magie.
 
 ## Nube di nebbia
 
@@ -4615,9 +4699,10 @@ Ordine Effetti
 
 L'incantatore genera una sfera di nebbia del raggio di 6 metri centrata su un punto entro gittata. La sfera è pesantemente oscurata e permane la durata dell'incantesimo o finché un vento forte (come quello creato da folata di vento) non la disperde.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Il raggio della sfera di nebbia aumenta di 6 metri per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Il raggio della sfera di nebbia aumenta di 6 metri per ogni slot di livello superiore al 1º.
 
 ## Nube incendiaria
 
@@ -4683,9 +4768,10 @@ Ogni creatura nella sfera effettua un tiro salvezza su Costituzione, subendo 5d8
 
 La sfera si allontana di 3 metri dall'incantatore all'inizio di ogni suo turno.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.
 
 ## Occhio arcano
 
@@ -4727,9 +4813,10 @@ L'incantatore sprigiona un'ondata di energia tonante. Ogni creatura entro un cub
 
 Inoltre, gli oggetti non fissati e situati interamente nel cubo vengono spinti a 3 metri dall'incantatore, con un boato tonante entro 90 metri.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 1º.
 
 ## Oscurità
 
@@ -4773,9 +4860,10 @@ Una scia di luce brillante parte dall'incantatore e sfreccia fino a un punto a s
 
 Gli oggetti infiammabili nell'area che non sono indossati o trasportati iniziano a bruciare.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 3º.
 
 ## Palla di fuoco ritardata
 
@@ -4801,9 +4889,10 @@ Se una creatura tocca la sfera scintillante prima del termine dell'incantesimo, 
 
 Quando la sfera esplode, gli oggetti infiammabili all'interno dell'esplosione che non sono indossati o trasportati iniziano a bruciare.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni base aumentano di 1d6 per ogni slot di livello superiore al 7º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni base aumentano di 1d6 per ogni slot di livello superiore al 7º.
 
 ## Parlare con gli animali
 
@@ -4963,17 +5052,17 @@ Deve designare un luogo (come un tempio o un santuario) lanciando lì l'incantes
 
 L'incantatore pronuncia una parola pervasa di potere dei Piani Superiori. Ogni creatura a sua scelta situata entro gittata effettua una tiro salvezza su Carisma. In caso di fallimento, un bersaglio che ha 50 punti ferita o meno subisce un effetto basato sui suoi punti ferita attuali, come indicato nella tabella Effetti della parola divina. Indipendentemente dai suoi punti ferita, un bersaglio celestiale, elementale, folletto o immondo che fallisce il suo tiro salvezza viene respinto sul suo piano d'origine (se non vi si trova già) e non può ritornare sul piano attuale per 24 ore in alcun modo se non tramite un incantesimo desiderio.
 
-Effetti della parola divina
+### Effetti della parola divina
 
-Punti ferita Effetto
+**Punti ferita Effetto**
 
-0-20 Il bersaglio muore.
+**0-20** Il bersaglio muore.
 
-21-30 Il bersaglio è accecato, assordato e stordito per 1 ora.
+**21-30** Il bersaglio è accecato, assordato e stordito per 1 ora.
 
-31-40 Il bersaglio è accecato e assordato per 10 minuti.
+**31-40** Il bersaglio è accecato e assordato per 10 minuti.
 
-41-50 Il bersaglio è assordato per 1 minuto.
+**41-50** Il bersaglio è assordato per 1 minuto.
 
 ## Parola guaritrice
 
@@ -4993,9 +5082,10 @@ Punti ferita Effetto
 
 Una creatura scelta dall'incantatore entro gittata e che egli è in grado di vedere recupera un ammontare di punti ferita pari a 2d4 più il modificatore di caratteristica da incantatore dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 2d4 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+La guarigione aumenta di 2d4 per ogni slot di livello superiore al 1º.
 
 ## Parola guaritrice di massa
 
@@ -5015,9 +5105,10 @@ Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 
 
 Fino a sei creature a scelta dall'incantatore entro gittata e che egli è in grado di vedere recuperano un ammontare di punti ferita pari a 2d4 più il modificatore di caratteristica da incantatore dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 1d4 per ogni slot di livello superiore al 3º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+La guarigione aumenta di 1d4 per ogni slot di livello superiore al 3º.
 
 ## Passapareti
 
@@ -5093,9 +5184,10 @@ L'incantatore è avvolto per un istante da una foschia argentata e si teletraspo
 
 L'incantatore tocca una creatura, la cui velocità aumenta di 3 metri fino al termine dell'incantesimo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
 
 ## Paura
 
@@ -5173,9 +5265,10 @@ Uno sciame di locuste riempie una sfera del raggio di 6 metri centrata su un pun
 
 Quando lo sciame compare, ogni creatura al suo interno effettua un tiro salvezza su Costituzione, subendo 4d10 danni perforanti in caso di fallimento, o la metà dei danni in caso di successo. Inoltre, una creatura effettua questo tiro salvezza anche quando entra nell'area dell'incantesimo per la prima volta in un turno o quando vi termina il suo turno. Una creatura effettua questo tiro salvezza solo una volta per turno.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d10 per ogni slot di livello superiore al 5º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d10 per ogni slot di livello superiore al 5º.
 
 ## Porta dimensionale
 
@@ -5241,9 +5334,10 @@ Quando lancia questo incantesimo, l'incantatore può pronunciare il nome di una 
 
 Fino a cinque creature a scelta dell'incantatore, situate entro gittata per l'intera durata del lancio dell'incantesimo, ottengono i benefici di un riposo breve e recuperano 2d8 punti ferita. Una creatura non può essere nuovamente influenzata da questo incantesimo fino a che non completa un riposo lungo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 1d8 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+La guarigione aumenta di 1d8 per ogni slot di livello superiore al 2º.
 
 ## Presagio
 
@@ -5263,17 +5357,17 @@ Utilizzo di uno slot incantesimo di livello superiore. La guarigione aumenta di 
 
 L'incantatore riceve un presagio da un'entità ultraterrena sui risultati di un corso d'azione che intende effettuare nei prossimi 30 minuti. Il GM sceglie il presagio dalla tabella Presagi.
 
-Presagi
+### Presagi
 
-Presagio Con risultati...
+**Presagio Con risultati...**
 
-Ventura Positivi
+**Ventura** Positivi
 
-Sventura Negativi
+**Sventura** Negativi
 
-Ventura e sventura Positivi e negativi
+**Ventura e sventura** Positivi e negativi
 
-Indifferenza Né positivi né negativi
+**Indifferenza** Né positivi né negativi
 
 L'incantesimo non tiene conto delle circostanze, come altri incantesimi, che potrebbero modificare i risultati.
 
@@ -5297,17 +5391,23 @@ Se l'incantatore lancia l'incantesimo più volte prima di completare un riposo l
 
 L'incantatore crea un effetto magico entro gittata, scegliendolo tra quelli illustrati di seguito. Se l'incantatore lancia questo incantesimo più volte, può tenere attivi fino a tre dei suoi effetti non istantanei contemporaneamente.
 
-Effetto sensoriale. L'incantatore crea un effetto sensoriale innocuo e istantaneo, come una pioggia di scintille, una folata di vento, una tenue melodia musicale o uno strano odore.
+**Effetto sensoriale**
+L'incantatore crea un effetto sensoriale innocuo e istantaneo, come una pioggia di scintille, una folata di vento, una tenue melodia musicale o uno strano odore.
 
-Trucchetto col fuoco. L'incantatore accende o spegne istantaneamente una candela, una torcia o un piccolo fuoco da campo.
+**Trucchetto col fuoco**
+L'incantatore accende o spegne istantaneamente una candela, una torcia o un piccolo fuoco da campo.
 
-Pulire o sporcare. L'incantatore pulisce o sporca istantaneamente un oggetto non più grande di un cubo con spigolo di 30 centimetri.
+**Pulire o sporcare**
+L'incantatore pulisce o sporca istantaneamente un oggetto non più grande di un cubo con spigolo di 30 centimetri.
 
-Lieve sensazione. L'incantatore riscalda, raffredda o condisce materiale non vivente del volume massimo di un cubo con spigolo di 30 centimetri per 1 ora.
+**Lieve sensazione**
+L'incantatore riscalda, raffredda o condisce materiale non vivente del volume massimo di un cubo con spigolo di 30 centimetri per 1 ora.
 
-Segno magico. L'incantatore fa comparire un colore, un piccolo segno o un simbolo su un oggetto o una superficie per 1 ora.
+**Segno magico**
+L'incantatore fa comparire un colore, un piccolo segno o un simbolo su un oggetto o una superficie per 1 ora.
 
-Creazione minore. L'incantatore crea un monile non magico o un'immagine illusoria che può stare nel palmo della sua mano e che permane fino al termine del suo turno successivo. Un monile non può infliggere danni e non ha valore monetario.
+**Creazione minore**
+L'incantatore crea un monile non magico o un'immagine illusoria che può stare nel palmo della sua mano e che permane fino al termine del suo turno successivo. Un monile non può infliggere danni e non ha valore monetario.
 
 ## Previsione
 
@@ -5347,9 +5447,10 @@ Una fiamma tremolante compare nella mano dell'incantatore e permane per la durat
 
 Fino al termine dell'incantesimo, l'incantatore può effettuare un'azione di Magia per scagliare la fiamma contro una creatura o un oggetto a 18 metri da lui, effettuando un attacco a distanza con incantesimo. Se il colpo va a segno, il bersaglio subisce 1d8 danni da fuoco.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni di questo incantesimo aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
+**Trucchetto potenziato**
+I danni di questo incantesimo aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
 
 ## Proibizione
 
@@ -5473,9 +5574,10 @@ Per la durata dell'incantesimo, una creatura consenziente toccata dall'incantato
 
 Il bersaglio subisce 2d8 danni radiosi extra dall'attacco. I danni aumentano di 1d8 se il bersaglio è un immondo o un non morto.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 1º.
 
 ## Punizione incandescente
 
@@ -5495,9 +5597,10 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 
 
 Quando l'incantatore colpisce il bersaglio, esso subisce 1d6 danni da fuoco extra dall'attacco. All'inizio di ogni suo turno fino al termine dell'incantesimo, il bersaglio subisce 1d6 danni da fuoco ed effettua un tiro salvezza su Costituzione. In caso di fallimento, l'incantesimo permane. In caso di successo, l'incantesimo termina.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Tutti i danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Tutti i danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
 
 ## Punizione splendente
 
@@ -5517,9 +5620,10 @@ Utilizzo di uno slot incantesimo di livello superiore. Tutti i danni aumentano d
 
 L'attacco infligge 2d6 danni radiosi extra al bersaglio. Fino al termine dell'incantesimo, il bersaglio proietta luce intensa in un raggio di 1,5 metri, non può beneficiare della condizione di invisibilità e i tiri per colpire contro di esso dispongono di vantaggio.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
 
 ## Purificare cibo e bevande
 
@@ -5577,9 +5681,10 @@ In caso di fallimento, il bersaglio subisce svantaggio alle prove con d20 basate
 
 Un raggio gelido di luce bianco-azzurra sfreccia verso una creatura entro gittata, contro cui l'incantatore effettua un attacco a distanza con incantesimo. Se il colpo va a segno, il bersaglio subisce 1d8 danni da freddo e la sua velocità è ridotta di 3 metri fino all'inizio del turno successivo dell'incantatore.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
+**Trucchetto potenziato**
+I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
 
 ## Raggio di infermità
 
@@ -5599,9 +5704,10 @@ Trucchetto potenziato. I danni aumentano di 1d8 quando l'incantatore raggiunge i
 
 L'incantatore proietta un raggio di energia verdastra verso una creatura entro gittata, effettuando un attacco a distanza con incantesimo contro il bersaglio. Se il colpo va a segno, il bersaglio subisce 2d8 danni da veleno ed è avvelenato fino al termine del turno successivo dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 1º.
 
 ## Raggio rovente
 
@@ -5621,9 +5727,10 @@ Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 
 
 L'incantatore lancia tre raggi di fuoco contro uno o più bersagli entro gittata. Con questo incantesimo, l'incantatore effettua un attacco a distanza per ogni raggio. Se il colpo va a segno, il bersaglio subisce 2d6 danni da fuoco.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore crea un raggio aggiuntivo per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore crea un raggio aggiuntivo per ogni slot di livello superiore al 2º.
 
 ## Ragnatela
 
@@ -5671,9 +5778,10 @@ Un randello o un bastone ferrato impugnato dall'incantatore è pervaso dal poter
 
 L'incantesimo termina se l'incantatore lo lancia di nuovo o se lascia andare l'arma.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni sono calcolati con un dado diverso quando l'incantatore raggiunge il 5º livello (d10), l'11º livello (d12) e il 17º livello (2d6).
+**Trucchetto potenziato**
+I danni sono calcolati con un dado diverso quando l'incantatore raggiunge il 5º livello (d10), l'11º livello (d12) e il 17º livello (2d6).
 
 ## Reggia meravigliosa
 
@@ -5719,19 +5827,27 @@ Al termine dell'incantesimo, tutte le creature e gli oggetti rimasti all'interno
 
 L'incantatore tocca un umanoide defunto o una parte di umanoide defunto. Se la creatura non è morta da più di 10 giorni, l'incantesimo le forma un nuovo corpo e richiama la sua anima all'interno di quel corpo. Si tira 1d10 e si consulta la tabella di seguito per determinare la specie del nuovo corpo, oppure il GM sceglie un'altra specie giocabile.
 
-1d10 Specie 1d10 Specie
+**1d10 Specie**
 
-1 Il personaggio tira di nuovo
+**1** Il personaggio tira di nuovo
 
-6 Halfling
+**2** Dragonide
 
-2 Dragonide 7 Nano
+**3** Elfo
 
-3 Elfo 8 Orchesco
+**4** Gnomo
 
-4 Gnomo 9 Tiefling
+**5** Goliath
 
-5 Goliath 10 Umano
+**6** Halfling
+
+**7** Nano
+
+**8** Orchesco
+
+**9** Tiefling
+
+**10** Umano
 
 La creatura reincarnata compie le scelte indicate nella descrizione della specie scelta e ricorda la sua vita precedente. Conserva le capacità che possedeva nella sua forma originale, ad eccezione del fatto che i tratti della sua specie originaria vengono sostituiti dai tratti della nuova specie.
 
@@ -5859,15 +5975,13 @@ Il ritorno dalla morte è un vero e proprio travaglio. Il bersaglio subisce una 
 
 L'incantatore invoca uno spirito di drago, che si manifesta in uno spazio libero entro gittata che egli sia in grado di vedere e utilizza la scheda delle statistiche dello spirito draconico. La creatura scompare quando scende a 0 punti ferita o quando l'incantesimo termina ed è un alleato per il personaggio e i suoi alleati. In combattimento, la creatura ha lo stesso punteggio di iniziativa dell'incantatore, ma inizia il turno immediatamente dopo il suo, obbedendo ai suoi comandi verbali (nessuna azione richiesta da parte dell'incantatore). Se l'incantatore non pronuncia comandi verbali, la creatura compie l'azione di Schivata e usa il suo movimento per sottrarsi al pericolo.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
 
 ### Spirito draconico
 
-**tipo_blocco:** creatura_o_blocco_annidato  
-
-```text
 **tipo_blocco:** creatura_evocata  
 **nome:** Spirito draconico  
 
@@ -5908,19 +6022,21 @@ Utilizzo di uno slot incantesimo di livello superiore. Usa il livello dello slot
 
 **grado_sfida:** null  
 
-**Tratti**
+#### Tratti
 
-*Resistenze condivise*. Quando il personaggio evoca lo spirito, sceglie una delle sue resistenze. Così facendo, ottiene resistenza al tipo di danno scelto fino al termine dell'incantesimo.
+**Resistenze condivise**
+Quando il personaggio evoca lo spirito, sceglie una delle sue resistenze. Così facendo, ottiene resistenza al tipo di danno scelto fino al termine dell'incantesimo.
 
-**Azioni**
+#### Azioni
 
-*Multiattacco*. Lo spirito effettua un numero di attacchi Squarcio pari alla metà del livello dell'incantesimo (arrotondando per difetto) e usa Soffio.
+**Multiattacco**
+Lo spirito effettua un numero di attacchi Squarcio pari alla metà del livello dell'incantesimo (arrotondando per difetto) e usa Soffio.
 
-*Squarcio*. Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'incantesimo del personaggio, portata di 3 metri. Colpito: 1d6 + 4 + il livello dell'incantesimo danni perforanti.
+**Squarcio**
+Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'incantesimo del personaggio, portata di 3 metri. Colpito: 1d6 + 4 + il livello dell'incantesimo danni perforanti.
 
-*Soffio*. Tiro salvezza su Destrezza: la CD è pari alla CD del tiro salvezza sull'incantesimo, ogni creatura in un cono di 9 m. Fallimento: 2d6 danni di un tipo a cui lo spirito è resistente (a scelta dell'incantatore al momento del lancio dell'incantesimo). Successo: danni dimezzati.
-
-```
+**Soffio**
+Tiro salvezza su Destrezza: la CD è pari alla CD del tiro salvezza sull'incantesimo, ogni creatura in un cono di 9 m. Fallimento: 2d6 danni di un tipo a cui lo spirito è resistente (a scelta dell'incantatore al momento del lancio dell'incantesimo). Successo: danni dimezzati.
 
 ## Rigenerazione
 
@@ -6036,9 +6152,10 @@ Una creatura a scelta entro gittata che l'incantatore è in grado di vedere effe
 
 Il bersaglio effettua un altro tiro salvezza su Saggezza alla fine di ogni suo turno e ogni volta che subisce danni; in quest'ultimo caso, lo effettua con vantaggio. In caso di successo, l'incantesimo termina.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
 
 ## Riscaldare il metallo
 
@@ -6060,9 +6177,10 @@ L'incantatore sceglie un oggetto lavorato in metallo, come un'arma in metallo o 
 
 Se una creatura sta stringendo o indossando l'oggetto e ne subisce i danni, deve superare un tiro salvezza su Costituzione o, se possibile, lasciar cadere l'oggetto. Se non lascia cadere l'oggetto, il bersaglio subisce svantaggio ai tiri per colpire e alle prove di caratteristica effettuati prima dell'inizio del turno successivo dell'incantatore.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d8 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 2º.
 
 ## Ristorare inferiore
 
@@ -6102,15 +6220,9 @@ L'incantatore tocca una creatura e rimuove magicamente da essa uno dei seguenti 
 
 - 1 livello di indebolimento
 - La condizione affascinato o pietrificato
-- Una maledizione, inclusa la sintonia del bersaglio
-
-- con un oggetto magico maledetto
-- Qualsiasi riduzione di un punteggio di caratteri-
-
-- stica del bersaglio
-- Qualsiasi riduzione dei punti ferita massimi del
-
-bersaglio
+- Una maledizione, inclusa la sintonia del bersaglio con un oggetto magico maledetto
+- Qualsiasi riduzione di un punteggio di caratteristica del bersaglio
+- Qualsiasi riduzione dei punti ferita massimi del bersaglio
 
 ## Risveglio
 
@@ -6168,9 +6280,10 @@ L'incantatore effettua un'azione di Scatto e, fino al termine dell'incantesimo, 
 
 L'incantatore tocca una creatura consenziente. La creatura, in ogni suo turno fino al termine dell'incantesimo, può saltare fino a 9 metri, usando 3 metri di movimento.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può bersagliare una creatura aggiuntiva per ogni slot di livello superiore al 1º.
 
 ## Salvare i morenti
 
@@ -6190,11 +6303,10 @@ Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può bersag
 
 L'incantatore sceglie una creatura entro gittata con 0 punti ferita ma che è ancora in vita, facendola diventare stabile.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. La gittata raddoppia quando l'incantatore raggiunge il 5º livello
-
-(9 metri), l'11º livello (18 metri) e il 17º livello (36 metri).
+**Trucchetto potenziato**
+La gittata raddoppia quando l'incantatore raggiunge il 5º livello (9 metri), l'11º livello (18 metri) e il 17º livello (36 metri).
 
 ## Santificare
 
@@ -6214,15 +6326,32 @@ Trucchetto potenziato. La gittata raddoppia quando l'incantatore raggiunge il 5�
 
 L'incantatore tocca un punto e infonde un potere sacro o sacrilego in un'area del raggio massimo di 18 metri intorno a esso. L'incantesimo tuttavia fallisce se il raggio comprende un'area già sotto l'effetto di santificare. L'area influenzata è soggetta ai seguenti effetti:
 
-Protezione consacrata. L'incantatore sceglie uno dei seguenti tipi di creature: aberrazione, celestiale, elementale, folletto, immondo o non morto. Le creature del tipo scelto non possono entrare volontariamente nell'area, e qualsiasi creatura affascinata, spaventata o posseduta da tali creature non viene affascinata, spaventata o posseduta fintantoché si trova nell'area.
+**Protezione consacrata**
+L'incantatore sceglie uno dei seguenti tipi di creature: aberrazione, celestiale, elementale, folletto, immondo o non morto. Le creature del tipo scelto non possono entrare volontariamente nell'area, e qualsiasi creatura affascinata, spaventata o posseduta da tali creature non viene affascinata, spaventata o posseduta fintantoché si trova nell'area.
 
-Effetto aggiuntivo. L'incantatore vincola un effetto aggiuntivo all'area, scegliendolo dalla lista sottostante:
+**Effetto aggiuntivo**
+L'incantatore vincola un effetto aggiuntivo all'area, scegliendolo dalla lista sottostante:
 
-Coraggio. Le creature di qualsiasi tipo scelto dall'incantatore non possono essere spaventate finché si trovano nell'area. Interferenza extradimensionale. Le creature di qualsiasi tipo scelte dall'incantatore non possono entrare o uscire dall'area utilizzando il teletrasporto o i viaggi interplanari. Linguaggi. Le creature di qualsiasi tipo scelto dall'incantatore possono comunicare con qualsiasi creatura all'interno dell'area, anche se non condividono la stessa lingua. Luce diurna. L'area è pervasa di luce intensa.
+**Coraggio**
+Le creature di qualsiasi tipo scelto dall'incantatore non possono essere spaventate finché si trovano nell'area.
 
-L'oscurità magica creata dagli incantesimi di livello inferiore rispetto a questo incantesimo non può sopprimere la luce. Oscurità. L'area si riempie di oscurità. La luce normale, nonché la luce magica creata dagli incantesimi di livello inferiore rispetto a questo incantesimo, non possono illuminare l'area. Paura. Le creature di qualsiasi tipo scelto dall'incantatore non possono essere spaventate finché si trovano nell'area. Resistenza. Le creature di qualsiasi tipo scelto dall'incantatore sono resistenti a un tipo di danno scelto dall'incantatore finché si trovano nell'area. Sereno riposo. I cadaveri sepolti nell'area non possono diventare non morti. Silenzio. L'area è insonorizzata, nessun suono può fuoriuscire o penetrare al suo interno.
+**Interferenza extradimensionale**
+Le creature di qualsiasi tipo scelte dall'incantatore non possono entrare o uscire dall'area utilizzando il teletrasporto o i viaggi interplanari. 
 
-Vulnerabilità. Le creature di qualsiasi tipo scelto dall'incantatore sono vulnerabili a un tipo di danno scelto dall'incantatore finché si trovano nell'area.
+**Linguaggi**
+Le creature di qualsiasi tipo scelto dall'incantatore possono comunicare con qualsiasi creatura all'interno dell'area, anche se non condividono la stessa lingua. 
+
+**Luce diurna**
+L'area è pervasa di luce intensa. L'oscurità magica creata dagli incantesimi di livello inferiore rispetto a questo incantesimo non può sopprimere la luce. Oscurità. L'area si riempie di oscurità. La luce normale, nonché la luce magica creata dagli incantesimi di livello inferiore rispetto a questo incantesimo, non possono illuminare l'area. Paura. Le creature di qualsiasi tipo scelto dall'incantatore non possono essere spaventate finché si trovano nell'area. 
+
+**Resistenza**
+Le creature di qualsiasi tipo scelto dall'incantatore sono resistenti a un tipo di danno scelto dall'incantatore finché si trovano nell'area.
+
+**Sereno riposo**
+I cadaveri sepolti nell'area non possono diventare non morti. Silenzio. L'area è insonorizzata, nessun suono può fuoriuscire o penetrare al suo interno.
+
+**Vulnerabilità**
+Le creature di qualsiasi tipo scelto dall'incantatore sono vulnerabili a un tipo di danno scelto dall'incantatore finché si trovano nell'area.
 
 ## Santuario
 
@@ -6262,30 +6391,19 @@ L'incantatore rende magicamente sicura un'area entro gittata: un cubo le cui dim
 
 Quando lancia l'incantesimo, l'incantatore decide che tipo di sicurezza esso fornisce, scegliendo una o più tra le proprietà seguenti:
 
-- I suoni non possono attraversare la barriera ai
-
-- confini dell'area protetta.
-- La barriera nell'area protetta appare oscura
-
-- e nebulosa, rendendo impossibile vedere oltre (anche utilizzando scurovisione).
-- I sensori creati dagli incantesimi di divinazione
-
-- non possono apparire all'interno dell'area protetta né oltrepassarne il perimetro.
-- Le creature nell'area non possono essere bersa-
-
-- glio di incantesimi di divinazione.
-- Nulla può teletrasportarsi dentro o fuori
-
-- dall'area protetta.
-- I viaggi planari sono bloccati all'interno dell'area
-
-protetta.
+- I suoni non possono attraversare la barriera ai confini dell'area protetta.
+- La barriera nell'area protetta appare oscura e nebulosa, rendendo impossibile vedere oltre (anche utilizzando scurovisione).
+- I sensori creati dagli incantesimi di divinazione non possono apparire all'interno dell'area protetta né oltrepassarne il perimetro.
+- Le creature nell'area non possono essere bersaglio di incantesimi di divinazione.
+- Nulla può teletrasportarsi dentro o fuori dall'area protetta.
+- I viaggi planari sono bloccati all'interno dell'area protetta.
 
 Lanciando questo incantesimo nello stesso punto ogni giorno per 365 giorni, l'incantesimo dura finché non viene dissolto.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può aumentare le dimensioni del cubo di 30 metri per spigolo per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può aumentare le dimensioni del cubo di 30 metri per spigolo per ogni slot di livello superiore al 4º.
 
 ## Scagliare maledizione
 
@@ -6305,22 +6423,15 @@ Utilizzo di uno slot incantesimo di livello superiore. L'incantatore può aument
 
 L'incantatore tocca una creatura che deve superare un tiro salvezza su Saggezza, altrimenti verrà maledetta per la durata dell'incantesimo. Finché la maledizione non svanisce, il bersaglio subisce uno dei seguenti effetti a scelta:
 
-- L'incantatore sceglie una caratteristica. Il ber-
+- L'incantatore sceglie una caratteristica. Il bersaglio subisce svantaggio alle prove di caratteristica e ai tiri salvezza effettuati con quella caratteristica.
+- Il bersaglio subisce svantaggio ai tiri per colpire contro l'incantatore.
+- In combattimento, il bersaglio deve superare un tiro salvezza su Saggezza all'inizio di ogni suo turno, altrimenti in quel turno è costretto a effettuare l'azione Schivata.
+- Se l'incantatore infligge danni al bersaglio con un tiro per colpire o un incantesimo, il bersaglio subisce 1d8 danni necrotici extra.
 
-- saglio subisce svantaggio alle prove di caratteristica e ai tiri salvezza effettuati con quella caratteristica.
-- Il bersaglio subisce svantaggio ai tiri per colpire
+### Scaling
 
-- contro l'incantatore.
-- In combattimento, il bersaglio deve superare un
-
-- tiro salvezza su Saggezza all'inizio di ogni suo turno, altrimenti in quel turno è costretto a effettuare l'azione Schivata.
-- Se l'incantatore infligge danni al bersaglio con
-
-un tiro per colpire o un incantesimo, il bersaglio subisce 1d8 danni necrotici extra.
-
-### scaling
-
-Utilizzo di uno slot incantesimo di livello superiore. Se l'incantatore lancia questo incantesimo usando uno slot incantesimo di 4º livello, può mantenere la concentrazione su di esso fino a un massimo di 10 minuti. Se usa uno slot incantesimo di 5º livello o superiore, l'incantesimo non richiede concentrazione e la durata diventa di 8 ore (slot di 5º e 6º livello) o 24 ore (slot di 7º o 8º livello). Se usa uno slot incantesimo di 9º livello, l'incantesimo dura finché non viene dissolto.
+**Utilizzo di uno slot incantesimo di livello superiore**
+Se l'incantatore lancia questo incantesimo usando uno slot incantesimo di 4º livello, può mantenere la concentrazione su di esso fino a un massimo di 10 minuti. Se usa uno slot incantesimo di 5º livello o superiore, l'incantesimo non richiede concentrazione e la durata diventa di 8 ore (slot di 5º e 6º livello) o 24 ore (slot di 7º o 8º livello). Se usa uno slot incantesimo di 9º livello, l'incantesimo dura finché non viene dissolto.
 
 ## Scassinare
 
@@ -6722,9 +6833,10 @@ Se l'incantatore ordina al servitore di eseguire un compito che lo porta a più 
 
 L'incantatore indica un punto entro gittata e un globo luminescente di acido del diametro di 30 centimetri sfreccia verso quel punto, dove esplode in una sfera del raggio di 6 metri. Ogni creatura nell'area effettua un tiro salvezza su Destrezza. Se lo fallisce, subisce 10d4 danni da acido e altri 5d4 danni da acido alla fine del suo turno successivo. In caso di successo, subisce soltanto la metà dei danni iniziali.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni iniziali aumentano di 2d4 per ogni slot di livello superiore al 4º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni iniziali aumentano di 2d4 per ogni slot di livello superiore al 4º.
 
 ## Sfera congelante
 
@@ -6748,9 +6860,10 @@ Se la sfera colpisce uno specchio d'acqua, congela l'acqua fino a una profondit�
 
 Una volta completato il lancio dell'incantesimo, l'incantatore può decidere di non scagliare la sfera. Così facendo, una sfera grande all'incirca quanto un proiettile da fionda, freddo al tatto, compare nella sua mano. In qualsiasi momento, l'incantatore o una creatura a cui l'ha consegnata può lanciare la sfera (entro una gittata di 12 metri) o scagliarla con una fionda (entro la normale gittata della fionda). La sfera si infrange all'impatto, con lo stesso effetto di un lancio normale dell'incantesimo. Tuttavia, l'incantatore può anche appoggiare la sfera a terra senza romperla. Dopo 1 minuto, se non è ancora stata infranta, la sfera esplode.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 6º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 6º.
 
 ## Sfera elastica
 
@@ -6798,9 +6911,10 @@ Come azione bonus, l'incantatore può muovere la sfera per un massimo di 9 metri
 
 Quando l'incantatore muove la sfera, può dirigerla oltre le barriere alte fino a 1,5 metri e farla saltare oltre le fosse larghe fino a 3 metri. Se tocca oggetti infiammabili che non sono indossati o trasportati, la sfera li incendia proiettando luce intensa entro un raggio di 6 metri e luce fioca per altri 6 metri.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
 
 ## Sfocatura
 
@@ -6840,11 +6954,14 @@ Per la durata dell'incantesimo, gli occhi dell'incantatore diventano neri e vacu
 
 In ogni suo turno fino al termine dell'incantesimo, l'incantatore può usare un'azione di Magia per bersagliare un'altra creatura, non potendo tuttavia bersagliare di nuovo una creatura che abbia superato un tiro salvezza contro questo lancio dell'incantesimo.
 
-Addormentato. Il bersaglio cade privo di sensi e si risveglia se subisce danni o se un'altra creatura usa un'azione per svegliarla scuotendola.
+**Addormentato**
+Il bersaglio cade privo di sensi e si risveglia se subisce danni o se un'altra creatura usa un'azione per svegliarla scuotendola.
 
-In preda al panico. Il bersaglio è spaventato. In ogni suo turno, il bersaglio spaventato deve effettuare l'azione Scatto e muoversi per allontanarsi dall'incantatore lungo il percorso più sicuro e rapido possibile. Se il bersaglio si muove in un punto a più di 18 metri dall'incantatore dove non è più in grado di vederlo, l'effetto termina.
+**In preda al panico**
+Il bersaglio è spaventato. In ogni suo turno, il bersaglio spaventato deve effettuare l'azione Scatto e muoversi per allontanarsi dall'incantatore lungo il percorso più sicuro e rapido possibile. Se il bersaglio si muove in un punto a più di 18 metri dall'incantatore dove non è più in grado di vederlo, l'effetto termina.
 
-Nauseato. Il bersaglio viene avvelenato.
+**Nauseato**
+Il bersaglio viene avvelenato.
 
 ## Silenzio
 
@@ -6886,7 +7003,8 @@ Il glifo è quasi impercettibile e, per notarlo, è necessario superare una prov
 
 Quando viene tracciato, l'incantatore sceglie l'innesco, oltre all'effetto che scatenerà: morte, discordia, paura, dolore, sonno o stordimento. Ciascuno di essi è spiegato di seguito.
 
-Programmare l'innesco. Quando questo incantesimo viene lanciato, l'incantatore decide cosa innesca il glifo. Nel caso di glifi tracciati su una superficie, gli inneschi più comuni includono: toccare o camminare su di essi, rimuovere un altro oggetto che li copre o avvicinarsi a una certa distanza da loro. Nel caso di glifi tracciati all'interno di un oggetto, gli inneschi più comuni includono aprire quell'oggetto o vedere il glifo.
+**Programmare l'innesco**
+Quando questo incantesimo viene lanciato, l'incantatore decide cosa innesca il glifo. Nel caso di glifi tracciati su una superficie, gli inneschi più comuni includono: toccare o camminare su di essi, rimuovere un altro oggetto che li copre o avvicinarsi a una certa distanza da loro. Nel caso di glifi tracciati all'interno di un oggetto, gli inneschi più comuni includono aprire quell'oggetto o vedere il glifo.
 
 L'incantatore può perfezionare l'innesco in modo che venga attivato solo da un certo tipo di creature (ad esempio, il glifo potrebbe essere programmato per influenzare le aberrazioni). Può inoltre impostare delle condizioni per evitare di innescare il glifo, come pronunciare una specifica parola d'ordine.
 
@@ -6894,17 +7012,23 @@ Una volta attivato, il glifo brilla, proiettando luce fioca in una sfera del rag
 
 Una creatura può essere presa di mira una sola volta per turno.
 
-Discordia. Ogni bersaglio effettua un tiro salvezza su Saggezza. Se lo fallisce, inizia a litigare con le altre creature per 1 minuto, durante il quale non è in grado di comunicare in modo significativo e subisce svantaggio ai tiri per colpire e alle prove di caratteristica.
+**Discordia**
+Ogni bersaglio effettua un tiro salvezza su Saggezza. Se lo fallisce, inizia a litigare con le altre creature per 1 minuto, durante il quale non è in grado di comunicare in modo significativo e subisce svantaggio ai tiri per colpire e alle prove di caratteristica.
 
-Dolore. Ogni bersaglio deve superare un tiro salvezza su Costituzione, altrimenti sarà incapacitato per 1 minuto.
+**Dolore**
+Ogni bersaglio deve superare un tiro salvezza su Costituzione, altrimenti sarà incapacitato per 1 minuto.
 
-Morte. Ogni bersaglio effettua un tiro salvezza su Costituzione, subendo 10d10 danni necrotici in caso di fallimento, o la metà dei danni in caso di successo.
+**Morte**
+Ogni bersaglio effettua un tiro salvezza su Costituzione, subendo 10d10 danni necrotici in caso di fallimento, o la metà dei danni in caso di successo.
 
-Paura. Ogni bersaglio deve superare un tiro salvezza su Saggezza, altrimenti sarà spaventato per 1 minuto. Mentre è spaventato, il bersaglio deve allontanarsi di almeno 9 metri dal glifo in ogni suo turno, se ne è in grado.
+**Paura**
+Ogni bersaglio deve superare un tiro salvezza su Saggezza, altrimenti sarà spaventato per 1 minuto. Mentre è spaventato, il bersaglio deve allontanarsi di almeno 9 metri dal glifo in ogni suo turno, se ne è in grado.
 
-Sonno. Ogni bersaglio deve superare un tiro salvezza su Saggezza, altrimenti cade privo di sensi per 10 minuti. Una creatura si risveglia se subisce danni o se qualcuno usa un'azione per scuoterla.
+**Sonno**
+Ogni bersaglio deve superare un tiro salvezza su Saggezza, altrimenti cade privo di sensi per 10 minuti. Una creatura si risveglia se subisce danni o se qualcuno usa un'azione per scuoterla.
 
-Stordimento. Ogni bersaglio deve superare un tiro salvezza su Saggezza, altrimenti sarà stordito per 1 minuto.
+**Stordimento**
+Ogni bersaglio deve superare un tiro salvezza su Saggezza, altrimenti sarà stordito per 1 minuto.
 
 ## Simulacro
 
@@ -6948,9 +7072,10 @@ Il simulacro permane finché non scende a 0 punti ferita, nel qual caso si ritra
 
 L'incantatore tocca una creatura consenziente e sceglie acido, freddo, fulmine, fuoco, o veleno. Fino al termine dell'incantesimo, il bersaglio può usare la sua azione di Magia per esalare un cono di 4,5 metri. Ogni creatura nell'area effettua un tiro salvezza su Destrezza; se lo fallisce, subisce 3d6 danni del tipo scelto, mentre se lo supera subisce la metà di quei danni.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 2º.
 
 ## Sogno
 
@@ -7016,9 +7141,10 @@ L'incantatore scaglia una maledizione su una creatura entro gittata che egli è 
 
 Se il bersaglio scende a 0 punti ferita prima del termine dell'incantesimo, l'incantatore può effettuare un'azione bonus in un suo turno successivo per maledire un'altra creatura.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La concentrazione dell'incantatore può durare di più utilizzando uno slot incantesimo di 2º livello (fino a 4 ore), di 3º o 4º livello (fino a 8 ore) o di 5º livello o superiore (24 ore).
+**Utilizzo di uno slot incantesimo di livello superiore**
+La concentrazione dell'incantatore può durare di più utilizzando uno slot incantesimo di 2º livello (fino a 4 ore), di 3º o 4º livello (fino a 8 ore) o di 5º livello o superiore (24 ore).
 
 ## Spada arcana
 
@@ -7098,25 +7224,25 @@ L'incantatore lancia un lampo abbagliante di luce multicolore. Ogni creatura ent
 
 Otto raggi di luce si sprigionano dall'incantatore in un cono di 18 metri. Ogni creatura presente nel cono effettua un tiro salvezza su Destrezza. Per ogni bersaglio, si tira 1d8 per determinare da quale raggio viene influenzato, consultando la tabella Raggi prismatici.
 
-Raggi prismatici
+### Raggi prismatici
 
-1d8 Raggio
+**1d8 Raggio**
 
-1 Rosso. Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni.
+**1 Rosso.** Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni.
 
-2 Arancione. Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni.
+**2 Arancione.** Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni.
 
-3 Giallo. Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni.
+**3 Giallo.** Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni.
 
-4 Verde. Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni.
+**4 Verde.** Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni.
 
-5 Blu. Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni.
+**5 Blu.** Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni.
 
-6 Indaco. Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo.
+**6 Indaco.** Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo.
 
-7 Viola. Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM).
+**7 Viola.** Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM).
 
-8 Speciale. Il bersaglio viene colpito da due raggi. Si tira altre due volte, rilanciando i dadi se il risultato ottenuto è 8.
+**8 Speciale.** Il bersaglio viene colpito da due raggi. Si tira altre due volte, rilanciando i dadi se il risultato ottenuto è 8.
 
 ## Spruzzo velenoso
 
@@ -7136,9 +7262,10 @@ Raggi prismatici
 
 L'incantatore spruzza una nebbia tossica contro una creatura entro gittata, effettuando un attacco a distanza con incantesimo contro il bersaglio. Se il colpo va a segno, il bersaglio subisce 1d12 danni da veleno.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d12 quando l'incantatore raggiunge il 5º livello (2d12), l'11º livello (3d12) e il 17º livello (4d12).
+**Trucchetto potenziato**
+I danni aumentano di 1d12 quando l'incantatore raggiunge il 5º livello (2d12), l'11º livello (3d12) e il 17º livello (4d12).
 
 ## Stregoneria esplosiva
 
@@ -7160,9 +7287,10 @@ L'incantatore proietta energia stregonesca verso una creatura o un oggetto entro
 
 Se l'incantatore ottiene il risultato 8 su un d8, può tirare un altro d8 e aggiungere il risultato ai danni. Quando lancia l'incantesimo, l'incantatore può aggiungere ai danni dell'incantesimo un numero di d8 pari al suo modificatore di caratteristica da incantatore.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni di questo incantesimo aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
+**Trucchetto potenziato**
+I danni di questo incantesimo aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
 
 ## Stretta folgorante
 
@@ -7182,9 +7310,10 @@ Trucchetto potenziato. I danni di questo incantesimo aumentano di 1d8 quando l'i
 
 Un fulmine si sprigiona dall'incantatore verso una creatura da lui toccata. Con questo incantesimo, l'incantatore effettua un attacco in mischia contro il bersaglio. Se il colpo va a segno, il bersaglio subisce 1d8 danni da fulmine e non può effettuare attacchi di opportunità fino all'inizio del proprio turno successivo.
 
-### scaling
+### Scaling
 
-Trucchetto potenziato. I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
+**Trucchetto potenziato**
+I danni aumentano di 1d8 quando l'incantatore raggiunge il 5º livello (2d8), l'11º livello (3d8) e il 17º livello (4d8).
 
 ## Suggestione
 
@@ -7226,9 +7355,10 @@ L'incantatore suggerisce un corso d'azione da intraprendere (descritto con non p
 
 Ogni bersaglio deve superare un tiro salvezza su Saggezza, altrimenti rimane affascinato per la durata dell'incantesimo o finché l'incantatore o isuoi alleati non gli infliggono danni. Ogni bersaglio affascinato segue il suggerimento al meglio delle sue capacità. L'attività suggerita può continuare per l'intera durata, ma se può essere completata in un tempo più breve, l'incantesimo termina e non ha più effetto sul bersaglio che completa l'attività.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. La durata aumenta con uno slot incantesimo di 7º livello (10 giorni), 8º livello (30 giorni) o 9º livello (366 giorni).
+**Utilizzo di uno slot incantesimo di livello superiore**
+La durata aumenta con uno slot incantesimo di 7º livello (10 giorni), 8º livello (30 giorni) o 9º livello (366 giorni).
 
 ## Sussurri dissonanti
 
@@ -7248,9 +7378,10 @@ Utilizzo di uno slot incantesimo di livello superiore. La durata aumenta con uno
 
 Una creatura a scelta dell'incantatore, situata entro gittata e che egli è in grado di vedere, sente una melodia dissonante nella sua mente. Il bersaglio effettua un tiro salvezza su Saggezza. Se lo fallisce, subisce 3d6 danni psichici e, se disponibile, deve usare immediatamente la sua reazione per muoversi fin dove la sua velocità glielo consente, percorrendo la via più sicura. In caso di successo, subisce soltanto la metà di quei danni.
 
-### scaling
+### Scaling
 
-Utilizzo di uno slot incantesimo di livello superiore. I danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d6 per ogni slot di livello superiore al 1º.
 
 ## Taumaturgia
 
