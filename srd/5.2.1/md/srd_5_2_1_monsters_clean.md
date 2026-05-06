@@ -13747,7 +13747,9 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 9 (1d10 + 4) danni contun
 
 ## Aquila
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -13782,16 +13784,15 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 9 (1d10 + 4) danni contun
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni taglienti.
 
 ---
 
 ## Aquila gigante
 
-**tipo:** Celestiale  
+**gruppo:** Animali
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 13  
@@ -13818,7 +13819,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 **abilita:** Percezione +6  
 **resistenze:** necrotico, radioso  
 **sensi:** Percezione passiva 16  
-**lingue:** Celestiale; capisce il Comune e il Primordiale  
+**lingue:** Celestiale; capisce il Comune e il Primordiale (Auran) ma non li parla
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
