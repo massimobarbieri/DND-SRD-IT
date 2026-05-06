@@ -17754,7 +17754,9 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni perfo
 
 ## Tigre
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17789,21 +17791,20 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni perfo
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 ### Azioni bonus
 
 **Fuga agile**  
-La tigre effettua l'azione di Disimpegno o Nascondersi. 404 System Reference Document 5.2.1
+La tigre effettua l'azione di Disimpegno o Nascondersi.
 
 ---
 
 ## Tigre dai denti a sciabola
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17846,10 +17847,7 @@ Dopo una rincorsa di 3 metri, la tigre può effettuare un salto in lungo di un m
 La tigre effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 11 (2d6 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni taglienti.
 
 ### Azioni bonus
 
