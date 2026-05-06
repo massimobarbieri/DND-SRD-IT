@@ -15854,7 +15854,9 @@ Tiro salvezza su Destrezza: CD 18, una creatura prona entro 1,5 metri. Falliment
 
 ## Mastino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15889,10 +15891,7 @@ Tiro salvezza su Destrezza: CD 18, una creatura prona entro 1,5 metri. Falliment
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 4 (1d6 + 1) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
 
 ---
 
