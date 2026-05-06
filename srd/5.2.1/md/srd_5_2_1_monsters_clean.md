@@ -14687,7 +14687,11 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 
 ## Colonia di topi
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14712,7 +14716,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
