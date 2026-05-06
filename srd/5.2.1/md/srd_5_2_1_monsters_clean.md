@@ -16333,7 +16333,9 @@ Attivazione: la piovra subisce danni finché si trova sott'acqua. Esito: la piov
 
 ## Pipistrello
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16367,16 +16369,15 @@ Attivazione: la piovra subisce danni finché si trova sott'acqua. Esito: la piov
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Pipistrello gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16410,10 +16411,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 6 (1d6 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni perforanti.
 
 ---
 
