@@ -106,8 +106,8 @@ L'aboleth effettua un attacco Tentacolo.
 - carisma: -5
 
 **resistenze:** acido  
-**immunita_danni:** fulmine, tagliente, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto 
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_danni:** fulmine, tagliente 
+**immunita_condizione:** affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
