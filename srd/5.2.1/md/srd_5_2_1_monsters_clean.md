@@ -12159,7 +12159,8 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 
 ## Succube
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 15  
@@ -12183,14 +12184,14 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 - saggezza: +1
 - carisma: +5
 
-**abilita:** Furtività +7, Inganno +9, Intuizione +5, Percezione  
+**abilita:** Furtività +7, Inganno +9, Intuizione +5, Percezione +5, Persuasione +9
 **resistenze:** freddo, fuoco, psichico, veleno  
 **sensi:** Percezione passiva 15; scurovisione 18 m  
 **lingue:** Abissale, Comune, Infernale; telepatia 18 m  
 **grado_sfida:** 4  
 **punti_esperienza:** PE 1.100  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 4 (PE 1.100; BC +2) 375 System Reference Document 5.2.1  
+**grado_sfida_raw:** 4 (PE 1.100; BC +2)
 
 ### Tratti
 
@@ -12214,7 +12215,7 @@ La succube lancia dominare persone (di 8º livello), senza bisogno di componenti
 ### Azioni bonus
 
 **Mutaforma**  
-La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna alla sua vera forma. Le sue statistiche di gioco sono le stesse in ogni forma, a eccezione della velocità di volo disponibile solo nella sua vera forma. Nessun oggetto che indossa o trasporta viene trasformato. Tarrasque
+La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna alla sua vera forma. Le sue statistiche di gioco sono le stesse in ogni forma, a eccezione della velocità di volo disponibile solo nella sua vera forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
