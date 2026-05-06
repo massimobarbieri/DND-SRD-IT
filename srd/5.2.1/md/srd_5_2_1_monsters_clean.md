@@ -16176,7 +16176,9 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d8 + 5) danni tagli
 
 ## Pantera
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16211,10 +16213,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d8 + 5) danni tagli
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 6 (1d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni taglienti.
 
 ### Azioni bonus
 
