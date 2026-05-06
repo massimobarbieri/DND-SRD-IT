@@ -13521,7 +13521,8 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni contu
 
 ## Zombi ogre
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 8  
@@ -13557,18 +13558,12 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni contu
 ### Tratti
 
 **Tempra dei non morti**  
-Se i danni riducono lo zombi a 0 punti ferita, esso effettua un tiro salvezza su Costituzione (CD pari a 5 più i danni subiti), a meno che non si tratti di danni radiosi o di un colpo critico.
-
-**In caso di successo, scende invece a 1 punto ferita**  
-
+Se i danni riducono lo zombi a 0 punti ferita, esso effettua un tiro salvezza su Costituzione (CD pari a 5 più i danni subiti), a meno che non si tratti di danni radiosi o di un colpo critico. In caso di successo, scende invece a 1 punto ferita.
 
 ### Azioni
 
 **Schianto**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 13 (2d8 + 4) danni contundenti**  
-Animali
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti.
 
 ---
 
