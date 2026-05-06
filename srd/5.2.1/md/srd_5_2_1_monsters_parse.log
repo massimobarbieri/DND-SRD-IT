@@ -134,135 +134,135 @@ Totale mostri estratti: 288
 #DONE Kraken (pagine 54-55): header_continuation_o_parse_da_verificare - spaventato, trattenuto
 #DONE Kraken (pagine 54-55): lair_variant_in_gs
 #DONE Kraken (pagine 54-55): azioni_leggendarie
-- Lamia (pagine 55-55): header_continuation_o_parse_da_verificare - 348 System Reference Document 5.2.1
-- Lamia (pagine 55-55): incantesimi_interni
-- Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - spaventato
-- Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
-- Lich (pagine 56-56): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
-- Lich (pagine 56-56): lair_variant_in_gs
-- Lich (pagine 56-56): azioni_leggendarie
-- Lich (pagine 56-56): incantesimi_interni
-- Lupo mannaro (pagine 57-57): header_continuation_o_parse_da_verificare - di un lupo)
-- Lupo mannaro (pagine 57-57): mutaforma
-- Mago (pagine 57-57): gruppo_header - Maghi
-- Mago (pagine 57-57): incantesimi_interni
-- Arcimago (pagine 58-58): incantesimi_interni
-- Marinide schermagliatore (pagine 60-60): gruppo_header - Marinide
-- Marinide schermagliatore (pagine 60-60): header_continuation_o_parse_da_verificare - 353 System Reference Document 5.2.1
-- Megera notturna (pagine 61-62): incantesimi_interni
-- Megera notturna (pagine 61-62): mutaforma
-- Megera verde (pagine 62-62): header_continuation_o_parse_da_verificare - Percezione +4
-- Megera verde (pagine 62-62): incantesimi_interni
-- di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - Melma grigia
-- di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - Melma Media, senza allineamento
-- di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - indebolimento, prono, spaventato, trattenuto
-- Mephit del ghiaccio (pagine 63-63): gruppo_header - Mephit
-- Mephit del magma (pagine 63-63): header_continuation_o_parse_da_verificare - 356 System Reference Document 5.2.1
-- Merrow (pagine 64-64): ability_table_parse_failed
-- Merrow (pagine 64-64): header_continuation_o_parse_da_verificare - Int 8 -1 -1 Sag 10 +0 +0 Car 9 -1 -1
-- Mezzodrago (pagine 64-65): header_continuation_o_parse_da_verificare - draconica descritto sotto
-- Mezzodrago (pagine 64-65): header_continuation_o_parse_da_verificare - cieca 3 m
-- Mimic (pagine 65-65): mutaforma
-- Mummia (pagine 65-66): gruppo_header - Mummie
-- Mummia (pagine 65-66): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
-- Signore delle mummie (pagine 66-66): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
-- Signore delle mummie (pagine 66-66): lair_variant_in_gs
-- Signore delle mummie (pagine 66-66): azioni_leggendarie
-- Signore delle mummie (pagine 66-66): incantesimi_interni
-- Naga guardiana (pagine 66-67): header_continuation_o_parse_da_verificare - trattenuto
-- Naga guardiana (pagine 66-67): incantesimi_interni
-- Naga spirituale (pagine 67-67): incantesimi_interni
-- Armatura animata (pagine 68-68): gruppo_header - Oggetti animati
-- Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
-- Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - spaventato
-- Spada volante animata (pagine 68-68): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
-- Spada volante animata (pagine 68-68): header_continuation_o_parse_da_verificare - spaventato
-- Tappeto soffocante animato (pagine 68-69): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
-- Tappeto soffocante animato (pagine 68-69): header_continuation_o_parse_da_verificare - spaventato
-- Ombra (pagine 69-69): header_continuation_o_parse_da_verificare - 362 System Reference Document 5.2.1
-- Ombra (pagine 69-69): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, privo di sensi,
-- Ombra (pagine 69-69): header_continuation_o_parse_da_verificare - prono, spaventato, trattenuto
-- Omuncolo (pagine 69-70): header_continuation_o_parse_da_verificare - le parla
-- Oni (pagine 70-70): incantesimi_interni
-- Oni (pagine 70-70): mutaforma
-- Orso mannaro (pagine 70-71): header_continuation_o_parse_da_verificare - (solo in forma di orso)
-- Orso mannaro (pagine 70-71): mutaforma
-- Otyugh (pagine 71-71): header_continuation_o_parse_da_verificare - interlocutrice di rispondere telepaticamente)
-- Pegaso (pagine 71-71): header_continuation_o_parse_da_verificare - ma non li parla
-- Pirata (pagine 71-71): gruppo_header - Pirati
-- Planetar (pagine 72-72): incantesimi_interni
-- Protoplasma nero (pagine 73-73): header_continuation_o_parse_da_verificare - afferrato, assordato, indebolimento, prono, spaventato,
-- Protoplasma nero (pagine 73-73): header_continuation_o_parse_da_verificare - trattenuto
-- Pseudodrago (pagine 73-73): header_continuation_o_parse_da_verificare - cieca 3 m
-- Quasit (pagine 73-74): mutaforma
-- Rakshasa (pagine 74-75): header_continuation_o_parse_da_verificare - creature sotto l'effetto dell'incantesimo benedizione
-- Rakshasa (pagine 74-75): incantesimi_interni
-- Remorhaz (pagine 75-75): header_continuation_o_parse_da_verificare - scurovisione 18 m
-- Sacerdote accolito (pagine 76-76): gruppo_header - Sacerdoti
-- Sacerdote accolito (pagine 76-76): incantesimi_interni
-- Sacerdote (pagine 76-77): incantesimi_interni
-- Sahuagin guerriero (pagine 77-77): gruppo_header - Sahuagin
-- Scheletro (pagine 78-78): gruppo_header - Scheletri
-- Scheletro (pagine 78-78): header_continuation_o_parse_da_verificare - le parla
-- Sfinge della meraviglia (pagine 79-79): gruppo_header - Sfingi
-- Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - 372 System Reference Document 5.2.1
-- Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - Storia +12
-- Sfinge della conoscenza (pagine 79-80): lair_variant_in_gs
-- Sfinge della conoscenza (pagine 79-80): azioni_leggendarie
-- Sfinge della conoscenza (pagine 79-80): incantesimi_interni
-- Sfinge del valore (pagine 80-80): lair_variant_in_gs
-- Sfinge del valore (pagine 80-80): azioni_leggendarie
-- Sfinge del valore (pagine 80-80): incantesimi_interni
-- Solar (pagine 80-81): header_continuation_o_parse_da_verificare - indebolimento, spaventato
-- Solar (pagine 80-81): azioni_leggendarie
-- Solar (pagine 80-81): incantesimi_interni
-- Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - 374 System Reference Document 5.2.1
-- Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - perforante, tagliente, tuono
-- Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
-- Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - privo di sensi, prono, trattenuto
-- Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - le parla
-- Spia (pagine 81-82): header_continuation_o_parse_da_verificare - +4, Percezione +6, Rapidità di Mano +4
-- Spia (pagine 81-82): header_continuation_o_parse_da_verificare - corta
-- Succube (pagine 82-82): header_continuation_o_parse_da_verificare - +5, Persuasione +9
-- Succube (pagine 82-82): mutaforma
-- Tarrasque (pagine 82-83): header_continuation_o_parse_da_verificare - avvelenato, paralizzato, spaventato
-- Tarrasque (pagine 82-83): azioni_leggendarie
-- Tigre mannara (pagine 84-84): mutaforma
-- Topo mannaro (pagine 84-84): mutaforma
-- Unicorno (pagine 86-86): azioni_leggendarie
-- Unicorno (pagine 86-86): incantesimi_interni
-- Famiglio del vampiro (pagine 86-87): gruppo_header - Vampiri
-- Famiglio del vampiro (pagine 86-87): header_continuation_o_parse_da_verificare - vampiro)
-- Vampiro (pagine 87-88): lair_variant_in_gs
-- Vampiro (pagine 87-88): azioni_leggendarie
-- Vampiro (pagine 87-88): mutaforma
-- Albero risvegliato (pagine 88-88): gruppo_header - Vegetali risvegliati
-- Verme purpureo (pagine 89-89): header_continuation_o_parse_da_verificare - vista cieca 9 m
-- Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - tagliente
-- Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
-- Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - privo di sensi, prono, trattenuto
-- Xorn (pagine 91-91): header_continuation_o_parse_da_verificare - scurovisione 18 m
-- Zombi (pagine 91-91): header_continuation_o_parse_da_verificare - le parla
-- Alce (pagine 92-92): gruppo_header - Animali
-- Alce gigante (pagine 92-92): header_continuation_o_parse_da_verificare - ma non li parla
-- Allosauro (pagine 92-92): header_continuation_o_parse_da_verificare - 385 System Reference Document 5.2.1
-- Aquila gigante (pagine 93-93): header_continuation_o_parse_da_verificare - (Auran) ma non li parla
-- Avvoltoio (pagine 93-93): header_continuation_o_parse_da_verificare - 386 System Reference Document 5.2.1
-- Banco di piranha (pagine 94-94): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
-- Cavalluccio marino (pagine 95-95): header_continuation_o_parse_da_verificare - 388 System Reference Document 5.2.1
-- Coccodrillo (pagine 96-96): header_continuation_o_parse_da_verificare - 389 System Reference Document 5.2.1
-- Colonia di serpenti velenosi (pagine 96-97): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
-- Colonia di topi (pagine 97-97): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
-- Corvo (pagine 97-97): header_continuation_o_parse_da_verificare - 390 System Reference Document 5.2.1
-- Falco (pagine 98-98): header_continuation_o_parse_da_verificare - 391 System Reference Document 5.2.1
-- Gufo gigante (pagine 100-100): header_continuation_o_parse_da_verificare - ma non li parla
-- Gufo gigante (pagine 100-100): incantesimi_interni
-- Iena (pagine 100-100): gruppo_header - duazione del magico
-- Mastino (pagine 102-102): header_continuation_o_parse_da_verificare - 395 System Reference Document 5.2.1
-- Orso nero (pagine 103-103): header_continuation_o_parse_da_verificare - 396 System Reference Document 5.2.1
-- Ragno lupo gigante (pagine 106-106): header_continuation_o_parse_da_verificare - cieca 3 m
-- Scarabeo di fuoco gigante (pagine 107-107): header_continuation_o_parse_da_verificare - Resistenze: fuoco
-- Stormo di corvi (pagine 110-110): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
+#DONE Lamia (pagine 55-55): header_continuation_o_parse_da_verificare - 348 System Reference Document 5.2.1
+#DONE Lamia (pagine 55-55): incantesimi_interni
+#DONE Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - spaventato
+#DONE Lemure (pagine 55-56): header_continuation_o_parse_da_verificare - ostacolata dall'oscurità magica)
+#DONE Lich (pagine 56-56): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
+#DONE Lich (pagine 56-56): lair_variant_in_gs
+#DONE Lich (pagine 56-56): azioni_leggendarie
+#DONE Lich (pagine 56-56): incantesimi_interni
+#DONE Lupo mannaro (pagine 57-57): header_continuation_o_parse_da_verificare - di un lupo)
+#DONE Lupo mannaro (pagine 57-57): mutaforma
+#DONE Mago (pagine 57-57): gruppo_header - Maghi
+#DONE Mago (pagine 57-57): incantesimi_interni
+#DONE Arcimago (pagine 58-58): incantesimi_interni
+#DONE Marinide schermagliatore (pagine 60-60): gruppo_header - Marinide
+#DONE Marinide schermagliatore (pagine 60-60): header_continuation_o_parse_da_verificare - 353 System Reference Document 5.2.1
+#DONE Megera notturna (pagine 61-62): incantesimi_interni
+#DONE Megera notturna (pagine 61-62): mutaforma
+#DONE Megera verde (pagine 62-62): header_continuation_o_parse_da_verificare - Percezione +4
+#DONE Megera verde (pagine 62-62): incantesimi_interni
+#DONE di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - Melma grigia
+#DONE di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - Melma Media, senza allineamento
+#DONE di infermità (di 3º livello) (pagine 62-63): header_continuation_o_parse_da_verificare - indebolimento, prono, spaventato, trattenuto
+#DONE Mephit del ghiaccio (pagine 63-63): gruppo_header - Mephit
+#DONE Mephit del magma (pagine 63-63): header_continuation_o_parse_da_verificare - 356 System Reference Document 5.2.1
+#DONE Merrow (pagine 64-64): ability_table_parse_failed
+#DONE Merrow (pagine 64-64): header_continuation_o_parse_da_verificare - Int 8 -1 -1 Sag 10 +0 +0 Car 9 -1 -1
+#DONE Mezzodrago (pagine 64-65): header_continuation_o_parse_da_verificare - draconica descritto sotto
+#DONE Mezzodrago (pagine 64-65): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Mimic (pagine 65-65): mutaforma
+#DONE Mummia (pagine 65-66): gruppo_header - Mummie
+#DONE Mummia (pagine 65-66): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
+#DONE Signore delle mummie (pagine 66-66): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, spaventato
+#DONE Signore delle mummie (pagine 66-66): lair_variant_in_gs
+#DONE Signore delle mummie (pagine 66-66): azioni_leggendarie
+#DONE Signore delle mummie (pagine 66-66): incantesimi_interni
+#DONE Naga guardiana (pagine 66-67): header_continuation_o_parse_da_verificare - trattenuto
+#DONE Naga guardiana (pagine 66-67): incantesimi_interni
+#DONE Naga spirituale (pagine 67-67): incantesimi_interni
+#DONE Armatura animata (pagine 68-68): gruppo_header - Oggetti animati
+#DONE Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
+#DONE Armatura animata (pagine 68-68): header_continuation_o_parse_da_verificare - spaventato
+#DONE Spada volante animata (pagine 68-68): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
+#DONE Spada volante animata (pagine 68-68): header_continuation_o_parse_da_verificare - spaventato
+#DONE Tappeto soffocante animato (pagine 68-69): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
+#DONE Tappeto soffocante animato (pagine 68-69): header_continuation_o_parse_da_verificare - spaventato
+#DONE Ombra (pagine 69-69): header_continuation_o_parse_da_verificare - 362 System Reference Document 5.2.1
+#DONE Ombra (pagine 69-69): header_continuation_o_parse_da_verificare - indebolimento, paralizzato, pietrificato, privo di sensi,
+#DONE Ombra (pagine 69-69): header_continuation_o_parse_da_verificare - prono, spaventato, trattenuto
+#DONE Omuncolo (pagine 69-70): header_continuation_o_parse_da_verificare - le parla
+#DONE Oni (pagine 70-70): incantesimi_interni
+#DONE Oni (pagine 70-70): mutaforma
+#DONE Orso mannaro (pagine 70-71): header_continuation_o_parse_da_verificare - (solo in forma di orso)
+#DONE Orso mannaro (pagine 70-71): mutaforma
+#DONE Otyugh (pagine 71-71): header_continuation_o_parse_da_verificare - interlocutrice di rispondere telepaticamente)
+#DONE Pegaso (pagine 71-71): header_continuation_o_parse_da_verificare - ma non li parla
+#DONE Pirata (pagine 71-71): gruppo_header - Pirati
+#DONE Planetar (pagine 72-72): incantesimi_interni
+#DONE Protoplasma nero (pagine 73-73): header_continuation_o_parse_da_verificare - afferrato, assordato, indebolimento, prono, spaventato,
+#DONE Protoplasma nero (pagine 73-73): header_continuation_o_parse_da_verificare - trattenuto
+#DONE Pseudodrago (pagine 73-73): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Quasit (pagine 73-74): mutaforma
+#DONE Rakshasa (pagine 74-75): header_continuation_o_parse_da_verificare - creature sotto l'effetto dell'incantesimo benedizione
+#DONE Rakshasa (pagine 74-75): incantesimi_interni
+#DONE Remorhaz (pagine 75-75): header_continuation_o_parse_da_verificare - scurovisione 18 m
+#DONE Sacerdote accolito (pagine 76-76): gruppo_header - Sacerdoti
+#DONE Sacerdote accolito (pagine 76-76): incantesimi_interni
+#DONE Sacerdote (pagine 76-77): incantesimi_interni
+#DONE Sahuagin guerriero (pagine 77-77): gruppo_header - Sahuagin
+#DONE Scheletro (pagine 78-78): gruppo_header - Scheletri
+#DONE Scheletro (pagine 78-78): header_continuation_o_parse_da_verificare - le parla
+#DONE Sfinge della meraviglia (pagine 79-79): gruppo_header - Sfingi
+#DONE Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - 372 System Reference Document 5.2.1
+#DONE Sfinge della conoscenza (pagine 79-80): header_continuation_o_parse_da_verificare - Storia +12
+#DONE Sfinge della conoscenza (pagine 79-80): lair_variant_in_gs
+#DONE Sfinge della conoscenza (pagine 79-80): azioni_leggendarie
+#DONE Sfinge della conoscenza (pagine 79-80): incantesimi_interni
+#DONE Sfinge del valore (pagine 80-80): lair_variant_in_gs
+#DONE Sfinge del valore (pagine 80-80): azioni_leggendarie
+#DONE Sfinge del valore (pagine 80-80): incantesimi_interni
+#DONE Solar (pagine 80-81): header_continuation_o_parse_da_verificare - indebolimento, spaventato
+#DONE Solar (pagine 80-81): azioni_leggendarie
+#DONE Solar (pagine 80-81): incantesimi_interni
+#DONE Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - 374 System Reference Document 5.2.1
+#DONE Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - perforante, tagliente, tuono
+#DONE Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
+#DONE Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - privo di sensi, prono, trattenuto
+#DONE Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - le parla
+#DONE Spia (pagine 81-82): header_continuation_o_parse_da_verificare - +4, Percezione +6, Rapidità di Mano +4
+#DONE Spia (pagine 81-82): header_continuation_o_parse_da_verificare - corta
+#DONE Succube (pagine 82-82): header_continuation_o_parse_da_verificare - +5, Persuasione +9
+#DONE Succube (pagine 82-82): mutaforma
+#DONE Tarrasque (pagine 82-83): header_continuation_o_parse_da_verificare - avvelenato, paralizzato, spaventato
+#DONE Tarrasque (pagine 82-83): azioni_leggendarie
+#DONE Tigre mannara (pagine 84-84): mutaforma
+#DONE Topo mannaro (pagine 84-84): mutaforma
+#DONE Unicorno (pagine 86-86): azioni_leggendarie
+#DONE Unicorno (pagine 86-86): incantesimi_interni
+#DONE Famiglio del vampiro (pagine 86-87): gruppo_header - Vampiri
+#DONE Famiglio del vampiro (pagine 86-87): header_continuation_o_parse_da_verificare - vampiro)
+#DONE Vampiro (pagine 87-88): lair_variant_in_gs
+#DONE Vampiro (pagine 87-88): azioni_leggendarie
+#DONE Vampiro (pagine 87-88): mutaforma
+#DONE Albero risvegliato (pagine 88-88): gruppo_header - Vegetali risvegliati
+#DONE Verme purpureo (pagine 89-89): header_continuation_o_parse_da_verificare - vista cieca 9 m
+#DONE Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - tagliente
+#DONE Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
+#DONE Wraith (pagine 90-91): header_continuation_o_parse_da_verificare - privo di sensi, prono, trattenuto
+#DONE Xorn (pagine 91-91): header_continuation_o_parse_da_verificare - scurovisione 18 m
+#DONE Zombi (pagine 91-91): header_continuation_o_parse_da_verificare - le parla
+#DONE Alce (pagine 92-92): gruppo_header - Animali
+#DONE Alce gigante (pagine 92-92): header_continuation_o_parse_da_verificare - ma non li parla
+#DONE Allosauro (pagine 92-92): header_continuation_o_parse_da_verificare - 385 System Reference Document 5.2.1
+#DONE Aquila gigante (pagine 93-93): header_continuation_o_parse_da_verificare - (Auran) ma non li parla
+#DONE Avvoltoio (pagine 93-93): header_continuation_o_parse_da_verificare - 386 System Reference Document 5.2.1
+#DONE Banco di piranha (pagine 94-94): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
+#DONE Cavalluccio marino (pagine 95-95): header_continuation_o_parse_da_verificare - 388 System Reference Document 5.2.1
+#DONE Coccodrillo (pagine 96-96): header_continuation_o_parse_da_verificare - 389 System Reference Document 5.2.1
+#DONE Colonia di serpenti velenosi (pagine 96-97): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
+#DONE Colonia di topi (pagine 97-97): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
+#DONE Corvo (pagine 97-97): header_continuation_o_parse_da_verificare - 390 System Reference Document 5.2.1
+#DONE Falco (pagine 98-98): header_continuation_o_parse_da_verificare - 391 System Reference Document 5.2.1
+#DONE Gufo gigante (pagine 100-100): header_continuation_o_parse_da_verificare - ma non li parla
+#DONE Gufo gigante (pagine 100-100): incantesimi_interni
+#DONE Iena (pagine 100-100): gruppo_header - duazione del magico
+#DONE Mastino (pagine 102-102): header_continuation_o_parse_da_verificare - 395 System Reference Document 5.2.1
+#DONE Orso nero (pagine 103-103): header_continuation_o_parse_da_verificare - 396 System Reference Document 5.2.1
+#DONE Ragno lupo gigante (pagine 106-106): header_continuation_o_parse_da_verificare - cieca 3 m
+#DONE Scarabeo di fuoco gigante (pagine 107-107): header_continuation_o_parse_da_verificare - Resistenze: fuoco
+#DONE Stormo di corvi (pagine 110-110): header_continuation_o_parse_da_verificare - prono, spaventato, stordito, trattenuto
 
 ## Note generali
 - Parsing a due colonne: ogni pagina viene letta colonna sinistra poi colonna destra.

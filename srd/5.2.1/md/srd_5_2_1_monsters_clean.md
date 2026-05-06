@@ -8111,7 +8111,8 @@ Il kraken usa Colpo del fulmine.
 
 ## Lamia
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
@@ -8145,28 +8146,31 @@ Il kraken usa Colpo del fulmine.
 
 ### Azioni
 
-**Multiattacco**  
+**Multiattacco**
 Il lamia effettua due attacchi Artiglio. Può sostituire un attacco con un utilizzo di Tocco corruttore.
 
 **Artiglio**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni taglienti più 7 (2d6) danni psichici.
 
-**Incantesimi**  
-Il lamia lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: Costrizione, immagine maggiore, scrutare A volontà: Camuffare se stesso (può apparire come un bipede di taglia Grande o Media), illusione minore
+**Incantesimi**
+Il lamia lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
+**1/giorno ciascuno:** Costrizione, immagine maggiore, scrutare 
+**A volontà:** Camuffare se stesso (può apparire come un bipede di taglia Grande o Media), illusione minore
 
-**Tocco corruttore**  
+**Tocco corruttore**
 Tiro salvezza su Saggezza: CD 13, una creatura che il lamia è in grado di vedere entro 1,5 metri. Fallimento: 13 (3d8) danni psichici, e il bersaglio è maledetto per 1 ora. Finché la maledizione perdura, il bersaglio è affascinato e avvelenato.
 
 ### Azioni bonus
 
 **Balzo**  
-Il lamia salta fino a 9 metri usando 3 metri di movimento. Lemure
+Il lamia salta fino a 9 metri usando 3 metri di movimento.
 
 ---
 
 ## Lemure
 
-**tipo:** Immondo  
+**tipo:** Immondo (diavolo)
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 9  
@@ -8192,8 +8196,8 @@ Il lamia salta fino a 9 metri usando 3 metri di movimento. Lemure
 
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
-**sensi:** Percezione passiva 10; scurovisione 36 m (non  
+**immunita_condizione:** affascinato, avvelenato, spaventato
+**sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** capisce l'Infernale ma non lo parla  
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
@@ -8208,13 +8212,14 @@ Se il lemure muore nei Nove Inferi, torna in vita con tutti i suoi punti ferita 
 ### Azioni
 
 **Melma vile**  
-Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno. Lich
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno.
 
 ---
 
 ## Lich
 
-**tipo:** Non  
+**tipo:** Non morto (mago)
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 20  
@@ -8238,11 +8243,11 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno
 - saggezza: +9
 - carisma: +3
 
-**abilita:** Arcano +19, Intuizione +9, Percezione +9, Storia  
+**abilita:** Arcano +19, Intuizione +9, Percezione +9, Storia +12
 **attrezzatura:** borsa per componenti  
 **resistenze:** freddo, fulmine  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista pura 36 m  
 **lingue:** tutte  
 **grado_sfida:** 21  
@@ -8253,7 +8258,10 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno
 ### Tratti
 
 **Filatterio**  
-Se annientato, il lich si riforma dopo 1d10 giorni se possiede un filatterio, tornando in vita con tutti i suoi punti ferita. Il nuovo corpo appare in uno spazio libero all'interno della tana della lich. Resistenza leggendaria (4/giorno o 5/giorno nella tana). Se il lich fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Se annientato, il lich si riforma dopo 1d10 giorni se possiede un filatterio, tornando in vita con tutti i suoi punti ferita. Il nuovo corpo appare in uno spazio libero all'interno della tana della lich. 
+
+**Resistenza leggendaria (4/giorno o 5/giorno nella tana)**
+Se il lich fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -8267,15 +8275,15 @@ Tiro per colpire in mischia o a distanza: +12, portata 1,5 m o gittata 36 m. Col
 Tiro per colpire in mischia: +12, portata 1,5 m. Colpito: 15 (3d6 + 5) danni da freddo, e il bersaglio è paralizzato fino all'inizio del turno successivo del lich.
 
 **Incantesimi**  
-Il lich lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 349 System Reference Document 5.2.1 1/giorno ciascuno: catena di fulmini, dito della morte, parola del potere uccidere, scrutare 2/giorno ciascuno: animare morti, porta dimensionale, spostamento planare A volontà: Dissolvi magie, fulmine (di 5º livello), individuazione dei pensieri, individuazione del magico, invisibilità, mano magica, palla di fuoco (di 5º livello), prestidigitazione
+Il lich lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20):
+**1/giorno ciascuno:** catena di fulmini, dito della morte, parola del potere uccidere, scrutare 
+**2/giorno ciascuno:** animare morti, porta dimensionale, spostamento planare 
+**A volontà:** Dissolvi magie, fulmine (di 5º livello), individuazione dei pensieri, individuazione del magico, invisibilità, mano magica, palla di fuoco (di 5º livello), prestidigitazione
 
 ### Reazioni
 
 **Magia di protezione**  
-Il lich lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-
+Il lich lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ### Azioni leggendarie
 
@@ -8289,13 +8297,14 @@ Tiro salvezza su Costituzione: CD 20, tutte le creature diverse da un non morto 
 Il lich lancia paura, utilizzando la stessa caratteristica da incantatore di Incantesimi. il lich non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Teletrasporto mortale**  
-Il lich si teletrasporta fino a 18 metri in uno spazio libero che è in grado di vedere, e ogni creatura entro 3 metri dallo spazio che ha lasciato subisce 11 (2d10) danni necrotici. Lupo invernale
+Il lich si teletrasporta fino a 18 metri in uno spazio libero che è in grado di vedere, e ogni creatura entro 3 metri dallo spazio che ha lasciato subisce 11 (2d10) danni necrotici.
 
 ---
 
 ## Lupo invernale
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -8336,19 +8345,17 @@ Il lupo dispone di vantaggio al tiro per colpire contro una creatura se almeno u
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 11 (2d6 + 4) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Soffio di freddo (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 18 (4d8) danni da freddo. Successo: danni dimezzati. Lupo mannaro
+Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 18 (4d8) danni da freddo. Successo: danni dimezzati.
 
 ---
 
 ## Lupo mannaro
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -8375,7 +8382,7 @@ Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri.
 **abilita:** Furtività +4, Percezione +4  
 **attrezzatura:** arco lungo  
 **sensi:** Percezione passiva 14; scurovisione 18 m  
-**lingue:** Comune (non può parlare quando ha le sembianze  
+**lingue:** Comune (non può parlare quando ha le sembianze di un lupo)
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
 **bonus_competenza:** +2  
@@ -8389,22 +8396,14 @@ Il lupo mannaro dispone di vantaggio a un tiro per colpire contro una creatura s
 ### Azioni
 
 **Multiattacco**  
-Il lupo mannaro effettua due attacchi, usando Graffio o Arco lungo in qualsiasi combinazione.
-
-**Può sostituire un attacco con un attacco Morso**  
+Il lupo mannaro effettua due attacchi, usando Graffio o Arco lungo in qualsiasi combinazione. Può sostituire un attacco con un attacco Morso.
 
 
 **Graffio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Morso (solo in forma di lupo o ibrida)**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione:
-
-**CD 12**  
-Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un lupo mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del lupo mannaro per 24 ore. 350 System Reference Document 5.2.1
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un lupo mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del lupo mannaro per 24 ore.
 
 **Arco lungo (solo in forma umanoide o ibrida)**  
 Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 11 (2d8 + 2) danni perforanti.
@@ -8412,14 +8411,15 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 11 (2d8 + 2) danni p
 ### Azioni bonus
 
 **Mutaforma**  
-Il lupo mannaro si trasforma in un ibrido umanoide-lupo di taglia Grande o in un lupo di taglia Media, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Maghi
+Il lupo mannaro si trasforma in un ibrido umanoide-lupo di taglia Grande o in un lupo di taglia Media, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Mago
 
-**gruppo:** Maghi  
-**tipo:** Umanoide  
+**gruppo:** Maghi
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 15  
@@ -8461,15 +8461,15 @@ Il mago effettua tre attacchi Esplosione arcana.
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 36 m. Colpito: 16 (3d8 + 3) danni da forza.
 
 **Incantesimi**  
-Il mago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 1/giorno ciascuno: Cono di freddo, volare 2/giorno ciascuno: Invisibilità, palla di fuoco (di 4º livello) A volontà: Armatura magica (inclusa nella CA), individuazione del magico, luce, mano magica, prestidigitazione
+Il mago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
+**1/giorno ciascuno:** Cono di freddo, volare 
+**2/giorno ciascuno:** Invisibilità, palla di fuoco (di 4º livello) 
+**A volontà:** Armatura magica (inclusa nella CA), individuazione del magico, luce, mano magica, prestidigitazione
 
 ### Azioni bonus
 
 **Passo velato (3/giorno)**  
-Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-
+Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ### Reazioni
 
@@ -8480,7 +8480,9 @@ Il mago lancia controincantesimo o scudo come risposta all'innesco dell'incantes
 
 ## Arcimago
 
-**tipo:** Umanoide  
+**gruppo:** Maghi
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
@@ -8523,35 +8525,33 @@ L'arcimago dispone di vantaggio ai tiri salvezza contro incantesimi e altri effe
 ### Azioni
 
 **Multiattacco**  
-L'arcimago effettua quattro attacchi
-
-**Esplosione arcana**  
-
+L'arcimago effettua quattro attacchi Esplosione arcana.
 
 **Esplosione arcana**  
 Tiro per colpire in mischia o a distanza: +9, portata 1,5 m o gittata 45 m. Colpito: 27 (4d10 + 5) danni da forza.
 
 **Incantesimi**  
-L'arcimago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: Cono di freddo (di 9º livello), scrutare, teletrasporto, vuoto mentale (lanciato prima del combattimento) 2/giorno ciascuno: Fulmine (di 7º livello), volare A volontà: Armatura magica (inclusa nella CA), camuffare se stesso, individuazione dei pensieri, individuazione del magico, invisibilità, luce, mano magica, prestidigitazione
+L'arcimago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
+**1/giorno ciascuno:** Cono di freddo (di 9º livello), scrutare, teletrasporto, vuoto mentale (lanciato prima del combattimento) 
+**2/giorno ciascuno:** Fulmine (di 7º livello), volare 
+**A volontà:** Armatura magica (inclusa nella CA), camuffare se stesso, individuazione dei pensieri, individuazione del magico, invisibilità, luce, mano magica, prestidigitazione
 
 ### Azioni bonus
 
 **Passo velato (3/giorno)**  
-Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-
+Il mago lancia passo velato, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ### Reazioni
 
 **Magia di protezione (3/giorno)**  
-L'arcimago lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di Incantesimi. 351 System Reference Document 5.2.1 Magmin
+L'arcimago lancia controincantesimo o scudo come risposta all'innesco dell'incantesimo, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Magmin
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 14  
@@ -8591,21 +8591,19 @@ Il magmin esplode quando muore. Tiro salvezza su Destrezza: CD 11, tutte le crea
 ### Azioni
 
 **Tocco**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (2d4 + 2) danni da fuoco**  
-Se il bersaglio è una creatura o un oggetto infiammabile che non è indossato o trasportato, prende fuoco.
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile che non è indossato o trasportato, prende fuoco.
 
 ### Azioni bonus
 
 **Illuminazione fiammeggiante**  
-Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri. Manticora
+Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri.
 
 ---
 
 ## Manticora
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 14  
@@ -8639,25 +8637,20 @@ Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta l
 ### Azioni
 
 **Multiattacco**  
-La manticora effettua tre attacchi, usando
-
-**Squarcio o Aculeo caudale in qualsiasi combinazione**  
-
+La manticora effettua tre attacchi, usando Squarcio o Aculeo caudale in qualsiasi combinazione.
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 7 (1d8 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni taglienti.
 
 **Aculeo caudale**  
-Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni perforanti. Manto assassino
+Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni perforanti.
 
 ---
 
 ## Manto assassino
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 14  
@@ -8698,39 +8691,28 @@ Finché è esposto alla luce intensa, il manto assassino subisce svantaggio ai t
 ### Azioni
 
 **Multiattacco**  
-Il manto assassino effettua un attacco
-
-**Avvinghiare e due attacchi Coda**  
-
+Il manto assassino effettua un attacco Avvinghiare e due attacchi Coda.
 
 **Avvinghiare**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (3d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, il manto si avvinghia ad essa. Finché resta avvinghiato al bersaglio, quest'ultimo è accecato, e il manto non può effettuare attacchi Avvinghiare contro altri bersagli. Inoltre, il manto assassino dimezza i danni subiti (arrotondati per difetto) e il bersaglio subisce lo stesso ammontare di danni. Il manto assassino può staccarsi da solo usando 1,5 metri di movimento. Il bersaglio o una creatura entro 1,5 metri da esso può effettuare un'azione per staccarsi il manto di dosso, superando una prova di
-
-**Forza (Atletica) con CD 14**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (3d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, il manto si avvinghia ad essa. Finché resta avvinghiato al bersaglio, quest'ultimo è accecato, e il manto non può effettuare attacchi Avvinghiare contro altri bersagli. Inoltre, il manto assassino dimezza i danni subiti (arrotondati per difetto) e il bersaglio subisce lo stesso ammontare di danni. Il manto assassino può staccarsi da solo usando 1,5 metri di movimento. Il bersaglio o una creatura entro 1,5 metri da esso può effettuare un'azione per staccarsi il manto di dosso, superando una prova di Forza (Atletica) con CD 14.
 
 **Coda**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 8 (1d10 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 8 (1d10 + 3) danni taglienti.
 
 ### Azioni bonus
 
 **Allucinazioni (ricarica dopo un riposo breve o lungo)**  
-Il manto assassino lancia l'incantesimo immagine speculare senza bisogno di componenti, utilizzando
-
-**Saggezza come caratteristica da incantatore**  
-L'incantesimo termina in anticipo se il manto assassino inizia o termina il proprio turno mentre è esposto alla luce intensa.
+Il manto assassino lancia l'incantesimo immagine speculare senza bisogno di componenti, utilizzando Saggezza come caratteristica da incantatore. L'incantesimo termina in anticipo se il manto assassino inizia o termina il proprio turno mentre è esposto alla luce intensa.
 
 **Gemito**  
-Tiro salvezza su Saggezza: CD 13, tutte le creature in un'emanazione di 18 metri di cui il manto assassino è il punto di origine. Fallimento: il bersaglio è spaventato fino al termine del turno successivo del 352 System Reference Document 5.2.1 manto assassino. Successo: il bersaglio è immune al Gemito di questo manto assassino per le 24 ore successive. Mantoscuro
+Tiro salvezza su Saggezza: CD 13, tutte le creature in un'emanazione di 18 metri di cui il manto assassino è il punto di origine. Fallimento: il bersaglio è spaventato fino al termine del turno successivo del manto assassino. Successo: il bersaglio è immune al Gemito di questo manto assassino per le 24 ore successive.
 
 ---
 
 ## Mantoscuro
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -8765,19 +8747,17 @@ Tiro salvezza su Saggezza: CD 13, tutte le creature in un'emanazione di 18 metri
 ### Azioni
 
 **Schiacciare**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contundenti, e il mantoscuro si avvinghia al bersaglio. Se il bersaglio è una creatura di taglia Media o inferiore e il mantoscuro dispone di vantaggio al tiro per colpire, copre il bersaglio, il quale è accecato e soffoca mentre il mostro è avvinghiato a lui in questo modo. Finché è avvinghiato a un bersaglio, il mantoscuro può attaccare solamente il bersaglio, ma dispone di vantaggio ai suoi tiri per colpire. Inoltre, il mantoscuro si muove insieme al bersaglio, la sua velocità diventa 0 e non può beneficiare di alcun bonus alla velocità. Una creatura può effettuare un'azione per staccarsi il mantoscuro di dosso, riuscendoci con una prova di
-
-**Forza (Atletica) con CD 13 superata**  
-Nel suo turno, il mantoscuro può staccarsi spontaneamente dal bersaglio usando 1,5 metri di movimento.
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contundenti, e il mantoscuro si avvinghia al bersaglio. Se il bersaglio è una creatura di taglia Media o inferiore e il mantoscuro dispone di vantaggio al tiro per colpire, copre il bersaglio, il quale è accecato e soffoca mentre il mostro è avvinghiato a lui in questo modo. Finché è avvinghiato a un bersaglio, il mantoscuro può attaccare solamente il bersaglio, ma dispone di vantaggio ai suoi tiri per colpire. Inoltre, il mantoscuro si muove insieme al bersaglio, la sua velocità diventa 0 e non può beneficiare di alcun bonus alla velocità. Una creatura può effettuare un'azione per staccarsi il mantoscuro di dosso, riuscendoci con una prova di Forza (Atletica) con CD 13 superata. Nel suo turno, il mantoscuro può staccarsi spontaneamente dal bersaglio usando 1,5 metri di movimento.
 
 **Aura di oscurità (1/giorno)**  
-L'oscurità magica riempie un'emanazione di 4,5 metri di cui il mantoscuro è il punto di origine. Questo effetto dura finché il mantoscuro mantiene la concentrazione su di esso, fino a 10 minuti. La scurovisione non può penetrare in quest'area e nessuna luce può illuminarla. Marilith
+L'oscurità magica riempie un'emanazione di 4,5 metri di cui il mantoscuro è il punto di origine. Questo effetto dura finché il mantoscuro mantiene la concentrazione su di esso, fino a 10 minuti. La scurovisione non può penetrare in quest'area e nessuna luce può illuminarla.
 
 ---
 
 ## Marilith
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 16  
@@ -8842,14 +8822,15 @@ Il marilith si teletrasporta fino a massimo di 36 metri in uno spazio libero che
 ### Reazioni
 
 **Parata**  
-Attivazione: il marilith viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il marilith aggiunge 5 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Marinide
+Attivazione: il marilith viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il marilith aggiunge 5 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Marinide schermagliatore
 
 **gruppo:** Marinide  
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 11  
@@ -8888,13 +8869,14 @@ Il marinide può respirare in aria e in acqua.
 ### Azioni
 
 **Lancia oceanica**  
-Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Colpito: 3 (1d6) danni perforanti più 2 (1d4) danni da freddo. Se il bersaglio è una creatura, la sua velocità è ridotta di 3 metri fino al termine del proprio turno successivo. Colpito o mancato: la lancia fa magicamente ritorno nella mano del marinide subito dopo un attacco a distanza. Medusa
+Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Colpito: 3 (1d6) danni perforanti più 2 (1d4) danni da freddo. Se il bersaglio è una creatura, la sua velocità è ridotta di 3 metri fino al termine del proprio turno successivo. Colpito o mancato: la lancia fa magicamente ritorno nella mano del marinide subito dopo un attacco a distanza.
 
 ---
 
 ## Medusa
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -8932,10 +8914,7 @@ Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Co
 La medusa effettua due attacchi Artiglio e un attacco Chioma di serpenti, o tre attacchi Raggio velenoso.
 
 **Artiglio**  
-Tiro per colpire in mischia: +6, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Chioma di serpenti**  
 Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 5 (1d4 + 3) danni perforanti più 14 (4d6) danni da veleno.
@@ -8946,13 +8925,14 @@ Tiro per colpire a distanza: +5, gittata 45 m. Colpito: 11 (2d8 + 2) danni da ve
 ### Azioni bonus
 
 **Sguardo pietrificante (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 9 metri. Se la medusa vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto. Megera marina
+Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 9 metri. Se la medusa vede il suo riflesso nel cono, deve effettuare questo tiro salvezza. Primo fallimento: il bersaglio è trattenuto. Ripete il tiro salvezza al termine del proprio turno successivo se è ancora trattenuto e, se lo supera, l'effetto svanisce. Secondo fallimento: il bersaglio è pietrificato invece che trattenuto.
 
 ---
 
 ## Megera marina
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 14  
@@ -8997,28 +8977,20 @@ Tiro salvezza su Saggezza: CD 11, qualsiasi bestia o umanoide inizi il proprio t
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Aspetto illusorio**  
-La megera lancia camuffare se stesso, utilizzando Costituzione come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13).
-
-**L'incantesimo dura 24 ore**  
-
+La megera lancia camuffare se stesso, utilizzando Costituzione come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13). L'incantesimo dura 24 ore.
 
 **Sguardo mortale (ricarica 5-6)**  
-Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in grado di vedere entro 9 metri. Fallimento: se il bersaglio ha 20 punti ferita o meno, scende a 0 punti ferita.
-
-**Altrimenti, il bersaglio subisce 13 (3d8) danni psichici**  
-354 System Reference Document 5.2.1 Megera notturna
+Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in grado di vedere entro 9 metri. Fallimento: se il bersaglio ha 20 punti ferita o meno, scende a 0 punti ferita. Altrimenti, il bersaglio subisce 13 (3d8) danni psichici.
 
 ---
 
 ## Megera notturna
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 17  
@@ -9069,30 +9041,27 @@ La megera dispone di vantaggio ai tiri salvezza contro incantesimi e altri effet
 La megera effettua due attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 13 (2d8 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni taglienti.
 
 **Incantesimi**  
-La megera lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 2/giorno ciascuno: Allucinazione mortale, spostamento planare (solo se stessa) A volontà: Dardo incantato (di 4º livello), forma eterea, individuazione del magico
+La megera lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
+**2/giorno ciascuno:** Allucinazione mortale, spostamento planare (solo se stessa) 
+**A volontà:** Dardo incantato (di 4º livello), forma eterea, individuazione del magico
 
 **Infestare incubi (1/giorno; richiede Borsa dell'anima)**  
-Finché si trova sul Piano Etereo, la megera lancia sogno, utilizzando la stessa caratteristica da incantatore di Incantesimi. Soltanto la megera può agire da messaggera dell'incantesimo, e il bersaglio deve essere una creatura che la megera è in grado di vedere sul
-
-**Piano Materiale**  
-L'incantesimo fallisce ed è sprecato se il bersaglio è sotto l'effetto dell'incantesimo protezione dal bene e dal male o se si trova nel raggio dell'incantesimo cerchio magico. Se il bersaglio subisce danni dall'incantesimo sogno, i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni subiti. Se l'incantesimo uccide il bersaglio, la sua anima resta intrappolata nella borsa dell'anima della megera, e il bersaglio non può essere resuscitato finché la sua anima non viene liberata.
+Finché si trova sul Piano Etereo, la megera lancia sogno, utilizzando la stessa caratteristica da incantatore di Incantesimi. Soltanto la megera può agire da messaggera dell'incantesimo, e il bersaglio deve essere una creatura che la megera è in grado di vedere sul Piano Materiale. L'incantesimo fallisce ed è sprecato se il bersaglio è sotto l'effetto dell'incantesimo protezione dal bene e dal male o se si trova nel raggio dell'incantesimo cerchio magico. Se il bersaglio subisce danni dall'incantesimo sogno, i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni subiti. Se l'incantesimo uccide il bersaglio, la sua anima resta intrappolata nella borsa dell'anima della megera, e il bersaglio non può essere resuscitato finché la sua anima non viene liberata.
 
 ### Azioni bonus
 
 **Mutaforma**  
-La megera si trasforma in un umanoide di taglia Piccola o Media, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Megera verde
+La megera si trasforma in un umanoide di taglia Piccola o Media, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Megera verde
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 17  
@@ -9116,7 +9085,7 @@ La megera si trasforma in un umanoide di taglia Piccola o Media, oppure torna al
 - saggezza: +2
 - carisma: +2
 
-**abilita:** Arcano +5, Furtività +3, Inganno +4,  
+**abilita:** Arcano +5, Furtività +3, Inganno +4, Percezione +4
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Comune, Elfico, Silvano  
 **grado_sfida:** 3  
@@ -9130,13 +9099,10 @@ La megera si trasforma in un umanoide di taglia Piccola o Media, oppure torna al
 La megera può respirare in aria e in acqua.
 
 **Imitare**  
-La megera può imitare i versi degli animali e le voci degli umanoidi. Una creatura che sente tali suoni riesce a capire che si tratta di imitazioni solo superando una prova di Saggezza (Intuizione) con
-
-**CD 14**  
-
+La megera può imitare i versi degli animali e le voci degli umanoidi. Una creatura che sente tali suoni riesce a capire che si tratta di imitazioni solo superando una prova di Saggezza (Intuizione) con CD 14.
 
 **Magia della congrega**  
-Finché si trova entro 9 metri da almeno due megere alleate, la megera può lanciare uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando il normale tempo di lancio dell'incantesimo e Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 11): identificare, localizza oggetto, presagio, scrutare, servitore inosservato o trova famiglio. La megera deve 355 System Reference Document 5.2.1 terminare un riposo lungo prima di utilizzare questo tratto per lanciare di nuovo l'incantesimo.
+Finché si trova entro 9 metri da almeno due megere alleate, la megera può lanciare uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando il normale tempo di lancio dell'incantesimo e Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 11): identificare, localizza oggetto, presagio, scrutare, servitore inosservato o trova famiglio. La megera deve terminare un riposo lungo prima di utilizzare questo tratto per lanciare di nuovo l'incantesimo.
 
 ### Azioni
 
@@ -9147,12 +9113,13 @@ La megera effettua due attacchi Artiglio.
 Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d8 + 4) danni taglienti più 3 (1d6) danni da veleno.
 
 **Incantesimi**  
-La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 12, +4 al tiro per colpire degli attacchi con incantesimo): A volontà: Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio
+La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 12, +4 al tiro per colpire degli attacchi con incantesimo): 
+**A volontà:** Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio di infermità (di 3º livello).
 
----
-
-## di infermità (di 3º livello)
-
+## Melma Grigia
+**tipo:** Melma
+**dimensione:** Media
+**allineamento:** senza allineamento
 
 **classe_armatura:** 9  
 **iniziativa:** -2 (13)  
@@ -9177,7 +9144,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 
 **abilita:** Furtività +2  
 **resistenze:** acido, freddo, fuoco  
-**immunita_danni:** accecato, affascinato, afferrato, assordato,  
+**immunita_danni:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -9196,14 +9163,15 @@ Le munizioni non magiche che colpiscono la melma e infliggono danni sono distrut
 ### Azioni
 
 **Pseudopode**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 10 (2d8 + 1) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura. Mephit
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 10 (2d8 + 1) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura.
 
 ---
 
 ## Mephit del ghiaccio
 
 **gruppo:** Mephit  
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 11  
@@ -9249,10 +9217,7 @@ Il mephit esplode quando muore. Tiro salvezza su Costituzione: CD 10, tutte le c
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni taglienti più 2 (1d4) danni da freddo.
 
 **Nube di nebbia (1/giorno)**  
-Il mephit lancia nube di nebbia senza bisogno di componenti, utilizzando
-
-**Carisma come caratteristica da incantatore**  
-
+Il mephit lancia nube di nebbia senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore.
 
 **Soffio di gelo (ricarica 6)**  
 Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri. Fallimento: 7 (3d4) danni da freddo. Successo: danni dimezzati.
@@ -9261,7 +9226,9 @@ Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri.
 
 ## Mephit del magma
 
-**tipo:** Elementale  
+**gruppo:** Mephit  
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 11  
@@ -9307,16 +9274,15 @@ Il mephit esplode quando muore. Tiro salvezza su Destrezza: CD 11, tutte le crea
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni taglienti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 6)**  
-Tiro salvezza su Destrezza:
-
-**CD 11, tutte le creature in un cono di 4,5 metri**  
-Fallimento: 7 (2d6) danni da fuoco. Successo: danni dimezzati.
+Tiro salvezza su Destrezza: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: 7 (2d6) danni da fuoco. Successo: danni dimezzati.
 
 ---
 
 ## Mephit del vapore
 
-**tipo:** Elementale  
+**gruppo:** Mephit 
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 10  
@@ -9370,7 +9336,9 @@ Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri.
 
 ## Mephit della polvere
 
-**tipo:** Elementale  
+**gruppo:** Mephit 
+**tipo:** Elementale
+**dimensione:** Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 12  
@@ -9413,28 +9381,42 @@ Il mephit esplode quando muore. Tiro salvezza su Destrezza: CD 10, tutte le crea
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni taglienti.
 
 **Soffio accecante (ricarica 6)**  
 Tiro salvezza su Destrezza: CD 10, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio è accecato fino al termine del turno successivo del mephit.
 
 **Sonno (1/giorno)**  
-Il mephit lancia sonno senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 10). Merrow
+Il mephit lancia sonno senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 10).
 
 ---
 
 ## Merrow
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
 **iniziativa:** +2 (12)  
 **punti_ferita:** 45 (6d10 + 12)  
-**velocita:** 3 m, nuoto 12 m  
+**velocita:** 3 m, nuoto 12 m
+
+**caratteristiche:**
+- forza: 18 (+4)
+- destrezza: 15 (+2)
+- costituzione: 15 (+2)
+- intelligenza: 8 (-1)
+- saggezza: 10 (+0)
+- carisma: 9 (-1)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +2
+- costituzione: +2
+- intelligenza: -1
+- saggezza: +0
+- carisma: -1
 
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** Abissale, Primordiale (Aquan)  
@@ -9451,28 +9433,23 @@ Il merrow può respirare in aria e in acqua.
 ### Azioni
 
 **Multiattacco**  
-Il merrow effettua due attacchi, usando
-
-**Morso, Artiglio o Arpione in qualsiasi combinazione**  
-
+Il merrow effettua due attacchi, usando Morso, Artiglio o Arpione in qualsiasi combinazione.
 
 **Arpione**  
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 6/18 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, il merrow trascina il bersaglio in linea retta verso di sé fino a 4,5 metri.
 
 **Artiglio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (2d4 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni taglienti.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni perforanti, e il bersaglio è avvelenato fino al termine del turno successivo del merrow. Mezzodrago
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni perforanti, e il bersaglio è avvelenato fino al termine del turno successivo del merrow.
 
 ---
 
 ## Mezzodrago
 
-**tipo:** Drago  
+**tipo:** Drago
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 18  
@@ -9497,8 +9474,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni perfo
 - carisma: +2
 
 **abilita:** Atletica +7, Furtività +5, Percezione +5  
-**resistenze:** il tipo di danno scelto per il tratto Origine  
-**sensi:** Percezione passiva 15; scurovisione 18 m, vista  
+**resistenze:** il tipo di danno scelto per il tratto Origine draconica descritto sotto
+**sensi:** Percezione passiva 15; scurovisione 18 m, vista cieca 3 m
 **lingue:** Comune, Draconico  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
@@ -9512,14 +9489,11 @@ Il mezzodrago è legato al tipo di drago associato con uno dei seguenti tipi di 
 
 ### Azioni
 
+**Multiattacco**  
+Il mezzodrago effettua due attacchi Artiglio.
+
 **Artiglio**  
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 6 (1d4 + 4) danni taglienti più 7 (2d6) danni del tipo scelto per il tratto Origine draconica.
-
-**Multiattacco**  
-Il mezzodrago effettua due attacchi
-
-**Artiglio**  
-
 
 **Soffio del drago (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 14, tutte le creature in un cono di 9 metri. Fallimento: 28 (8d6) danni del tipo scelto per il tratto Origine draconica. Successo: danni dimezzati.
@@ -9527,13 +9501,14 @@ Tiro salvezza su Destrezza: CD 14, tutte le creature in un cono di 9 metri. Fall
 ### Azioni bonus
 
 **Balzo**  
-Il mezzodrago salta fino a 9 metri usando 3 metri di movimento. Mimic
+Il mezzodrago salta fino a 9 metri usando 3 metri di movimento.
 
 ---
 
 ## Mimic
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -9583,13 +9558,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni contun
 ### Azioni bonus
 
 **Mutaforma**  
-Il mimic assume la forma di un oggetto Medio o Piccolo, mantenendo le proprie statistiche di gioco, o ritorna alla sua forma autentica. Nessun oggetto che indossa o trasporta viene trasformato. 358 System Reference Document 5.2.1 Minotauro di Baphomet
+Il mimic assume la forma di un oggetto Medio o Piccolo, mantenendo le proprie statistiche di gioco, o ritorna alla sua forma autentica. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Minotauro di Baphomet
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 14  
@@ -9627,14 +9603,15 @@ Il mimic assume la forma di un oggetto Medio o Piccolo, mantenendo le proprie st
 Tiro per colpire in mischia: +6, portata 3 m. Colpito: 10 (1d12 + 4) danni taglienti più 10 (3d6) danni necrotici.
 
 **Trafiggere (ricarica 5-6)**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e il minotauro si è mosso di 3 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 10 (3d6) danni perforanti extra e cade a terra prono. Mummie
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e il minotauro si è mosso di 3 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 10 (3d6) danni perforanti extra e cade a terra prono.
 
 ---
 
 ## Mummia
 
 **gruppo:** Mummie  
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 11  
@@ -9660,7 +9637,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perf
 
 **vulnerabilita:** fuoco  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più altre due lingue  
 **grado_sfida:** 3  
@@ -9683,7 +9660,9 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 
 ## Signore delle mummie
 
-**tipo:** Non  
+**gruppo:** Mummie
+**tipo:** Non morto (chierico)
+**dimensione:** Medio o Piccolo
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -9710,7 +9689,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 **abilita:** Percezione +9, Religione +5, Storia +5  
 **vulnerabilita:** fuoco  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista pura 18 m  
 **lingue:** Comune più altre tre lingue  
 **grado_sfida:** 15  
@@ -9721,7 +9700,10 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 ### Tratti
 
 **Resistenza alla magia**  
-Il signore delle mummie dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il signore delle mummie fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Il signore delle mummie dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici. 
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se il signore delle mummie fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 **Ristoro non morto**  
 Se annientata, la mummia acquisisce un nuovo corpo dopo 24 ore se il suo cuore è intatto, tornando in vita con tutti i suoi punti ferita. Il nuovo corpo appare in uno spazio libero all'interno della tana della mummia. Il cuore è un oggetto di taglia Minuscola con CA 17, PF 10 e immunità a tutti i danni, eccetto ai danni da fuoco.
@@ -9732,13 +9714,15 @@ Se annientata, la mummia acquisisce un nuovo corpo dopo 24 ore se il suo cuore �
 Il signore delle mummie effettua un attacco Pugno di putrefazione o Incanalare energia negativa, e usa Sguardo funesto.
 
 **Pugno di putrefazione**  
-Tiro per colpire in mischia: +9, portata 1,5 m Colpito: 15 (2d10 + 4) danni contundenti più 10 (3d6) danni necrotici. Se il bersaglio è una creatura, viene maledetto. Finché è maledetto, il bersaglio non può recuperare punti ferita, non ottiene alcun beneficio dai riposi lunghi, e i suoi punti ferita massimi sono ridotti di 10 (3d6) ogni 24 ore trascorse. Una creatura muore e si disintegra in polvere se viene ridotta a 0 punti ferita da questo attacco. 359 System Reference Document 5.2.1
+Tiro per colpire in mischia: +9, portata 1,5 m Colpito: 15 (2d10 + 4) danni contundenti più 10 (3d6) danni necrotici. Se il bersaglio è una creatura, viene maledetto. Finché è maledetto, il bersaglio non può recuperare punti ferita, non ottiene alcun beneficio dai riposi lunghi, e i suoi punti ferita massimi sono ridotti di 10 (3d6) ogni 24 ore trascorse. Una creatura muore e si disintegra in polvere se viene ridotta a 0 punti ferita da questo attacco.
 
 **Incanalare energia negativa**  
 Tiro per colpire a distanza: +9, gittata 18 m. Colpito: 25 (6d6 + 4) danni necrotici.
 
 **Incantesimi**  
-Il signore delle mummie lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Animare morti, ferire, piaga degli insetti (di 7º livello) A volontà: Dissolvi magie, taumaturgia
+Il signore delle mummie lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 
+**1/giorno ciascuno:** Animare morti, ferire, piaga degli insetti (di 7º livello) 
+**A volontà:** Dissolvi magie, taumaturgia
 
 **Sguardo funesto**  
 Tiro salvezza su Saggezza: CD 17, una creatura che la mummia è in grado di vedere entro 18 metri. Fallimento: 25 (6d6 + 4) danni psichici, e il bersaglio è paralizzato fino al termine del turno successivo della mummia.
@@ -9754,22 +9738,21 @@ Attivazione: la mummia viene colpita con un tiro per colpire. Esito: la mummia a
 Subito dopo il turno di un'altra creatura, la mummia può consumare un utilizzo per effettuare una delle seguenti azioni. La mummia recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Colpo necrotico**  
-La mummia effettua un attacco
-
-**Pugno di putrefazione o Incanalare energia negativa**  
-
+La mummia effettua un attacco Pugno di putrefazione o Incanalare energia negativa.
 
 **Comando intimidatorio**  
 La mummia lancia comando (di 2º livello), utilizzando la stessa caratteristica da incantatore di Incantesimi. Non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Sguardo**  
-La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio del proprio turno successivo. Naga guardiana
+La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 
 ## Naga guardiana
 
-**tipo:** Celestiale  
+**gruppo:** Naga
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale buono  
 
 **classe_armatura:** 18  
@@ -9795,7 +9778,7 @@ La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio de
 
 **abilita:** Arcano +11, Religione +11, Storia +11  
 **immunita_danni:** veleno  
-**immunita_condizione:** affascinato, avvelenato, paralizzato,  
+**immunita_condizione:** affascinato, avvelenato, paralizzato, trattenuto
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Celestiale, Comune  
 **grado_sfida:** 10  
@@ -9817,16 +9800,20 @@ La naga effettua due attacchi Morso. Può sostituire qualsiasi attacco con un ut
 Tiro per colpire in mischia: +8, portata 3 m. Colpito: 17 (2d12 + 4) danni perforanti più 22 (4d10) danni da veleno.
 
 **Incantesimi**  
-La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: Chiaroveggenza, colpo infuocato (di 6º livello), costrizione, cura ferite (di 6º livello), visione del vero A volontà: taumaturgia
+La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
+**1/giorno ciascuno:** Chiaroveggenza, colpo infuocato (di 6º livello), costrizione, cura ferite (di 6º livello), visione del vero 
+**A volontà:** taumaturgia
 
 **Sputo velenoso**  
-Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di vedere entro 18 metri. Fallimento: 31 (7d8) danni da veleno, e il bersaglio è accecato fino all'inizio del turno successivo della naga. Successo: danni dimezzati. Naga spirituale
+Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di vedere entro 18 metri. Fallimento: 31 (7d8) danni da veleno, e il bersaglio è accecato fino all'inizio del turno successivo della naga. Successo: danni dimezzati.
 
 ---
 
 ## Naga spirituale
 
-**tipo:** Immondo  
+**gruppo:** Naga
+**tipo:** Immondo
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 17  
@@ -9867,10 +9854,7 @@ Se la naga muore, torna in vita dopo 1d6 giorni e recupera tutti i suoi punti fe
 ### Azioni
 
 **Multiattacco**  
-La naga effettua tre attacchi, usando
-
-**Morso o Raggio necrotico in qualsiasi combinazione**  
-
+La naga effettua tre attacchi, usando Morso o Raggio necrotico in qualsiasi combinazione.
 
 **Morso**  
 Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni perforanti più 14 (4d6) danni da veleno.
@@ -9879,13 +9863,16 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni perfora
 Tiro per colpire a distanza: +6, gittata 18 m. Colpito: 21 (6d6) danni necrotici.
 
 **Incantesimi**  
-La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 2/giorno ciascuno: blocca persone (di 3º livello), individuazione dei pensieri, fulmine (di 4º livello), porta dimensionale A volontà: illusione minore, individuazione del magico, mano magica, respirare sott'acqua Nalfeshnee
+La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
+**2/giorno ciascuno:** blocca persone (di 3º livello), individuazione dei pensieri, fulmine (di 4º livello), porta dimensionale
+**A volontà:** illusione minore, individuazione del magico, mano magica, respirare sott'acqua
 
 ---
 
 ## Nalfeshnee
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 18  
@@ -9930,10 +9917,7 @@ Se il nalfeshnee muore al di fuori dell'Abisso, il suo corpo si dissolve diventa
 ### Azioni
 
 **Multiattacco**  
-Il nalfeshnee effettua tre attacchi
-
-**Squarcio**  
-
+Il nalfeshnee effettua tre attacchi Squarcio.
 
 **Squarcio**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 16 (2d10 + 5) danni taglienti più 11 (2d10) danni da forza.
@@ -9949,13 +9933,14 @@ Tiro salvezza su Saggezza: CD 15, tutte le creature in un'emanazione di 4,5 metr
 ### Reazioni
 
 **Inseguimento**  
-Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina il proprio movimento entro 36 metri dal nalfeshnee. Esito: il nalfeshnee usa Teletrasporto, ma lo spazio di destinazione deve trovarsi entro 3 metri dalla creatura che ha provocato la reazione. Nobile
+Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina il proprio movimento entro 36 metri dal nalfeshnee. Esito: il nalfeshnee usa Teletrasporto, ma lo spazio di destinazione deve trovarsi entro 3 metri dalla creatura che ha provocato la reazione.
 
 ---
 
 ## Nobile
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 15  
@@ -9991,22 +9976,20 @@ Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina i
 ### Azioni
 
 **Stocco**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 5 (1d8 + 1) danni perforanti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni perforanti.
 
 ### Reazioni
 
 **Parata**  
-Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il nobile aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. 361 System Reference Document 5.2.1 Oggetti animati
+Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il nobile aggiunge 2 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno.
 
 ---
 
 ## Armatura animata
 
-**gruppo:** Oggetti animati  
-**tipo:** Costrutto  
+**gruppo:** Oggetti animati
+**tipo:** Costrutto
+**dimensione:** Medio
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 18  
@@ -10031,7 +10014,7 @@ Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre ti
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 6; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -10045,16 +10028,15 @@ Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre ti
 L'armatura effettua due attacchi Schianto.
 
 **Schianto**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 5 (1d6 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contundenti.
 
 ---
 
 ## Spada volante animata
 
-**tipo:** Costrutto  
+**gruppo:** Oggetti animati
+**tipo:** Costrutto
+**dimensione:** Piccolo
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -10079,7 +10061,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 7; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -10090,16 +10072,15 @@ Tiro per colpire in mischia: +4, portata 1,5 m
 ### Azioni
 
 **Fendente**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 6 (1d8 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni taglienti.
 
 ---
 
 ## Tappeto soffocante animato
 
-**tipo:** Costrutto  
+**gruppo:** Oggetti animati
+**tipo:** Costrutto
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -10124,7 +10105,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 6; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -10135,16 +10116,14 @@ Tiro per colpire in mischia: +4, portata 1,5 m
 ### Azioni
 
 **Soffocare**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, il tappeto lo afferra (CD 13 per sfuggire) invece di infliggere danni. Finché la presa perdura, il bersaglio è accecato e trattenuto, soffoca, e subisce 10 (2d6 + 3) danni contundenti all'inizio di ogni suo turno. Il tappeto può soffocare solo una creatura alla volta. Finché afferra il bersaglio, il tappeto non può effettuare questa azione e dimezza i danni subiti (arrotondati per difetto); il bersaglio subisce la stessa quantità di danni. Ogre
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, il tappeto lo afferra (CD 13 per sfuggire) invece di infliggere danni. Finché la presa perdura, il bersaglio è accecato e trattenuto, soffoca, e subisce 10 (2d6 + 3) danni contundenti all'inizio di ogni suo turno. Il tappeto può soffocare solo una creatura alla volta. Finché afferra il bersaglio, il tappeto non può effettuare questa azione e dimezza i danni subiti (arrotondati per difetto); il bersaglio subisce la stessa quantità di danni.
 
 ---
 
 ## Ogre
 
-**tipo:** Gigante  
+**tipo:** Gigante
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 11  
@@ -10182,13 +10161,14 @@ Se il bersaglio è una creatura di taglia Media o inferiore, il tappeto lo affer
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 9/36 m. Colpito: 11 (2d6 + 4) danni perforanti.
 
 **Randello pesante**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti. Ombra
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti.
 
 ---
 
 ## Ombra
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -10216,7 +10196,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 **vulnerabilita:** radioso  
 **resistenze:** acido, freddo, fulmine, fuoco, tuono  
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** afferrato, avvelenato,  
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -10240,16 +10220,14 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni necrot
 ### Azioni bonus
 
 **Furtività d'ombra**  
-Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azione di
-
-**Nascondersi**  
-Omuncolo
+Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azione di Nascondersi.
 
 ---
 
 ## Omuncolo
 
-**tipo:** Costrutto  
+**tipo:** Costrutto
+**dimensione:** Minuscolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -10276,7 +10254,7 @@ Omuncolo
 **immunita_danni:** veleno  
 **immunita_condizione:** affascinato, avvelenato  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
 **bonus_competenza:** +2  
@@ -10290,13 +10268,14 @@ Finché l'omuncolo si trova sullo stesso piano di esistenza del suo padrone, i d
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante, e il bersaglio subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è avvelenato fino al termine del turno successivo dell'omuncolo. Fallimento di 5 o più: il bersaglio è avvelenato per 1 minuto. Finché è avvelenato, è privo di sensi, ma la condizione termina prima se subisce dei danni. Oni
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante, e il bersaglio subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è avvelenato fino al termine del turno successivo dell'omuncolo. Fallimento di 5 o più: il bersaglio è avvelenato per 1 minuto. Finché è avvelenato, è privo di sensi, ma la condizione termina prima se subisce dei danni.
 
 ---
 
 ## Oni
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -10346,21 +10325,23 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 10 (1d12 + 4) danni tagli
 Tiro per colpire a distanza: +5, gittata 18 m. Colpito: 9 (2d6 + 2) danni psichici, e il bersaglio è spaventato fino all'inizio del turno successivo dell'oni.
 
 **Incantesimi**  
-L'oni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: Charme su persone (di 2º livello), forma gassosa, oscurità, sonno
+L'oni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
+**1/giorno ciascuno:** Charme su persone (di 2º livello), forma gassosa, oscurità, sonno
 
 **Mutaforma**  
-L'oni si trasforma in un umanoide di taglia Piccola o Media, o in un gigante di taglia Grande, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. 363 System Reference Document 5.2.1
+L'oni si trasforma in un umanoide di taglia Piccola o Media, o in un gigante di taglia Grande, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ### Azioni bonus
 
 **Invisibilità**  
-L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzando la stessa caratteristica da incantatore di Incantesimi. Orsogufo
+L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Orsogufo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -10398,16 +10379,14 @@ L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzan
 L'orsogufo effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 14 (2d8 + 5) danni taglienti**  
-Orso mannaro
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni taglienti.
 
 ---
 
 ## Orso mannaro
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 15  
@@ -10452,10 +10431,7 @@ L'orso mannaro effettua due attacchi, usando Ascia o Squarcio in qualsiasi combi
 Tiro per colpire in mischia o a distanza: +7, portata 1,5 m o gittata 6/18 m. Colpito: 14 (3d6 + 4) danni taglienti.
 
 **Morso (solo in forma di orso o ibrida)**  
-Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 17 (2d12 + 4) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione:
-
-**CD 14**  
-Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un orso mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione dell'orso mannaro per 24 ore.
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 17 (2d12 + 4) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 14. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un orso mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione dell'orso mannaro per 24 ore.
 
 **Squarcio (solo in forma di orso o ibrida)**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni taglienti.
@@ -10463,13 +10439,14 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni tagl
 ### Azioni bonus
 
 **Mutaforma**  
-L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un orso di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Otyugh
+L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un orso di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Otyugh
 
-**tipo:** Aberrazione  
+**tipo:** Aberrazione
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -10494,7 +10471,7 @@ L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un 
 - carisma: -2
 
 **sensi:** Percezione passiva 11; scurovisione 36 m  
-**lingue:** Otyugh; telepatia 36 m (non consente alla creatura  
+**lingue:** Otyugh; telepatia 36 m (non consente alla creatura interlocutrice di rispondere telepaticamente)
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
 **bonus_competenza:** +3  
@@ -10506,28 +10483,20 @@ L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un 
 L'otyugh effettua un attacco Morso e due attacchi Tentacolo.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 12 (2d8 + 3) danni perforanti, e il bersaglio è avvelenato. Ogni volta che il bersaglio avvelenato termina un riposo lungo, subisce il seguente effetto.
-
-**Tiro salvezza su Costituzione: CD 15**  
-Fallimento: i punti ferita massimi del bersaglio sono ridotti di 5 (1d10), e la riduzione permane finché la condizione avvelenato del bersaglio non termina. Successo: la condizione avvelenato termina.
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 12 (2d8 + 3) danni perforanti, e il bersaglio è avvelenato. Ogni volta che il bersaglio avvelenato termina un riposo lungo, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 15. Fallimento: i punti ferita massimi del bersaglio sono ridotti di 5 (1d10), e la riduzione permane finché la condizione avvelenato del bersaglio non termina. Successo: la condizione avvelenato termina.
 
 **Tentacolo**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 12 (2d8 + 3) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da uno dei due tentacoli.
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da uno dei due tentacoli.
 
 **Schianto con tentacolo**  
-Tiro salvezza su Costituzione:
-
-**CD 14, tutte le creature afferrate dall'otyugh**  
-Fallimento: 16 (3d8 + 3) danni contundenti, e il bersaglio è stordito fino all'inizio del turno successivo dell'otyugh. Successo: danni dimezzati. 364 System Reference Document 5.2.1 Pegaso
+Tiro salvezza su Costituzione: CD 14, tutte le creature afferrate dall'otyugh. Fallimento: 16 (3d8 + 3) danni contundenti, e il bersaglio è stordito fino all'inizio del turno successivo dell'otyugh. Successo: danni dimezzati.
 
 ---
 
 ## Pegaso
 
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** caotico buono  
 
 **classe_armatura:** 12  
@@ -10553,7 +10522,7 @@ Fallimento: 16 (3d8 + 3) danni contundenti, e il bersaglio è stordito fino all'
 
 **abilita:** Percezione +6  
 **sensi:** Percezione passiva 16  
-**lingue:** capisce il Celestiale, il Comune, l'Elfico e il Silvano  
+**lingue:** capisce il Celestiale, il Comune, l'Elfico e il Silvano ma non li parla
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
 **bonus_competenza:** +2  
@@ -10562,14 +10531,15 @@ Fallimento: 16 (3d8 + 3) danni contundenti, e il bersaglio è stordito fino all'
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 7 (1d6 + 4) danni contundenti più 5 (2d4) danni radiosi. Pirati
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 7 (1d6 + 4) danni contundenti più 5 (2d4) danni radiosi.
 
 ---
 
 ## Pirata
 
 **gruppo:** Pirati  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 14  
@@ -10616,7 +10586,9 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il pirata è in grado di vede
 
 ## Capitano dei pirati
 
-**tipo:** Umanoide  
+**gruppo:** Pirati  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 17  
@@ -10652,19 +10624,13 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il pirata è in grado di vede
 ### Azioni
 
 **Multiattacco**  
-Il pirata effettua tre attacchi, usando
-
-**Stocco o Pistola in qualsiasi combinazione**  
-
+Il pirata effettua tre attacchi, usando Stocco o Pistola in qualsiasi combinazione.
 
 **Stocco**  
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni perforanti, e il pirata dispone di vantaggio al tiro per colpire successivo che effettua prima del termine del proprio turno corrente.
 
 **Pistola**  
-Tiro per colpire a distanza: +7, gittata 9/27 m.
-
-**Colpito: 15 (2d10 + 4) danni perforanti**  
-
+Tiro per colpire a distanza: +7, gittata 9/27 m. Colpito: 15 (2d10 + 4) danni perforanti.
 
 ### Azioni bonus
 
@@ -10674,13 +10640,14 @@ Tiro salvezza su Saggezza: CD 14, una creatura che il pirata è in grado di vede
 ### Reazioni
 
 **Replica**  
-Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il pirata aggiunge 3 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Se il colpo non va a segno, il pirata effettua un attacco Stocco contro la creatura che ha provocato la reazione se si trova entro gittata. Planetar
+Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre tiene in mano un'arma. Esito: il pirata aggiunge 3 alla sua CA contro quell'attacco, aumentando le probabilità che il colpo non vada a segno. Se il colpo non va a segno, il pirata effettua un attacco Stocco contro la creatura che ha provocato la reazione se si trova entro gittata.
 
 ---
 
 ## Planetar
 
-**tipo:** Celestiale  
+**tipo:** Celestiale (angelo)
+**dimensione:** Grande
 **allineamento:** legale buono  
 
 **classe_armatura:** 19  
@@ -10717,7 +10684,7 @@ Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre ti
 ### Tratti
 
 **Consapevolezza divina**  
-Il planetar sa riconoscere le menzogne. 365 System Reference Document 5.2.1
+Il planetar sa riconoscere le menzogne.
 
 **Resistenza alla magia**  
 Il planetar dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
@@ -10737,21 +10704,21 @@ Tiro per colpire in mischia: +12, portata 3 m. Colpito: 14 (2d6 + 7) danni tagli
 Tiro salvezza su Destrezza: CD 20, tutti i nemici in una sfera di 6 metri di raggio centrata su un punto che il planetar è in grado di vedere entro 36 metri. Fallimento: 24 (7d6) danni radiosi. Successo: danni dimezzati.
 
 **Incantesimi**  
-Il planetar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): A volontà: Individuazione del bene e del male 1/giorno ciascuno: Comunione, controllare tempo atmosferico, dissolvi il bene e il male, rianimare morti
+Il planetar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 
+**A volontà:** Individuazione del bene e del male
+**1/giorno ciascuno:** Comunione, controllare tempo atmosferico, dissolvi il bene e il male, rianimare morti
 
 ### Azioni bonus
 
 **Aiuto divino (2/giorno)**  
-Il planetar lancia cura ferite, invisibilità, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-Popolano
+Il planetar lancia cura ferite, invisibilità, rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Popolano
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 10  
@@ -10791,16 +10758,14 @@ Il popolano ha competenza in un'abilità a scelta del GM e dispone di vantaggio 
 ### Azioni
 
 **Randello**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 2 (1d4) danni contundenti**  
-Protoplasma nero
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contundenti.
 
 ---
 
 ## Protoplasma nero
 
-**tipo:** Melma  
+**tipo:** Melma
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 7  
@@ -10824,8 +10789,8 @@ Protoplasma nero
 - saggezza: -2
 - carisma: -5
 
-**immunita_danni:** acido, freddo, fulmine, tagliente  
-**immunita_condizione:** affascinato,  
+**immunita_danni:** acido, freddo, fulmine, tagliente
+**immunita_condizione:** affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 4  
@@ -10847,18 +10812,19 @@ Il protoplasma può scalare le superfici difficili, compresi i soffitti, senza e
 ### Azioni
 
 **Pseudopode dissolvente**  
-Tiro per colpire in mischia: +5, portata 3 m. Colpito: 17 (4d6 + 3) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura. 366 System Reference Document 5.2.1
+Tiro per colpire in mischia: +5, portata 3 m. Colpito: 17 (4d6 + 3) danni da acido. L'armatura non magica indossata dal bersaglio subisce una penalità di -1 alla CA che fornisce. Se la penalità riduce la sua CA a 10, l'armatura si distrugge. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura.
 
 ### Reazioni
 
 **Scindersi**  
-Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetto a danni da fulmine o taglienti. Esito: il protoplasma si scinde in due nuovi protoplasmi neri. Ogni nuovo protoplasma è inferiore di una taglia rispetto al protoplasma originale, e agisce di propria iniziativa. I punti ferita del protoplasma originale sono divisi equamente tra i due nuovi protoplasmi (arrotondati per difetto). Pseudodrago
+Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti ferita o più, diventa sanguinante o è soggetto a danni da fulmine o taglienti. Esito: il protoplasma si scinde in due nuovi protoplasmi neri. Ogni nuovo protoplasma è inferiore di una taglia rispetto al protoplasma originale, e agisce di propria iniziativa. I punti ferita del protoplasma originale sono divisi equamente tra i due nuovi protoplasmi (arrotondati per difetto).
 
 ---
 
 ## Pseudodrago
 
-**tipo:** Drago  
+**tipo:** Drago
+**dimensione:** Minuscolo
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 14  
@@ -10883,7 +10849,7 @@ Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti fe
 - carisma: +0
 
 **abilita:** Furtività +4, Percezione +5  
-**sensi:** Percezione passiva 15; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 15; scurovisione 18 m, vista cieca 3 m
 **lingue:** capisce Comune e Draconico, ma non li parla  
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
@@ -10898,25 +10864,21 @@ Lo pseudodrago dispone di vantaggio ai tiri salvezza contro incantesimi e altri 
 ### Azioni
 
 **Multiattacco**  
-Lo pseudodrago effettua due attacchi
+Lo pseudodrago effettua due attacchi Morso.
 
 **Morso**  
-
-
-**Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 4 (1d4 + 2) danni perforanti**  
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni perforanti.
 
 
 **Pungiglione**  
-Tiro salvezza su Costituzione: CD 12, una creatura che lo pseudodrago è in grado di vedere entro 1,5 metri. Fallimento: 5 (2d4) danni da veleno, e il bersaglio è avvelenato per 1 ora. Fallimento di 5 o più: finché rimane avvelenato, il bersaglio è privo di sensi. Il bersaglio si sveglia se subisce danni o se una creatura entro 1,5 metri da esso effettua un'azione per svegliarlo. Quasit
+Tiro salvezza su Costituzione: CD 12, una creatura che lo pseudodrago è in grado di vedere entro 1,5 metri. Fallimento: 5 (2d4) danni da veleno, e il bersaglio è avvelenato per 1 ora. Fallimento di 5 o più: finché rimane avvelenato, il bersaglio è privo di sensi. Il bersaglio si sveglia se subisce danni o se una creatura entro 1,5 metri da esso effettua un'azione per svegliarlo. 
 
 ---
 
 ## Quasit
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Minuscolo
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
@@ -10968,16 +10930,14 @@ Il quasit può lanciare invisibilità su di sé senza bisogno di componenti per 
 Il quasit può assumere la forma bestiale di un pipistrello (velocità 3 m, volo 12 m), un millepiedi (12 m, scalata 12 m) o un rospo (12 m, scalata 12 m), o tornare alla sua vera forma. Le sue statistiche di gioco restano le stesse in ogni forma, a eccezione della velocità. Nessun oggetto che indossa o trasporta viene trasformato.
 
 **Spaventare (1/giorno)**  
-Tiro salvezza su Saggezza:
-
-**CD 10, una creatura entro 6 metri**  
-Fallimento: il bersaglio è spaventato. Alla fine di ogni suo turno, il bersaglio ripete il tiro salvezza e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. Ragno-fase
+Tiro salvezza su Saggezza: CD 10, una creatura entro 6 metri. Fallimento: il bersaglio è spaventato. Alla fine di ogni suo turno, il bersaglio ripete il tiro salvezza e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 ---
 
 ## Ragno-fase
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -11007,7 +10967,7 @@ Fallimento: il bersaglio è spaventato. Alla fine di ogni suo turno, il bersagli
 **grado_sfida:** 3  
 **punti_esperienza:** PE 700  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 3 (PE 700; BC +2) 367 System Reference Document 5.2.1  
+**grado_sfida_raw:** 3 (PE 700; BC +2)
 
 ### Tratti
 
@@ -11031,16 +10991,14 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni perfo
 ### Azioni bonus
 
 **Transizione eterea**  
-Il ragno si teletrasporta dal Piano
-
-**Materiale al Piano Etereo o viceversa**  
-Rakshasa
+Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 
 ---
 
 ## Rakshasa
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 17  
@@ -11065,7 +11023,7 @@ Rakshasa
 - carisma: +5
 
 **abilita:** Inganno +10, Intuizione +8, Percezione +8  
-**vulnerabilita:** danni perforanti inflitti da armi brandite da  
+**vulnerabilita:** danni perforanti inflitti da armi brandite da creature sotto l'effetto dell'incantesimo benedizione
 **immunita_danni:** affascinato, spaventato  
 **sensi:** Percezione passiva 18; vista pura 36 m  
 **lingue:** Comune, Infernale  
@@ -11080,10 +11038,7 @@ Rakshasa
 Il rakshasa supera automaticamente i tiri salvezza contro incantesimi e altri effetti magici, e i tiri per colpire degli incantesimi lo mancano automaticamente. Senza il consenso del rakshasa, nessun incantesimo può osservare il rakshasa a distanza o individuarne i pensieri, il tipo di creatura o l'allineamento.
 
 **Ristoro immondo**  
-Se il rakshasa muore al di fuori dei Nove Inferi, il suo corpo si dissolve diventando icore e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove
-
-**Inferi**  
-
+Se il rakshasa muore al di fuori dei Nove Inferi, il suo corpo si dissolve diventando icore e ne acquisisce uno nuovo all'istante, tornando in vita con tutti i suoi punti ferita da qualche parte nei Nove Inferi.
 
 ### Azioni
 
@@ -11094,16 +11049,19 @@ Il rakshasa effettua tre attacchi Tocco maledetto.
 Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 12 (2d6 + 5) danni taglienti più 19 (3d12) danni necrotici. Se il bersaglio è una creatura, viene maledetto. Finché è maledetto, il bersaglio non ottiene alcun beneficio dal riposo breve o lungo.
 
 **Incantesimi**  
-Il rakshasa lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18): 1/giorno ciascuno: Immagine maggiore, invisibilità, spostamento planare, volare A volontà: Camuffare se stesso, illusione minore, individuazione dei pensieri, individuazione del magico, mano magica
+Il rakshasa lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18):
+**1/giorno ciascuno:** Immagine maggiore, invisibilità, spostamento planare, volare
+**A volontà:** Camuffare se stesso, illusione minore, individuazione dei pensieri, individuazione del magico, mano magica
 
 **Ordine funesto (ricarica 5-6)**  
-Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di cui il rakshasa è il punto di origine. Fallimento: 28 (8d6) danni psichici, e il bersaglio è spaventato e incapacitato fino all'inizio del turno successivo del rakshasa. Remorhaz
+Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di cui il rakshasa è il punto di origine. Fallimento: 28 (8d6) danni psichici, e il bersaglio è spaventato e incapacitato fino all'inizio del turno successivo del rakshasa. 
 
 ---
 
 ## Remorhaz
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -11128,7 +11086,7 @@ Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di 
 - carisma: -3
 
 **immunita_danni:** freddo, fuoco  
-**sensi:** Percezione passiva 10; percezione tellurica 18 m,  
+**sensi:** Percezione passiva 10; percezione tellurica 18 m, scurovisione 18 m
 **lingue:** nessuna  
 **grado_sfida:** 11  
 **punti_esperienza:** PE 7.200  
@@ -11138,7 +11096,7 @@ Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di 
 ### Tratti
 
 **Aura di calore**  
-Al termine di ogni turno del remorhaz, tutte le creature in un'emanazione di 1,5 metri di cui il remorhaz è il punto di origine subiscono 16 (3d10) danni da fuoco. 368 System Reference Document 5.2.1
+Al termine di ogni turno del remorhaz, tutte le creature in un'emanazione di 1,5 metri di cui il remorhaz è il punto di origine subiscono 16 (3d10) danni da fuoco.
 
 ### Azioni
 
@@ -11148,13 +11106,14 @@ Tiro per colpire in mischia: +11, portata 3 m. Colpito: 18 (2d10 + 7) danni perf
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal remorhaz (può inghiottire fino a due creature per volta). Fallimento: il bersaglio viene inghiottito dal remorhaz, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro attacchi e altri effetti al di fuori del remorhaz, e subisce 10 (3d6) danni da acido più 10 (3d6) danni da fuoco all'inizio di ogni turno del remorhaz. Se il remorhaz subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 15 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal remorhaz. Se il remorhaz muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona. Roc
+Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal remorhaz (può inghiottire fino a due creature per volta). Fallimento: il bersaglio viene inghiottito dal remorhaz, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro attacchi e altri effetti al di fuori del remorhaz, e subisce 10 (3d6) danni da acido più 10 (3d6) danni da fuoco all'inizio di ogni turno del remorhaz. Se il remorhaz subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 15 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal remorhaz. Se il remorhaz muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 4,5 metri di movimento, uscendo prona.
 
 ---
 
 ## Roc
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Mastodontica
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -11192,10 +11151,7 @@ Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferra
 Il roc effettua due attacchi Becco. Può sostituire un attacco con un attacco Speroni.
 
 **Becco**  
-Tiro per colpire in mischia: +13, portata 3 m.
-
-**Colpito: 28 (3d12 + 9) danni perforanti**  
-
+Tiro per colpire in mischia: +13, portata 3 m. Colpito: 28 (3d12 + 9) danni perforanti.
 
 **Speroni**  
 Tiro per colpire in mischia: +13, portata 1,5 m. Colpito: 23 (4d6 + 9) danni taglienti. Se il bersaglio è una creatura di taglia Enorme o inferiore, è afferrato (CD 19 per sfuggire) da entrambi gli speroni, ed è trattenuto finché la presa perdura.
@@ -11203,13 +11159,14 @@ Tiro per colpire in mischia: +13, portata 1,5 m. Colpito: 23 (4d6 + 9) danni tag
 ### Azioni bonus
 
 **In picchiata (ricarica 5-6)**  
-Se il roc ha afferrato una creatura, vola fino a metà della sua velocità di volo senza provocare attacchi di opportunità e lascia cadere la creatura. Rugginofago
+Se il roc ha afferrato una creatura, vola fino a metà della sua velocità di volo senza provocare attacchi di opportunità e lascia cadere la creatura.
 
 ---
 
 ## Rugginofago
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -11251,10 +11208,7 @@ Il rugginofago può individuare la precisa ubicazione di qualsiasi metallo ferro
 Il rugginofago effettua un attacco Morso e usa Antenne due volte.
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m
-
-**Colpito: 5 (1d8 + 1) danni perforanti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni perforanti.
 
 **Antenne**  
 Il rugginofago prende di mira un oggetto in metallo non magico (armatura o arma) indossato o trasportato da una creatura entro 1,5 metri da sé. Tiro salvezza su Destrezza: CD 11, la creatura che possiede l'oggetto. Fallimento: l'oggetto subisce una penalità di -1 alla CA che fornisce (armatura) o ai suoi tiri per colpire (arma). L'armatura viene distrutta se la penalità riduce la sua CA a 10; l'arma viene distrutta se la sua penalità arriva a -5. La penalità può essere rimossa lanciando l'incantesimo riparare sull'armatura o sull'arma.
@@ -11265,14 +11219,15 @@ Il rugginofago tocca un oggetto in metallo non magico entro 1,5 metri da sé che
 ### Reazioni
 
 **Antenne riflesse**  
-Attivazione: Un tiro per colpire colpisce il rugginofago. Esito: il rugginofago usa Antenne. 369 System Reference Document 5.2.1 Sacerdoti
+Attivazione: Un tiro per colpire colpisce il rugginofago. Esito: il rugginofago usa Antenne.
 
 ---
 
 ## Sacerdote accolito
 
 **gruppo:** Sacerdoti  
-**tipo:** Umanoide  
+**tipo:** Umanoide (chierico)
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -11314,7 +11269,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni contun
 Tiro per colpire a distanza: +4, gittata 18 m. Colpito: 7 (2d6) danni radiosi.
 
 **Incantesimi**  
-Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore: A volontà: Luce, taumaturgia
+Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore: 
+**A volontà:** Luce, taumaturgia
 
 ### Azioni bonus
 
@@ -11325,7 +11281,9 @@ Il sacerdote lancia benedizione, parola guaritrice o santuario, utilizzando la s
 
 ## Sacerdote
 
-**tipo:** Umanoide  
+**gruppo:** Sacerdoti  
+**tipo:** Umanoide (chierico)
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 13  
@@ -11361,10 +11319,7 @@ Il sacerdote lancia benedizione, parola guaritrice o santuario, utilizzando la s
 ### Azioni
 
 **Multiattacco**  
-Il sacerdote effettua due attacchi, usando
-
-**Mazza o Fiamma radiosa in qualsiasi combinazione**  
-
+Il sacerdote effettua due attacchi, usando Mazza o Fiamma radiosa in qualsiasi combinazione.
 
 **Mazza**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contundenti più 5 (2d4) danni radiosi.
@@ -11373,19 +11328,22 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contun
 Tiro per colpire a distanza: +5, gittata 18 m. Colpito: 11 (2d10) danni radiosi.
 
 **Incantesimi**  
-Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): A volontà: Luce, taumaturgia 1/giorno: Guardiani spirituali
+Il sacerdote lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13):
+**A volontà:** Luce, taumaturgia 
+**1/giorno:** Guardiani spirituali
 
 ### Azioni bonus
 
 **Aiuto divino (3/giorno)**  
-Il sacerdote lancia benedizione, dissolvi magie, parola guaritrice o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi. Sahuagin
+Il sacerdote lancia benedizione, dissolvi magie, parola guaritrice o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ---
 
 ## Sahuagin guerriero
 
 **gruppo:** Sahuagin  
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 12  
@@ -11435,21 +11393,19 @@ Il sahuagin può comandare magicamente ogni squalo entro 36 metri da sé, usando
 Il sahuagin effettua due attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +3, portata 1,5 m
-
-**Colpito: 4 (1d6 + 1) danni taglienti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni taglienti.
 
 ### Azioni bonus
 
 **Carica acquatica**  
-Il sahuagin nuota fino al massimo della sua velocità di nuoto in linea retta verso un nemico che è in grado di vedere. 370 System Reference Document 5.2.1 Salamandra
+Il sahuagin nuota fino al massimo della sua velocità di nuoto in linea retta verso un nemico che è in grado di vedere.
 
 ---
 
 ## Salamandra
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 15  
@@ -11496,13 +11452,14 @@ La salamandra effettua due attacchi Lancia di fuoco. Può sostituire un attacco 
 Tiro per colpire in mischia o a distanza: +7, portata 1,5 m o gittata 6/18 m. Colpito: 13 (2d8 + 4) danni perforanti più 7 (2d6) danni da fuoco. Colpito o mancato: la lancia torna magicamente tra le mani della salamandra subito dopo un attacco a distanza.
 
 **Stritolare**  
-Tiro salvezza su Forza: CD 15, una creatura di taglia Grande o inferiore che la salamandra è in grado di vedere entro 3 metri. Fallimento: 11 (2d6 + 4) danni contundenti più 7 (2d6) danni da fuoco. Il bersaglio è afferrato (CD 14 per sfuggire) ed è trattenuto finché la presa perdura. Satiro
+Tiro salvezza su Forza: CD 15, una creatura di taglia Grande o inferiore che la salamandra è in grado di vedere entro 3 metri. Fallimento: 11 (2d6 + 4) danni contundenti più 7 (2d6) danni da fuoco. Il bersaglio è afferrato (CD 14 per sfuggire) ed è trattenuto finché la presa perdura.
 
 ---
 
 ## Satiro
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Medio
 **allineamento:** caotico neutrale  
 
 **classe_armatura:** 13  
@@ -11542,20 +11499,18 @@ Il satiro dispone di vantaggio ai tiri salvezza contro incantesimi e altri effet
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 5 (1d4 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, il satiro lo spinge fino a 3 metri lontano da sé.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, il satiro lo spinge fino a 3 metri lontano da sé.
 
 **Derisione**  
-Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vedere entro 27 metri. Fallimento: 5 (1d6 + 2) danni psichici. Scheletri
+Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vedere entro 27 metri. Fallimento: 5 (1d6 + 2) danni psichici.
 
 ---
 
 ## Scheletro
 
 **gruppo:** Scheletri  
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 14  
@@ -11584,7 +11539,7 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vede
 **immunita_danni:** veleno  
 **immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -11602,7 +11557,9 @@ Tiro per colpire a distanza: +5, portata 24/96 m Colpito: 6 (1d6 + 3) danni perf
 
 ## Scheletro di cavallo da guerra
 
-**tipo:** Non  
+**gruppo:** Scheletri  
+**tipo:** Non morto
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 13  
@@ -11634,7 +11591,7 @@ Tiro per colpire a distanza: +5, portata 24/96 m Colpito: 6 (1d6 + 3) danni perf
 **grado_sfida:** 1/2  
 **punti_esperienza:** PE 100  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 1/2 (PE 100; BC +2) 371 System Reference Document 5.2.1  
+**grado_sfida_raw:** 1/2 (PE 100; BC +2)
 
 ### Azioni
 
@@ -11648,7 +11605,9 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si �
 
 ## Scheletro di minotauro
 
-**tipo:** Non  
+**gruppo:** Scheletri  
+**tipo:** Non morto
+**dimensione:** Grande
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 12  
@@ -11685,19 +11644,17 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si �
 ### Azioni
 
 **Schianto**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 15 (2d10 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni contundenti.
 
 **Trafiggere**  
-Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 9 (2d8) danni perforanti extra e cade a terra prono. Segugio infernale
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 9 (2d8) danni perforanti extra e cade a terra prono.
 
 ---
 
 ## Segugio infernale
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 15  
@@ -11744,14 +11701,15 @@ Il segugio effettua due attacchi Morso.
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti più 3 (1d6) danni da fuoco.
 
 **Soffio di fuoco (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 17 (5d6) danni da fuoco. Successo: danni dimezzati. Sfingi
+Tiro salvezza su Destrezza: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 17 (5d6) danni da fuoco. Successo: danni dimezzati.
 
 ---
 
 ## Sfinge della meraviglia
 
 **gruppo:** Sfingi  
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Minuscolo
 **allineamento:** legale buono  
 
 **classe_armatura:** 13  
@@ -11803,7 +11761,9 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 
 ## Sfinge della conoscenza
 
-**tipo:** Celestiale  
+**gruppo:** Sfingi  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale neutrale  
 
 **classe_armatura:** 17  
@@ -11841,7 +11801,10 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 ### Tratti
 
 **Imperscrutabile**  
-Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio. 
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -11849,13 +11812,12 @@ Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i
 La sfinge effettua tre attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +8, portata 1,5 m.
-
-**Colpito: 14 (3d6 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 14 (3d6 + 4) danni taglienti.
 
 **Incantesimi**  
-La sfinge lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: conoscenza delle leggende, dissolvi magie, linguaggi, localizza oggetto, rimuovi maledizione, spostamento planare A volontà: identificare, illusione minore, individuazione del magico, mano magica, prestidigitazione
+La sfinge lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16):
+**1/giorno ciascuno:** conoscenza delle leggende, dissolvi magie, linguaggi, localizza oggetto, rimuovi maledizione, spostamento planare
+**A volontà:** identificare, illusione minore, individuazione del magico, mano magica, prestidigitazione
 
 **Ruggito spezza-mente (ricarica 5-6)**  
 Tiro salvezza su Saggezza: CD 16, tutti i nemici in un'emanazione di 90 metri di cui la sfinge è il punto di origine. Fallimento: 35 (10d6) danni psichici, e il bersaglio è incapacitato fino all'inizio del turno successivo della sfinge.
@@ -11875,7 +11837,9 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 
 ## Sfinge del valore
 
-**tipo:** Celestiale  
+**gruppo:** Sfingi  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale neutrale  
 
 **classe_armatura:** 17  
@@ -11913,7 +11877,10 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 ### Tratti
 
 **Imperscrutabile**  
-Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i pensieri senza il suo permesso. Le prove di Saggezza (Intuizione) effettuate per accertare le sue intenzioni o la sua sincerità subiscono svantaggio.
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se la sfinge fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -11921,10 +11888,7 @@ Nessuna magia può consentire di osservare la sfinge da lontano o individuarne i
 La sfinge effettua due attacchi Artiglio e utilizza Ruggito.
 
 **Artiglio**  
-Tiro per colpire in mischia: +12, portata 1,5 m.
-
-**Colpito: 20 (4d6 + 6) danni taglienti**  
-
+Tiro per colpire in mischia: +12, portata 1,5 m. Colpito: 20 (4d6 + 6) danni taglienti.
 
 **Incantesimi**  
 La sfinge lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 1/giorno ciascuno: banchetto degli eroi, dissolvi magie, individuazione del magico, ristorare superiore, zona di verità A volontà: Individuazione del bene e del male, taumaturgia
@@ -11936,7 +11900,7 @@ Tiro salvezza su Saggezza: CD 20, tutti i nemici in un'emanazione di 150 metri d
 La sfinge emette un ruggito magico. Ogni suo ruggito sortisce un effetto diverso come descritto sotto (la sequenza si ripristina dopo aver completato un riposo lungo):
 
 **Secondo ruggito**  
-Tiro salvezza su Saggezza: CD 20, tutti i nemici in un'emanazione di 150 metri di cui la sfinge è il punto di origine. Fallimento: il bersaglio 373 System Reference Document 5.2.1 è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
+Tiro salvezza su Saggezza: CD 20, tutti i nemici in un'emanazione di 150 metri di cui la sfinge è il punto di origine. Fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 **Terzo ruggito**  
 Tiro salvezza su Costituzione: CD 20, tutti i nemici in un'emanazione di 150 metri di cui la sfinge è il punto di origine. Fallimento: 44 (8d10) danni da tuono, e il bersaglio cade a terra prono. Successo: danni dimezzati.
@@ -11950,13 +11914,14 @@ Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo 
 La sfinge può teletrasportarsi fino a 9 metri in uno spazio libero che è in grado di vedere, effettuando un attacco Artiglio.
 
 **Peso degli anni**  
-Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di vedere entro 36 metri. Fallimento: il bersaglio ottiene 1 livello di indebolimento. Finché il bersaglio ha uno o più livelli di indebolimento, apparirà più vecchio di 3d10 anni. Fallimento o successo: la sfinge non può ripetere quest'azione fino all'inizio del proprio turno successivo. Solar
+Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di vedere entro 36 metri. Fallimento: il bersaglio ottiene 1 livello di indebolimento. Finché il bersaglio ha uno o più livelli di indebolimento, apparirà più vecchio di 3d10 anni. Fallimento o successo: la sfinge non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 
 ## Solar
 
-**tipo:** Celestiale  
+**tipo:** Celestiale (angelo)
+**dimensione:** Grande
 **allineamento:** legale buono  
 
 **classe_armatura:** 21  
@@ -11982,7 +11947,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 
 **abilita:** Percezione +14  
 **immunita_danni:** radioso, veleno  
-**immunita_condizione:** affascinato, avvelenato,  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, spaventato
 **sensi:** Percezione passiva 24; vista pura 36 m  
 **lingue:** tutte; telepatia 36 m  
 **grado_sfida:** 21  
@@ -12007,10 +11972,7 @@ Se il solar muore al di fuori di Monte Celestia, il suo corpo scompare e ne acqu
 ### Azioni
 
 **Multiattacco**  
-Il solar effettua due attacchi Spada volante. Può sostituire un attacco con un utilizzo di
-
-**Arco assassino**  
-
+Il solar effettua due attacchi Spada volante. Può sostituire un attacco con un utilizzo di Arco assassino.
 
 **Spada volante**  
 Tiro per colpire in mischia o a distanza: +15, portata 3 m o gittata 36 m. Colpito: 22 (4d6 + 8) danni taglienti più 36 (8d8) danni radiosi. Colpito o mancato: la spada torna magicamente nella mano del solar o fluttua entro 1,5 metri dal solar subito dopo un attacco a distanza.
@@ -12019,15 +11981,14 @@ Tiro per colpire in mischia o a distanza: +15, portata 3 m o gittata 36 m. Colpi
 Tiro salvezza su Destrezza: CD 21, una creatura che il solar è in grado di vedere entro 180 metri. Fallimento: se la creatura possiede 100 punti ferita o meno, muore. Altrimenti, subisce 24 (4d8 + 6) danni perforanti più 36 (8d8) danni radiosi.
 
 **Incantesimi**  
-Il solar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 25): 1/giorno ciascuno: comunione, controllare tempo atmosferico, dissolvi il bene e il male, resurrezione A volontà: individuazione del bene e del male
+Il solar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 25): 
+**1/giorno ciascuno:** comunione, controllare tempo atmosferico, dissolvi il bene e il male, resurrezione
+**A volontà:** individuazione del bene e del male
 
 ### Azioni bonus
 
 **Aiuto divino (3/giorno)**  
-Il solar lancia cura ferite (di 2º livello), rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di
-
-**Incantesimi**  
-
+Il solar lancia cura ferite (di 2º livello), rimuovi maledizione o ristorare inferiore, utilizzando la stessa caratteristica da incantatore di Incantesimi.
 
 ### Azioni leggendarie
 
@@ -12038,13 +11999,14 @@ Subito dopo il turno di un'altra creatura, il solar può consumare un utilizzo p
 Tiro salvezza su Costituzione: CD 25, una creatura che il solar è in grado di vedere entro 36 metri. Fallimento: il bersaglio è accecato per 1 minuto. Fallimento o successo: il solar non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 **Teletrasporto radioso**  
-Il solar si teletrasporta fino a un massimo di 18 metri in uno spazio libero che è in grado di vedere. Tiro salvezza su Destrezza: CD 25, tutte le creature in un'emanazione di 3 metri di cui il solar è il punto di origine nel suo spazio di destinazione. Fallimento: 11 (2d10) danni radiosi. Successo: danni dimezzati. Spettro
+Il solar si teletrasporta fino a un massimo di 18 metri in uno spazio libero che è in grado di vedere. Tiro salvezza su Destrezza: CD 25, tutte le creature in un'emanazione di 3 metri di cui il solar è il punto di origine nel suo spazio di destinazione. Fallimento: 11 (2d10) danni radiosi. Successo: danni dimezzati.
 
 ---
 
 ## Spettro
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 12  
@@ -12068,11 +12030,11 @@ Il solar si teletrasporta fino a un massimo di 18 metri in uno spazio libero che
 - saggezza: +0
 - carisma: +0
 
-**resistenze:** acido, contundente, freddo, fulmine, fuoco,  
+**resistenze:** acido, contundente, freddo, fulmine, fuoco, perforante, tagliente, tuono
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
@@ -12089,13 +12051,14 @@ Finché è esposto alla luce del sole, lo spettro subisce svantaggio alle prove 
 ### Azioni
 
 **Risucchio di vita**  
-Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici. Se il bersaglio è una creatura, i suoi punti ferita massimi sono ridotti di una quantità pari ai danni subiti. Spia
+Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici. Se il bersaglio è una creatura, i suoi punti ferita massimi sono ridotti di una quantità pari ai danni subiti.
 
 ---
 
 ## Spia
 
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -12119,8 +12082,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici.
 - saggezza: +2
 - carisma: +3
 
-**abilita:** Furtività +6, Indagare +5, Inganno +5, Intuizione  
-**attrezzatura:** arnesi da scasso, balestra a mano, spada  
+**abilita:** Furtività +6, Indagare +5, Inganno +5, Intuizione +4, Percezione +6, Rapidità di Mano +4
+**attrezzatura:** arnesi da scasso, balestra a mano, spada corta
 **sensi:** Percezione passiva 16  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 1  
@@ -12139,16 +12102,14 @@ Tiro per colpire a distanza: +4, gittata 9/36 m. Colpito: 5 (1d6 + 2) danni perf
 ### Azioni bonus
 
 **Azione scaltra**  
-La spia effettua l'azione di Disimpegno,
-
-**Nascondersi o Scatto**  
-Spiritello
+La spia effettua l'azione di Disimpegno, Nascondersi o Scatto.
 
 ---
 
 ## Spiritello
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Minuscolo
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 15  
@@ -12198,7 +12159,8 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 
 ## Succube
 
-**tipo:** Immondo  
+**tipo:** Immondo
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 15  
@@ -12222,14 +12184,14 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 - saggezza: +1
 - carisma: +5
 
-**abilita:** Furtività +7, Inganno +9, Intuizione +5, Percezione  
+**abilita:** Furtività +7, Inganno +9, Intuizione +5, Percezione +5, Persuasione +9
 **resistenze:** freddo, fuoco, psichico, veleno  
 **sensi:** Percezione passiva 15; scurovisione 18 m  
 **lingue:** Abissale, Comune, Infernale; telepatia 18 m  
 **grado_sfida:** 4  
 **punti_esperienza:** PE 1.100  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 4 (PE 1.100; BC +2) 375 System Reference Document 5.2.1  
+**grado_sfida_raw:** 4 (PE 1.100; BC +2)
 
 ### Tratti
 
@@ -12253,13 +12215,14 @@ La succube lancia dominare persone (di 8º livello), senza bisogno di componenti
 ### Azioni bonus
 
 **Mutaforma**  
-La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna alla sua vera forma. Le sue statistiche di gioco sono le stesse in ogni forma, a eccezione della velocità di volo disponibile solo nella sua vera forma. Nessun oggetto che indossa o trasporta viene trasformato. Tarrasque
+La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna alla sua vera forma. Le sue statistiche di gioco sono le stesse in ogni forma, a eccezione della velocità di volo disponibile solo nella sua vera forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Tarrasque
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (titano)
+**dimensione:** Mastodonica
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 25  
@@ -12286,7 +12249,7 @@ La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna
 **abilita:** Percezione +9  
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** fuoco, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista cieca 36 m  
 **lingue:** nessuna  
 **grado_sfida:** 30  
@@ -12314,10 +12277,7 @@ Se il tarrasque fallisce un tiro salvezza, può scegliere di superarlo comunque.
 Il tarrasque effettua un attacco Morso e altri tre attacchi, usando Artiglio o Coda in qualsiasi combinazione.
 
 **Artiglio**  
-Tiro per colpire in mischia: +19, portata 4,5 m.
-
-**Colpito: 28 (4d8 + 10) danni taglienti**  
-
+Tiro per colpire in mischia: +19, portata 4,5 m. Colpito: 28 (4d8 + 10) danni taglienti.
 
 **Coda**  
 Tiro per colpire in mischia: +19, portata 9 m. Colpito: 23 (3d8 + 10) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
@@ -12331,7 +12291,7 @@ Tiro salvezza su Costituzione: CD 27, ogni creatura e oggetto che non sia indoss
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Forza: CD 27, una creatura di taglia Grande o inferiore afferrata dal tarrasque (può inghiottire fino a sei creature per volta). Fallimento: il bersaglio viene inghiottito e non è più afferrato. Una creatura inghiottita è accecata e trattenuta e non può teletrasportarsi, ha copertura totale contro attacchi e altri effetti al di fuori del tarrasque e subisce 56 (16d6) danni da acido all'inizio di ogni turno del tarrasque. Se il tarrasque subisce 60 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 20 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 3 metri dal tarrasque. Se il tarrasque muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona. 376 System Reference Document 5.2.1
+Tiro salvezza su Forza: CD 27, una creatura di taglia Grande o inferiore afferrata dal tarrasque (può inghiottire fino a sei creature per volta). Fallimento: il bersaglio viene inghiottito e non è più afferrato. Una creatura inghiottita è accecata e trattenuta e non può teletrasportarsi, ha copertura totale contro attacchi e altri effetti al di fuori del tarrasque e subisce 56 (16d6) danni da acido all'inizio di ogni turno del tarrasque. Se il tarrasque subisce 60 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 20 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 3 metri dal tarrasque. Se il tarrasque muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona.
 
 ### Azioni leggendarie
 
@@ -12339,19 +12299,17 @@ Tiro salvezza su Forza: CD 27, una creatura di taglia Grande o inferiore afferra
 Subito dopo il turno di un'altra creatura, il tarrasque può consumare un utilizzo per effettuare una delle seguenti azioni. Il tarrasque recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Assalto brutale**  
-Il tarrasque si muove fino a metà della sua velocità ed effettua un attacco Artiglio e un attacco
-
-**Coda**  
-
+Il tarrasque si muove fino a metà della sua velocità ed effettua un attacco Artiglio e un attacco Coda.
 
 **Movimento sismico**  
-Il tarrasque si muove fino alla sua velocità massima. Alla fine di questo movimento, crea un'onda d'urto istantanea in un'emanazione di 18 metri di cui il tarrasque è il punto di origine. Le creature in quell'area perdono la concentrazione e, se sono di taglia Media o inferiore, cadono a terra prone. Il tarrasque non può ripetere quest'azione fino all'inizio del proprio turno successivo. Testuggine dragona
+Il tarrasque si muove fino alla sua velocità massima. Alla fine di questo movimento, crea un'onda d'urto istantanea in un'emanazione di 18 metri di cui il tarrasque è il punto di origine. Le creature in quell'area perdono la concentrazione e, se sono di taglia Media o inferiore, cadono a terra prone. Il tarrasque non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 
 ## Testuggine dragona
 
-**tipo:** Drago  
+**tipo:** Drago
+**dimensione:** Mastodonico
 **allineamento:** neutrale  
 
 **classe_armatura:** 20  
@@ -12391,28 +12349,23 @@ Il drago può respirare in aria e in acqua.
 ### Azioni
 
 **Multiattacco**  
-La testuggine dragona effettua tre attacchi Morso. Può sostituire un attacco con un attacco
+La testuggine dragona effettua tre attacchi Morso. Può sostituire un attacco con un attacco Coda.
 
 **Coda**  
-
-
-**Coda**  
-Tiro per colpire in mischia: +13, portata 4,5 m.
-
-**Colpito: 18 (2d10 + 7) danni contundenti**  
-Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +13, portata 4,5 m. Colpito: 18 (2d10 + 7) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
 
 **Morso**  
 Tiro per colpire in mischia: +13, portata 4,5 m. Colpito: 23 (3d10 + 7) danni perforanti più 7 (2d6) danni da fuoco. Trovarsi sott'acqua non conferisce alcuna resistenza contro questi danni da fuoco.
 
 **Soffio di vapore (ricarica 5-6)**  
-Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. Fallimento o successo: trovarsi sott'acqua non conferisce alcuna resistenza contro questi danni da fuoco. Tigre mannara
+Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. Fallimento o successo: trovarsi sott'acqua non conferisce alcuna resistenza contro questi danni da fuoco.
 
 ---
 
 ## Tigre mannara
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -12448,22 +12401,13 @@ Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. 
 ### Azioni
 
 **Multiattacco**  
-La tigre mannara effettua due attacchi, usando Graffio o Arco lungo in qualsiasi combinazione.
-
-**Può sostituire un attacco con un attacco Morso**  
-
+La tigre mannara effettua due attacchi, usando Graffio o Arco lungo in qualsiasi combinazione. Può sostituire un attacco con un attacco Morso.
 
 **Graffio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti.
 
 **Morso (solo in forma di tigre o ibrida)**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione:
-
-**CD 13**  
-Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa una tigre mannara sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione della tigre mannara per 24 ore.
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 13. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa una tigre mannara sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione della tigre mannara per 24 ore.
 
 **Arco lungo (solo in forma umanoide o ibrida)**  
 Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 11 (2d8 + 2) danni perforanti.
@@ -12471,19 +12415,17 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 11 (2d8 + 2) danni p
 ### Azioni bonus
 
 **Movimento predatorio (solo in forma di tigre o ibrida)**  
-La tigre mannara si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Alla fine di questo movimento, può effettuare l'azione di
-
-**Nascondersi**  
-
+La tigre mannara si muove fino alla sua velocità massima senza provocare attacchi di opportunità. Alla fine di questo movimento, può effettuare l'azione di Nascondersi.
 
 **Mutaforma**  
-La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in una tigre di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. 377 System Reference Document 5.2.1 Topo mannaro
+La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in una tigre di taglia Grande, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Topo mannaro
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 13  
@@ -12522,30 +12464,25 @@ La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in 
 Il topo mannaro effettua due attacchi, usando Graffio o Balestra a mano in qualsiasi combinazione. Può sostituire un attacco con un attacco Morso.
 
 **Graffio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 6 (1d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni taglienti.
 
 **Morso (solo in forma di topo o ibrida)**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (2d4 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 11. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un topo mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del topo mannaro per 24 ore.
 
 **Balestra a mano (solo in forma umanoide o ibrida)**  
-
-
-**Tiro per colpire a distanza: +5, portata 9/36 m**  
-Colpito: 6 (1d6 + 3) danni perforanti.
+Tiro per colpire a distanza: +5, portata 9/36 m. Colpito: 6 (1d6 + 3) danni perforanti.
 
 ### Azioni bonus
 
 **Mutaforma**  
-Il topo mannaro si trasforma in un ibrido umanoide-topo di taglia Media o in un topo di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Treant
+Il topo mannaro si trasforma in un ibrido umanoide-topo di taglia Media o in un topo di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
 ## Treant
 
-**tipo:** Vegetale  
+**tipo:** Vegetale
+**dimensione:** Enorme
 **allineamento:** caotico buono  
 
 **classe_armatura:** 16  
@@ -12595,13 +12532,14 @@ Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 16 (3d6 + 6) danni con
 Tiro per colpire a distanza: +10, gittata 54 m. Colpito: 28 (4d10 + 6) danni perforanti.
 
 **Animare alberi (1/giorno)**  
-Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio di 18 metri. Gli alberi usano la scheda delle statistiche del treant, fatta eccezione per i punteggi di Intelligenza e Carisma pari a 1; inoltre, non possono parlare e non possiedono quest'azione. L'albero svolge il suo turno subito dopo il treant, condivide lo stesso punteggio di iniziativa e gli obbedisce. Un albero resta animato per 1 giorno o fino alla morte, finché non muore il treant o finché non si trova a più di 36 metri da esso. Dopodiché, qualora possibile, l'albero mette radici. Troll
+Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio di 18 metri. Gli alberi usano la scheda delle statistiche del treant, fatta eccezione per i punteggi di Intelligenza e Carisma pari a 1; inoltre, non possono parlare e non possiedono quest'azione. L'albero svolge il suo turno subito dopo il treant, condivide lo stesso punteggio di iniziativa e gli obbedisce. Un albero resta animato per 1 giorno o fino alla morte, finché non muore il treant o finché non si trova a più di 36 metri da esso. Dopodiché, qualora possibile, l'albero mette radici.
 
 ---
 
 ## Troll
 
-**tipo:** Gigante  
+**tipo:** Gigante
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -12636,7 +12574,7 @@ Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio 
 ### Tratti
 
 **Arti abominevoli (4/giorno)**  
-Se il troll termina qualsiasi turno sanguinante e subisce più di 15 danni taglienti durante tale turno, uno dei suoi arti viene reciso, cade nello spazio del troll e diventa un arto di troll. L'arto svolge il suo turno subito dopo quello del troll. Il troll ha 1 livello di indebolimento per ogni arto mancante 378 System Reference Document 5.2.1 e fa ricrescere gli arti la prossima volta che recupera punti ferita.
+Se il troll termina qualsiasi turno sanguinante e subisce più di 15 danni taglienti durante tale turno, uno dei suoi arti viene reciso, cade nello spazio del troll e diventa un arto di troll. L'arto svolge il suo turno subito dopo quello del troll. Il troll ha 1 livello di indebolimento per ogni arto mancante e fa ricrescere gli arti la prossima volta che recupera punti ferita.
 
 **Rigenerazione**  
 Il troll recupera 15 punti ferita all'inizio di ogni suo turno. Se il troll subisce danni da acido o fuoco, questo tratto non funziona all'inizio del suo turno successivo. Il troll muore solo se inizia il turno con 0 punti ferita e non si rigenera.
@@ -12647,10 +12585,7 @@ Il troll recupera 15 punti ferita all'inizio di ogni suo turno. Se il troll subi
 Il troll effettua tre attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni taglienti.
 
 ### Azioni bonus
 
@@ -12661,7 +12596,8 @@ Il troll si muove fino a metà della sua velocità in linea retta verso un nemic
 
 ## Arto di troll
 
-**tipo:** Gigante  
+**tipo:** Gigante
+**dimensione:** Piccolo
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
@@ -12703,16 +12639,14 @@ L'arto recupera 5 punti ferita all'inizio di ogni suo turno. Se l'arto subisce d
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (2d4 + 4) danni taglienti**  
-Uccello stigeo
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni taglienti.
 
 ---
 
 ## Uccello stigeo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -12746,13 +12680,14 @@ Uccello stigeo
 ### Azioni
 
 **Proboscide**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perforanti, e l'uccello stigeo si avvinghia al bersaglio. Finché l'uccello stigeo è attaccato in questo modo non può effettuare attacchi Proboscide, e il bersaglio subisce 5 (2d4) danni necrotici all'inizio di ogni turno dell'uccello stigeo. L'uccello stigeo può staccarsi da solo utilizzando 1,5 metri del suo movimento. Il bersaglio o una creatura entro 1,5 metri da esso può staccare l'uccello stigeo con un'azione. Unicorno
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perforanti, e l'uccello stigeo si avvinghia al bersaglio. Finché l'uccello stigeo è attaccato in questo modo non può effettuare attacchi Proboscide, e il bersaglio subisce 5 (2d4) danni necrotici all'inizio di ogni turno dell'uccello stigeo. L'uccello stigeo può staccarsi da solo utilizzando 1,5 metri del suo movimento. Il bersaglio o una creatura entro 1,5 metri da esso può staccare l'uccello stigeo con un'azione.
 
 ---
 
 ## Unicorno
 
-**tipo:** Celestiale  
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** legale buono  
 
 **classe_armatura:** 12  
@@ -12802,13 +12737,12 @@ L'unicorno effettua un attacco Zoccoli e un attacco Corno radioso.
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d10 + 4) danni radiosi.
 
 **Zoccoli**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 11 (2d6 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni contundenti.
 
 **Incantesimi**  
-L'unicorno lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 379 System Reference Document 5.2.1 1/giorno ciascuno: Calmare emozioni, dissolvi il bene e il male, intralciare, parola del ritiro, passare senza tracce A volontà: Artificio druidico, individuazione del bene e del male
+L'unicorno lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14):
+**1/giorno ciascuno:** Calmare emozioni, dissolvi il bene e il male, intralciare, parola del ritiro, passare senza tracce
+**A volontà:** Artificio druidico, individuazione del bene e del male
 
 ### Azioni bonus
 
@@ -12824,14 +12758,15 @@ Subito dopo il turno di un'altra creatura, l'unicorno può consumare un utilizzo
 L'unicorno si muove fino a metà della sua velocità senza provocare attacchi di opportunità, ed effettua un attacco Corno radioso.
 
 **Scudo luccicante**  
-L'unicorno prende di mira se stesso o una creatura che è in grado di vedere entro 18 metri da sé. Il bersaglio ottiene 10 (3d6) punti ferita temporanei, e la sua CA aumenta di 2 fino al termine del turno successivo dell'unicorno. L'unicorno non può ripetere quest'azione fino all'inizio del proprio turno successivo. Vampiri
+L'unicorno prende di mira se stesso o una creatura che è in grado di vedere entro 18 metri da sé. Il bersaglio ottiene 10 (3d6) punti ferita temporanei, e la sua CA aumenta di 2 fino al termine del turno successivo dell'unicorno. L'unicorno non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 
 ## Famiglio del vampiro
 
 **gruppo:** Vampiri  
-**tipo:** Umanoide  
+**tipo:** Umanoide
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 15  
@@ -12858,7 +12793,7 @@ L'unicorno prende di mira se stesso o una creatura che è in grado di vedere ent
 **abilita:** Furtività +7, Percezione +4, Persuasione +4  
 **attrezzatura:** pugnali (10)  
 **resistenze:** necrotico  
-**immunita_danni:** affascinato (tranne che dal suo padrone  
+**immunita_danni:** affascinato (tranne che dal suo padrone vampiro)
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
@@ -12888,7 +12823,9 @@ Il famiglio effettua l'azione di Disimpegno o Scatto.
 
 ## Progenie vampirica
 
-**tipo:** Non  
+**gruppo:** Vampiri  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 16  
@@ -12953,7 +12890,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m.
 Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da uno dei due artigli.
 
 **Morso**  
-Tiro salvezza su Costituzione: CD 14, una creatura entro 1,5 metri che sia consenziente, afferrata, incapacitata o trattenuta. Fallimento: 5 (1d4 + 3) danni perforanti più 10 (3d6) danni necrotici. I punti ferita 380 System Reference Document 5.2.1 massimi del bersaglio sono ridotti di un ammontare pari ai danni necrotici subiti, e il vampiro recupera punti ferita pari a quell'ammontare.
+Tiro salvezza su Costituzione: CD 14, una creatura entro 1,5 metri che sia consenziente, afferrata, incapacitata o trattenuta. Fallimento: 5 (1d4 + 3) danni perforanti più 10 (3d6) danni necrotici. I punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni necrotici subiti, e il vampiro recupera punti ferita pari a quell'ammontare.
 
 ### Azioni bonus
 
@@ -12964,7 +12901,9 @@ Il vampiro effettua l'azione di Disimpegno o Scatto.
 
 ## Vampiro
 
-**tipo:** Non  
+**gruppo:** Vampiri  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 16  
@@ -13018,7 +12957,10 @@ Il vampiro può scalare le superfici difficili, compresi i soffitti, senza effet
 Se un'arma che infligge danni perforanti gli viene conficcata nel cuore mentre è incapacitato nel suo luogo di riposo, il vampiro è paralizzato finché non viene rimossa l'arma.
 
 **Proibizione**  
-Il vampiro non può entrare in casa di qualcuno se non viene invitato da chi vi risiede. Resistenza leggendaria (3/giorno o 4/giorno nella tana). Se il vampiro fallisce un tiro salvezza, può scegliere di superarlo comunque.
+Il vampiro non può entrare in casa di qualcuno se non viene invitato da chi vi risiede. 
+
+**Resistenza leggendaria (3/giorno o 4/giorno nella tana)**
+Se il vampiro fallisce un tiro salvezza, può scegliere di superarlo comunque.
 
 ### Azioni
 
@@ -13040,7 +12982,7 @@ Il vampiro lancia charme su persone, senza bisogno di componenti e utilizzando C
 Se il vampiro non è alla luce del sole o in acqua corrente, si trasforma in un pipistrello di taglia Minuscola (velocità 1,5 metri, volo 9 metri) o una nube di nebbia di taglia Media (velocità 1,5 metri, volo 6 metri [fluttuare]), oppure torna alla forma di vampiro.
 
 **Qualsiasi cosa indossi, si trasforma insieme a lui**  
-Finché è in forma di pipistrello, il vampiro non può parlare. Le sue statistiche di gioco, a eccezione della taglia e della velocità, non cambiano. Finché è in forma di nebbia, il vampiro non può effettuare alcuna azione, né parlare o manipolare oggetti. Non ha peso e può entrare nello spazio di un nemico e fermarvisi. Inoltre, se l'aria può passare attraverso uno spazio, anche la nebbia può farlo, ma non può attraversare l'acqua. È resistente a tutti i danni, eccetto quelli subiti dalla luce del sole. 381 System Reference Document 5.2.1
+Finché è in forma di pipistrello, il vampiro non può parlare. Le sue statistiche di gioco, a eccezione della taglia e della velocità, non cambiano. Finché è in forma di nebbia, il vampiro non può effettuare alcuna azione, né parlare o manipolare oggetti. Non ha peso e può entrare nello spazio di un nemico e fermarvisi. Inoltre, se l'aria può passare attraverso uno spazio, anche la nebbia può farlo, ma non può attraversare l'acqua. È resistente a tutti i danni, eccetto quelli subiti dalla luce del sole.
 
 ### Azioni leggendarie
 
@@ -13051,13 +12993,14 @@ Subito dopo il turno di un'altra creatura, il vampiro può consumare un utilizzo
 Il vampiro si muove fino a metà della sua velocità, ed effettua un attacco Colpo tombale.
 
 **Incantare**  
-Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17). Il vampiro non può ripetere quest'azione fino all'inizio del proprio turno successivo. Vegetali risvegliati
+Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17). Il vampiro non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 
 ## Albero risvegliato
 
-**gruppo:** Vegetali risvegliati  
+**gruppo:** Vegetali risvegliati
+**dimensione:** Enorme
 **tipo:** Vegetale  
 **allineamento:** neutrale  
 
@@ -13094,17 +13037,16 @@ Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come 
 ### Azioni
 
 **Schianto**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 14 (3d6 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 14 (3d6 + 4) danni contundenti.
 
 ---
 
 ## Cespuglio risvegliato
 
-**tipo:** Vegetale  
-**allineamento:** neutrale  
+**gruppo:** Vegetali risvegliati
+**dimensione:** Piccolo
+**tipo:** Vegetale
+**allineamento:** neutrale
 
 **classe_armatura:** 9  
 **iniziativa:** -1 (9)  
@@ -13139,16 +13081,14 @@ Tiro per colpire in mischia: +6, portata 3 m.
 ### Azioni
 
 **Graffiare**  
-Tiro per colpire in mischia: +1, portata 1,5 m
-
-**Colpito: 1 danno tagliente**  
-Verme purpureo
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
 ## Verme purpureo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Mastodontica
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 18  
@@ -13172,7 +13112,7 @@ Verme purpureo
 - saggezza: +4
 - carisma: -3
 
-**sensi:** Percezione passiva 9; percezione tellurica 18 m,  
+**sensi:** Percezione passiva 9; percezione tellurica 18 m, vista cieca 9 m
 **lingue:** nessuna  
 **grado_sfida:** 15  
 **punti_esperienza:** PE 13.000  
@@ -13190,10 +13130,7 @@ Il verme può scavare attraverso la roccia solida a metà della sua velocità di
 Il verme effettua un attacco Morso e un attacco Pungiglione caudale.
 
 **Morso**  
-Tiro per colpire in mischia: +14, portata 3 m.
-
-**Colpito: 22 (3d8 + 9) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 19 per sfuggire), ed è trattenuto finché la presa perdura.
+Tiro per colpire in mischia: +14, portata 3 m. Colpito: 22 (3d8 + 9) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 19 per sfuggire), ed è trattenuto finché la presa perdura.
 
 **Pungiglione caudale**  
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 16 (2d6 + 9) danni perforanti più 35 (10d6) danni da veleno.
@@ -13201,13 +13138,14 @@ Tiro per colpire in mischia: +14, portata 3 m. Colpito: 16 (2d6 + 9) danni perfo
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal verme (può inghiottire fino a tre creature alla volta). Fallimento: il bersaglio viene inghiottito dal verme, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del verme, e subisce 17 (5d6) danni da acido all'inizio di ogni turno del verme. Se il verme subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 21 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal verme. Se il verme muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona. 382 System Reference Document 5.2.1 Viverna
+Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferrata dal verme (può inghiottire fino a tre creature alla volta). Fallimento: il bersaglio viene inghiottito dal verme, e non è più afferrato. Una creatura inghiottita è accecata e trattenuta, beneficia di copertura totale contro gli attacchi e altri effetti al di fuori del verme, e subisce 17 (5d6) danni da acido all'inizio di ogni turno del verme. Se il verme subisce 30 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 21 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 1,5 metri dal verme. Se il verme muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona.
 
 ---
 
 ## Viverna
 
-**tipo:** Drago  
+**tipo:** Drago
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -13245,19 +13183,17 @@ Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferra
 La viverna effettua un attacco Morso e un attacco Pungiglione.
 
 **Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 13 (2d8 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni perforanti.
 
 **Pungiglione**  
-Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti più 24 (7d6) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo della viverna. Vrock
+Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti più 24 (7d6) danni da veleno, e il bersaglio è avvelenato fino all'inizio del turno successivo della viverna. 
 
 ---
 
 ## Vrock
 
-**tipo:** Immondo  
+**tipo:** Immondo (demone)
+**dimensione:** Grande
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 15  
@@ -13302,10 +13238,7 @@ Se il vrock muore al di fuori dell'Abisso, il suo corpo si dissolve diventando i
 ### Azioni
 
 **Multiattacco**  
-Il vrock effettua due attacchi
-
-**Sbrandellare**  
-
+Il vrock effettua due attacchi Sbrandellare.
 
 **Sbrandellare**  
 Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni perforanti più 10 (3d6) danni da veleno.
@@ -13314,13 +13247,14 @@ Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni perfo
 Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 metri di cui il vrock è il punto di origine. Fallimento: il bersaglio è avvelenato e ripete il tiro salvezza alla fine del suo turno successivo e, se lo supera, l'effetto svanisce. Finché è avvelenato, il bersaglio subisce 5 (1d10) danni da veleno all'inizio di ogni suo turno. L'effetto termina anticipatamente svuotandogli addosso un'ampolla di acqua santa.
 
 **Stridio stordente (1/giorno)**  
-Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 metri di cui il vrock è il punto di origine (i demoni superano automaticamente il tiro). Fallimento: 10 (3d6) danni da tuono, e il bersaglio è stordito fino al termine del turno successivo del vrock. Wight
+Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 metri di cui il vrock è il punto di origine (i demoni superano automaticamente il tiro). Fallimento: 10 (3d6) danni da tuono, e il bersaglio è stordito fino al termine del turno successivo del vrock.
 
 ---
 
 ## Wight
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 14  
@@ -13364,25 +13298,23 @@ Finché è esposto alla luce del sole, il wight subisce svantaggio alle prove di
 ### Azioni
 
 **Multiattacco**  
-Il wight effettua due attacchi, usando Spada necrotica o Arco necrotico in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di
-
-**Risucchio di vita**  
-
+Il wight effettua due attacchi, usando Spada necrotica o Arco necrotico in qualsiasi combinazione. Può sostituire un attacco con un utilizzo di Risucchio di vita.
 
 **Spada necrotica**  
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 6 (1d8 + 2) danni taglienti più 4 (1d8) danni necrotici.
 
 **Arco necrotico**  
-Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti più 4 (1d8) danni necrotici. 383 System Reference Document 5.2.1
+Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni perforanti più 4 (1d8) danni necrotici.
 
 **Risucchio di vita**  
-Tiro salvezza su Costituzione: CD 13, una creatura entro 1,5 metri. Fallimento: 6 (1d8 + 2) danni necrotici, e i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni subiti. Un umanoide ucciso da questo attacco si anima 24 ore dopo come zombi sotto il controllo del wight, a meno che l'umanoide non sia riportato in vita o il suo corpo non venga distrutto. Il wight non può controllare più di dodici zombi simultaneamente. Worg
+Tiro salvezza su Costituzione: CD 13, una creatura entro 1,5 metri. Fallimento: 6 (1d8 + 2) danni necrotici, e i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni subiti. Un umanoide ucciso da questo attacco si anima 24 ore dopo come zombi sotto il controllo del wight, a meno che l'umanoide non sia riportato in vita o il suo corpo non venga distrutto. Il wight non può controllare più di dodici zombi simultaneamente.
 
 ---
 
 ## Worg
 
-**tipo:** Folletto  
+**tipo:** Folletto
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -13417,13 +13349,14 @@ Tiro salvezza su Costituzione: CD 13, una creatura entro 1,5 metri. Fallimento: 
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti, e il tiro per colpire successivo effettuato contro il bersaglio prima dell'inizio del turno successivo del worg dispone di vantaggio. Wraith
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti, e il tiro per colpire successivo effettuato contro il bersaglio prima dell'inizio del turno successivo del worg dispone di vantaggio.
 
 ---
 
 ## Wraith
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio o Piccolo
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 13  
@@ -13447,9 +13380,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 - saggezza: +2
 - carisma: +2
 
-**resistenze:** acido, contundente, freddo, fuoco, perforante,  
+**resistenze:** acido, contundente, freddo, fuoco, perforante, tagliente
 **immunita_danni:** necrotico, veleno  
-**immunita_condizione:** affascinato, afferrato,  
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 12; scurovisione 18 m  
 **lingue:** Comune più altre due lingue  
 **grado_sfida:** 5  
@@ -13471,13 +13404,14 @@ Finché è esposto alla luce del sole, il wraith subisce svantaggio alle prove d
 Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 21 (4d8 + 3) danni necrotici. Se il bersaglio è una creatura, i suoi punti ferita massimi sono ridotti di una quantità pari ai danni subiti.
 
 **Creare spettro**  
-Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che non abbia perso la vita da più di 1 minuto. Lo spirito del bersaglio si anima come spettro nello spazio del suo cadavere o nello spazio libero più vicino. Lo spettro è sotto il controllo del wraith. Il wraith non può controllare più di sette spettri simultaneamente. Xorn
+Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che non abbia perso la vita da più di 1 minuto. Lo spirito del bersaglio si anima come spettro nello spazio del suo cadavere o nello spazio libero più vicino. Lo spettro è sotto il controllo del wraith. Il wraith non può controllare più di sette spettri simultaneamente.
 
 ---
 
 ## Xorn
 
-**tipo:** Elementale  
+**tipo:** Elementale
+**dimensione:** Medio
 **allineamento:** neutrale  
 
 **classe_armatura:** 19  
@@ -13504,7 +13438,7 @@ Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che 
 **abilita:** Furtività +6, Percezione +6  
 **immunita_danni:** veleno  
 **immunita_condizione:** avvelenato, paralizzato, pietrificato  
-**sensi:** Percezione passiva 16; percezione tellurica 18 m,  
+**sensi:** Percezione passiva 16; percezione tellurica 18 m, scurovisione 18 m
 **lingue:** Primordiale (Terran)  
 **grado_sfida:** 5  
 **punti_esperienza:** PE 1.800  
@@ -13525,27 +13459,22 @@ Lo xorn può scavare attraverso la terra e la pietra non magiche e non lavorate,
 Lo xorn effettua un attacco Morso e tre attacchi Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 8 (1d10 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d10 + 3) danni taglienti.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 17 (4d6 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 17 (4d6 + 3) danni perforanti.
 
 ### Azioni bonus
 
 **Carica**  
-Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in linea retta verso un nemico che è in grado di percepire. 384 System Reference Document 5.2.1 Zombi
+Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in linea retta verso un nemico che è in grado di percepire.
 
 ---
 
 ## Zombi
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Medio
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 8  
@@ -13572,7 +13501,7 @@ Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in lin
 **immunita_danni:** veleno  
 **immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 8; scurovisione 18 m  
-**lingue:** capisce il Comune più un'altra lingua ma non  
+**lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -13581,24 +13510,19 @@ Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in lin
 ### Tratti
 
 **Tempra dei non morti**  
-Se i danni riducono lo zombi a 0 punti ferita, esso effettua un tiro salvezza su Costituzione (CD pari a 5 più i danni subiti), a meno che non si tratti di danni radiosi o di un colpo critico.
-
-**In caso di successo, scende invece a 1 punto ferita**  
-
+Se i danni riducono lo zombi a 0 punti ferita, esso effettua un tiro salvezza su Costituzione (CD pari a 5 più i danni subiti), a meno che non si tratti di danni radiosi o di un colpo critico. In caso di successo, scende invece a 1 punto ferita.
 
 ### Azioni
 
 **Schianto**  
-Tiro per colpire in mischia: +3, portata 1,5 m
-
-**Colpito: 5 (1d8 + 1) danni contundenti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni contundenti.
 
 ---
 
 ## Zombi ogre
 
-**tipo:** Non  
+**tipo:** Non morto
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 8  
@@ -13634,25 +13558,20 @@ Tiro per colpire in mischia: +3, portata 1,5 m
 ### Tratti
 
 **Tempra dei non morti**  
-Se i danni riducono lo zombi a 0 punti ferita, esso effettua un tiro salvezza su Costituzione (CD pari a 5 più i danni subiti), a meno che non si tratti di danni radiosi o di un colpo critico.
-
-**In caso di successo, scende invece a 1 punto ferita**  
-
+Se i danni riducono lo zombi a 0 punti ferita, esso effettua un tiro salvezza su Costituzione (CD pari a 5 più i danni subiti), a meno che non si tratti di danni radiosi o di un colpo critico. In caso di successo, scende invece a 1 punto ferita.
 
 ### Azioni
 
 **Schianto**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 13 (2d8 + 4) danni contundenti**  
-Animali
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni contundenti.
 
 ---
 
 ## Alce
 
-**gruppo:** Animali  
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -13693,7 +13612,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 
 ## Alce gigante
 
-**tipo:** Celestiale  
+**gruppo:** Animali
+**tipo:** Celestiale
+**dimensione:** Enorme
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 14  
@@ -13720,7 +13641,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 **abilita:** Percezione +4  
 **resistenze:** necrotico, radioso  
 **sensi:** Percezione passiva 14; scurovisione 27 m  
-**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano  
+**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano ma non li parla
 **grado_sfida:** 2  
 **punti_esperienza:** PE 450  
 **bonus_competenza:** +2  
@@ -13735,7 +13656,9 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni contun
 
 ## Allosauro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -13770,22 +13693,18 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni contun
 ### Azioni
 
 **Artigli**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 8 (1d8 + 4) danni taglienti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore e l'allosauro si è mosso di 9 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio cade a terra prono e l'allosauro può effettuare un attacco Morso contro di esso.
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d8 + 4) danni taglienti. Se il bersaglio è una creatura di taglia Grande o inferiore e l'allosauro si è mosso di 9 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio cade a terra prono e l'allosauro può effettuare un attacco Morso contro di esso.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 15 (2d10 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni perforanti.
 
 ---
 
 ## Anchilosauro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -13819,22 +13738,18 @@ Tiro per colpire in mischia: +6, portata 1,5 m.
 ### Azioni
 
 **Multiattacco**  
-L'anchilosauro effettua due attacchi
+L'anchilosauro effettua due attacchi Coda.
 
 **Coda**  
-
-
-**Coda**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 9 (1d10 + 4) danni contundenti**  
-Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 9 (1d10 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
 
 ---
 
 ## Aquila
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -13869,16 +13784,15 @@ Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni taglienti.
 
 ---
 
 ## Aquila gigante
 
-**tipo:** Celestiale  
+**gruppo:** Animali
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** neutrale buono  
 
 **classe_armatura:** 13  
@@ -13905,7 +13819,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 **abilita:** Percezione +6  
 **resistenze:** necrotico, radioso  
 **sensi:** Percezione passiva 16  
-**lingue:** Celestiale; capisce il Comune e il Primordiale  
+**lingue:** Celestiale; capisce il Comune e il Primordiale (Auran) ma non li parla
 **grado_sfida:** 1  
 **punti_esperienza:** PE 200  
 **bonus_competenza:** +2  
@@ -13923,7 +13837,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni tagli
 
 ## Archelon
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 17  
@@ -13966,16 +13882,15 @@ L'archelon può respirare in aria e in acqua.
 L'archelon effettua due attacchi Morso.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 14 (3d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 14 (3d6 + 4) danni perforanti.
 
 ---
 
 ## Avvoltoio
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14015,16 +13930,15 @@ L'avvoltoio dispone di vantaggio a un tiro per colpire contro una creatura se al
 ### Azioni
 
 **Becco**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 2 (1d4) danni perforanti**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni perforanti.
 
 ---
 
 ## Avvoltoio gigante
 
-**tipo:** Mostruosità  
+**gruppo:** Animali
+**tipo:** Mostruosità
+**dimensione:** Grande
 **allineamento:** neutrale malvagio  
 
 **classe_armatura:** 10  
@@ -14071,7 +13985,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 9 (2d6 + 2) danni perfo
 
 ## Babbuino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14110,16 +14026,17 @@ Il babbuino dispone di vantaggio a un tiro per colpire contro una creatura se al
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +1, portata 1,5 m
-
-**Colpito: 1 (1d4 - 1) danni perforanti**  
-
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perforanti.
 
 ---
 
 ## Banco di piranha
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14144,7 +14061,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 8; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -14169,7 +14086,9 @@ Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i pu
 
 ## Cammello
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14198,21 +14117,20 @@ Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i pu
 **grado_sfida:** 1/8  
 **punti_esperienza:** PE 25  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 1/8 (PE 25; BC +2) 387 System Reference Document 5.2.1  
+**grado_sfida_raw:** 1/8 (PE 25; BC +2)
 
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contundenti.
 
 ---
 
 ## Capra
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14253,7 +14171,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno contundente, o 
 
 ## Capra gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -14294,7 +14214,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 
 ## Cavallo da galoppo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande 
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -14328,16 +14250,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 7 (1d8 + 3) danni contundenti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni contundenti.
 
 ---
 
 ## Cavallo da guerra
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -14371,16 +14292,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (2d4 + 4) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore e il cavallo si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 5 (2d4) danni contundenti extra e cade a terra prono.
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore e il cavallo si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 5 (2d4) danni contundenti extra e cade a terra prono.
 
 ---
 
 ## Cavallo da tiro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14414,16 +14334,15 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e il cavallo si è 
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +6, portata 1,5 m
-
-**Colpito: 6 (1d4 + 4) danni contundenti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni contundenti.
 
 ---
 
 ## Cavalluccio marino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14469,7 +14388,9 @@ Finché è sott'acqua, il cavalluccio marino può muoversi fino alla sua velocit
 
 ## Cavalluccio marino gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -14519,7 +14440,9 @@ Finché è sott'acqua, il cavalluccio marino può muoversi fino alla metà della
 
 ## Cinghiale
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -14564,7 +14487,9 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 4 (1d6 + 1) danni perfor
 
 ## Cinghiale gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14609,7 +14534,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni perf
 
 ## Coccodrillo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14649,16 +14576,15 @@ Il coccodrillo può trattenere il respiro per 1 ora.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 6 (1d8 + 2) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire). Mentre è afferrato, il bersaglio è anche trattenuto.
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 12 per sfuggire). Mentre è afferrato, il bersaglio è anche trattenuto.
 
 ---
 
 ## Coccodrillo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -14701,22 +14627,20 @@ Il coccodrillo può trattenere il respiro per 1 ora.
 Il coccodrillo effettua un attacco Morso e un attacco Coda.
 
 **Coda**  
-Tiro per colpire in mischia: +8, portata 3 m.
-
-**Colpito: 18 (3d8 + 5) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +8, portata 3 m. Colpito: 18 (3d8 + 5) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Morso**  
-Tiro per colpire in mischia: +8, portata 1,5 m.
-
-**Colpito: 21 (3d10 + 5) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 15 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del coccodrillo.
+Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 15 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del coccodrillo.
 
 ---
 
 ## Colonia di serpenti velenosi
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -14741,7 +14665,7 @@ Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 1
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 3 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -14763,7 +14687,11 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 
 ## Colonia di topi
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -14788,7 +14716,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -14810,7 +14738,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 5 (2d4) danni perforant
 
 ## Corvo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14850,16 +14780,15 @@ Il corvo può imitare dei suoni semplici che ha sentito, come sussurri o cinguet
 ### Azioni
 
 **Becco**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Daino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14905,7 +14834,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contunden
 
 ## Elefante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14953,7 +14884,9 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 
 ## Faina
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -14988,16 +14921,15 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Faina gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -15032,16 +14964,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 5 (1d4 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perforanti.
 
 ---
 
 ## Falco
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -15076,16 +15007,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m.
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 1 danno tagliente**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
 ## Falco di sangue
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15131,7 +15061,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni perfo
 
 ## Gatto
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15171,16 +15103,15 @@ La distanza dei salti del gatto è determinata dalla sua Destrezza piuttosto che
 ### Azioni
 
 **Graffio**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 1 danno tagliente**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
 ## Gorilla
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15218,10 +15149,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 Il gorilla effettua due attacchi Pugno.
 
 **Pugno**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 5 (1d4 + 3) danni contundenti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni contundenti.
 
 **Roccia (ricarica 6)**  
 Tiro per colpire a distanza: +5, gittata 7,5/15 m Colpito: 10 (2d6 + 3) danni contundenti.
@@ -15230,7 +15158,9 @@ Tiro per colpire a distanza: +5, gittata 7,5/15 m Colpito: 10 (2d6 + 3) danni co
 
 ## Gorilla gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15268,10 +15198,7 @@ Tiro per colpire a distanza: +5, gittata 7,5/15 m Colpito: 10 (2d6 + 3) danni co
 Il gorilla effettua due attacchi Pugno.
 
 **Pugno**  
-Tiro per colpire in mischia: +9, portata 3 m.
-
-**Colpito: 22 (3d10 + 6) danni contundenti**  
-
+Tiro per colpire in mischia: +9, portata 3 m. Colpito: 22 (3d10 + 6) danni contundenti.
 
 **Lancio di massi (ricarica 6)**  
 Il gorilla scaglia un masso verso un punto che è in grado di vedere entro 27 metri. Tiro salvezza su Destrezza: CD 17, tutte le creature in una sfera dal raggio di 1,5 metri centrata su quel punto. Fallimento: 24 (7d6) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono. Successo: danni dimezzati.
@@ -15279,13 +15206,15 @@ Il gorilla scaglia un masso verso un punto che è in grado di vedere entro 27 me
 ### Azioni bonus
 
 **Balzo**  
-Il gorilla salta fino a 9 metri usando 3 metri di movimento. 392 System Reference Document 5.2.1
+Il gorilla salta fino a 9 metri usando 3 metri di movimento.
 
 ---
 
 ## Granchio
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -15325,16 +15254,15 @@ Il granchio può respirare in aria e in acqua.
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 1 danno contundente**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno contundente.
 
 ---
 
 ## Granchio gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -15374,16 +15302,15 @@ Il granchio può respirare in aria e in acqua.
 ### Azioni
 
 **Artiglio**  
-Tiro per colpire in mischia: +3, portata 1,5 m
-
-**Colpito: 4 (1d6 + 1) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire) da una delle due chele.
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire) da una delle due chele.
 
 ---
 
 ## Gufo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -15423,16 +15350,15 @@ Il gufo non provoca attacchi di opportunità quando vola oltre la portata di un 
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 1 danno tagliente**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
 ## Gufo gigante
 
-**tipo:** Celestiale  
+**gruppo:** Animali
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -15459,7 +15385,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m.
 **abilita:** Furtività +6, Percezione +6  
 **resistenze:** necrotico, radioso  
 **sensi:** Percezione passiva 16; scurovisione 36 m  
-**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano  
+**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano ma non li parla
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -15473,20 +15399,20 @@ Il gufo non provoca attacchi di opportunità quando vola oltre la portata di un 
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 7 (1d10 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni taglienti.
 
 **Incantesimi**  
-Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utilizzando Saggezza come caratteristica da incantatore: 1/giorno: Chiaroveggenza A volontà: Individuazione del bene e del male, individuazione del magico
+Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utilizzando Saggezza come caratteristica da incantatore: 
+**1/giorno:** Chiaroveggenza 
+**A volontà:** Individuazione del bene e del male, individuazione del magico
 
 ---
 
 ## Iena
 
-**gruppo:** duazione del magico  
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -15516,7 +15442,7 @@ Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utiliz
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 0 (PE 10; BC +2) 393 System Reference Document 5.2.1  
+**grado_sfida_raw:** 0 (PE 10; BC +2) 
 
 ### Tratti
 
@@ -15526,16 +15452,15 @@ La iena dispone di vantaggio a un tiro per colpire contro una creatura se almeno
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 3 (1d6) danni perforanti**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 3 (1d6) danni perforanti.
 
 ---
 
 ## Iena gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15570,10 +15495,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 10 (2d6 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni perforanti.
 
 ### Azioni bonus
 
@@ -15584,7 +15506,9 @@ Subito dopo aver inflitto danni a una creatura già sanguinante, la iena si muov
 
 ## Ippopotamo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -15624,22 +15548,18 @@ L'ippopotamo può trattenere il respiro per 10 minuti.
 ### Azioni
 
 **Multiattacco**  
-L'ippopotamo effettua due attacchi
+L'ippopotamo effettua due attacchi Morso.
 
 **Morso**  
-
-
-**Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 16 (2d10 + 5) danni perforanti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 16 (2d10 + 5) danni perforanti.
 
 ---
 
 ## Leone
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15682,16 +15602,10 @@ Il leone dispone di vantaggio a un tiro per colpire contro una creatura se almen
 ### Azioni
 
 **Multiattacco**  
-Il leone effettua due attacchi Squarcio.
-
-**Può sostituire un attacco con un utilizzo di Ruggito**  
-
+Il leone effettua due attacchi Squarcio. Può sostituire un attacco con un utilizzo di Ruggito.
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 7 (1d8 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni taglienti.
 
 **Ruggito**  
 Tiro salvezza su Saggezza: CD 11, una creatura entro 4,5 metri. Fallimento: il bersaglio è spaventato fino all'inizio del turno successivo del leone.
@@ -15700,7 +15614,9 @@ Tiro salvezza su Saggezza: CD 11, una creatura entro 4,5 metri. Fallimento: il b
 
 ## Lucertola
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -15739,16 +15655,15 @@ La lucertola può scalare le superfici difficili, compresi i soffitti, senza eff
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-394 System Reference Document 5.2.1
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Lucertola gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15787,16 +15702,15 @@ La lucertola può scalare le superfici difficili, compresi i soffitti, senza eff
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 6 (1d8 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perforanti.
 
 ---
 
 ## Lupo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15836,16 +15750,15 @@ Il lupo dispone di vantaggio ai tiri per colpire contro una creatura se almeno u
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 5 (1d6 + 2) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
 
 ---
 
 ## Lupo feroce
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -15885,16 +15798,15 @@ Il lupo dispone di vantaggio al tiro per colpire contro una creatura se almeno u
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 8 (1d10 + 3) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 8 (1d10 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 ---
 
 ## Mammut
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -15928,10 +15840,7 @@ Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono
 ### Azioni
 
 **Multiattacco**  
-Il mammut effettua due attacchi
-
-**Trafiggere**  
-
+Il mammut effettua due attacchi Trafiggere.
 
 **Trafiggere**  
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 18 (2d10 + 7) danni perforanti. Se il bersaglio è una creatura di taglia Enorme o inferiore e il mammut si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio cade a terra prono.
@@ -15945,7 +15854,9 @@ Tiro salvezza su Destrezza: CD 18, una creatura prona entro 1,5 metri. Falliment
 
 ## Mastino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15980,16 +15891,15 @@ Tiro salvezza su Destrezza: CD 18, una creatura prona entro 1,5 metri. Falliment
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 4 (1d6 + 1) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
 
 ---
 
 ## Millepiedi gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -16029,7 +15939,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 4 (1d4 + 2) danni perfor
 
 ## Mulo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -16068,16 +15980,15 @@ Per determinare la sua capacità di carico, il mulo è considerato come se fosse
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni contundenti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contundenti.
 
 ---
 
 ## Orca assassina
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16117,16 +16028,15 @@ L'orca può trattenere il respiro per 30 minuti.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 21 (5d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 21 (5d6 + 4) danni perforanti.
 
 ---
 
 ## Orso bruno
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16164,22 +16074,18 @@ Tiro per colpire in mischia: +6, portata 1,5 m.
 L'orso effettua un attacco Morso e un attacco Artiglio.
 
 **Artiglio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 5 (1d4 + 3) danni taglienti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni taglienti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 7 (1d8 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni perforanti.
 
 ---
 
 ## Orso nero
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16217,16 +16123,15 @@ Tiro per colpire in mischia: +5, portata 1,5 m.
 L'orso effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 5 (1d6 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni taglienti.
 
 ---
 
 ## Orso polare
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16265,16 +16170,15 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 L'orso effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 9 (1d8 + 5) danni taglienti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d8 + 5) danni taglienti.
 
 ---
 
 ## Pantera
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16309,10 +16213,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m.
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 6 (1d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni taglienti.
 
 ### Azioni bonus
 
@@ -16323,7 +16224,9 @@ La pantera effettua l'azione di Disimpegno o Nascondersi.
 
 ## Piovra
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16377,7 +16280,9 @@ Attivazione: una creatura termina il suo turno entro 1,5 metri dalla piovra sott
 
 ## Piovra gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16412,15 +16317,12 @@ Attivazione: una creatura termina il suo turno entro 1,5 metri dalla piovra sott
 ### Tratti
 
 **Respirare sott'acqua**  
-La piovra può respirare soltanto sott'acqua e può trattenere il respiro per 1 ora fuori dall'acqua. 397 System Reference Document 5.2.1
+La piovra può respirare soltanto sott'acqua e può trattenere il respiro per 1 ora fuori dall'acqua.
 
 ### Azioni
 
 **Tentacoli**  
-Tiro per colpire in mischia: +5, portata 3 m.
-
-**Colpito: 10 (2d6 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da tutti e otto i tentacoli. Mentre è afferrato, il bersaglio è anche trattenuto.
+Tiro per colpire in mischia: +5, portata 3 m. Colpito: 10 (2d6 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 13 per sfuggire) da tutti e otto i tentacoli. Mentre è afferrato, il bersaglio è anche trattenuto.
 
 ### Reazioni
 
@@ -16431,7 +16333,9 @@ Attivazione: la piovra subisce danni finché si trova sott'acqua. Esito: la piov
 
 ## Pipistrello
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16465,16 +16369,15 @@ Attivazione: la piovra subisce danni finché si trova sott'acqua. Esito: la piov
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Pipistrello gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16508,16 +16411,15 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 6 (1d6 + 3) danni perforanti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni perforanti.
 
 ---
 
 ## Piranha
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16556,16 +16458,15 @@ Il piranha può respirare soltanto sott'acqua.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Plesiosauro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16605,16 +16506,15 @@ Il plesiosauro può trattenere il respiro per 1 ora.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti.
 
 ---
 
 ## Pony
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -16648,16 +16548,15 @@ Tiro per colpire in mischia: +6, portata 3 m.
 ### Azioni
 
 **Zoccoli**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 4 (1d4 + 2) danni contundenti**  
-398 System Reference Document 5.2.1
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contundenti.
 
 ---
 
 ## Pteranodonte
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16697,16 +16596,15 @@ Lo pteranodonte non provoca attacchi di opportunità quando vola oltre la portat
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 6 (1d8 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perforanti.
 
 ---
 
 ## Ragno
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -16755,7 +16653,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante più 
 
 ## Ragno gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -16807,7 +16707,9 @@ Tiro salvezza su Destrezza: CD 13, una creatura che il ragno è in grado di vede
 
 ## Ragno lupo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16832,7 +16734,7 @@ Tiro salvezza su Destrezza: CD 13, una creatura che il ragno è in grado di vede
 - carisma: -3
 
 **abilita:** Furtività +7, Percezione +3  
-**sensi:** Percezione passiva 10; scurovisione 18 m, vista  
+**sensi:** Percezione passiva 10; scurovisione 18 m, vista cieca 3 m
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
@@ -16842,7 +16744,7 @@ Tiro salvezza su Destrezza: CD 13, una creatura che il ragno è in grado di vede
 ### Tratti
 
 **Movimenti del ragno**  
-Il ragno può scalare le superfici difficili, compresi i soffitti, senza effettuare una prova di caratteristica. 399 System Reference Document 5.2.1
+Il ragno può scalare le superfici difficili, compresi i soffitti, senza effettuare una prova di caratteristica.
 
 ### Azioni
 
@@ -16853,7 +16755,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 5 (1d4 + 3) danni perfor
 
 ## Rana
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16896,16 +16800,15 @@ La rana può compiere un salto in lungo di un massimo di 3 metri e uno in alto d
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Rana gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -16948,10 +16851,7 @@ La rana può compiere un salto in lungo di un massimo di 6 metri e uno in alto d
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 5 (1d6 + 2) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire).
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, è afferrato (CD 11 per sfuggire).
 
 **Inghiottire**  
 La rana inghiotte un bersaglio di taglia Piccola o inferiore che sta afferrando. La creatura inghiottita non è afferrata, ma è accecata e trattenuta, e beneficia di copertura totale contro attacchi e altri effetti al di fuori della rana. Mentre inghiotte il bersaglio, la rana non può usare Morso; se la rana muore, il bersaglio inghiottito non è più trattenuto e può fuggire dal cadavere usando 1,5 metri di movimento, uscendo prono. Alla fine del turno successivo della rana, il bersaglio inghiottito subisce 5 (2d4) danni da acido. Se i danni non uccidono il bersaglio, la rana lo vomita, facendolo uscire prono.
@@ -16960,7 +16860,9 @@ La rana inghiotte un bersaglio di taglia Piccola o inferiore che sta afferrando.
 
 ## Rinoceronte
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17000,7 +16902,9 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni perf
 
 ## Rospo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -17037,7 +16941,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni perf
 Il rospo può respirare in aria e in acqua.
 
 **Balzo da fermo**  
-Il rospo può compiere un salto in lungo di massimo 6 metri e uno in alto di massimo 3 metri, con o senza rincorsa. 400 System Reference Document 5.2.1
+Il rospo può compiere un salto in lungo di massimo 6 metri e uno in alto di massimo 3 metri, con o senza rincorsa.
 
 ### Azioni
 
@@ -17054,7 +16958,9 @@ La creatura inghiottita non è afferrata, ma è accecata e trattenuta, e benefic
 
 ## Scarabeo di fuoco gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17078,6 +16984,7 @@ La creatura inghiottita non è afferrata, ma è accecata e trattenuta, e benefic
 - saggezza: -2
 - carisma: -4
 
+**resistenze:** fuoco 
 **sensi:** Percezione passiva 8; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 0  
@@ -17093,16 +17000,15 @@ Lo scarabeo proietta luce intensa in un raggio di 3 metri e luce fioca per altri
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +1, portata 1,5 m
-
-**Colpito: 1 danno da fuoco**  
-
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno da fuoco.
 
 ---
 
 ## Sciacallo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17132,7 +17038,52 @@ Tiro per colpire in mischia: +1, portata 1,5 m
 **grado_sfida:** 0  
 **punti_esperienza:** PE 10  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 0 (PE 10; BC +2)  
+**grado_sfida_raw:** 0 (PE 10; BC +2)
+
+### Azioni
+
+**Morso**  
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perforanti.
+
+## Sciame di insetti
+
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
+**allineamento:** senza allineamento 
+
+**classe_armatura:** 11
+**iniziativa:** +1 (11)  
+**punti_ferita:** 19 (3d8 + 6) 
+**velocita:** 6 m, scalata o volo 6 m (a scelta del GM)
+
+**caratteristiche:**
+- forza: 3 (-4)
+- destrezza: 13 (+1)
+- costituzione: 14 (+2)
+- intelligenza: 1 (-5)
+- saggezza: 7 (-2)
+- carisma: 1 (-5)
+
+**tiri_salvezza_base:**
+- forza: -4
+- destrezza: +1
+- costituzione: +2
+- intelligenza: -5
+- saggezza: -2
+- carisma: -5
+
+**resistenze:** contundente, perforante, tagliente 
+**immunità_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
+**sensi:** Percezione passiva 8; vista cieca 9 m
+**lingue:** nessuna  
+**grado_sfida:** 1/2
+**punti_esperienza:** PE 100
+**bonus_competenza:** +2  
+**grado_sfida_raw:** 1/2 (PE 100; BC +2)
+
 
 ### Tratti
 
@@ -17142,19 +17093,49 @@ Se lo sciame ha una velocità di scalata, può scalare le superfici difficili, c
 **Sciame**  
 Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura sufficientemente larga da far passare un insetto Minuscolo. L'orda non può recuperare punti ferita o ottenere punti ferita temporanei.
 
-**Sciame**  
-Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura sufficientemente larga da far passare un pipistrello di taglia Minuscola. L'orda non può recuperare punti ferita o ottenere punti ferita temporanei. 401 System Reference Document 5.2.1
-
 ### Azioni
 
-**Morso**  
-Tiro per colpire in mischia: +1, portata 1,5 m.
-
-**Colpito: 1 (1d4 - 1) danni perforanti**  
-Sciame di insetti Sciame Medio di bestie Minuscole, senza allineamento CA 11 Iniziativa +1 (11) PF 19 (3d8 + 6) Velocità 6 m, scalata o volo 6 m (a scelta del GM) MOD SALV MOD SALV MOD SALV For 3 -4 -4 Des 13 +1 +1 Cos 14 +2 +2 Int 1 -5 -5 Sag 7 -2 -2 Car 1 -5 -5 Resistenze contundente, perforante, tagliente Immunità affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto Sensi Percezione passiva 8; vista cieca 9 m Lingue nessuna GS 1/2 (PE 100; BC +2)
-
 **Morsi**  
-Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. Sciame di pipistrelli Sciame Grande di bestie Minuscole, senza allineamento CA 12 Iniziativa +2 (12) PF 11 (2d10) Velocità 1,5 m, volo 9 m MOD SALV MOD SALV MOD SALV For 5 -3 -3 Des 15 +2 +2 Cos 10 +0 +0 Int 2 -4 -4 Sag 12 +1 +1 Car 4 -3 -3 Resistenze contundente, perforante, tagliente Immunità affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto Sensi Percezione passiva 11; vista cieca 18 m Lingue nessuna GS 1/4 (PE 50; BC +2)
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. 
+
+## Sciame di pipistrelli
+
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Grande
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
+**allineamento:** senza allineamento 
+
+**classe_armatura:** 12
+**iniziativa:** +2 (12)
+**punti_ferita:** 11 (2d10)
+**velocita:** 1,5 m, volo 9 m
+
+**caratteristiche:**
+- forza: 5 (-3)
+- destrezza: 15 (+2)
+- costituzione: 10 (+0)
+- intelligenza: 2 (-4)
+- saggezza: 12 (+1)
+- carisma: 4 (-3)
+
+**tiri_salvezza_base:**
+- forza: -3
+- destrezza: +2
+- costituzione: +0
+- intelligenza: -4
+- saggezza: +1
+- carisma: -3
+
+**resistenze:** contundente, perforante, tagliente 
+**immunità_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
+**sensi:** Percezione passiva 11; vista cieca 18 m
+**lingue:** nessuna  
+**grado_sfida:** 1/4
+**punti_esperienza:** PE 50
+**bonus_competenza:** +2
+**grado_sfida_raw:** 1/4 (PE 50; BC +2)
 
 **Morsi**  
 Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (2d4) danni perforanti, o 2 (1d4) danni perforanti se lo sciame è sanguinante.
@@ -17163,7 +17144,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (2d4) danni perforant
 
 ## Scorpione
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -17203,7 +17186,9 @@ Tiro per colpire in mischia: +2, portata 1,5 m Colpito: 1 danno perforante più 
 
 ## Scorpione gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 15  
@@ -17240,10 +17225,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m Colpito: 1 danno perforante più 
 Lo scorpione effettua due attacchi Artiglio e un attacco Pungiglione.
 
 **Artiglio**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 6 (1d6 + 3) danni contundenti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da una delle due chele.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 13 per sfuggire) da una delle due chele.
 
 **Pungiglione**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perforanti più 11 (2d10) danni da veleno.
@@ -17252,7 +17234,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 
 ## Serpente stritolatore
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17287,10 +17271,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 6 (1d8 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perforanti.
 
 **Stritolare**  
 Tiro salvezza su Forza: CD 12, una creatura di taglia Media o inferiore che il serpente è in grado di vedere entro 1,5 metri. Fallimento: 7 (3d4) danni contundenti e il bersaglio viene afferrato (CD 12 per sfuggire).
@@ -17299,7 +17280,9 @@ Tiro salvezza su Forza: CD 12, una creatura di taglia Media o inferiore che il s
 
 ## Serpente stritolatore gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17337,10 +17320,7 @@ Tiro salvezza su Forza: CD 12, una creatura di taglia Media o inferiore che il s
 Il serpente effettua un attacco Morso e usa Stritolare.
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti.
 
 **Stritolare**  
 Tiro salvezza su Forza: CD 14, una creatura di taglia Grande o inferiore che il serpente è in grado di vedere entro 3 metri. Fallimento: 13 (2d8 + 4) danni contundenti, e il bersaglio è afferrato (CD 14 per sfuggire).
@@ -17349,7 +17329,9 @@ Tiro salvezza su Forza: CD 14, una creatura di taglia Grande o inferiore che il 
 
 ## Serpente velenoso
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17389,7 +17371,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 4 (1d4 + 2) danni perfor
 
 ## Serpente velenoso gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -17430,7 +17414,9 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 6 (1d4 + 4) danni perfora
 
 ## Serpente volante
 
-**tipo:** Mostruosità  
+**gruppo:** Animali
+**tipo:** Mostruosità
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -17475,7 +17461,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante più
 
 ## Squalo cacciatore
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17515,16 +17503,15 @@ Lo squalo può respirare soltanto sott'acqua.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m.
-
-**Colpito: 14 (3d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m. Colpito: 14 (3d6 + 4) danni perforanti.
 
 ---
 
 ## Squalo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17567,16 +17554,15 @@ Lo squalo può respirare soltanto sott'acqua.
 Lo squalo effettua due attacchi Morso.
 
 **Morso**  
-Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m.
-
-**Colpito: 22 (3d10 + 6) danni perforanti**  
-
+Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m. Colpito: 22 (3d10 + 6) danni perforanti.
 
 ---
 
 ## Squalo tropicale
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17606,7 +17592,7 @@ Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i pu
 **grado_sfida:** 1/2  
 **punti_esperienza:** PE 100  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 1/2 (PE 100; BC +2) 403 System Reference Document 5.2.1  
+**grado_sfida_raw:** 1/2 (PE 100; BC +2)
 
 ### Tratti
 
@@ -17619,16 +17605,17 @@ Lo squalo può respirare soltanto sott'acqua.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m
-
-**Colpito: 7 (2d4 + 2) danni perforanti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perforanti.
 
 ---
 
 ## Stormo di corvi
 
-**tipo:** Sciame  
+**gruppo:** Animali
+**tipo:** Sciame
+**dimensione:** Medio
+**sottotipo:** di bestie
+**sottodimensione:** Minuscole
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -17654,7 +17641,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m
 
 **abilita:** Percezione +5  
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato,  
+**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 15  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -17673,16 +17660,15 @@ Lo stormo può occupare lo spazio di un'altra creatura e viceversa, e può muove
 Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti, o 2 (1d4) danni perforanti se lo stormo è sanguinante.
 
 **Cacofonia (ricarica 6)**  
-Tiro salvezza su Saggezza:
-
-**CD 10, una creatura nello spazio dello stormo**  
-Fallimento: il bersaglio è assordato fino all'inizio del turno successivo dello stormo. Quando è assordato, il bersaglio subisce svantaggio alle prove di caratteristica e ai tiri per colpire.
+Tiro salvezza su Saggezza: CD 10, una creatura nello spazio dello stormo. Fallimento: il bersaglio è assordato fino all'inizio del turno successivo dello stormo. Quando è assordato, il bersaglio subisce svantaggio alle prove di caratteristica e ai tiri per colpire.
 
 ---
 
 ## Tasso
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -17718,16 +17704,15 @@ Fallimento: il bersaglio è assordato fino all'inizio del turno successivo dello
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Tasso gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17763,16 +17748,15 @@ Tiro per colpire in mischia: +2, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 6 (2d4 + 1) danni perforanti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni perforanti.
 
 ---
 
 ## Tigre
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17807,21 +17791,20 @@ Tiro per colpire in mischia: +3, portata 1,5 m.
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 10 (2d6 + 3) danni taglienti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni taglienti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 ### Azioni bonus
 
 **Fuga agile**  
-La tigre effettua l'azione di Disimpegno o Nascondersi. 404 System Reference Document 5.2.1
+La tigre effettua l'azione di Disimpegno o Nascondersi.
 
 ---
 
 ## Tigre dai denti a sciabola
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17864,10 +17847,7 @@ Dopo una rincorsa di 3 metri, la tigre può effettuare un salto in lungo di un m
 La tigre effettua due attacchi Squarcio.
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 11 (2d6 + 4) danni taglienti**  
-
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni taglienti.
 
 ### Azioni bonus
 
@@ -17878,7 +17858,9 @@ La tigre effettua l'azione di Disimpegno o Nascondersi.
 
 ## Tirannosauro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17916,22 +17898,18 @@ La tigre effettua l'azione di Disimpegno o Nascondersi.
 Il tirannosauro effettua un attacco Morso e un attacco Coda.
 
 **Coda**  
-Tiro per colpire in mischia: +10, portata 4,5 m.
-
-**Colpito: 25 (4d8 + 7) danni contundenti**  
-Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +10, portata 4,5 m. Colpito: 25 (4d8 + 7) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
 
 **Morso**  
-Tiro per colpire in mischia: +10, portata 3 m.
-
-**Colpito: 33 (4d12 + 7) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 17 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del tirannosauro.
+Tiro per colpire in mischia: +10, portata 3 m. Colpito: 33 (4d12 + 7) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrato (CD 17 per sfuggire). Mentre è afferrato, il bersaglio è trattenuto e non può essere bersagliato dalla Coda del tirannosauro.
 
 ---
 
 ## Topo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 10  
@@ -17971,16 +17949,15 @@ Il topo non provoca attacchi di opportunità quando esce dalla portata di un nem
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Topo gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -18020,16 +17997,15 @@ Il topo dispone di vantaggio a un tiro per colpire contro una creatura se almeno
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 5 (1d4 + 3) danni perforanti**  
-405 System Reference Document 5.2.1
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perforanti.
 
 ---
 
 ## Triceratopo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -18063,10 +18039,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m.
 ### Azioni
 
 **Multiattacco**  
-Il triceratopo effettua due attacchi
-
-**Trafiggere**  
-
+Il triceratopo effettua due attacchi Trafiggere.
 
 **Trafiggere**  
 Tiro per colpire in mischia: +9, portata 1,5 m. Colpito: 19 (2d12 + 6) danni perforanti. Se il bersaglio è una creatura di taglia Enorme o inferiore e il triceratopo si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 9 (2d8) danni perforanti extra e cade a terra prono.
@@ -18075,7 +18048,9 @@ Tiro per colpire in mischia: +9, portata 1,5 m. Colpito: 19 (2d12 + 6) danni per
 
 ## Vespa gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
