@@ -17666,7 +17666,9 @@ Tiro salvezza su Saggezza: CD 10, una creatura nello spazio dello stormo. Fallim
 
 ## Tasso
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -17702,16 +17704,15 @@ Tiro salvezza su Saggezza: CD 10, una creatura nello spazio dello stormo. Fallim
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +2, portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
 ## Tasso gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -17747,10 +17748,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 6 (2d4 + 1) danni perforanti**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni perforanti.
 
 ---
 
