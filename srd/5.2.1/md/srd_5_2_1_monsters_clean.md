@@ -16417,7 +16417,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni perfo
 
 ## Piranha
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16456,10 +16458,7 @@ Il piranha può respirare soltanto sott'acqua.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m.
-
-**Colpito: 1 danno perforante**  
-
+Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i punti ferita), portata 1,5 m. Colpito: 1 danno perforante.
 
 ---
 
