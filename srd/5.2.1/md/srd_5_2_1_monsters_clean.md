@@ -12221,7 +12221,8 @@ La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna
 
 ## Tarrasque
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (titano)
+**dimensione:** Mastodonica
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 25  
@@ -12248,7 +12249,7 @@ La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna
 **abilita:** Percezione +9  
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** fuoco, veleno  
-**immunita_condizione:** affascinato, assordato,  
+**immunita_condizione:** affascinato, assordato, avvelenato, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista cieca 36 m  
 **lingue:** nessuna  
 **grado_sfida:** 30  
@@ -12276,10 +12277,7 @@ Se il tarrasque fallisce un tiro salvezza, può scegliere di superarlo comunque.
 Il tarrasque effettua un attacco Morso e altri tre attacchi, usando Artiglio o Coda in qualsiasi combinazione.
 
 **Artiglio**  
-Tiro per colpire in mischia: +19, portata 4,5 m.
-
-**Colpito: 28 (4d8 + 10) danni taglienti**  
-
+Tiro per colpire in mischia: +19, portata 4,5 m. Colpito: 28 (4d8 + 10) danni taglienti.
 
 **Coda**  
 Tiro per colpire in mischia: +19, portata 9 m. Colpito: 23 (3d8 + 10) danni contundenti. Se il bersaglio è una creatura di taglia Enorme o inferiore, cade a terra prono.
@@ -12293,7 +12291,7 @@ Tiro salvezza su Costituzione: CD 27, ogni creatura e oggetto che non sia indoss
 ### Azioni bonus
 
 **Inghiottire**  
-Tiro salvezza su Forza: CD 27, una creatura di taglia Grande o inferiore afferrata dal tarrasque (può inghiottire fino a sei creature per volta). Fallimento: il bersaglio viene inghiottito e non è più afferrato. Una creatura inghiottita è accecata e trattenuta e non può teletrasportarsi, ha copertura totale contro attacchi e altri effetti al di fuori del tarrasque e subisce 56 (16d6) danni da acido all'inizio di ogni turno del tarrasque. Se il tarrasque subisce 60 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 20 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 3 metri dal tarrasque. Se il tarrasque muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona. 376 System Reference Document 5.2.1
+Tiro salvezza su Forza: CD 27, una creatura di taglia Grande o inferiore afferrata dal tarrasque (può inghiottire fino a sei creature per volta). Fallimento: il bersaglio viene inghiottito e non è più afferrato. Una creatura inghiottita è accecata e trattenuta e non può teletrasportarsi, ha copertura totale contro attacchi e altri effetti al di fuori del tarrasque e subisce 56 (16d6) danni da acido all'inizio di ogni turno del tarrasque. Se il tarrasque subisce 60 o più danni in un singolo turno da una creatura al suo interno, deve superare un tiro salvezza su Costituzione con CD 20 alla fine di quel turno, altrimenti rigurgita tutte le creature inghiottite, ognuna delle quali cade a terra prona in uno spazio entro 3 metri dal tarrasque. Se il tarrasque muore, qualsiasi creatura inghiottita non è più trattenuta e può fuggire dal cadavere usando 6 metri di movimento, uscendo prona.
 
 ### Azioni leggendarie
 
@@ -12301,13 +12299,10 @@ Tiro salvezza su Forza: CD 27, una creatura di taglia Grande o inferiore afferra
 Subito dopo il turno di un'altra creatura, il tarrasque può consumare un utilizzo per effettuare una delle seguenti azioni. Il tarrasque recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Assalto brutale**  
-Il tarrasque si muove fino a metà della sua velocità ed effettua un attacco Artiglio e un attacco
-
-**Coda**  
-
+Il tarrasque si muove fino a metà della sua velocità ed effettua un attacco Artiglio e un attacco Coda.
 
 **Movimento sismico**  
-Il tarrasque si muove fino alla sua velocità massima. Alla fine di questo movimento, crea un'onda d'urto istantanea in un'emanazione di 18 metri di cui il tarrasque è il punto di origine. Le creature in quell'area perdono la concentrazione e, se sono di taglia Media o inferiore, cadono a terra prone. Il tarrasque non può ripetere quest'azione fino all'inizio del proprio turno successivo. Testuggine dragona
+Il tarrasque si muove fino alla sua velocità massima. Alla fine di questo movimento, crea un'onda d'urto istantanea in un'emanazione di 18 metri di cui il tarrasque è il punto di origine. Le creature in quell'area perdono la concentrazione e, se sono di taglia Media o inferiore, cadono a terra prone. Il tarrasque non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ---
 

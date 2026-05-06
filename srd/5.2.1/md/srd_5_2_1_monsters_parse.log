@@ -225,8 +225,8 @@ Totale mostri estratti: 288
 #DONE Spia (pagine 81-82): header_continuation_o_parse_da_verificare - corta
 #DONE Succube (pagine 82-82): header_continuation_o_parse_da_verificare - +5, Persuasione +9
 #DONE Succube (pagine 82-82): mutaforma
-- Tarrasque (pagine 82-83): header_continuation_o_parse_da_verificare - avvelenato, paralizzato, spaventato
-- Tarrasque (pagine 82-83): azioni_leggendarie
+#DONE Tarrasque (pagine 82-83): header_continuation_o_parse_da_verificare - avvelenato, paralizzato, spaventato
+#DONE Tarrasque (pagine 82-83): azioni_leggendarie
 - Tigre mannara (pagine 84-84): mutaforma
 - Topo mannaro (pagine 84-84): mutaforma
 - Unicorno (pagine 86-86): azioni_leggendarie
