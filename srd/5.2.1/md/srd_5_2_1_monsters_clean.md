@@ -2846,7 +2846,7 @@ Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri
 **punti_ferita:** 212 (17d12 + 102)
 **velocita:** 12 m, scavo 9 m, volo 24 m
 
-**caratteristiche:**
+*caratteristiche:**
 - forza: 25 (+7)
 - destrezza: 10 (+0)
 - costituzione: 23 (+6)
@@ -6312,7 +6312,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perfor
 - saggezza: +2
 - carisma: +5
 
-**abilità:** Atletica +11, Percezione +6
+**abilita:** Atletica +11, Percezione +6
 **immunita_danni:** fuoco  
 **sensi:** Percezione passiva 16
 **lingue:** Gigante  
@@ -6466,7 +6466,7 @@ Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni c
 - saggezza: +7
 - carisma: +3
 
-**abilità:** Intuizione +7, Percezione +11
+**abilita:** Intuizione +7, Percezione +11
 **sensi:** Percezione passiva 21
 **lingue:** Comune, Gigante  
 **grado_sfida:** 9
@@ -6525,7 +6525,7 @@ Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristi
 - saggezza: +4
 - carisma: -1
 
-**abilità:** Atletica +12, Furtività +5, Percezione +4
+**abilita:** Atletica +12, Furtività +5, Percezione +4
 **sensi:** Percezione passiva 14; scurovisione 18 m
 **lingue:** Gigante
 **grado_sfida:** 7
@@ -6579,7 +6579,7 @@ Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli 
 - saggezza: +10
 - carisma: +9
 
-**abilità:** Arcano +8, Atletica +14, Percezione +10, Storia +8
+**abilita:** Arcano +8, Atletica +14, Percezione +10, Storia +8
 **resistenze:** freddo
 **immunità_danni:** fulmine, tuono
 **sensi:** Percezione passiva 20; scurovisione 36 m, vista pura 9 m
