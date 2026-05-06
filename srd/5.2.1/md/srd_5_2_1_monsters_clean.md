@@ -12424,7 +12424,8 @@ La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in 
 
 ## Topo mannaro
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità (licantropo)
+**dimensione:** Media o Piccola
 **allineamento:** legale malvagio  
 
 **classe_armatura:** 13  
@@ -12463,24 +12464,18 @@ La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in 
 Il topo mannaro effettua due attacchi, usando Graffio o Balestra a mano in qualsiasi combinazione. Può sostituire un attacco con un attacco Morso.
 
 **Graffio**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 6 (1d6 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni taglienti.
 
 **Morso (solo in forma di topo o ibrida)**  
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (2d4 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 11. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un topo mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del topo mannaro per 24 ore.
 
 **Balestra a mano (solo in forma umanoide o ibrida)**  
-
-
-**Tiro per colpire a distanza: +5, portata 9/36 m**  
-Colpito: 6 (1d6 + 3) danni perforanti.
+Tiro per colpire a distanza: +5, portata 9/36 m. Colpito: 6 (1d6 + 3) danni perforanti.
 
 ### Azioni bonus
 
 **Mutaforma**  
-Il topo mannaro si trasforma in un ibrido umanoide-topo di taglia Media o in un topo di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato. Treant
+Il topo mannaro si trasforma in un ibrido umanoide-topo di taglia Media o in un topo di taglia Piccola, altrimenti torna alla sua forma originale di umanoide. Le sue statistiche di gioco, a eccezione della taglia, restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
 
 ---
 
