@@ -13985,7 +13985,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 9 (2d6 + 2) danni perfo
 
 ## Babbuino
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Piccola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -14024,10 +14026,7 @@ Il babbuino dispone di vantaggio a un tiro per colpire contro una creatura se al
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +1, portata 1,5 m
-
-**Colpito: 1 (1d4 - 1) danni perforanti**  
-
+Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perforanti.
 
 ---
 
