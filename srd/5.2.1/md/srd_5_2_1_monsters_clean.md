@@ -15708,7 +15708,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perfo
 
 ## Lupo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15748,16 +15750,15 @@ Il lupo dispone di vantaggio ai tiri per colpire contro una creatura se almeno u
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 5 (1d6 + 2) danni perforanti**  
-Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore, cade a terra prono.
 
 ---
 
 ## Lupo feroce
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -15797,10 +15798,7 @@ Il lupo dispone di vantaggio al tiro per colpire contro una creatura se almeno u
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 8 (1d10 + 3) danni perforanti**  
-Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 8 (1d10 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono.
 
 ---
 
