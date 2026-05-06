@@ -15506,7 +15506,9 @@ Subito dopo aver inflitto danni a una creatura già sanguinante, la iena si muov
 
 ## Ippopotamo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -15546,22 +15548,18 @@ L'ippopotamo può trattenere il respiro per 10 minuti.
 ### Azioni
 
 **Multiattacco**  
-L'ippopotamo effettua due attacchi
+L'ippopotamo effettua due attacchi Morso.
 
 **Morso**  
-
-
-**Morso**  
-Tiro per colpire in mischia: +7, portata 1,5 m.
-
-**Colpito: 16 (2d10 + 5) danni perforanti**  
-
+Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 16 (2d10 + 5) danni perforanti.
 
 ---
 
 ## Leone
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15604,16 +15602,10 @@ Il leone dispone di vantaggio a un tiro per colpire contro una creatura se almen
 ### Azioni
 
 **Multiattacco**  
-Il leone effettua due attacchi Squarcio.
-
-**Può sostituire un attacco con un utilizzo di Ruggito**  
-
+Il leone effettua due attacchi Squarcio. Può sostituire un attacco con un utilizzo di Ruggito.
 
 **Squarcio**  
-Tiro per colpire in mischia: +5, portata 1,5 m.
-
-**Colpito: 7 (1d8 + 3) danni taglienti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni taglienti.
 
 **Ruggito**  
 Tiro salvezza su Saggezza: CD 11, una creatura entro 4,5 metri. Fallimento: il bersaglio è spaventato fino all'inizio del turno successivo del leone.
