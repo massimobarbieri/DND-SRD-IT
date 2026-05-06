@@ -15061,7 +15061,9 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni perfo
 
 ## Gatto
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15101,16 +15103,15 @@ La distanza dei salti del gatto è determinata dalla sua Destrezza piuttosto che
 ### Azioni
 
 **Graffio**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 1 danno tagliente**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
 ## Gorilla
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15148,10 +15149,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m.
 Il gorilla effettua due attacchi Pugno.
 
 **Pugno**  
-Tiro per colpire in mischia: +5, portata 1,5 m
-
-**Colpito: 5 (1d4 + 3) danni contundenti**  
-
+Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni contundenti.
 
 **Roccia (ricarica 6)**  
 Tiro per colpire a distanza: +5, gittata 7,5/15 m Colpito: 10 (2d6 + 3) danni contundenti.
@@ -15160,7 +15158,9 @@ Tiro per colpire a distanza: +5, gittata 7,5/15 m Colpito: 10 (2d6 + 3) danni co
 
 ## Gorilla gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 12  
@@ -15198,10 +15198,7 @@ Tiro per colpire a distanza: +5, gittata 7,5/15 m Colpito: 10 (2d6 + 3) danni co
 Il gorilla effettua due attacchi Pugno.
 
 **Pugno**  
-Tiro per colpire in mischia: +9, portata 3 m.
-
-**Colpito: 22 (3d10 + 6) danni contundenti**  
-
+Tiro per colpire in mischia: +9, portata 3 m. Colpito: 22 (3d10 + 6) danni contundenti.
 
 **Lancio di massi (ricarica 6)**  
 Il gorilla scaglia un masso verso un punto che è in grado di vedere entro 27 metri. Tiro salvezza su Destrezza: CD 17, tutte le creature in una sfera dal raggio di 1,5 metri centrata su quel punto. Fallimento: 24 (7d6) danni contundenti. Se il bersaglio è una creatura di taglia Grande o inferiore, cade a terra prono. Successo: danni dimezzati.
@@ -15209,7 +15206,7 @@ Il gorilla scaglia un masso verso un punto che è in grado di vedere entro 27 me
 ### Azioni bonus
 
 **Balzo**  
-Il gorilla salta fino a 9 metri usando 3 metri di movimento. 392 System Reference Document 5.2.1
+Il gorilla salta fino a 9 metri usando 3 metri di movimento.
 
 ---
 
