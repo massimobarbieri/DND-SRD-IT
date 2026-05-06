@@ -12645,7 +12645,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni tagli
 
 ## Uccello stigeo
 
-**tipo:** Mostruosità  
+**tipo:** Mostruosità
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -12679,7 +12680,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni tagli
 ### Azioni
 
 **Proboscide**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perforanti, e l'uccello stigeo si avvinghia al bersaglio. Finché l'uccello stigeo è attaccato in questo modo non può effettuare attacchi Proboscide, e il bersaglio subisce 5 (2d4) danni necrotici all'inizio di ogni turno dell'uccello stigeo. L'uccello stigeo può staccarsi da solo utilizzando 1,5 metri del suo movimento. Il bersaglio o una creatura entro 1,5 metri da esso può staccare l'uccello stigeo con un'azione. Unicorno
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perforanti, e l'uccello stigeo si avvinghia al bersaglio. Finché l'uccello stigeo è attaccato in questo modo non può effettuare attacchi Proboscide, e il bersaglio subisce 5 (2d4) danni necrotici all'inizio di ogni turno dell'uccello stigeo. L'uccello stigeo può staccarsi da solo utilizzando 1,5 metri del suo movimento. Il bersaglio o una creatura entro 1,5 metri da esso può staccare l'uccello stigeo con un'azione.
 
 ---
 
