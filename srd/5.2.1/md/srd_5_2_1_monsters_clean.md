@@ -695,7 +695,7 @@ Il behir effettua un attacco Morso e usa Stritolare.
 Tiro per colpire in mischia: +10, portata 3 m. Colpito: 19 (2d12 + 6) danni perforanti più 11 (2d10) danni da fulmine.
 
 **Soffio di fulmini (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 298 System Reference Document 5.2.1 27 metri e larga 1,5 metri. Fallimento: 66 (12d10) danni da fulmine. Successo: danni dimezzati.
+Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 66 (12d10) danni da fulmine. Successo: danni dimezzati.
 
 **Stritolare**  
 Tiro salvezza su Forza: CD 18, una creatura di taglia Grande o inferiore che il behir è in grado di vedere entro 1,5 metri. Fallimento: 28 (5d8 + 6) danni contundenti. Il bersaglio è afferrato (CD 16 per sfuggire) ed è trattenuto finché la presa perdura.
@@ -1501,7 +1501,7 @@ Tiro per colpire in mischia o a distanza: +5, portata 1,5 m o gittata 9/36 m. Co
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 12 (2d8 + 3) danni perforanti. Se il bersaglio è un umanoide, subisce il seguente effetto. Tiro salvezza su Costituzione: CD 12. Fallimento: il bersaglio è maledetto. Se il bersaglio scende a 0 punti ferita, diventa un cinghiale mannaro sotto il controllo del GM e ha 10 punti ferita. Successo: il bersaglio è immune alla maledizione del cinghiale mannaro per 24 ore.
 
 **Zanne (solo in forma di cinghiale o ibrida)**  
-Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore e il cinghiale mannaro si è mosso di 6 metri o più in linea retta verso di esso 303 System Reference Document 5.2.1 subito prima del colpo, il bersaglio subisce 7 (2d6) danni perforanti extra e cade a terra prono.
+Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura di taglia Media o inferiore e il cinghiale mannaro si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 7 (2d6) danni perforanti extra e cade a terra prono.
 
 ### Azioni bonus
 
@@ -1653,7 +1653,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (1d12 + 5) danni per
 Il couatl lancia uno dei seguenti incantesimi, senza bisogno di componenti, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15): 1/giorno ciascuno: creare cibo e acqua, ristorare superiore, scrutare, sogno, sonno A volontà: individuazione dei pensieri, individuazione del bene e del male, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Stritolare**  
-Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore che il couatl è in grado di vedere entro 1,5 metri. Fallimento: 8 (1d6 + 5) danni 304 System Reference Document 5.2.1 contundenti. Il bersaglio è afferrato (CD 13 per sfuggire) ed è trattenuto finché la presa perdura.
+Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore che il couatl è in grado di vedere entro 1,5 metri. Fallimento: 8 (1d6 + 5) danni contundenti. Il bersaglio è afferrato (CD 13 per sfuggire) ed è trattenuto finché la presa perdura.
 
 ### Azioni bonus
 
@@ -1803,7 +1803,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 3 (1d4 + 1) danni taglie
 Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 6 (1d8 + 2) danni taglienti più 7 (2d6) danni necrotici.
 
 **Incantesimi**  
-Il cultista lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da 305 System Reference Document 5.2.1 incantatore (CD del tiro salvezza sull'incantesimo 12, +4 al tiro per colpire degli attacchi con incantesimo): 1/giorno: Blocca persone 2/giorno: Comando A volontà: Luce, taumaturgia
+Il cultista lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 12, +4 al tiro per colpire degli attacchi con incantesimo): 1/giorno: Blocca persone 2/giorno: Comando A volontà: Luce, taumaturgia
 
 ### Azioni bonus
 
@@ -4526,7 +4526,7 @@ Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materi
 **A volontà:** Freccia acida (di 4º livello), individuazione del magico, paura
 
 **Soffio di acido (ricarica 5-6)**  
-Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 67 (15d8) danni da acido. Successo: danni dimezzati. 325 System Reference Document 5.2.1
+Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 67 (15d8) danni da acido. Successo: danni dimezzati.
 
 ### Azioni leggendarie
 
@@ -5149,7 +5149,7 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 8 (1d8 + 4) danni taglien
 Tiro per colpire a distanza: +6, gittata 18 m. Colpito: 7 (1d6 + 4) danni perforanti.
 
 **Incantesimi**  
-La driade lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, 329 System Reference Document 5.2.1 utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 1/giorno ciascuno: Intralciare, passare senza tracce A volontà: Amicizia con gli animali, artificio druidico, charme sui mostri (dura 24 ore; termina in anticipo se la driade lancia nuovamente l'incantesimo)
+La driade lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 1/giorno ciascuno: Intralciare, passare senza tracce A volontà: Amicizia con gli animali, artificio druidico, charme sui mostri (dura 24 ore; termina in anticipo se la driade lancia nuovamente l'incantesimo)
 
 ### Azioni bonus
 
@@ -9844,7 +9844,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di ve
 **grado_sfida:** 8  
 **punti_esperienza:** PE 3.900  
 **bonus_competenza:** +3  
-**grado_sfida_raw:** 8 (PE 3.900; BC +3) 360 System Reference Document 5.2.1  
+**grado_sfida_raw:** 8 (PE 3.900; BC +3)  
 
 ### Tratti
 
@@ -17360,7 +17360,7 @@ Tiro salvezza su Forza: CD 14, una creatura di taglia Grande o inferiore che il 
 **grado_sfida:** 1/8  
 **punti_esperienza:** PE 25  
 **bonus_competenza:** +2  
-**grado_sfida_raw:** 1/8 (PE 25; BC +2) 402 System Reference Document 5.2.1  
+**grado_sfida_raw:** 1/8 (PE 25; BC +2)  
 
 ### Azioni
 
