@@ -12596,7 +12596,8 @@ Il troll si muove fino a metà della sua velocità in linea retta verso un nemic
 
 ## Arto di troll
 
-**tipo:** Gigante  
+**tipo:** Gigante
+**dimensione:** Piccolo
 **allineamento:** caotico malvagio  
 
 **classe_armatura:** 13  
@@ -12638,10 +12639,7 @@ L'arto recupera 5 punti ferita all'inizio di ogni suo turno. Se l'arto subisce d
 ### Azioni
 
 **Squarcio**  
-Tiro per colpire in mischia: +6, portata 1,5 m.
-
-**Colpito: 9 (2d4 + 4) danni taglienti**  
-Uccello stigeo
+Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni taglienti.
 
 ---
 
