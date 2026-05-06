@@ -18003,7 +18003,9 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perfo
 
 ## Triceratopo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Enorme
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 14  
@@ -18037,10 +18039,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perfo
 ### Azioni
 
 **Multiattacco**  
-Il triceratopo effettua due attacchi
-
-**Trafiggere**  
-
+Il triceratopo effettua due attacchi Trafiggere.
 
 **Trafiggere**  
 Tiro per colpire in mischia: +9, portata 1,5 m. Colpito: 19 (2d12 + 6) danni perforanti. Se il bersaglio è una creatura di taglia Enorme o inferiore e il triceratopo si è mosso di 6 metri o più in linea retta verso di esso subito prima del colpo, il bersaglio subisce 9 (2d8) danni perforanti extra e cade a terra prono.
