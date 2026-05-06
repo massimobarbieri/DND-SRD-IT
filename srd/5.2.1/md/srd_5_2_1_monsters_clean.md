@@ -16464,7 +16464,9 @@ Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i pu
 
 ## Plesiosauro
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia (dinosauro)
+**dimensione:** Grande
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
@@ -16504,10 +16506,7 @@ Il plesiosauro può trattenere il respiro per 1 ora.
 ### Azioni
 
 **Morso**  
-Tiro per colpire in mischia: +6, portata 3 m.
-
-**Colpito: 11 (2d6 + 4) danni perforanti**  
-
+Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni perforanti.
 
 ---
 
