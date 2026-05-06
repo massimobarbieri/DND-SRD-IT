@@ -12481,7 +12481,8 @@ Il topo mannaro si trasforma in un ibrido umanoide-topo di taglia Media o in un 
 
 ## Treant
 
-**tipo:** Vegetale  
+**tipo:** Vegetale
+**dimensione:** Enorme
 **allineamento:** caotico buono  
 
 **classe_armatura:** 16  
@@ -12531,7 +12532,7 @@ Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 16 (3d6 + 6) danni con
 Tiro per colpire a distanza: +10, gittata 54 m. Colpito: 28 (4d10 + 6) danni perforanti.
 
 **Animare alberi (1/giorno)**  
-Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio di 18 metri. Gli alberi usano la scheda delle statistiche del treant, fatta eccezione per i punteggi di Intelligenza e Carisma pari a 1; inoltre, non possono parlare e non possiedono quest'azione. L'albero svolge il suo turno subito dopo il treant, condivide lo stesso punteggio di iniziativa e gli obbedisce. Un albero resta animato per 1 giorno o fino alla morte, finché non muore il treant o finché non si trova a più di 36 metri da esso. Dopodiché, qualora possibile, l'albero mette radici. Troll
+Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio di 18 metri. Gli alberi usano la scheda delle statistiche del treant, fatta eccezione per i punteggi di Intelligenza e Carisma pari a 1; inoltre, non possono parlare e non possiedono quest'azione. L'albero svolge il suo turno subito dopo il treant, condivide lo stesso punteggio di iniziativa e gli obbedisce. Un albero resta animato per 1 giorno o fino alla morte, finché non muore il treant o finché non si trova a più di 36 metri da esso. Dopodiché, qualora possibile, l'albero mette radici.
 
 ---
 
