@@ -213,9 +213,9 @@ Totale mostri estratti: 288
 #DONE Sfinge del valore (pagine 80-80): lair_variant_in_gs
 #DONE Sfinge del valore (pagine 80-80): azioni_leggendarie
 #DONE Sfinge del valore (pagine 80-80): incantesimi_interni
-- Solar (pagine 80-81): header_continuation_o_parse_da_verificare - indebolimento, spaventato
-- Solar (pagine 80-81): azioni_leggendarie
-- Solar (pagine 80-81): incantesimi_interni
+#DONE Solar (pagine 80-81): header_continuation_o_parse_da_verificare - indebolimento, spaventato
+#DONE Solar (pagine 80-81): azioni_leggendarie
+#DONE Solar (pagine 80-81): incantesimi_interni
 - Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - 374 System Reference Document 5.2.1
 - Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - perforante, tagliente, tuono
 - Spettro (pagine 81-81): header_continuation_o_parse_da_verificare - avvelenato, indebolimento, paralizzato, pietrificato,
