@@ -14440,7 +14440,9 @@ Finché è sott'acqua, il cavalluccio marino può muoversi fino alla metà della
 
 ## Cinghiale
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Media  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -14485,7 +14487,9 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 4 (1d6 + 1) danni perfor
 
 ## Cinghiale gigante
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Grande  
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 13  
