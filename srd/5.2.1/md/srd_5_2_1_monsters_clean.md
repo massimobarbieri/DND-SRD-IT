@@ -15308,7 +15308,9 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni contu
 
 ## Gufo
 
-**tipo:** Bestia  
+**gruppo:** Animali
+**tipo:** Bestia
+**dimensione:** Minuscola
 **allineamento:** senza allineamento  
 
 **classe_armatura:** 11  
@@ -15348,16 +15350,15 @@ Il gufo non provoca attacchi di opportunità quando vola oltre la portata di un 
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +3, portata 1,5 m.
-
-**Colpito: 1 danno tagliente**  
-
+Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 1 danno tagliente.
 
 ---
 
 ## Gufo gigante
 
-**tipo:** Celestiale  
+**gruppo:** Animali
+**tipo:** Celestiale
+**dimensione:** Grande
 **allineamento:** neutrale  
 
 **classe_armatura:** 12  
@@ -15384,7 +15385,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m.
 **abilita:** Furtività +6, Percezione +6  
 **resistenze:** necrotico, radioso  
 **sensi:** Percezione passiva 16; scurovisione 36 m  
-**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano  
+**lingue:** Celestiale; capisce il Comune, l'Elfico e il Silvano ma non li parla
 **grado_sfida:** 1/4  
 **punti_esperienza:** PE 50  
 **bonus_competenza:** +2  
@@ -15398,13 +15399,12 @@ Il gufo non provoca attacchi di opportunità quando vola oltre la portata di un 
 ### Azioni
 
 **Speroni**  
-Tiro per colpire in mischia: +4, portata 1,5 m.
-
-**Colpito: 7 (1d10 + 2) danni taglienti**  
-
+Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni taglienti.
 
 **Incantesimi**  
-Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utilizzando Saggezza come caratteristica da incantatore: 1/giorno: Chiaroveggenza A volontà: Individuazione del bene e del male, individuazione del magico
+Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utilizzando Saggezza come caratteristica da incantatore: 
+**1/giorno:** Chiaroveggenza 
+**A volontà:** Individuazione del bene e del male, individuazione del magico
 
 ---
 
