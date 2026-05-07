@@ -1411,3 +1411,40 @@ Se il personaggio suona il flauto ed entro 9 metri da lui giunge uno sciame di t
 del flauto per 24 ore. In caso di fallimento, lo sciame è controllato dalla musica del flauto e diventa amichevole nei confronti del personaggio e dei 
 suoi alleati finché questo continua a suonare ogni round effettuando un'azione di Magia. Uno sciame amichevole obbedisce ai comandi del personaggio. Se il personaggio non impartisce alcun comando allo sciame amichevole, questo si difende, ma non effettua altre azioni. Se uno sciame amichevole inizia il suo turno a più di 9 metri dal personaggio, il controllo che egli esercita su di esso si interrompe: lo sciame torna a comportarsi secondo la 
 sua natura e non può essere soggetto all'influsso della musica del flauto per le 24 ore successive.
+
+## Flauto incantatore
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questo flauto ha 3 cariche e ne recupera 1d3 all'alba di ogni giorno. Il personaggio può effettuare un'azione di Magia per suonarlo e consumare 1 carica per creare una melodia strana e ipnotica. Ogni creatura a scelta del personaggio situata entro 9 metri da sé deve superare un tiro salvezza su Saggezza con CD 15, altrimenti sarà spaventata per 1 minuto. Se una creatura fallisce il tiro salvezza, lo ripete alla fine di ogni suo turno e, se lo supera, pone fine all'effetto su di sé. Una creatura che supera il tiro salvezza diventa immune all'effetto del flauto per 24 ore.
+
+## Fortezza istantanea
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Il personaggio può effettuare un'azione di Magia per posare a terra questa statuetta adamantina grande 2,5 centimetri, usando la sua parola d'ordine per farla crescere rapidamente in una torre adamantina quadrata. Ripetendo la parola d'ordine, la torre torna alla forma di statuetta, ma solo se la torre è vuota. Ogni creatura nell'area in cui compare la torre viene spinta in uno spazio libero all'esterno ma vicino alla torre. Anche gli oggetti presenti nell'area che non vengono indossati o trasportati vengono spinti dalla torre.La torre è lunga 6 metri di lato, alta 9 metri e for-nita di feritoie su tutti i lati e di un parapetto sulla sommità. All'interno è divisa in due piani, collegati da una scala a pioli, una scalinata o una rampa (a scelta del personaggio). Questa scala o rampa termina sotto una botola che conduce al tetto. Al momento della creazione, nella torre si trova una sola porta al livello del suolo sul lato rivolto verso il personaggio. La porta si apre solo su ordine del personaggio, che può pronunciare tale ordine come azione bonus. La torre è immune all'incante-simo scassinare e a magie simili.La magia impedisce alla torre di ribaltarsi. Il tetto, la porta e le mura hanno: CA 20, 100 PF, immunità ai danni contundenti, perforanti e taglienti, tranne quelli inflitti da equipaggiamento d'assedio, e resistenza a tutti gli altri tipi di danno. Il rimpicciolimento della torre in forma di statuetta non ripara i danni che ha sostenuto. La torre può infatti essere riparata solo tramite un incantesimo desiderio (quest'uso dell'incantesimo conta come riproduzione di un incantesimo di 8º livello o inferiore). Ogni lancio dell'incantesimo desiderio fa sì che la torre recuperi tutti i suoi punti ferita.
+
+## Gemma della luminosità
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questo prisma ha 50 cariche. Quando il personaggio lo tiene in mano, può compiere un'azione di Magia e usare una delle sue tre parole d'ordine per generare uno degli effetti seguenti:
+
+**Prima parola d'ordine**
+La gemma emana luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri. Questo effetto non fa consumare cariche e dura finché il personaggio non usa un'azione bonus per ripetere la parola d'ordine o finché non usa un'altra funzione della gemma.
+
+**Seconda parola d'ordine**
+Il personaggio consuma 1 carica della gemma e fa sì che quest'ultima proietti un raggio di luce scintillante contro una creatura situata entro 18 metri dal personaggio e che egli è in grado di vedere. La creatura deve superare un tiro salvezza su Costituzione con CD 15, altrimenti sarà accecata per 1 minuto. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce.
+
+**Terza parola d'ordine**
+Il personaggio consuma 5 cariche e fa sì che la gemma emetta una luce intensa in un cono di 9 metri. Ogni creatura situata nel cono effettua un tiro salvezza come se fosse stata colpita dal raggio di luce creato dalla seconda parola d'ordine.Quando tutte le cariche sono state utilizzate, la gemma diventa un gioiello non magico del valore di 50 mo.
+
+## Gemma della visione
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Questa gemma ha 3 cariche. Il personaggio può consumare 1 carica come azione di Magia. Per i 10 minuti successivi, guardando attraverso la gemma il personaggio ottiene vista pura entro un raggio di 36 metri.La gemma recupera 1d3 cariche consumate  all'alba di ogni giorno.
