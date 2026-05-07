@@ -548,6 +548,7 @@ Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può effettuare
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta si sbriciola ed è distrutta.
 
 ### Effetti della bacchetta delle meraviglie
+
 **1d100** Effetto
 **01–20** Il personaggio lancia un incantesimo che ha origine nel punto prescelto. Dopodiché, il personaggio tira 1d10 per determinare l'incan-tesimo: 1–2, lentezza; 3– 4, luminescenza; 5–6, nube maleodorante; 7–8, oscurità; 9–10, palla di fuoco.
 **21–25** Non accade nulla nel punto di origine prescelto. Invece, il personaggio è stordito fino all'inizio del turno successivo, convinto che sia successo qualcosa di fantastico.
@@ -564,5 +565,716 @@ All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il 
 **83–87** Non accade nulla nel punto di origine pre-scelto. Invece, il personaggio lancia invisibilità su se stesso.
 **88–92** Non accade nulla nel punto di origine prescelto. Invece, la punta della bacchetta genera un getto di 1d4 × 10 gemme, ognuna dal valore di 1 mo, in una linea lunga 9 metri e larga 1,5 metri verso il punto di origine prescelto. Ogni gemma infligge 1 danno contundente e i danni totali delle gemme vengono divisi equamente tra tutte le creature sulla linea.
 **93–97** Il personaggio lancia metamorfosi prendendo di mira la creatura più vicina al punto di origine prescelto. Il giocatore tira 1d4 per determi-nare la nuova forma della creatura. Con un risultato di 1, diventa un orso nero; con 2–3, diventa una rana; con 4, diventa una vespa gigante.
-**98–00** La creatura più vicina al punto di origine prescelto effettua un tiro salvezza su Costituzione con CD 15. In caso di fallimento, è trattenuta 
-e inizia a trasformarsi in pietra. Finché è trattenuta in questo modo, la creatura ripete il tiro salvezza fino alla fine del suo turno suc-cessivo. In caso di successo, l'effetto svanisce. In caso di fallimento, la creatura è pietrificata e non più trattenuta. La pietrificazione dura finché la creatura non viene liberata  dall'incantesimo  ristorare superiore o altre magie analoghe
+**98–00** La creatura più vicina al punto di origine prescelto effettua un tiro salvezza su Costituzione con CD 15. In caso di fallimento, è trattenuta e inizia a trasformarsi in pietra. Finché è trattenuta in questo modo, la creatura ripete il tiro salvezza fino alla fine del suo turno suc-cessivo. In caso di successo, l'effetto svanisce. In caso di fallimento, la creatura è pietrificata e non più trattenuta. La pietrificazione dura finché la creatura non viene liberata  dall'incantesimo  ristorare superiore o altre magie analoghe.
+
+## Bacchetta delle palle di fuoco
+
+**tipo:** Bacchetta (richiede sintonia con un incantatore)
+**rarita:** rara
+
+Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare non più di 3 cariche e usarla per lanciare palla di fuoco (CD del tiro salvezza 15). Consumando 1 carica, lancia la versione di 3º livello dell'incantesimo. Il livello dell'incantesimo è aumentabile di 1 per ogni carica aggiuntiva consumata.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
+
+## Bacchetta del mago da guerra +1, +2 o +3
+
+**tipo:** Bacchetta (richiede sintonia con un incantatore)
+**rarita:** non comune (+1), rara (+2) o molto rara (+3)
+
+Mentre il personaggio impugna questa bacchetta, riceve un bonus ai tiri per colpire con incantesimo determinato dalla rarità della bacchetta. Inoltre, ignora la mezza copertura quando effettua un tiro per colpire con incantesimo.
+
+## Bacchetta di dardi incantati
+
+**tipo:** Bacchetta
+**rarita:** non comune
+
+Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare non più di 3 cariche e usarla per lanciare dardo incantato. Consumando 1 carica, il personaggio lancia la versione di 1º livello dell'incantesimo. Il livello dell'incantesimo è aumentabile di 1 per ogni carica aggiuntiva consumata.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
+
+## Bacchetta di individuazione dei nemici
+
+**tipo:** Bacchetta (richiede sintonia)
+**rarita:** rara
+
+Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può effettuare un'azione di Magia per consumare 1 carica. Per 1 minuto il personaggio conosce la direzione della creatura ostile a lui più vicina e situata entro 18 metri da sé, ma non la sua distanza precisa. La bacchetta può percepire la presenza di creature ostili invisibili, eteree, camuffate o nascoste, oltre a quelle in piena vista. L'effetto termina se il personaggio smette di impugnare la bacchetta.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
+
+## Bacchetta di individuazione del magico
+
+**tipo:** Bacchetta
+**rarita:** non comune
+
+Questa bacchetta ha 3 cariche. Mentre il personag-gio la impugna, può consumare 1 carica e usarla per lanciare individuazione del magico. All'alba di ogni giorno, la bacchetta recupera 1d3 cariche consumate.
+
+## Barca pieghevole
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quest'oggetto si presenta come una scatola di legno lunga 30 centimetri, larga e profonda 15 centimetri. Pesa 2 kg e galleggia. Può essere aperta per custo-dire degli oggetti all'interno. L'oggetto ha anche tre parole d'ordine, ognuna delle quali richiede un'azione di Magia per essere utilizzata:
+
+**Prima parola d'ordine**
+La scatola si trasforma in una barca a remi.
+
+**Seconda parola d'ordine**
+La scatola si trasforma in una barcone.
+
+**Terza parola d'ordine**
+La barca pieghevole si ripiega in una scatola se non ci sono creature a bordo. Gli oggetti a bordo del vascello troppo grandi per essere contenuti nella scatola restano all'esterno. Gli oggetti che possono entrare nella scatola rimangono al suo interno.Quando la scatola si trasforma in vascello, il suo peso diventa quello di un normale vascello di quella taglia; tutto ciò che era custodito all'interno della scatola rimane a bordo.Le statistiche della barca a remi e del barcone sono disponibili nel capitolo "Equipaggiamento". 
+Se una delle due imbarcazioni viene ridotta a 0 punti ferita, la barca pieghevole viene distrutta.
+
+## Bastone dei boschi
+
+**tipo:** Bastone (richiede sintonia con un druido)
+**rarita:** raro
+
+Questo bastone ha 6 cariche e può essere impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Mentre il personaggio lo impu-gna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
+
+**Incantesimi**
+Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Amicizia con gli animali** 1
+**Localizza animali o vegetali** 2
+**Muro di spine** 6
+**Parlare con gli animali** 1
+**Parlare con i vegetali** 3
+**Passare senza tracce** 2
+**Pelle coriacea** 2
+**Risveglio** 5
+
+**Forma arborea**
+Il personaggio può effettuare un'azione di Magia per piantare un'estremità del bastone a terra in uno spazio libero e consumare 1 carica per trasformarlo in un albero rigoglioso. L'albero è alto 18 metri, ha un tronco del diametro di 1,5 metri e i rami sulla cima si estendono in un raggio di 6 metri. All'apparenza sembra normale, ma irradia una tenue aura di magia di trasmuta-zione rilevabile attraverso l'incantesimo individua-zione del magico. Se il personaggio tocca l'albero ed effettua un'azione di Magia, il bastone torna alla sua forma originaria facendo cadere ogni creatura che si trova su di esso.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone perde le sue proprietà e diventa un bastone ferrato non magico.
+
+## Bastone dei magi
+
+**tipo:** Bastone (richiede sintonia con un mago, uno stregone o un warlock)
+**rarita:** leggendario
+
+Questo bastone ha 50 cariche e può essere  impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Mentre il personaggio lo impugna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
+
+**Assorbimento degli incantesimi**
+Mentre il personaggio impugna il bastone, dispone di vantaggio ai tiri salvezza contro gli incantesimi. Può inoltre usare la sua reazione quando un'altra creatura lancia un incantesimo che ha solo lui come bersaglio. Se lo fa, il bastone assorbe la magia  dell'incantesimo, annullandone gli effetti e ottenendo un numero di cariche pari al livello dell'incantesimo assorbito. Tuttavia, se così facendo il numero totale delle cariche del bastone supera 50, il bastone esplode come se il personaggio avesse attivato il suo colpo del castigo (vedi di seguito).
+
+**Incantesimi**
+Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Dissolvi magie** 3
+**Evoca elementale** 7
+**Fulmine (versione di 7º livello)** 7
+**Individuazione del magico** 0
+**Ingrandire/Ridurre** 0
+**Invisibilità** 2
+**Luce** 0
+**Mano magica** 0
+**Muro di fuoco** 4
+**Palla di fuoco (versione di 7º livello)** 7
+**Passapareti** 5
+**Protezione dal bene e dal male** 0
+**Ragnatela** 2
+**Scassinare** 2
+**Serratura arcana** 0
+**Sfera infuocata** 2
+**Spostamento planare** 7
+**Telecinesi** 5
+**Tempesta di ghiaccio** 4
+
+**Ripristinare le cariche**
+Il bastone recupera 4d6 + 2 cariche consumate all'alba di ogni giorno. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 20, il bastone recupera 1d12 + 1 cariche.
+
+**Colpo del castigo**
+Il personaggio può effettuare un'azione di Magia per rompere il bastone sul suo ginocchio o contro una superficie solida. Così facendo, il bastone viene distrutto e rilascia la sua magia in un'esplosione che riempie un'emanazione di 9 metri di cui è il punto di origine. Il personaggio ha una probabilità del 50% di spostarsi istantanea-mente su un piano di esistenza casuale per evitare l'esplosione. Se non riesce a evitare l'effetto, subisce danni da forza pari a 16 × il numero di cariche rima-nenti nel bastone. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 17. In caso di fallimento, la creatura subisce danni da forza pari a 6 × il numero di cariche rimanenti nel bastone. Se invece lo supera, subisce soltanto la metà di quei danni.
+
+## Bastone dei tuoni e fulmini
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** molto raro
+
+Questo bastone può essere impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Possiede anche le seguenti proprietà aggiuntive. Quando una di queste proprietà viene usata, non può essere riutilizzata fino all'alba successiva.
+
+**Fulmine**
+Quando il personaggio colpisce con un attacco in mischia usando questo bastone, può far sì che il bersaglio subisca 2d6 danni da fulmine extra (nessuna azione richiesta).
+
+**Tuono**
+Quando il personaggio colpisce con un attacco in mischia usando questo bastone, può far sì che quest'ultimo scateni un tuono udibile fino a 90 metri (nessuna azione richiesta). Il bersaglio colpito deve superare un tiro salvezza su Costituzione con CD 17, altrimenti sarà stordito fino alla fine del turno successivo del personaggio.
+
+**Tuono e fulmine**
+Subito dopo aver messo a segno un colpo in mischia col bastone, con un'azione bonus il personaggio può utilizzare le proprietà Fulmine e Tuono (vedi sopra) nello stesso momento. Così facendo il personaggio non consuma l'uso giornaliero di quelle proprietà, ma solamente l'uso di questa.
+
+**Colpo del fulmine**
+Il personaggio può effettuare un'azione di Magia per generare un fulmine che guizza dalla punta del bastone lungo una linea larga 1,5 metri e lunga 36 metri. Ogni creatura su quella linea effettua un tiro salvezza su Destrezza con CD 17, subendo 9d6 danni da fulmine in caso di falli-mento, o la metà di quei danni in caso di successo.
+
+**Rombo di tuono**
+Il personaggio può effettuare un'azione di Magia per far sì che il bastone emetta un rombo di tuono udibile fino a 180 metri. Ogni creatura entro un'emanazione di 18 metri che ha origine dal personaggio effettua un tiro salvezza su Costituzione con CD 17. In caso di fallimento, subisce 2d6 danni da tuono e diventa assordata per 1 minuto. Se invece lo supera, subisce soltanto la metà di quei danni.
+
+## Bastone del colpo possente
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** molto raro
+
+Questo bastone può essere impugnato come un bastone ferrato magico che conferisce un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con esso.Il bastone ha 10 cariche. Quando il personaggio colpisce con un attacco in mischia usando il bastone, può consumare fino a 3 delle sue cariche. 
+Per ogni carica consumata, il bersaglio subisce 1d6 danni da forza extra.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone diventa un bastone ferrato non magico.
+
+## Bastone del deperimento
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** raro
+
+Questo bastone ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno.Il bastone può anche essere brandito come un bastone ferrato magico. Se il colpo va a segno, infligge danni come un normale bastone ferrato e il personaggio può consumare 1 carica per infliggere al bersaglio 2d10 danni necrotici extra, costringendolo a effettuare un tiro salvezza su Costituzione con CD 15. In caso di fallimento, il bersaglio ha svantaggio per 1 ora alle prove di caratteristica o ai tiri salvezza su Forza o Costituzione.
+
+## Bastone del fuoco
+
+**tipo:** Bastone (richiede sintonia con un druido, un mago, uno stregone o un warlock)
+**rarita:** molto raro
+
+Mentre il personaggio impugna questo bastone, ottiene resistenza ai danni da fuoco.
+
+**Incantesimi**
+Il bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Mani brucianti** 1
+**Palla di fuoco** 3
+**Muro di fuoco** 4
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone viene ridotto in cenere ed è distrutto.
+
+## Bastone del gelo
+
+**tipo:** Bastone (richiede sintonia con un druido, un mago, uno stregone o un warlock)
+**rarita:** molto raro
+
+Mentre il personaggio impugna questo bastone, ottiene resistenza ai danni da freddo.
+
+**Incantesimi**
+Il bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Cono di freddo** 5
+**Nube di nebbia** 1
+**Muro di ghiaccio** 4
+**Tempesta di ghiaccio** 4
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone si trasforma in acqua e viene distrutto.
+
+## Bastone della guarigione
+
+**tipo:** Bastone (richiede sintonia con un bardo, un chierico o un druido)
+**rarita:** raro
+
+Questo bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando il suo modificatore di caratteristica da incantatore. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Cura ferite di massa** 5
+**Cura ferite** 1 carica per livello dell'incantesimo (massimo 4 per un incantesimo di 4º livello)
+**Ristorare inferiore** 2
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone svanisce in un lampo di luce ed è perduto per sempre.
+
+## Bastone dello charme
+
+**tipo:** Bastone (richiede sintonia con un bardo, un chierico, un druido, un mago, uno stregone o un warlock)
+**rarita:** raro
+
+Questo bastone ha 10 cariche. Mentre il personaggio lo impugna, può usare una qualsiasi delle sue proprietà:
+
+**Lanciare incantesimi**
+Il personaggio può consumare 1 carica del bastone e usarlo per lanciare charme su persone, comando o comprensione delle lingue usando la sua CD del tiro salvezza sull'incantesimo.
+
+**Riflettere l'ammaliamento**
+Se il personaggio supera il tiro salvezza contro un incantesimo di ammaliamento che ha solo lui come bersaglio, può usare la sua reazione e consumare 1 carica del bastone per riflettere l'incantesimo contro il suo incantatore, come se fosse stato il personaggio a lanciarlo.
+
+**Ripristinare le cariche**
+Il bastone recupera 1d8 + 2 cariche consumate all'alba di ogni giorno. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone si sbriciola e viene distrutto.
+
+## Bastone dello sciame di insetti
+
+**tipo:** Bastone (richiede sintonia con un bardo, un chierico, un druido, un mago, uno stregone o un warlock)
+**rarita:** raro
+
+Questo bastone ha 10 cariche.
+
+**Nube di insetti**
+Finché il personaggio impugna il bastone, può effettuare un'azione di Magia e consumare 1 carica per generare una nube di insetti innocui in un'emanazione di 9 metri di cui è il punto di origine. Gli insetti permangono per 10 minuti, rendendo l'area pesantemente oscurata per ogni altra creatura a eccezione del personaggio. Lo sciame può essere disperso da un vento forte (come quello creato da folata di vento), ponendo fine all'effetto.
+
+**Incantesimi**
+Mentre il personaggio impugna il bastone, può usarlo per lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo e il modificatore di attacco dell'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo. 
+**Incantesimo Costo in cariche**
+**Insetto gigante** 4
+**Piaga degli insetti** 5
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, uno sciame di insetti consuma e distrugge il bastone, per poi disperdersi.
+
+## Bastone del pitone
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** non comune
+
+Effettuando un'azione di Magia, il personaggio può lanciare questo bastone affinché finisca in uno spazio libero entro 3 metri da sé e si trasformi in un serpente stritolatore gigante al suo interno. Il serpente è sotto il controllo del personaggio, condivide il suo punteggio di iniziativa e agisce subito dopo il termine del suo turno. Nel proprio turno, il personaggio può coman-dare il serpente (nessuna azione richiesta) se si trova entro 18 metri da sé e non è incapacitato. Il personaggio decide quale azione deve effettuare il serpente e dove si muoverà nel suo turno, oppure può impartirgli un comando generico come attaccare i nemici o fare la guardia a un luogo. Se non riceve ordini, il serpente si difende.Come azione bonus, il personaggio può ordinare al serpente di tornare nella sua forma di bastone all'interno dello spazio che occupa in quel momento. 
+Dopodiché, non è possibile utilizzare di nuovo questa proprietà per 1 ora. Se il serpente scende a 0 punti ferita, muore e torna alla forma di bastone, che successivamente va in frantumi e viene distrutto. Se il serpente torna alla forma di bastone prima di perdere tutti i punti ferita, li recupera tutti.
+
+## Bastone del potere
+
+**tipo:** Bastone (richiede sintonia con un mago, uno stregone o un warlock)
+**rarita:** molto raro
+
+Questo bastone ha 20 cariche e può essere impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Mentre il personaggio lo impugna, ottiene un bonus di +2 alla Classe Armatura, ai tiri salvezza e ai tiri per colpire con incantesimo.
+
+**Incantesimi**
+Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Blocca mostri** 5
+**Cono di freddo** 5
+**Dardo incantato** 1
+**Fulmine (versione di 5º livello)** 5
+**Globo di invulnerabilità** 6
+**Levitazione** 2
+**Muro di forza** 5
+**Palla di fuoco (versione di 5º livello)** 5
+**Raggio di affaticamento** 1
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 2d8 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone mantiene il suo bonus di +2 ai tiri per colpire e ai tiri per i danni ma perde le sue altre proprietà; se ottiene 20, recupera 1d8 + 2 cariche.
+
+**Colpo del castigo**
+Il personaggio può effettuare un'azione di Magia per rompere il bastone sul suo ginocchio o contro una superficie solida. Così facendo, il bastone viene distrutto e rilascia la sua magia in un'esplosione che riempie un'emanazione di 9 metri di cui è il punto di origine. Il personaggio ha una probabilità del 50% di spostarsi istantaneamente su un piano di esistenza casuale per evitare l'esplosione. Se non riesce a evitare l'effetto, subisce danni da forza pari a 16 × il numero di cariche rimanenti nel bastone. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 17. In caso di fallimento, la creatura subisce danni da forza pari a 4 × il numero di cariche rimanenti nel bastone. Se invece lo supera, subisce soltanto la metà di quei danni.
+
+## Bastone ferrato dell'acrobata
+
+**tipo:** Arma (bastone ferrato) (richiede sintonia)
+**rarita:** molto raro
+
+Il personaggio ottiene un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica.
+Finché impugna quest'arma, come azione bonus o dopo aver tirato per l'iniziativa, può far sì che emetta una luce fioca verdastra in un raggio di 3 metri, oppure può spegnerla con un'azione bonus.
+Finché il personaggio impugna quest'arma, può alterarne la forma con un'azione bonus, trasfor-mandola in una verga di 15 centimetri (per facilità di trasporto) o un'asta di 3 metri, altrimenti può ripristinare le sue sembianze di bastone ferrato; l'arma si allungherà solo fino al massimo dello spazio disponibile.In determinate forme, l'arma ha le seguenti  proprietà aggiuntive.
+
+**Arma a distanza (solo forma di bastone ferrato)**
+L'arma possiede la proprietà da lancio con una gittata normale di 9 metri e una gittata lunga di 36 metri. Subito dopo aver effettuato un attacco a distanza, l'arma vola nella mano del personaggio. 
+
+**Deviazione attacchi (solo forma di bastone ferrato)** Se il personaggio viene colpito da un attacco mentre impugna l'arma, può usare una reazione 
+per rotearla intorno a sé, ottenendo un bonus di +5 alla Classe Armatura contro l'attacco scatenante e aumentando le probabilità che non vada a segno. Il personaggio non può riutilizzare questa proprietà prima di aver completato un riposo breve o lungo.
+
+**Supporto acrobatico (solo forme di bastone ferrato o asta da 3 metri)**
+Mentre il personaggio impugna l'arma, effettua le prove di Destrezza (Acrobazia) con vantaggio.
+
+## Biglia di forza
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa piccola sfera nera ha un diametro di 1,8 cen-timetri e pesa 30 grammi. Generalmente le biglie di forza si trovano in gruppi di 1d4 + 4.Un personaggio può usare un'azione di Magia per lanciare la biglia fino a un massimo di 18 metri. 
+Questa esplode in una sfera con un raggio di 3 metri al momento dell'impatto e viene distrutta. Ogni creatura presente nell'area deve superare un tiro salvezza su Destrezza con CD 15 o subire 5d4 danni da forza. Poi l'area viene rinchiusa per 1 minuto all'interno di una sfera di forza trasparente. Ogni creatura che ha fallito il tiro salvezza e si trova completamente all'interno dell'area resta intrappolata all'interno. Chi ha superato il tiro salvezza o si trovava solo parzialmente all'interno dell'area viene allontanato dal centro della sfera e spinto all'esterno. Attraverso le pareti della sfera può passare solo aria respirabile. Non possono passarvi attraverso né attacchi, né altri effetti.
+Una creatura rinchiusa nell'area può effettuare un'azione di Utilizzo per spingere le pareti della sfera, muovendola a una velocità massima pari alla metà della propria velocità. La sfera può essere sollevata e la sua magia fa sì che il suo peso sia sempre pari a 0,5 chilogrammi, a prescindere dal peso delle creature al suo interno.
+
+## Boccia del comando degli elementali dell'acqua
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quando la boccia è piena di acqua e il personaggio si trova a 1,5 metri da essa, egli può effettuare un'azione di Magia per richiamare un elementale dell'acqua. La creatura compare in uno spazio libero il più vicino possibile alla boccia, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. La boccia non può essere riutilizzata in questo modo fino all'alba successiva.
+La boccia ha un diametro di circa 30 cm ed è profonda 15 cm. Ha una capienza di 12 litri circa.
+
+## Borsa conservante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Lo spazio interno di questa borsa è molto più grande delle sue dimensioni esterne, pari a un quadrato con il lato di circa 60 centimetri e 120 centimetri di profondità. La borsa può contenere fino a 250 chilogrammi di materiale, per un volume massimo di 64 cubi con spigolo di 30 centimetri. La borsa pesa 2,5 chilogrammi a prescindere dal suo contenuto. Recuperare un oggetto dalla borsa richiede un'azione di Utilizzo.
+Se la borsa viene caricata con un peso eccessivo, o viene bucata o strappata, viene distrutta e il suo contenuto viene sparpagliato sul Piano Astrale. Se la borsa viene rivoltata, il suo contenuto si riversa all'esterno, integro. Tuttavia, per essere riutilizzata, la borsa deve essere rivoltata di nuovo. 
+La borsa contiene una quantità d'aria sufficiente per 10 minuti, da dividere per il numero di creature che respirano al suo interno.
+Collocare una borsa conservante all'interno di uno spazio extradimensionale, come quello creato da uno zainetto pratico, da un buco portatile o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le creature entro una sfera con un raggio di 3 metri centrata sul portale vengono attirate al suo interno e trasportate in un luogo casuale del Piano Astrale; dopodiché il portale si chiude. Il portale è a senso unico e non può essere riaperto.
+
+## Borsa dei fagioli magici
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa pesante borsa di stoffa contiene 3d4 fagioli secchi quando viene trovata. La borsa pesa 250 grammi indipendentemente dal numero di fagioli che contiene e diventa un oggetto non magico quando non ne contiene.Se uno o più fagioli vengono gettati a terra, questi generano un'esplosione in un raggio di 3 metri centrato su di essi. Tutti i fagioli buttati vengono distrutti nell'esplosione e ogni creatura presente nell'area, compreso il personaggio, effettua un tiro salvezza su Destrezza con CD 15, subendo 5d4 danni da forza in caso di fallimento o la metà in caso di successo.Se un fagiolo viene prelevato dalla borsa, piantato nel terriccio o nella sabbia e innaffiato, dopo 1 minuto scompare e genera un effetto nel luogo in cui è stato piantato. Il GM può scegliere un effetto dalla seguente tabella o determinarlo casualmente.
+**1d100 Effetto**
+**01** Spuntano 5d4 funghi velenosi. Se una creatura mangia un fungo, tira un dado. Se il risultato del tiro è dispari, tale creatura deve superare un tiro salvezza su Costituzione con CD 15, altrimenti subisce 5d6 danni da veleno e diventa avvelenata per 1 ora. Se il risultato è pari, la creatura che ha mangiato il fungo ottiene 5d6 punti ferita temporanei per 1 ora.
+**02–10** Scaturisce un geyser che spruzza una colonna alta 9 metri di acqua, birra, maionese, tè, aceto, vino o olio (a tua scelta) per 1d4 minuti.
+**11–20** Spunta 1 treant. Tira un dado qualsiasi. Se il risultato è dispari, il treant è caotico malvagio. Se invece è pari, il treant è caotico buono.
+**21–30** Dal terreno emerge una statua di pietra animata ma immobile, con le sembianze del possessore, e minaccia verbalmente  quest'ultimo. Se il possessore della borsa si allontana dalla statua, quando sopraggiungono altre creature quest'ultima descrive loro il possessore come il più scellerato dei nemici e fornisce loro le informazioni per trovarlo e attaccarlo. Se il possessore si trova sullo stesso piano di esistenza della statua, questa conosce la sua posizione. La statua diventa inanimata dopo 24 ore.
+**31–40** Dal terreno si sprigiona un fuoco da campo verdognolo che arde per 24 ore o finché non viene spento.
+**41–50** Spuntano 3 boleti stridenti.
+**51–60** 1d4 + 4 rospi di colore rosa acceso si avvicinano strisciando. Non appena un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del GM, che agisce in base al suo allineamento e alla sua natura. Il mostro permane per 1 minuto, poi scompare in uno sbuffo di fumo rosa brillante.
+**61–70** 1 bulette affamato esce dal terreno e attacca.
+**71–80** Dal terreno cresce un albero da frutto che ha 1d10 + 20 frutti, 1d8 dei quali agiscono come pozioni determinate in modo casuale. L'albero svanisce dopo 1 ora. I frutti raccolti rimangono e conservano gli eventuali poteri magici per 30 giorni.
+**81–90** Dal terreno spunta un nido contenente 1d4 + 3 uova arcobaleno. Una creatura che mangia un uovo effettua un tiro salvezza su Costituzione con CD 20. in caso di successo, il suo punteggio di caratteristica più basso aumenta permanentemente di 1 (in caso di più caratteristiche con lo stesso punteggio più basso, se ne sceglie una casualmente). Se lo fallisce, la creatura subisce invece 10d6 danni da forza causati da un'esplosione magica interna.
+**91–95** Una piramide a base quadrata con lato di 18 metri emerge dal terreno. Al suo interno si trova una camera funeraria contenente 1 mummia, 1 signore delle mummie o un altro non morto a scelta del GM. Il suo sarcofago contiene un tesoro determinato dal GM.
+**96–00** Dal terreno si innalza una gigantesca pianta di fagioli che sale fino a un'altezza determinata dal GM. La sommità della pianta conduce in un luogo scelto dal GM, che può essere uno straordinario punto di osservazione, il castello di un gigante delle nuvole o un altro piano di esistenza.
+
+## Borsa dei trucchi
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questa borsa fatta di stoffa di colore grigio, ruggine o marrone, sembra vuota. Frugando al suo interno, si trova invece un piccolo oggetto lanuginoso.Un personaggio può compiere un'azione di Magia per estrarre l'oggetto lanuginoso dalla borsa e lanciarlo fino a 6 metri di distanza. Quando atterra, l'oggetto si trasforma in una creatura determinata tirando sulla tabella corrispondente al colore della borsa posseduta. Vedi "Mostri" per la scheda delle statistiche della creatura. La creatura scompare all'alba successiva o quando viene ridotta a 0 punti ferita.
+È amichevole con il personaggio e i suoi alleati e svolge il proprio turno immediatamente dopo il personaggio secondo il suo punteggio di iniziativa. Il personaggio può effettuare un'azione bonus per comandare il modo in cui la creatura si muove e l'azione che effettua nel suo turno successivo, come ad esempio attaccare un nemico. In assenza di tali ordini, la creatura agisce in modo appropriato alla sua natura.Dopo che dalla borsa sono stati estratti tre oggetti 
+lanuginosi, non può essere riutilizzata fino all'alba successiva.
+
+### Borsa dei trucchi grigia
+**1d8 Creatura**
+**1** Alce gigante
+**2** Cinghiale
+**3** Faina 
+**4** Lupo feroce
+**5** Pantera 
+**6** Tasso
+**7** Tasso gigante
+**8** Topo gigante
+
+### Borsa dei trucchi ruggine
+**1d8 Creatura**
+**1** Capra 
+**2** Capra
+**3** Cinghiale gigante
+**4** Gufo
+**5** Leone gigante
+**6** Mastino
+**7** Orso bruno
+**8** Topo
+
+### Borsa dei trucchi marrone
+**1d8 Creatura**
+**1** Babbuino
+**2** Beccoaguzzo
+**3** Faina gigante
+**4** Gorilla
+**5** Iena gigante
+**6** Orso nero
+**7** Sciacallo
+**8** Tigre
+
+## Borsa divorante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questa borsa sembra una borsa conservante, ma in realtà si tratta di un orifizio attraverso cui si nutre una gigantesca creatura extradimensionale. Rivoltando la borsa da dentro a fuori si chiude l'orifizio.La creatura extradimensionale collegata alla borsa può percepire tutto ciò che viene posto al suo interno. Ogni materiale animale o vegetale inserito completamente all'interno della borsa viene divorato e perduto per sempre. Quando una parte di una creatura vivente entra nella borsa, per esempio quando qualcuno vi infila una mano, c'è una probabilità del 50% che tutta la creatura venga risucchiata all'interno. Una creatura all'interno della borsa può effettuare un'azione per tentare di fuggire, riuscendoci con una prova di Forza (Atletica) con CD 15 superata. Un'altra creatura può effettuare un'azione per infilare le mani nella borsa e tirare fuori la creatura imprigionata superando una prova di Forza (Atletica) con CD 20 (sempre che non venga prima trascinata all'interno a sua volta). Ogni creatura che inizia il proprio turno all'interno della borsa viene divorata e il suo corpo viene distrutto.
+Nella borsa è possibile conservare oggetti inanimati fino a un volume pari a un cubo con spigolo di 30 centimetri. Tuttavia, una volta al giorno la borsa inghiotte tutti gli oggetti al suo interno e li sputa fuori su un altro piano di esistenza. Il GM determina il momento in cui questo accade e il piano dove finiscono gli oggetti.
+Se la borsa viene bucata o strappata, è considerata distrutta e tutto ciò che conteneva viene traspor-tato in un luogo casuale sul Piano Astrale.
+
+## Bottiglia del fumo perenne
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Il personaggio può aprire o chiudere la bottiglia compiendo un'azione di Magia.
+L'apertura della bottiglia provoca la fuoriuscita di un fumo denso, il quale forma una nube che riempie un'emanazione di 18 metri che si origina dalla bottiglia. L'area all'interno del fumo è pesantemente oscurata.
+Ogni minuto che la bottiglia rimane aperta, la dimensione dell'emanazione aumenta di 3 metri fino a raggiungere la dimensione massima di 36 metri. Una volta chiusa la bottiglia, la nuvola resta ferma nella stessa posizione fino a disperdersi dopo 10 minuti. Un vento forte (come quello generato  dall'incantesimo  folata di vento) disperde la nube dopo 1 minuto.
+
+## Bottiglia dell'efreeti
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Quando il personaggio compie un'azione di Magia per rimuovere il tappo di questa bottiglia in ottone verniciato, fuoriesce una nuvola di fumo denso. 
+Alla fine del turno del personaggio, il fumo scom-pare con un lampo di fuoco innocuo e in uno spazio libero entro 9 metri da lui compare un efreeti.
+La prima volta che la bottiglia viene aperta, il GM tira sulla seguente tabella per determinare cosa succede.
+**1d10 Effetto**
+**1** L'efreeti attacca il personaggio. Dopo avere combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia.
+**2–9** L'efreeti capisce le lingue parlate dal perso-naggio e obbedisce ai suoi ordini per 1 ora. Dopodiché torna nella bottiglia, la quale viene chiusa da un nuovo tappo che non può essere rimosso per 24 ore. Le due volte successive in cui la bottiglia viene aperta, si ottiene lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti fugge scomparendo e la bottiglia perde la sua magia.
+**10** L'efreeti comprende le lingue che parla il personaggio e può lanciare un incantesimo desiderio per una volta per il personaggio. Scompare dopo aver concesso il desiderio o dopo 1 ora, e la bottiglia perde la sua magia.
+
+## Bracciali della difesa
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro (richiede sintonia)
+
+Il personaggio che indossa questi bracciali ottiene un bonus di +2 alla Classe Armatura se non veste alcuna armatura e non usa uno scudo.
+
+## Bracciali dell'arciere
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** **rarita:**
+
+Quando il personaggio indossa questi bracciali, ha competenza nell'arco lungo e nell'arco corto e ottiene un bonus di +2 ai tiri per i danni effettuati con tali armi.
+
+## Braciere del comando degli elementali del fuoco
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quando il personaggio si trova a 1,5 metri da questo braciere, può effettuare un'azione di Magia per richiamare un elementale del fuoco. La creatura compare in uno spazio libero il più vicino possibile al braciere, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. Il braciere non può essere riutilizzato in questo modo fino all'alba successiva.
+
+## Buco portatile
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quando è piegato, questo panno di elegante tessuto nero morbido come la seta ha le dimensioni di un fazzoletto. Una volta spiegato, copre una superficie circolare di 1,8 metri di diametro.
+Il personaggio può effettuare un'azione di Magia per spiegare il buco portatile e collocarlo su una superficie solida o contro di essa, creando un buco extradimensionale profondo 3 metri. Lo spazio cilindrico all'interno del buco esiste su un diverso piano di esistenza, quindi il buco non può essere usato per creare passaggi da attraversare. Ogni creatura all'interno di un buco portatile aperto può uscirne arrampicandosi sulle sue pareti.
+Il personaggio può effettuare un'azione di Magia per chiudere il buco portatile afferrandone i lembi e ripiegandoli. In questo modo, il buco si chiude e tutti gli oggetti e le creature al suo interno restano nello spazio extradimensionale. A prescindere dal suo contenuto, il buco ha un peso irrilevante.
+Se il buco è ripiegato, una creatura all'interno del suo spazio extradimensionale può usare un'azione per effettuare una prova di Forza (Atletica) con CD 10. In caso di successo, la creatura riesce a uscire e compare entro 1,5 metri dal buco porta-tile. Un buco portatile contiene una quantità d'aria sufficiente per 1 ora, da dividere per il numero di creature che respirano al suo interno.
+Collocare un buco portatile all'interno di uno spazio extradimensionale, come quello creato da uno zainetto pratico, da una borsa conservante o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le cre-ature entro 3 metri dal portale e senza copertura totale vengono attirate al suo interno e depositate in un luogo casuale del Piano Astrale; dopodiché, il portale si chiude. Il portale è a senso unico e non può essere riaperto.
+
+## Campana dell'apertura
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questo tubo cavo di metallo è lungo circa 30 centimetri e pesa 0,5 chilogrammi. Il personaggio può effettuare un'azione di Magia per colpire la campana e lanciare l'incantesimo scassinare. Il consueto suono dell'incantesimo di qualcuno che bussa è sostituito dal suono chiaro e squillante dello scampanellio, udibile fino a 90 metri.
+La campana può essere utilizzata 10 volte. Dopo il decimo uso, si crepa e diventa inutilizzabile.
+
+## Candela dell'invocazione
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** molto raro
+
+La magia della candela si attiva quando la candela viene accesa, il che richiede un'azione di Magia. 
+La candela può ardere per 4 ore, dopodiché viene distrutta. Il personaggio può spegnerla prima che si esaurisca per usarla successivamente. Il tempo di utilizzo va sottratto in frazioni da 1 minuto dal tempo totale per cui la candela può ardere.
+Mentre è acceso, l'oggetto proietta luce fioca entro un raggio di 9 metri. Mentre il personaggio si trova all'interno di quel raggio, dispone di vantaggio alle prove con d20. Inoltre, un chierico o un druido all'interno della luce possono lanciare incantesimi di 1º livello che hanno preparato senza spendere slot incantesimo.
+In alternativa, quando un personaggio accende la candela per la prima volta, può usarla per lanciare l'incantesimo portale. In questo modo, la candela viene distrutta. Il portale generato  dall'incantesimo conduce a un Piano Esterno determinato dal GM o deciso tirando sulla tabella seguente.
+**1d100 Piano Esterno**
+**01–05** Abisso
+**06–10** Acheronte
+**11–15** Ade
+**16–22** Arborea
+**23–30** Arcadia
+**31–38** Bytopia
+**39–43** Carceri
+**44–51** Elysium
+**52–56** Gehenna
+**57–61** Limbo
+**62–69** Mechanus
+**70–77** Monte Celestia
+**78–82** Nove Inferi
+**83–87** Pandemonium
+**88–95** Terre Bestiali
+**96–00** Ysgard
+
+## Cappa del saltimbanco
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa cappa emana un leggero odore di zolfo. 
+Finché il personaggio la indossa, può usarla per lanciare porta dimensionale come azione di Magia. 
+Questa proprietà non può essere riutilizzata fino all'alba successiva.Quando il personaggio si teletrasporta con questo incantesimo, si lascia dietro una nuvola di fumo. Il fumo rende leggermente oscurato lo spazio lasciato dal personaggio fino alla fine del suo turno successivo
+
+## Cappello dei molti incantesimi
+
+**tipo:** Oggetto meraviglioso (richiede sintonia con un mago)
+**rarita:** molto raro
+
+Questo cappello a punta ha le seguenti proprietà:
+
+**Focus da incantatore**
+Quando il personaggio ha il cappello con sé, può usarlo come focus da incantatore per i suoi incantesimi da mago. Ogni incantesimo lanciato con il cappello ottiene una componente somatica speciale: l'incantatore deve infilare una mano dentro il cappello e "tirare" fuori l'incantesimo.
+
+**Incantesimo sconosciuto**
+Quando il personaggio ha il cappello con sé, può tentare di lanciare un incantesimo che non conosce di un livello superiore al 1º. L'incantesimo deve essere presente nella lista degli incantesimi del mago, deve essere di un livello tale da poter essere lanciato dall'incantatore e non può avere componenti materiali che costino più di 1.000 mo. Una volta deciso l'incantesimo, il personaggio deve spendere uno slot incantesimo del livello dell'incantesimo. Dopodiché, per determinare se può lanciarlo, il personaggio effettua una prova di Intelligenza (Arcano) con CD 10 più il livello dell'incantesimo. Se la supera, l'incantesimo viene lanciato con il suo normale tempo di lancio e il personaggio non può utilizzare nuovamente questa proprietà fino al termine di un riposo breve o lungo. 
+Se invece fallisce, non riesce a lanciare l'incantesimo e si verifica un effetto casuale determinato da un tiro sulla seguente tabella.Ogni incantesimo lanciato dal cappello utilizza la propria CD del tiro salvezza sull'incantesimo e il suo bonus di attacco.
+**1d100 Effetto**
+**01–50** Il personaggio può lanciare un incantesimo casuale tirando un 1d10: con 1, allucinazione di forza; con 2, folata di vento; con 3, fulmine; con 4, ingrandire/ridurre (l'effetto ingrandire); con 5, ingrandire/ridurre (l'effetto ridurre); con 6, invisibilità (lanciato su se stesso); con 7, luminescenza; con 8, metamorfosi; con 9, nube maleodorante; con 10, palla di fuoco.
+**51–55** Il personaggio è stordito fino al termine del suo turno successivo, credendo che sia suc-cesso qualcosa di fantastico.
+**56–60** Uno sciame innocuo di farfalle riempie un cubo con spigolo di 3 metri situato entro 9 metri dal personaggio. Lo sciame si disperde dopo 1 minuto.
+**61–65** Il personaggio tira fuori dal cappello un oggetto non magico. L'oggetto viene determi-nato con il tiro di un 1d4: con 1, una fiala di 
+acido; con 2, un'ampolla di fuoco dell'alchimi-sta; con 3, un piede di porco; con 4, una torcia accesa.
+**66–70** Il personaggio soffre di "mal di magia" ed è avvelenato per 1 ora.
+**71–75** Il personaggio è pietrificato fino al termine del 
+suo turno successivo.
+**76–80** Il personaggio tira fuori dal cappello un oggetto non magico. L'oggetto viene determinato con il tiro di un 1d4: con 1, un pugnale; con 2, una corda con un rampino legato a un'estremità; con 3, un sacchetto di triboli; con 4, una gemma del valore di 50 mo.
+**81–85** Una creatura compare in uno spazio libero il più vicino possibile al personaggio. Non è sotto il controllo di quest'ultimo e si comporta come farebbe normalmente, scomparendo dopo 1 ora o quando scende a 0 punti ferita. La creatura viene determinata con il tiro di un 1d4: con 1, un cammello; con 2, un elefante; con 3, un mulo; con 4, un  serpente stritolatore.
+**86–90** Uno sciame di pipistrelli ostile esce fuori dal cappello, occupa lo spazio del personaggio e lo attacca.
+**91–95** Si apre un portale verticale a doppio senso con diametro di 3 metri che conduce a un altro piano di esistenza in uno spazio libero entro 9 metri dal personaggio e resta aperto fino al termine del suo turno successivo. Sta al GM decidere dove conduce.
+**96–00** Il personaggio tira fuori un oggetto magico dal cappello. La rarità dell'oggetto viene deter-minata con il tiro di un 1d6: con un risultato nell'intervallo 1–3, comune; con 4–5, non comune; con 6, raro. Il GM sceglie l'oggetto, che scompare dopo 1 ora se non viene consu-mato o distrutto prima.
+
+## Cappello del camuffamento
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Mentre il personaggio indossa questo cappello, può lanciare l'incantesimo camuffare se stesso. L'incantesimo termina se il cappello viene rimosso.
+
+## Caraffa dell'acqua eterna
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Quando si scuote quest'ampolla chiusa da un tappo di sughero, si sente uno sciabordio, come se contenesse dell'acqua. La caraffa pesa 1 chilogrammo.
+Come azione di Magia, il personaggio può rimuo-vere il tappo e pronunciare una delle tre possibili parole d'ordine, nel qual caso dalla caraffa esce una certa quantità di acqua potabile o salata (a scelta del personaggio). L'acqua smette di uscire all'inizio del turno successivo del personaggio. Il personaggio sceglie fra le seguenti parole d'ordine:
+
+**Schizzo**
+La caraffa produce 4 litri d'acqua.
+
+**Fontana**
+La caraffa produce 20 litri d'acqua.
+
+**Geyser**
+La caraffa produce 120 litri d'acqua che zampilla in una linea lunga 9 metri e larga 30 centimetri. Se il personaggio sta tenendo in mano la caraffa, può dirigere il getto d'acqua in una direzione specifica (nessuna azione richiesta). 
+Una creatura a scelta del personaggio lungo la linea deve superare un tiro salvezza su Forza con CD 13 o subire 1d4 danni contundenti e cadere prona. In alternativa, il personaggio può dirigere il getto contro un oggetto nella traiettoria che non sia indossato o trasportato e che non pesi più di 100 chilogrammi. L'oggetto viene ribaltato dal geyser.
+
+## Cintura della forza dei giganti
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** rarità variabile
+
+Finché il personaggio indossa questa cintura, la sua Forza cambia in un determinato punteggio conferito dalla cintura, come determinato dal tipo di gigante (vedi la tabella sottostante). Se il punteggio di Forza del personaggio senza cintura è pari o superiore a quello conferito dall'oggetto, non ha alcun effetto.
+**Cintura For. Rarità**
+**Cintura della forza dei giganti (delle colline)** 21 Rara
+**Cintura della forza dei giganti (del gelo o delle pietre)** 23 Molto rara
+**Cintura della forza dei giganti (del fuoco)** 25 Molto rara
+**Cintura della forza dei giganti (delle nuvole)** 27 Leggendaria
+**Cintura della forza dei giganti (delle tempeste)** 29 Leggendaria
+
+## Cintura nanica
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Il personaggio che indossa questa cintura riceve i seguenti benefici:
+**Amico dei nani**
+Dispone di vantaggio alle prove di Carisma (Persuasione) effettuate per interagire con i nani e i duergar.
+**Nanico**
+Impara il nanico.
+**Robustezza**
+Il suo punteggio di Costituzione aumenta di 2, fino a un massimo di 20.
+
+Inoltre, dopo che il personaggio che indossa la cintura è entrato in sintonia con essa, ogni mattina all'alba c'è una probabilità del 50% che gli spuntino 
+barba e baffi, premesso che il suo corpo possa svilupparli, o che la sua barba cresca se ne ha già una.Se non è un nano o un duergar, ottiene i seguenti 
+benefici aggiuntivi finché indossa la cintura:
+**Resilienza**
+Ha resistenza ai danni da veleno.  Dispone di vantaggio sui tiri salvezza eseguiti per evitare o terminare la condizione avvelenato su se stesso.
+**Scurovisione**
+Ha scurovisione fino a un raggio di 18 metri.
+
+## Colla meravigliosa
+
+**tipo:** Oggetto meraviglioso
+**rarita:** leggendario 
+
+Questa sostanza viscosa e lattiginosa può creare un legame adesivo permanente tra due oggetti qualsiasi. Deve essere custodita in un barattolo o in un'ampolla al cui interno sia stato spalmato dell'olio della scivolosità. Quando viene trovato, il contenitore contiene (1d6 + 1) x 30 grammi di colla.
+Una quantità di colla pari a 30 grammi può coprire una superficie quadrata con lato di 30 centimetri. Per applicare 30 grammi di colla meravigliosa è necessaria un'azione di Utilizzo; la colla avrà effetto dopo 1 minuto. Il legame così creatosi può essere spezzato solamente con un'applicazione di solvente universale o di olio della forma eterea, o tramite un incantesimo desiderio.
+
+## Collana dell'adattamento
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Mentre il personaggio indossa questa collana, può respirare normalmente in qualsiasi ambiente ed effettua con vantaggio i tiri salvezza necessari per evitare o porre fine alla condizione avvelenato.
+
+## Collana delle palle di fuoco
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro 
+
+Da questa collana pendono 1d6 + 3 perle. Il personaggio può effettuare un'azione di Magia per staccare una perla e lanciarla entro 18 metri di distanza. Una volta raggiunta la fine della sua traiettoria, la perla esplode in una palla di fuoco di 3º livello (CD del tiro salvezza 15).
+Con un'unica azione, è possibile lanciare più perle o perfino l'intera collana. In tal caso, il danno della palla di fuoco aumenta di 1d6 per ogni perla dopo la prima (massimo 12d6).
+
+## Collana del rosario
+
+**tipo:** Oggetto meraviglioso (richiede sintonia con un chierico, druido o paladino)
+**rarita:** raro
+
+Questa collana ha 1d4 + 2 perle magiche fatte di acquamarina, perla nera o topazio, oltre a molte perle non magiche fatte di ambra, diaspro, citrino, corallo, giada, perla o quarzo. Se una perla magica viene rimossa dalla collana, perde la sua magia.
+Esistono sei tipi di perline magiche. La loro tipologia è a discrezione del GM o determinata casual-mente tirando sulla tabella sottostante. La collana può includere più perle dello stesso tipo. Per usarne una, il personaggio deve indossare la collana. Ogni perla contiene un incantesimo che il personaggio può lanciare come azione bonus (usando la sua CD del tiro salvezza sull'incantesimo, quando è richiesto un tiro salvezza). Una volta lanciato l'incantesimo di una perla magica, quella perla non può più essere usata fino all'alba successiva.
+**1d20 Perla Incantesimo**
+**1–4** Perla del favore Ristorare superiore
+*5* Perla del richiamo Guardiano della fede
+**6–11** Perla della benedizione Benedizione
+**12** Perla della camminata nel vento Camminare nel vento
+**13–18** Perla della guarigione Cura ferite (versione di 2º livello)
+**19–20** Perla della punizione Punizione splendente
+
+## Corazza di scaglie di drago
+
+**tipo:** Armatura (corazza a scaglie) (richiede sintonia)
+**rarita:** molto rara
+
+La corazza di scaglie di drago è ricavata dalle scaglie di un tipo di drago. A volte i draghi raccolgono le loro scaglie cadute e ne fanno dono a qualcuno. Altre volte i cacciatori conservano le pelli dei draghi uccisi. In entrambi i casi, la corazza di scaglie di drago è un oggetto estremamente pregiato.Quando indossa quest'armatura, il personaggio ottiene un bonus di +1 alla Classe Armatura, vantaggio ai tiri salvezza contro il soffio dei draghi e resistenza a un tipo di danno determinato dal tipo di scaglie da cui è composta l'armatura (vedi la relativa tabella).
+Con un'azione, il personaggio può inoltre concen-trare i suoi sensi come azione di Magia e percepire la distanza e la direzione del drago più vicino dello stesso tipo dell'armatura, entro un raggio di 45 chi-lometri. Questa azione non può essere riutilizzata fino all'alba successiva.
+**Drago Resistenza**
+**Argento** Freddo 
+**Bianco** Freddo
+**Blu** Fulmine
+**Bronzo** Fulmine
+**Nero** Acido
+**Oro** Fuoco
+**Ottone** Fuoco
+**Rame** Acido
+**Rosso** Fuoco
+**Verde** Veleno
+
+## Corda intralciante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa corda è lunga 9 metri. Se il personaggio impugna un'estremità della corda, può effettuare un'azione di Magia per ordinare all'altro capo di guizzare in avanti e intralciare una creatura situata entro 6 metri dal personaggio e che egli sia in grado di vedere. Il bersaglio deve quindi superare un tiro salvezza su Destrezza con CD 15, altrimenti sarà trattenuto. Il personaggio può liberare il bersaglio lasciando la sua estremità della corda (facendo sì che la corda si attorcigli nello spazio occupato dal bersaglio) o ripetendo l'ordine con un'azione bonus (facendo attorcigliare la corda intorno alla mano del personaggio).
+Un bersaglio trattenuto dalla corda può effettuare una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15 (a sua scelta) con un'azione. In caso di successo, il bersaglio non è più trattenuto dalla corda. Se il personaggio la sta ancora tenendo quando il bersaglio si libera, può usare una reazione per ordinare alla corda di attorcigliarsi intorno alla sua mano, altrimenti si attorciglierà nello spazio occupato dal bersaglio. La corda ha CA 20, 20 punti ferita e immunità ai danni psichici e da veleno. Recupera 1 punto ferita ogni 5 minuti, purché le rimanga almeno 1 punto ferita. Se la corda scende a 0 punti ferita, viene distrutta.
+
+## Corda per scalare
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questa corda lunga 18 metri può sostenere fino a 1.500 chilogrammi di carico. Mentre impugna un'estremità della corda, il personaggio può effettuare un'azione di Magia per ordinare all'altro capo di animarsi e muoversi verso una destinazione a sua scelta entro la lunghezza della corda stessa. L'estremità si muove di 3 metri durante il turno in cui il personaggio impartisce l'ordine e di 3 metri all'inizio di ogni suo turno successivo, finché non raggiunge la destinazione o il personaggio non le ordina di fermarsi. Il personaggio può anche ordinare alla corda di legarsi saldamente a un oggetto o di sciogliersi, annodarsi o sciogliere i nodi, oppure di arrotolarsi per essere trasportata.
+Se il personaggio le ordina di annodarsi, lungo la corda compare una serie di grandi nodi a distanza di 30 centimetri l'uno dall'altro. Quando è annodata, la corda si accorcia fino a una lunghezza di 15 metri e conferisce vantaggio alle prove effet-tuate per utilizzarla.
+La corda ha CA 20, 20 punti ferita e immunità ai danni psichici e da veleno. Recupera 1 punto ferita ogni 5 minuti, purché le rimanga almeno 1 punto ferita. Se la corda scende a 0 punti ferita, viene distrutta.
+
+## Corno della distruzione
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Il personaggio può effettuare un'azione di Magia per soffiare dentro il corno, il quale emette un boato rombante in un cono di 9 metri udibile fino a 180 metri. Ogni creatura all'interno del cono deve effettuare un tiro salvezza su Costituzione con CD 15. Se lo fallisce, subisce 5d8 danni da tuono ed è assordata per un minuto. Se passa il tiro salvezza, la  creatura subisce solo la metà dei danni. Gli oggetti di vetro o cristallo nel cono che non sono indossati o trasportati subiscono 10d8 danni da tuono.Ogni volta che viene usata la magia del corno esiste una probabilità del 20% che esploda. L'esplosione infligge 10d6 danni da forza a chi lo suona e distrugge il corno.
+
+## Corno del Valhalla
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro (argento o ottone), molto raro (bronzo) o leggendario (ferro)
+
+Il personaggio può effettuare un'azione di Magia per suonare questo corno. Come risposta, spiriti guerrieri del piano di Ysgard compaiono in spazi liberi entro 18 metri dal personaggio. Ogni spirito utilizza la scheda delle statistiche di un berserker e fa ritorno a Ysgard dopo 1 ora o quando scende a 0 punti ferita.
+Gli spiriti hanno l'aspetto di guerrieri vivi e vegeti e sono immuni alle condizioni affascinato e spaventato. Una volta usato, il corno non può essere riutilizzato finché non sono trascorsi 7 giorni.
+Sono noti quattro tipi di corno del Valhalla, ognuno fatto di un metallo diverso. Il tipo di corno determina il numero di spiriti richiamati e i requisiti per il suo uso. Il GM sceglie il tipo o lo determina in modo casuale tirando sulla seguente tabella.
+Se il personaggio suona il corno senza soddisfare i requisiti, gli spiriti richiamati lo attaccano. In caso contrario, sono amichevoli nei suoi confronti e in quelli dei suoi alleati e obbediscono ai suoi ordini.
+**1d100 Tipo di corno Spiriti Requisiti**
+**01–40** Argento 2 Nessuno
+**41–75** Ottone 3 Competenza in tutte le armi semplici
+**76–90** Bronzo 4 Competenza in tutte le armature medie
+**91–00** Ferro 5 Competenza in tutte le armi da guerra
+
+## Cubo dei portali
+
+**tipo:** Oggetto meraviglioso
+**rarita:** leggendario 
+
+Questo cubo ha uno spigolo di 7,5 centimetri e irradia un'energia magica palpabile. Ognuna delle sei facce è collegata a un piano di esistenza diverso, uno dei quali è il Piano Materiale. I piani a cui sono collegate le altre facce sono determinati dal GM.
+Questo cubo ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Il personaggio può effettuare un'azione di Magia per spendere 1 carica del cubo e lanciare uno dei seguenti incan-tesimi con l'oggetto.
+
+**Portale**
+Premendo una faccia del cubo, il personag-gio lancia l'incantesimo portale, aprendo un  portale sul piano di esistenza collegato a quella faccia.
+
+**Spostamento planare**Premendo due volte una faccia del cubo, il personaggio lancia l'incantesimo spostamento planare e trasporta i bersagli sul piano di esistenza collegato a quella faccia.
+
+## Cubo di forza
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Questo cubo ha uno spigolo di circa 2,5 centimetri. 
+Su ogni faccia è raffigurato un simbolo diverso. 
+Il personaggio può premere una di queste facce, consumare il numero di cariche che richiede e quindi lanciare l'incantesimo ad essa associato (CD del tiro salvezza 17), come indicato nella tabella Facce del cubo di forza.
+Inizialmente il cubo ha 10 cariche e recupera 1d6 cariche consumate all'alba di ogni giorno.
+
+### Facce del cubo di forza
+**Incantesimo Costo in cariche**
+**Armatura magica** 1
+**Capanna** 3
+**Muro di forza** 5
+**Santuario privato** 4
+**Scudo** 1
+**Sfera elastica** 4
