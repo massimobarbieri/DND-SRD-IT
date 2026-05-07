@@ -30,7 +30,7 @@
 [DONE] [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
 [DONE] [WARN] Melma Grigia — immunita_danni_contiene_condizioni: accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 [DONE][WARN] Naga spirituale — artefatti_pagina_pdf: 360 System Reference Document 5.2.1
-- [WARN] Planetar — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
+[DONE] [WARN] Planetar — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
 - [WARN] Rakshasa — immunita_danni_contiene_condizioni: affascinato, spaventato
 - [WARN] Sfinge della conoscenza — lista_con_separatore_finale: abilita: Arcano +12, Percezione +8, Religione +12,
 - [WARN] Solar — immunita_danni_contiene_condizioni: radioso, veleno

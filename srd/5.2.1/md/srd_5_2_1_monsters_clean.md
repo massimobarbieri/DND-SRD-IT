@@ -9097,6 +9097,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 **A volontà:** Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio di infermità (di 3º livello).
 
 ## Melma Grigia
+
 **tipo:** Melma
 **dimensione:** Media
 **allineamento:** senza allineamento
@@ -10653,7 +10654,7 @@ Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre ti
 
 **abilita:** Percezione +11  
 **resistenze:** radioso  
-**immunita_danni:** affascinato, indebolimento, spaventato  
+**immunita_condizioni:** affascinato, indebolimento, spaventato  
 **sensi:** Percezione passiva 21; vista pura 36 m  
 **lingue:** tutte; telepatia 36 m  
 **grado_sfida:** 16  
