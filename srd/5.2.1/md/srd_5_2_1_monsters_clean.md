@@ -14646,7 +14646,7 @@ Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni per
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 3 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -14697,7 +14697,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -17065,7 +17065,6 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1/2 (PE 100; BC +2)
 
-
 ### Tratti
 
 **Movimenti del ragno**  
@@ -17076,7 +17075,7 @@ Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muove
 
 ### Azioni
 
-**Morsi**  
+**Morsi**
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. 
 
 ## Sciame di pipistrelli
@@ -17117,6 +17116,14 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da ve
 **punti_esperienza:** PE 50
 **bonus_competenza:** +2
 **grado_sfida_raw:** 1/4 (PE 50; BC +2)
+
+### Tratti 
+
+**Sciame**
+Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura sufficientemente larga da far passare un 
+pipistrello di taglia Minuscola. L'orda non può recupe-rare punti ferita o ottenere punti ferita temporanei.
+
+### Azioni
 
 **Morsi**  
 Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (2d4) danni perforanti, o 2 (1d4) danni perforanti se lo sciame è sanguinante.
@@ -17622,7 +17629,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perfo
 
 **abilita:** Percezione +5  
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 15  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  

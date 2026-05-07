@@ -36,11 +36,11 @@
 [DONE] [WARN] Solar — immunita_danni_contiene_condizioni: radioso, veleno
 [DONE] [WARN] Famiglio del vampiro — immunita_danni_contiene_condizioni: affascinato (tranne che dal suo padrone vampiro)
 [DONE] [WARN] Banco di piranha — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
-- [WARN] Colonia di serpenti velenosi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
-- [WARN] Colonia di topi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
-- [INFO] Sciame di pipistrelli — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+[DONE] [WARN] Colonia di serpenti velenosi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [WARN] Colonia di topi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [INFO] Sciame di pipistrelli — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
 [DONE][WARN] Serpente velenoso — artefatti_pagina_pdf: 402 System Reference Document 5.2.1
-- [WARN] Stormo di corvi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [WARN] Stormo di corvi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 
 
 ## Migliorie consigliate
