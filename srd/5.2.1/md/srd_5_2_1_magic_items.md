@@ -730,4 +730,88 @@ All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il pe
 **tipo:** Bastone (richiede sintonia)
 **rarita:** raro
 
-Questo bastone ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno.Il bastone può anche essere brandito come un bastone ferrato magico. Se il colpo va a segno, infligge danni come un normale bastone ferrato e il personaggio può consumare 1 carica per infliggere al bersaglio 2d10 danni necrotici extra, costringendolo a effettuare un tiro salvezza su Costituzione con CD 15. In caso di fallimento, il bersaglio ha svantaggio per 1 ora alle prove di caratteristica o ai tiri salvezza su Forza o Costituzione
+Questo bastone ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno.Il bastone può anche essere brandito come un bastone ferrato magico. Se il colpo va a segno, infligge danni come un normale bastone ferrato e il personaggio può consumare 1 carica per infliggere al bersaglio 2d10 danni necrotici extra, costringendolo a effettuare un tiro salvezza su Costituzione con CD 15. In caso di fallimento, il bersaglio ha svantaggio per 1 ora alle prove di caratteristica o ai tiri salvezza su Forza o Costituzione.
+
+## Bastone del fuoco
+
+**tipo:** Bastone (richiede sintonia con un druido, un mago, uno stregone o un warlock)
+**rarita:** molto raro
+
+Mentre il personaggio impugna questo bastone, ottiene resistenza ai danni da fuoco.
+
+**Incantesimi**
+Il bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Mani brucianti** 1
+**Palla di fuoco** 3
+**Muro di fuoco** 4
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone viene ridotto in cenere ed è distrutto.
+
+## Bastone del gelo
+
+**tipo:** Bastone (richiede sintonia con un druido, un mago, uno stregone o un warlock)
+**rarita:** molto raro
+
+Mentre il personaggio impugna questo bastone, ottiene resistenza ai danni da freddo.
+
+**Incantesimi**
+Il bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Cono di freddo** 5
+**Nube di nebbia** 1
+**Muro di ghiaccio** 4
+**Tempesta di ghiaccio** 4
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone si trasforma in acqua e viene distrutto.
+
+## Bastone della guarigione
+
+**tipo:** Bastone (richiede sintonia con un bardo, un chierico o un druido)
+**rarita:** raro
+
+Questo bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando il suo modificatore di caratteristica da incantatore. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Cura ferite di massa** 5
+**Cura ferite** 1 carica per livello dell'incantesimo (massimo 4 per un incantesimo di 4º livello)
+**Ristorare inferiore** 2
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone svanisce in un lampo di luce ed è perduto per sempre.
+
+## Bastone dello charme
+
+**tipo:** Bastone (richiede sintonia con un bardo, un chierico, un druido, un mago, uno stregone o un warlock)
+**rarita:** raro
+
+Questo bastone ha 10 cariche. Mentre il personaggio lo impugna, può usare una qualsiasi delle sue proprietà:
+
+**Lanciare incantesimi**
+Il personaggio può consumare 1 carica del bastone e usarlo per lanciare charme su persone, comando o comprensione delle lingue usando la sua CD del tiro salvezza sull'incantesimo.
+
+**Riflettere l'ammaliamento**
+Se il personaggio supera il tiro salvezza contro un incantesimo di ammaliamento che ha solo lui come bersaglio, può usare la sua reazione e consumare 1 carica del bastone per riflettere l'incantesimo contro il suo incantatore, come se fosse stato il personaggio a lanciarlo.
+
+**Ripristinare le cariche**
+Il bastone recupera 1d8 + 2 cariche consumate all'alba di ogni giorno. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone si sbriciola e viene distrutto.
+
+## Bastone dello sciame di insetti
+
+**tipo:** Bastone (richiede sintonia con un bardo, un chierico, un druido, un mago, uno stregone o un warlock)
+**rarita:** raro
+
+Questo bastone ha 10 cariche.
+
+**Nube di insetti**
+Finché il personaggio impugna il bastone, può effettuare un'azione di Magia e consumare 1 carica per generare una nube di insetti innocui in un'emanazione di 9 metri di cui è il punto di origine. Gli insetti permangono per 10 minuti, rendendo l'area pesantemente oscurata per ogni altra creatura a eccezione del personaggio. Lo sciame può essere disperso da un vento forte (come quello creato da folata di vento), ponendo fine all'effetto.
+
+**Incantesimi**
+Mentre il personaggio impugna il bastone, può usarlo per lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo e il modificatore di attacco dell'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo. 
+**Incantesimo Costo in cariche**
+**Insetto gigante** 4
+**Piaga degli insetti** 5
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, uno sciame di insetti consuma e distrugge il bastone, per poi disperdersi.
