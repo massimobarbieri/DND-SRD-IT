@@ -21,7 +21,7 @@
 [DONE] [INFO] Elementale dell'acqua — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
 [DONE] [INFO] Elementale dell'aria — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
 [DONE] [WARN] Fantasma — lista_con_separatore_finale: resistenze: acido, contundente, freddo, fulmine, fuoco,
-- [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
+[DONE] [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
 - [WARN] Boleto stridente — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
 - [WARN] Fungo viola — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
 - [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato

@@ -5877,7 +5877,7 @@ Tiro salvezza su Saggezza: CD 13, tutte le creature in un cono di 18 metri in gr
 - saggezza: +0
 - carisma: -2
 
-**immunita_danni:** prono  
+**immunita_condizioni:** prono  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
