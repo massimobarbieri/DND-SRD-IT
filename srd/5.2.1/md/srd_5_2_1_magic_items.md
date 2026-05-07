@@ -1001,3 +1001,65 @@ Il personaggio che indossa questi bracciali ottiene un bonus di +2 alla Classe A
 **rarita:** **rarita:**
 
 Quando il personaggio indossa questi bracciali, ha competenza nell'arco lungo e nell'arco corto e ottiene un bonus di +2 ai tiri per i danni effettuati con tali armi.
+
+## Braciere del comando degli elementali del fuoco
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quando il personaggio si trova a 1,5 metri da questo braciere, può effettuare un'azione di Magia per richiamare un elementale del fuoco. La creatura compare in uno spazio libero il più vicino possibile al braciere, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. Il braciere non può essere riutilizzato in questo modo fino all'alba successiva.
+
+## Buco portatile
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quando è piegato, questo panno di elegante tessuto nero morbido come la seta ha le dimensioni di un fazzoletto. Una volta spiegato, copre una superficie circolare di 1,8 metri di diametro.
+Il personaggio può effettuare un'azione di Magia per spiegare il buco portatile e collocarlo su una superficie solida o contro di essa, creando un buco extradimensionale profondo 3 metri. Lo spazio cilindrico all'interno del buco esiste su un diverso piano di esistenza, quindi il buco non può essere usato per creare passaggi da attraversare. Ogni creatura all'interno di un buco portatile aperto può uscirne arrampicandosi sulle sue pareti.
+Il personaggio può effettuare un'azione di Magia per chiudere il buco portatile afferrandone i lembi e ripiegandoli. In questo modo, il buco si chiude e tutti gli oggetti e le creature al suo interno restano nello spazio extradimensionale. A prescindere dal suo contenuto, il buco ha un peso irrilevante.
+Se il buco è ripiegato, una creatura all'interno del suo spazio extradimensionale può usare un'azione per effettuare una prova di Forza (Atletica) con CD 10. In caso di successo, la creatura riesce a uscire e compare entro 1,5 metri dal buco porta-tile. Un buco portatile contiene una quantità d'aria sufficiente per 1 ora, da dividere per il numero di creature che respirano al suo interno.
+Collocare un buco portatile all'interno di uno spazio extradimensionale, come quello creato da uno zainetto pratico, da una borsa conservante o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le cre-ature entro 3 metri dal portale e senza copertura totale vengono attirate al suo interno e depositate in un luogo casuale del Piano Astrale; dopodiché, il portale si chiude. Il portale è a senso unico e non può essere riaperto.
+
+## Campana dell'apertura
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questo tubo cavo di metallo è lungo circa 30 centimetri e pesa 0,5 chilogrammi. Il personaggio può effettuare un'azione di Magia per colpire la campana e lanciare l'incantesimo scassinare. Il consueto suono dell'incantesimo di qualcuno che bussa è sostituito dal suono chiaro e squillante dello scampanellio, udibile fino a 90 metri.
+La campana può essere utilizzata 10 volte. Dopo il decimo uso, si crepa e diventa inutilizzabile.
+
+## Candela dell'invocazione
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** molto raro
+
+La magia della candela si attiva quando la candela viene accesa, il che richiede un'azione di Magia. 
+La candela può ardere per 4 ore, dopodiché viene distrutta. Il personaggio può spegnerla prima che si esaurisca per usarla successivamente. Il tempo di utilizzo va sottratto in frazioni da 1 minuto dal tempo totale per cui la candela può ardere.
+Mentre è acceso, l'oggetto proietta luce fioca entro un raggio di 9 metri. Mentre il personaggio si trova all'interno di quel raggio, dispone di vantaggio alle prove con d20. Inoltre, un chierico o un druido all'interno della luce possono lanciare incantesimi di 1º livello che hanno preparato senza spendere slot incantesimo.
+In alternativa, quando un personaggio accende la candela per la prima volta, può usarla per lanciare l'incantesimo portale. In questo modo, la candela viene distrutta. Il portale generato  dall'incantesimo conduce a un Piano Esterno determinato dal GM o deciso tirando sulla tabella seguente.
+**1d100 Piano Esterno**
+**01–05** Abisso
+**06–10** Acheronte
+**11–15** Ade
+**16–22** Arborea
+**23–30** Arcadia
+**31–38** Bytopia
+**39–43** Carceri
+**44–51** Elysium
+**52–56** Gehenna
+**57–61** Limbo
+**62–69** Mechanus
+**70–77** Monte Celestia
+**78–82** Nove Inferi
+**83–87** Pandemonium
+**88–95** Terre Bestiali
+**96–00** Ysgard
+
+## Cappa del saltimbanco
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa cappa emana un leggero odore di zolfo. 
+Finché il personaggio la indossa, può usarla per lanciare porta dimensionale come azione di Magia. 
+Questa proprietà non può essere riutilizzata fino all'alba successiva.Quando il personaggio si teletrasporta con questo incantesimo, si lascia dietro una nuvola di fumo. Il fumo rende leggermente oscurato lo spazio lasciato dal personaggio fino alla fine del suo turno successivo
