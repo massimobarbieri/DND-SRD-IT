@@ -7202,7 +7202,7 @@ Il golem lancia l'incantesimo lentezza, senza bisogno di componenti e utilizzand
 - carisma: -2
 
 **abilita:** Percezione +7  
-**immunita_danni:** indebolimento, pietrificato  
+**immunita_condizioni:** indebolimento, pietrificato  
 **sensi:** Percezione passiva 17; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 5  

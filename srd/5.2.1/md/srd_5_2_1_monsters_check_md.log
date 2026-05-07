@@ -24,7 +24,7 @@
 [DONE] [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
 [DONE] [WARN] Boleto stridente — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
 [DONE] [WARN] Fungo viola — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
-- [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato
+[DONE] [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato
 - [WARN] Idra — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 - [WARN] Manto assassino — immunita_danni_contiene_condizioni: spaventato
 - [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
