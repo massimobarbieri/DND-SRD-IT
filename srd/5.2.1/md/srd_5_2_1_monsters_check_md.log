@@ -17,9 +17,9 @@
 [DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Incantesimi x2
 [DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Soffio di fulmini (ricarica 5-6) x2
 [DONE][WARN] Drago nero antico — artefatti_pagina_pdf: 325 System Reference Document 5.2.1
-[DONE][DONE][WARN] Driade — artefatti_pagina_pdf: 329 System Reference Document 5.2.1
-- [INFO] Elementale dell'acqua — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
-- [INFO] Elementale dell'aria — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+[DONE][WARN] Driade — artefatti_pagina_pdf: 329 System Reference Document 5.2.1
+[DONE] [INFO] Elementale dell'acqua — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+[DONE] [INFO] Elementale dell'aria — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
 - [WARN] Fantasma — lista_con_separatore_finale: resistenze: acido, contundente, freddo, fulmine, fuoco,
 - [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
 - [WARN] Boleto stridente — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato

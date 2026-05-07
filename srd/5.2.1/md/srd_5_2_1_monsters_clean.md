@@ -5427,7 +5427,7 @@ Se l'elementale subisce danni da freddo, la sua velocità è ridotta di 6 metri 
 **Forma d'acqua**
 L'elementale può entrare nello spazio di un nemico e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
 
-### Attacchi
+### Azioni
 
 **Multiattacco**  
 L'elementale effettua due attacchi Schianto.
@@ -5482,7 +5482,7 @@ Tiro salvezza su Forza: CD 15, ogni creatura nello spazio dell'elementale. Falli
 **Forma d'aria**  
 L'elementale può entrare nello spazio di una creatura e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
 
-### Attacchi
+### Azioni
 
 **Multiattacco**  
 L'elementale effettua due attacchi Schianto tonante.
