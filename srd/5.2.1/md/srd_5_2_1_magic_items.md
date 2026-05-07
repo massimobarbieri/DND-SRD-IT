@@ -1097,4 +1097,121 @@ suo turno successivo.
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
-Mentre il personaggio indossa questo cappello, può lanciare l'incantesimo camuffare se stesso. L'incante-simo termina se il cappello viene rimosso.
+Mentre il personaggio indossa questo cappello, può lanciare l'incantesimo camuffare se stesso. L'incantesimo termina se il cappello viene rimosso.
+
+## Caraffa dell'acqua eterna
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Quando si scuote quest'ampolla chiusa da un tappo di sughero, si sente uno sciabordio, come se contenesse dell'acqua. La caraffa pesa 1 chilogrammo.
+Come azione di Magia, il personaggio può rimuo-vere il tappo e pronunciare una delle tre possibili parole d'ordine, nel qual caso dalla caraffa esce una certa quantità di acqua potabile o salata (a scelta del personaggio). L'acqua smette di uscire all'inizio del turno successivo del personaggio. Il personaggio sceglie fra le seguenti parole d'ordine:
+
+**Schizzo**
+La caraffa produce 4 litri d'acqua.
+
+**Fontana**
+La caraffa produce 20 litri d'acqua.
+
+**Geyser**
+La caraffa produce 120 litri d'acqua che zampilla in una linea lunga 9 metri e larga 30 centimetri. Se il personaggio sta tenendo in mano la caraffa, può dirigere il getto d'acqua in una direzione specifica (nessuna azione richiesta). 
+Una creatura a scelta del personaggio lungo la linea deve superare un tiro salvezza su Forza con CD 13 o subire 1d4 danni contundenti e cadere prona. In alternativa, il personaggio può dirigere il getto contro un oggetto nella traiettoria che non sia indossato o trasportato e che non pesi più di 100 chilogrammi. L'oggetto viene ribaltato dal geyser.
+
+## Cintura della forza dei giganti
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** rarità variabile
+
+Finché il personaggio indossa questa cintura, la sua Forza cambia in un determinato punteggio conferito dalla cintura, come determinato dal tipo di gigante (vedi la tabella sottostante). Se il punteggio di Forza del personaggio senza cintura è pari o superiore a quello conferito dall'oggetto, non ha alcun effetto.
+**Cintura For. Rarità**
+**Cintura della forza dei giganti (delle colline)** 21 Rara
+**Cintura della forza dei giganti (del gelo o delle pietre)** 23 Molto rara
+**Cintura della forza dei giganti (del fuoco)** 25 Molto rara
+**Cintura della forza dei giganti (delle nuvole)** 27 Leggendaria
+**Cintura della forza dei giganti (delle tempeste)** 29 Leggendaria
+
+## Cintura nanica
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Il personaggio che indossa questa cintura riceve i seguenti benefici:
+**Amico dei nani**
+Dispone di vantaggio alle prove di Carisma (Persuasione) effettuate per interagire con i nani e i duergar.
+**Nanico**
+Impara il nanico.
+**Robustezza**
+Il suo punteggio di Costituzione aumenta di 2, fino a un massimo di 20.
+
+Inoltre, dopo che il personaggio che indossa la cintura è entrato in sintonia con essa, ogni mattina all'alba c'è una probabilità del 50% che gli spuntino 
+barba e baffi, premesso che il suo corpo possa svilupparli, o che la sua barba cresca se ne ha già una.Se non è un nano o un duergar, ottiene i seguenti 
+benefici aggiuntivi finché indossa la cintura:
+**Resilienza**
+Ha resistenza ai danni da veleno.  Dispone di vantaggio sui tiri salvezza eseguiti per evitare o terminare la condizione avvelenato su se stesso.
+**Scurovisione**
+Ha scurovisione fino a un raggio di 18 metri.
+
+## Colla meravigliosa
+
+**tipo:** Oggetto meraviglioso
+**rarita:** leggendario 
+
+Questa sostanza viscosa e lattiginosa può creare un legame adesivo permanente tra due oggetti qualsiasi. Deve essere custodita in un barattolo o in un'ampolla al cui interno sia stato spalmato dell'olio della scivolosità. Quando viene trovato, il contenitore contiene (1d6 + 1) x 30 grammi di colla.
+Una quantità di colla pari a 30 grammi può coprire una superficie quadrata con lato di 30 centimetri. Per applicare 30 grammi di colla meravigliosa è necessaria un'azione di Utilizzo; la colla avrà effetto dopo 1 minuto. Il legame così creatosi può essere spezzato solamente con un'applicazione di solvente universale o di olio della forma eterea, o tramite un incantesimo desiderio.
+
+## Collana dell'adattamento
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Mentre il personaggio indossa questa collana, può respirare normalmente in qualsiasi ambiente ed effettua con vantaggio i tiri salvezza necessari per evitare o porre fine alla condizione avvelenato.
+
+## Collana delle palle di fuoco
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro 
+
+Da questa collana pendono 1d6 + 3 perle. Il personaggio può effettuare un'azione di Magia per staccare una perla e lanciarla entro 18 metri di distanza. Una volta raggiunta la fine della sua traiettoria, la perla esplode in una palla di fuoco di 3º livello (CD del tiro salvezza 15).
+Con un'unica azione, è possibile lanciare più perle o perfino l'intera collana. In tal caso, il danno della palla di fuoco aumenta di 1d6 per ogni perla dopo la prima (massimo 12d6).
+
+## Collana del rosario
+
+**tipo:** Oggetto meraviglioso (richiede sintonia con un chierico, druido o paladino)
+**rarita:** raro
+
+Questa collana ha 1d4 + 2 perle magiche fatte di acquamarina, perla nera o topazio, oltre a molte perle non magiche fatte di ambra, diaspro, citrino, corallo, giada, perla o quarzo. Se una perla magica viene rimossa dalla collana, perde la sua magia.
+Esistono sei tipi di perline magiche. La loro tipologia è a discrezione del GM o determinata casual-mente tirando sulla tabella sottostante. La collana può includere più perle dello stesso tipo. Per usarne una, il personaggio deve indossare la collana. Ogni perla contiene un incantesimo che il personaggio può lanciare come azione bonus (usando la sua CD del tiro salvezza sull'incantesimo, quando è richiesto un tiro salvezza). Una volta lanciato l'incantesimo di una perla magica, quella perla non può più essere usata fino all'alba successiva.
+**1d20 Perla Incantesimo**
+**1–4** Perla del favore Ristorare superiore
+*5* Perla del richiamo Guardiano della fede
+**6–11** Perla della benedizione Benedizione
+**12** Perla della camminata nel vento Camminare nel vento
+**13–18** Perla della guarigione Cura ferite (versione di 2º livello)
+**19–20** Perla della punizione Punizione splendente
+
+## Corazza di scaglie di drago
+
+**tipo:** Armatura (corazza a scaglie) (richiede sintonia)
+**rarita:** molto rara
+
+La corazza di scaglie di drago è ricavata dalle scaglie di un tipo di drago. A volte i draghi raccolgono le loro scaglie cadute e ne fanno dono a qualcuno. Altre volte i cacciatori conservano le pelli dei draghi uccisi. In entrambi i casi, la corazza di scaglie di drago è un oggetto estremamente pregiato.Quando indossa quest'armatura, il personaggio ottiene un bonus di +1 alla Classe Armatura, vantaggio ai tiri salvezza contro il soffio dei draghi e resistenza a un tipo di danno determinato dal tipo di scaglie da cui è composta l'armatura (vedi la relativa tabella).
+Con un'azione, il personaggio può inoltre concen-trare i suoi sensi come azione di Magia e percepire la distanza e la direzione del drago più vicino dello stesso tipo dell'armatura, entro un raggio di 45 chi-lometri. Questa azione non può essere riutilizzata fino all'alba successiva.
+**Drago Resistenza**
+**Argento** Freddo 
+**Bianco** Freddo
+**Blu** Fulmine
+**Bronzo** Fulmine
+**Nero** Acido
+**Oro** Fuoco
+**Ottone** Fuoco
+**Rame** Acido
+**Rosso** Fuoco
+**Verde** Veleno
+
+## Corda intralciante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa corda è lunga 9 metri. Se il personaggio impugna un'estremità della corda, può effettuare un'azione di Magia per ordinare all'altro capo di guizzare in avanti e intralciare una creatura situata entro 6 metri dal personaggio e che egli sia in grado di vedere. Il bersaglio deve quindi superare un tiro salvezza su Destrezza con CD 15, altrimenti sarà trattenuto. Il personaggio può liberare il bersaglio lasciando la sua estremità della corda (facendo sì che la corda si attorcigli nello spazio occupato dal bersaglio) o ripetendo l'ordine con un'azione bonus (facendo attorcigliare la corda intorno alla mano del personaggio).
+Un bersaglio trattenuto dalla corda può effettuare una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15 (a sua scelta) con un'azione. In caso di successo, il bersaglio non è più trattenuto dalla corda. Se il personaggio la sta ancora tenendo quando il bersaglio si libera, può usare una reazione per ordinare alla corda di attorcigliarsi intorno alla sua mano, altrimenti si attorciglierà nello spazio occupato dal bersaglio. La corda ha CA 20, 20 punti ferita e immunità ai danni psichici e da veleno. Recupera 1 punto ferita ogni 5 minuti, purché le rimanga almeno 1 punto ferita. Se la corda scende a 0 punti ferita, viene distrutta.
