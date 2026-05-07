@@ -1278,3 +1278,136 @@ Inizialmente il cubo ha 10 cariche e recupera 1d6 cariche consumate all'alba di 
 **Santuario privato** 4
 **Scudo** 1
 **Sfera elastica** 4
+
+## Diadema incandescente
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Indossando questo diadema, il personaggio può lanciare un incantesimo raggio rovente (+5 per colpire). L'oggetto non può lanciare di nuovo questo incantesimo fino all'alba successiva.
+
+## Difensiva
+
+**tipo:** Arma (qualsiasi arma da mischia) (richiede sintonia)
+**rarita:** leggendaria
+
+Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica.
+La prima volta in ogni suo turno in cui attacca con quest'arma, il personaggio può trasferire tutto il bonus dell'arma o parte di esso alla propria Classe Armatura. Potrebbe, per esempio, ridurre il bonus ai tiri per colpire e a quelli per i danni a +1 e ottenere un bonus di +2 alla CA. I bonus modificati restano in vigore fino all'inizio del turno successivo del personaggio, che deve però impugnare l'arma per ottenere il bonus alla CA.
+
+## Elisir della salute
+
+**tipo:** Pozione
+**rarita:** rara
+
+Il personaggio che beve questa pozione guarisce da tutti i contagi magici. In più, queste condizioni ter-minano su di esso: Accecato, assordato, paralizzato e avvelenato.
+Il liquido rosso chiaro presenta minuscole bollicine di luce.
+
+## Elmo della comprensione dei linguaggi
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Mentre il personaggio indossa l'elmo, può lanciare un incantesimo comprensione dei linguaggi da esso.
+
+## Elmo della luminosità
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** molto raro
+
+In questo elmo sono stati incastonati 1d10 dia-manti, 2d10 rubini, 3d10 opali di fuoco e 4d10 opali. Se staccate dall'elmo, le gemme si riducono in polvere. Quando tutte le gemme sono state rimosse o distrutte, l'elmo perde la sua magia.
+Il personaggio ottiene i seguenti benefici mentre indossa l'elmo:
+**Fiamme dell'opale di fuoco**
+Finché rimane incastonato almeno un'opale di fuoco, il personaggio può compiere un'azione di Magia per generare fiamme dall'arma che impugna. Le fiamme proiettano luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri. Non danneggiano né il personaggio, né l'arma. Quando il personaggio colpisce con un attacco sferrato con l'arma fiammeggiante, infligge al bersaglio 1d6 danni da fuoco extra. Le fiamme durano finché il personaggio non effettua un'azione bonus per spegnerle o finché non lascia cadere o ripone l'arma.
+
+**Incantesimi**
+Il personaggio può lanciare uno dei seguenti incantesimi (CD del tiro salvezza 18), utilizzando come componente una delle gemme dell'elmo del tipo specificato: luce diurna (opale), muro di fuoco (rubino), palla di fuoco (opale di fuoco) o spruzzo prismatico (diamante). Non appena lanciato l'incantesimo, la gemma viene distrutta e scompare dall'elmo.
+
+**Luce del diamante**
+Finché ha almeno un diamante, l'elmo crea un'emanazione di 9 metri. Quando almeno un non morto si trova in quell'area, l'emanazione si riempie di luce fioca. Ogni non morto che inizia il suo turno in quell'area subisce 1d6 danni radiosi.
+
+**Resistenza del rubino**
+Finché rimane incastonato almeno un rubino, il personaggio ottiene resistenza ai danni da fuoco.
+
+**Subire danni da fuoco**
+Il personaggio tira 1d20 se indossa l'elmo e subisce danni da fuoco per avere fallito un tiro salvezza contro un incantesimo. Se ottiene come risultato 1, le gemme rimaste sull'elmo irradiano raggi di luce e l'oggetto viene distrutto. Ogni creatura situata entro 18 metri dall'emanazione generata dal personaggio deve superare un tiro salvezza su Destrezza con CD 17, altrimenti viene colpita da un raggio e subisce un ammontare di danni radiosi pari al numero di gemme rimaste sull'elmo.
+
+## Elmo della telepatia
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Quando il personaggio indossa questo elmo, ha telepatia fino a 9 metri e può lanciare individuazione dei pensieri o suggestione (CD del tiro salvezza 13) da esso. Una volta lanciato un incantesimo dall'elmo, questo non può essere lanciato nuovamente fino all'alba successiva.
+
+## Elmo del teletrasporto
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Questo elmo ha 3 cariche. Il personaggio che lo indossa può consumare 1 carica per lanciare teletrasporto da esso. L'elmo recupera 1d3 cariche consumate all'alba di ogni giorno.
+
+## Faretra efficiente
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Ognuno dei tre scomparti di questa faretra è collegato a uno spazio extradimensionale che le consente di contenere numerosi oggetti senza mai pesare più di 1 chilogrammo. Lo scomparto più corto può contenere fino a 60 frecce, quadrelli o oggetti simili. Quello medio può contenere fino a 18 giavellotti o oggetti simili. Quello più lungo contiene fino a 6 oggetti lunghi come archi, bastoni ferrati o lance.
+Il personaggio può estrarre un qualsiasi oggetto qui contenuto come se fosse una normale faretra o fodero.
+
+## Fasce metalliche
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa sfera di metallo arrugginito ha un dia-metro di 7,5 centimetri e pesa 0,5 chilogrammi. Il personaggio può effettuare un'azione di Magia per lanciarla contro una creatura di taglia Enorme o inferiore che è in grado di vedere entro 18 metri da sé. Mentre sfreccia in aria, la sfera si apre rivelando un groviglio di fasce metalliche.
+Il personaggio effettua un tiro per colpire a distanza con un bonus di attacco pari al suo modificatore di Destrezza più il suo bonus di competenza. 
+Se va a segno, il bersaglio è trattenuto finché il personaggio non usa un'azione bonus per pronunciare la parola d'ordine in grado di liberarlo. Se lo fa, o se l'attacco manca il bersaglio, le fasce si ritraggono e tornano a formare la sfera originale.
+Una creatura, inclusa quella trattenuta, in grado di toccare le fasce può usare un'azione per effettuare una prova di Forza (Atletica) con CD 20 per spezzare le fasce metalliche. In caso di successo, l'oggetto viene distrutto e la creatura trattenuta si libera. Se la prova fallisce, ogni ulteriore tentativo effettuato dalla stessa creatura fallisce automaticamente finché non sono trascorse 24 ore.
+Una volta usate, le fasce non possono essere  riutilizzate fino all'alba successiva.
+
+## Fascia dell'intelletto
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Finché il personaggio indossa questa fascia, il suo punteggio di Intelligenza è pari a 19. Se il suo punteggio di Intelligenza è già pari o superiore a 19, l'oggetto non ha alcun effetto.
+
+## Fermaglio dello scudo
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Quando indossa questo fermaglio, il personaggio ottiene resistenza ai danni da forza ed è immune ai danni inflitti dall'incantesimo dardo incantato.
+
+## Ferri della velocità
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro 
+
+Questi ferri da cavallo si presentano in gruppi di quattro. Il personaggio può effettuare un'azione di Magia per toccare lo zoccolo di un cavallo o di una creatura simile con uno dei ferri; a quel punto, il ferro si attacca allo zoccolo. Anche la rimozione di un ferro di cavallo richiede un'azione di Magia.Quando tutti e quattro i ferri sono attaccati alla stessa creatura, la sua velocità aumenta di 9 metri.
+
+## Ferri dello zefiro
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questi ferri da cavallo si presentano in gruppi di quattro. Il personaggio può effettuare un'azione di Magia per toccare lo zoccolo di un cavallo o di una creatura simile con uno dei ferri; a quel punto, il ferro si attacca allo zoccolo. Anche la rimozione di un ferro di cavallo richiede un'azione di Magia.Quando vengono applicati tutti e quattro agli zoccoli di un cavallo o di una creatura simile, per-mettono a tale creatura di muoversi normalmente fluttuando a 10 centimetri dalla superficie su cui si trova. Grazie a questo effetto la creatura può stazionare o muoversi su superfici non solide o instabili, come l'acqua o la lava. La creatura non lascia tracce e ignora il terreno difficile. Inoltre, la creatura può viaggiare per un massimo di 12 ore al giorno senza ottenere livelli di indebolimento a causa del viaggio prolungato.
+
+## Filtro d'amore
+
+**tipo:** Pozione
+**rarita:** non comune
+
+La prossima volta che il personaggio vede una creatura entro 10 minuti dal momento in cui ha bevuto il filtro, diventa affascinato da essa per 1 ora.
+Questo liquido rosato ed effervescente contiene una bolla a forma di cuore alquanto difficile da individuare.
+
+## Flauto dei topi
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Finché il personaggio ha con sé questo flauto, i topi normali e giganti sono indifferenti nei suoi confronti e non lo attaccano, a meno che egli non li minacci o li ferisca.
+Questo flauto ha 3 cariche e ne recupera 1d3 all'alba di ogni giorno. Se il personaggio lo suona effettuando un'azione di Magia, può usare un'azione bonus per consumare da 1 a 3 cariche e richiamare uno sciame di topi per ogni carica consumata, purché entro un raggio di 750 metri ci siano topi a sufficienza (sarà il GM a determinarlo). Se non ci sono abbastanza topi per formare uno sciame, la carica viene sprecata. Gli sciami così chiamati si muovono verso la musica seguendo il percorso più breve disponibile, ma sotto ogni altro aspetto non sono sotto il controllo del personaggio.
+Se il personaggio suona il flauto ed entro 9 metri da lui giunge uno sciame di topi che non è sotto il controllo di altre creature, quest'ultimo deve effettuare un tiro salvezza su Saggezza con CD 15. In caso di successo, lo sciame si comporta come di consueto e non può essere controllato dalla musica 
+del flauto per 24 ore. In caso di fallimento, lo sciame è controllato dalla musica del flauto e diventa amichevole nei confronti del personaggio e dei 
+suoi alleati finché questo continua a suonare ogni round effettuando un'azione di Magia. Uno sciame amichevole obbedisce ai comandi del personaggio. Se il personaggio non impartisce alcun comando allo sciame amichevole, questo si difende, ma non effettua altre azioni. Se uno sciame amichevole inizia il suo turno a più di 9 metri dal personaggio, il controllo che egli esercita su di esso si interrompe: lo sciame torna a comportarsi secondo la 
+sua natura e non può essere soggetto all'influsso della musica del flauto per le 24 ore successive.
