@@ -9124,7 +9124,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 
 **abilita:** Furtività +2  
 **resistenze:** acido, freddo, fuoco  
-**immunita_danni:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+**immunita_condizioni:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
