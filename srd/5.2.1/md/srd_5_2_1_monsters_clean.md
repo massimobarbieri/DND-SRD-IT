@@ -11768,7 +11768,7 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 - saggezza: +4
 - carisma: +4
 
-**abilita:** Arcano +12, Percezione +8, Religione +12,  
+**abilita:** Arcano +12, Percezione +8, Religione +12, Storia +12
 **resistenze:** necrotico, radioso  
 **immunita_danni:** psichico  
 **immunita_condizione:** affascinato, spaventato  
