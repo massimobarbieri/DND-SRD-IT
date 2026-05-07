@@ -1215,3 +1215,66 @@ Con un'azione, il personaggio può inoltre concen-trare i suoi sensi come azione
 
 Questa corda è lunga 9 metri. Se il personaggio impugna un'estremità della corda, può effettuare un'azione di Magia per ordinare all'altro capo di guizzare in avanti e intralciare una creatura situata entro 6 metri dal personaggio e che egli sia in grado di vedere. Il bersaglio deve quindi superare un tiro salvezza su Destrezza con CD 15, altrimenti sarà trattenuto. Il personaggio può liberare il bersaglio lasciando la sua estremità della corda (facendo sì che la corda si attorcigli nello spazio occupato dal bersaglio) o ripetendo l'ordine con un'azione bonus (facendo attorcigliare la corda intorno alla mano del personaggio).
 Un bersaglio trattenuto dalla corda può effettuare una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15 (a sua scelta) con un'azione. In caso di successo, il bersaglio non è più trattenuto dalla corda. Se il personaggio la sta ancora tenendo quando il bersaglio si libera, può usare una reazione per ordinare alla corda di attorcigliarsi intorno alla sua mano, altrimenti si attorciglierà nello spazio occupato dal bersaglio. La corda ha CA 20, 20 punti ferita e immunità ai danni psichici e da veleno. Recupera 1 punto ferita ogni 5 minuti, purché le rimanga almeno 1 punto ferita. Se la corda scende a 0 punti ferita, viene distrutta.
+
+## Corda per scalare
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questa corda lunga 18 metri può sostenere fino a 1.500 chilogrammi di carico. Mentre impugna un'estremità della corda, il personaggio può effettuare un'azione di Magia per ordinare all'altro capo di animarsi e muoversi verso una destinazione a sua scelta entro la lunghezza della corda stessa. L'estremità si muove di 3 metri durante il turno in cui il personaggio impartisce l'ordine e di 3 metri all'inizio di ogni suo turno successivo, finché non raggiunge la destinazione o il personaggio non le ordina di fermarsi. Il personaggio può anche ordinare alla corda di legarsi saldamente a un oggetto o di sciogliersi, annodarsi o sciogliere i nodi, oppure di arrotolarsi per essere trasportata.
+Se il personaggio le ordina di annodarsi, lungo la corda compare una serie di grandi nodi a distanza di 30 centimetri l'uno dall'altro. Quando è annodata, la corda si accorcia fino a una lunghezza di 15 metri e conferisce vantaggio alle prove effet-tuate per utilizzarla.
+La corda ha CA 20, 20 punti ferita e immunità ai danni psichici e da veleno. Recupera 1 punto ferita ogni 5 minuti, purché le rimanga almeno 1 punto ferita. Se la corda scende a 0 punti ferita, viene distrutta.
+
+## Corno della distruzione
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Il personaggio può effettuare un'azione di Magia per soffiare dentro il corno, il quale emette un boato rombante in un cono di 9 metri udibile fino a 180 metri. Ogni creatura all'interno del cono deve effettuare un tiro salvezza su Costituzione con CD 15. Se lo fallisce, subisce 5d8 danni da tuono ed è assordata per un minuto. Se passa il tiro salvezza, la  creatura subisce solo la metà dei danni. Gli oggetti di vetro o cristallo nel cono che non sono indossati o trasportati subiscono 10d8 danni da tuono.Ogni volta che viene usata la magia del corno esiste una probabilità del 20% che esploda. L'esplosione infligge 10d6 danni da forza a chi lo suona e distrugge il corno.
+
+## Corno del Valhalla
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro (argento o ottone), molto raro (bronzo) o leggendario (ferro)
+
+Il personaggio può effettuare un'azione di Magia per suonare questo corno. Come risposta, spiriti guerrieri del piano di Ysgard compaiono in spazi liberi entro 18 metri dal personaggio. Ogni spirito utilizza la scheda delle statistiche di un berserker e fa ritorno a Ysgard dopo 1 ora o quando scende a 0 punti ferita.
+Gli spiriti hanno l'aspetto di guerrieri vivi e vegeti e sono immuni alle condizioni affascinato e spaventato. Una volta usato, il corno non può essere riutilizzato finché non sono trascorsi 7 giorni.
+Sono noti quattro tipi di corno del Valhalla, ognuno fatto di un metallo diverso. Il tipo di corno determina il numero di spiriti richiamati e i requisiti per il suo uso. Il GM sceglie il tipo o lo determina in modo casuale tirando sulla seguente tabella.
+Se il personaggio suona il corno senza soddisfare i requisiti, gli spiriti richiamati lo attaccano. In caso contrario, sono amichevoli nei suoi confronti e in quelli dei suoi alleati e obbediscono ai suoi ordini.
+**1d100 Tipo di corno Spiriti Requisiti**
+**01–40** Argento 2 Nessuno
+**41–75** Ottone 3 Competenza in tutte le armi semplici
+**76–90** Bronzo 4 Competenza in tutte le armature medie
+**91–00** Ferro 5 Competenza in tutte le armi da guerra
+
+## Cubo dei portali
+
+**tipo:** Oggetto meraviglioso
+**rarita:** leggendario 
+
+Questo cubo ha uno spigolo di 7,5 centimetri e irradia un'energia magica palpabile. Ognuna delle sei facce è collegata a un piano di esistenza diverso, uno dei quali è il Piano Materiale. I piani a cui sono collegate le altre facce sono determinati dal GM.
+Questo cubo ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Il personaggio può effettuare un'azione di Magia per spendere 1 carica del cubo e lanciare uno dei seguenti incan-tesimi con l'oggetto.
+
+**Portale**
+Premendo una faccia del cubo, il personag-gio lancia l'incantesimo portale, aprendo un  portale sul piano di esistenza collegato a quella faccia.
+
+**Spostamento planare**Premendo due volte una faccia del cubo, il personaggio lancia l'incantesimo spostamento planare e trasporta i bersagli sul piano di esistenza collegato a quella faccia.
+
+## Cubo di forza
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Questo cubo ha uno spigolo di circa 2,5 centimetri. 
+Su ogni faccia è raffigurato un simbolo diverso. 
+Il personaggio può premere una di queste facce, consumare il numero di cariche che richiede e quindi lanciare l'incantesimo ad essa associato (CD del tiro salvezza 17), come indicato nella tabella Facce del cubo di forza.
+Inizialmente il cubo ha 10 cariche e recupera 1d6 cariche consumate all'alba di ogni giorno.
+
+### Facce del cubo di forza
+**Incantesimo Costo in cariche**
+**Armatura magica** 1
+**Capanna** 3
+**Muro di forza** 5
+**Santuario privato** 4
+**Scudo** 1
+**Sfera elastica** 4
