@@ -7815,7 +7815,7 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 - carisma: -2
 
 **abilita:** Percezione +6  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+**immunita_condizioni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 16; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 8  
