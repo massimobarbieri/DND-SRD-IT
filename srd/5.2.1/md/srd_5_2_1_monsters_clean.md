@@ -5931,7 +5931,7 @@ Tiro salvezza su Destrezza: CD 10, tutte le creature in una sfera di 3 metri di 
 - saggezza: -4
 - carisma: -5
 
-**immunita_danni:** accecato, affascinato, assordato, spaventato  
+**immunita_condizioni:** accecato, affascinato, assordato, spaventato  
 **sensi:** Percezione passiva 6; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 0  
