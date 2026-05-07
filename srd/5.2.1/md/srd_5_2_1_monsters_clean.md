@@ -12774,7 +12774,7 @@ L'unicorno prende di mira se stesso o una creatura che è in grado di vedere ent
 **abilita:** Furtività +7, Percezione +4, Persuasione +4  
 **attrezzatura:** pugnali (10)  
 **resistenze:** necrotico  
-**immunita_danni:** affascinato (tranne che dal suo padrone vampiro)
+**immunita_condizioni:** affascinato (tranne che dal suo padrone vampiro)
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
