@@ -35,7 +35,7 @@
 [DONE] [WARN] Sfinge della conoscenza — lista_con_separatore_finale: abilita: Arcano +12, Percezione +8, Religione +12,
 [DONE] [WARN] Solar — immunita_danni_contiene_condizioni: radioso, veleno
 [DONE] [WARN] Famiglio del vampiro — immunita_danni_contiene_condizioni: affascinato (tranne che dal suo padrone vampiro)
-- [WARN] Banco di piranha — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [WARN] Banco di piranha — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 - [WARN] Colonia di serpenti velenosi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 - [WARN] Colonia di topi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 - [INFO] Sciame di pipistrelli — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
