@@ -5974,7 +5974,7 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 - saggezza: -4
 - carisma: -5
 
-**immunita_danni:** accecato, affascinato, assordato, spaventato  
+**immunita_condizioni:** accecato, affascinato, assordato, spaventato  
 **sensi:** Percezione passiva 6; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  

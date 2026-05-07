@@ -23,7 +23,7 @@
 [DONE] [WARN] Fantasma — lista_con_separatore_finale: resistenze: acido, contundente, freddo, fulmine, fuoco,
 [DONE] [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
 [DONE] [WARN] Boleto stridente — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
-- [WARN] Fungo viola — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
+[DONE] [WARN] Fungo viola — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
 - [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato
 - [WARN] Idra — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 - [WARN] Manto assassino — immunita_danni_contiene_condizioni: spaventato
