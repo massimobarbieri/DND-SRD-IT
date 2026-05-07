@@ -8655,7 +8655,7 @@ Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni per
 - carisma: -2
 
 **abilita:** Furtività +5  
-**immunita_danni:** spaventato  
+**immunita_condizioni:** spaventato  
 **sensi:** Percezione passiva 12; scurovisione 36 m  
 **lingue:** Gergo delle profondità, Sottocomune  
 **grado_sfida:** 8  
