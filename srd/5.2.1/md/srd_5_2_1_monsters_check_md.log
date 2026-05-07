@@ -17,30 +17,30 @@
 [DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Incantesimi x2
 [DONE][WARN] Drago blu adulto — voce_duplicata_nella_sezione: azioni: Soffio di fulmini (ricarica 5-6) x2
 [DONE][WARN] Drago nero antico — artefatti_pagina_pdf: 325 System Reference Document 5.2.1
-[DONE][DONE][WARN] Driade — artefatti_pagina_pdf: 329 System Reference Document 5.2.1
-- [INFO] Elementale dell'acqua — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
-- [INFO] Elementale dell'aria — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
-- [WARN] Fantasma — lista_con_separatore_finale: resistenze: acido, contundente, freddo, fulmine, fuoco,
-- [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
-- [WARN] Boleto stridente — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
-- [WARN] Fungo viola — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
-- [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato
-- [WARN] Idra — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
-- [WARN] Manto assassino — immunita_danni_contiene_condizioni: spaventato
-- [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
-- [WARN] Melma Grigia — immunita_danni_contiene_condizioni: accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+[DONE][WARN] Driade — artefatti_pagina_pdf: 329 System Reference Document 5.2.1
+[DONE] [INFO] Elementale dell'acqua — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+[DONE] [INFO] Elementale dell'aria — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+[DONE] [WARN] Fantasma — lista_con_separatore_finale: resistenze: acido, contundente, freddo, fulmine, fuoco,
+[DONE] [WARN] Fauce gorgogliante — immunita_danni_contiene_condizioni: prono
+[DONE] [WARN] Boleto stridente — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
+[DONE] [WARN] Fungo viola — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, spaventato
+[DONE] [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato
+[DONE] [WARN] Idra — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+[DONE] [WARN] Manto assassino — immunita_danni_contiene_condizioni: spaventato
+[DONE] [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
+[DONE] [WARN] Melma Grigia — immunita_danni_contiene_condizioni: accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 [DONE][WARN] Naga spirituale — artefatti_pagina_pdf: 360 System Reference Document 5.2.1
-- [WARN] Planetar — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
-- [WARN] Rakshasa — immunita_danni_contiene_condizioni: affascinato, spaventato
-- [WARN] Sfinge della conoscenza — lista_con_separatore_finale: abilita: Arcano +12, Percezione +8, Religione +12,
-- [WARN] Solar — immunita_danni_contiene_condizioni: radioso, veleno
-- [WARN] Famiglio del vampiro — immunita_danni_contiene_condizioni: affascinato (tranne che dal suo padrone vampiro)
-- [WARN] Banco di piranha — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
-- [WARN] Colonia di serpenti velenosi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
-- [WARN] Colonia di topi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
-- [INFO] Sciame di pipistrelli — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
+[DONE] [WARN] Planetar — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato
+[DONE] [WARN] Rakshasa — immunita_danni_contiene_condizioni: affascinato, spaventato
+[DONE] [WARN] Sfinge della conoscenza — lista_con_separatore_finale: abilita: Arcano +12, Percezione +8, Religione +12,
+[DONE] [WARN] Solar — immunita_danni_contiene_condizioni: radioso, veleno
+[DONE] [WARN] Famiglio del vampiro — immunita_danni_contiene_condizioni: affascinato (tranne che dal suo padrone vampiro)
+[DONE] [WARN] Banco di piranha — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [WARN] Colonia di serpenti velenosi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [WARN] Colonia di topi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [INFO] Sciame di pipistrelli — nessuna_sezione_azioni_o_reazioni: verificare se intenzionale
 [DONE][WARN] Serpente velenoso — artefatti_pagina_pdf: 402 System Reference Document 5.2.1
-- [WARN] Stormo di corvi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+[DONE] [WARN] Stormo di corvi — immunita_danni_contiene_condizioni: affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 
 
 ## Migliorie consigliate

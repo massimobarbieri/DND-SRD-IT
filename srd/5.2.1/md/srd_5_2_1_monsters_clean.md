@@ -5427,7 +5427,7 @@ Se l'elementale subisce danni da freddo, la sua velocità è ridotta di 6 metri 
 **Forma d'acqua**
 L'elementale può entrare nello spazio di un nemico e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
 
-### Attacchi
+### Azioni
 
 **Multiattacco**  
 L'elementale effettua due attacchi Schianto.
@@ -5482,7 +5482,7 @@ Tiro salvezza su Forza: CD 15, ogni creatura nello spazio dell'elementale. Falli
 **Forma d'aria**  
 L'elementale può entrare nello spazio di una creatura e fermarvisi. Può muoversi attraverso uno spazio stretto fino a 2,5 centimetri senza consumare movimento extra per farlo.
 
-### Attacchi
+### Azioni
 
 **Multiattacco**  
 L'elementale effettua due attacchi Schianto tonante.
@@ -5810,7 +5810,7 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata.
 - saggezza: +1
 - carisma: +3
 
-**resistenze:** acido, contundente, freddo, fulmine, fuoco,  
+**resistenze:** acido, contundente, freddo, fulmine, fuoco, perforante, tagliente, tuono
 **immunita_danni:** necrotico, veleno, perforante, tagliente, tuono 
 **immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 11; scurovisione 18 m  
@@ -5877,7 +5877,7 @@ Tiro salvezza su Saggezza: CD 13, tutte le creature in un cono di 18 metri in gr
 - saggezza: +0
 - carisma: -2
 
-**immunita_danni:** prono  
+**immunita_condizioni:** prono  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -5931,7 +5931,7 @@ Tiro salvezza su Destrezza: CD 10, tutte le creature in una sfera di 3 metri di 
 - saggezza: -4
 - carisma: -5
 
-**immunita_danni:** accecato, affascinato, assordato, spaventato  
+**immunita_condizioni:** accecato, affascinato, assordato, spaventato  
 **sensi:** Percezione passiva 6; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 0  
@@ -5974,7 +5974,7 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 - saggezza: -4
 - carisma: -5
 
-**immunita_danni:** accecato, affascinato, assordato, spaventato  
+**immunita_condizioni:** accecato, affascinato, assordato, spaventato  
 **sensi:** Percezione passiva 6; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -7202,7 +7202,7 @@ Il golem lancia l'incantesimo lentezza, senza bisogno di componenti e utilizzand
 - carisma: -2
 
 **abilita:** Percezione +7  
-**immunita_danni:** indebolimento, pietrificato  
+**immunita_condizioni:** indebolimento, pietrificato  
 **sensi:** Percezione passiva 17; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 5  
@@ -7815,7 +7815,7 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 - carisma: -2
 
 **abilita:** Percezione +6  
-**immunita_danni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+**immunita_condizioni:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 16; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 8  
@@ -8655,7 +8655,7 @@ Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni per
 - carisma: -2
 
 **abilita:** Furtività +5  
-**immunita_danni:** spaventato  
+**immunita_condizioni:** spaventato  
 **sensi:** Percezione passiva 12; scurovisione 36 m  
 **lingue:** Gergo delle profondità, Sottocomune  
 **grado_sfida:** 8  
@@ -8996,7 +8996,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in gr
 
 **abilita:** Furtività +5, Inganno +6, Intuizione +5, Percezione  
 **resistenze:** freddo, fuoco  
-**immunita_danni:** affascinato  
+**immunita_condizioni:** affascinato  
 **sensi:** Percezione passiva 15; scurovisione 36 m  
 **lingue:** Abissale, Comune, Infernale, Primordiale  
 **grado_sfida:** 5  
@@ -9097,6 +9097,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 **A volontà:** Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio di infermità (di 3º livello).
 
 ## Melma Grigia
+
 **tipo:** Melma
 **dimensione:** Media
 **allineamento:** senza allineamento
@@ -9124,7 +9125,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 
 **abilita:** Furtività +2  
 **resistenze:** acido, freddo, fuoco  
-**immunita_danni:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+**immunita_condizioni:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -10653,7 +10654,7 @@ Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre ti
 
 **abilita:** Percezione +11  
 **resistenze:** radioso  
-**immunita_danni:** affascinato, indebolimento, spaventato  
+**immunita_condizioni:** affascinato, indebolimento, spaventato  
 **sensi:** Percezione passiva 21; vista pura 36 m  
 **lingue:** tutte; telepatia 36 m  
 **grado_sfida:** 16  
@@ -11004,7 +11005,7 @@ Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 
 **abilita:** Inganno +10, Intuizione +8, Percezione +8  
 **vulnerabilita:** danni perforanti inflitti da armi brandite da creature sotto l'effetto dell'incantesimo benedizione
-**immunita_danni:** affascinato, spaventato  
+**immunita_condizioni:** affascinato, spaventato  
 **sensi:** Percezione passiva 18; vista pura 36 m  
 **lingue:** Comune, Infernale  
 **grado_sfida:** 13  
@@ -11767,7 +11768,7 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 - saggezza: +4
 - carisma: +4
 
-**abilita:** Arcano +12, Percezione +8, Religione +12,  
+**abilita:** Arcano +12, Percezione +8, Religione +12, Storia +12
 **resistenze:** necrotico, radioso  
 **immunita_danni:** psichico  
 **immunita_condizione:** affascinato, spaventato  
@@ -12773,7 +12774,7 @@ L'unicorno prende di mira se stesso o una creatura che è in grado di vedere ent
 **abilita:** Furtività +7, Percezione +4, Persuasione +4  
 **attrezzatura:** pugnali (10)  
 **resistenze:** necrotico  
-**immunita_danni:** affascinato (tranne che dal suo padrone vampiro)
+**immunita_condizioni:** affascinato (tranne che dal suo padrone vampiro)
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
@@ -14041,7 +14042,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 8; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -14645,7 +14646,7 @@ Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni per
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 3 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -14696,7 +14697,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -17064,7 +17065,6 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 **bonus_competenza:** +2  
 **grado_sfida_raw:** 1/2 (PE 100; BC +2)
 
-
 ### Tratti
 
 **Movimenti del ragno**  
@@ -17075,7 +17075,7 @@ Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muove
 
 ### Azioni
 
-**Morsi**  
+**Morsi**
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. 
 
 ## Sciame di pipistrelli
@@ -17116,6 +17116,14 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da ve
 **punti_esperienza:** PE 50
 **bonus_competenza:** +2
 **grado_sfida_raw:** 1/4 (PE 50; BC +2)
+
+### Tratti 
+
+**Sciame**
+Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muoversi attraverso qualsiasi apertura sufficientemente larga da far passare un 
+pipistrello di taglia Minuscola. L'orda non può recupe-rare punti ferita o ottenere punti ferita temporanei.
+
+### Azioni
 
 **Morsi**  
 Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (2d4) danni perforanti, o 2 (1d4) danni perforanti se lo sciame è sanguinante.
@@ -17621,7 +17629,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perfo
 
 **abilita:** Percezione +5  
 **resistenze:** contundente, perforante, tagliente  
-**immunita_danni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 15  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
