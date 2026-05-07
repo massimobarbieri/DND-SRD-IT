@@ -815,3 +815,189 @@ Mentre il personaggio impugna il bastone, può usarlo per lanciare uno degli inc
 
 **Ripristinare le cariche**
 All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, uno sciame di insetti consuma e distrugge il bastone, per poi disperdersi.
+
+## Bastone del pitone
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** non comune
+
+Effettuando un'azione di Magia, il personaggio può lanciare questo bastone affinché finisca in uno spazio libero entro 3 metri da sé e si trasformi in un serpente stritolatore gigante al suo interno. Il serpente è sotto il controllo del personaggio, condivide il suo punteggio di iniziativa e agisce subito dopo il termine del suo turno. Nel proprio turno, il personaggio può coman-dare il serpente (nessuna azione richiesta) se si trova entro 18 metri da sé e non è incapacitato. Il personaggio decide quale azione deve effettuare il serpente e dove si muoverà nel suo turno, oppure può impartirgli un comando generico come attaccare i nemici o fare la guardia a un luogo. Se non riceve ordini, il serpente si difende.Come azione bonus, il personaggio può ordinare al serpente di tornare nella sua forma di bastone all'interno dello spazio che occupa in quel momento. 
+Dopodiché, non è possibile utilizzare di nuovo questa proprietà per 1 ora. Se il serpente scende a 0 punti ferita, muore e torna alla forma di bastone, che successivamente va in frantumi e viene distrutto. Se il serpente torna alla forma di bastone prima di perdere tutti i punti ferita, li recupera tutti.
+
+## Bastone del potere
+
+**tipo:** Bastone (richiede sintonia con un mago, uno stregone o un warlock)
+**rarita:** molto raro
+
+Questo bastone ha 20 cariche e può essere impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Mentre il personaggio lo impugna, ottiene un bonus di +2 alla Classe Armatura, ai tiri salvezza e ai tiri per colpire con incantesimo.
+
+**Incantesimi**
+Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Blocca mostri** 5
+**Cono di freddo** 5
+**Dardo incantato** 1
+**Fulmine (versione di 5º livello)** 5
+**Globo di invulnerabilità** 6
+**Levitazione** 2
+**Muro di forza** 5
+**Palla di fuoco (versione di 5º livello)** 5
+**Raggio di affaticamento** 1
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 2d8 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone mantiene il suo bonus di +2 ai tiri per colpire e ai tiri per i danni ma perde le sue altre proprietà; se ottiene 20, recupera 1d8 + 2 cariche.
+
+**Colpo del castigo**
+Il personaggio può effettuare un'azione di Magia per rompere il bastone sul suo ginocchio o contro una superficie solida. Così facendo, il bastone viene distrutto e rilascia la sua magia in un'esplosione che riempie un'emanazione di 9 metri di cui è il punto di origine. Il personaggio ha una probabilità del 50% di spostarsi istantaneamente su un piano di esistenza casuale per evitare l'esplosione. Se non riesce a evitare l'effetto, subisce danni da forza pari a 16 × il numero di cariche rimanenti nel bastone. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 17. In caso di fallimento, la creatura subisce danni da forza pari a 4 × il numero di cariche rimanenti nel bastone. Se invece lo supera, subisce soltanto la metà di quei danni.
+
+## Bastone ferrato dell'acrobata
+
+**tipo:** Arma (bastone ferrato) (richiede sintonia)
+**rarita:** molto raro
+
+Il personaggio ottiene un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica.
+Finché impugna quest'arma, come azione bonus o dopo aver tirato per l'iniziativa, può far sì che emetta una luce fioca verdastra in un raggio di 3 metri, oppure può spegnerla con un'azione bonus.
+Finché il personaggio impugna quest'arma, può alterarne la forma con un'azione bonus, trasfor-mandola in una verga di 15 centimetri (per facilità di trasporto) o un'asta di 3 metri, altrimenti può ripristinare le sue sembianze di bastone ferrato; l'arma si allungherà solo fino al massimo dello spazio disponibile.In determinate forme, l'arma ha le seguenti  proprietà aggiuntive.
+
+**Arma a distanza (solo forma di bastone ferrato)**
+L'arma possiede la proprietà da lancio con una gittata normale di 9 metri e una gittata lunga di 36 metri. Subito dopo aver effettuato un attacco a distanza, l'arma vola nella mano del personaggio. 
+
+**Deviazione attacchi (solo forma di bastone ferrato)** Se il personaggio viene colpito da un attacco mentre impugna l'arma, può usare una reazione 
+per rotearla intorno a sé, ottenendo un bonus di +5 alla Classe Armatura contro l'attacco scatenante e aumentando le probabilità che non vada a segno. Il personaggio non può riutilizzare questa proprietà prima di aver completato un riposo breve o lungo.
+
+**Supporto acrobatico (solo forme di bastone ferrato o asta da 3 metri)**
+Mentre il personaggio impugna l'arma, effettua le prove di Destrezza (Acrobazia) con vantaggio.
+
+## Biglia di forza
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa piccola sfera nera ha un diametro di 1,8 cen-timetri e pesa 30 grammi. Generalmente le biglie di forza si trovano in gruppi di 1d4 + 4.Un personaggio può usare un'azione di Magia per lanciare la biglia fino a un massimo di 18 metri. 
+Questa esplode in una sfera con un raggio di 3 metri al momento dell'impatto e viene distrutta. Ogni creatura presente nell'area deve superare un tiro salvezza su Destrezza con CD 15 o subire 5d4 danni da forza. Poi l'area viene rinchiusa per 1 minuto all'interno di una sfera di forza trasparente. Ogni creatura che ha fallito il tiro salvezza e si trova completamente all'interno dell'area resta intrappolata all'interno. Chi ha superato il tiro salvezza o si trovava solo parzialmente all'interno dell'area viene allontanato dal centro della sfera e spinto all'esterno. Attraverso le pareti della sfera può passare solo aria respirabile. Non possono passarvi attraverso né attacchi, né altri effetti.
+Una creatura rinchiusa nell'area può effettuare un'azione di Utilizzo per spingere le pareti della sfera, muovendola a una velocità massima pari alla metà della propria velocità. La sfera può essere sollevata e la sua magia fa sì che il suo peso sia sempre pari a 0,5 chilogrammi, a prescindere dal peso delle creature al suo interno.
+
+## Boccia del comando degli elementali dell'acqua
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quando la boccia è piena di acqua e il personaggio si trova a 1,5 metri da essa, egli può effettuare un'azione di Magia per richiamare un elementale dell'acqua. La creatura compare in uno spazio libero il più vicino possibile alla boccia, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. La boccia non può essere riutilizzata in questo modo fino all'alba successiva.
+La boccia ha un diametro di circa 30 cm ed è profonda 15 cm. Ha una capienza di 12 litri circa.
+
+## Borsa conservante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Lo spazio interno di questa borsa è molto più grande delle sue dimensioni esterne, pari a un quadrato con il lato di circa 60 centimetri e 120 centimetri di profondità. La borsa può contenere fino a 250 chilogrammi di materiale, per un volume massimo di 64 cubi con spigolo di 30 centimetri. La borsa pesa 2,5 chilogrammi a prescindere dal suo contenuto. Recuperare un oggetto dalla borsa richiede un'azione di Utilizzo.
+Se la borsa viene caricata con un peso eccessivo, o viene bucata o strappata, viene distrutta e il suo contenuto viene sparpagliato sul Piano Astrale. Se la borsa viene rivoltata, il suo contenuto si riversa all'esterno, integro. Tuttavia, per essere riutilizzata, la borsa deve essere rivoltata di nuovo. 
+La borsa contiene una quantità d'aria sufficiente per 10 minuti, da dividere per il numero di creature che respirano al suo interno.
+Collocare una borsa conservante all'interno di uno spazio extradimensionale, come quello creato da uno zainetto pratico, da un buco portatile o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le creature entro una sfera con un raggio di 3 metri centrata sul portale vengono attirate al suo interno e trasportate in un luogo casuale del Piano Astrale; dopodiché il portale si chiude. Il portale è a senso unico e non può essere riaperto.
+
+## Borsa dei fagioli magici
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Questa pesante borsa di stoffa contiene 3d4 fagioli secchi quando viene trovata. La borsa pesa 250 grammi indipendentemente dal numero di fagioli che contiene e diventa un oggetto non magico quando non ne contiene.Se uno o più fagioli vengono gettati a terra, questi generano un'esplosione in un raggio di 3 metri centrato su di essi. Tutti i fagioli buttati vengono distrutti nell'esplosione e ogni creatura presente nell'area, compreso il personaggio, effettua un tiro salvezza su Destrezza con CD 15, subendo 5d4 danni da forza in caso di fallimento o la metà in caso di successo.Se un fagiolo viene prelevato dalla borsa, piantato nel terriccio o nella sabbia e innaffiato, dopo 1 minuto scompare e genera un effetto nel luogo in cui è stato piantato. Il GM può scegliere un effetto dalla seguente tabella o determinarlo casualmente.
+**1d100 Effetto**
+**01** Spuntano 5d4 funghi velenosi. Se una creatura mangia un fungo, tira un dado. Se il risultato del tiro è dispari, tale creatura deve superare un tiro salvezza su Costituzione con CD 15, altrimenti subisce 5d6 danni da veleno e diventa avvelenata per 1 ora. Se il risultato è pari, la creatura che ha mangiato il fungo ottiene 5d6 punti ferita temporanei per 1 ora.
+**02–10** Scaturisce un geyser che spruzza una colonna alta 9 metri di acqua, birra, maionese, tè, aceto, vino o olio (a tua scelta) per 1d4 minuti.
+**11–20** Spunta 1 treant. Tira un dado qualsiasi. Se il risultato è dispari, il treant è caotico malvagio. Se invece è pari, il treant è caotico buono.
+**21–30** Dal terreno emerge una statua di pietra animata ma immobile, con le sembianze del possessore, e minaccia verbalmente  quest'ultimo. Se il possessore della borsa si allontana dalla statua, quando sopraggiungono altre creature quest'ultima descrive loro il possessore come il più scellerato dei nemici e fornisce loro le informazioni per trovarlo e attaccarlo. Se il possessore si trova sullo stesso piano di esistenza della statua, questa conosce la sua posizione. La statua diventa inanimata dopo 24 ore.
+**31–40** Dal terreno si sprigiona un fuoco da campo verdognolo che arde per 24 ore o finché non viene spento.
+**41–50** Spuntano 3 boleti stridenti.
+**51–60** 1d4 + 4 rospi di colore rosa acceso si avvicinano strisciando. Non appena un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del GM, che agisce in base al suo allineamento e alla sua natura. Il mostro permane per 1 minuto, poi scompare in uno sbuffo di fumo rosa brillante.
+**61–70** 1 bulette affamato esce dal terreno e attacca.
+**71–80** Dal terreno cresce un albero da frutto che ha 1d10 + 20 frutti, 1d8 dei quali agiscono come pozioni determinate in modo casuale. L'albero svanisce dopo 1 ora. I frutti raccolti rimangono e conservano gli eventuali poteri magici per 30 giorni.
+**81–90** Dal terreno spunta un nido contenente 1d4 + 3 uova arcobaleno. Una creatura che mangia un uovo effettua un tiro salvezza su Costituzione con CD 20. in caso di successo, il suo punteggio di caratteristica più basso aumenta permanentemente di 1 (in caso di più caratteristiche con lo stesso punteggio più basso, se ne sceglie una casualmente). Se lo fallisce, la creatura subisce invece 10d6 danni da forza causati da un'esplosione magica interna.
+**91–95** Una piramide a base quadrata con lato di 18 metri emerge dal terreno. Al suo interno si trova una camera funeraria contenente 1 mummia, 1 signore delle mummie o un altro non morto a scelta del GM. Il suo sarcofago contiene un tesoro determinato dal GM.
+**96–00** Dal terreno si innalza una gigantesca pianta di fagioli che sale fino a un'altezza determinata dal GM. La sommità della pianta conduce in un luogo scelto dal GM, che può essere uno straordinario punto di osservazione, il castello di un gigante delle nuvole o un altro piano di esistenza.
+
+## Borsa dei trucchi
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questa borsa fatta di stoffa di colore grigio, ruggine o marrone, sembra vuota. Frugando al suo interno, si trova invece un piccolo oggetto lanuginoso.Un personaggio può compiere un'azione di Magia per estrarre l'oggetto lanuginoso dalla borsa e lanciarlo fino a 6 metri di distanza. Quando atterra, l'oggetto si trasforma in una creatura determinata tirando sulla tabella corrispondente al colore della borsa posseduta. Vedi "Mostri" per la scheda delle statistiche della creatura. La creatura scompare all'alba successiva o quando viene ridotta a 0 punti ferita.
+È amichevole con il personaggio e i suoi alleati e svolge il proprio turno immediatamente dopo il personaggio secondo il suo punteggio di iniziativa. Il personaggio può effettuare un'azione bonus per comandare il modo in cui la creatura si muove e l'azione che effettua nel suo turno successivo, come ad esempio attaccare un nemico. In assenza di tali ordini, la creatura agisce in modo appropriato alla sua natura.Dopo che dalla borsa sono stati estratti tre oggetti 
+lanuginosi, non può essere riutilizzata fino all'alba successiva.
+
+### Borsa dei trucchi grigia
+**1d8 Creatura**
+**1** Alce gigante
+**2** Cinghiale
+**3** Faina 
+**4** Lupo feroce
+**5** Pantera 
+**6** Tasso
+**7** Tasso gigante
+**8** Topo gigante
+
+### Borsa dei trucchi ruggine
+**1d8 Creatura**
+**1** Capra 
+**2** Capra
+**3** Cinghiale gigante
+**4** Gufo
+**5** Leone gigante
+**6** Mastino
+**7** Orso bruno
+**8** Topo
+
+### Borsa dei trucchi marrone
+**1d8 Creatura**
+**1** Babbuino
+**2** Beccoaguzzo
+**3** Faina gigante
+**4** Gorilla
+**5** Iena gigante
+**6** Orso nero
+**7** Sciacallo
+**8** Tigre
+
+## Borsa divorante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questa borsa sembra una borsa conservante, ma in realtà si tratta di un orifizio attraverso cui si nutre una gigantesca creatura extradimensionale. Rivoltando la borsa da dentro a fuori si chiude l'orifizio.La creatura extradimensionale collegata alla borsa può percepire tutto ciò che viene posto al suo interno. Ogni materiale animale o vegetale inserito completamente all'interno della borsa viene divorato e perduto per sempre. Quando una parte di una creatura vivente entra nella borsa, per esempio quando qualcuno vi infila una mano, c'è una probabilità del 50% che tutta la creatura venga risucchiata all'interno. Una creatura all'interno della borsa può effettuare un'azione per tentare di fuggire, riuscendoci con una prova di Forza (Atletica) con CD 15 superata. Un'altra creatura può effettuare un'azione per infilare le mani nella borsa e tirare fuori la creatura imprigionata superando una prova di Forza (Atletica) con CD 20 (sempre che non venga prima trascinata all'interno a sua volta). Ogni creatura che inizia il proprio turno all'interno della borsa viene divorata e il suo corpo viene distrutto.
+Nella borsa è possibile conservare oggetti inanimati fino a un volume pari a un cubo con spigolo di 30 centimetri. Tuttavia, una volta al giorno la borsa inghiotte tutti gli oggetti al suo interno e li sputa fuori su un altro piano di esistenza. Il GM determina il momento in cui questo accade e il piano dove finiscono gli oggetti.
+Se la borsa viene bucata o strappata, è considerata distrutta e tutto ciò che conteneva viene traspor-tato in un luogo casuale sul Piano Astrale.
+
+## Bottiglia del fumo perenne
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Il personaggio può aprire o chiudere la bottiglia compiendo un'azione di Magia.
+L'apertura della bottiglia provoca la fuoriuscita di un fumo denso, il quale forma una nube che riempie un'emanazione di 18 metri che si origina dalla bottiglia. L'area all'interno del fumo è pesantemente oscurata.
+Ogni minuto che la bottiglia rimane aperta, la dimensione dell'emanazione aumenta di 3 metri fino a raggiungere la dimensione massima di 36 metri. Una volta chiusa la bottiglia, la nuvola resta ferma nella stessa posizione fino a disperdersi dopo 10 minuti. Un vento forte (come quello generato  dall'incantesimo  folata di vento) disperde la nube dopo 1 minuto.
+
+## Bottiglia dell'efreeti
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Quando il personaggio compie un'azione di Magia per rimuovere il tappo di questa bottiglia in ottone verniciato, fuoriesce una nuvola di fumo denso. 
+Alla fine del turno del personaggio, il fumo scom-pare con un lampo di fuoco innocuo e in uno spazio libero entro 9 metri da lui compare un efreeti.
+La prima volta che la bottiglia viene aperta, il GM tira sulla seguente tabella per determinare cosa succede.
+**1d10 Effetto**
+**1** L'efreeti attacca il personaggio. Dopo avere combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia.
+**2–9** L'efreeti capisce le lingue parlate dal perso-naggio e obbedisce ai suoi ordini per 1 ora. Dopodiché torna nella bottiglia, la quale viene chiusa da un nuovo tappo che non può essere rimosso per 24 ore. Le due volte successive in cui la bottiglia viene aperta, si ottiene lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti fugge scomparendo e la bottiglia perde la sua magia.
+**10** L'efreeti comprende le lingue che parla il personaggio e può lanciare un incantesimo desiderio per una volta per il personaggio. Scompare dopo aver concesso il desiderio o dopo 1 ora, e la bottiglia perde la sua magia.
+
+## Bracciali della difesa
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro (richiede sintonia)
+
+Il personaggio che indossa questi bracciali ottiene un bonus di +2 alla Classe Armatura se non veste alcuna armatura e non usa uno scudo.
+
+## Bracciali dell'arciere
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** **rarita:**
+
+Quando il personaggio indossa questi bracciali, ha competenza nell'arco lungo e nell'arco corto e ottiene un bonus di +2 ai tiri per i danni effettuati con tali armi.
