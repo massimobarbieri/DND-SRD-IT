@@ -260,7 +260,185 @@ Numero di sfere Danni da fulmine Numero di sfere Danni da fulmine
 Il personaggio può consumare da 1 a 3 cariche effettuando un'azione di Magia. Per ogni carica consumata, il personaggio lancia dall'anello un frammento di luce scintillante verso un punto che è in grado di vedere situato entro 18 metri da sé. Ogni creatura che si trova all'interno di un cubo con spigolo di 4,5 metri originato da quel punto viene inondata di scintille ed effettua un tiro salvezza su Destrezza con CD 15: subisce 5d4 danni radiosi in caso di fallimento, o la metà di quei danni in caso di successo.
 
 ## Anello di telecinesi
+
 **tipo:** Anello (richiede sintonia)
 **rarita:** molto raro
 
 Finché il personaggio indossa questo anello, può usarlo per lanciare telecinesi.
+
+## Anello rifletti incantesimo
+
+**tipo:** Anello (richiede sintonia)
+**rarita:** leggendario
+
+Finché il personaggio indossa questo anello, dispone di vantaggio ai tiri salvezza effettuati contro gli incantesimi. Se supera un tiro salvezza per un incantesimo di 7º livello o inferiore, l'incantesimo non sortisce alcun effetto sul personaggio. Se quell'incantesimo è diretto solo contro di lui e non ha creato un'area di effetto, il personaggio può usare una reazione per rispedirlo all'incantatore che l'ha lanciato; quest'ultimo deve effettuare un tiro salvezza contro l'incantesimo usando la sua stessa CD del tiro salvezza sull'incantesimo.
+
+## Apparatus del granchio
+
+**tipo:** Oggetto meraviglioso
+**rarita:** leggendario 
+
+A prima vista quest'oggetto ha l'aspetto di un barile di ferro sigillato e del peso di 250 chilogrammi. Il barile ha una maniglia nascosta, che può essere trovata effettuando con successo una prova di Intelligenza (Indagare) con CD 20. La maniglia apre uno sportello posto a un'estremità del barile, che permette a due creature di taglia Media o inferiore di entrare. All'interno, sul lato opposto rispetto all'entrata, si trova una fila di dieci leve, tutte in 
+posizione neutrale, che possono essere spostate in alto o in basso. Muovendo determinate leve, l'apparatus si trasforma in un oggetto simile a un'aragosta gigante.L'apparatus del granchio è un oggetto di taglia Grande dotato delle statistiche seguenti: CA 20; PF 200; velocità 9 metri, nuoto 9 metri (o 0 metri per entrambi se le zampe non sono estese); immunità al veleno e ai danni psichici.
+Per essere utilizzato come veicolo, l'apparatus necessita di un pilota. Quando lo sportello dell'apparatus è chiuso, l'abitacolo è sigillato e a tenuta stagna sia per l'aria che per l'acqua. L'abitacolo contiene una quantità d'aria sufficiente per 10 ore, da dividere per il numero di creature che respirano al suo interno.L'apparatus galleggia sull'acqua. Può anche immergersi fino a una profondità di 270 metri. Ciascun minuto trascorso al di sotto di tale profondità, il veicolo subisce 2d6 danni contundenti a causa della pressione.
+Una creatura all'interno dell'abitacolo può usare un'azione di Utilizzo per muovere su o giù fino a due leve. Dopo ogni uso, le leve tornano in posizione neutrale. Il funzionamento delle leve, da sinistra a destra, è descritto nella tabella "Leve dell'appara-tus del granchio".
+
+### Leva Su Giù
+**1** Le zampe si estendono, permettendo all'apparatus di camminare e nuotare.Le zampe dell'apparatus si ritirano, riducendo la sua velocità normale e quella di nuoto a 0 e impedendogli di beneficiare di bonus alla velocità.
+**2** La saracinesca dell'oblò anteriore si apre. La saracinesca dell'oblò anteriore si chiude.
+**3** Le saracinesche degli oblò laterali si aprono (due per lato).
+Le saracinesche degli oblò laterali si chiudono (due per lato).
+**4** Dalla zona anteriore dell'apparatus si estendono due chele.Le chele si ritraggono
+**5** Ognuna delle chele estese effettua il seguente attacco in mischia: +8 al tiro per colpire, portata 1,5 metri. Colpito: 7 (2d6) danni contundenti.
+Ognuna delle chele estese effettua il seguente attacco in mischia: +8 al tiro per colpire, portata 1,5 metri. Colpito: Il bersaglio ha la condizione afferrato (CD 15 per sfuggire).
+**6** L'apparatus cammina o nuota in avanti a condizione che le zampe siano estese.L'apparatus cammina o nuota all'indietro a condizione che le zampe siano estese.
+**7** L'apparatus ruota di 90 gradi in senso antiorario a condizione che le zampe siano estese.L'apparatus ruota di 90 gradi in senso orario a condizione che le zampe siano estese.
+**8** Strutture simili a occhi proiettano luce intensa in un raggio di 9 metri e luce fioca per altri 9 metri. Le luci si spengono.
+**9** L'apparatus affonda fino a 6 metri se è immerso in un liquido. L'apparatus risale per 6 metri nel liquido in cui si trova.
+**10** Lo sportello posteriore si sblocca e si apre. Lo sportello posteriore si chiude e sigilla l'abitacolo.
+
+## Arco del giuramento
+
+**tipo:** Arma (arco corto o arco lungo) (richiede sintonia)
+**rarita:** molto rara
+
+Quando il personaggio incocca una freccia, quest'arco sussurra in Elfico: "Rapida sconfitta ai miei nemici". Quando il personaggio usa quest'arma per effettuare un attacco a distanza, può pronun-ciare (anche tramite dei segni) le seguenti parole d'ordine: "Morte rapida a chi mi ha fatto un torto". Il bersaglio dell'attacco diventa nemico giurato del personaggio fino alla sua morte o all'alba del settimo giorno dopo l'attacco. Il personaggio può avere un solo nemico giurato alla volta. Quando il suo nemico giurato muore, può sceglierne un altro a partire dall'alba successiva.Quando il personaggio effettua un tiro per colpire a distanza con quest'arma contro il suo nemico giurato, dispone di vantaggio al tiro. Inoltre, il bersaglio non ottiene alcun beneficio da una mezza 
+copertura o da tre quarti di copertura e il perso-naggio non subisce svantaggio a causa della lunga gittata. Se l'attacco va a segno, il nemico giurato del 
+personaggio subisce 3d6 danni perforanti extra.
+Finché il nemico giurato è in vita, il personaggio subisce svantaggio ai tiri per colpire effettuati con tutte le altre armi.
+
+## Arco energetico
+
+**tipo:** Arma (arco corto o arco lungo) (richiede sintonia)
+**rarita:** molto rara
+
+Il personaggio ottiene un bonus di +1 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica senza corda. Ogni volta che il personaggio porta indietro il braccio in posizione di tiro, una freccia magica fatta di energia dorata appare incoccata e pronta a scoccare. Una freccia prodotta da quest'arma infligge danni da forza invece che perforanti se il colpo va a segno, e scompare dopo aver colpito o mancato il bersaglio. Finché non 
+scompare, la freccia proietta luce intensa in un raggio di 6 metri e luce fioca per altri 6 metri.
+Quest'arma ha le seguenti proprietà aggiuntive:
+
+**Freccia della costrizione**
+Ogni volta che il personaggio usa quest'arma per effettuare un attacco a distanza contro una creatura, può cercare di immobilizzare il bersaglio invece di infliggergli danni. Se la freccia colpisce, il bersaglio deve riuscire a superare un tiro salvezza su Forza con CD 15 o subire la condizione trattenuto per 1 minuto. Con un'azione, una creatura trattenuta da una freccia può effettuare una prova di Forza (Atletica) con CD 20 per cercare di rompere la costrizione, terminando l'effetto su di sé in caso di successo.
+
+**Freccia del teletrasporto**
+Il personaggio può compiere un'azione di Magia per scoccare una freccia energetica da quest'arma verso un bersaglio visibile entro 18 metri da sé. Il bersaglio può essere una creatura consenziente di taglia Media o inferiore, oppure un oggetto che non viene indossato o trasportato, purché sia abbastanza piccolo da 
+entrare in un cubo con spigolo di 1,5 metri. La  freccia teletrasporta il bersaglio in uno spazio libero visibile entro 3 metri dal personaggio.
+
+**Scala di energia**
+Il personaggio può compiere un'azione di Magia per scoccare una raffica di frecce energetiche da quest'arma contro un muro fino a 18 metri di distanza da sé. Le frecce si trasformano in pioli incandescenti che fuoriescono dalla parete, formando una scala magica lunga fino a 18 metri sulla parete. Questa scala dura 1 minuto prima di scomparire. 
+
+## Arma +1, +2 o +3
+
+**tipo:** Arma (qualsiasi semplice o da guerra)
+**rarita:** non comune (+1), rara (+2) o molto rara (+3)
+
+Il personaggio ottiene un bonus ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. Il bonus è determinato dalla rarità dell'arma.
+
+## Arma dell'avvertimento
+
+**tipo:** Arma (qualsiasi arma semplice o da guerra) (richiede sintonia)
+**rarita:** non comune
+Finché quest'arma è a portata del personaggio e questi vi è in sintonia, lui e i suoi alleati entro 9 metri ottengono i seguenti benefici.
+
+**Allarme**
+Se il combattimento ha inizio, l'arma risveglia magicamente tutti i soggetti addormentati. Questo beneficio non funziona per il sonno indotto magicamente.
+
+**Prontezza soprannaturale**
+Tutti i soggetti interessati effettuano i tiri per l'iniziativa con vantaggio.
+
+## Arma spietata
+
+**tipo:** Arma (qualsiasi arma semplice o da guerra)
+**rarita:** rara
+
+Quest'arma magica infligge 2d6 danni extra a qua-lunque creatura colpisca. Il tipo dei danni aggiuntivi inferti corrisponde a quelli normali dell'arma.
+
+## Armatura +1, +2 o +3
+
+**tipo:** Armatura (leggera, media o pesante)
+**rarita:** rara (+1), molto rara (+2) o leggendaria (+3) 
+Il personaggio che indossa quest'armatura ottiene un bonus alla Classe Armatura determinato dalla sua rarità.
+
+## Armatura adamantina
+
+**tipo:** Armatura (media, pesante, ma non di pelle)
+**rarita:** non comune
+
+Quest'armatura include dei rinforzi di adamantio, uno dei materiali più duri in assoluto. Tutti i colpi critici che un personaggio subisce mentre indossa questa armatura diventano colpi normali.
+
+## Armatura a piastre della forma eterea
+
+**tipo:** Armatura (armatura a piastre o mezza armatura) (richiede sintonia)
+**rarita:** leggendaria
+
+Mentre il personaggio indossa quest'armatura, può effettuare un'azione di Magia e usare una parola d'ordine per ottenere l'effetto dell'incantesimo forma eterea. L'effetto svanisce immediatamente se il personaggio si toglie l'armatura o effettua un'azione di Magia per ripetere la parola d'ordine. Questa proprietà dell'armatura non può essere riutilizzata fino all'alba successiva.
+
+## Armatura della resistenza
+
+**tipo:** Armatura (leggera, media o pesante) (richiede sintonia)
+**rarita:** rara
+
+Il personaggio che indossa questa armatura ottiene resistenza a un tipo di danno a scelta del GM o determinato in modo casuale tirando sulla seguente tabella.
+
+### 1d10 Tipo di danno 1d10 Tipo di danno
+**1** Acido
+**2** Forza
+**3** Freddo
+**4** Fulmine
+**5** Fuoco
+**6** Necrotico
+**7** Psichico
+**8** Radioso
+**9** Tuono
+**10** Veleno
+
+## Armatura della vulnerabilità
+
+**tipo:** Armatura (leggera, media o pesante) (richiede sintonia)
+**rarita:** rara
+
+Il personaggio che indossa quest'armatura ottiene resistenza a uno dei seguenti tipi di danno: con-tundenti, perforanti o taglienti. Il GM sceglie il tipo o lo determina casualmente.
+
+**Maledizione**
+Quest'armatura è maledetta, fatto che viene rivelato solo quando su di essa viene lanciato l'incantesimo identificare o quando il personaggio entra in sintonia con essa. Entrando in sintonia con l'armatura, il personaggio diventa soggetto alla maledizione finché su di lui non viene lanciato l'incantesimo rimuovi maledizione o un'altra magia simile; rimuovere l'armatura non pone fine alla maledizione. Finché è maledetto, il personaggio acquisisce vulnerabilità a due dei tre tipi di danno associati all'armatura (escludendo quello a cui concede resistenza).
+
+## Armatura dell'invulnerabilità
+
+**tipo:** Armatura (armatura a piastre) (richiede sintonia)
+**rarita:** leggendaria
+
+Un personaggio che la indossa dispone di resistenza ai danni contundenti, perforanti e taglienti.
+
+**Guscio in metallo**
+Come azione di Magia il  personaggio può ottenere immunità ai danni contundenti, perforanti e taglienti per 10 minuti o finché non indossa più l'armatura. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+## Armatura demoniaca
+
+**tipo:** Armatura (leggera, media o pesante) (richiede sintonia)
+**rarita:** molto rara
+
+Mentre il personaggio indossa quest'armatura, ottiene un bonus di +1 alla Classe Armatura ed è in grado di comprendere e parlare l'Abissale. Inoltre, i guanti artigliati dell'armatura permettono ai colpi senz'armi di infliggere 1d8 danni taglienti invece dei normali danni contundenti, e il personaggio ottiene un bonus di +1 ai tiri per colpire e a quelli per i danni dei colpi senz'armi.
+
+**Maledizione**
+Una volta indossata quest'armatura maledetta, il personaggio non può togliersela a meno che non sia bersagliato da un incantesimo rimuovi maledizione o una magia simile. Mentre la indossa, il personaggio subisce svantaggio ai tiri per colpire contro i demoni e ai tiri salvezza contro i loro incantesimi e le loro capacità speciali.
+
+## Armatura di cuoio borchiato incantata
+
+**tipo:** Armatura (armatura di cuoio borchiato)
+**rarita:** rara 
+
+Il personaggio che indossa quest'armatura ottiene un bonus di +1 alla Classe Armatura. Può anche usare un'azione bonus per far assumere all'armatura l'aspetto di un normale capo di vestiario o di un altro tipo di armatura. Il personaggio può deciderne l'aspetto, inclusi il colore, lo stile e gli accessori, ma l'armatura mantiene il suo ingombro e il suo peso normali. L'aspetto illusorio permane finché la proprietà dell'armatura non viene utilizzata di nuovo 
+o finché il personaggio non si toglie l'armatura.
+
+## Armatura in mithral
+
+**tipo:** Armatura (media, pesante, ma non di pelle)
+**rarita:** non comune
+
+Il mithral è un metallo flessibile e leggero.  Un'armatura realizzata con questo materiale può essere indossata sotto dei comuni vestiti. Se  un'armatura normalmente impone svantaggio alle prove di Destrezza (Furtività) o prevede un requisito di Forza, la sua versione in mithral non fa né l'una né l'altra cosa.
+
+## Armatura nanica
+
+**tipo:** Armatura (mezza armatura o armatura a piastre)
+**rarita:** molto rara 
+
+Il personaggio che indossa quest'armatura ottiene un bonus di +2 alla Classe Armatura. Inoltre, se un effetto lo fa muovere sul terreno contro la sua volontà, il personaggio può effettuare una reazione per ridurre la distanza di cui viene mosso di un massimo di 3 metri.
