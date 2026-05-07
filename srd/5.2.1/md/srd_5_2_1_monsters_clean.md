@@ -11005,7 +11005,7 @@ Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 
 **abilita:** Inganno +10, Intuizione +8, Percezione +8  
 **vulnerabilita:** danni perforanti inflitti da armi brandite da creature sotto l'effetto dell'incantesimo benedizione
-**immunita_danni:** affascinato, spaventato  
+**immunita_condizioni:** affascinato, spaventato  
 **sensi:** Percezione passiva 18; vista pura 36 m  
 **lingue:** Comune, Infernale  
 **grado_sfida:** 13  
