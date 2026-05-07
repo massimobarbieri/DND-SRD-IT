@@ -5810,7 +5810,7 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata.
 - saggezza: +1
 - carisma: +3
 
-**resistenze:** acido, contundente, freddo, fulmine, fuoco,  
+**resistenze:** acido, contundente, freddo, fulmine, fuoco, perforante, tagliente, tuono
 **immunita_danni:** necrotico, veleno, perforante, tagliente, tuono 
 **immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 11; scurovisione 18 m  
