@@ -548,6 +548,7 @@ Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può effettuare
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta si sbriciola ed è distrutta.
 
 ### Effetti della bacchetta delle meraviglie
+
 **1d100** Effetto
 **01–20** Il personaggio lancia un incantesimo che ha origine nel punto prescelto. Dopodiché, il personaggio tira 1d10 per determinare l'incan-tesimo: 1–2, lentezza; 3– 4, luminescenza; 5–6, nube maleodorante; 7–8, oscurità; 9–10, palla di fuoco.
 **21–25** Non accade nulla nel punto di origine prescelto. Invece, il personaggio è stordito fino all'inizio del turno successivo, convinto che sia successo qualcosa di fantastico.
@@ -564,5 +565,169 @@ All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il 
 **83–87** Non accade nulla nel punto di origine pre-scelto. Invece, il personaggio lancia invisibilità su se stesso.
 **88–92** Non accade nulla nel punto di origine prescelto. Invece, la punta della bacchetta genera un getto di 1d4 × 10 gemme, ognuna dal valore di 1 mo, in una linea lunga 9 metri e larga 1,5 metri verso il punto di origine prescelto. Ogni gemma infligge 1 danno contundente e i danni totali delle gemme vengono divisi equamente tra tutte le creature sulla linea.
 **93–97** Il personaggio lancia metamorfosi prendendo di mira la creatura più vicina al punto di origine prescelto. Il giocatore tira 1d4 per determi-nare la nuova forma della creatura. Con un risultato di 1, diventa un orso nero; con 2–3, diventa una rana; con 4, diventa una vespa gigante.
-**98–00** La creatura più vicina al punto di origine prescelto effettua un tiro salvezza su Costituzione con CD 15. In caso di fallimento, è trattenuta 
-e inizia a trasformarsi in pietra. Finché è trattenuta in questo modo, la creatura ripete il tiro salvezza fino alla fine del suo turno suc-cessivo. In caso di successo, l'effetto svanisce. In caso di fallimento, la creatura è pietrificata e non più trattenuta. La pietrificazione dura finché la creatura non viene liberata  dall'incantesimo  ristorare superiore o altre magie analoghe
+**98–00** La creatura più vicina al punto di origine prescelto effettua un tiro salvezza su Costituzione con CD 15. In caso di fallimento, è trattenuta e inizia a trasformarsi in pietra. Finché è trattenuta in questo modo, la creatura ripete il tiro salvezza fino alla fine del suo turno suc-cessivo. In caso di successo, l'effetto svanisce. In caso di fallimento, la creatura è pietrificata e non più trattenuta. La pietrificazione dura finché la creatura non viene liberata  dall'incantesimo  ristorare superiore o altre magie analoghe.
+
+## Bacchetta delle palle di fuoco
+
+**tipo:** Bacchetta (richiede sintonia con un incantatore)
+**rarita:** rara
+
+Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare non più di 3 cariche e usarla per lanciare palla di fuoco (CD del tiro salvezza 15). Consumando 1 carica, lancia la versione di 3º livello dell'incantesimo. Il livello dell'incantesimo è aumentabile di 1 per ogni carica aggiuntiva consumata.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
+
+## Bacchetta del mago da guerra +1, +2 o +3
+
+**tipo:** Bacchetta (richiede sintonia con un incantatore)
+**rarita:** non comune (+1), rara (+2) o molto rara (+3)
+
+Mentre il personaggio impugna questa bacchetta, riceve un bonus ai tiri per colpire con incantesimo determinato dalla rarità della bacchetta. Inoltre, ignora la mezza copertura quando effettua un tiro per colpire con incantesimo.
+
+## Bacchetta di dardi incantati
+
+**tipo:** Bacchetta
+**rarita:** non comune
+
+Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare non più di 3 cariche e usarla per lanciare dardo incantato. Consumando 1 carica, il personaggio lancia la versione di 1º livello dell'incantesimo. Il livello dell'incantesimo è aumentabile di 1 per ogni carica aggiuntiva consumata.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
+
+## Bacchetta di individuazione dei nemici
+
+**tipo:** Bacchetta (richiede sintonia)
+**rarita:** rara
+
+Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può effettuare un'azione di Magia per consumare 1 carica. Per 1 minuto il personaggio conosce la direzione della creatura ostile a lui più vicina e situata entro 18 metri da sé, ma non la sua distanza precisa. La bacchetta può percepire la presenza di creature ostili invisibili, eteree, camuffate o nascoste, oltre a quelle in piena vista. L'effetto termina se il personaggio smette di impugnare la bacchetta.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
+
+## Bacchetta di individuazione del magico
+
+**tipo:** Bacchetta
+**rarita:** non comune
+
+Questa bacchetta ha 3 cariche. Mentre il personag-gio la impugna, può consumare 1 carica e usarla per lanciare individuazione del magico. All'alba di ogni giorno, la bacchetta recupera 1d3 cariche consumate.
+
+## Barca pieghevole
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Quest'oggetto si presenta come una scatola di legno lunga 30 centimetri, larga e profonda 15 centimetri. Pesa 2 kg e galleggia. Può essere aperta per custo-dire degli oggetti all'interno. L'oggetto ha anche tre parole d'ordine, ognuna delle quali richiede un'azione di Magia per essere utilizzata:
+
+**Prima parola d'ordine**
+La scatola si trasforma in una barca a remi.
+
+**Seconda parola d'ordine**
+La scatola si trasforma in una barcone.
+
+**Terza parola d'ordine**
+La barca pieghevole si ripiega in una scatola se non ci sono creature a bordo. Gli oggetti a bordo del vascello troppo grandi per essere contenuti nella scatola restano all'esterno. Gli oggetti che possono entrare nella scatola rimangono al suo interno.Quando la scatola si trasforma in vascello, il suo peso diventa quello di un normale vascello di quella taglia; tutto ciò che era custodito all'interno della scatola rimane a bordo.Le statistiche della barca a remi e del barcone sono disponibili nel capitolo "Equipaggiamento". 
+Se una delle due imbarcazioni viene ridotta a 0 punti ferita, la barca pieghevole viene distrutta.
+
+## Bastone dei boschi
+
+**tipo:** Bastone (richiede sintonia con un druido)
+**rarita:** raro
+
+Questo bastone ha 6 cariche e può essere impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Mentre il personaggio lo impu-gna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
+
+**Incantesimi**
+Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Amicizia con gli animali** 1
+**Localizza animali o vegetali** 2
+**Muro di spine** 6
+**Parlare con gli animali** 1
+**Parlare con i vegetali** 3
+**Passare senza tracce** 2
+**Pelle coriacea** 2
+**Risveglio** 5
+
+**Forma arborea**
+Il personaggio può effettuare un'azione di Magia per piantare un'estremità del bastone a terra in uno spazio libero e consumare 1 carica per trasformarlo in un albero rigoglioso. L'albero è alto 18 metri, ha un tronco del diametro di 1,5 metri e i rami sulla cima si estendono in un raggio di 6 metri. All'apparenza sembra normale, ma irradia una tenue aura di magia di trasmuta-zione rilevabile attraverso l'incantesimo individua-zione del magico. Se il personaggio tocca l'albero ed effettua un'azione di Magia, il bastone torna alla sua forma originaria facendo cadere ogni creatura che si trova su di esso.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone perde le sue proprietà e diventa un bastone ferrato non magico.
+
+## Bastone dei magi
+
+**tipo:** Bastone (richiede sintonia con un mago, uno stregone o un warlock)
+**rarita:** leggendario
+
+Questo bastone ha 50 cariche e può essere  impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Mentre il personaggio lo impugna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
+
+**Assorbimento degli incantesimi**
+Mentre il personaggio impugna il bastone, dispone di vantaggio ai tiri salvezza contro gli incantesimi. Può inoltre usare la sua reazione quando un'altra creatura lancia un incantesimo che ha solo lui come bersaglio. Se lo fa, il bastone assorbe la magia  dell'incantesimo, annullandone gli effetti e ottenendo un numero di cariche pari al livello dell'incantesimo assorbito. Tuttavia, se così facendo il numero totale delle cariche del bastone supera 50, il bastone esplode come se il personaggio avesse attivato il suo colpo del castigo (vedi di seguito).
+
+**Incantesimi**
+Mentre il personaggio lo impugna, può lanciare uno degli incantesimi dalla seguente tabella utilizzando la sua CD del tiro salvezza sull'incantesimo. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo.
+**Incantesimo Costo in cariche**
+**Dissolvi magie** 3
+**Evoca elementale** 7
+**Fulmine (versione di 7º livello)** 7
+**Individuazione del magico** 0
+**Ingrandire/Ridurre** 0
+**Invisibilità** 2
+**Luce** 0
+**Mano magica** 0
+**Muro di fuoco** 4
+**Palla di fuoco (versione di 7º livello)** 7
+**Passapareti** 5
+**Protezione dal bene e dal male** 0
+**Ragnatela** 2
+**Scassinare** 2
+**Serratura arcana** 0
+**Sfera infuocata** 2
+**Spostamento planare** 7
+**Telecinesi** 5
+**Tempesta di ghiaccio** 4
+
+**Ripristinare le cariche**
+Il bastone recupera 4d6 + 2 cariche consumate all'alba di ogni giorno. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 20, il bastone recupera 1d12 + 1 cariche.
+
+**Colpo del castigo**
+Il personaggio può effettuare un'azione di Magia per rompere il bastone sul suo ginocchio o contro una superficie solida. Così facendo, il bastone viene distrutto e rilascia la sua magia in un'esplosione che riempie un'emanazione di 9 metri di cui è il punto di origine. Il personaggio ha una probabilità del 50% di spostarsi istantanea-mente su un piano di esistenza casuale per evitare l'esplosione. Se non riesce a evitare l'effetto, subisce danni da forza pari a 16 × il numero di cariche rima-nenti nel bastone. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 17. In caso di fallimento, la creatura subisce danni da forza pari a 6 × il numero di cariche rimanenti nel bastone. Se invece lo supera, subisce soltanto la metà di quei danni.
+
+## Bastone dei tuoni e fulmini
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** molto raro
+
+Questo bastone può essere impugnato come un bastone ferrato magico che conferisce un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con esso. Possiede anche le seguenti proprietà aggiuntive. Quando una di queste proprietà viene usata, non può essere riutilizzata fino all'alba successiva.
+
+**Fulmine**
+Quando il personaggio colpisce con un attacco in mischia usando questo bastone, può far sì che il bersaglio subisca 2d6 danni da fulmine extra (nessuna azione richiesta).
+
+**Tuono**
+Quando il personaggio colpisce con un attacco in mischia usando questo bastone, può far sì che quest'ultimo scateni un tuono udibile fino a 90 metri (nessuna azione richiesta). Il bersaglio colpito deve superare un tiro salvezza su Costituzione con CD 17, altrimenti sarà stordito fino alla fine del turno successivo del personaggio.
+
+**Tuono e fulmine**
+Subito dopo aver messo a segno un colpo in mischia col bastone, con un'azione bonus il personaggio può utilizzare le proprietà Fulmine e Tuono (vedi sopra) nello stesso momento. Così facendo il personaggio non consuma l'uso giornaliero di quelle proprietà, ma solamente l'uso di questa.
+
+**Colpo del fulmine**
+Il personaggio può effettuare un'azione di Magia per generare un fulmine che guizza dalla punta del bastone lungo una linea larga 1,5 metri e lunga 36 metri. Ogni creatura su quella linea effettua un tiro salvezza su Destrezza con CD 17, subendo 9d6 danni da fulmine in caso di falli-mento, o la metà di quei danni in caso di successo.
+
+**Rombo di tuono**
+Il personaggio può effettuare un'azione di Magia per far sì che il bastone emetta un rombo di tuono udibile fino a 180 metri. Ogni creatura entro un'emanazione di 18 metri che ha origine dal personaggio effettua un tiro salvezza su Costituzione con CD 17. In caso di fallimento, subisce 2d6 danni da tuono e diventa assordata per 1 minuto. Se invece lo supera, subisce soltanto la metà di quei danni.
+
+## Bastone del colpo possente
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** molto raro
+
+Questo bastone può essere impugnato come un bastone ferrato magico che conferisce un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con esso.Il bastone ha 10 cariche. Quando il personaggio colpisce con un attacco in mischia usando il bastone, può consumare fino a 3 delle sue cariche. 
+Per ogni carica consumata, il bersaglio subisce 1d6 danni da forza extra.
+
+**Ripristinare le cariche**
+All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone diventa un bastone ferrato non magico.
+
+## Bastone del deperimento
+
+**tipo:** Bastone (richiede sintonia)
+**rarita:** raro
+
+Questo bastone ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno.Il bastone può anche essere brandito come un bastone ferrato magico. Se il colpo va a segno, infligge danni come un normale bastone ferrato e il personaggio può consumare 1 carica per infliggere al bersaglio 2d10 danni necrotici extra, costringendolo a effettuare un tiro salvezza su Costituzione con CD 15. In caso di fallimento, il bersaglio ha svantaggio per 1 ora alle prove di caratteristica o ai tiri salvezza su Forza o Costituzione
