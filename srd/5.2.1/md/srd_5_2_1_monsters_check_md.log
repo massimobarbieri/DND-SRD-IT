@@ -27,7 +27,7 @@
 [DONE] [WARN] Gorgone — immunita_danni_contiene_condizioni: indebolimento, pietrificato
 [DONE] [WARN] Idra — immunita_danni_contiene_condizioni: accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 [DONE] [WARN] Manto assassino — immunita_danni_contiene_condizioni: spaventato
-- [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
+[DONE] [WARN] Megera notturna — immunita_danni_contiene_condizioni: affascinato
 - [WARN] Melma Grigia — immunita_danni_contiene_condizioni: accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 [DONE][WARN] Naga spirituale — artefatti_pagina_pdf: 360 System Reference Document 5.2.1
 - [WARN] Planetar — immunita_danni_contiene_condizioni: affascinato, indebolimento, spaventato

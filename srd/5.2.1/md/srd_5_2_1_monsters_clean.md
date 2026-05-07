@@ -8996,7 +8996,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in gr
 
 **abilita:** Furtività +5, Inganno +6, Intuizione +5, Percezione  
 **resistenze:** freddo, fuoco  
-**immunita_danni:** affascinato  
+**immunita_condizioni:** affascinato  
 **sensi:** Percezione passiva 15; scurovisione 36 m  
 **lingue:** Abissale, Comune, Infernale, Primordiale  
 **grado_sfida:** 5  
