@@ -131,46 +131,66 @@ L'anello ha 5 cariche e recupera 1d4 + 1 cariche consumate all'alba di ogni gior
 Quando il personaggio cade indossando questo anello, scende di 18 metri per round e non subisce danni dalla caduta.
 
 ## Anello della libertà di azione
-Anello, raro (richiede sintonia)
-Mentre il personaggio indossa questo anello, 
-il terreno difficile non gli costa movimento extra. Inoltre, la magia non può né ridurre la sua velocità di movimento (di qualsiasi tipo) né paralizzarlo 
-o trattenerlo.
-Anello dell'ariete
-Anello, raro (richiede sintonia)
-Questo anello ha 3 cariche e recupera 1d3 cariche 
-consumate all'alba di ogni giorno. Finché il perso-naggio indossa l'anello, può effettuare un'azione di Magia per consumare da 1 a 3 cariche ed eseguire un attacco a distanza contro una creatura che è in 
-grado di vedere entro 18 metri da sé. L'anello crea 
-una testa d'ariete spettrale ed effettua il suo tiro per colpire con un bonus di +7. Se il colpo va a segno, per ogni carica consumata il bersaglio subisce 2d10 danni da forza e viene spinto lontano dal personag-gio per 1,5 metri.In alternativa, il personaggio può consumare da 1 a 3 cariche dell'anello per effettuare un'azione di Magia e provare a distruggere un oggetto non magico che è in grado di vedere entro 18 metri da 
-sé e non è indossato o trasportato. L'anello effettua 
-una prova di Forza con un bonus di +5 per ogni carica consumata.
-System Reference Document 5.2.1240Anello della vista a raggi X
-Anello, raro (richiede sintonia)
-Finché il personaggio indossa questo anello, può 
-effettuare un'azione di Magia per ottenere la vista a raggi X con un raggio d'azione di 9 metri per 1 minuto. Gli oggetti solidi che si trovano entro il raggio d'azione appaiono al personaggio come trasparenti e non impediscono alla luce di attra-versarli. La vista può penetrare 30 cm di pietra, 
-2,5 centimetri di metallo comune o fino a 90 cen-timetri di legno o terriccio. Tuttavia, è bloccata da sostanze più dense o da un sottile strato di piombo.Ogni volta che usa di nuovo l'anello prima di completare un riposo lungo, il personaggio deve superare un tiro salvezza su Costituzione con CD 15, altrimenti ottiene 1 livello di indebolimento.
-Anello del nuotare
-Anello, non comune 
-Finché il personaggio indossa questo anello, la sua 
-velocità di nuoto è pari a 12 metri.
-Anello del saltare
-Anello, non comune (richiede sintonia)
-Finché il personaggio indossa quest'anello può 
-lanciare saltare, ma solo su se stesso.
-Anello di eludere
-Anello, raro (richiede sintonia)
+**tipo:** Anello (richiede sintonia)
+**rarità:** raro
+
+Mentre il personaggio indossa questo anello, il terreno difficile non gli costa movimento extra. Inoltre, la magia non può né ridurre la sua velocità di movimento (di qualsiasi tipo) né paralizzarlo o trattenerlo.
+
+## Anello dell'ariete
+**tipo:** Anello (richiede sintonia)
+**rarità:** raro
+
+Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il personaggio indossa l'anello, può effettuare un'azione di Magia per consumare da 1 a 3 cariche ed eseguire un attacco a distanza contro una creatura che è in grado di vedere entro 18 metri da sé. L'anello crea una testa d'ariete spettrale ed effettua il suo tiro per colpire con un bonus di +7. Se il colpo va a segno, per ogni carica consumata il bersaglio subisce 2d10 danni da forza e viene spinto lontano dal personag-gio per 1,5 metri.
+In alternativa, il personaggio può consumare da 1 a 3 cariche dell'anello per effettuare un'azione di Magia e provare a distruggere un oggetto non magico che è in grado di vedere entro 18 metri da  sé e non è indossato o trasportato. L'anello effettua  una prova di Forza con un bonus di +5 per ogni carica consumata.
+
+## Anello della vista a raggi X
+
+**tipo:** Anello (richiede sintonia)
+**rarità:** raro
+
+Finché il personaggio indossa questo anello, può effettuare un'azione di Magia per ottenere la vista a raggi X con un raggio d'azione di 9 metri per 1 minuto. Gli oggetti solidi che si trovano entro il raggio d'azione appaiono al personaggio come trasparenti e non impediscono alla luce di attra-versarli. La vista può penetrare 30 cm di pietra, 2,5 centimetri di metallo comune o fino a 90 cen-timetri di legno o terriccio. Tuttavia, è bloccata da sostanze più dense o da un sottile strato di piombo.
+Ogni volta che usa di nuovo l'anello prima di completare un riposo lungo, il personaggio deve superare un tiro salvezza su Costituzione con CD 15, altrimenti ottiene 1 livello di indebolimento.
+
+## Anello del nuotare
+
+**tipo:** Anello
+**rarità:** non comune
+
+Finché il personaggio indossa questo anello, la sua velocità di nuoto è pari a 12 metri.
+
+## Anello del saltare
+
+**tipo:** Anello (richiede sintonia)
+**rarità:** non comune
+
+Finché il personaggio indossa quest'anello può lanciare saltare, ma solo su se stesso.
+
+## Anello di eludere
+
+**tipo:** Anello (richiede sintonia)
+**rarità:** raro
+
 Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Se il personaggio fallisce un tiro salvezza su Destrezza mentre indossa l'anello, può usare la sua reazione per  consumare 1 carica e superare quel tiro salvezza.
-Anello di influenza sugli animali
-Anello, raro 
-Questo anello ha 3 cariche e recupera 1d3 cari-
-che consumate all'alba di ogni giorno. Finché il  personaggio indossa l'anello, può usare un'azione e  consumare 1 carica per lanciare uno degli incan-tesimi seguenti (CD del tiro salvezza 13):• Amicizia con gli animali
-• Paura (ha effetto solo sulle bestie)• Parlare con gli animali
-Anello di invisibilità
-Anello, leggendario (richiede sintonia)
-Fintanto che il personaggio indossa quest'anello, può effettuare un'azione di Magia per rendersi 
-invisibile. Rimarrà tale finché l'anello non viene 
-rimosso o il personaggio non usa un'azione bonus per tornare visibile.
-Anello di protezione
-Anello, raro (richiede sintonia)
-Il personaggio ottiene un bonus di +1 alla Classe 
-Armatura e ai tiri salvezza finché indossa questo 
-anello.
+
+## Anello di influenza sugli animali
+**tipo:** Anello
+**rarità:** raro
+
+Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il  personaggio indossa l'anello, può usare un'azione e  consumare 1 carica per lanciare uno degli incantesimi seguenti (CD del tiro salvezza 13):
+- Amicizia con gli animali
+- Paura (ha effetto solo sulle bestie)
+- Parlare con gli animali
+
+## Anello di invisibilità
+
+**tipo:** Anello (richiede sintonia)
+**rarità:** leggendario
+
+Fintanto che il personaggio indossa quest'anello, può effettuare un'azione di Magia per rendersi invisibile. Rimarrà tale finché l'anello non viene rimosso o il personaggio non usa un'azione bonus per tornare visibile.
+
+## Anello di protezione
+
+**tipo:** Anello (richiede sintonia)
+**rarità:** raro
+
+Il personaggio ottiene un bonus di +1 alla Classe Armatura e ai tiri salvezza finché indossa questo anello.
