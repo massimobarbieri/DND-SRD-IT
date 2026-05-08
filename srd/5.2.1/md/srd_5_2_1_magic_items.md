@@ -2197,3 +2197,278 @@ Il personaggio può respirare sott'acqua per 24 ore dopo aver bevuto questa pozi
 **rarita:** non comune
 
 Quando il personaggio beve questa pozione, può lanciare la versione di 3º livello dell'incantesimo amicizia con gli animali (CD del tiro salvezza 13).Agitando il liquido melmoso di questa pozione si notano alcuni piccoli oggetti al suo interno: una squama di pesce, la piuma di un colibrì, l'artiglio di un gatto o un pelo di scoiattolo.
+
+## Pozione di chiaroveggenza
+
+**tipo:** Pozione
+**rarita:** rara 
+
+Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo chiaroveggenza (non è richiesta la concentrazione).
+Nel liquido giallastro galleggia un globo oculare, che scompare quando la pozione viene aperta.
+
+## Pozione di crescita
+
+**tipo:** Pozione
+**rarita:** non comune 
+
+Quando il personaggio beve questa pozione, ottiene l'effetto "ingrandire" dell'incantesimo ingrandire/ridurre per 10 minuti (non è richiesta la concentrazione).All'interno della pozione è visibile un piccolo nucleo rosso che si espande progressivamente fino a tingere tutto il liquido trasparente intorno a esso per poi contrarsi fino a diventare un granello minuscolo. Agitare la bottiglia non interrompe il processo.
+
+## Pozione di diminuzione
+
+**tipo:** Pozione
+**rarita:** rara 
+
+Quando il personaggio beve questa pozione, ottiene l'effetto "ridurre" dell'incantesimo ingrandire/ridurre per 1d4 ore (non è richiesta la concentrazione).All'interno della pozione è visibile un nucleo rosso che si contrae progressivamente fino a diventare un granello minuscolo per poi esplodere e tingere tutto il liquido trasparente intorno a esso. Agitare la bottiglia non interrompe il processo.
+
+## Pozione di eroismo
+
+**tipo:** Pozione
+**rarita:** rara
+
+Quando il personaggio beve questa pozione, ottiene 10 punti ferita temporanei per 1 ora. Per la stessa durata, il personaggio è sotto l'effetto dell'incantesimo benedizione (non è richiesta la concentrazione).Il liquido blu della pozione genera bolle e vapore, come se stesse ribollendo.
+
+## Pozione di invisibilità
+
+**tipo:** Pozione
+**rarita:** rara
+
+Il contenitore di questa pozione sembra vuoto, ma pesa come se al suo interno ci fosse un liquido. Quando il personaggio beve la pozione, diventa invisibile per 1 ora. L'effetto termina in anticipo se il personaggio effettua un tiro per colpire, infligge danni o lancia un incantesimo.
+
+## Pozione di invulnerabilità
+
+**tipo:** Pozione
+**rarita:** rara 
+
+Dopo aver bevuto questa pozione, il personaggio ottiene resistenza a tutti i danni per 1 minuto.Il liquido pastoso della pozione sembra ferro fuso.
+
+## Pozione di lettura della mente
+
+**tipo:** Pozione
+**rarita:** rara
+
+Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo individuazione dei pensieri (CD del tiro salvezza 13) per 10 minuti (non è richiesta la concentrazione). Nel denso liquido violaceo di questa pozione  fluttua una nuvola ovoidale di colore rosa.
+
+## Pozione di longevità
+
+**tipo:** Pozione
+**rarita:** molto rara
+
+Quando il personaggio beve questa pozione, la sua età fisica viene ridotta di 1d6 + 6 anni, fino a un minimo di 13 anni. Ogni volta che il personaggio beve un'ulteriore pozione di longevità, c'è una probabilità cumulativa del 10% che invece invecchi di 1d6 + 6 anni.Nel liquido ambrato di questa pozione galleggia un minuscolo cuore che, contro ogni logica, continua a battere. Quest'ingrediente svanisce una volta aperta la pozione.
+
+## Pozione di resistenza
+
+**tipo:** Pozione
+**rarita:** non comune 
+
+Quando beve questa pozione, il personaggio ottiene resistenza per 1 ora a un tipo di danno a scelta del GM o determinato in modo casuale tirando sulla seguente tabella.
+
+### 1d10 Tipo di danno
+
+**1** Acido
+**2** Forza
+**3** Freddo
+**4** Fulmine
+**5** Fuoco
+**6** Necrotico
+**7** Psichico
+**8** Radioso
+**9** Tuono
+**10** Veleno
+
+## Pozione di scalare
+
+**tipo:** Pozione
+**rarita:** comune 
+
+Quando il personaggio beve questa pozione, ottiene una velocità di scalata pari alla sua velocità base sul terreno per 1 ora. Per la stessa durata, dispone anche di vantaggio alle prove di Forza (Atletica) effettuate per scalare.La pozione è composta da strati separati di colore marrone, argento e grigio, simili a strati geologici sovrapposti. Agitando la pozione, gli strati non si mescolano.
+
+## Pozione di velocità
+
+**tipo:** Pozione
+**rarita:** molto rara 
+
+Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo velocità per 1 minuto (non è richiesta la concentrazione) senza patire la sensazione di letargia che solitamente ne accompagna la conclusione.
+Il fluido giallo della pozione è striato di nero e vortica costantemente.
+
+## Pozione di vitalità
+
+**tipo:** Pozione
+**rarita:** molto rara 
+
+Quando il personaggio beve questa pozione, rimuove ogni livello di indebolimento accumulato e pone fine alla condizione avvelenato su di sé. Per le 24 ore successive, recupera il numero massimo di punti ferita per ogni Dado Vita che spende.Il liquido cremisi della pozione emana una luce fioca che pulsa regolarmente a un ritmo che ricorda il battito cardiaco.
+
+## Pozione di volare
+
+**tipo:** Pozione
+**rarita:** molto rara 
+
+Quando il personaggio beve questa pozione, ottiene una velocità di volo pari alla sua velocità base per 1 ora e può fluttuare. Se il personaggio si trova in 
+aria quando l'effetto della pozione termina, cade a meno che non possieda altri mezzi per mantenersi in aria.
+Il liquido trasparente di questa pozione rimane sospeso nella parte superiore del contenitore e al suo interno sono visibili alcune impurità biancastre simili a nuvole.
+
+## Pozione velenosa
+
+**tipo:** Pozione
+**rarita:** non comune
+
+Questa mistura ha l'aspetto, l'odore e il sapore di una pozione di guarigione o altre pozioni benefiche. 
+In realtà, si tratta di un veleno mascherato da  un'illusione magica. L'incantesimo identificare rivela la sua vera natura.Se il personaggio la beve, subisce 4d6 danni da veleno e deve superare un tiro salvezza su Costi-tuzione con CD 13, altrimenti sarà avvelenato per 1 ora.
+
+## Pozioni di guarigione
+
+**tipo:** Pozione
+**rarita:** variabile 
+
+Quando il personaggio beve questa pozione, recupera punti ferita. L'ammontare di punti ferita dipende dalla rarità della pozione, come indicato nella tabella sottostante.
+A prescindere dalla sua potenza, il liquido rosso della pozione brilla quando viene agitato.
+
+### Pozione PF recuperati Rarità
+
+**Pozione di guarigione** 2d4 + 2 Comune
+**Pozione di guarigione (maggiore)** 4d4 + 4 Non comune
+**Pozione di guarigione (superiore)** 8d4 + 8 Rara
+**Pozione di guarigione (suprema)** 10d4 + 20 Molto rara
+
+## Pozzo dei mondi
+
+**tipo:** Oggetto meraviglioso
+**rarita:** leggendario
+
+Quando è piegato, questo panno di elegante tessuto nero morbido come la seta ha le dimensioni di un fazzoletto. Una volta spiegato, copre una superficie 
+circolare di 1,8 metri di diametro.
+Il personaggio può effettuare un'azione di Magia per srotolare il pozzo dei mondi e posizionarlo su una superficie solida, dove crea un portale circolare a doppio senso dal diametro di 1,8 metri che con-duce a un altro piano di esistenza. Ogni volta che l'oggetto apre un portale, il GM decide dove porterà. 
+Il portale rimane aperto finché una creatura entro 1,5 metri da esso non effettua un'azione di Magia per afferrarne i lembi e richiuderlo.
+Una volta che ha aperto un portale, il pozzo dei mondi non può essere riutilizzato per 1d8 ore.
+
+## Pugnale avvelenato
+
+**tipo:** Arma (pugnale)
+**rarita:** rara 
+
+Il personaggio ottiene un bonus di +1 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica.Può effettuare un'azione bonus per ricoprire magicamente la lama di veleno. Il veleno resta sulla lama per 1 minuto o finché un attacco sferrato con quest'arma non colpisce una creatura. La creatura colpita deve superare un tiro salvezza su Costi-tuzione con CD 15, altrimenti subisce 2d10 danni da veleno e resta avvelenata per 1 minuto. L'arma 
+non può più essere utilizzata in questo modo fino  all'alba successiva.
+
+## Randello pesante del tuono
+
+**tipo:** Arma (randello pesante) (richiede sintonia)
+**rarita:** molto rara
+
+Finché il personaggio è in sintonia con quest'arma magica, la sua Forza ammonta a 20, a meno che non sia già pari o superiore a tale punteggio. L'arma 
+infligge 1d8 danni da tuono extra a qualsiasi creatura colpisca e 3d8 danni da tuono extra agli oggetti colpiti che non siano indossati o trasportati.L'arma ha le seguenti proprietà aggiuntive.
+
+**Terremoto**
+Effettuando un'azione di Magia, il personaggio può colpire il terreno con l'arma per creare un intenso fenomeno sismico in un cerchio dal raggio di 15 metri il cui centro è il punto di impatto. Le strutture a contatto col suolo in  quell'area subiscono 50 danni contundenti e ogni creatura a terra nell'area deve superare un tiro salvezza su Destrezza con CD 20, altrimenti cadrà a terra prona. Se la creatura interessata si sta con-centrando, inoltre, deve superare un tiro salvezza su Costituzione con CD 20, altrimenti la sua concen-trazione verrà interrotta. Il personaggio può anche far sì che, in qualunque punto sul terreno dell'area interessata, si apra una fenditura profonda 9 metri e larga 3 metri. Qualsiasi creatura si trovi nel punto in cui si apre la fenditura deve superare un tiro salvezza su Destrezza con CD 20, cadendo al suo interno in caso di fallimento o spostandosi sull'orlo in caso di successo. Ogni struttura nel punto in cui si apre la fenditura collassa al suo interno. Una volta usata, questa proprietà non può essere riutilizzata 
+fino all'alba successiva.
+
+**Tuono possente**
+Effettuando un'azione di Magia, il personaggio colpisce una superficie dura con l'arma creando un possente rombo di tuono udibile fino a 90 metri di distanza. Inoltre, crea un cono di 9 metri di energia tonante. Ogni creatura all'interno del cono deve superare un tiro salvezza su Forza con CD 15, altrimenti cadrà a terra prona. Gli oggetti non magici nel cono che non sono indossati o trasportati subiscono 3d8 danni da tuono.
+
+## Ruba nove vite
+
+**tipo:** Arma (qualsiasi arma semplice o da guerra) (richiede sintonia)
+**rarita:** molto rara
+
+Il personaggio ottiene un bonus di +2 ai tiri per col-pire e a quelli per i danni effettuati con quest'arma magica.
+
+**Furto vitale**
+L'arma ha 1d8 + 1 cariche. Se il personaggio usa quest'arma per attaccare una creatura con meno di 100 punti ferita e ottiene un 20 sul d20 al tiro per colpire, il bersaglio deve superare un tiro salvezza su Costituzione con CD 15, altrimenti l'arma risucchierà l'energia vitale dal suo corpo facendolo morire all'istante. Costrutti e non morti superano automaticamente il tiro salvezza. L'arma perde 1 carica se la creatura viene uccisa in questo modo. Quando termina le cariche, perde questa proprietà.
+
+## Sacro vendicatore
+
+**tipo:** Arma (qualsiasi arma semplice o da guerra) (richiede sintonia con un paladino)
+**rarita:** leggendaria
+
+Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. Quando colpisce con quest'arma un immondo o un non morto, quella creatura subisce 2d10 danni radiosi extra.
+Mentre il personaggio impugna l'arma sguainata, crea un'emanazione di 3 metri che si origina da lui. Il personaggio e tutte le creature amichevoli nei suoi confronti situate all'interno dell'emanazione dispongono di vantaggio ai tiri salvezza contro gli incantesimi e gli altri effetti magici. Se il perso-naggio ha 17 o più livelli nella classe del paladino, il raggio dell'emanazione aumenta a 9 metri.
+
+## Scarabeo di protezione
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendaria
+
+Finché lo si ha con sé, questo medaglione a forma di scarabeo conferisce tre benefici.
+
+**Difesa**
+Il personaggio ottiene un bonus di +1 alla Classe Armatura.
+
+**Resistenza agli incantesimi**
+Il personaggio dispone di vantaggio ai tiri salvezza contro gli incantesimi.
+
+**Salvaguardia**
+Lo scarabeo ha 12 cariche. Se il personaggio fallisce un tiro salvezza contro un incantesimo di necromanzia o un effetto nocivo proveniente da un non morto, può usare la sua reazione e consumare 1 carica per trasformare il tiro salvezza fallito in un successo. Una volta consumata l'ultima carica, lo scarabeo si sbriciola ed è distrutto.
+
+## Scimitarra della velocità
+
+**tipo:** Arma (scimitarra) (richiede sintonia)
+**rarita:** molto rara
+
+Il personaggio ottiene un bonus di +2 ai tiri per col-pire e a quelli per i danni effettuati con  quest'arma magica. Può inoltre effettuare un attacco con quest'arma come azione bonus a ogni suo turno.
+
+## Scopa volante
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Questa scopa di legno funziona come una normale scopa fino a quando il personaggio non ci monta a cavallo ed effettua un'azione di Magia per farla sollevare in aria; a quel punto può essere cavalcata in volo. Ha una velocità di volo pari a 15 metri e può trasportare fino a 200 kg di peso, ma con un carico superiore a 100 kg la sua velocità di volo scende a 9 metri. La scopa smette di fluttuare quando il personaggio atterra o quando non è più in sella.
+Il personaggio può effettuare un'azione di Magia per inviare la scopa in volo da sola fino a una destinazione entro 1,5 chilometri da sé nominando il luogo in questione, purché abbia familiarità con esso. La scopa torna dal personaggio quando questi effettua un'azione di Magia e usa una parola  d'ordine se la scopa si trova ancora entro 1,5 chilo-metri da lui.
+
+## Scudo +1, +2 o +3
+
+**tipo:** Armatura (scudo)
+**rarita:** non comune (+1), rara (+2) o molto rara (+3)
+
+Finché il personaggio impugna questo scudo, ha 
+un bonus alla Classe Armatura determinato dalla rarità dello scudo, oltre al normale bonus alla CA fornito da esso.
+
+## Scudo animato
+
+**tipo:** Armatura (scudo) (richiede sintonia)
+**rarita:** molto raro
+
+Il personaggio che impugna questo scudo può usare un'azione bonus per animarlo. Lo scudo si solleva in aria e fluttua nello spazio del personaggio per 
+proteggerlo come quando viene impugnato normalmente, ma lasciando le mani libere. Lo scudo resta animato per 1 minuto, finché il personaggio non usa un'azione bonus per terminare l'effetto o finché il personaggio non diventa incapacitato o muore. A questo punto, lo scudo cade a terra o torna in mano al personaggio, se quest'ultimo ha almeno una mano libera.
+
+## Scudo anti-incantesimi
+
+**tipo:** Armatura (scudo) (richiede sintonia)
+**rarita:** molto raro
+
+Mentre il personaggio impugna questo scudo, dispone di vantaggio ai tiri salvezza contro gli incantesimi e altri effetti magici. Inoltre, i tiri per colpire con incantesimo contro di lui subiscono svantaggio.
+
+## Scudo attiraproiettili
+
+**tipo:** Armatura (scudo) (richiede sintonia)
+**rarita:** rara
+
+Mentre il personaggio impugna questo scudo, ottiene resistenza ai danni inflitti dagli attacchi con armi a distanza.
+
+**Maledizione**
+Questo scudo è maledetto. Entrare in sintonia con esso rende il personaggio maledetto finché su di lui non viene lanciato l'incantesimo rimuovi maledizione o un'altra magia simile. Rimuovere lo scudo non basta per porre fine alla maledizione. Ogni volta che un attacco con arma a distanza prende di mira una creatura entro 3 metri dal personaggio, quest'ultimo diventa il bersaglio dell'attacco a causa della maledizione.
+
+## Scudo catturafrecce
+
+**tipo:** Armatura (scudo) (richiede sintonia)
+**rarita:** rara
+
+Il personaggio che impugna questo scudo riceve un bonus di +2 alla Classe Armatura contro gli attacchi a distanza. Questo bonus è cumulativo al normale bonus alla CA dello scudo.Ogni volta che un avversario effettua un tiro per colpire a distanza contro un bersaglio entro 1,5 metri dal possessore dello scudo, quest'ultimo può effettuare una reazione per diventare il bersaglio dell'attacco al posto di quello inteso.
+
+## Scudo del cavaliere
+
+**tipo:** Armatura (scudo) (richiede sintonia)
+**rarita:** molto raro
+
+Finché il personaggio impugna questo scudo, ottiene un bonus di +2 alla Classe Armatura. Questo bonus è cumulativo al normale bonus alla CA dello scudo.
+Lo scudo è dotato delle seguenti proprietà  utilizzabili finché il personaggio lo impugna.
+
+**Campo protettivo**
+Con una reazione, quando il personaggio o un suo alleato che è in grado di vedere entro 1,5 metri diventa il bersaglio di un attacco o effettua un tiro salvezza contro un'area di effetto, può utilizzare lo scudo per creare un'ema-nazione immobile di 1,5 metri generata a partire da sé. Quando l'emanazione compare, qualsiasi creatura o oggetto non completamente racchiuso al suo interno viene spinto verso gli spazi liberi più vicini al di fuori di essa. L'attacco o l'area di effetto che attiva la reazione non influisce sulle creature o gli oggetti dentro l'emanazione, che permane finché il personaggio mantiene la concentrazione (massimo 1 minuto). Nulla può entrare o uscire dall'emanazione. Una creatura o un oggetto all'interno dell'emanazione non può essere danneggiato dagli attacchi o dagli effetti che provengono dall'esterno; analogamente, non può infliggere danni a qualsiasi cosa si trovi all'esterno. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+**Sfondamento possente**
+Durante l'azione di Attacco, il personaggio può effettuare uno dei tiri per colpire usando lo scudo contro un bersaglio entro 1,5 metri da sé. Al tiro per colpire applica il suo bonus di competenza e il modificatore di Forza. Se il colpo va a segno, lo scudo infligge danni da forza al bersaglio pari a 2d6 + 2 più il modifica-tore di Forza del personaggio. Se il bersaglio è una creatura, la spingerà fino a 3 metri lontano da sé in linea retta. Inoltre, se la creatura è della stessa taglia del personaggio o inferiore, cadrà a terra prona.
+
+## Scudo sentinella
+
+**tipo:** Armatura (scudo)
+**rarita:** non comune
+
+Finché il personaggio impugna questo scudo, dispone di vantaggio ai tiri per l'iniziativa e alle prova di Saggezza (Percezione). Sullo scudo è inciso il simbolo di un occhio.
