@@ -3627,8 +3627,6 @@ L'incantatore evoca un millepiedi gigante, un ragno gigante o una vespa gigante 
 
 ed è un alleato per il personaggio e i suoi alleati. In combattimento, la creatura ha lo stesso punteggio di iniziativa dell'incantatore, ma inizia il turno immediatamente dopo il suo, obbedendo ai suoi comandi verbali (nessuna azione richiesta da parte dell'incantatore). Se l'incantatore non pronuncia comandi verbali, la creatura compie l'azione di Schivata e usa il suo movimento per sottrarsi al pericolo.
 
-### Scaling
-
 **Utilizzo di uno slot incantesimo di livello superiore**
 Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
 

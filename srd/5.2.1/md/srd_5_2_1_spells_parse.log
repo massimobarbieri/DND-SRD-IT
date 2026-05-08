@@ -20,23 +20,23 @@ Global notes:
 
 Spell-specific flags:
 [EMBEDDED_BLOCK] Animare oggetti: embedded summoned/stat block begins at "Oggetto animato" #DONE
-[SLASH_TITLE] Antipatia/simpatia: verify title normalization / downstream IDs
-[BULLET_LIST_CONTENT] Calmare emozioni: contains bullet list content
-[SLASH_TITLE] Cecità/sordità: verify title normalization / downstream IDs
-[BULLET_LIST_CONTENT] Cerchio magico: contains bullet list content
-[BULLET_LIST_CONTENT] Comunione con la natura: contains bullet list content
-[SINGULAR_COMPONENT_FIELD] Contagio: source uses "Componente:"
-[TABLE_LIKE_CONTENT] Controllare acqua: contains probable table or matrix content
-[SINGULAR_COMPONENT_FIELD] Guida: source uses "Componente:"
-[SLASH_TITLE] Ingrandire/ridurre: verify title normalization / downstream IDs
-[EMBEDDED_BLOCK] Insetto gigante: embedded summoned/stat block begins at "Insetto gigante"
-[SINGULAR_COMPONENT_FIELD] Parola del potere guarire: source uses "Componente:"
-[SINGULAR_COMPONENT_FIELD] Parola del potere uccidere: source uses "Componente:"
-[SINGULAR_COMPONENT_FIELD] Pelle coriacea: source uses "Componente:"
-[SINGULAR_COMPONENT_FIELD] Punizione divina: source uses "Componente:"
-[SINGULAR_COMPONENT_FIELD] Punizione incandescente: source uses "Componente:"
-[SINGULAR_COMPONENT_FIELD] Punizione splendente: source uses "Componente:"
-[SINGULAR_COMPONENT_FIELD] Resistenza: source uses "Componente:"
+[DONE] [SLASH_TITLE] Antipatia/simpatia: verify title normalization / downstream IDs
+[DONE] [BULLET_LIST_CONTENT] Calmare emozioni: contains bullet list content
+[DONE] [DONE] LASH_TITLE] Cecità/sordità: verify title normalization / downstream IDs
+[DONE] [BULLET_LIST_CONTENT] Cerchio magico: contains bullet list content
+[DONE] [BULLET_LIST_CONTENT] Comunione con la natura: contains bullet list content
+[DONE] [SINGULAR_COMPONENT_FIELD] Contagio: source uses "Componente:"
+[DONE] [TABLE_LIKE_CONTENT] Controllare acqua: contains probable table or matrix content
+[DONE] [SINGULAR_COMPONENT_FIELD] Guida: source uses "Componente:"
+[DONE] [SLASH_TITLE] Ingrandire/ridurre: verify title normalization / downstream IDs
+[DONE] [EMBEDDED_BLOCK] Insetto gigante: embedded summoned/stat block begins at "Insetto gigante"
+[DONE] [SINGULAR_COMPONENT_FIELD] Parola del potere guarire: source uses "Componente:"
+[DONE] [SINGULAR_COMPONENT_FIELD] Parola del potere uccidere: source uses "Componente:"
+[DONE] [SINGULAR_COMPONENT_FIELD] Pelle coriacea: source uses "Componente:"
+[DONE] [SINGULAR_COMPONENT_FIELD] Punizione divina: source uses "Componente:"
+[DONE] [SINGULAR_COMPONENT_FIELD] Punizione incandescente: source uses "Componente:"
+[DONE] [SINGULAR_COMPONENT_FIELD] Punizione splendente: source uses "Componente:"
+[DONE] [SINGULAR_COMPONENT_FIELD] Resistenza: source uses "Componente:"
 [EMBEDDED_BLOCK] Richiama drago: embedded summoned/stat block begins at "Spirito draconico"
 [BULLET_LIST_CONTENT] Ristorare superiore: contains bullet list content
 [SINGULAR_COMPONENT_FIELD] Salto: source uses "Componente:"
