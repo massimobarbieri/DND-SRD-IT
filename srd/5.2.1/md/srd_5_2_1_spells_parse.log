@@ -38,13 +38,13 @@ Spell-specific flags:
 [DONE] [SINGULAR_COMPONENT_FIELD] Punizione splendente: source uses "Componente:"
 [DONE] [SINGULAR_COMPONENT_FIELD] Resistenza: source uses "Componente:"
 [EMBEDDED_BLOCK] Richiama drago: embedded summoned/stat block begins at "Spirito draconico"
-[BULLET_LIST_CONTENT] Ristorare superiore: contains bullet list content
-[SINGULAR_COMPONENT_FIELD] Salto: source uses "Componente:"
-[BULLET_LIST_CONTENT] Santuario privato: contains bullet list content
-[BULLET_LIST_CONTENT] Scagliare maledizione: contains bullet list content
-[SINGULAR_COMPONENT_FIELD] Stregoneria esplosiva: source uses "Componente:"
+[DONE] [BULLET_LIST_CONTENT] Ristorare superiore: contains bullet list content
+[DONE] [SINGULAR_COMPONENT_FIELD] Salto: source uses "Componente:"
+[DONE] [BULLET_LIST_CONTENT] Santuario privato: contains bullet list content
+[DONE] [BULLET_LIST_CONTENT] Scagliare maledizione: contains bullet list content
+[DONE] [SINGULAR_COMPONENT_FIELD] Stregoneria esplosiva: source uses "Componente:"
 [TABLE_LIKE_CONTENT] Teletrasporto: contains probable table or matrix content
-[BULLET_LIST_CONTENT] Teletrasporto: contains bullet list content
-[SINGULAR_COMPONENT_FIELD] Trova cavalcatura: source uses "Componente:"
+[DONE] [BULLET_LIST_CONTENT] Teletrasporto: contains bullet list content
+[DONE] [SINGULAR_COMPONENT_FIELD] Trova cavalcatura: source uses "Componente:"
 [EMBEDDED_BLOCK] Trova cavalcatura: embedded summoned/stat block begins at "Cavalcatura ultraterrena" #DONE
-[BULLET_LIST_CONTENT] Vigilanza e interdizione: contains bullet list content
+[DONE] [BULLET_LIST_CONTENT] Vigilanza e interdizione: contains bullet list content
