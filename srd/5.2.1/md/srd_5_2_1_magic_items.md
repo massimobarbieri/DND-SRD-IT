@@ -2681,3 +2681,165 @@ Ogni volta che il personaggio usa la statuina esiste una probabilità del 10% ch
 **rarita:** non comune
 
 Questi stivali hanno 4 cariche e recuperano 1d4 cariche consumate all'alba di ogni giorno. Mentre indossa gli stivali, il personaggio può effettuare un'azione di Magia per consumare 1 carica, ottenendo una velocità di volo di 9 metri per 1 ora. Se il personaggio è in volo quando la durata si esaurisce, scende a una velocità di 9 metri per round finché non atterra.
+
+## Stivali della levitazione
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Indossando questi stivali, il personaggio può lanciare un incantesimo levitazione su di sé.
+
+## Stivali della velocità
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Il personaggio che indossa questi stivali può effettuare un'azione bonus per battere i tacchi tra di loro. Fatto questo, gli stivali raddoppiano la sua velocità e le creature che effettuano un attacco di opportunità contro di lui subiscono svantaggio ai tiri per colpire. Se il personaggio batte di nuovo 
+i tacchi, pone fine all'effetto.
+Dopo avere usato la proprietà degli stivali per un totale di 10 minuti, la magia smette di funzionare finché il personaggio non completa un riposo lungo.
+
+## Stivali dell'inverno
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Questi stivali foderati di pelliccia sono comodi e caldi. Il personaggio ottiene i seguenti benefici.
+**Resistenza al freddo**
+Ottiene resistenza ai danni da freddo e può tollerare temperature fino a -17 gradi Celsius o inferiori senza bisogno di ulte-riori protezioni.
+
+**Passo invernale**
+Ignora il terreno difficile dovuto al ghiaccio o alla neve.
+
+## Stivali elfici
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Indossando questi stivali, il personaggio non fa alcun rumore quando cammina, a prescindere dalla superficie su cui si muove. Inoltre, dispone di van-taggio alle prove di Destrezza (Furtività).
+
+## Stivali molleggiati
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Quando il personaggio indossa questi stivali, la sua velocità è pari a 9 metri, a meno che la velocità normale non sia superiore. Inoltre, la velocità non viene ridotta se il personaggio trasporta un peso superiore alla propria capacità di carico o indossa un'armatura pesante.
+Una volta per ogni turno, può saltare fino a 9 metri usando solo 3 metri di movimento.
+
+## Talismano anti-veleno
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Questa delicata catenella d'argento ha come pendente una gemma nera con taglio a brillante. Finché è indosso al personaggio, quest'ultimo ha immunità alla condizione avvelenato e ai danni da veleno.
+
+## Talismano del bene puro
+
+**tipo:** Oggetto meraviglioso (richiede sintonia con un chierico o un paladino)
+**rarita:* leggendario
+
+Questo talismano è un potente simbolo del bene. Qualsiasi immondo o non morto che tocchi il talismano subisce 8d6 danni radiosi, per poi subirli nuovamente ogni volta che termina il suo turno impugnando o trasportando il talismano.
+
+**Castigo puro**
+Il talismano ha 7 cariche. Mentre il personaggio lo indossa o lo impugna può effet-tuare un'azione di Magia per consumare 1 carica e prendere di mira una creatura che è in grado di vedere a terra entro 36 metri da sé. Dopodiché, si apre una fenditura sotto il bersaglio, il quale effettua un tiro salvezza su Destrezza con CD 20. Se il bersaglio è un immondo o un non morto, effettua la prova con svantaggio. In caso di fallimento, cade nella fenditura e viene distrutto senza lasciare traccia. In caso di successo, non cade nella fenditura ma subisce 4d6 danni psichici. In ognuno dei due casi, la fenditura si richiude senza lasciare alcuna traccia della sua esistenza. Quando il personaggio consuma l'ultima carica, il talismano si disperde in una manciata di scintille dorate ed è distrutto.
+
+**Simbolo sacro**
+Il personaggio può usare il talismano come simbolo sacro. Mentre lo indossa o lo impugna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
+
+## Talismano della rimarginazione
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Il personaggio che indossa questo pendente riceve i seguenti benefici:
+
+**Guarigione potenziata naturale**
+Ogni volta che il personaggio tira un Dado Vita per recuperare punti ferita, raddoppia il numero di punti ferita ripristinati.
+
+**Salvaguardia vitale**
+Ogni volta che il personaggio effettua un tiro salvezza contro morte, può trasformare un risultato di 9 o inferiore in un 10, ottenendo un successo anziché un fallimento.
+
+## Talismano della salute
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Finché il personaggio indossa questo pendente, può effettuare un'azione di Magia per recuperare 2d4 + 2 punti ferita. Una volta usata, questa proprietà non 
+può essere riutilizzata fino all'alba successiva.Inoltre, finché indossa il pendente, il personaggio dispone di vantaggio ai tiri salvezza effettuati per evitare o porre fine alla condizione avvelenato.
+
+## Talismano della sfera
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendario
+
+Finché il personaggio impugna o indossa questo talismano, dispone di vantaggio alle prove di Intelligenza (Arcano) effettuate per controllare la sfera annientatrice. Inoltre, quando inizia il proprio turno avendo il controllo di una sfera annientatrice, può effettuare un'azione di Magia per spostarla di 3 metri più una distanza aggiuntiva pari a 3 metri × il suo modificatore di Intelligenza. Il movimento non deve essere per forza effettuato in linea retta.
+
+## Talismano del male estremo
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendario
+
+Quest'oggetto è un simbolo di malvagità impenitente. Se qualsiasi creatura che non sia un immondo o un non morto tocca il talismano subisce 8d6 danni necrotici, per poi subirli nuovamente ogni volta che termina il suo turno impugnando o trasportando il talismano.
+
+**Obliterazione**
+Il talismano ha 6 cariche. Mentre il personaggio lo indossa o lo impugna può effet-tuare un'azione di Magia per consumare 1 carica e prendere di mira una creatura che è in grado di vedere a terra entro 36 metri da sé. Dopodiché, si apre una fenditura sotto il bersaglio, il quale effettua un tiro salvezza su Destrezza con CD 20. Se il bersaglio è un celestiale, effettua la prova con svantaggio. In caso di fallimento, cade nella fenditura e viene distrutto senza lasciare traccia. In caso di successo, non cade nella fenditura ma subisce 4d6 danni psichici. In ognuno dei due casi, la fenditura si richiude senza lasciare alcuna traccia della sua esistenza. Quando il personaggio consuma l'ultima carica, il talismano si dissolve in una melma  dall'odore rivoltante ed è distrutto.
+Simbolo sacro. Il personaggio può usare il talismano come simbolo sacro. Mentre lo indossa o lo impugna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
+
+## Tappeto volante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Il personaggio può far fluttuare e volare il tappeto volante effettuando un'azione di Magia e usando la parola d'ordine dell'oggetto. Il tappeto si muove in base ai comandi impartiti dal personaggio, che deve trovarsi entro 9 metri da esso.Esistono tappeti volanti di quattro misure diverse. Il GM sceglie la dimensione di un tappeto o la determina in modo casuale tirando sulla seguente tabella. Un tappeto può trasportare fino al doppio del peso indicato in tabella, ma se trasporta più di quanto indicato la sua velocità di volo è dimezzata.
+
+### 1d100 Dimensioni Capacità di trasporto Velocità di volo
+
+**01–20** 90 cm × 150 cm 100 kg 24 metri
+**21–55** 120 cm × 180 cm 200 kg 18 metri
+**56–80** 150 cm × 210 cm 300 kg 12 metri
+**81–00** 180 cm × 270 cm 400 kg 9 metri
+
+## Tomo del comando e dell'influenza
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questo libro contiene una serie di suggerimenti su come persuadere e ispirare gli altri, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Carisma aumenta di 2, fino a un 
+massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
+
+## Tomo della comprensione
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro 
+
+Questo libro contiene la descrizione di una serie di esercizi di intuizione e percezione, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Saggezza aumenta di 2, fino a un massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
+
+## Tomo del nitido pensiero
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro 
+
+Questo libro contiene la descrizione di una serie di esercizi di logica e memoria, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il con-tenuto del libro e ad applicarne i precetti, il suo punteggio di Intelligenza aumenta di 2, fino a un 
+massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
+
+## Tridente del comando dei pesci
+
+**tipo:** Arma (tridente) (richiede sintonia)
+**rarita:** non comune
+
+Quest'arma magica possiede 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. 
+Finché il personaggio la trasporta, può consumare 1 carica e usarla per lanciare dominare bestie (CD del tiro salvezza 15) su una bestia dotata di velocità di nuoto.
+
+## Tunica degli occhi
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Questa tunica è decorata con un motivo raffigurante vari occhi. Mentre il personaggio la indossa ottiene i benefici seguenti:
+
+**Sensi speciali**
+Il personaggio ha scurovisione e vista pura, entrambe con un raggio di 36 metri.
+
+**Visione a tutto tondo**
+La tunica conferisce vantaggio alle prove di Saggezza (Percezione) basate sulla vista.
+
+**Debolezze**
+Un incantesimo luce lanciato sulla tunica o un incantesimo luce diurna lanciato entro 1,5 metri dalla tunica rende il personaggio accecato per 1 minuto. Alla fine di ogni suo turno, il perso-naggio effettua un tiro salvezza su Costituzione (CD 11 per luce o CD 15 per luce diurna), terminando la cecità in caso di successo.
