@@ -29,7 +29,7 @@ Spell-specific flags:
 [DONE] [TABLE_LIKE_CONTENT] Controllare acqua: contains probable table or matrix content
 [DONE] [SINGULAR_COMPONENT_FIELD] Guida: source uses "Componente:"
 [DONE] [SLASH_TITLE] Ingrandire/ridurre: verify title normalization / downstream IDs
-[DONE] [EMBEDDED_BLOCK] Insetto gigante: embedded summoned/stat block begins at "Insetto gigante"
+[EMBEDDED_BLOCK] Insetto gigante: embedded summoned/stat block begins at "Insetto gigante"
 [DONE] [SINGULAR_COMPONENT_FIELD] Parola del potere guarire: source uses "Componente:"
 [DONE] [SINGULAR_COMPONENT_FIELD] Parola del potere uccidere: source uses "Componente:"
 [DONE] [SINGULAR_COMPONENT_FIELD] Pelle coriacea: source uses "Componente:"
