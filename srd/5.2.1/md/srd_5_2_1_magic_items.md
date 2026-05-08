@@ -2843,3 +2843,174 @@ La tunica conferisce vantaggio alle prove di Saggezza (Percezione) basate sulla 
 
 **Debolezze**
 Un incantesimo luce lanciato sulla tunica o un incantesimo luce diurna lanciato entro 1,5 metri dalla tunica rende il personaggio accecato per 1 minuto. Alla fine di ogni suo turno, il perso-naggio effettua un tiro salvezza su Costituzione (CD 11 per luce o CD 15 per luce diurna), terminando la cecità in caso di successo.
+
+## Tunica degli oggetti utili
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune 
+
+Su questa tunica sono visibili alcune toppe di varie forme e colori. Finché il personaggio indossa la tunica, può effettuare un'azione di Magia per staccare una delle toppe, trasformandola nell'oggetto o nella creatura che essa raffigura. Quando anche l'ultima toppa viene staccata, la tunica diventa un capo  d'abbigliamento comune.
+La tunica possiede due copie di ognuna delle seguenti toppe:• Asta• Corda (arrotolata)• Lanterna a lente sporgente (piena e accesa)• Pugnale• Sacco• SpecchioLa tunica possiede altre 4d4 toppe scelte dal GM o determinate casualmente tirando sulla seguente tabella.
+
+### 1d100 Toppa
+
+**01–08** Una borsa con 100 mo
+**09–15** Un forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo
+**16–22** Una porta di ferro (larga fino a 3 metri e alta 3 metri, sbarrata sul lato scelto dal personaggio) che può essere collocata in un'apertura entro portata del personaggio; la porta si adatta all'apertura, posizionandosi e infilandosi sui cardini
+**23–30** 10 gemme del valore di 100 mo ciascuna
+**31–44** Una scala a pioli di legno (lunga 7,2 metri)
+**45–51** Un cavallo da galoppo dotato di sella
+**52–59** Una fossa aperta (cubo con spigolo di 3 metri) posizionabile a terra entro 3 metri dal personaggio
+**60–68** 4 pozioni di guarigione
+**69–75** Una barca a remi (lunga 3,6 metri)
+**76–83** Una pergamena magica contenente un incante-simo di 1º, 2º o 3º livello (a scelta)
+**84–90** 2 mastini
+**91–96** Una finestra (60 per 120 centimetri, profonda fino a 60 centimetri) che il personaggio può collocare su una superficie verticale entro la sua portata
+**97–00** Ariete portatile
+
+## Tunica dei colori scintillanti
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** molto raro
+
+Questa tunica ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il perso-naggio la indossa, può effettuare un'azione di Magia e consumare 1 carica per far comparire sull'indumento un motivo cangiante dai colori sgargianti, che permane fino alla fine del suo turno successivo. 
+In questo frangente, la tunica emana luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri; le creature che vedono il personaggio hanno svantaggio ai tiri per colpire effettuati con-tro di lui. Inoltre, ogni creatura che si trova entro la luce intensa e che può vedere il personaggio quando la proprietà della tunica è attivata deve superare un tiro salvezza su Saggezza con CD 15, altrimenti diventa stordita finché l'effetto non termina. 
+
+## Tunica dell'arcimago
+
+**tipo:** Oggetto meraviglioso (richiede sintonia con un mago, uno stregone o un warlock)
+**rarita:** leggendario
+
+Questa elegante tunica è realizzata con un tessuto pregiato ricoperto di rune.
+Finché il personaggio indossa la tunica, ottiene i benefici seguenti:
+
+**Armatura**
+Se il personaggio non indossa alcuna armatura, la sua Classe Armatura base è pari a 15 più il suo modificatore di Destrezza.
+
+**Mago da guerra**
+La CD del tiro salvezza  sull'incantesimo e il bonus di attacco dell'incante-simo del personaggio aumentano entrambi di 2.
+
+**Resistenza alla magia**
+Il personaggio dispone di vantaggio ai tiri salvezza contro gli incantesimi e gli altri effetti magici.
+
+## Tunica delle stelle
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** molto raro
+
+Questa tunica, di colore nero o blu scuro, è ricamata con minuscole stelle bianche o argentate. Quando il personaggio la indossa, ottiene un bonus di +1 ai tiri salvezza.Sei stelle nella parte anteriore della tunica, in alto, sono particolarmente grandi. Finché il personaggio indossa la tunica, può effettuare un'azione di Magia per rimuovere una delle stelle e consumarla per lanciare una versione di 5º livello di dardo incan-tato. Ogni giorno al tramonto, 1d6 stelle rimosse ricompaiono sulla tunica.Mentre il personaggio indossa la tunica, può effettuare un'azione di Magia per entrare nel Piano Astrale insieme a tutto ciò che indossa e trasporta 
+e vi rimane finché non effettua un'azione di Magia per tornare sul piano in cui si trovava prima. Il per-sonaggio ricompare nell'ultimo spazio che occupava o, se è occupato, nello spazio libero più vicino.
+
+## Ventaglio
+
+**tipo:** Oggetto meraviglioso 
+**rarita:** non comune
+
+Finché il personaggio impugna questo ventaglio, può usarlo per lanciare folata di vento (CD del tiro salvezza 13). Ogni volta che viene utilizzato di nuovo prima dell'alba successiva, c'è una probabilità cumulativa del 20% che non funzioni. Se ciò dovesse accadere, si ridurrà in inutili brandelli non magici.
+
+## Verga dell'allerta
+
+**tipo:** Verga (richiede sintonia)
+**rarita:** molto rara
+
+Questa verga è dotata delle seguenti proprietà.
+
+**Allerta**
+Mentre il personaggio impugna la verga, dispone di vantaggio alle prove di Saggezza (Perce-zione) e ai tiri per l'iniziativa.
+
+**Incantesimi**
+Mentre impugna la verga, il personaggio può usarla per lanciare i seguenti incantesimi:• Individuazione del bene e del male
+• Individuazione del magico
+• Individuazione delle malattie e dei veleni
+• Vedere invisibilità
+
+**Aura protettiva**
+Con un'azione di Magia, il personaggio può piantare l'asta della verga nel terreno; quando lo fa, l'estremità superiore della verga proietta luce intensa in un raggio di 18 metri e luce fioca per altri 18 metri. Finché il personaggio e i suoi alleati si trovano entro il raggio di quella luce intensa, ottengono un bonus di +1 alla Classe Armatura e ai tiri salvezza, e possono percepire la presenza di eventuali creature invisibili che si trovano a loro volta entro la luce intensa.La punta della verga smette di brillare e l'effetto termina dopo 10 minuti o quando una creatura usa un'azione di Magia per estrarla dal terreno. Una volta usata, questa proprietà non può essere  riutilizzata fino all'alba successiva.
+
+## Verga della potenza divina
+
+**tipo:** Verga (richiede sintonia)
+**rarita:** leggendaria
+
+Questa verga ha una testa flangiata e funziona come una mazza magica che conferisce un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con essa. Possiede una serie di proprietà associate a sei pulsanti diversi disposti in fila lungo l'asta. Possiede anche le tre proprietà descritte di seguito.
+Pulsanti. Il personaggio può premere uno dei pulsanti seguenti come azione bonus; l'effetto di un pulsante dura finché il personaggio non ne preme un altro o finché non lo preme di nuovo, riportando la verga alla sua forma originaria.
+
+**Pulsante 1**
+Una lama fiammeggiante spunta  dall'estremità opposta alla testa flangiata della verga. Le fiamme proiettano luce intensa in un raggio di 12 metri e luce fioca per altri 12 metri; la lama funziona come una spada lunga o una spada corta magica (a scelta) e infligge 2d6 danni da fuoco extra quando mette a segno un colpo.
+
+**Pulsante 2**
+La testa flangiata della verga si ritrae e due lame a forma di mezzaluna spuntano da quell'estremità, trasformandola in un'ascia da battaglia magica che conferisce un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con essa.
+
+**Pulsante 3**
+La testa flangiata della verga si ritrae, una punta di lancia emerge da quell'estremità e l'impugnatura si allunga fino a diventare un'asta lunga 1,8 metri, trasformando la verga in una lancia magica che conferisce un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con essa.
+
+**Pulsante 4**
+La verga si trasforma in una pertica di una lunghezza a scelta, fino a un massimo di 15 metri. I pulsanti della verga rimangono a por-
+tata. Sulle superfici dure come il granito, la pertica viene fissata grazie a uno spuntone sul fondo e a tre uncini sulla cima. Dai lati spuntano delle sbarre lunghe 7,5 centimetri a intervalli di 30 centimetri che formano una scala a pioli. La pertica può reggere un peso massimo di 2.000 kg. Un peso superiore o la mancanza di un ancoraggio sicuro fa tornare la verga alla sua forma originaria.
+
+**Pulsante 5**
+La verga si trasforma in un ariete portatile e conferisce un bonus di +10 alle prove di Forza (Atletica) effettuate per abbattere porte, barricate e altri ostacoli.
+
+**Pulsante 6**
+La verga rimane nella sua forma ori-ginaria o la riassume e indica il nord magnetico (se questa funzione viene usata in un luogo dove non esiste un nord magnetico, non accade nulla). La verga fornisce inoltre al personaggio un'indicazione approssimativa della profondità o dell'altitudine a cui si trova rispetto al terreno.
+
+**Paralizzante**
+Quando il personaggio colpisce una creatura con un attacco in mischia usando la verga, può obbligare il bersaglio a effettuare un tiro salvezza su Costituzione con CD 17. In caso di fallimento, il bersaglio resta paralizzato per 1 minuto e ripeterà il tiro salvezza alla fine di ogni suo turno. Se lo supera, l'effetto svanisce. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+**Risucchio vitale**
+Quando il personaggio colpisce una creatura con un attacco in mischia usando la verga, può obbligare il bersaglio a effettuare un tiro salvezza su Costituzione con CD 17. In caso di fallimento, il bersaglio subisce 4d6 danni necrotici extra e il personaggio recupera un numero di punti ferita pari alla metà di quei danni. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+**Terrificante**
+Mentre il personaggio impugna la verga, può effettuare un'azione di Magia per costringere tutte le creature situate entro 9 metri da sé che è in grado di vedere a effettuare un tiro salvezza su Saggezza con CD 17. In caso di fallimento, il bersaglio è spaventato per 1 minuto e ripeterà il tiro salvezza alla fine di ogni suo turno. 
+Se lo supera, l'effetto svanisce. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+## Verga della resurrezione
+
+**tipo:** Verga (richiede sintonia)
+**rarita:** leggendaria
+
+Questa verga ha 5 cariche. Mentre il personaggio la impugna, può usarla per lanciare uno dei seguenti incantesimi: guarigione (consumando 1 carica) o resurrezione (consumando 5 cariche).
+La verga recupera 1 carica consumata all'alba di ogni giorno. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Con un risultato di 1, la verga scompare in un'innocua esplosione abbagliante.
+
+## Verga della sicurezza
+
+**tipo:** Verga
+**rarita:** molto rara
+
+Mentre il personaggio impugna questa verga, può effettuare un'azione di Magia per attivarla. Così facendo, la verga trasporta istantaneamente il personaggio e un massimo di altre 199 creature consenzienti che è in grado di vedere in un semipiano. È il personaggio a scegliere la forma di quest'ultimo. Potrebbe trattarsi di un placido giardino, un'allegra taverna, un palazzo immenso, un'isola tropicale, una festa fantastica o qualsiasi altra cosa gli venga in mente. A prescindere dalla sua natura, il semipiano contiene abbastanza acqua e cibo per soddisfare i bisogni dei visitatori e non è in grado di nuocere loro in alcun modo. Ogni altra cosa con cui è possibile interagire in questo spazio può esistere solamente al suo interno. Per esempio, un fiore colto in un giardino scompare se portato fuori dal semipiano.Per ogni ora passata nel semipiano, un visitatore recupera punti ferita come se avesse speso 1 Dado Vita. Inoltre, nonostante sia un luogo in cui il tempo scorre normalmente, le creature al suo interno non invecchiano. I visitatori possono rimanere fino a un 
+massimo di 200 giorni suddivisi per il numero delle creature presenti (arrotondato per difetto).
+Quando il tempo si esaurisce o il personaggio effettua un'azione di Magia per terminare l'effetto, tutti i visitatori ricompaiono nello spazio che occu-pavano quando il personaggio ha attivato la verga o nello spazio libero più vicino. Una volta utilizzata, questa proprietà non può essere riutilizzata prima che siano trascorsi 10 giorni.
+
+## Verga della sovranità
+
+**tipo:** Verga (richiede sintonia)
+**rarita:** rara
+
+Il personaggio può effettuare un'azione di Magia per mostrare la verga e costringere all'obbedienza ogni creatura a sua scelta che è in grado di vedere 
+situata entro 36 metri da sé. Ogni bersaglio deve superare un tiro salvezza su Saggezza con CD 15, altrimenti rimane affascinato per 8 ore. Finché è 
+affascinata in questo modo, una creatura considera il personaggio come un capo in cui ha piena fiducia. 
+Se il personaggio o i suoi alleati le fanno del male o se riceve l'ordine di agire in modo contrario alla sua natura, la creatura smette di essere affascinata in questo modo. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+## Verga dell'assorbimento
+
+**tipo:** Verga (richiede sintonia)
+**rarita:** molto rara
+
+Mentre impugna questa verga, il personaggio può usare la sua reazione per assorbire un incantesimo che sta bersagliando solo lui e non ha un'area di effetto. L'effetto dell'incantesimo assorbito è annullato e l'energia dell'incantesimo (ma non  l'incantesimo vero e proprio) viene accumulata nella verga. L'energia ha lo stesso livello  dell'incantesimo nel momento in cui è stato lanciato. Un incantesimo annullato si dissipa senza produrre alcun effetto e le risorse utilizzate per lanciarlo vengono sprecate. La verga può assorbire e accumulare fino a 50 livelli di energia nel corso della sua esistenza. Dopo aver assorbito 50 livelli di energia, non può assorbirne altri. Se il personaggio è bersagliato da un incantesimo che non può essere accumulato, la verga non ha alcun effetto su quell'incantesimo.Quando il personaggio entra in sintonia con la verga, scopre quanti livelli di energia  quest'ultima ha assorbito nel corso della propria esistenza e quanti livelli di energia degli incante-simi contiene attualmente.Se il personaggio è un incantatore e impugna la verga, può trasformare l'energia accumulata al suo interno in slot incantesimo e usarli per lanciare gli incantesimi che ha preparato o che conosce. Il personaggio può creare soltanto slot incantesimo di livello pari o inferiore a quello dei propri slot, fino al 5º livello al massimo. Inoltre, usa i livelli accumulati al posto dei propri slot, ma sotto ogni altro aspetto lancia l'incantesimo normalmente. Per esempio, può usare 3 livelli accumulati nella verga come uno slot incantesimo di 3º livello.Una verga appena trovata solitamente ha già 1d10 livelli di energia di incantesimi accumulati. Una verga che non può assorbire altra energia degli incantesimi e a cui non rimane più energia smette di essere un oggetto magico.
+
+## Verga inamovibile
+
+**tipo:** Verga
+**rarita:** non comune 
+
+Questa verga di ferro è dotata di un tasto su  un'estremità. Il personaggio può effettuare  un'azione di Utilizzo per premere il tasto e fare in modo che la verga si fissi magicamente nel luogo in cui si trova. Finché il personaggio o un'altra crea-tura non effettua un'azione di Utilizzo per premere nuovamente il tasto, la verga non si sposta, sfidando anche la forza di gravità. La verga può sostenere un peso massimo di 4 tonnellate; un peso superiore fa sì che la verga si disattivi e cada. Una creatura può compiere un'azione di Utilizzo per effettuare una prova di Forza (Atletica) con CD 30, spostando la verga per un massimo di 3 metri in caso di successo.
+
+## Zainetto pratico
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro 
+
+Questo zaino è dotato di una tasca centrale e due laterali che si aprono su altrettanti spazi extradimensionali. Ognuna delle tasche laterali può custodire fino a 100 chilogrammi di materiale, per un volume che non superi 25 cubi con spigolo di 30 centimetri. La tasca centrale può contenere fino a 250 chilogrammi di materiale, per un volume massimo di 64 cubi con spigolo di 30 centimetri. Lo zaino pesa sempre 2,5 chilogrammi, a prescindere dal contenuto.
+Recuperare un oggetto dallo zainetto richiede un'azione di Utilizzo o un'azione bonus (a scelta del personaggio). Quando fruga nello zainetto alla ricerca di un oggetto specifico, questo si trova  sempre magicamente in cima.
+Se una delle sue tasche viene caricata eccessivamente, perforata o strappata, lo zainetto si rompe e viene distrutto. In tal caso, gli oggetti contenuti al suo interno sono perduti per sempre, anche se un manufatto prima o poi rispunterà fuori da qualche altra parte. Se lo zainetto viene rivoltato, tutto ciò che conteneva cade a terra senza danneggiarsi, ma lo zainetto deve essere rivoltato di nuovo per poter essere riutilizzato.Ogni tasca dello zainetto contiene una quantità d'aria sufficiente per 10 minuti, da dividere per il numero di creature che respirano al suo interno.
+Collocare uno zainetto all'interno di uno spazio extradimensionale, come quello creato da una borsa conservante, un buco portatile o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il por-tale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le creature entro 3 metri dal portale e senza copertura totale ven-gono attirate al suo interno e depositate in un luogo casuale del Piano Astrale; dopodiché, il portale si chiude. Il portale è a senso unico e non può essere riaperto.
