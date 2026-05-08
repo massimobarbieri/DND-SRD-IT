@@ -1927,3 +1927,178 @@ Questo medaglione ha 5 cariche. Il personaggio che lo indossa può consumare 1 c
 **rarita:** non comune (+1), rara (+2) o molto rara (+3)
 
 Il personaggio ottiene un bonus ai tiri per colpire e ai tiri per i danni effettuati con questa munizione magica. Il bonus è determinato dalla rarità della munizione. Una volta colpito il bersaglio, la munizione non è più magica.Questa munizione è solitamente reperibile o venduta in quantità di dieci o venti pezzi. Dieci pezzi di queste munizioni hanno un valore equivalente a una pozione della stessa rarità.
+
+## Munizione assassina
+
+**tipo:** Arma (qualsiasi munizione)
+**rarita:** molto rara 
+
+Questa munizione magica è destinata a uccidere creature di un tipo particolare, scelto dal GM o determinato in modo casuale tirando sulla tabella di seguito. Se una creatura di quel tipo subisce danni dalle munizioni, effettua un tiro salvezza su Costituzione con CD 17, subendo ulteriori 6d10 danni da forza se fallisce o la metà dei danni extra in caso di successo.
+Una volta inflitti i danni extra, la munizione non è più magica.
+
+### 1d100 Tipo di creatura
+**01–10** Aberrazioni
+**11–15** Bestie
+**16–20** Celestiali
+**21–25** Costrutti
+**26–35** Draghi
+**36–45** Elementali
+**46–50** Folletti
+**51–60** Giganti
+**61–70** Immondi
+**71–75** Melme
+**76–80** Mostruosità
+**81–90** Non morti
+**91–95** Umanoidi
+**96–00** Vegetali
+
+## Occhiali della notte
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Finché il personaggio indossa queste lenti scure, ottiene scurovisione fino a 18 metri. Se ha già scurovisione, gli occhiali ne aumentano il raggio di 18 metri.
+
+## Olio dell'affilatura
+**tipo:** Pozione
+**rarita:** molto rara
+
+Una fiala di quest'olio può ricoprire un'arma da mischia o 20 munizioni, ma solo se si tratta di armi da mischia e munizioni non magiche che infliggono danni taglienti o perforanti. L'applicazione dell'olio richiede 1 minuto, dopo il quale penetra magicamente in qualsiasi oggetto su cui sia stato cosparso trasformando l'arma rivestita in un'arma +3 e le munizioni in munizioni +3.
+Quest'olio trasparente e gelatinoso luccica a causa di minuscoli e sottilissimi frammenti d'argento.
+
+## Olio della forma eterea
+
+**tipo:** Pozione
+**rarita:** rara
+
+Una fiala di quest'olio può coprire una creatura di taglia Media o inferiore, insieme all'equipaggia-mento che indossa e trasporta (per ogni categoria di taglia superiore, è necessario usare una fiala aggiuntiva). L'applicazione dell'olio richiede 10 minuti. La creatura cosparsa d'olio ottiene gli effetti dell'incantesimo forma eterea per 1 ora.All'esterno del contenitore di questo torbido olio grigiastro si formano in continuazione delle bolle che evaporano velocemente.
+
+## Olio della scivolosità
+
+**tipo:** Pozione
+**rarita:** non comune
+
+Una fiala di quest'olio può coprire una creatura di taglia Media o inferiore, insieme all'equipaggiamento che indossa e trasporta (per ogni categoria di taglia superiore, è necessario usare una fiala aggiuntiva). L'applicazione dell'olio richiede 10 minuti. La creatura cosparsa d'olio ottiene gli effetti dell'incantesimo libertà di movimento per 8 ore.
+In alternativa, è possibile usare un'azione di Magia per versare l'olio a terra, dove copre una superficie quadrata con lato di 3 metri, in cui riproduce gli effetti dell'incantesimo unto per 8 ore.
+Questo unguento nero viscoso sembra denso e pesante, ma scorre fluidamente quando viene versato. 
+
+## Pantofole del ragno
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Mentre indossa queste scarpe leggere, il personaggio può muoversi in alto, in basso e lateralmente sulle superfici verticali e sui soffitti mantenendo le mani libere. Inoltre, ottiene velocità di scalata pari alla propria velocità. Tuttavia, le pantofole non gli permettono di muoversi in questo modo su una superficie scivolosa, come per esempio una superficie ricoperta di ghiaccio o d'olio.
+
+## Pergamena magica
+
+**tipo:** Pergamena
+**rarita:** rarità variabile
+
+Una pergamena magica riporta le parole di un unico incantesimo, scritte in un codice mistico. Se l'incantesimo è nella lista degli incantesimi del personaggio, quest'ultimo può leggerla e lanciare l'incantesimo senza componenti materiali. In caso contrario, la pergamena risulta incomprensibile. Lanciare l'incantesimo leggendo la pergamena richiede il normale tempo di lancio dell'incantesimo. Una volta lanciato l'incantesimo, la pergamena si sgretola. In caso di interruzione del lancio, la pergamena non viene persa.Se l'incantesimo si trova sulla lista degli incan-tesimi del personaggio, ma è di un livello più alto rispetto a quelli che può lanciare normalmente, deve effettuare una prova di caratteristica usando la sua caratteristica da incantatore per determinare se riesce a lanciarlo o meno. La CD è pari a 10 più il livello dell'incantesimo. In caso di fallimento, l'incantesimo scompare dalla pergamena senza alcun altro effetto.Il livello dell'incantesimo sulla pergamena determina la CD del tiro salvezza dell'incantesimo e il bonus di attacco, così come la rarità della pergamena, come illustrato nella tabella seguente.
+
+### Livello dell'incantesimo Rarità CD del tiro salvezza Bonus di attacco
+Trucchetto Comune 13 +5
+1 Comune 13 +5
+2 Non comune 13 +5
+3 Non comune 15 +7
+4 Rara 15 +7
+5 Rara 17 +9
+6 Molto rara 17 +9
+7 Molto rara 18 +10
+8 Molto rara 18 +10
+9 Leggendaria 19 +11
+
+**Copiare una pergamena nel libro degli incantesimi**
+Gli incantesimi da mago scritti sulle  pergamene magiche possono essere copiati in un libro degli incantesimi. Per farlo, chi copia deve superare una prova di Intelligenza (Arcano) con CD pari a 10 più il livello dell'incantesimo. Se la prova viene superata, l'incantesimo viene copiato. A prescindere dal risultato della prova, la pergamena magica viene distrutta.
+
+## Perla del potere
+
+**tipo:** Oggetto meraviglioso (richiede sintonia con un incantatore)
+**rarita:** non comune
+
+Finché il personaggio ha con sé questa sfera, può effettuare un'azione di Magia per ripristinare uno slot incantesimo consumato di 3º livello o inferiore. Una volta usata, la perla non può essere riutilizzata fino all'alba successiva.
+
+## Perla nutriente
+
+**tipo:** Oggetto meraviglioso
+**rarita:** comune
+
+Questa perla gelatinosa e insapore si scioglie sulla lingua e fornisce una quantità di nutrimento pari a quella di 1 giorno di razioni.
+
+## Pietra del controllo degli elementali della terra
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Se il personaggio tocca il terreno con questa pietra da 2,5 chilogrammi, può effettuare un'azione di Magia per richiamare un elementale della terra. L'elementale appare in uno spazio libero a scelta del giocatore entro 9 metri dal personaggio, obbedisce ai suoi ordini e svolge il proprio turno immediatamente dopo quello del personaggio che l'ha evocato con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. La pietra non può più essere utilizzata in questo modo fino all'alba successiva.
+
+## Pietra della buona fortuna (pietrafortuna)
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Mentre il personaggio ha con sé quest'agata  levigata, ottiene un bonus di +1 alle prove di  caratteristica e ai tiri salvezza.
+
+## Pietra di Ioun
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** rarità variabile
+Le pietre di Ioun sono delle dimensioni approssimative di una biglia e devono il loro nome a Ioun, dea della conoscenza e della profezia venerata su alcuni mondi. Esistono molti tipi di pietre di Ioun, ognuno dei quali ha una diversa combinazione di forma e colore.Quando il personaggio effettua un'azione di Magia per lanciare una pietra di Ioun in aria, l'oggetto orbita intorno alla sua testa a una distanza di 1d3 metri, conferendogli il suo beneficio nel frattempo. Una creatura può avere fino a tre pietre di Ioun che orbitano intorno alla sua testa contemporaneamente.Ogni pietra che orbita intorno alla testa è considerata un oggetto indossato. La pietra orbitante evita il contatto con altre creature e oggetti, regolando la sua orbita per evitare collisioni e vanificando tutti i tentativi di altre creature di attaccarla o agguantarla.Il personaggio può effettuare un'azione di Utilizzo per afferrare e riporre un numero qualsiasi di pietre di Ioun che orbitano intorno alla sua testa. Se la sin-tonia con una pietra di Ioun termina mentre orbita intorno alla testa, l'oggetto cade come se fosse stato lasciato cadere a terra.Il tipo di pietra ne determina la rarità e gli effetti.
+
+**Agilità (molto rara)**
+Finché questa sfera color rosso scuro orbita intorno alla testa del personaggio, il suo punteggio di Destrezza aumenta di 2, fino a un massimo di 20.
+
+**Assorbimento (molto rara)**
+Finché orbita intorno alla testa del personaggio, questo ellissoide color lavanda chiaro gli permette di usare una reazione per annullare un incantesimo di 4º livello o inferiore lanciato da una creatura che il personaggio è in grado di vedere. Un incantesimo annullato non ha effetto e le risorse utilizzate per lanciarlo vengono sprecate. Dopo aver annullato 20 livelli di incantesimi, la pietra prende fuoco, assume una tonalità grigia e opaca e perde la sua magia.
+Assorbimento superiore (leggendaria). Finché orbita intorno alla testa del personaggio, questo ellissoide con venature verdi e color lavanda gli permette di usare una reazione per annullare un incantesimo di 8º livello o inferiore lanciato da una creatura che il personaggio è in grado di vedere. Un incantesimo annullato non ha effetto e le risorse utilizzate per lanciarlo vengono sprecate. Dopo aver annullato 20 livelli di incantesimi, la pietra prende fuoco, assume una tonalità grigia e opaca e perde la sua magia.
+
+**Autorità (molto rara)**
+Finché questa sfera con venature rosa e verdi orbita intorno alla testa del personaggio, il punteggio di Carisma del personaggio aumenta di 2, fino a un massimo di 20.
+
+**Consapevolezza (rara)**
+Mentre questo romboide blu scuro orbita intorno alla testa del personaggio, quest'ultimo dispone di vantaggio ai tiri per l'inizia-tiva e alle prove di Saggezza (Percezione).
+
+**Forza (molto rara)**
+Finché questo romboide azzurro orbita intorno alla testa del personaggio, il suo punteggio di Forza aumenta di 2, fino a un massimo di 20.
+
+**Intelletto (molto rara)**
+Finché questa sfera con venature blu e rosso scarlatto orbita intorno alla testa del personaggio, il punteggio di Intelligenza del personaggio aumenta di 2, fino a un massimo di 20.
+
+**Intuizione (molto rara)**
+Finché questa sfera blu incandescente orbita intorno alla testa del perso-naggio, il punteggio di Saggezza del personaggio aumenta di 2, fino a un massimo di 20.
+
+**Maestria (leggendaria)**
+Finché questo prisma verde chiaro orbita intorno alla testa del perso-naggio, il bonus di competenza del personaggio aumenta di 1.
+
+**Protezione (rara)**
+Finché questo prisma rosa antico orbita intorno alla testa del personaggio, quest'ultimo ottiene un bonus di +1 alla Classe Armatura.
+
+**Rigenerazione (leggendaria)**
+Finché questo fuso color madreperla orbita intorno alla testa del personaggio, quest'ultimo recupera 15 punti ferita alla fine di ogni ora, purché abbia almeno 1 punto ferita.
+
+**Riserva (rara)**
+Questo prisma viola acceso accumula al suo interno gli incantesimi lanciati su di esso, conservandoli finché il personaggio non li usa. Può contenere fino a 4 livelli di incantesimo per volta. Quando viene trovata, contiene 1d4 livelli di incantesimi accumulati scelti dal GM.Qualsiasi creatura può lanciare nella pietra un incantesimo di livello compreso tra il 1º e il 4º toccandola al momento del lancio dell'incantesimo. L'incantesimo non ha alcun effetto, a parte quello di essere immagazzinato nella pietra. Se la pietra non può contenere altri incantesimi, quello lanciato viene sprecato senza provocare alcun effetto. Il livello dello slot usato per lanciare l'incantesimo determina lo spazio che occupa.
+Finché la pietra orbita intorno alla testa del personaggio, quest'ultimo può lanciare qualsiasi incantesimo conservato al suo interno. L'incantesimo usa il livello di slot, la CD del tiro salvezza  sull'incantesimo, il bonus all'attacco con incantesimo e la caratteristica da incantatore di chi l'ha lanciato in origine, ma sotto ogni altro aspetto si considera che sia stato il personaggio a lanciarlo. L'incantesimo lanciato dalla pietra non è più conservato al suo interno, liberando il relativo spazio.
+
+**Sostentamento (rara)**
+Finché questo fuso tra-sparente orbita intorno alla testa del personaggio, quest'ultimo non ha bisogno di mangiare o bere.
+
+**Tempra (molto rara)**
+Finché questo romboide rosa orbita intorno alla testa del personaggio, il punteggio di Costituzione del personaggio aumenta di 2, fino a un massimo di 20.
+
+## Pietre parlanti
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Le pietre parlanti funzionano a coppie: ognuna di queste pietre è scolpita in modo da combaciare perfettamente con l'altra, rendendo la coppia facilmente riconoscibile. Quando il personaggio ne tocca una, può usarla per lanciare inviare. Il bersaglio è il possessore dell'altra pietra. Se nessuna creatura ha l'altra pietra, il personaggio viene a saperlo non appena la usa e quindi non lancia l'incantesimo.Quando l'incantesimo inviare viene lanciato tramite 
+le pietre, esse non possono essere riutilizzate fino all'alba successiva. Se una delle pietre di una coppia viene distrutta, l'altra smette di essere magica.
+
+## Pigmenti meravigliosi
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questa pregiata scatola di legno contiene 1d4 vasetti di pigmenti e un pennello (dal peso di 0,5 chilogrammi in totale).Usando il pennello e consumando un vasetto di pigmento, il personaggio può creare un numero qualsiasi di oggetti tridimensionali ed elementi del terreno (come muri, porte, alberi, fiori, armi, reti e fosse), ammesso che siano contenuti all'interno di un cubo con spigolo di 6 metri. Quest'operazione richiede Concentrazione e 10 minuti di tempo (a prescindere dal numero di elementi creati), durante i quali il personaggio deve rimanere all'interno del cubo. Se la concentrazione si interrompe o il personaggio esce dal cubo prima del completamento dell'operazione, tutti gli elementi dipinti svaniscono e il vasetto di pigmento si consuma.
+Una volta terminato il lavoro, tutti gli oggetti e gli elementi del terreno dipinti diventano reali. Di conseguenza, se il personaggio dipinge una porta su un muro, crea una vera porta che dà accesso a ciò che si trova dall'altra parte e, se dipinge una fossa sul pavimento, crea una fossa vera e propria, la cui profondità totale deve rientrare nel cubo con spigolo di 6 metri.
+Nessun oggetto creato da un vasetto di pigmento deve avere un valore superiore a 25 mo, mentre il valore di tutti gli oggetti creati non può superare le 500 mo. Se il personaggio dipinge oggetti di valore maggiore (come una grossa montagna d'oro), sembreranno autentici, ma un esame accurato rivelerà che sono fatti di poltiglia, biscotti o altri materiali analoghi.Se viene dipinta una forma di energia come il fuoco o il fulmine, l'energia compare, ma si dissipa non appena il personaggio finisce di dipingerla, senza infliggere alcun danno.
