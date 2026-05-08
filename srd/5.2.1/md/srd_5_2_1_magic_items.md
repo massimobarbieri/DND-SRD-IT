@@ -1578,3 +1578,141 @@ Può aumentare il livello  dell'incantesimo di 1 per ogni carica aggiuntiva cons
 **rarita:** rara
 
 Mentre il personaggio impugna quest'arma magica, può compiere un'azione bonus e usare una parola d'ordine per sprigionare le fiamme che avvolgono la parte dell'arma che infligge danni. Le fiamme proiettano luce intensa in un raggio di 12 metri e luce fioca per altri 12 metri. Quando la lama è in fiamme, infligge 2d6 danni da fuoco extra se il colpo va a segno. Le fiamme durano finché il personaggio non compie un'azione bonus per impartire nuovamente l'ordine o finché non lascia cadere, ripone o rinfodera l'arma.
+
+## Manette dimensionali
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Il personaggio può compiere un'azione di Utilizzo per mettere queste manette a una creatura incapacitata. Le manette si adattano alle creature di taglia Piccola, Media o Grande. Inoltre, impediscono alla creatura ammanettata di usare qualsiasi metodo di movimento extradimensionale, inclusi il teletrasporto e il viaggio su un diverso piano di esistenza. Non le impediscono però di attraversare un portale interdimensionale.Il personaggio e qualsiasi creatura da lui designata al momento della chiusura delle manette  possono usare un'azione di Utilizzo per rimuoverle. Una volta ogni 30 giorni, la creatura ammanettata può effettuare una prova di Forza (Atletica) con CD 30. In caso di successo, la creatura si libera e distrugge le manette.
+
+## Mantello della manta
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Il personaggio che indossa questo mantello può respirare sott'acqua e ottiene una velocità di nuoto pari a 18 metri.
+
+## Mantello della protezione
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Finché il personaggio indossa questo mantello riceve un bonus di +1 alla Classe Armatura e ai tiri salvezza.
+
+## Mantello dell'aracnide
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** molto raro
+
+Questo raffinato indumento di seta nera è intessuto con sottilissimi fili argentati. Il personaggio che lo indossa riceve i benefici seguenti:
+
+**Movimenti del ragno**
+La velocità di scalata equi-vale alla velocità base e il personaggio può muoversi in alto, in basso e lateralmente sulle superfici verticali e lungo i soffitti, mantenendo le mani libere.
+
+**Passo del ragno**
+Non può essere bloccato da alcun tipo di ragnatela e può muoversi attraverso di esse come se fossero terreno difficile.
+
+**Ragnatela**
+Può lanciare ragnatela (CD del tiro salvezza 13). La ragnatela creata dall'incantesimo riempie un'area doppia rispetto al normale. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+**Resistenza al veleno**
+Ha resistenza ai danni da veleno.
+
+## Mantello della resistenza agli incantesimi
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Finché il personaggio indossa questo mantello, dispone di vantaggio ai tiri salvezza contro gli incantesimi.
+
+## Mantello dell'invisibilità
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendario
+
+Questo mantello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché indossa il mantello, il personaggio può effettuare un'azione di Magia per mettersi il cappuccio e consumare una carica per diventare invisibile per 1 ora. L'effetto termina in anticipo se il personaggio si toglie il cappuccio (nessuna azione richiesta) o se smette di indossare il mantello.
+
+## Mantello del pipistrello
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Il personaggio che indossa questo mantello dispone di vantaggio alle prove di Destrezza (Furtività). 
+In un'area di luce fioca o di oscurità, può afferrare i lembi del mantello e usarlo per ottenere una velocità di volo di 12 metri. Se per qualunque motivo il personaggio lascia un lembo del mantello o esce dalla zona di luce fioca o di oscurità, perde questa velocità di volo.
+Finché il personaggio indossa il mantello in  un'area di luce fioca o di oscurità, può lanciare  l'incantesimo  metamorfosi su se stesso per trasformarsi in un pipistrello. In questa forma, mantiene i suoi punteggi di Carisma, Intelligenza, Saggezza. Il mantello non può essere riutilizzato in questo modo fino all'alba successiva.
+
+## Mantello distorcente
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** raro
+
+Quando il personaggio indossa questo mantello, proietta magicamente un'illusione che lo fa apparire in un punto diverso da quello in cui si trova in realtà. Di conseguenza, tutte le creature subiscono svantaggio ai tiri per colpire contro di lui. Se il personaggio subisce danni, la proprietà smette di funzionare fino all'inizio del suo turno successivo.
+La proprietà non funziona quando la velocità del personaggio è pari a 0.
+
+## Mantello elfico
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Quando il personaggio indossa questo mantello, le prove di Saggezza (Percezione) eseguite per percepirti subiscono svantaggio, mentre il personaggio dispone di vantaggio alle prove di Destrezza (Furtività).
+
+## Manuale dei golem
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questo tomo contiene le informazioni e i rituali necessari alla creazione di un particolare tipo di golem. Il GM sceglie il tipo o lo determina in modo casuale tirando sulla tabella d'accompagnamento. Per decifrare e usare il manuale, il personaggio deve essere un incantatore e possedere almeno due slot incantesimo di 5º livello. Una creatura che non è in grado di usare il manuale dei golem e tenta di leggerlo comunque subisce 6d6 danni psichici.
+Per creare un golem, il personaggio deve trascorrere il tempo indicato dalla tabella a lavorare ininterrottamente con il manuale a portata di mano e riposando al massimo per 8 ore al giorno. Deve inoltre pagare la somma specificata per procurarsi i materiali necessari.
+Una volta terminato il processo di creazione del golem, il libro viene consumato da una fiammata soprannaturale. Il golem si anima quando su di esso vengono sparse le ceneri del manuale. Vedere "Mostri" per la scheda delle statistiche del golem. Il golem è sotto il controllo del personaggio e  comprende ed esegue i suoi comandi.
+
+### 1d20 Golem Tempo Costo
+
+**1–5** Golem di argilla 30 giorni 65.000 mo
+**6–17** Golem di carne 60 giorni 50.000 mo
+**18** Golem di ferro 120 giorni 100.000 mo
+**19–20** Golem di pietra 90 giorni 80.000 mo
+
+## Manuale della salute
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro 
+
+Questo libro contiene suggerimenti utili sulla salute e l'alimentazione e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Costituzione aumenta di 2, fino a un massimo 
+di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
+
+## Manuale della velocità di azione
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questo libro contiene la descrizione di una serie di esercizi per la coordinazione e l'equilibrio, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Destrezza aumenta di 
+2, fino a un massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
+
+## Manuale dell'esercizio fisico
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Questo libro contiene la descrizione di una serie di esercizi ginnici e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Forza aumenta di 2, fino a un massimo di 30. Una 
+volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
+
+## Martello dei fulmini
+
+**tipo:** Arma (maglio o martello da guerra), (richiede sintonia)
+**rarita:** leggendaria
+
+Il personaggio ottiene un bonus di +1 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica.Il martello ha 5 cariche. Il personaggio può consumare 1 carica e usarlo per effettuare un attacco a distanza con l'arma, come se avesse la proprietà da lancio con una gittata normale di 6 metri e una gittata lunga di 18 metri. Se l'attacco va a segno, l'arma genera un rombo di tuono udibile fino a 90 metri di distanza. Il bersaglio e ogni creatura (eccetto il personaggio) entro 9 metri dal martello devono superare un tiro salvezza su Costituzione con CD 17, altrimenti diventano stordite fino al termine del turno successivo del personaggio. Subito dopo aver colpito o mancato il bersaglio, l'arma torna in mano al personaggio. L'arma recupera 1d4 + 1 cariche consumate all'alba di ogni giorno.
+
+**Anatema del gigante**
+Finché il personaggio è in sintonia con l'arma e indossa una cintura della forza dei giganti o i guanti del potere ogre con cui si trova in sintonia, ottiene i seguenti benefici:
+**Anatema dei giganti**
+Quando il personaggio ottiene un risultato di 20 sul d20 ai tiri per colpire effettuati con quest'arma contro un gigante, quest'ultimo deve superare un tiro salvezza su Costituzione con CD 17, altrimenti muore.
+**Forza dei giganti**. Il punteggio di Forza conferito dalla cintura della forza dei giganti o dai guanti del potere ogre aumenta di 4, fino a un massimo di 30.
+
+## Martello nanico da lancio
+
+**tipo:** Arma (martello da guerra) (richiede sintonia con un nano o con una creatura in sintonia con una cintura nanica)
+**rarita:** molto rara
+
+Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. L'arma ha la proprietà da lancio con una gittata normale di 6 metri e una gittata lunga di 18 metri. Quando chi la impugna colpisce con un attacco a distanza usando quest'arma, questo infligge 1d8 ulteriori danni da forza, o 2d8 ulteriori danni da forza se il bersaglio è un gigante. Subito dopo aver colpito o mancato il bersaglio, l'arma torna in mano al personaggio.
