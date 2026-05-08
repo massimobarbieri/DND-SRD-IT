@@ -2472,3 +2472,212 @@ Durante l'azione di Attacco, il personaggio può effettuare uno dei tiri per col
 **rarita:** non comune
 
 Finché il personaggio impugna questo scudo, dispone di vantaggio ai tiri per l'iniziativa e alle prova di Saggezza (Percezione). Sullo scudo è inciso il simbolo di un occhio.
+
+## Sfera annientatrice
+
+**tipo:** Oggetto meraviglioso 
+**rarita:* leggendario
+
+Questa sfera nera del diametro di 60 centimetri è un buco nel multiverso che fluttua a mezz'aria e che è stabilizzato da un campo magico che lo circonda.
+La sfera annienta tutta la materia che attraversa e che passa attraverso di essa, a eccezione dei manu-fatti. A meno che un manufatto non sia suscettibile ai danni di una sfera annientatrice, esso vi passa attraverso e ne esce illeso. Ogni altra cosa che tocca la sfera, ma che non ne viene interamente inghiottita e annientata, subisce 8d10 danni da forza.
+
+**Controllare la sfera**
+La sfera annientatrice rimane stazionaria finché qualcuno non ne assume il controllo. Se il personaggio si trova entro 18 metri da una sfera, con un'azione di Magia può effettuare una prova di Intelligenza (Arcano) con CD 25. In caso di successo, assume il controllo della sfera fino all'inizio del turno successivo togliendolo a qualsiasi altra creatura la controllasse prima di lui. In caso di fallimento,la sfera si sposta in linea retta verso il personaggio, avvicinandosi di 3 metri. 
+Finché il personaggio controlla la sfera, può farla muovere in una direzione qualunque come azione bonus, fino a un numero di metri pari a 1,5 × il suo modificatore di Intelligenza (per un minimo di 1,5 metri). Se la sfera entra nello spazio occupato da una creatura, quest'ultima deve superare un tiro salvezza su Destrezza con CD 19 per non farsi toc-care, altrimenti subisce 8d10 danni da forza. Se la creatura scende a 0 punti ferita dopo aver subito tali danni viene obliterata, lasciando i suoi averi ma nessun altro resto fisico.
+
+**Interazioni con la sfera**
+Se la sfera entra in contatto con un portale planare, come quello creato dall'incantesimo portale, o con uno spazio extradi-mensionale, come quello di un buco portatile, il GM determina casualmente ciò che succede, usando la tabella seguente.
+
+### 1d100 Risultato
+**01–50** La sfera è distrutta.
+**51–85** La sfera si muove attraverso il portale o nello spazio extradimensionale.
+**86–00** Uno squarcio nello spazio trascina la sfera e ogni creatura e oggetto entro 54 metri da essa su un piano di esistenza casuale.
+
+## Sfera del drago
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** manufatto
+
+Una sfera è un globo di cristallo intagliato del dia-metro di circa 25 centimetri. Quando viene usata, cresce fino a raggiungere 50 centimetri di diametro 
+e al suo interno è visibile una nebbia turbinante.Se il personaggio è in sintonia con la sfera, può effettuare un'azione di Magia per scrutare nelle sue profondità. In tal caso, deve effettuare un tiro salvezza su Carisma con CD 15. Se lo supera, il personaggio ottiene il controllo della sfera finché 
+rimane in sintonia con essa. Se fallisce, la sfera impone la condizione affascinato su di lui finché rimane in sintonia con essa.
+Mentre è affascinato, il personaggio non può interrompere volontariamente la sintonia con la sfera, che lancia suggestione su di lui a volontà (CD del tiro salvezza 18), incitandolo ad agire per favorire i suoi scopi malvagi. L'essenza del drago all'interno della sfera potrebbe desiderare molte cose: l'annientamento di una particolare società o organizzazione, la liberazione dalla sfera, seminare sofferenza nel mondo, promuovere il culto di Tiamat o qualsiasi altra cosa il GM decida.
+
+**Incantesimi**
+La sfera ha 7 cariche e recupera 1d4 + 3 cariche consumate all'alba di ogni giorno. Se è il personaggio a controllare la sfera, può usarla per lanciare uno degli incantesimi contenuti nella seguente tabella. La tabella indica quante cariche vanno consumate per lanciare l'incantesimo. 
+**Incantesimo Costo in cariche**
+**Cura ferite (versione di 9º livello)** 4
+**Individuazione del magico** 0
+**Interdizione alla morte** 2
+**Luce diurna** 1
+**Scrutare (CD del tiro salvezza 18)** 3
+
+**Richiamare draghi**
+Mentre il personaggio con-trolla la sfera, può effettuare un'azione di Magia per farle inviare un richiamo telepatico che si estende in tutte le direzioni per 60 chilometri. I draghi cromatici situati entro quel raggio sono obbligati a raggiungere la sfera il più velocemente possibile lungo il percorso più diretto. Le divinità dei draghi come Tiamat sono immuni a questo richiamo. I dra-ghi cromatici attirati dalla sfera potrebbero essere ostili nei confronti del personaggio per essere stati obbligati ad agire contro il loro volere. Una volta che il personaggio ha usato questa proprietà, non può riutilizzarla per 1 ora.
+Distruggere una sfera. Una sfera del drago ha CA 20 ed è distrutta se subisce danni da un'arma +3 o da un incantesimo disintegrazione. Non può essere danneggiata in nessun altro modo.
+
+## Sfera di cristallo
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** molto raro
+
+Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa.
+
+## Sfera di cristallo della lettura del pensiero
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendario
+
+Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa. Inoltre, può lanciare individuazione dei pensieri (CD del tiro salvezza 17) rivolto alle creature che è in grado di vedere situate entro 9 metri dal sensore dell'incantesimo. Non è obbligato a concentrarsi su 
+individuazione dei pensieri per mantenerlo per la sua durata, ma l'incantesimo termina se scrutare viene interrotto.
+
+## Sfera di cristallo della telepatia
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendario
+
+Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa. Inoltre, può comunicare telepaticamente con le creature che è in grado di vedere situate entro 9 metri dal sensore dell'incantesimo. Può anche lanciare suggestione (CD del tiro salvezza 17) attraverso il sensore su una di queste creature. Non è obbligato a concentrarsi su suggestione per man-tenerlo per la sua durata, ma l'incantesimo termina se scrutare viene interrotto. Non è possibile lanciare suggestione in questo modo fino all'alba successiva.
+
+## Sfera di cristallo della visione del vero
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendario
+
+Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa. Inoltre, dispone di vista pura entro un raggio di 36 metri centrato sul sensore dell'incantesimo.
+
+## Solvente universale
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** leggendario
+
+Questa fiala contiene un liquido lattiginoso che emana un forte odore di alcool. Quando viene trovata, una fiala ne contiene (1d6 + 1) x 30 grammi.
+Il personaggio può effettuare un'azione di Utilizzo per versare 30 grammi o più di solvente su una superficie a portata. Il liquido dissolve istanta-neamente qualsiasi materiale o sostanza adesiva toccata, inclusa la colla meravigliosa, che copra fino a un'area quadrata con lato di 30 centimetri.
+
+## Spada affilata
+
+**tipo:** Arma (falcione, scimitarra, spada lunga o spadone) (richiede sintonia)
+**rarita:** molto rara
+
+Quando il personaggio attacca un oggetto con quest'arma magica e l'attacco va a segno, mas-simizza i dadi dei danni della sua arma contro il bersaglio.Quando il personaggio attacca una creatura con quest'arma e ottiene 20 sul d20 al tiro per colpire, il bersaglio subisce 14 danni taglienti extra e ottiene 1 livello di indebolimento.
+
+## Spada danzante
+
+**tipo:** Arma (scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
+**rarita:** molto rara
+
+Il personaggio può effettuare un'azione bonus per lanciare quest'arma magica in aria. Quando lo fa, la spada inizia a fluttuare, vola fino a una distanza 
+di 9 metri e attacca una creatura a scelta del personaggio situata entro 1,5 metri da sé. L'arma utilizza il proprio tiro per colpire e aggiunge il proprio 
+modificatore di caratteristica ai tiri per i danni.Finché la spada fluttua, il personaggio può effet-tuare un'azione bonus per farla volare in un altro 
+punto entro 9 metri da sé. Come parte della stessa azione bonus, il personaggio può far sì che l'arma attacchi una creatura entro 1,5 metri da essa.
+Dopo il quarto attacco, l'arma fluttuante vola verso il personaggio e cerca di tornare nella sua mano. Se il personaggio non ha una mano libera, l'arma cade a terra ai suoi piedi. Se non esiste un percorso sgombro fino al personaggio, la spada si avvicina a lui quanto più possibile e poi cade a 
+terra. Smette di fluttuare anche se il personaggio la prende in mano o se si allontana più di 9 metri da essa.
+
+## Spada del ferimento
+
+**tipo:** Arma (falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
+**rarita:** rara
+
+Quando il personaggio colpisce una creatura con un attacco utilizzando quest'arma magica, il bersaglio subisce 2d6 danni necrotici extra e deve superare un tiro salvezza su Costituzione con CD 15, altrimenti non potrà recuperare punti ferita per 1 ora. Il bersaglio può ripetere il tiro salvezza alla fine di ogni suo turno. Se lo supera, l'effetto svanisce.
+
+## Spada del furto vitale
+
+**tipo:** Arma (falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
+**rarita:** rara
+
+Quando il personaggio attacca una creatura con quest'arma magica e ottiene 20 sul d20 al tiro per colpire, il bersaglio subisce 15 danni necrotici extra 
+se non è un costrutto o un non morto. Inoltre, il personaggio ottiene un numero di punti ferita tem-poranei pari alla quantità di danni necrotici inferti.
+
+## Spada vorpal
+
+**tipo:** Arma (falcione, scimitarra, spada lunga o spadone) (richiede sintonia)
+**rarita:** leggendaria
+
+Il personaggio ottiene un bonus di +3 ai tiri per colpire e a quelli per i danni effettuati con quest'arma magica. Inoltre, l'arma ignora la resistenza ai danni taglienti.Quando il personaggio usa quest'arma per attaccare una creatura che abbia almeno una testa e ottiene 20 sul d20 al tiro per colpire, taglia una delle sue teste. La creatura muore se non riesce a sopravvivere senza testa. L'effetto non si applica a una creatura che è immune ai danni taglienti, non possiede o non ha bisogno di una testa, oppure se il GM decide che la creatura è troppo grande perché la sua testa possa essere tagliata con quest'arma. In tal caso, la creatura subisce 30 danni taglienti extra dal colpo. Se la creatura ha Resistenza leggen-daria, può consumare un utilizzo giornaliero di quel tratto per evitare di perdere la testa e subire invece i danni extra.
+
+## Spadone del gelo
+
+**tipo:** Arma (falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
+**rarita:** molto rara
+
+Quando il personaggio colpisce con un tiro per colpire effettuando un attacco con quest'arma magica, il bersaglio subisce 1d6 danni da freddo extra. Inoltre, finché impugna l'arma, il personaggio ha resistenza ai danni da fuoco.A temperature gelide, l'arma proietta luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri.
+Quando il personaggio sfodera quest'arma, può estinguere tutte le fiamme non magiche entro un raggio di 9 metri da sé. Una volta usata, questa proprietà non può essere riutilizzata per 1 ora.
+
+## Specchio imprigionante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** molto raro
+
+Se si osserva indirettamente la superficie di questo specchio alto 1,2 metri e largo 0,5, esso mostra flebili immagini di alcune creature. Lo specchio pesa 25 kg, ha CA 11, 10 PF, immunità ai danni psichici e da veleno, e vulnerabilità ai danni contundenti. Quando scende a 0 punti ferita, va in frantumi ed è distrutto.
+Se è appeso a una superficie verticale e il personaggio si trova entro 1,5 metri da esso, questi può effettuare un'azione di Magia e attivarlo usando 
+la sua parola d'ordine. Dopodiché, rimarrà attivo finché il personaggio non effettua l'azione di Magia e ripete la parola d'ordine per disattivarlo.Ogni creatura, a eccezione del personaggio, che vede la propria immagine riflessa nello specchio attivato e si trova entro 9 metri da esso deve superare un tiro salvezza su Carisma con CD 15, altrimenti resta intrappolata in una delle sue dodici celle extradimensionali. Chiunque conosca la natura dello specchio effettua la prova con vantaggio, mentre i costrutti la superano automaticamente.
+Una cella extradimensionale è una distesa infinita di spazio pervasa da una fitta nebbia che riduce la visibilità a 3 metri. Le creature intrappolate nelle celle dello specchio non invecchiano e non hanno bisogno di mangiare, bere o dormire. Una creatura intrappolata in una cella può fuggire usando qualsiasi magia che consenta i viaggi planari; altrimenti, rimane confinata al suo interno finché non viene liberata.
+Se lo specchio intrappola una creatura, ma tutte le sue dodici celle sono occupate, una delle creature intrappolate (scelta casualmente) viene liberata per fare spazio al nuovo prigioniero. Una creatura liberata appare in uno spazio libero a portata di vista dello specchio, ma rivolta nella direzione opposta. Se lo specchio va in frantumi, tutte le creature che contiene vengono liberate e compaiono in spazi liberi vicino a esso.
+Mentre si trova entro 1,5 metri dallo specchio, il personaggio può effettuare un'azione di Magia per pronunciare il nome di una creatura intrappolata all'interno o il numero di una cella. La creatura nominata o custodita nella cella di quel numero compare come immagine sulla superficie dello specchio. A questo punto, il personaggio e la creatura possono comunicare.
+In modo analogo, il personaggio può effettuare un'azione di Magia e utilizzare una seconda parola d'ordine per liberare una creatura intrappolata che compare, insieme a tutto ciò che possiede, nello spazio libero più vicino allo specchio, con le spalle rivolte verso di esso.
+Collocare lo specchio all'interno di uno spazio extradimensionale, come quello creato da una borsa conservante, un buco portatile o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le creature entro 3 metri dal portale e senza copertura totale vengono attirate al suo interno e finiscono in un luogo casuale del Piano Astrale; dopodiché, il portale si chiude. Il portale è a senso unico e non può essere riaperto.
+
+## Statuina del potere meraviglioso
+
+**tipo:** Oggetto meraviglioso
+**rarita:** rarità variabile 
+
+Una statuina del potere meraviglioso è una scultura abbastanza piccola da stare in tasca. Se il perso-naggio effettua un'azione di Magia per lanciare la miniatura in un punto del suolo entro 18 metri da sé, la statuina diventa una creatura vivente specificata nella descrizione dell'oggetto qui di seguito. 
+Se lo spazio dove dovrebbe comparire la creatura è già occupato da altre creature o oggetti, o se non c'è spazio a sufficienza, la statuina non si trasforma.
+La creatura è amichevole nei confronti del personaggio e dei suoi compagni, comprende le lingue parlate dal personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo il personaggio con il suo punteggio di iniziativa. Se non riceve ordini, la creatura si difende ma non compie altre azioni.
+La creatura permane per una durata specifica per ogni statuina. Esaurita la durata, la creatura riprende la forma di statuina. Può ritrasformarsi in anticipo se scende a 0 punti ferita o se il personaggio compie un'azione di Magia mentre tocca la creatura per farla tornare alla forma di statuina. Quando torna a essere una statuina, la sua proprietà non può essere riutilizzata prima che sia  trascorso un certo periodo di tempo, come specificato nella descrizione della specifica statuina.
+
+**Cane di onice (rara)**
+Questa statuina di onice raffigura un cane e può trasformarsi in un mastino per una durata massima di 6 ore. Il mastino ha un punteggio di Intelligenza pari a 8 e può parlare il Comune. È inoltre dotato di vista cieca fino a 18 metri. Una volta usata, non può essere riutilizzata finché non sono trascorsi 7 giorni.
+Capre d'avorio (rara). Queste statuine di avorio raffiguranti delle capre vengono sempre create in gruppi di tre pezzi. Ognuna delle capre ha un aspetto diverso dalle altre e funziona diversamente. Le loro caratteristiche speciali sono le seguenti:
+**Capra del terrore**
+La statuina può trasformarsi in una capra gigante per un massimo di 3 ore. La capra non può effettuare attacchi, ma il personaggio può rimuovere le corna (senza infliggere danni) e usarle come armi. Un corno diventa una lancia da cavaliere +1, l'altro una spada lunga +2. La rimozione di un corno richiede un'azione di Magia e le armi scompaiono quando la capra ritorna in forma di statuina, momento in cui recu-pera le sue corna. Mentre il personaggio cavalca la capra, qualsiasi creatura ostile che inizia il suo turno entro  un'emanazione di 9 metri originata dalla capra deve superare un tiro salvezza su Saggezza con CD 15 o diventare spaventata per 1 minuto, fino a quando il personaggio non cavalca più la capra o finché la capra non ritorna alla forma di statuina. La creatura spaventata ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Una volta superato il tiro salvezza, la creatura è immune a questo effetto per le 24 ore successive. Una volta usata, la statuina non può essere riutilizzata finché non 
+sono trascorsi 15 giorni.
+**Capra del viaggio**
+Questa statuina può trasfor-marsi in una capra Grande con le stesse statistiche di un cavallo da galoppo. Ha 24 cariche e ogni ora o frazione di ora trascorsa in forma di capra costa 1 carica. Finché la statuina ha ancora delle cariche, il personaggio può usarla ogni volta che desidera. Una volta esaurite le cariche, torna alla forma di statuina e non può essere riutilizzata finché non sono trascorsi 7 giorni, momento in cui recupera tutte le cariche spese.
+**Capra del dolore**
+La statuina può trasformarsi in una capra gigante per un massimo di 3 ore. 
+Una volta usata, non può essere riutilizzata finché non sono trascorsi 30 giorni.
+
+**Corvo d'argento (non comune)**
+Questa statuina d'argento raffigurante un corvo può trasformarsi in un corvo per una durata massima di 12 ore. 
+Una volta usata, non può essere riutilizzata finché non sono trascorsi 2 giorni. Finché si trova in forma di corvo, la statuina permette al personaggio di lan-ciare un incantesimo animale messaggero su di essa.
+
+**Elefante di marmo (rara)**
+Questa statuetta di marmo ricorda un elefante che barrisce. Può tra-sformarsi in un elefante per una durata massima di 24 ore. Una volta usata, non può essere riutilizzata finché non sono trascorsi 7 giorni.
+
+**Grifone di bronzo (rara)**
+Questa statuina di bronzo raffigura un grifone rampante. Può trasfor-marsi in grifone per una durata massima di 6 ore. 
+Una volta usata, non può essere riutilizzata finché non sono trascorsi 5 giorni.
+
+**Gufo di serpentino (rara)**
+Questa statuina di serpentino raffigurante un gufo può trasformarsi in un gufo gigante per una durata massima di 8 ore. Il gufo può comunicare telepaticamente con il personaggio a qualsiasi distanza, purché entrambi si trovino sullo stesso piano di esistenza. Una volta usata, non può essere riutilizzata finché non sono trascorsi 2 giorni.
+
+**Leoni d'oro (rara)**
+Le statuine di questi leoni vengono sempre create in coppia. È possibile usare una sola statuina o entrambe contemporaneamente. Ognuna può trasformarsi in un leone per una durata massima di 1 ora. Ogni leone, una volta che è stato usato, non può essere riutilizzato finché non 
+sono trascorsi 7 giorni.
+
+**Mosca d'ebano (rara)**
+Questa statuina in ebano, scolpita con le sembianze di un tafano, può diventare una mosca gigante (vedi la relativa scheda delle statistiche) per un massimo di 12 ore e può essere cavalcata. Una volta usata, non può essere riutilizzata finché non sono trascorsi 2 giorni.
+
+Mosca gigante
+Bestia Grande, senza allineamento
+CA 11  Iniziativa +1 (11)
+PF 19 (3d10 + 3)
+Velocità 9 m, volo 18 m
+MOD SALV MOD SALV MOD SALV
+For  14 +2 +2 Des  13 +1 +1 Cos 13 +1 +1
+Int 2 −4 −4 sag  10 +0 +0 Car  3 −4 −4
+Sensi Percezione passiva 10, scurovisione 18 m
+Lingue nessuna
+GS 0 (PE 0; BC +2)
+
+**Stallone di ossidiana (molto rara)**
+Questa statuina di ossidiana levigata può trasformarsi in un cavallo degli incubi per una durata massima di 24 ore. Il cavallo degli incubi combatte solo per difendersi. Una volta usata, non può essere riutilizzata finché non sono trascorsi 5 giorni.
+Ogni volta che il personaggio usa la statuina esiste una probabilità del 10% che il cavallo degli incubi ignori i suoi ordini, compreso quello di riprendere la forma di statuina. Se il personaggio è in sella al cavallo degli incubi quando quest'ultimo ignora i suoi ordini, entrambi vengono istantaneamente trasportati in un luogo casuale sul piano  dell'Ade, dove il cavallo degli incubi si ritrasforma in  statuina.
+
+## Stivali alati
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Questi stivali hanno 4 cariche e recuperano 1d4 cariche consumate all'alba di ogni giorno. Mentre indossa gli stivali, il personaggio può effettuare un'azione di Magia per consumare 1 carica, ottenendo una velocità di volo di 9 metri per 1 ora. Se il personaggio è in volo quando la durata si esaurisce, scende a una velocità di 9 metri per round finché non atterra.
