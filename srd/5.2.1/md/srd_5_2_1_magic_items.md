@@ -1448,3 +1448,133 @@ Il personaggio consuma 5 cariche e fa sì che la gemma emetta una luce intensa i
 **rarita:** raro
 
 Questa gemma ha 3 cariche. Il personaggio può consumare 1 carica come azione di Magia. Per i 10 minuti successivi, guardando attraverso la gemma il personaggio ottiene vista pura entro un raggio di 36 metri.La gemma recupera 1d3 cariche consumate  all'alba di ogni giorno.
+
+## Gemma elementale
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questa gemma contiene un frammento di energia elementale. Quando si effettua un'azione di Utilizzo per rompere la gemma, viene richiamato un elementale (vedere "Mostri" per la sua scheda delle  statistiche) e la gemma cessa di essere magica. La creatura compare in uno spazio libero il più vicino possibile alla gemma rotta, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. Il tipo di gemma determina il tipo di elementale, come indicato nella tabella seguente.
+### Gemma Elementale richiamato
+**Corindone rosso** Elementale del fuoco
+**Diamante giallo** Elementale della terra
+**Smeraldo** Elementale dell'acqua
+**Zaffiro blu** Elementale dell'aria
+
+## Giaco di maglia elfico
+
+**tipo:** Armatura (cotta di maglia o giaco di maglia)
+**rarita:** rara
+
+Quando il personaggio indossa quest'armatura, ottiene un bonus di +1 alla Classe Armatura. Inoltre, è considerato competente in questa armatura anche se non ha competenza nelle armature medie o pesanti.
+
+## Giavellotto del fulmine
+
+**tipo:** Arma (giavellotto), non comune
+**rarita:** rara
+
+Ogni volta che il personaggio effettua un tiro per colpire con quest'arma magica e colpisce, può far sì che infligga danni da fulmine anziché danni perforanti.
+
+**Fulmine**
+Quando il personaggio scaglia quest'arma contro un bersaglio a non più di 36 metri da sé, può evitare di effettuare un tiro per colpire a distanza e trasformare l'arma in un fulmine, formando una linea larga 1,5 metri tra lui e la creatura colpita. Il bersaglio e ogni creatura lungo la linea (a eccezione del personaggio) effettuano un tiro salvezza su Destrezza con CD 13; se falliscono, subiscono 4d6 danni da fulmine, mentre se lo superano subiscono la metà di quei danni. Subito dopo aver colpito, l'arma riappare in mano al perso-naggio. Questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+## Guanti catturaproiettili
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Se il personaggio viene colpito con un tiro per colpire effettuato con un'arma a distanza o da lancio mentre indossa questi guanti, può usare una  reazione per ridurre i danni di 1d10 più il suo modificatore di Destrezza se ha una mano libera.
+Se riduce i danni a 0, può afferrare l'arma o la munizione, purché si tratti di un oggetto abbastanza piccolo da essere tenuto in mano.
+
+## Guanti del nuotare e scalare
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Il personaggio che indossa questi guanti ha una velocità di nuoto e una velocità di scalata pari alla propria velocità e ottiene un bonus di +5 alle prove di Forza (Atletica) effettuate per arrampicarsi o nuotare.
+
+## Guanti del potere orchesco
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Finché il personaggio indossa questi guanti, il suo punteggio di Forza è pari a 19. I guanti non hanno alcun effetto se il suo punteggio di Forza è già pari o superiore a 19.
+
+## Guanti ladreschi
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questi guanti sono impercettibili quando vengono indossati. Il personaggio che li indossa ottiene un bonus di +5 alle prove di Destrezza (Rapidità di mano).
+
+## Incensiere del controllo degli elementali dell'aria
+
+**tipo:** Oggetto meraviglioso
+**rarita:** raro
+
+Facendo oscillare dolcemente questo incensiere, il personaggio può effettuare un'azione di Magia per richiamare un elementale dell'aria. L'elementale compare in uno spazio libero il più vicino possibile all'incensiere, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. L'incensiere non può essere riutilizzato in questo modo fino all'alba successiva.
+
+## Lama della fortuna
+
+**tipo:** Arma (falcetto, falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
+**rarita:** leggendaria
+
+Il personaggio ottiene un bonus di +1 ai tiri per col-pire e a quelli per i danni effettuati con  quest'arma magica. Finché porta l'arma sulla sua persona, 
+ottiene anche un bonus di +1 ai tiri salvezza.
+
+**Desiderio**
+L'arma ha 1d3 cariche. Mentre il perso-naggio la impugna, può consumare 1 carica e usarla per lanciare desiderio. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva. Quando finisce le cariche, l'arma perde tale proprietà.
+
+**Fortuna**
+Se non è incapacitato e ha l'arma con sé, il personaggio può appellarsi alla fortuna dell'arma (nessuna azione richiesta) per ripetere una prova con d20 fallita. Deve usare il risultato del secondo tiro. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
+
+## Lama del sole
+
+**tipo:** Arma (spada lunga) (richiede sintonia)
+**rarita:** rara
+
+Quest'oggetto sembra l'elsa di una spada.
+**Lama radiosa**
+Mentre il personaggio impugna l'elsa, può far comparire (o scomparire) una lama di pura energia radiosa usando un'azione bonus. 
+Finché la lama è presente, questa spada magica funziona come una spada lunga con la proprietà accurata. Se il personaggio è competente nelle spade corte o lunghe, lo è anche nell'uso della lama del sole.
+Il personaggio ottiene un bonus di +2 ai tiri per colpire e ai tiri per i danni effettuati con  quest'arma, che infligge danni radiosi anziché taglienti. Quando l'arma colpisce un non morto, il bersaglio subisce 1d8 danni radiosi extra.
+
+**Luce del sole**
+La lama luminosa di questa spada proietta luce intensa in un raggio di 4,5 metri e luce fioca per altri 4,5 metri. La luce è considerata luce solare. Finché la lama permane, il personaggio può effettuare un'azione di Magia per ampliare o ridurre il raggio della luce intensa e fioca di 1,5 metri per ognuna, fino a un massimo di 9 metri o un minimo di 3 metri per ognuna.
+
+## Lanterna della rivelazione
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Quando è accesa, questa lanterna schermabile arde per 6 ore con 0,5 litri d'olio, proiettando luce intensa in un raggio di 9 metri e luce fioca per altri 
+9 metri. Quando si trovano nell'area di luce intensa della lanterna, le creature e gli oggetti invisibili diventano visibili. Il personaggio può effettuare un'azione di Utilizzo per schermare la lanterna, riducendo la luce proiettata a luce fioca in un raggio di 1,5 metri.
+
+## Lenti dell'aquila
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Queste lenti di cristallo si adattano agli occhi di chi le indossa. Quando il personaggio le indossa, dispone di vantaggio alle prove di Saggezza (Percezione) basate sulla vista. In condizioni di visibilità ottimale, può discernere i dettagli di creature e oggetti di almeno 60 centimetri di diametro anche da lunghissime distanze.
+
+## Lenti della visione dettagliata
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Queste lenti di cristallo si adattano agli occhi di chi le indossa. Mentre le indossa, il personaggio ha una vista assai migliore del normale in un raggio di 30 centimetri, ottenendo scurovisione in quel rag-gio e vantaggio alle prove di Intelligenza (Indagare) effettuate per esaminare qualcosa entro quella distanza.
+
+## Lenti dello charme
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Queste lenti di cristallo si adattano agli occhi di chi le indossa. Possiedono 3 cariche. Mentre il personaggio le indossa, può consumare 1 o più cariche per lanciare un incantesimo charme su persone (CD del tiro salvezza 13). Consumando 1 carica, il personaggio lancia la versione di 1º livello  dell'incantesimo.
+Può aumentare il livello  dell'incantesimo di 1 per ogni carica aggiuntiva consumata. Le lenti recuperano tutte le cariche consumate all'alba di ogni giorno.
+
+## Lingua di fiamme
+
+**tipo:** Arma (qualsiasi arma da mischia) (richiede sintonia)
+**rarita:** rara
+
+Mentre il personaggio impugna quest'arma magica, può compiere un'azione bonus e usare una parola d'ordine per sprigionare le fiamme che avvolgono la parte dell'arma che infligge danni. Le fiamme proiettano luce intensa in un raggio di 12 metri e luce fioca per altri 12 metri. Quando la lama è in fiamme, infligge 2d6 danni da fuoco extra se il colpo va a segno. Le fiamme durano finché il personaggio non compie un'azione bonus per impartire nuovamente l'ordine o finché non lascia cadere, ripone o rinfodera l'arma.
