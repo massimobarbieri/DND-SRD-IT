@@ -1716,3 +1716,214 @@ Quando il personaggio ottiene un risultato di 20 sul d20 ai tiri per colpire eff
 **rarita:** molto rara
 
 Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. L'arma ha la proprietà da lancio con una gittata normale di 6 metri e una gittata lunga di 18 metri. Quando chi la impugna colpisce con un attacco a distanza usando quest'arma, questo infligge 1d8 ulteriori danni da forza, o 2d8 ulteriori danni da forza se il bersaglio è un gigante. Subito dopo aver colpito o mancato il bersaglio, l'arma torna in mano al personaggio.
+
+## Mazza della distruzione
+
+**tipo:** Arma (mazza) (richiede sintonia)
+**rarita:** rara
+
+Quando il personaggio colpisce un immondo o un non morto con quest'arma magica, quella creatura subisce 2d6 danni radiosi extra. Se il colpo porta 
+il bersaglio a 25 punti ferita o meno, deve superare un tiro salvezza su Saggezza con CD 15, altrimenti viene distrutto. In caso di successo, la creatura è 
+spaventata fino al termine del turno successivo del personaggio.
+
+**Luce**
+Finché il personaggio impugna quest'arma, essa proietta luce intensa in un raggio di 6 metri e luce fioca per altri 6 metri.
+
+## Mazza della punizione
+
+**tipo:** Arma (mazza)
+**rarita:** rara
+
+Il personaggio ottiene un bonus di +1 ai tiri per col-pire e a quelli per i danni effettuati con quest'arma magica. Quando la usa per attaccare un costrutto, questo bonus sale a +3.Se il personaggio ottiene un 20 a un tiro per colpire con quest'arma, il bersaglio subisce 7 danni contundenti extra o 14 danni contundenti se si tratta di un costrutto. Se dopo aver subito tali danni un costrutto scende a 25 punti ferita o meno, viene distrutto.
+
+## Mazza del terrore
+
+**tipo:** Arma (mazza) (richiede sintonia)
+**rarita:** rara
+
+Quest'arma magica ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Mentre il personaggio la impugna, può effettuare un'azione 
+di Magia e consumare 1 carica affinché venga sprigionata un'ondata di terrore. Ogni creatura a scelta del personaggio situata entro 9 metri da sé 
+deve superare un tiro salvezza su Saggezza con CD 15, altrimenti sarà spaventata per 1 minuto. 
+Finché è spaventata in questo modo, una creatura deve usare i suoi turni per spostarsi il più lontano possibile dall'arma e non può effettuare attacchi di opportunità. Come azione, può usare solo l'azione di Scatto o tentare di fuggire da un effetto che le impedisce di muoversi. Se non può muoversi in alcuno 
+spazio, può usare l'azione di Schivata. Alla fine di ogni suo turno, la creatura ripete il tiro salvezza e, se lo supera, l'effetto svanisce.
+
+## Mazzo delle illusioni
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questa scatola contiene un mazzo di carte. Un mazzo completo è composto da 34 carte: 32 raffiguranti creature specifiche e due con una superficie a 
+specchio. In un mazzo trovato come tesoro solita-mente mancano 1d20 - 1 carte.La magia del mazzo funziona solo se le sue carte vengono estratte a caso. Il personaggio può usare un'azione di Magia per pescare una carta casuale dal mazzo e gettarla a terra in un punto entro 9 metri da sé. Sopra la carta lanciata, si genera l'illusione di una creatura, determinata con un tiro sulla tabella Mazzo delle illusioni, che rimane fino a quando non viene dissolta. La creatura illusoria creata dalla carta ha l'aspetto e il comportamento di una creatura reale del suo tipo, solo che non può infliggere danni. Finché il personaggio resta entro 36 metri dalla creatura illusoria ed è in grado di vederla, può effettuare un'azione di Magia per spostarla fino a un qualsiasi punto entro 9 metri dalla 
+sua carta.
+Ogni interazione fisica con la creatura illusoria ne rivela la falsità, in quanto gli oggetti la attraversano. Una creatura che compie un'azione di Studio per ispezionare visivamente la creatura illusoria la identifica come un'illusione superando una prova di Intelligenza (Indagare) con CD 15. L'illusione dura finché la carta non viene spostata o l'illusione non viene dissolta (usando un incantesimo dissolvi magie o simile). Quando l'illusione termina, l'immagine raffigurata sulla sua carta scompare e la carta non può più essere utilizzata.
+
+### 1d100 Illusione*
+**01–03** Arcimago
+**04–06** Assassino
+**07–09** Basilisco
+**10–12** Berserker
+**13–15** Capitano bandito
+**16–18** Cavaliere
+**19–21** Drago rosso adulto
+**22–24** Druido
+**25–27** Erinni
+**28–30** Ettin
+**31–33** Gigante del fuoco
+**34–36** Gigante del gelo
+**37–39** Gigante delle colline
+**40–42** Gigante delle nuvole
+**43–45** Golem di ferro
+**46–48** Guerriero bugbear
+**49–51** Guerriero coboldo
+**52–54** Guerriero gnoll
+**55–57** Guerriero goblin
+**58–60** Guerriero hobgoblin
+**61–63** Guerriero veterano
+**64–66** Incubo
+**67–69** Lich
+**70–72** Medusa
+**73–75** Megera notturna
+*76–78* Naga guardiana
+**79–81** Ogre
+**82–84** Oni
+**85–87** Sacerdote
+*88–90* Succube
+**91–93** Troll
+**94–96** Viverna
+**97–00** Il personaggio*Le schede delle statistiche per queste creature (eccetto il personaggio) sono disponibili nel capitolo "Mostri".
+
+## Mazzo delle meraviglie
+
+**tipo:** Oggetto meraviglioso
+**rarita:** leggendario
+
+Questo mazzo in genere si trova in una scatola o in un sacchetto ed è composto da una serie di carte di avorio o di pergamena. La maggior parte (75%) di questi mazzi è composta da 13 carte, ma alcuni ne hanno 22. Fai riferimento alla colonna appropriata della tabella del Mazzo delle meraviglie per determinare le carte estratte dal mazzo in modo casuale.Prima di pescare una carta, il personaggio deve dichiarare quante carte ha intenzione di pescare complessivamente e poi pescarle in maniera casuale. Le eventuali carte pescate in eccesso oltre il numero dichiarato non hanno alcun effetto. Altrimenti, non appena il personaggio pesca una carta dal mazzo, la sua magia ha effetto. Il personaggio deve pescare ogni carta entro 1 ora dall'ultima carta pescata. Se non riesce a pescare il numero di carte dichiarato, le carte restanti volano via dal mazzo da sole e hanno effetto simultaneamente.Una volta pescate dal mazzo, le carte svaniscono. A eccezione della Matta e del Giullare, le altre carte ricompaiono nel mazzo, quindi è possibile pescare la stessa carta due volte (una volta che queste due 
+figure sono uscite dal mazzo, se la carta in questione esce di nuovo, il giocatore può ripetere il tiro sulla tabella).
+
+### 1d100  (Mazzo da 13 carte) 1d100  (Mazzo da 22 carte) Carta
+— 01–03 Artigli
+— 04–08 Bilancia
+01–08 09–13 Cavaliere
+09–16 14–18 Chiave
+— 19–23 Cometa
+— 24–27 Destino
+17–24 28–31 Eurialo
+25–32 32–35 Fiamme
+— 36–40 Gemma
+33–40 41–45 Giullare
+41–48 46–52 Luna
+— 53–56 Matta
+— 57–60 Prigione
+49–56 61–64 Ribelle
+— 65–68 Rompicapo
+57–64 69–72 Rovina
+— 73–77 Sapiente
+65–72 78–82 Sole
+73–80 83–87 Stella
+81–88 88–91 Teschio
+89–96 92–96 Trono
+97–00 97–00 Vuoto
+
+L'effetto di ciascuna carta è descritto di seguito.
+
+**Artigli**
+Tutti gli oggetti magici indossati o trasportati dal personaggio si disintegrano. I manu-fatti in suo possesso, invece, svaniscono.
+
+**Bilancia**
+Il personaggio può aumentare uno dei propri punteggi di caratteristica di 2, fino a un massimo di 22, a patto di ridurre di 2 un altro dei suoi punteggi di caratteristica. Non è possibile ridurre una caratteristica con un punteggio di 5 o inferiore. In alternativa, il personaggio può scegliere di non modificare i punteggi di caratteristica; in tal caso, questa carta non ha effetto.
+
+**Cavaliere**
+Il personaggio ottiene il servizio di un cavaliere, il quale compare magicamente in uno spazio libero a scelta del personaggio entro 9 metri da questi. Il cavaliere ha lo stesso allineamento del personaggio e lo serve fedelmente fino alla morte, credendo che sia stato il destino a farli incontrare. GM e giocatore devono collaborare per creare un nome e una storia per questo PNG. Il GM può utilizzare una scheda delle statistiche diversa per rappresentare il cavaliere, a seconda delle sue preferenze.
+
+**Chiave**
+Nella mano del personaggio compare un'arma magica rara, molto rara o leggendaria in cui è competente. L'arma viene scelta dal GM.
+
+ **Cometa**
+ La prossima volta che un personaggio entra in combattimento contro una o più creature ostili, può scegliere una di esse come nemico al momento del tiro per l'iniziativa. Se riduce il nemico a 0 punti ferita durante quel combattimento, dispone di vantaggio ai tiri salvezza contro morte per 1 anno. Se qualcun altro riduce a 0 punti ferita il nemico che il personaggio ha scelto, o se non viene scelto un nemico, questa carta non ha effetto.
+
+**Destino**
+La trama della realtà si disfa e si ricompone, permettendo al personaggio di evitare o annullare un evento come se non fosse mai avve-nuto. Il personaggio può usare la magia della carta non appena la pesca o in qualsiasi altro momento prima della sua morte.
+
+**Eurialo**
+Il volto di medusa raffigurato sulla carta maledice il personaggio. Finché è maledetto in questo modo, il personaggio subisce una penalità di -2 ai tiri salvezza. Solo un dio o la magia della carta Destino può porre fine a questa maledizione.
+
+**Fiamme**
+Il personaggio si inimica un potente diavolo, il quale desidera condurlo alla rovina e tormentarlo, assaporando ogni istante della sua sofferenza prima di tentare di distruggerlo. Questa ostilità dura finché uno dei due non muore.
+
+**Gemma**
+Ai piedi del personaggio compaiono 25 gioielli del valore di 2.000 mo ognuna o 50 gemme del valore di 1.000 mo ognuna.
+
+**Giullare**
+Il personaggio dispone di vantaggio alle prove con d20 per le 72 ore successive, oppure può pescare due carte aggiuntive oltre a quelle dichiarate.
+
+**Luna**
+Il personaggio ottiene la capacità di lan-ciare l'incantesimo desiderio per 1d3 volte.
+
+**Matta**
+Il personaggio subisce svantaggio alle prove con d20 per le 72 ore successive. Deve pescare un'altra carta, in quanto questa non conta come una pesca ai fini del numero dichiarato di carte da pescare.
+
+**Prigione**
+Il personaggio scompare e resta intrappolato in stato di animazione sospesa all'interno di una sfera extradimensionale. 
+Tutto ciò che indossava e trasportava sparisce, eccetto i manufatti, i quali restano nello spazio che occupava il personaggio quando è scomparso. Il 
+personaggio resta imprigionato finché non viene trovato e rimosso dalla sfera. Non è possibile localizzare il personaggio attraverso alcuna magia di divinazione, ma un incantesimo desiderio può rivelare la posizione della prigione. Il personaggio non può pescare altre carte.
+
+**Ribelle**
+Un PNG scelto dal GM diventa ostile nei confronti del personaggio. L'identità di questo PNG resta sconosciuta finché lui o qualcun altro non la rivela. Solo un incantesimo desiderio o un inter-vento divino possono annullare l'ostilità del PNG.
+
+**Rompicapo**
+Il punteggio di Intelligenza o di Sag-gezza del personaggio si riduce permanentemente di 1d4 + 1 (fino a un punteggio minimo di 1). Il per-sonaggio può pescare un'altra carta oltre al numero dichiarato.
+
+**Rovina**
+Ogni forma di ricchezza trasportata o posseduta dal personaggio, a eccezione degli oggetti magici, va perduta. Le proprietà trasportabili svaniscono. Le attività commerciali, gli edifici e le terre possedute vanno perdute nel modo che richiede l'alterazione della realtà più limitata. Tutti i documenti che potrebbero dimostrare il possesso delle proprietà perdute a causa della carta svaniscono a loro volta.
+
+**Sapiente**
+In qualunque momento desiderato, entro 1 anno da quando pesca questa carta, il per-sonaggio può porre una domanda mentre medita e ottenere mentalmente una risposta veritiera.
+
+**Sole**
+Un oggetto magico (scelto dal GM) compare addosso al personaggio. Inoltre, il personaggio ottiene 10 punti ferita temporanei all'alba di ogni giorno fino alla morte.
+
+**Stella**
+Un punteggio di caratteristica del personaggio aumenta di 2, fino a un massimo di 24.
+
+**Teschio**
+Un avatar della morte (vedi la relativa scheda delle statistiche) compare in uno spazio libero il più vicino possibile al personaggio. L'avatar colpisce solo quest'ultimo con i suoi attacchi e ha l'aspetto di uno scheletro spettrale vestito con una tunica nera a brandelli e con una falce spettrale. L'avatar scompare quando scende a 0 punti ferita o quando il personaggio muore. Se un alleato del personaggio infligge danni all'avatar, quell'alleato richiama un altro avatar della morte. Il nuovo avatar compare in uno spazio libero il più vicino possibile all'alleato che l'ha evocato e con i suoi attacchi colpisce solo lui. Il personaggio e i suoi alleati possono richiamare un solo avatar come conseguenza di questa carta. Una creatura uccisa da un avatar della morte non può essere riportata in vita.
+
+**Trono**
+Il personaggio ottiene competenza e maestria in un'abilità a scelta fra Intimidire, Intuizione, Persuasione o Storia. Inoltre, il personaggio diventa il legittimo proprietario di un piccolo castello situato da qualche parte nel mondo. Tuttavia, la fortezza ospita attualmente uno o più mostri, che devono essere eliminati prima di poterla rivendicare come propria.
+
+**Vuoto**
+L'anima del personaggio viene strappata dal corpo e rinchiusa in un oggetto situato in un luogo scelto dal GM. Tale luogo è protetto da uno o più potenti guardiani. Mentre l'anima è intrap-polata in questo modo, il corpo è inerte, cessa di invecchiare e non necessita di cibo, aria o acqua. Un incantesimo desiderio non può restituire l'anima al corpo, ma l'incantesimo rivela la posizione dell'oggetto che la contiene. Il personaggio non può pescare altre carte.
+
+Avatar della morte
+Non morto Medio, neutrale malvagio
+CA 20 Iniziativa +3 (13)
+PF metà dei PF massimi del suo invocatore
+Velocità 18 m, volo 18 m (fluttuare)
+MOD SALV MOD SALV MOD SALV
+For  16 +3 +3 Des  16 +3 +3 Cos 16 +3 +3
+Int 16 +3 +3 sag  16 +3 +3 Car 16 +3 +3
+Immunità necrotico, veleno; affascinato, avvelenato, 
+indebolimento, paralizzato, pietrificato, privo di sensi, spaventato
+Sensi Percezione passiva 13, vista pura 18 m
+Lingue tutte le lingue conosciute dal suo evocatore
+GS nessuno (PE 0; BC uguale a quello dell'evocatore)
+Tratti
+Movimento incorporeo. L'avatar può muoversi attraverso altre creature e oggetti come se fossero 
+terreno difficile. Se termina il suo turno all'interno di un oggetto, subisce 5 (1d10) danni da forza.
+Azioni
+Multiattacco. L'avatar effettua un numero di attacchi con Falce del mietitore uguale alla metà del bonus di competenza dell'evocatore (arrotondato per eccesso).
+Falce del mietitore. Tiro per colpire in mischia: Suc-cesso automatico, portata 1,5 m Colpito: 7 (1d8 + 3) danni taglienti più 4 (1d8) danni necrotici
+
+## Medaglione dei pensieri
+
+**tipo:** Oggetto meraviglioso (richiede sintonia)
+**rarita:** non comune
+
+Questo medaglione ha 5 cariche. Il personaggio che lo indossa può consumare 1 carica per lanciare individuazione dei pensieri (CD del tiro salvezza 13). Il medaglione recupera 1d4 cariche consumate all'alba di ogni giorno.
+
+## Munizione +1, +2 o +3
+
+**tipo:** Arma (qualsiasi munizione)
+**rarita:** non comune (+1), rara (+2) o molto rara (+3)
+
+Il personaggio ottiene un bonus ai tiri per colpire e ai tiri per i danni effettuati con questa munizione magica. Il bonus è determinato dalla rarità della munizione. Una volta colpito il bersaglio, la munizione non è più magica.Questa munizione è solitamente reperibile o venduta in quantità di dieci o venti pezzi. Dieci pezzi di queste munizioni hanno un valore equivalente a una pozione della stessa rarità.
