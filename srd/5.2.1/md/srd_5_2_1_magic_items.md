@@ -2102,3 +2102,98 @@ le pietre, esse non possono essere riutilizzate fino all'alba successiva. Se una
 Questa pregiata scatola di legno contiene 1d4 vasetti di pigmenti e un pennello (dal peso di 0,5 chilogrammi in totale).Usando il pennello e consumando un vasetto di pigmento, il personaggio può creare un numero qualsiasi di oggetti tridimensionali ed elementi del terreno (come muri, porte, alberi, fiori, armi, reti e fosse), ammesso che siano contenuti all'interno di un cubo con spigolo di 6 metri. Quest'operazione richiede Concentrazione e 10 minuti di tempo (a prescindere dal numero di elementi creati), durante i quali il personaggio deve rimanere all'interno del cubo. Se la concentrazione si interrompe o il personaggio esce dal cubo prima del completamento dell'operazione, tutti gli elementi dipinti svaniscono e il vasetto di pigmento si consuma.
 Una volta terminato il lavoro, tutti gli oggetti e gli elementi del terreno dipinti diventano reali. Di conseguenza, se il personaggio dipinge una porta su un muro, crea una vera porta che dà accesso a ciò che si trova dall'altra parte e, se dipinge una fossa sul pavimento, crea una fossa vera e propria, la cui profondità totale deve rientrare nel cubo con spigolo di 6 metri.
 Nessun oggetto creato da un vasetto di pigmento deve avere un valore superiore a 25 mo, mentre il valore di tutti gli oggetti creati non può superare le 500 mo. Se il personaggio dipinge oggetti di valore maggiore (come una grossa montagna d'oro), sembreranno autentici, ma un esame accurato rivelerà che sono fatti di poltiglia, biscotti o altri materiali analoghi.Se viene dipinta una forma di energia come il fuoco o il fulmine, l'energia compare, ma si dissipa non appena il personaggio finisce di dipingerla, senza infliggere alcun danno.
+
+## Piuma di Quaal
+
+**tipo:** Oggetto meraviglioso
+**rarita:** rarità variabile
+
+Quest'oggetto ha l'aspetto di una piuma. Esistono vari tipi di piume, ognuna con un effetto monouso diverso. Il GM può scegliere il tipo di piuma o determinarlo casualmente tirando sulla tabella Piume di Quaal. Il tipo di piuma ne determina il grado di rarità. 
+
+**Albero (non comune)**
+Il personaggio deve trovarsi all'esterno per usare questa piuma. Può  effettuare un'azione di Magia per toccare con la piuma uno spazio libero sul terreno. Al suo posto compare una quercia non magica. L'albero è alto 18 metri, ha un tronco del diametro di 1,5 metri e i rami sulla cima si estendono in un raggio di 6 metri.
+
+**Ancora (non comune)**
+Il personaggio può effettuare un'azione di Magia per toccare con la piuma una barca o una nave. Per le 24 ore successive, il vascello non può essere spostato in alcun modo. Toccando nuovamente il vascello con la piuma, l'effetto termina. Quando l'effetto termina, la piuma scompare.
+
+**Barca cigno (raro)**
+Il personaggio può effettuare un'azione di Magia per toccare con la piuma uno specchio d'acqua del diametro di almeno 18 metri. Al posto della piuma compare una barca a forma di cigno, lunga 15 metri e larga 6 metri, che si muove da sola sull'acqua a una velocità di 9 chilometri orari. 
+Finché si trova a bordo della barca, il personaggio può effettuare un'azione di Magia per ordinarle di avanzare o virare di un massimo di 90 gradi. La barca permane per 24 ore e poi scompare. Il per-sonaggio può congedarla con un'azione di Magia.
+
+**Frusta (raro)**. Il personaggio può effettuare un'azione di Magia per lanciare la piuma in un punto entro 3 metri da sé. Al suo posto compare una frusta che fluttua nell'aria. Il personaggio può quindi usare un'azione bonus per effettuare un attacco in mischia con incantesimo contro una creatura situata entro 3 metri dalla frusta, con un bonus di attacco di +9. Se il colpo va a segno, il bersaglio subisce 1d6 + 5 danni da forza.Come azione bonus, il personaggio può ordinare alla frusta di alzarsi in volo a massimo 6 metri di altezza e ripetere l'attacco contro un bersaglio situato entro 3 metri da essa. La frusta scompare dopo 1 ora, quando il personaggio effettua un'azione di Magia per congedarla, muore o è incapacitato.
+
+**Uccello (raro)**
+Il personaggio può effettuare un'azione di Magia per lanciare la piuma in aria per 1,5 metri. Al posto della piuma compare un enorme uccello dal piumaggio sgargiante. Questo ha le statistiche di un roc, ma non può attaccare. Obbe-disce ai comandi semplici del personaggio e può trasportare fino a 250 chilogrammi di peso in volo alla sua velocità massima (24 chilometri orari fino a un massimo di 216 chilometri al giorno, con un'ora di riposo ogni 3 ore di viaggio) o 500 chilogrammi a velocità dimezzata. L'uccello scompare dopo aver percorso in volo la sua distanza massima per un giorno di viaggio o se scende a 0 punti ferita. Il per-sonaggio può congedarlo con un'azione di Magia.
+
+**Ventaglio (non comune)**
+Se il personaggio si trova su una barca o una nave, può effettuare un'azione di Magia per lanciare la piuma in aria per 3 metri. Al posto della piuma compare un gigantesco ventaglio che si agita da solo, fluttua e crea vento forte. Il vento generato fa gonfiare le vele di una neve, aumentandone la velocità fino a 7,5 chilo-metri orari per 8 ore. Il personaggio può congedare il ventaglio con un'azione di Magia.
+
+### 1d100 Piuma Rarità
+
+**01–25** Albero Non comune
+**26–45** Ancora Non comune
+**46–60** Barca cigno Rara
+**61–70** Frusta Rara
+**71–85** Uccello Rara
+**86–00** Ventaglio Non comune
+
+## Polvere dell'invisibilità
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questa polvere assomiglia a sabbia fine. Ce n'è abba-stanza per un singolo uso. Quando il personaggio effettua un'azione di Utilizzo per lanciare la polvere nell'aria, questi, insieme a ogni creatura e oggetto entro un'emanazione di 3 metri che ha origine da lui, diventa invisibile per 2d4 minuti. La durata è 
+la stessa per tutte le creature e gli oggetti influenzati e la polvere viene consumata quando la magia ha effetto. Subito dopo che una creatura interessata dalla polvere effettua un tiro per colpire, infligge danni o lancia un incantesimo, la condizione di invisibile termina.
+
+## Polvere dello starnuto e del soffocamento
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune 
+
+Questa polvere conservata in un piccolo conteni-tore assomiglia alla polvere della sparizione e un incantesimo identificare la indica come tale. Ce n'è abbastanza per un singolo uso.
+Il personaggio può compiere un'azione di Utilizzo per lanciare la polvere in aria, costringendo se stesso e ogni creatura che si trova in un'emanazione di 9 metri originata da lui a effettuare un tiro salvezza su Costituzione con CD 15. Costrutti, elementali, melme, non morti e vegetali superano automaticamente il tiro salvezza.In caso di fallimento, la creatura inizia a star-nutire in modo incontrollato, diventa incapacitata e soffoca. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. L'effetto termina anche su qualsiasi creatura bersa-gliata da un incantesimo di ristorare inferiore.
+
+## Polvere prosciugante
+
+**tipo:** Oggetto meraviglioso
+**rarita:** non comune
+
+Questo pacchetto contiene 1d6 + 4 pizzichi di polvere. Il personaggio può compiere un'azione di Utilizzo per spargere un pizzico di polvere sull'acqua, trasformando un cubo d'acqua con spigolo di 4,5 metri in una sfera grande quanto una biglia, che galleggia o resta vicino al punto in cui è stata sparsa la polvere. Il peso della biglia è trascurabile. Una creatura può effettuare un'azione di Utilizzo per schiantare la biglia contro una superficie rigida, 
+rompendola e liberando l'acqua che era stata assorbita. In questo modo la sfera viene distrutta e la sua magia termina.Il personaggio può compiere un'azione di Utilizzo per spargere un pizzico di polvere su un elementale entro un raggio di 1,5 metri da sé che sia compo-sto principalmente da acqua (come ad esempio un elementale dell'acqua). Tale creatura esposta a un pizzico di questa polvere deve effettuare un tiro salvezza su Costituzione con CD 13; in caso di fallimento, subisce 10d6 danni necrotici, o la metà dei danni in caso di successo.
+
+## Pozione della forma gassosa
+
+**tipo:** Pozione
+**rarita:** rara 
+
+Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo forma gassosa per 1 ora (non è richiesta la concentrazione) o finché non vi pone fine con un'azione bonus.
+Il contenitore di questa pozione sembra pieno di nebbia che ondeggia e si riversa all'esterno come se fosse acqua.
+
+## Pozione della forza dei giganti
+
+**tipo:** Pozione
+**rarita:** rarità variabile 
+
+Quando il personaggio beve questa pozione, il suo punteggio di Forza cambia per 1 ora, come determi-nato dal tipo di gigante (vedi la tabella sottostante). Se il punteggio di Forza del personaggio è pari o superiore a quello conferito dalla pozione, non ha alcun effetto.Nel liquido trasparente di questa pozione galleggia un frammento argenteo che ricorda l'unghia di un gigante.
+
+### Pozione per Rarità
+
+**Pozione della forza dei giganti (delle colline)** 21 Non comune
+**Pozione della forza dei giganti (del gelo o delle pietre)** 23 Rara
+**Pozione della forza dei giganti (del fuoco)** 25 Rara
+**Pozione della forza dei giganti (delle nuvole)** 27 Molto rara
+**Pozione della forza dei giganti (delle tempeste)** 29 Leggendaria
+
+## Pozione del respirare sott'acqua**
+
+**tipo:** Pozione
+**rarita:** non comune
+
+Il personaggio può respirare sott'acqua per 24 ore dopo aver bevuto questa pozione.Il suo liquido verde torbido ha un odore salmastro e al suo interno galleggia una bolla simile a una medusa.
+
+## Pozione di amicizia con gli animali
+
+**tipo:** Pozione
+**rarita:** non comune
+
+Quando il personaggio beve questa pozione, può lanciare la versione di 3º livello dell'incantesimo amicizia con gli animali (CD del tiro salvezza 13).Agitando il liquido melmoso di questa pozione si notano alcuni piccoli oggetti al suo interno: una squama di pesce, la piuma di un colibrì, l'artiglio di un gatto o un pelo di scoiattolo.
