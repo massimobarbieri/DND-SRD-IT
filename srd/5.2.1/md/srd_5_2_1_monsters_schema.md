@@ -100,4 +100,3 @@ Descrizione
 - Non cambiare nomi dei campi
 - Usare sempre gli stessi titoli di sezione
 - Separare i mostri con ---
-- Normalizzare: immunita_condizioni → immunita_condizione
