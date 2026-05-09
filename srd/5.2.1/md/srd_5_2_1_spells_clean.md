@@ -6220,7 +6220,8 @@ Il ritorno dalla morte è un vero e proprio travaglio. Il bersaglio subisce una 
 **tempo_lancio:** azione  
 **gittata:** 18 metri  
 **componenti:** V, S, M (un oggetto su cui è incisa l'immagine di un drago, del valore di 500 mo o più)  
-**durata:** concentrazione, fino a 1 ora  
+**durata:** concentrazione, fino a 1 ora
+**creatura_evocata:** spirito_draconico 
 
 
 L'incantatore invoca uno spirito di drago, che si manifesta in uno spazio libero entro gittata che egli sia in grado di vedere e utilizza la scheda delle statistiche dello spirito draconico. La creatura scompare quando scende a 0 punti ferita o quando l'incantesimo termina ed è un alleato per il personaggio e i suoi alleati. In combattimento, la creatura ha lo stesso punteggio di iniziativa dell'incantatore, ma inizia il turno immediatamente dopo il suo, obbedendo ai suoi comandi verbali (nessuna azione richiesta da parte dell'incantatore). Se l'incantatore non pronuncia comandi verbali, la creatura compie l'azione di Schivata e usa il suo movimento per sottrarsi al pericolo.

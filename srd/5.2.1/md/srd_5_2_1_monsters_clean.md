@@ -12227,6 +12227,62 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 
 ---
 
+## Spirito draconico
+**id:** spirito_draconico
+**tipo:** Drago
+**dimensione:** Grande
+**allineamento:** senza allineamento  
+
+**classe_armatura:** 14 + il livello dell'incantesimo  
+**iniziativa:** +2 (12)  
+**punti_ferita:** 50 + 10 × livello dell'incantesimo  
+**velocita:** 9 m, volo 18 m  
+
+**caratteristiche:**
+- forza: 18 (+4)
+- destrezza: 14 (+2)
+- costituzione: 16 (+3)
+- intelligenza: 10 (+0)
+- saggezza: 14 (+2)
+- carisma: 12 (+1)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +2
+- costituzione: +3
+- intelligenza: +0
+- saggezza: +2
+- carisma: +1
+
+**immunita_danni:** tipo variabile (acido, freddo, fuoco, fulmine o veleno, scelto alla creazione)  
+**sensi:** Percezione passiva 12; scurovisione 18 m  
+**lingue:** Draconico  
+**grado_sfida:** null  
+**punti_esperienza:** PE 0  
+**bonus_competenza:** pari al bonus di competenza dell'incantatore  
+**grado_sfida_raw:** nessuno (PE 0; BC pari al bonus di competenza dell'incantatore)  
+
+### Tratti
+
+**Resistenza magica**  
+Lo spirito dispone di vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
+
+### Azioni
+
+**Multiattacco**  
+Lo spirito effettua un numero di attacchi pari alla metà del livello dell'incantesimo (arrotondato per difetto).
+
+**Morso**  
+Tiro per colpire in mischia: bonus pari al modificatore di attacco dell'incantesimo dell'incantatore, portata 1,5 m.  
+Colpito: 1d10 + 4 + il livello dell'incantesimo danni del tipo scelto (acido, freddo, fuoco, fulmine o veleno).
+
+**Soffio draconico (Ricarica 5-6)**  
+Tiro salvezza su Destrezza: CD del tiro salvezza dell'incantesimo dell'incantatore, tutte le creature in un cono di 4,5 metri.  
+Fallimento: 2d6 + il livello dell'incantesimo danni del tipo scelto.  
+Successo: danni dimezzati.
+
+---
+
 ## Succube
 **id:** succube
 **tipo:** Immondo
