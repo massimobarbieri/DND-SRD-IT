@@ -2950,6 +2950,8 @@ Il drago effettua un attacco Squarcio.
 **Volo celato**  
 Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare fino a metà della sua velocità di volo. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
+---
+
 ## Drago blu antico 
 **id:** drago_blu_antico
 **gruppo:** Draghi blu
@@ -3001,9 +3003,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 11 (2d10) danni da fulmine.
 
 **Incantesimi.** 
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22):
-**1/giorno ciascuno:** Inviare, scrutare
-**A volontà:** frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22): 1/giorno ciascuno: Inviare, scrutare. A volontà: frantumare (di 3º livello), individuazione del magico, invisibilità, mano magica
 
 **Soffio di fulmini (ricarica 5–6).** 
 Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 88 (16d10) danni da fulmine. Successo: danni dimezzati.
@@ -3075,6 +3075,8 @@ Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri.
 **Soffio paralizzante**  
 Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
+---
+
 ## Drago d'argento giovane
 **id:** drago_d'argento_giovane
 **gruppo:** Draghi d'argento
@@ -3125,6 +3127,8 @@ Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. F
 
 **Soffio paralizzante**  
 Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
+
+---
 
 ## Drago d'argento adulto
 **id:** drago_d'argento_adulto
@@ -3177,8 +3181,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +13, portata 3 m. Colpito: 17 (2d8 + 8) danni taglienti più 4 (1d8) danni da freddo.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 19, +11 al tiro per colpire degli attacchi con incantesimo): 
-1/giorno ciascuno: Tempesta di ghiaccio (di 5º livello), zona di verità 
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 19, +11 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Tempesta di ghiaccio (di 5º livello), zona di verità 
 A volontà: Blocca mostri, coltello di ghiaccio, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di freddo (ricarica 5-6)**  
@@ -3200,6 +3203,8 @@ Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squar
 
 **Bufera**  
 Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 18 metri e larga 3 metri. Fallimento: 14 (4d6) danni da freddo, e il bersaglio viene spinto in linea retta fino a un massimo di 9 metri lontano dal drago. Successo: danni dimezzati. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+---
 
 ## Drago d'argento antico
 **id:** drago_d'argento_antico
@@ -3252,9 +3257,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 9 (2d8) danni da freddo.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno ciascuno:** Controllare tempo atmosferico, teletrasporto, tempesta di ghiaccio (di 7º livello), zona di verità 
-**A volontà:** Blocca mostri, coltello di ghiaccio (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Controllare tempo atmosferico, teletrasporto, tempesta di ghiaccio (di 7º livello), zona di verità. A volontà: Blocca mostri, coltello di ghiaccio (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 67 (15d8) danni da freddo. Successo: danni dimezzati.
@@ -3390,6 +3393,8 @@ Tiro salvezza su Destrezza: CD 15, tutte le creature in una linea lunga 18 metri
 **Soffio repulsivo**  
 Tiro salvezza su Forza: CD 15, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 12 metri di distanza dal drago e cade a terra prono. 
 
+---
+
 ## Drago di bronzo adulto 
 **id:** drago_di_bronzo_adulto
 **gruppo:** Draghi di bronzo
@@ -3444,9 +3449,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +12, portata 3 m. Colpito: 16 (2d8 + 7) danni taglienti più 5 (1d10) danni da fulmine.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +10 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno ciascuno:** Individuazione dei pensieri, respirare sott'acqua 
-**A volontà:** Dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +10 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Individuazione dei pensieri, respirare sott'acqua. A volontà: Dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati.
@@ -3467,6 +3470,8 @@ Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
 
 **Rombo di tuono**  
 Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 10 (3d6) danni da tuono, e il bersaglio è assordato fino al termine del proprio turno successivo. 
+
+---
 
 ## Drago di bronzo antico 
 **id:** drago_di_bronzo_antico
@@ -3522,9 +3527,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +16, portata 4,5 m. Colpito: 18 (2d8 + 9) danni taglienti più 9 (2d8) danni da fulmine.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22, +14 al tiro per colpire degli attacchi con incantesimo): 
-**A volontà:** dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza concentrazione o punti ferita temporanei per mantenere l'incantesimo) 
-**1/giorno ciascuno:** controllare acqua, individuazione dei pensieri, respirare sott'acqua, scrutare
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 22, +14 al tiro per colpire degli attacchi con incantesimo): A volontà: dardo tracciante (di 2º livello), individuazione del magico, parlare con gli animali, taumaturgia, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza concentrazione o punti ferita temporanei per mantenere l'incantesimo). 1/giorno ciascuno: controllare acqua, individuazione dei pensieri, respirare sott'acqua, scrutare
 
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. Fallimento: 82 (15d10) danni da fulmine. Successo: danni dimezzati.
@@ -3596,6 +3599,8 @@ Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri 
 **Soffio rallentante**  
 Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
 
+---
+
 ## Drago di rame giovane
 **id:** drago_di_rame_giovane
 **gruppo:** Draghi di rame
@@ -3646,6 +3651,8 @@ Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri
 
 **Soffio rallentante**  
 Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
+
+---
 
 ## Drago di rame adulto
 **id:** drago_di_rame_adulto
@@ -3698,9 +3705,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 17 (2d10 + 6) danni taglienti più 4 (1d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
-**1/giorno ciascuno:** Immagine maggiore, ristorare superiore 
-**A volontà:** Aculeo mentale (di 4º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: Immagine maggiore, ristorare superiore. A volontà: Aculeo mentale (di 4º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 54 (12d8) danni da acido. Successo: danni dimezzati.
@@ -3721,6 +3726,8 @@ Tiro salvezza su Carisma: CD 17, una creatura che il drago è in grado di vedere
 
 **Scossa mentale**  
 Il drago usa Incantesimi per lanciare aculeo mentale (di 4º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
+
+---
 
 ## Drago di rame antico
 **id:** drago_di_rame_antico
@@ -3773,9 +3780,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 9 (2d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 
-**1/giorno ciascuno:** Immagine maggiore, immagine proiettata, ristorare superiore
-**A volontà:** Aculeo mentale (di 5º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 1/giorno ciascuno: Immagine maggiore, immagine proiettata, ristorare superiore. A volontà: Aculeo mentale (di 5º livello), illusione minore, individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 63 (14d8) danni da acido. Successo: danni dimezzati.
@@ -3855,6 +3860,8 @@ Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fa
 **Soffio indebolente**  
 Tiro salvezza su Forza: CD 13, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 4,5 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 2 (1d4) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
+---
+
 ## Drago d'oro giovane
 **id:** drago_d'oro_giovane
 **gruppo:** Draghi d'oro
@@ -3911,6 +3918,8 @@ Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fall
 **Soffio indebolente**  
 Tiro salvezza su Forza: CD 17, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 9 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 3 (1d6) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
+---
+
 ## Drago d'oro adulto
 **id:** drago_d'oro_adulto
 **gruppo:** Draghi d'oro
@@ -3965,9 +3974,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 17 (2d8 + 8) danni taglienti più 4 (1d8) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno ciascuno:** Colpo infuocato, zona di verità 
-*A volontà:* Dardo tracciante (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Colpo infuocato, zona di verità. A volontà: Dardo tracciante (di 2º livello), individuazione del magico, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 21, tutte le creature in un cono di 18 metri. Fallimento: 66 (12d10) danni da fuoco. Successo: danni dimezzati.
@@ -3988,6 +3995,8 @@ Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
 
 **Ostracismo**  
 Tiro salvezza su Carisma: CD 21, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 10 (3d6) danni da forza, il bersaglio è incapacitato e viene trasportato su un semipiano sicuro fino all'inizio del turno successivo del drago, durante cui riappare in uno spazio libero a scelta del drago entro 36 metri da quest'ultimo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
+
+---
 
 ## Drago d'oro antico
 **id:** drago_d'oro_antico
@@ -4115,6 +4124,8 @@ Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri 
 **Soffio di sonno**  
 Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. 
 
+---
+
 ## Drago d'ottone giovane
 **id:** drago_d'ottone_giovane
 **gruppo:** Draghi d'ottone
@@ -4165,6 +4176,8 @@ Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri
 
 **Soffio di sonno**  
 Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
+
+---
 
 ## Drago d'ottone adulto
 **id:** drago_d'ottone_adulto
@@ -4217,9 +4230,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 17 (2d10 + 6) danni taglienti più 4 (1d8) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
-**1/giorno ciascuno:** Controllare tempo atmosferico, individuazione dei pensieri
-*A volontà:* Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: Controllare tempo atmosferico, individuazione dei pensieri. A volontà: Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente, trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 45 (10d8) danni da fuoco. Successo: danni dimezzati.
@@ -4240,6 +4251,8 @@ Il drago usa Incantesimi per lanciare raggio rovente.
 
 **Sabbie roventi**  
 Tiro salvezza su Destrezza: CD 16, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 27 (6d8) danni da fuoco, e la velocità del bersaglio è dimezzata fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
+
+---
 
 ## Drago d'ottone antico 
 **id:** drago_d'ottone_antico
@@ -4292,9 +4305,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +14, portata 4,5 m. Colpito: 19 (2d10 + 8) danni taglienti più 7 (2d6) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 
-**1/giorno ciascuno:** Controllare tempo atmosferico, individuazione dei pensieri 
-**A volontà:** Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente (di 3º livello), trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): 1/giorno ciascuno: Controllare tempo atmosferico, individuazione dei pensieri. A volontà: Illusione minore, individuazione del magico, parlare con gli animali, raggio rovente (di 3º livello), trasformazione (solo in forma di bestia o umanoide, senza punti ferita temporanei ottenuti dall'incantesimo, e senza richiedere concentrazione o punti ferita temporanei per mantenere l'incantesimo)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 21, tutte le creature in una linea lunga 27 metri e larga 1,5 metri. Fallimento: 58 (13d8) danni da fuoco. Successo: danni dimezzati.
@@ -4371,6 +4382,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni taglie
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 4,5 metri e larga 1,5 metri. Fallimento: 22 (5d8) danni da acido. Successo: danni dimezzati. 
 
+---
+
 ## Drago nero giovane
 **id:** drago_nero_giovane
 **gruppo:** Draghi neri
@@ -4423,6 +4436,8 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglien
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 49 (14d6) danni da acido. Successo: danni dimezzati.
+
+---
 
 ## Drago nero adulto
 **id:** drago_nero_adulto
@@ -4478,9 +4493,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 13 (2d6 + 6) danni taglienti più 4 (1d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno ciascuno:** Parlare con i morti, sfera al vetriolo 
-**A volontà:** Freccia acida (di 3º livello), individuazione del magico, paura
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Parlare con i morti, sfera al vetriolo. A volontà: Freccia acida (di 3º livello), individuazione del magico, paura
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 54 (12d8) danni da acido. Successo: danni dimezzati.
@@ -4498,6 +4511,8 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il drago è in grado di vede
 
 **Presenza terrificante**  
 Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
+
+---
 
 ## Drago nero antico
 **id:** drago_nero_antico
@@ -4553,9 +4568,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 17 (2d8 + 8) danni taglienti più 9 (2d8) danni da acido.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno ciascuno:** Creare non morti, parlare con i morti, sfera al vetriolo (di 5º livello) 
-**A volontà:** Freccia acida (di 4º livello), individuazione del magico, paura
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21, +13 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Creare non morti, parlare con i morti, sfera al vetriolo (di 5º livello). A volontà: Freccia acida (di 4º livello), individuazione del magico, paura
 
 **Soffio di acido (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri e larga 3 metri. Fallimento: 67 (15d8) danni da acido. Successo: danni dimezzati.
@@ -4624,6 +4637,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (1d10 + 4) danni tagl
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 24 (7d6) danni da fuoco. Successo: danni dimezzati. 
 
+---
+
 ## Drago rosso giovane
 **id:** drago_rosso_giovane
 **gruppo:** Draghi rossi
@@ -4671,6 +4686,8 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 13 (2d6 + 6) danni tagli
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. 
+
+---
 
 ## Drago rosso adulto
 **id:** drago_rosso_adulto
@@ -4722,9 +4739,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +14, portata 3 m. Colpito: 13 (1d10 + 8) danni taglienti più 5 (2d4) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20, +12 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno:** palla di fuoco
-**A volontà:** Comando (di 2º livello), individuazione del magico, raggio rovente
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20, +12 al tiro per colpire degli attacchi con incantesimo): 1/giorno: palla di fuoco. A volontà: Comando (di 2º livello), individuazione del magico, raggio rovente
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 21, tutte le creature in un cono di 18 metri. Fallimento: 59 (17d6) danni da fuoco. Successo: danni dimezzati.
@@ -4742,6 +4757,8 @@ Il drago usa Incantesimi per lanciare comando (di 2º livello). il drago non pu�
 
 **Raggi fiammeggianti**  
 Il drago usa Incantesimi per lanciare raggio rovente. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
+
+---
 
 ## Drago rosso antico
 **id:** drago_rosso_antico
@@ -4794,9 +4811,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +17, portata 4,5 m. Colpito: 19 (2d8 + 10) danni taglienti più 10 (3d6) danni da fuoco.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno ciascuno:** Palla di fuoco (di 6º livello), scrutare 
-**A volontà:** Comando (di 2º livello), individuazione del magico, raggio rovente (di 3º livello)
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 23, +15 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Palla di fuoco (di 6º livello), scrutare. A volontà: Comando (di 2º livello), individuazione del magico, raggio rovente (di 3º livello)
 
 **Soffio di fuoco (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fallimento: 91 (26d6) danni da fuoco. Successo: danni dimezzati.
@@ -4871,6 +4886,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (1d10 + 2) danni tagli
 **Soffio di veleno (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: 21 (6d6) danni da veleno. Successo: danni dimezzati.
 
+---
+
 ## Drago verde giovane 
 **id:** drago_verde_giovane
 **gruppo:** Draghi verdi
@@ -4924,6 +4941,8 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni taglie
 
 **Soffio di veleno (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: 42 (12d6) danni da veleno. Successo: danni dimezzati. 
+
+---
 
 ## Drago verde adulto
 **id:** drago_verde_adulto
@@ -4980,9 +4999,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +11, portata 3 m. Colpito: 15 (2d8 + 6) danni taglienti più 7 (2d6) danni da veleno.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
-**1/giorno:** Costrizione 
-**A volontà:** Aculeo mentale (di 3º livello), individuazione del magico
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno: Costrizione. A volontà: Aculeo mentale (di 3º livello), individuazione del magico
 
 **Soffio di veleno (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. Fallimento: 56 (16d6) danni da veleno. Successo: danni dimezzati.
@@ -5000,6 +5017,8 @@ Il drago usa Incantesimi per lanciare aculeo mentale (di 3º livello).
 
 **Miasma nocivo**  
 Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 7 (2d6) danni da veleno, e il bersaglio subisce una penalità di -2 alla CA fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
+
+---
 
 ## Drago verde antico
 **id:** drago_verde_antico
@@ -5056,9 +5075,7 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +15, portata 4,5 m. Colpito: 17 (2d6 + 8) danni taglienti più 10 (3d6) danni da veleno.
 
 **Incantesimi**  
-Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 
-**1/giorno ciascuno:** Costrizione, modificare memoria 
-**A volontà:** Aculeo mentale (di 5º livello), individuazione del magico
+Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 21): 1/giorno ciascuno: Costrizione, modificare memoria. A volontà: Aculeo mentale (di 5º livello), individuazione del magico
 
 **Soffio di veleno (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. Fallimento: 77 (22d6) danni da veleno. Successo: danni dimezzati.
