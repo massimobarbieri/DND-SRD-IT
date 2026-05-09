@@ -1,5 +1,5 @@
 ## Ammazzagiganti
-
+**id:** ammazzagiganti
 **tipo:** Arma (qualsiasi arma semplice o da guerra) 
 **rarita:** rara
 
@@ -9,7 +9,7 @@ Quando il personaggio colpisce un gigante con  quest'arma, il gigante subisce 2d
 ---
 
 ## Ampolla di ferro
-
+**id:** ampolla_di_ferro
 **tipo:** Oggetto meraviglioso
 **rarita:** leggendario
 
@@ -21,14 +21,16 @@ Un incantesimo identificare rivela se l'ampolla contiene o meno una creatura, ma
 ---
 
 ## Amuleto anti-individuazione e localizzazione
-
+**id:** amuleto_anti-individuazione_e_localizzazione
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune (richiede sintonia)
 
 Il personaggio che indossa questo amuleto non può essere bersagliato da incantesimi di divinazione o percepito attraverso sensori di scrutamento magico, a meno che il personaggio non lo permetta.
 
-## Amuleto dei piani
+---
 
+## Amuleto dei piani
+**id:** amuleto_dei_piani
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** molto raro
 
@@ -53,15 +55,19 @@ Luogo casuale su un Piano Esterno determi-nato dal tiro di un 1d8: con 1, l'Abis
 **91–00**
 Luogo casuale sul Piano Astrale
 
-## Amuleto della salute
+---
 
+## Amuleto della salute
+**id:** amuleto_della_salute
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Il punteggio di Costituzione del possessore di que-sto amuleto è pari a 19 mentre lo indossa. Se il suo punteggio di Costituzione è già pari o superiore a 19, l'amuleto non ha alcun effetto.
 
+---
+
 ## Anello accumula incantesimi
-**tipo:** Anello (richiede sintonia)
+**id:** anello_accumula_incantesimi**tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Questo anello accumula gli incantesimi lanciati su di  esso, finché un possessore in sintonia con  l'oggetto non decide di usarli. L'anello può contenere fino 
@@ -69,30 +75,38 @@ a 5 livelli di incantesimo per volta. Quando viene trovato, contiene 1d6 – 1 l
 Qualsiasi creatura può lanciare un incantesimo di livello compreso tra il 1º e il 5º nell'anello, toccandolo al momento del lancio. L'incantesimo non  sortisce alcun effetto, a parte quello di essere immagazzinato nell'anello. Se l'anello non può contenere altri incantesimi, quello lanciato viene sprecato senza provocare alcun effetto. Il livello dello slot usato per lanciare l'incantesimo deter-mina quanto spazio occupa.
 Finché il personaggio indossa l'anello, può  lanciare qualsiasi incantesimo conservato al suo interno. L'incantesimo usa il livello di slot, la CD del tiro salvezza sull'incantesimo, il bonus all'attacco con incantesimo e la caratteristica da incantatore di chi l'ha lanciato in origine, ma sotto ogni altro aspetto si considera che sia stato il personaggio a lanciarlo. L'incantesimo lanciato dall'anello non è più conservato al suo interno, liberando il relativo spazio.
 
-## Anello dei tre desideri
+---
 
+## Anello dei tre desideri
+**id:** anello_dei_tre_desideri
 **tipo:** Anello
 **rarita:** leggendario
 
 Finché indossa questo anello, il personaggio può  consumare 1 delle sue 3 cariche per lanciare  desiderio. L'anello smette di essere magico quando esaurisce le cariche.
 
-## Anello del calore
+---
 
+## Anello del calore
+**id:** anello_del_calore
 **tipo:** Anello (richiede sintonia)
 **rarita:** non comune
 
 Se il personaggio subisce danni da freddo mentre indossa l'anello, questo ridurrà il danno subito di 2d8.
 Inoltre, finché indossa l'anello, il personaggio e  tutto ciò che indossa e trasporta non subiscono danni dalle temperature di -18 gradi Celsius o inferiori.
 
-## Anello del camminare sull'acqua
+---
 
+## Anello del camminare sull'acqua
+**id:** anello_del_camminare_sull'acqua
 **tipo:** Anello
 **rarita:** non comune
 
 Finché indossa questo anello, il personaggio può  usarlo per lanciare camminare sull'acqua solo su di sé.
 
-## Anello del comando degli elementali
+---
 
+## Anello del comando degli elementali
+**id:** anello_del_comando_degli_elementali
 **tipo:** Anello (richiede sintonia)
 **rarita:** leggendario
 
@@ -123,57 +137,73 @@ L'anello ha 5 cariche e recupera 1d4 + 1 cariche consumate all'alba di ogni gior
 **Fuoco** Mani brucianti (1 carica), muro di fuoco (3 cariche), palla di fuoco (2 cariche), tempesta di fuoco (4 cariche)
 **Terra** Muro di pietra (3 cariche), pelle di pietra (3 cariche), scolpire pietra (2 cariche),  terremoto (5 cariche)
 
-## Anello della caduta morbida
+---
 
+## Anello della caduta morbida
+**id:** anello_della_caduta_morbida
 **tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Quando il personaggio cade indossando questo anello, scende di 18 metri per round e non subisce danni dalla caduta.
 
+---
+
 ## Anello della libertà di azione
-**tipo:** Anello (richiede sintonia)
+**id:** anello_della_libertà_di_azione**tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Mentre il personaggio indossa questo anello, il terreno difficile non gli costa movimento extra. Inoltre, la magia non può né ridurre la sua velocità di movimento (di qualsiasi tipo) né paralizzarlo o trattenerlo.
 
+---
+
 ## Anello dell'ariete
-**tipo:** Anello (richiede sintonia)
+**id:** anello_dell'ariete**tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il personaggio indossa l'anello, può effettuare un'azione di Magia per consumare da 1 a 3 cariche ed eseguire un attacco a distanza contro una creatura che è in grado di vedere entro 18 metri da sé. L'anello crea una testa d'ariete spettrale ed effettua il suo tiro per colpire con un bonus di +7. Se il colpo va a segno, per ogni carica consumata il bersaglio subisce 2d10 danni da forza e viene spinto lontano dal personag-gio per 1,5 metri.
 In alternativa, il personaggio può consumare da 1 a 3 cariche dell'anello per effettuare un'azione di Magia e provare a distruggere un oggetto non magico che è in grado di vedere entro 18 metri da  sé e non è indossato o trasportato. L'anello effettua  una prova di Forza con un bonus di +5 per ogni carica consumata.
 
-## Anello della vista a raggi X
+---
 
+## Anello della vista a raggi X
+**id:** anello_della_vista_a_raggi_x
 **tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Finché il personaggio indossa questo anello, può effettuare un'azione di Magia per ottenere la vista a raggi X con un raggio d'azione di 9 metri per 1 minuto. Gli oggetti solidi che si trovano entro il raggio d'azione appaiono al personaggio come trasparenti e non impediscono alla luce di attra-versarli. La vista può penetrare 30 cm di pietra, 2,5 centimetri di metallo comune o fino a 90 cen-timetri di legno o terriccio. Tuttavia, è bloccata da sostanze più dense o da un sottile strato di piombo.
 Ogni volta che usa di nuovo l'anello prima di completare un riposo lungo, il personaggio deve superare un tiro salvezza su Costituzione con CD 15, altrimenti ottiene 1 livello di indebolimento.
 
-## Anello del nuotare
+---
 
+## Anello del nuotare
+**id:** anello_del_nuotare
 **tipo:** Anello
 **rarita:** non comune
 
 Finché il personaggio indossa questo anello, la sua velocità di nuoto è pari a 12 metri.
 
-## Anello del saltare
+---
 
+## Anello del saltare
+**id:** anello_del_saltare
 **tipo:** Anello (richiede sintonia)
 **rarita:** non comune
 
 Finché il personaggio indossa quest'anello può lanciare saltare, ma solo su se stesso.
 
-## Anello di eludere
+---
 
+## Anello di eludere
+**id:** anello_di_eludere
 **tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Se il personaggio fallisce un tiro salvezza su Destrezza mentre indossa l'anello, può usare la sua reazione per  consumare 1 carica e superare quel tiro salvezza.
 
+---
+
 ## Anello di influenza sugli animali
-**tipo:** Anello
+**id:** anello_di_influenza_sugli_animali**tipo:** Anello
 **rarita:** raro
 
 Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il  personaggio indossa l'anello, può usare un'azione e  consumare 1 carica per lanciare uno degli incantesimi seguenti (CD del tiro salvezza 13):
@@ -181,22 +211,28 @@ Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni gio
 - Paura (ha effetto solo sulle bestie)
 - Parlare con gli animali
 
-## Anello di invisibilità
+---
 
+## Anello di invisibilità
+**id:** anello_di_invisibilità
 **tipo:** Anello (richiede sintonia)
 **rarita:** leggendario
 
 Fintanto che il personaggio indossa quest'anello, può effettuare un'azione di Magia per rendersi invisibile. Rimarrà tale finché l'anello non viene rimosso o il personaggio non usa un'azione bonus per tornare visibile.
 
-## Anello di protezione
+---
 
+## Anello di protezione
+**id:** anello_di_protezione
 **tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Il personaggio ottiene un bonus di +1 alla Classe Armatura e ai tiri salvezza finché indossa questo anello.
 
-## Anello di resistenza
+---
 
+## Anello di resistenza
+**id:** anello_di_resistenza
 **tipo:** Anello
 **rarita:** raro
 
@@ -214,8 +250,10 @@ Finché il personaggio indossa questo anello, ottiene resistenza a un tipo di da
 **9** Tuono Spinello
 **10** Veleno Ametista
 
-## Anello di richiamo del djinni
+---
 
+## Anello di richiamo del djinni
+**id:** anello_di_richiamo_del_djinni
 **tipo:** Anello (richiede sintonia)
 **rarita:** leggendario
 
@@ -224,15 +262,19 @@ Durante il richiamo, il djinni è amichevole nei confronti del personaggio e dei
 Dopo che il djinni ha fatto ritorno al suo piano d'origine, non può essere richiamato di nuovo per 24 ore e, se muore, l'anello diventa non magico.
 Gli anelli di richiamo del djinni sono spesso creati dagli stessi djinni che richiamano e donati ai mortali come doni d'amicizia o simboli di riconoscenza.
 
-## Anello di rigenerazione
+---
 
+## Anello di rigenerazione
+**id:** anello_di_rigenerazione
 **tipo:** Anello (richiede sintonia)
 **rarita:** molto raro
 
 Finché il personaggio indossa questo anello, recupera 1d6 punti ferita ogni 10 minuti, purché possieda almeno 1 punto ferita. Se il personaggio perde una parte del corpo, l'anello fa ricrescere la parte mancante facendola tornare alla piena funzionalità dopo 1d6 + 1 giorni, purché il personaggio abbia almeno 1 punto ferita in tutto questo periodo di tempo.
 
-## Anello di scudo mentale
+---
 
+## Anello di scudo mentale
+**id:** anello_di_scudo_mentale
 **tipo:** Anello (richiede sintonia)
 **rarita:** non comune
 
@@ -240,8 +282,10 @@ Mentre il personaggio indossa questo anello, è immune alla magia che permette a
 Inoltre, può effettuare un'azione di Magia per rendere l'anello impercettibile finché non decide di renderlo nuovamente percettibile con un'altra azione di Magia, non se lo toglie o muore.
 Se il personaggio muore mentre indossa l'anello, la sua anima entra dentro quest'ultimo, a meno che esso non ospiti già un'altra anima. Il personaggio può rimanere nell'anello o raggiungere l'aldilà. Finché l'anima del personaggio si trova nell'anello, può comunicare telepaticamente con qualsiasi creatura che lo indossi. La creatura che indossa l'anello non può impedire questa comunicazione telepatica.
 
-## Anello di stelle cadenti
+---
 
+## Anello di stelle cadenti
+**id:** anello_di_stelle_cadenti
 **tipo:** Anello (richiede sintonia)
 **rarita:** molto raro
 
@@ -259,22 +303,28 @@ Numero di sfere Danni da fulmine Numero di sfere Danni da fulmine
 **Stelle cadenti**
 Il personaggio può consumare da 1 a 3 cariche effettuando un'azione di Magia. Per ogni carica consumata, il personaggio lancia dall'anello un frammento di luce scintillante verso un punto che è in grado di vedere situato entro 18 metri da sé. Ogni creatura che si trova all'interno di un cubo con spigolo di 4,5 metri originato da quel punto viene inondata di scintille ed effettua un tiro salvezza su Destrezza con CD 15: subisce 5d4 danni radiosi in caso di fallimento, o la metà di quei danni in caso di successo.
 
-## Anello di telecinesi
+---
 
+## Anello di telecinesi
+**id:** anello_di_telecinesi
 **tipo:** Anello (richiede sintonia)
 **rarita:** molto raro
 
 Finché il personaggio indossa questo anello, può usarlo per lanciare telecinesi.
 
-## Anello rifletti incantesimo
+---
 
+## Anello rifletti incantesimo
+**id:** anello_rifletti_incantesimo
 **tipo:** Anello (richiede sintonia)
 **rarita:** leggendario
 
 Finché il personaggio indossa questo anello, dispone di vantaggio ai tiri salvezza effettuati contro gli incantesimi. Se supera un tiro salvezza per un incantesimo di 7º livello o inferiore, l'incantesimo non sortisce alcun effetto sul personaggio. Se quell'incantesimo è diretto solo contro di lui e non ha creato un'area di effetto, il personaggio può usare una reazione per rispedirlo all'incantatore che l'ha lanciato; quest'ultimo deve effettuare un tiro salvezza contro l'incantesimo usando la sua stessa CD del tiro salvezza sull'incantesimo.
 
-## Apparatus del granchio
+---
 
+## Apparatus del granchio
+**id:** apparatus_del_granchio
 **tipo:** Oggetto meraviglioso
 **rarita:** leggendario 
 
@@ -297,8 +347,10 @@ Ognuna delle chele estese effettua il seguente attacco in mischia: +8 al tiro pe
 **9** L'apparatus affonda fino a 6 metri se è immerso in un liquido. L'apparatus risale per 6 metri nel liquido in cui si trova.
 **10** Lo sportello posteriore si sblocca e si apre. Lo sportello posteriore si chiude e sigilla l'abitacolo.
 
-## Arco del giuramento
+---
 
+## Arco del giuramento
+**id:** arco_del_giuramento
 **tipo:** Arma (arco corto o arco lungo) (richiede sintonia)
 **rarita:** molto rara
 
@@ -307,8 +359,10 @@ copertura o da tre quarti di copertura e il perso-naggio non subisce svantaggio 
 personaggio subisce 3d6 danni perforanti extra.
 Finché il nemico giurato è in vita, il personaggio subisce svantaggio ai tiri per colpire effettuati con tutte le altre armi.
 
-## Arco energetico
+---
 
+## Arco energetico
+**id:** arco_energetico
 **tipo:** Arma (arco corto o arco lungo) (richiede sintonia)
 **rarita:** molto rara
 
@@ -326,15 +380,19 @@ entrare in un cubo con spigolo di 1,5 metri. La  freccia teletrasporta il bersag
 **Scala di energia**
 Il personaggio può compiere un'azione di Magia per scoccare una raffica di frecce energetiche da quest'arma contro un muro fino a 18 metri di distanza da sé. Le frecce si trasformano in pioli incandescenti che fuoriescono dalla parete, formando una scala magica lunga fino a 18 metri sulla parete. Questa scala dura 1 minuto prima di scomparire. 
 
-## Arma +1, +2 o +3
+---
 
+## Arma +1, +2 o +3
+**id:** arma_+1,_+2_o_+3
 **tipo:** Arma (qualsiasi semplice o da guerra)
 **rarita:** non comune (+1), rara (+2) o molto rara (+3)
 
 Il personaggio ottiene un bonus ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. Il bonus è determinato dalla rarità dell'arma.
 
-## Arma dell'avvertimento
+---
 
+## Arma dell'avvertimento
+**id:** arma_dell'avvertimento
 **tipo:** Arma (qualsiasi arma semplice o da guerra) (richiede sintonia)
 **rarita:** non comune
 Finché quest'arma è a portata del personaggio e questi vi è in sintonia, lui e i suoi alleati entro 9 metri ottengono i seguenti benefici.
@@ -345,35 +403,45 @@ Se il combattimento ha inizio, l'arma risveglia magicamente tutti i soggetti add
 **Prontezza soprannaturale**
 Tutti i soggetti interessati effettuano i tiri per l'iniziativa con vantaggio.
 
-## Arma spietata
+---
 
+## Arma spietata
+**id:** arma_spietata
 **tipo:** Arma (qualsiasi arma semplice o da guerra)
 **rarita:** rara
 
 Quest'arma magica infligge 2d6 danni extra a qua-lunque creatura colpisca. Il tipo dei danni aggiuntivi inferti corrisponde a quelli normali dell'arma.
 
-## Armatura +1, +2 o +3
+---
 
+## Armatura +1, +2 o +3
+**id:** armatura_+1,_+2_o_+3
 **tipo:** Armatura (leggera, media o pesante)
 **rarita:** rara (+1), molto rara (+2) o leggendaria (+3) 
 Il personaggio che indossa quest'armatura ottiene un bonus alla Classe Armatura determinato dalla sua rarità.
 
-## Armatura adamantina
+---
 
+## Armatura adamantina
+**id:** armatura_adamantina
 **tipo:** Armatura (media, pesante, ma non di pelle)
 **rarita:** non comune
 
 Quest'armatura include dei rinforzi di adamantio, uno dei materiali più duri in assoluto. Tutti i colpi critici che un personaggio subisce mentre indossa questa armatura diventano colpi normali.
 
-## Armatura a piastre della forma eterea
+---
 
+## Armatura a piastre della forma eterea
+**id:** armatura_a_piastre_della_forma_eterea
 **tipo:** Armatura (armatura a piastre o mezza armatura) (richiede sintonia)
 **rarita:** leggendaria
 
 Mentre il personaggio indossa quest'armatura, può effettuare un'azione di Magia e usare una parola d'ordine per ottenere l'effetto dell'incantesimo forma eterea. L'effetto svanisce immediatamente se il personaggio si toglie l'armatura o effettua un'azione di Magia per ripetere la parola d'ordine. Questa proprietà dell'armatura non può essere riutilizzata fino all'alba successiva.
 
-## Armatura della resistenza
+---
 
+## Armatura della resistenza
+**id:** armatura_della_resistenza
 **tipo:** Armatura (leggera, media o pesante) (richiede sintonia)
 **rarita:** rara
 
@@ -391,8 +459,10 @@ Il personaggio che indossa questa armatura ottiene resistenza a un tipo di danno
 **9** Tuono
 **10** Veleno
 
-## Armatura della vulnerabilità
+---
 
+## Armatura della vulnerabilità
+**id:** armatura_della_vulnerabilità
 **tipo:** Armatura (leggera, media o pesante) (richiede sintonia)
 **rarita:** rara
 
@@ -401,8 +471,10 @@ Il personaggio che indossa quest'armatura ottiene resistenza a uno dei seguenti 
 **Maledizione**
 Quest'armatura è maledetta, fatto che viene rivelato solo quando su di essa viene lanciato l'incantesimo identificare o quando il personaggio entra in sintonia con essa. Entrando in sintonia con l'armatura, il personaggio diventa soggetto alla maledizione finché su di lui non viene lanciato l'incantesimo rimuovi maledizione o un'altra magia simile; rimuovere l'armatura non pone fine alla maledizione. Finché è maledetto, il personaggio acquisisce vulnerabilità a due dei tre tipi di danno associati all'armatura (escludendo quello a cui concede resistenza).
 
-## Armatura dell'invulnerabilità
+---
 
+## Armatura dell'invulnerabilità
+**id:** armatura_dell'invulnerabilità
 **tipo:** Armatura (armatura a piastre) (richiede sintonia)
 **rarita:** leggendaria
 
@@ -411,8 +483,10 @@ Un personaggio che la indossa dispone di resistenza ai danni contundenti, perfor
 **Guscio in metallo**
 Come azione di Magia il  personaggio può ottenere immunità ai danni contundenti, perforanti e taglienti per 10 minuti o finché non indossa più l'armatura. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
 
-## Armatura demoniaca
+---
 
+## Armatura demoniaca
+**id:** armatura_demoniaca
 **tipo:** Armatura (leggera, media o pesante) (richiede sintonia)
 **rarita:** molto rara
 
@@ -421,30 +495,38 @@ Mentre il personaggio indossa quest'armatura, ottiene un bonus di +1 alla Classe
 **Maledizione**
 Una volta indossata quest'armatura maledetta, il personaggio non può togliersela a meno che non sia bersagliato da un incantesimo rimuovi maledizione o una magia simile. Mentre la indossa, il personaggio subisce svantaggio ai tiri per colpire contro i demoni e ai tiri salvezza contro i loro incantesimi e le loro capacità speciali.
 
-## Armatura di cuoio borchiato incantata
+---
 
+## Armatura di cuoio borchiato incantata
+**id:** armatura_di_cuoio_borchiato_incantata
 **tipo:** Armatura (armatura di cuoio borchiato)
 **rarita:** rara 
 
 Il personaggio che indossa quest'armatura ottiene un bonus di +1 alla Classe Armatura. Può anche usare un'azione bonus per far assumere all'armatura l'aspetto di un normale capo di vestiario o di un altro tipo di armatura. Il personaggio può deciderne l'aspetto, inclusi il colore, lo stile e gli accessori, ma l'armatura mantiene il suo ingombro e il suo peso normali. L'aspetto illusorio permane finché la proprietà dell'armatura non viene utilizzata di nuovo 
 o finché il personaggio non si toglie l'armatura.
 
-## Armatura in mithral
+---
 
+## Armatura in mithral
+**id:** armatura_in_mithral
 **tipo:** Armatura (media, pesante, ma non di pelle)
 **rarita:** non comune
 
 Il mithral è un metallo flessibile e leggero.  Un'armatura realizzata con questo materiale può essere indossata sotto dei comuni vestiti. Se  un'armatura normalmente impone svantaggio alle prove di Destrezza (Furtività) o prevede un requisito di Forza, la sua versione in mithral non fa né l'una né l'altra cosa.
 
-## Armatura nanica
+---
 
+## Armatura nanica
+**id:** armatura_nanica
 **tipo:** Armatura (mezza armatura o armatura a piastre)
 **rarita:** molto rara 
 
 Il personaggio che indossa quest'armatura ottiene un bonus di +2 alla Classe Armatura. Inoltre, se un effetto lo fa muovere sul terreno contro la sua volontà, il personaggio può effettuare una reazione per ridurre la distanza di cui viene mosso di un massimo di 3 metri.
 
-## Ascia del berserker
+---
 
+## Ascia del berserker
+**id:** ascia_del_berserker
 **tipo:** Arma (alabarda, ascia bipenne o ascia da battaglia) (richiede sintonia)
 **rarita:** rara
 
@@ -454,8 +536,10 @@ Il personaggio ottiene un bonus di +1 ai tiri per colpire e ai tiri per i danni 
 Quest'arma è maledetta e la sua maledizione si trasmette al personaggio quando entra in sintonia con essa. Finché è maledetto, il personaggio non vuole separarsene e non la perde mai di vista. Inoltre, subisce svantaggio ai tiri per colpire con armi diverse da questa. Ogni volta che un'altra creatura infligge danni al personaggio mentre quest'ultimo è in possesso dell'arma, il personaggio deve superare un tiro salvezza su Saggezza con CD 15, altrimenti entra in stato di berserk. Questo stato termina quando il personaggio inizia il proprio turno e non ci sono creature entro 18 metri da lui che è in grado di vedere o sentire.
 Mentre è in stato di berserk, il personaggio considera nemica la creatura più vicina che è in grado di vedere o sentire. Se ci sono più creature, ne sceglie una a caso. In ogni turno, il personaggio deve avvicinarsi il più possibile alla creatura ed effettuare l'azione di Attacco, mirando alla crea-tura. Se non riesce ad avvicinarsi alla creatura per attaccarla con l'arma, il suo turno termina dopo aver utilizzato tutto il movimento disponibile. Se la creatura muore o non può più essere vista o udita, la creatura più vicina che il personaggio è in grado di vedere o sentire diventa il nuovo bersaglio.
 
-## Bacchetta dei fulmini
+---
 
+## Bacchetta dei fulmini
+**id:** bacchetta_dei_fulmini
 **tipo:** Bacchetta (richiede sintonia con un incantatore)
 **rarita:** rara
 
@@ -465,15 +549,19 @@ Consumando 1 carica, lancia la versione di 3º livello dell'incantesimo. Il live
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta dei segreti
+---
 
+## Bacchetta dei segreti
+**id:** bacchetta_dei_segreti
 **tipo:** Bacchetta
 **rarita:** non comune
 
 Questa bacchetta ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Mentre il personaggio la impugna, può effettuare un'azione di Magia e consumare 1 carica: se entro 18 metri da lui si trovano porte segrete o trappole, la bacchetta inizia a pulsare e indica quella a lui più vicina.
 
-## Bacchetta della metamorfosi
+---
 
+## Bacchetta della metamorfosi
+**id:** bacchetta_della_metamorfosi
 **tipo:** Bacchetta (richiede sintonia con un incantatore)
 **rarita:** molto rara
 
@@ -482,8 +570,10 @@ Questa bacchetta ha 7 cariche. Mentre il personag-gio la impugna, può consumare
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta della paralisi
+---
 
+## Bacchetta della paralisi
+**id:** bacchetta_della_paralisi
 **tipo:** Bacchetta (richiede sintonia con un incantatore)
 **rarita:** rara
 
@@ -493,8 +583,10 @@ Costituzione con CD 15, altrimenti viene paralizzato per 1 minuto. Alla fine di 
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta della paura
+---
 
+## Bacchetta della paura
+**id:** bacchetta_della_paura
 **tipo:** Bacchetta (richiede sintonia)
 **rarita:** rara
 
@@ -510,8 +602,10 @@ Mentre il personaggio impugna la bacchetta, può usarla per lanciare uno degli i
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta della ragnatela
+---
 
+## Bacchetta della ragnatela
+**id:** bacchetta_della_ragnatela
 **tipo:** Bacchetta (richiede sintonia con un incantatore)
 **rarita:** non comune
 
@@ -520,8 +614,10 @@ Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare 
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta del legame
+---
 
+## Bacchetta del legame
+**id:** bacchetta_del_legame
 **tipo:** Bacchetta (richiede sintonia)
 **rarita:** rara
 
@@ -537,8 +633,10 @@ Mentre il personaggio impugna la bacchetta, può usarla per lanciare uno degli i
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta
 
-## Bacchetta delle meraviglie
+---
 
+## Bacchetta delle meraviglie
+**id:** bacchetta_delle_meraviglie
 **tipo:** Bacchetta (richiede sintonia)
 **rarita:** rara
 
@@ -567,8 +665,10 @@ All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il 
 **93–97** Il personaggio lancia metamorfosi prendendo di mira la creatura più vicina al punto di origine prescelto. Il giocatore tira 1d4 per determi-nare la nuova forma della creatura. Con un risultato di 1, diventa un orso nero; con 2–3, diventa una rana; con 4, diventa una vespa gigante.
 **98–00** La creatura più vicina al punto di origine prescelto effettua un tiro salvezza su Costituzione con CD 15. In caso di fallimento, è trattenuta e inizia a trasformarsi in pietra. Finché è trattenuta in questo modo, la creatura ripete il tiro salvezza fino alla fine del suo turno suc-cessivo. In caso di successo, l'effetto svanisce. In caso di fallimento, la creatura è pietrificata e non più trattenuta. La pietrificazione dura finché la creatura non viene liberata  dall'incantesimo  ristorare superiore o altre magie analoghe.
 
-## Bacchetta delle palle di fuoco
+---
 
+## Bacchetta delle palle di fuoco
+**id:** bacchetta_delle_palle_di_fuoco
 **tipo:** Bacchetta (richiede sintonia con un incantatore)
 **rarita:** rara
 
@@ -577,15 +677,19 @@ Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare 
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta del mago da guerra +1, +2 o +3
+---
 
+## Bacchetta del mago da guerra +1, +2 o +3
+**id:** bacchetta_del_mago_da_guerra_+1,_+2_o_+3
 **tipo:** Bacchetta (richiede sintonia con un incantatore)
 **rarita:** non comune (+1), rara (+2) o molto rara (+3)
 
 Mentre il personaggio impugna questa bacchetta, riceve un bonus ai tiri per colpire con incantesimo determinato dalla rarità della bacchetta. Inoltre, ignora la mezza copertura quando effettua un tiro per colpire con incantesimo.
 
-## Bacchetta di dardi incantati
+---
 
+## Bacchetta di dardi incantati
+**id:** bacchetta_di_dardi_incantati
 **tipo:** Bacchetta
 **rarita:** non comune
 
@@ -594,8 +698,10 @@ Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare 
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta di individuazione dei nemici
+---
 
+## Bacchetta di individuazione dei nemici
+**id:** bacchetta_di_individuazione_dei_nemici
 **tipo:** Bacchetta (richiede sintonia)
 **rarita:** rara
 
@@ -604,15 +710,19 @@ Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può effettuare
 **Ripristinare le cariche**
 All'alba di ogni giorno, la bacchetta recupera 1d6 + 1 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, la bacchetta va in cenere ed è distrutta.
 
-## Bacchetta di individuazione del magico
+---
 
+## Bacchetta di individuazione del magico
+**id:** bacchetta_di_individuazione_del_magico
 **tipo:** Bacchetta
 **rarita:** non comune
 
 Questa bacchetta ha 3 cariche. Mentre il personag-gio la impugna, può consumare 1 carica e usarla per lanciare individuazione del magico. All'alba di ogni giorno, la bacchetta recupera 1d3 cariche consumate.
 
-## Barca pieghevole
+---
 
+## Barca pieghevole
+**id:** barca_pieghevole
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
@@ -628,8 +738,10 @@ La scatola si trasforma in una barcone.
 La barca pieghevole si ripiega in una scatola se non ci sono creature a bordo. Gli oggetti a bordo del vascello troppo grandi per essere contenuti nella scatola restano all'esterno. Gli oggetti che possono entrare nella scatola rimangono al suo interno.Quando la scatola si trasforma in vascello, il suo peso diventa quello di un normale vascello di quella taglia; tutto ciò che era custodito all'interno della scatola rimane a bordo.Le statistiche della barca a remi e del barcone sono disponibili nel capitolo "Equipaggiamento". 
 Se una delle due imbarcazioni viene ridotta a 0 punti ferita, la barca pieghevole viene distrutta.
 
-## Bastone dei boschi
+---
 
+## Bastone dei boschi
+**id:** bastone_dei_boschi
 **tipo:** Bastone (richiede sintonia con un druido)
 **rarita:** raro
 
@@ -653,8 +765,10 @@ Il personaggio può effettuare un'azione di Magia per piantare un'estremità del
 **Ripristinare le cariche**
 All'alba di ogni giorno, il bastone recupera 1d6 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone perde le sue proprietà e diventa un bastone ferrato non magico.
 
-## Bastone dei magi
+---
 
+## Bastone dei magi
+**id:** bastone_dei_magi
 **tipo:** Bastone (richiede sintonia con un mago, uno stregone o un warlock)
 **rarita:** leggendario
 
@@ -692,8 +806,10 @@ Il bastone recupera 4d6 + 2 cariche consumate all'alba di ogni giorno. Se il per
 **Colpo del castigo**
 Il personaggio può effettuare un'azione di Magia per rompere il bastone sul suo ginocchio o contro una superficie solida. Così facendo, il bastone viene distrutto e rilascia la sua magia in un'esplosione che riempie un'emanazione di 9 metri di cui è il punto di origine. Il personaggio ha una probabilità del 50% di spostarsi istantanea-mente su un piano di esistenza casuale per evitare l'esplosione. Se non riesce a evitare l'effetto, subisce danni da forza pari a 16 × il numero di cariche rima-nenti nel bastone. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 17. In caso di fallimento, la creatura subisce danni da forza pari a 6 × il numero di cariche rimanenti nel bastone. Se invece lo supera, subisce soltanto la metà di quei danni.
 
-## Bastone dei tuoni e fulmini
+---
 
+## Bastone dei tuoni e fulmini
+**id:** bastone_dei_tuoni_e_fulmini
 **tipo:** Bastone (richiede sintonia)
 **rarita:** molto raro
 
@@ -714,8 +830,10 @@ Il personaggio può effettuare un'azione di Magia per generare un fulmine che gu
 **Rombo di tuono**
 Il personaggio può effettuare un'azione di Magia per far sì che il bastone emetta un rombo di tuono udibile fino a 180 metri. Ogni creatura entro un'emanazione di 18 metri che ha origine dal personaggio effettua un tiro salvezza su Costituzione con CD 17. In caso di fallimento, subisce 2d6 danni da tuono e diventa assordata per 1 minuto. Se invece lo supera, subisce soltanto la metà di quei danni.
 
-## Bastone del colpo possente
+---
 
+## Bastone del colpo possente
+**id:** bastone_del_colpo_possente
 **tipo:** Bastone (richiede sintonia)
 **rarita:** molto raro
 
@@ -725,15 +843,19 @@ Per ogni carica consumata, il bersaglio subisce 1d6 danni da forza extra.
 **Ripristinare le cariche**
 All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone diventa un bastone ferrato non magico.
 
-## Bastone del deperimento
+---
 
+## Bastone del deperimento
+**id:** bastone_del_deperimento
 **tipo:** Bastone (richiede sintonia)
 **rarita:** raro
 
 Questo bastone ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno.Il bastone può anche essere brandito come un bastone ferrato magico. Se il colpo va a segno, infligge danni come un normale bastone ferrato e il personaggio può consumare 1 carica per infliggere al bersaglio 2d10 danni necrotici extra, costringendolo a effettuare un tiro salvezza su Costituzione con CD 15. In caso di fallimento, il bersaglio ha svantaggio per 1 ora alle prove di caratteristica o ai tiri salvezza su Forza o Costituzione.
 
-## Bastone del fuoco
+---
 
+## Bastone del fuoco
+**id:** bastone_del_fuoco
 **tipo:** Bastone (richiede sintonia con un druido, un mago, uno stregone o un warlock)
 **rarita:** molto raro
 
@@ -749,8 +871,10 @@ Il bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno de
 **Ripristinare le cariche**
 All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone viene ridotto in cenere ed è distrutto.
 
-## Bastone del gelo
+---
 
+## Bastone del gelo
+**id:** bastone_del_gelo
 **tipo:** Bastone (richiede sintonia con un druido, un mago, uno stregone o un warlock)
 **rarita:** molto raro
 
@@ -767,8 +891,10 @@ Il bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare uno de
 **Ripristinare le cariche**
 All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone si trasforma in acqua e viene distrutto.
 
-## Bastone della guarigione
+---
 
+## Bastone della guarigione
+**id:** bastone_della_guarigione
 **tipo:** Bastone (richiede sintonia con un bardo, un chierico o un druido)
 **rarita:** raro
 
@@ -781,8 +907,10 @@ Questo bastone ha 10 cariche. Mentre il personaggio lo impugna, può lanciare un
 **Ripristinare le cariche**
 All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone svanisce in un lampo di luce ed è perduto per sempre.
 
-## Bastone dello charme
+---
 
+## Bastone dello charme
+**id:** bastone_dello_charme
 **tipo:** Bastone (richiede sintonia con un bardo, un chierico, un druido, un mago, uno stregone o un warlock)
 **rarita:** raro
 
@@ -797,8 +925,10 @@ Se il personaggio supera il tiro salvezza contro un incantesimo di ammaliamento 
 **Ripristinare le cariche**
 Il bastone recupera 1d8 + 2 cariche consumate all'alba di ogni giorno. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, il bastone si sbriciola e viene distrutto.
 
-## Bastone dello sciame di insetti
+---
 
+## Bastone dello sciame di insetti
+**id:** bastone_dello_sciame_di_insetti
 **tipo:** Bastone (richiede sintonia con un bardo, un chierico, un druido, un mago, uno stregone o un warlock)
 **rarita:** raro
 
@@ -816,16 +946,20 @@ Mentre il personaggio impugna il bastone, può usarlo per lanciare uno degli inc
 **Ripristinare le cariche**
 All'alba di ogni giorno, il bastone recupera 1d6 + 4 cariche consumate. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Se ottiene 1, uno sciame di insetti consuma e distrugge il bastone, per poi disperdersi.
 
-## Bastone del pitone
+---
 
+## Bastone del pitone
+**id:** bastone_del_pitone
 **tipo:** Bastone (richiede sintonia)
 **rarita:** non comune
 
 Effettuando un'azione di Magia, il personaggio può lanciare questo bastone affinché finisca in uno spazio libero entro 3 metri da sé e si trasformi in un serpente stritolatore gigante al suo interno. Il serpente è sotto il controllo del personaggio, condivide il suo punteggio di iniziativa e agisce subito dopo il termine del suo turno. Nel proprio turno, il personaggio può coman-dare il serpente (nessuna azione richiesta) se si trova entro 18 metri da sé e non è incapacitato. Il personaggio decide quale azione deve effettuare il serpente e dove si muoverà nel suo turno, oppure può impartirgli un comando generico come attaccare i nemici o fare la guardia a un luogo. Se non riceve ordini, il serpente si difende.Come azione bonus, il personaggio può ordinare al serpente di tornare nella sua forma di bastone all'interno dello spazio che occupa in quel momento. 
 Dopodiché, non è possibile utilizzare di nuovo questa proprietà per 1 ora. Se il serpente scende a 0 punti ferita, muore e torna alla forma di bastone, che successivamente va in frantumi e viene distrutto. Se il serpente torna alla forma di bastone prima di perdere tutti i punti ferita, li recupera tutti.
 
-## Bastone del potere
+---
 
+## Bastone del potere
+**id:** bastone_del_potere
 **tipo:** Bastone (richiede sintonia con un mago, uno stregone o un warlock)
 **rarita:** molto raro
 
@@ -850,8 +984,10 @@ All'alba di ogni giorno, il bastone recupera 2d8 + 4 cariche consumate. Se il pe
 **Colpo del castigo**
 Il personaggio può effettuare un'azione di Magia per rompere il bastone sul suo ginocchio o contro una superficie solida. Così facendo, il bastone viene distrutto e rilascia la sua magia in un'esplosione che riempie un'emanazione di 9 metri di cui è il punto di origine. Il personaggio ha una probabilità del 50% di spostarsi istantaneamente su un piano di esistenza casuale per evitare l'esplosione. Se non riesce a evitare l'effetto, subisce danni da forza pari a 16 × il numero di cariche rimanenti nel bastone. Ogni altra creatura nell'area deve effettuare un tiro salvezza su Destrezza con CD 17. In caso di fallimento, la creatura subisce danni da forza pari a 4 × il numero di cariche rimanenti nel bastone. Se invece lo supera, subisce soltanto la metà di quei danni.
 
-## Bastone ferrato dell'acrobata
+---
 
+## Bastone ferrato dell'acrobata
+**id:** bastone_ferrato_dell'acrobata
 **tipo:** Arma (bastone ferrato) (richiede sintonia)
 **rarita:** molto raro
 
@@ -868,8 +1004,10 @@ per rotearla intorno a sé, ottenendo un bonus di +5 alla Classe Armatura contro
 **Supporto acrobatico (solo forme di bastone ferrato o asta da 3 metri)**
 Mentre il personaggio impugna l'arma, effettua le prove di Destrezza (Acrobazia) con vantaggio.
 
-## Biglia di forza
+---
 
+## Biglia di forza
+**id:** biglia_di_forza
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
@@ -877,16 +1015,20 @@ Questa piccola sfera nera ha un diametro di 1,8 cen-timetri e pesa 30 grammi. Ge
 Questa esplode in una sfera con un raggio di 3 metri al momento dell'impatto e viene distrutta. Ogni creatura presente nell'area deve superare un tiro salvezza su Destrezza con CD 15 o subire 5d4 danni da forza. Poi l'area viene rinchiusa per 1 minuto all'interno di una sfera di forza trasparente. Ogni creatura che ha fallito il tiro salvezza e si trova completamente all'interno dell'area resta intrappolata all'interno. Chi ha superato il tiro salvezza o si trovava solo parzialmente all'interno dell'area viene allontanato dal centro della sfera e spinto all'esterno. Attraverso le pareti della sfera può passare solo aria respirabile. Non possono passarvi attraverso né attacchi, né altri effetti.
 Una creatura rinchiusa nell'area può effettuare un'azione di Utilizzo per spingere le pareti della sfera, muovendola a una velocità massima pari alla metà della propria velocità. La sfera può essere sollevata e la sua magia fa sì che il suo peso sia sempre pari a 0,5 chilogrammi, a prescindere dal peso delle creature al suo interno.
 
-## Boccia del comando degli elementali dell'acqua
+---
 
+## Boccia del comando degli elementali dell'acqua
+**id:** boccia_del_comando_degli_elementali_dell'acqua
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Quando la boccia è piena di acqua e il personaggio si trova a 1,5 metri da essa, egli può effettuare un'azione di Magia per richiamare un elementale dell'acqua. La creatura compare in uno spazio libero il più vicino possibile alla boccia, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. La boccia non può essere riutilizzata in questo modo fino all'alba successiva.
 La boccia ha un diametro di circa 30 cm ed è profonda 15 cm. Ha una capienza di 12 litri circa.
 
-## Borsa conservante
+---
 
+## Borsa conservante
+**id:** borsa_conservante
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -895,8 +1037,10 @@ Se la borsa viene caricata con un peso eccessivo, o viene bucata o strappata, vi
 La borsa contiene una quantità d'aria sufficiente per 10 minuti, da dividere per il numero di creature che respirano al suo interno.
 Collocare una borsa conservante all'interno di uno spazio extradimensionale, come quello creato da uno zainetto pratico, da un buco portatile o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le creature entro una sfera con un raggio di 3 metri centrata sul portale vengono attirate al suo interno e trasportate in un luogo casuale del Piano Astrale; dopodiché il portale si chiude. Il portale è a senso unico e non può essere riaperto.
 
-## Borsa dei fagioli magici
+---
 
+## Borsa dei fagioli magici
+**id:** borsa_dei_fagioli_magici
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
@@ -915,8 +1059,10 @@ Questa pesante borsa di stoffa contiene 3d4 fagioli secchi quando viene trovata.
 **91–95** Una piramide a base quadrata con lato di 18 metri emerge dal terreno. Al suo interno si trova una camera funeraria contenente 1 mummia, 1 signore delle mummie o un altro non morto a scelta del GM. Il suo sarcofago contiene un tesoro determinato dal GM.
 **96–00** Dal terreno si innalza una gigantesca pianta di fagioli che sale fino a un'altezza determinata dal GM. La sommità della pianta conduce in un luogo scelto dal GM, che può essere uno straordinario punto di osservazione, il castello di un gigante delle nuvole o un altro piano di esistenza.
 
-## Borsa dei trucchi
+---
 
+## Borsa dei trucchi
+**id:** borsa_dei_trucchi
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -957,8 +1103,10 @@ lanuginosi, non può essere riutilizzata fino all'alba successiva.
 **7** Sciacallo
 **8** Tigre
 
-## Borsa divorante
+---
 
+## Borsa divorante
+**id:** borsa_divorante
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
@@ -966,8 +1114,10 @@ Questa borsa sembra una borsa conservante, ma in realtà si tratta di un orifizi
 Nella borsa è possibile conservare oggetti inanimati fino a un volume pari a un cubo con spigolo di 30 centimetri. Tuttavia, una volta al giorno la borsa inghiotte tutti gli oggetti al suo interno e li sputa fuori su un altro piano di esistenza. Il GM determina il momento in cui questo accade e il piano dove finiscono gli oggetti.
 Se la borsa viene bucata o strappata, è considerata distrutta e tutto ciò che conteneva viene traspor-tato in un luogo casuale sul Piano Astrale.
 
-## Bottiglia del fumo perenne
+---
 
+## Bottiglia del fumo perenne
+**id:** bottiglia_del_fumo_perenne
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -975,8 +1125,10 @@ Il personaggio può aprire o chiudere la bottiglia compiendo un'azione di Magia.
 L'apertura della bottiglia provoca la fuoriuscita di un fumo denso, il quale forma una nube che riempie un'emanazione di 18 metri che si origina dalla bottiglia. L'area all'interno del fumo è pesantemente oscurata.
 Ogni minuto che la bottiglia rimane aperta, la dimensione dell'emanazione aumenta di 3 metri fino a raggiungere la dimensione massima di 36 metri. Una volta chiusa la bottiglia, la nuvola resta ferma nella stessa posizione fino a disperdersi dopo 10 minuti. Un vento forte (come quello generato  dall'incantesimo  folata di vento) disperde la nube dopo 1 minuto.
 
-## Bottiglia dell'efreeti
+---
 
+## Bottiglia dell'efreeti
+**id:** bottiglia_dell'efreeti
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
@@ -988,29 +1140,37 @@ La prima volta che la bottiglia viene aperta, il GM tira sulla seguente tabella 
 **2–9** L'efreeti capisce le lingue parlate dal perso-naggio e obbedisce ai suoi ordini per 1 ora. Dopodiché torna nella bottiglia, la quale viene chiusa da un nuovo tappo che non può essere rimosso per 24 ore. Le due volte successive in cui la bottiglia viene aperta, si ottiene lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti fugge scomparendo e la bottiglia perde la sua magia.
 **10** L'efreeti comprende le lingue che parla il personaggio e può lanciare un incantesimo desiderio per una volta per il personaggio. Scompare dopo aver concesso il desiderio o dopo 1 ora, e la bottiglia perde la sua magia.
 
-## Bracciali della difesa
+---
 
+## Bracciali della difesa
+**id:** bracciali_della_difesa
 **tipo:** Oggetto meraviglioso
 **rarita:** raro (richiede sintonia)
 
 Il personaggio che indossa questi bracciali ottiene un bonus di +2 alla Classe Armatura se non veste alcuna armatura e non usa uno scudo.
 
-## Bracciali dell'arciere
+---
 
+## Bracciali dell'arciere
+**id:** bracciali_dell'arciere
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** **rarita:**
 
 Quando il personaggio indossa questi bracciali, ha competenza nell'arco lungo e nell'arco corto e ottiene un bonus di +2 ai tiri per i danni effettuati con tali armi.
 
-## Braciere del comando degli elementali del fuoco
+---
 
+## Braciere del comando degli elementali del fuoco
+**id:** braciere_del_comando_degli_elementali_del_fuoco
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Quando il personaggio si trova a 1,5 metri da questo braciere, può effettuare un'azione di Magia per richiamare un elementale del fuoco. La creatura compare in uno spazio libero il più vicino possibile al braciere, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. Il braciere non può essere riutilizzato in questo modo fino all'alba successiva.
 
-## Buco portatile
+---
 
+## Buco portatile
+**id:** buco_portatile
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
@@ -1020,16 +1180,20 @@ Il personaggio può effettuare un'azione di Magia per chiudere il buco portatile
 Se il buco è ripiegato, una creatura all'interno del suo spazio extradimensionale può usare un'azione per effettuare una prova di Forza (Atletica) con CD 10. In caso di successo, la creatura riesce a uscire e compare entro 1,5 metri dal buco porta-tile. Un buco portatile contiene una quantità d'aria sufficiente per 1 ora, da dividere per il numero di creature che respirano al suo interno.
 Collocare un buco portatile all'interno di uno spazio extradimensionale, come quello creato da uno zainetto pratico, da una borsa conservante o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le cre-ature entro 3 metri dal portale e senza copertura totale vengono attirate al suo interno e depositate in un luogo casuale del Piano Astrale; dopodiché, il portale si chiude. Il portale è a senso unico e non può essere riaperto.
 
-## Campana dell'apertura
+---
 
+## Campana dell'apertura
+**id:** campana_dell'apertura
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Questo tubo cavo di metallo è lungo circa 30 centimetri e pesa 0,5 chilogrammi. Il personaggio può effettuare un'azione di Magia per colpire la campana e lanciare l'incantesimo scassinare. Il consueto suono dell'incantesimo di qualcuno che bussa è sostituito dal suono chiaro e squillante dello scampanellio, udibile fino a 90 metri.
 La campana può essere utilizzata 10 volte. Dopo il decimo uso, si crepa e diventa inutilizzabile.
 
-## Candela dell'invocazione
+---
 
+## Candela dell'invocazione
+**id:** candela_dell'invocazione
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** molto raro
 
@@ -1055,8 +1219,10 @@ In alternativa, quando un personaggio accende la candela per la prima volta, pu�
 **88–95** Terre Bestiali
 **96–00** Ysgard
 
-## Cappa del saltimbanco
+---
 
+## Cappa del saltimbanco
+**id:** cappa_del_saltimbanco
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
@@ -1064,8 +1230,10 @@ Questa cappa emana un leggero odore di zolfo.
 Finché il personaggio la indossa, può usarla per lanciare porta dimensionale come azione di Magia. 
 Questa proprietà non può essere riutilizzata fino all'alba successiva.Quando il personaggio si teletrasporta con questo incantesimo, si lascia dietro una nuvola di fumo. Il fumo rende leggermente oscurato lo spazio lasciato dal personaggio fino alla fine del suo turno successivo
 
-## Cappello dei molti incantesimi
+---
 
+## Cappello dei molti incantesimi
+**id:** cappello_dei_molti_incantesimi
 **tipo:** Oggetto meraviglioso (richiede sintonia con un mago)
 **rarita:** molto raro
 
@@ -1092,15 +1260,19 @@ suo turno successivo.
 **91–95** Si apre un portale verticale a doppio senso con diametro di 3 metri che conduce a un altro piano di esistenza in uno spazio libero entro 9 metri dal personaggio e resta aperto fino al termine del suo turno successivo. Sta al GM decidere dove conduce.
 **96–00** Il personaggio tira fuori un oggetto magico dal cappello. La rarità dell'oggetto viene deter-minata con il tiro di un 1d6: con un risultato nell'intervallo 1–3, comune; con 4–5, non comune; con 6, raro. Il GM sceglie l'oggetto, che scompare dopo 1 ora se non viene consu-mato o distrutto prima.
 
-## Cappello del camuffamento
+---
 
+## Cappello del camuffamento
+**id:** cappello_del_camuffamento
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Mentre il personaggio indossa questo cappello, può lanciare l'incantesimo camuffare se stesso. L'incantesimo termina se il cappello viene rimosso.
 
-## Caraffa dell'acqua eterna
+---
 
+## Caraffa dell'acqua eterna
+**id:** caraffa_dell'acqua_eterna
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -1117,8 +1289,10 @@ La caraffa produce 20 litri d'acqua.
 La caraffa produce 120 litri d'acqua che zampilla in una linea lunga 9 metri e larga 30 centimetri. Se il personaggio sta tenendo in mano la caraffa, può dirigere il getto d'acqua in una direzione specifica (nessuna azione richiesta). 
 Una creatura a scelta del personaggio lungo la linea deve superare un tiro salvezza su Forza con CD 13 o subire 1d4 danni contundenti e cadere prona. In alternativa, il personaggio può dirigere il getto contro un oggetto nella traiettoria che non sia indossato o trasportato e che non pesi più di 100 chilogrammi. L'oggetto viene ribaltato dal geyser.
 
-## Cintura della forza dei giganti
+---
 
+## Cintura della forza dei giganti
+**id:** cintura_della_forza_dei_giganti
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** rarità variabile
 
@@ -1130,8 +1304,10 @@ Finché il personaggio indossa questa cintura, la sua Forza cambia in un determi
 **Cintura della forza dei giganti (delle nuvole)** 27 Leggendaria
 **Cintura della forza dei giganti (delle tempeste)** 29 Leggendaria
 
-## Cintura nanica
+---
 
+## Cintura nanica
+**id:** cintura_nanica
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
@@ -1151,31 +1327,39 @@ Ha resistenza ai danni da veleno.  Dispone di vantaggio sui tiri salvezza esegui
 **Scurovisione**
 Ha scurovisione fino a un raggio di 18 metri.
 
-## Colla meravigliosa
+---
 
+## Colla meravigliosa
+**id:** colla_meravigliosa
 **tipo:** Oggetto meraviglioso
 **rarita:** leggendario 
 
 Questa sostanza viscosa e lattiginosa può creare un legame adesivo permanente tra due oggetti qualsiasi. Deve essere custodita in un barattolo o in un'ampolla al cui interno sia stato spalmato dell'olio della scivolosità. Quando viene trovato, il contenitore contiene (1d6 + 1) x 30 grammi di colla.
 Una quantità di colla pari a 30 grammi può coprire una superficie quadrata con lato di 30 centimetri. Per applicare 30 grammi di colla meravigliosa è necessaria un'azione di Utilizzo; la colla avrà effetto dopo 1 minuto. Il legame così creatosi può essere spezzato solamente con un'applicazione di solvente universale o di olio della forma eterea, o tramite un incantesimo desiderio.
 
-## Collana dell'adattamento
+---
 
+## Collana dell'adattamento
+**id:** collana_dell'adattamento
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Mentre il personaggio indossa questa collana, può respirare normalmente in qualsiasi ambiente ed effettua con vantaggio i tiri salvezza necessari per evitare o porre fine alla condizione avvelenato.
 
-## Collana delle palle di fuoco
+---
 
+## Collana delle palle di fuoco
+**id:** collana_delle_palle_di_fuoco
 **tipo:** Oggetto meraviglioso
 **rarita:** raro 
 
 Da questa collana pendono 1d6 + 3 perle. Il personaggio può effettuare un'azione di Magia per staccare una perla e lanciarla entro 18 metri di distanza. Una volta raggiunta la fine della sua traiettoria, la perla esplode in una palla di fuoco di 3º livello (CD del tiro salvezza 15).
 Con un'unica azione, è possibile lanciare più perle o perfino l'intera collana. In tal caso, il danno della palla di fuoco aumenta di 1d6 per ogni perla dopo la prima (massimo 12d6).
 
-## Collana del rosario
+---
 
+## Collana del rosario
+**id:** collana_del_rosario
 **tipo:** Oggetto meraviglioso (richiede sintonia con un chierico, druido o paladino)
 **rarita:** raro
 
@@ -1189,8 +1373,10 @@ Esistono sei tipi di perline magiche. La loro tipologia è a discrezione del GM 
 **13–18** Perla della guarigione Cura ferite (versione di 2º livello)
 **19–20** Perla della punizione Punizione splendente
 
-## Corazza di scaglie di drago
+---
 
+## Corazza di scaglie di drago
+**id:** corazza_di_scaglie_di_drago
 **tipo:** Armatura (corazza a scaglie) (richiede sintonia)
 **rarita:** molto rara
 
@@ -1208,16 +1394,20 @@ Con un'azione, il personaggio può inoltre concen-trare i suoi sensi come azione
 **Rosso** Fuoco
 **Verde** Veleno
 
-## Corda intralciante
+---
 
+## Corda intralciante
+**id:** corda_intralciante
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Questa corda è lunga 9 metri. Se il personaggio impugna un'estremità della corda, può effettuare un'azione di Magia per ordinare all'altro capo di guizzare in avanti e intralciare una creatura situata entro 6 metri dal personaggio e che egli sia in grado di vedere. Il bersaglio deve quindi superare un tiro salvezza su Destrezza con CD 15, altrimenti sarà trattenuto. Il personaggio può liberare il bersaglio lasciando la sua estremità della corda (facendo sì che la corda si attorcigli nello spazio occupato dal bersaglio) o ripetendo l'ordine con un'azione bonus (facendo attorcigliare la corda intorno alla mano del personaggio).
 Un bersaglio trattenuto dalla corda può effettuare una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15 (a sua scelta) con un'azione. In caso di successo, il bersaglio non è più trattenuto dalla corda. Se il personaggio la sta ancora tenendo quando il bersaglio si libera, può usare una reazione per ordinare alla corda di attorcigliarsi intorno alla sua mano, altrimenti si attorciglierà nello spazio occupato dal bersaglio. La corda ha CA 20, 20 punti ferita e immunità ai danni psichici e da veleno. Recupera 1 punto ferita ogni 5 minuti, purché le rimanga almeno 1 punto ferita. Se la corda scende a 0 punti ferita, viene distrutta.
 
-## Corda per scalare
+---
 
+## Corda per scalare
+**id:** corda_per_scalare
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -1225,15 +1415,19 @@ Questa corda lunga 18 metri può sostenere fino a 1.500 chilogrammi di carico. M
 Se il personaggio le ordina di annodarsi, lungo la corda compare una serie di grandi nodi a distanza di 30 centimetri l'uno dall'altro. Quando è annodata, la corda si accorcia fino a una lunghezza di 15 metri e conferisce vantaggio alle prove effet-tuate per utilizzarla.
 La corda ha CA 20, 20 punti ferita e immunità ai danni psichici e da veleno. Recupera 1 punto ferita ogni 5 minuti, purché le rimanga almeno 1 punto ferita. Se la corda scende a 0 punti ferita, viene distrutta.
 
-## Corno della distruzione
+---
 
+## Corno della distruzione
+**id:** corno_della_distruzione
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Il personaggio può effettuare un'azione di Magia per soffiare dentro il corno, il quale emette un boato rombante in un cono di 9 metri udibile fino a 180 metri. Ogni creatura all'interno del cono deve effettuare un tiro salvezza su Costituzione con CD 15. Se lo fallisce, subisce 5d8 danni da tuono ed è assordata per un minuto. Se passa il tiro salvezza, la  creatura subisce solo la metà dei danni. Gli oggetti di vetro o cristallo nel cono che non sono indossati o trasportati subiscono 10d8 danni da tuono.Ogni volta che viene usata la magia del corno esiste una probabilità del 20% che esploda. L'esplosione infligge 10d6 danni da forza a chi lo suona e distrugge il corno.
 
-## Corno del Valhalla
+---
 
+## Corno del Valhalla
+**id:** corno_del_valhalla
 **tipo:** Oggetto meraviglioso
 **rarita:** raro (argento o ottone), molto raro (bronzo) o leggendario (ferro)
 
@@ -1247,8 +1441,10 @@ Se il personaggio suona il corno senza soddisfare i requisiti, gli spiriti richi
 **76–90** Bronzo 4 Competenza in tutte le armature medie
 **91–00** Ferro 5 Competenza in tutte le armi da guerra
 
-## Cubo dei portali
+---
 
+## Cubo dei portali
+**id:** cubo_dei_portali
 **tipo:** Oggetto meraviglioso
 **rarita:** leggendario 
 
@@ -1260,8 +1456,10 @@ Premendo una faccia del cubo, il personag-gio lancia l'incantesimo portale, apre
 
 **Spostamento planare**Premendo due volte una faccia del cubo, il personaggio lancia l'incantesimo spostamento planare e trasporta i bersagli sul piano di esistenza collegato a quella faccia.
 
-## Cubo di forza
+---
 
+## Cubo di forza
+**id:** cubo_di_forza
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
@@ -1279,38 +1477,48 @@ Inizialmente il cubo ha 10 cariche e recupera 1d6 cariche consumate all'alba di 
 **Scudo** 1
 **Sfera elastica** 4
 
-## Diadema incandescente
+---
 
+## Diadema incandescente
+**id:** diadema_incandescente
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Indossando questo diadema, il personaggio può lanciare un incantesimo raggio rovente (+5 per colpire). L'oggetto non può lanciare di nuovo questo incantesimo fino all'alba successiva.
 
-## Difensiva
+---
 
+## Difensiva
+**id:** difensiva
 **tipo:** Arma (qualsiasi arma da mischia) (richiede sintonia)
 **rarita:** leggendaria
 
 Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica.
 La prima volta in ogni suo turno in cui attacca con quest'arma, il personaggio può trasferire tutto il bonus dell'arma o parte di esso alla propria Classe Armatura. Potrebbe, per esempio, ridurre il bonus ai tiri per colpire e a quelli per i danni a +1 e ottenere un bonus di +2 alla CA. I bonus modificati restano in vigore fino all'inizio del turno successivo del personaggio, che deve però impugnare l'arma per ottenere il bonus alla CA.
 
-## Elisir della salute
+---
 
+## Elisir della salute
+**id:** elisir_della_salute
 **tipo:** Pozione
 **rarita:** rara
 
 Il personaggio che beve questa pozione guarisce da tutti i contagi magici. In più, queste condizioni ter-minano su di esso: Accecato, assordato, paralizzato e avvelenato.
 Il liquido rosso chiaro presenta minuscole bollicine di luce.
 
-## Elmo della comprensione dei linguaggi
+---
 
+## Elmo della comprensione dei linguaggi
+**id:** elmo_della_comprensione_dei_linguaggi
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Mentre il personaggio indossa l'elmo, può lanciare un incantesimo comprensione dei linguaggi da esso.
 
-## Elmo della luminosità
+---
 
+## Elmo della luminosità
+**id:** elmo_della_luminosità
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** molto raro
 
@@ -1331,30 +1539,38 @@ Finché rimane incastonato almeno un rubino, il personaggio ottiene resistenza a
 **Subire danni da fuoco**
 Il personaggio tira 1d20 se indossa l'elmo e subisce danni da fuoco per avere fallito un tiro salvezza contro un incantesimo. Se ottiene come risultato 1, le gemme rimaste sull'elmo irradiano raggi di luce e l'oggetto viene distrutto. Ogni creatura situata entro 18 metri dall'emanazione generata dal personaggio deve superare un tiro salvezza su Destrezza con CD 17, altrimenti viene colpita da un raggio e subisce un ammontare di danni radiosi pari al numero di gemme rimaste sull'elmo.
 
-## Elmo della telepatia
+---
 
+## Elmo della telepatia
+**id:** elmo_della_telepatia
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Quando il personaggio indossa questo elmo, ha telepatia fino a 9 metri e può lanciare individuazione dei pensieri o suggestione (CD del tiro salvezza 13) da esso. Una volta lanciato un incantesimo dall'elmo, questo non può essere lanciato nuovamente fino all'alba successiva.
 
-## Elmo del teletrasporto
+---
 
+## Elmo del teletrasporto
+**id:** elmo_del_teletrasporto
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Questo elmo ha 3 cariche. Il personaggio che lo indossa può consumare 1 carica per lanciare teletrasporto da esso. L'elmo recupera 1d3 cariche consumate all'alba di ogni giorno.
 
-## Faretra efficiente
+---
 
+## Faretra efficiente
+**id:** faretra_efficiente
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Ognuno dei tre scomparti di questa faretra è collegato a uno spazio extradimensionale che le consente di contenere numerosi oggetti senza mai pesare più di 1 chilogrammo. Lo scomparto più corto può contenere fino a 60 frecce, quadrelli o oggetti simili. Quello medio può contenere fino a 18 giavellotti o oggetti simili. Quello più lungo contiene fino a 6 oggetti lunghi come archi, bastoni ferrati o lance.
 Il personaggio può estrarre un qualsiasi oggetto qui contenuto come se fosse una normale faretra o fodero.
 
-## Fasce metalliche
+---
 
+## Fasce metalliche
+**id:** fasce_metalliche
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
@@ -1364,44 +1580,56 @@ Se va a segno, il bersaglio è trattenuto finché il personaggio non usa un'azio
 Una creatura, inclusa quella trattenuta, in grado di toccare le fasce può usare un'azione per effettuare una prova di Forza (Atletica) con CD 20 per spezzare le fasce metalliche. In caso di successo, l'oggetto viene distrutto e la creatura trattenuta si libera. Se la prova fallisce, ogni ulteriore tentativo effettuato dalla stessa creatura fallisce automaticamente finché non sono trascorse 24 ore.
 Una volta usate, le fasce non possono essere  riutilizzate fino all'alba successiva.
 
-## Fascia dell'intelletto
+---
 
+## Fascia dell'intelletto
+**id:** fascia_dell'intelletto
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Finché il personaggio indossa questa fascia, il suo punteggio di Intelligenza è pari a 19. Se il suo punteggio di Intelligenza è già pari o superiore a 19, l'oggetto non ha alcun effetto.
 
-## Fermaglio dello scudo
+---
 
+## Fermaglio dello scudo
+**id:** fermaglio_dello_scudo
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Quando indossa questo fermaglio, il personaggio ottiene resistenza ai danni da forza ed è immune ai danni inflitti dall'incantesimo dardo incantato.
 
-## Ferri della velocità
+---
 
+## Ferri della velocità
+**id:** ferri_della_velocità
 **tipo:** Oggetto meraviglioso
 **rarita:** raro 
 
 Questi ferri da cavallo si presentano in gruppi di quattro. Il personaggio può effettuare un'azione di Magia per toccare lo zoccolo di un cavallo o di una creatura simile con uno dei ferri; a quel punto, il ferro si attacca allo zoccolo. Anche la rimozione di un ferro di cavallo richiede un'azione di Magia.Quando tutti e quattro i ferri sono attaccati alla stessa creatura, la sua velocità aumenta di 9 metri.
 
-## Ferri dello zefiro
+---
 
+## Ferri dello zefiro
+**id:** ferri_dello_zefiro
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
 Questi ferri da cavallo si presentano in gruppi di quattro. Il personaggio può effettuare un'azione di Magia per toccare lo zoccolo di un cavallo o di una creatura simile con uno dei ferri; a quel punto, il ferro si attacca allo zoccolo. Anche la rimozione di un ferro di cavallo richiede un'azione di Magia.Quando vengono applicati tutti e quattro agli zoccoli di un cavallo o di una creatura simile, per-mettono a tale creatura di muoversi normalmente fluttuando a 10 centimetri dalla superficie su cui si trova. Grazie a questo effetto la creatura può stazionare o muoversi su superfici non solide o instabili, come l'acqua o la lava. La creatura non lascia tracce e ignora il terreno difficile. Inoltre, la creatura può viaggiare per un massimo di 12 ore al giorno senza ottenere livelli di indebolimento a causa del viaggio prolungato.
 
-## Filtro d'amore
+---
 
+## Filtro d'amore
+**id:** filtro_d'amore
 **tipo:** Pozione
 **rarita:** non comune
 
 La prossima volta che il personaggio vede una creatura entro 10 minuti dal momento in cui ha bevuto il filtro, diventa affascinato da essa per 1 ora.
 Questo liquido rosato ed effervescente contiene una bolla a forma di cuore alquanto difficile da individuare.
 
-## Flauto dei topi
+---
 
+## Flauto dei topi
+**id:** flauto_dei_topi
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
@@ -1412,22 +1640,28 @@ del flauto per 24 ore. In caso di fallimento, lo sciame è controllato dalla mus
 suoi alleati finché questo continua a suonare ogni round effettuando un'azione di Magia. Uno sciame amichevole obbedisce ai comandi del personaggio. Se il personaggio non impartisce alcun comando allo sciame amichevole, questo si difende, ma non effettua altre azioni. Se uno sciame amichevole inizia il suo turno a più di 9 metri dal personaggio, il controllo che egli esercita su di esso si interrompe: lo sciame torna a comportarsi secondo la 
 sua natura e non può essere soggetto all'influsso della musica del flauto per le 24 ore successive.
 
-## Flauto incantatore
+---
 
+## Flauto incantatore
+**id:** flauto_incantatore
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Questo flauto ha 3 cariche e ne recupera 1d3 all'alba di ogni giorno. Il personaggio può effettuare un'azione di Magia per suonarlo e consumare 1 carica per creare una melodia strana e ipnotica. Ogni creatura a scelta del personaggio situata entro 9 metri da sé deve superare un tiro salvezza su Saggezza con CD 15, altrimenti sarà spaventata per 1 minuto. Se una creatura fallisce il tiro salvezza, lo ripete alla fine di ogni suo turno e, se lo supera, pone fine all'effetto su di sé. Una creatura che supera il tiro salvezza diventa immune all'effetto del flauto per 24 ore.
 
-## Fortezza istantanea
+---
 
+## Fortezza istantanea
+**id:** fortezza_istantanea
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Il personaggio può effettuare un'azione di Magia per posare a terra questa statuetta adamantina grande 2,5 centimetri, usando la sua parola d'ordine per farla crescere rapidamente in una torre adamantina quadrata. Ripetendo la parola d'ordine, la torre torna alla forma di statuetta, ma solo se la torre è vuota. Ogni creatura nell'area in cui compare la torre viene spinta in uno spazio libero all'esterno ma vicino alla torre. Anche gli oggetti presenti nell'area che non vengono indossati o trasportati vengono spinti dalla torre.La torre è lunga 6 metri di lato, alta 9 metri e for-nita di feritoie su tutti i lati e di un parapetto sulla sommità. All'interno è divisa in due piani, collegati da una scala a pioli, una scalinata o una rampa (a scelta del personaggio). Questa scala o rampa termina sotto una botola che conduce al tetto. Al momento della creazione, nella torre si trova una sola porta al livello del suolo sul lato rivolto verso il personaggio. La porta si apre solo su ordine del personaggio, che può pronunciare tale ordine come azione bonus. La torre è immune all'incante-simo scassinare e a magie simili.La magia impedisce alla torre di ribaltarsi. Il tetto, la porta e le mura hanno: CA 20, 100 PF, immunità ai danni contundenti, perforanti e taglienti, tranne quelli inflitti da equipaggiamento d'assedio, e resistenza a tutti gli altri tipi di danno. Il rimpicciolimento della torre in forma di statuetta non ripara i danni che ha sostenuto. La torre può infatti essere riparata solo tramite un incantesimo desiderio (quest'uso dell'incantesimo conta come riproduzione di un incantesimo di 8º livello o inferiore). Ogni lancio dell'incantesimo desiderio fa sì che la torre recuperi tutti i suoi punti ferita.
 
-## Gemma della luminosità
+---
 
+## Gemma della luminosità
+**id:** gemma_della_luminosità
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -1442,15 +1676,19 @@ Il personaggio consuma 1 carica della gemma e fa sì che quest'ultima proietti u
 **Terza parola d'ordine**
 Il personaggio consuma 5 cariche e fa sì che la gemma emetta una luce intensa in un cono di 9 metri. Ogni creatura situata nel cono effettua un tiro salvezza come se fosse stata colpita dal raggio di luce creato dalla seconda parola d'ordine.Quando tutte le cariche sono state utilizzate, la gemma diventa un gioiello non magico del valore di 50 mo.
 
-## Gemma della visione
+---
 
+## Gemma della visione
+**id:** gemma_della_visione
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Questa gemma ha 3 cariche. Il personaggio può consumare 1 carica come azione di Magia. Per i 10 minuti successivi, guardando attraverso la gemma il personaggio ottiene vista pura entro un raggio di 36 metri.La gemma recupera 1d3 cariche consumate  all'alba di ogni giorno.
 
-## Gemma elementale
+---
 
+## Gemma elementale
+**id:** gemma_elementale
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -1461,15 +1699,19 @@ Questa gemma contiene un frammento di energia elementale. Quando si effettua un'
 **Smeraldo** Elementale dell'acqua
 **Zaffiro blu** Elementale dell'aria
 
-## Giaco di maglia elfico
+---
 
+## Giaco di maglia elfico
+**id:** giaco_di_maglia_elfico
 **tipo:** Armatura (cotta di maglia o giaco di maglia)
 **rarita:** rara
 
 Quando il personaggio indossa quest'armatura, ottiene un bonus di +1 alla Classe Armatura. Inoltre, è considerato competente in questa armatura anche se non ha competenza nelle armature medie o pesanti.
 
-## Giavellotto del fulmine
+---
 
+## Giavellotto del fulmine
+**id:** giavellotto_del_fulmine
 **tipo:** Arma (giavellotto), non comune
 **rarita:** rara
 
@@ -1478,44 +1720,56 @@ Ogni volta che il personaggio effettua un tiro per colpire con quest'arma magica
 **Fulmine**
 Quando il personaggio scaglia quest'arma contro un bersaglio a non più di 36 metri da sé, può evitare di effettuare un tiro per colpire a distanza e trasformare l'arma in un fulmine, formando una linea larga 1,5 metri tra lui e la creatura colpita. Il bersaglio e ogni creatura lungo la linea (a eccezione del personaggio) effettuano un tiro salvezza su Destrezza con CD 13; se falliscono, subiscono 4d6 danni da fulmine, mentre se lo superano subiscono la metà di quei danni. Subito dopo aver colpito, l'arma riappare in mano al perso-naggio. Questa proprietà non può essere riutilizzata fino all'alba successiva.
 
-## Guanti catturaproiettili
+---
 
+## Guanti catturaproiettili
+**id:** guanti_catturaproiettili
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Se il personaggio viene colpito con un tiro per colpire effettuato con un'arma a distanza o da lancio mentre indossa questi guanti, può usare una  reazione per ridurre i danni di 1d10 più il suo modificatore di Destrezza se ha una mano libera.
 Se riduce i danni a 0, può afferrare l'arma o la munizione, purché si tratti di un oggetto abbastanza piccolo da essere tenuto in mano.
 
-## Guanti del nuotare e scalare
+---
 
+## Guanti del nuotare e scalare
+**id:** guanti_del_nuotare_e_scalare
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Il personaggio che indossa questi guanti ha una velocità di nuoto e una velocità di scalata pari alla propria velocità e ottiene un bonus di +5 alle prove di Forza (Atletica) effettuate per arrampicarsi o nuotare.
 
-## Guanti del potere orchesco
+---
 
+## Guanti del potere orchesco
+**id:** guanti_del_potere_orchesco
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Finché il personaggio indossa questi guanti, il suo punteggio di Forza è pari a 19. I guanti non hanno alcun effetto se il suo punteggio di Forza è già pari o superiore a 19.
 
-## Guanti ladreschi
+---
 
+## Guanti ladreschi
+**id:** guanti_ladreschi
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Questi guanti sono impercettibili quando vengono indossati. Il personaggio che li indossa ottiene un bonus di +5 alle prove di Destrezza (Rapidità di mano).
 
-## Incensiere del controllo degli elementali dell'aria
+---
 
+## Incensiere del controllo degli elementali dell'aria
+**id:** incensiere_del_controllo_degli_elementali_dell'aria
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Facendo oscillare dolcemente questo incensiere, il personaggio può effettuare un'azione di Magia per richiamare un elementale dell'aria. L'elementale compare in uno spazio libero il più vicino possibile all'incensiere, capisce la lingua del personaggio, obbedisce ai suoi ordini e svolge il suo turno subito dopo quello del personaggio con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. L'incensiere non può essere riutilizzato in questo modo fino all'alba successiva.
 
-## Lama della fortuna
+---
 
+## Lama della fortuna
+**id:** lama_della_fortuna
 **tipo:** Arma (falcetto, falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
 **rarita:** leggendaria
 
@@ -1528,8 +1782,10 @@ L'arma ha 1d3 cariche. Mentre il perso-naggio la impugna, può consumare 1 caric
 **Fortuna**
 Se non è incapacitato e ha l'arma con sé, il personaggio può appellarsi alla fortuna dell'arma (nessuna azione richiesta) per ripetere una prova con d20 fallita. Deve usare il risultato del secondo tiro. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
 
-## Lama del sole
+---
 
+## Lama del sole
+**id:** lama_del_sole
 **tipo:** Arma (spada lunga) (richiede sintonia)
 **rarita:** rara
 
@@ -1542,66 +1798,84 @@ Il personaggio ottiene un bonus di +2 ai tiri per colpire e ai tiri per i danni 
 **Luce del sole**
 La lama luminosa di questa spada proietta luce intensa in un raggio di 4,5 metri e luce fioca per altri 4,5 metri. La luce è considerata luce solare. Finché la lama permane, il personaggio può effettuare un'azione di Magia per ampliare o ridurre il raggio della luce intensa e fioca di 1,5 metri per ognuna, fino a un massimo di 9 metri o un minimo di 3 metri per ognuna.
 
-## Lanterna della rivelazione
+---
 
+## Lanterna della rivelazione
+**id:** lanterna_della_rivelazione
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Quando è accesa, questa lanterna schermabile arde per 6 ore con 0,5 litri d'olio, proiettando luce intensa in un raggio di 9 metri e luce fioca per altri 
 9 metri. Quando si trovano nell'area di luce intensa della lanterna, le creature e gli oggetti invisibili diventano visibili. Il personaggio può effettuare un'azione di Utilizzo per schermare la lanterna, riducendo la luce proiettata a luce fioca in un raggio di 1,5 metri.
 
-## Lenti dell'aquila
+---
 
+## Lenti dell'aquila
+**id:** lenti_dell'aquila
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Queste lenti di cristallo si adattano agli occhi di chi le indossa. Quando il personaggio le indossa, dispone di vantaggio alle prove di Saggezza (Percezione) basate sulla vista. In condizioni di visibilità ottimale, può discernere i dettagli di creature e oggetti di almeno 60 centimetri di diametro anche da lunghissime distanze.
 
-## Lenti della visione dettagliata
+---
 
+## Lenti della visione dettagliata
+**id:** lenti_della_visione_dettagliata
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Queste lenti di cristallo si adattano agli occhi di chi le indossa. Mentre le indossa, il personaggio ha una vista assai migliore del normale in un raggio di 30 centimetri, ottenendo scurovisione in quel rag-gio e vantaggio alle prove di Intelligenza (Indagare) effettuate per esaminare qualcosa entro quella distanza.
 
-## Lenti dello charme
+---
 
+## Lenti dello charme
+**id:** lenti_dello_charme
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Queste lenti di cristallo si adattano agli occhi di chi le indossa. Possiedono 3 cariche. Mentre il personaggio le indossa, può consumare 1 o più cariche per lanciare un incantesimo charme su persone (CD del tiro salvezza 13). Consumando 1 carica, il personaggio lancia la versione di 1º livello  dell'incantesimo.
 Può aumentare il livello  dell'incantesimo di 1 per ogni carica aggiuntiva consumata. Le lenti recuperano tutte le cariche consumate all'alba di ogni giorno.
 
-## Lingua di fiamme
+---
 
+## Lingua di fiamme
+**id:** lingua_di_fiamme
 **tipo:** Arma (qualsiasi arma da mischia) (richiede sintonia)
 **rarita:** rara
 
 Mentre il personaggio impugna quest'arma magica, può compiere un'azione bonus e usare una parola d'ordine per sprigionare le fiamme che avvolgono la parte dell'arma che infligge danni. Le fiamme proiettano luce intensa in un raggio di 12 metri e luce fioca per altri 12 metri. Quando la lama è in fiamme, infligge 2d6 danni da fuoco extra se il colpo va a segno. Le fiamme durano finché il personaggio non compie un'azione bonus per impartire nuovamente l'ordine o finché non lascia cadere, ripone o rinfodera l'arma.
 
-## Manette dimensionali
+---
 
+## Manette dimensionali
+**id:** manette_dimensionali
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Il personaggio può compiere un'azione di Utilizzo per mettere queste manette a una creatura incapacitata. Le manette si adattano alle creature di taglia Piccola, Media o Grande. Inoltre, impediscono alla creatura ammanettata di usare qualsiasi metodo di movimento extradimensionale, inclusi il teletrasporto e il viaggio su un diverso piano di esistenza. Non le impediscono però di attraversare un portale interdimensionale.Il personaggio e qualsiasi creatura da lui designata al momento della chiusura delle manette  possono usare un'azione di Utilizzo per rimuoverle. Una volta ogni 30 giorni, la creatura ammanettata può effettuare una prova di Forza (Atletica) con CD 30. In caso di successo, la creatura si libera e distrugge le manette.
 
-## Mantello della manta
+---
 
+## Mantello della manta
+**id:** mantello_della_manta
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Il personaggio che indossa questo mantello può respirare sott'acqua e ottiene una velocità di nuoto pari a 18 metri.
 
-## Mantello della protezione
+---
 
+## Mantello della protezione
+**id:** mantello_della_protezione
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Finché il personaggio indossa questo mantello riceve un bonus di +1 alla Classe Armatura e ai tiri salvezza.
 
-## Mantello dell'aracnide
+---
 
+## Mantello dell'aracnide
+**id:** mantello_dell'aracnide
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** molto raro
 
@@ -1619,22 +1893,28 @@ Può lanciare ragnatela (CD del tiro salvezza 13). La ragnatela creata dall'inca
 **Resistenza al veleno**
 Ha resistenza ai danni da veleno.
 
-## Mantello della resistenza agli incantesimi
+---
 
+## Mantello della resistenza agli incantesimi
+**id:** mantello_della_resistenza_agli_incantesimi
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Finché il personaggio indossa questo mantello, dispone di vantaggio ai tiri salvezza contro gli incantesimi.
 
-## Mantello dell'invisibilità
+---
 
+## Mantello dell'invisibilità
+**id:** mantello_dell'invisibilità
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendario
 
 Questo mantello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché indossa il mantello, il personaggio può effettuare un'azione di Magia per mettersi il cappuccio e consumare una carica per diventare invisibile per 1 ora. L'effetto termina in anticipo se il personaggio si toglie il cappuccio (nessuna azione richiesta) o se smette di indossare il mantello.
 
-## Mantello del pipistrello
+---
 
+## Mantello del pipistrello
+**id:** mantello_del_pipistrello
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
@@ -1642,23 +1922,29 @@ Il personaggio che indossa questo mantello dispone di vantaggio alle prove di De
 In un'area di luce fioca o di oscurità, può afferrare i lembi del mantello e usarlo per ottenere una velocità di volo di 12 metri. Se per qualunque motivo il personaggio lascia un lembo del mantello o esce dalla zona di luce fioca o di oscurità, perde questa velocità di volo.
 Finché il personaggio indossa il mantello in  un'area di luce fioca o di oscurità, può lanciare  l'incantesimo  metamorfosi su se stesso per trasformarsi in un pipistrello. In questa forma, mantiene i suoi punteggi di Carisma, Intelligenza, Saggezza. Il mantello non può essere riutilizzato in questo modo fino all'alba successiva.
 
-## Mantello distorcente
+---
 
+## Mantello distorcente
+**id:** mantello_distorcente
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Quando il personaggio indossa questo mantello, proietta magicamente un'illusione che lo fa apparire in un punto diverso da quello in cui si trova in realtà. Di conseguenza, tutte le creature subiscono svantaggio ai tiri per colpire contro di lui. Se il personaggio subisce danni, la proprietà smette di funzionare fino all'inizio del suo turno successivo.
 La proprietà non funziona quando la velocità del personaggio è pari a 0.
 
-## Mantello elfico
+---
 
+## Mantello elfico
+**id:** mantello_elfico
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Quando il personaggio indossa questo mantello, le prove di Saggezza (Percezione) eseguite per percepirti subiscono svantaggio, mentre il personaggio dispone di vantaggio alle prove di Destrezza (Furtività).
 
-## Manuale dei golem
+---
 
+## Manuale dei golem
+**id:** manuale_dei_golem
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
@@ -1673,32 +1959,40 @@ Una volta terminato il processo di creazione del golem, il libro viene consumato
 **18** Golem di ferro 120 giorni 100.000 mo
 **19–20** Golem di pietra 90 giorni 80.000 mo
 
-## Manuale della salute
+---
 
+## Manuale della salute
+**id:** manuale_della_salute
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro 
 
 Questo libro contiene suggerimenti utili sulla salute e l'alimentazione e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Costituzione aumenta di 2, fino a un massimo 
 di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
 
-## Manuale della velocità di azione
+---
 
+## Manuale della velocità di azione
+**id:** manuale_della_velocità_di_azione
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
 Questo libro contiene la descrizione di una serie di esercizi per la coordinazione e l'equilibrio, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Destrezza aumenta di 
 2, fino a un massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
 
-## Manuale dell'esercizio fisico
+---
 
+## Manuale dell'esercizio fisico
+**id:** manuale_dell'esercizio_fisico
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
 Questo libro contiene la descrizione di una serie di esercizi ginnici e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Forza aumenta di 2, fino a un massimo di 30. Una 
 volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
 
-## Martello dei fulmini
+---
 
+## Martello dei fulmini
+**id:** martello_dei_fulmini
 **tipo:** Arma (maglio o martello da guerra), (richiede sintonia)
 **rarita:** leggendaria
 
@@ -1710,15 +2004,19 @@ Finché il personaggio è in sintonia con l'arma e indossa una cintura della for
 Quando il personaggio ottiene un risultato di 20 sul d20 ai tiri per colpire effettuati con quest'arma contro un gigante, quest'ultimo deve superare un tiro salvezza su Costituzione con CD 17, altrimenti muore.
 **Forza dei giganti**. Il punteggio di Forza conferito dalla cintura della forza dei giganti o dai guanti del potere ogre aumenta di 4, fino a un massimo di 30.
 
-## Martello nanico da lancio
+---
 
+## Martello nanico da lancio
+**id:** martello_nanico_da_lancio
 **tipo:** Arma (martello da guerra) (richiede sintonia con un nano o con una creatura in sintonia con una cintura nanica)
 **rarita:** molto rara
 
 Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. L'arma ha la proprietà da lancio con una gittata normale di 6 metri e una gittata lunga di 18 metri. Quando chi la impugna colpisce con un attacco a distanza usando quest'arma, questo infligge 1d8 ulteriori danni da forza, o 2d8 ulteriori danni da forza se il bersaglio è un gigante. Subito dopo aver colpito o mancato il bersaglio, l'arma torna in mano al personaggio.
 
-## Mazza della distruzione
+---
 
+## Mazza della distruzione
+**id:** mazza_della_distruzione
 **tipo:** Arma (mazza) (richiede sintonia)
 **rarita:** rara
 
@@ -1729,15 +2027,19 @@ spaventata fino al termine del turno successivo del personaggio.
 **Luce**
 Finché il personaggio impugna quest'arma, essa proietta luce intensa in un raggio di 6 metri e luce fioca per altri 6 metri.
 
-## Mazza della punizione
+---
 
+## Mazza della punizione
+**id:** mazza_della_punizione
 **tipo:** Arma (mazza)
 **rarita:** rara
 
 Il personaggio ottiene un bonus di +1 ai tiri per col-pire e a quelli per i danni effettuati con quest'arma magica. Quando la usa per attaccare un costrutto, questo bonus sale a +3.Se il personaggio ottiene un 20 a un tiro per colpire con quest'arma, il bersaglio subisce 7 danni contundenti extra o 14 danni contundenti se si tratta di un costrutto. Se dopo aver subito tali danni un costrutto scende a 25 punti ferita o meno, viene distrutto.
 
-## Mazza del terrore
+---
 
+## Mazza del terrore
+**id:** mazza_del_terrore
 **tipo:** Arma (mazza) (richiede sintonia)
 **rarita:** rara
 
@@ -1747,8 +2049,10 @@ deve superare un tiro salvezza su Saggezza con CD 15, altrimenti sarà spaventat
 Finché è spaventata in questo modo, una creatura deve usare i suoi turni per spostarsi il più lontano possibile dall'arma e non può effettuare attacchi di opportunità. Come azione, può usare solo l'azione di Scatto o tentare di fuggire da un effetto che le impedisce di muoversi. Se non può muoversi in alcuno 
 spazio, può usare l'azione di Schivata. Alla fine di ogni suo turno, la creatura ripete il tiro salvezza e, se lo supera, l'effetto svanisce.
 
-## Mazzo delle illusioni
+---
 
+## Mazzo delle illusioni
+**id:** mazzo_delle_illusioni
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
@@ -1792,8 +2096,10 @@ Ogni interazione fisica con la creatura illusoria ne rivela la falsità, in quan
 **94–96** Viverna
 **97–00** Il personaggio*Le schede delle statistiche per queste creature (eccetto il personaggio) sono disponibili nel capitolo "Mostri".
 
-## Mazzo delle meraviglie
+---
 
+## Mazzo delle meraviglie
+**id:** mazzo_delle_meraviglie
 **tipo:** Oggetto meraviglioso
 **rarita:** leggendario
 
@@ -1914,22 +2220,28 @@ Azioni
 Multiattacco. L'avatar effettua un numero di attacchi con Falce del mietitore uguale alla metà del bonus di competenza dell'evocatore (arrotondato per eccesso).
 Falce del mietitore. Tiro per colpire in mischia: Suc-cesso automatico, portata 1,5 m Colpito: 7 (1d8 + 3) danni taglienti più 4 (1d8) danni necrotici
 
-## Medaglione dei pensieri
+---
 
+## Medaglione dei pensieri
+**id:** medaglione_dei_pensieri
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Questo medaglione ha 5 cariche. Il personaggio che lo indossa può consumare 1 carica per lanciare individuazione dei pensieri (CD del tiro salvezza 13). Il medaglione recupera 1d4 cariche consumate all'alba di ogni giorno.
 
-## Munizione +1, +2 o +3
+---
 
+## Munizione +1, +2 o +3
+**id:** munizione_+1,_+2_o_+3
 **tipo:** Arma (qualsiasi munizione)
 **rarita:** non comune (+1), rara (+2) o molto rara (+3)
 
 Il personaggio ottiene un bonus ai tiri per colpire e ai tiri per i danni effettuati con questa munizione magica. Il bonus è determinato dalla rarità della munizione. Una volta colpito il bersaglio, la munizione non è più magica.Questa munizione è solitamente reperibile o venduta in quantità di dieci o venti pezzi. Dieci pezzi di queste munizioni hanno un valore equivalente a una pozione della stessa rarità.
 
-## Munizione assassina
+---
 
+## Munizione assassina
+**id:** munizione_assassina
 **tipo:** Arma (qualsiasi munizione)
 **rarita:** molto rara 
 
@@ -1952,29 +2264,37 @@ Una volta inflitti i danni extra, la munizione non è più magica.
 **91–95** Umanoidi
 **96–00** Vegetali
 
-## Occhiali della notte
+---
 
+## Occhiali della notte
+**id:** occhiali_della_notte
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Finché il personaggio indossa queste lenti scure, ottiene scurovisione fino a 18 metri. Se ha già scurovisione, gli occhiali ne aumentano il raggio di 18 metri.
 
+---
+
 ## Olio dell'affilatura
-**tipo:** Pozione
+**id:** olio_dell'affilatura**tipo:** Pozione
 **rarita:** molto rara
 
 Una fiala di quest'olio può ricoprire un'arma da mischia o 20 munizioni, ma solo se si tratta di armi da mischia e munizioni non magiche che infliggono danni taglienti o perforanti. L'applicazione dell'olio richiede 1 minuto, dopo il quale penetra magicamente in qualsiasi oggetto su cui sia stato cosparso trasformando l'arma rivestita in un'arma +3 e le munizioni in munizioni +3.
 Quest'olio trasparente e gelatinoso luccica a causa di minuscoli e sottilissimi frammenti d'argento.
 
-## Olio della forma eterea
+---
 
+## Olio della forma eterea
+**id:** olio_della_forma_eterea
 **tipo:** Pozione
 **rarita:** rara
 
 Una fiala di quest'olio può coprire una creatura di taglia Media o inferiore, insieme all'equipaggia-mento che indossa e trasporta (per ogni categoria di taglia superiore, è necessario usare una fiala aggiuntiva). L'applicazione dell'olio richiede 10 minuti. La creatura cosparsa d'olio ottiene gli effetti dell'incantesimo forma eterea per 1 ora.All'esterno del contenitore di questo torbido olio grigiastro si formano in continuazione delle bolle che evaporano velocemente.
 
-## Olio della scivolosità
+---
 
+## Olio della scivolosità
+**id:** olio_della_scivolosità
 **tipo:** Pozione
 **rarita:** non comune
 
@@ -1982,15 +2302,19 @@ Una fiala di quest'olio può coprire una creatura di taglia Media o inferiore, i
 In alternativa, è possibile usare un'azione di Magia per versare l'olio a terra, dove copre una superficie quadrata con lato di 3 metri, in cui riproduce gli effetti dell'incantesimo unto per 8 ore.
 Questo unguento nero viscoso sembra denso e pesante, ma scorre fluidamente quando viene versato. 
 
-## Pantofole del ragno
+---
 
+## Pantofole del ragno
+**id:** pantofole_del_ragno
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Mentre indossa queste scarpe leggere, il personaggio può muoversi in alto, in basso e lateralmente sulle superfici verticali e sui soffitti mantenendo le mani libere. Inoltre, ottiene velocità di scalata pari alla propria velocità. Tuttavia, le pantofole non gli permettono di muoversi in questo modo su una superficie scivolosa, come per esempio una superficie ricoperta di ghiaccio o d'olio.
 
-## Pergamena magica
+---
 
+## Pergamena magica
+**id:** pergamena_magica
 **tipo:** Pergamena
 **rarita:** rarità variabile
 
@@ -2011,36 +2335,46 @@ Trucchetto Comune 13 +5
 **Copiare una pergamena nel libro degli incantesimi**
 Gli incantesimi da mago scritti sulle  pergamene magiche possono essere copiati in un libro degli incantesimi. Per farlo, chi copia deve superare una prova di Intelligenza (Arcano) con CD pari a 10 più il livello dell'incantesimo. Se la prova viene superata, l'incantesimo viene copiato. A prescindere dal risultato della prova, la pergamena magica viene distrutta.
 
-## Perla del potere
+---
 
+## Perla del potere
+**id:** perla_del_potere
 **tipo:** Oggetto meraviglioso (richiede sintonia con un incantatore)
 **rarita:** non comune
 
 Finché il personaggio ha con sé questa sfera, può effettuare un'azione di Magia per ripristinare uno slot incantesimo consumato di 3º livello o inferiore. Una volta usata, la perla non può essere riutilizzata fino all'alba successiva.
 
-## Perla nutriente
+---
 
+## Perla nutriente
+**id:** perla_nutriente
 **tipo:** Oggetto meraviglioso
 **rarita:** comune
 
 Questa perla gelatinosa e insapore si scioglie sulla lingua e fornisce una quantità di nutrimento pari a quella di 1 giorno di razioni.
 
-## Pietra del controllo degli elementali della terra
+---
 
+## Pietra del controllo degli elementali della terra
+**id:** pietra_del_controllo_degli_elementali_della_terra
 **tipo:** Oggetto meraviglioso
 **rarita:** raro
 
 Se il personaggio tocca il terreno con questa pietra da 2,5 chilogrammi, può effettuare un'azione di Magia per richiamare un elementale della terra. L'elementale appare in uno spazio libero a scelta del giocatore entro 9 metri dal personaggio, obbedisce ai suoi ordini e svolge il proprio turno immediatamente dopo quello del personaggio che l'ha evocato con il suo punteggio di iniziativa. L'elementale scompare dopo 1 ora, quando muore o quando viene congedato come azione bonus. La pietra non può più essere utilizzata in questo modo fino all'alba successiva.
 
-## Pietra della buona fortuna (pietrafortuna)
+---
 
+## Pietra della buona fortuna (pietrafortuna)
+**id:** pietra_della_buona_fortuna_(pietrafortuna)
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Mentre il personaggio ha con sé quest'agata  levigata, ottiene un bonus di +1 alle prove di  caratteristica e ai tiri salvezza.
 
-## Pietra di Ioun
+---
 
+## Pietra di Ioun
+**id:** pietra_di_ioun
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** rarità variabile
 Le pietre di Ioun sono delle dimensioni approssimative di una biglia e devono il loro nome a Ioun, dea della conoscenza e della profezia venerata su alcuni mondi. Esistono molti tipi di pietre di Ioun, ognuno dei quali ha una diversa combinazione di forma e colore.Quando il personaggio effettua un'azione di Magia per lanciare una pietra di Ioun in aria, l'oggetto orbita intorno alla sua testa a una distanza di 1d3 metri, conferendogli il suo beneficio nel frattempo. Una creatura può avere fino a tre pietre di Ioun che orbitano intorno alla sua testa contemporaneamente.Ogni pietra che orbita intorno alla testa è considerata un oggetto indossato. La pietra orbitante evita il contatto con altre creature e oggetti, regolando la sua orbita per evitare collisioni e vanificando tutti i tentativi di altre creature di attaccarla o agguantarla.Il personaggio può effettuare un'azione di Utilizzo per afferrare e riporre un numero qualsiasi di pietre di Ioun che orbitano intorno alla sua testa. Se la sin-tonia con una pietra di Ioun termina mentre orbita intorno alla testa, l'oggetto cade come se fosse stato lasciato cadere a terra.Il tipo di pietra ne determina la rarità e gli effetti.
@@ -2086,16 +2420,20 @@ Finché questo fuso tra-sparente orbita intorno alla testa del personaggio, ques
 **Tempra (molto rara)**
 Finché questo romboide rosa orbita intorno alla testa del personaggio, il punteggio di Costituzione del personaggio aumenta di 2, fino a un massimo di 20.
 
-## Pietre parlanti
+---
 
+## Pietre parlanti
+**id:** pietre_parlanti
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Le pietre parlanti funzionano a coppie: ognuna di queste pietre è scolpita in modo da combaciare perfettamente con l'altra, rendendo la coppia facilmente riconoscibile. Quando il personaggio ne tocca una, può usarla per lanciare inviare. Il bersaglio è il possessore dell'altra pietra. Se nessuna creatura ha l'altra pietra, il personaggio viene a saperlo non appena la usa e quindi non lancia l'incantesimo.Quando l'incantesimo inviare viene lanciato tramite 
 le pietre, esse non possono essere riutilizzate fino all'alba successiva. Se una delle pietre di una coppia viene distrutta, l'altra smette di essere magica.
 
-## Pigmenti meravigliosi
+---
 
+## Pigmenti meravigliosi
+**id:** pigmenti_meravigliosi
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
@@ -2103,8 +2441,10 @@ Questa pregiata scatola di legno contiene 1d4 vasetti di pigmenti e un pennello 
 Una volta terminato il lavoro, tutti gli oggetti e gli elementi del terreno dipinti diventano reali. Di conseguenza, se il personaggio dipinge una porta su un muro, crea una vera porta che dà accesso a ciò che si trova dall'altra parte e, se dipinge una fossa sul pavimento, crea una fossa vera e propria, la cui profondità totale deve rientrare nel cubo con spigolo di 6 metri.
 Nessun oggetto creato da un vasetto di pigmento deve avere un valore superiore a 25 mo, mentre il valore di tutti gli oggetti creati non può superare le 500 mo. Se il personaggio dipinge oggetti di valore maggiore (come una grossa montagna d'oro), sembreranno autentici, ma un esame accurato rivelerà che sono fatti di poltiglia, biscotti o altri materiali analoghi.Se viene dipinta una forma di energia come il fuoco o il fulmine, l'energia compare, ma si dissipa non appena il personaggio finisce di dipingerla, senza infliggere alcun danno.
 
-## Piuma di Quaal
+---
 
+## Piuma di Quaal
+**id:** piuma_di_quaal
 **tipo:** Oggetto meraviglioso
 **rarita:** rarità variabile
 
@@ -2137,40 +2477,50 @@ Se il personaggio si trova su una barca o una nave, può effettuare un'azione di
 **71–85** Uccello Rara
 **86–00** Ventaglio Non comune
 
-## Polvere dell'invisibilità
+---
 
+## Polvere dell'invisibilità
+**id:** polvere_dell'invisibilità
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Questa polvere assomiglia a sabbia fine. Ce n'è abba-stanza per un singolo uso. Quando il personaggio effettua un'azione di Utilizzo per lanciare la polvere nell'aria, questi, insieme a ogni creatura e oggetto entro un'emanazione di 3 metri che ha origine da lui, diventa invisibile per 2d4 minuti. La durata è 
 la stessa per tutte le creature e gli oggetti influenzati e la polvere viene consumata quando la magia ha effetto. Subito dopo che una creatura interessata dalla polvere effettua un tiro per colpire, infligge danni o lancia un incantesimo, la condizione di invisibile termina.
 
-## Polvere dello starnuto e del soffocamento
+---
 
+## Polvere dello starnuto e del soffocamento
+**id:** polvere_dello_starnuto_e_del_soffocamento
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune 
 
 Questa polvere conservata in un piccolo conteni-tore assomiglia alla polvere della sparizione e un incantesimo identificare la indica come tale. Ce n'è abbastanza per un singolo uso.
 Il personaggio può compiere un'azione di Utilizzo per lanciare la polvere in aria, costringendo se stesso e ogni creatura che si trova in un'emanazione di 9 metri originata da lui a effettuare un tiro salvezza su Costituzione con CD 15. Costrutti, elementali, melme, non morti e vegetali superano automaticamente il tiro salvezza.In caso di fallimento, la creatura inizia a star-nutire in modo incontrollato, diventa incapacitata e soffoca. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. L'effetto termina anche su qualsiasi creatura bersa-gliata da un incantesimo di ristorare inferiore.
 
-## Polvere prosciugante
+---
 
+## Polvere prosciugante
+**id:** polvere_prosciugante
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune
 
 Questo pacchetto contiene 1d6 + 4 pizzichi di polvere. Il personaggio può compiere un'azione di Utilizzo per spargere un pizzico di polvere sull'acqua, trasformando un cubo d'acqua con spigolo di 4,5 metri in una sfera grande quanto una biglia, che galleggia o resta vicino al punto in cui è stata sparsa la polvere. Il peso della biglia è trascurabile. Una creatura può effettuare un'azione di Utilizzo per schiantare la biglia contro una superficie rigida, 
 rompendola e liberando l'acqua che era stata assorbita. In questo modo la sfera viene distrutta e la sua magia termina.Il personaggio può compiere un'azione di Utilizzo per spargere un pizzico di polvere su un elementale entro un raggio di 1,5 metri da sé che sia compo-sto principalmente da acqua (come ad esempio un elementale dell'acqua). Tale creatura esposta a un pizzico di questa polvere deve effettuare un tiro salvezza su Costituzione con CD 13; in caso di fallimento, subisce 10d6 danni necrotici, o la metà dei danni in caso di successo.
 
-## Pozione della forma gassosa
+---
 
+## Pozione della forma gassosa
+**id:** pozione_della_forma_gassosa
 **tipo:** Pozione
 **rarita:** rara 
 
 Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo forma gassosa per 1 ora (non è richiesta la concentrazione) o finché non vi pone fine con un'azione bonus.
 Il contenitore di questa pozione sembra pieno di nebbia che ondeggia e si riversa all'esterno come se fosse acqua.
 
-## Pozione della forza dei giganti
+---
 
+## Pozione della forza dei giganti
+**id:** pozione_della_forza_dei_giganti
 **tipo:** Pozione
 **rarita:** rarità variabile 
 
@@ -2184,79 +2534,101 @@ Quando il personaggio beve questa pozione, il suo punteggio di Forza cambia per 
 **Pozione della forza dei giganti (delle nuvole)** 27 Molto rara
 **Pozione della forza dei giganti (delle tempeste)** 29 Leggendaria
 
-## Pozione del respirare sott'acqua**
+---
 
+## Pozione del respirare sott'acqua**
+**id:** pozione_del_respirare_sott'acqua**
 **tipo:** Pozione
 **rarita:** non comune
 
 Il personaggio può respirare sott'acqua per 24 ore dopo aver bevuto questa pozione.Il suo liquido verde torbido ha un odore salmastro e al suo interno galleggia una bolla simile a una medusa.
 
-## Pozione di amicizia con gli animali
+---
 
+## Pozione di amicizia con gli animali
+**id:** pozione_di_amicizia_con_gli_animali
 **tipo:** Pozione
 **rarita:** non comune
 
 Quando il personaggio beve questa pozione, può lanciare la versione di 3º livello dell'incantesimo amicizia con gli animali (CD del tiro salvezza 13).Agitando il liquido melmoso di questa pozione si notano alcuni piccoli oggetti al suo interno: una squama di pesce, la piuma di un colibrì, l'artiglio di un gatto o un pelo di scoiattolo.
 
-## Pozione di chiaroveggenza
+---
 
+## Pozione di chiaroveggenza
+**id:** pozione_di_chiaroveggenza
 **tipo:** Pozione
 **rarita:** rara 
 
 Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo chiaroveggenza (non è richiesta la concentrazione).
 Nel liquido giallastro galleggia un globo oculare, che scompare quando la pozione viene aperta.
 
-## Pozione di crescita
+---
 
+## Pozione di crescita
+**id:** pozione_di_crescita
 **tipo:** Pozione
 **rarita:** non comune 
 
 Quando il personaggio beve questa pozione, ottiene l'effetto "ingrandire" dell'incantesimo ingrandire/ridurre per 10 minuti (non è richiesta la concentrazione).All'interno della pozione è visibile un piccolo nucleo rosso che si espande progressivamente fino a tingere tutto il liquido trasparente intorno a esso per poi contrarsi fino a diventare un granello minuscolo. Agitare la bottiglia non interrompe il processo.
 
-## Pozione di diminuzione
+---
 
+## Pozione di diminuzione
+**id:** pozione_di_diminuzione
 **tipo:** Pozione
 **rarita:** rara 
 
 Quando il personaggio beve questa pozione, ottiene l'effetto "ridurre" dell'incantesimo ingrandire/ridurre per 1d4 ore (non è richiesta la concentrazione).All'interno della pozione è visibile un nucleo rosso che si contrae progressivamente fino a diventare un granello minuscolo per poi esplodere e tingere tutto il liquido trasparente intorno a esso. Agitare la bottiglia non interrompe il processo.
 
-## Pozione di eroismo
+---
 
+## Pozione di eroismo
+**id:** pozione_di_eroismo
 **tipo:** Pozione
 **rarita:** rara
 
 Quando il personaggio beve questa pozione, ottiene 10 punti ferita temporanei per 1 ora. Per la stessa durata, il personaggio è sotto l'effetto dell'incantesimo benedizione (non è richiesta la concentrazione).Il liquido blu della pozione genera bolle e vapore, come se stesse ribollendo.
 
-## Pozione di invisibilità
+---
 
+## Pozione di invisibilità
+**id:** pozione_di_invisibilità
 **tipo:** Pozione
 **rarita:** rara
 
 Il contenitore di questa pozione sembra vuoto, ma pesa come se al suo interno ci fosse un liquido. Quando il personaggio beve la pozione, diventa invisibile per 1 ora. L'effetto termina in anticipo se il personaggio effettua un tiro per colpire, infligge danni o lancia un incantesimo.
 
-## Pozione di invulnerabilità
+---
 
+## Pozione di invulnerabilità
+**id:** pozione_di_invulnerabilità
 **tipo:** Pozione
 **rarita:** rara 
 
 Dopo aver bevuto questa pozione, il personaggio ottiene resistenza a tutti i danni per 1 minuto.Il liquido pastoso della pozione sembra ferro fuso.
 
-## Pozione di lettura della mente
+---
 
+## Pozione di lettura della mente
+**id:** pozione_di_lettura_della_mente
 **tipo:** Pozione
 **rarita:** rara
 
 Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo individuazione dei pensieri (CD del tiro salvezza 13) per 10 minuti (non è richiesta la concentrazione). Nel denso liquido violaceo di questa pozione  fluttua una nuvola ovoidale di colore rosa.
 
-## Pozione di longevità
+---
 
+## Pozione di longevità
+**id:** pozione_di_longevità
 **tipo:** Pozione
 **rarita:** molto rara
 
 Quando il personaggio beve questa pozione, la sua età fisica viene ridotta di 1d6 + 6 anni, fino a un minimo di 13 anni. Ogni volta che il personaggio beve un'ulteriore pozione di longevità, c'è una probabilità cumulativa del 10% che invece invecchi di 1d6 + 6 anni.Nel liquido ambrato di questa pozione galleggia un minuscolo cuore che, contro ogni logica, continua a battere. Quest'ingrediente svanisce una volta aperta la pozione.
 
-## Pozione di resistenza
+---
 
+## Pozione di resistenza
+**id:** pozione_di_resistenza
 **tipo:** Pozione
 **rarita:** non comune 
 
@@ -2275,30 +2647,38 @@ Quando beve questa pozione, il personaggio ottiene resistenza per 1 ora a un tip
 **9** Tuono
 **10** Veleno
 
-## Pozione di scalare
+---
 
+## Pozione di scalare
+**id:** pozione_di_scalare
 **tipo:** Pozione
 **rarita:** comune 
 
 Quando il personaggio beve questa pozione, ottiene una velocità di scalata pari alla sua velocità base sul terreno per 1 ora. Per la stessa durata, dispone anche di vantaggio alle prove di Forza (Atletica) effettuate per scalare.La pozione è composta da strati separati di colore marrone, argento e grigio, simili a strati geologici sovrapposti. Agitando la pozione, gli strati non si mescolano.
 
-## Pozione di velocità
+---
 
+## Pozione di velocità
+**id:** pozione_di_velocità
 **tipo:** Pozione
 **rarita:** molto rara 
 
 Quando il personaggio beve questa pozione, ottiene l'effetto dell'incantesimo velocità per 1 minuto (non è richiesta la concentrazione) senza patire la sensazione di letargia che solitamente ne accompagna la conclusione.
 Il fluido giallo della pozione è striato di nero e vortica costantemente.
 
-## Pozione di vitalità
+---
 
+## Pozione di vitalità
+**id:** pozione_di_vitalità
 **tipo:** Pozione
 **rarita:** molto rara 
 
 Quando il personaggio beve questa pozione, rimuove ogni livello di indebolimento accumulato e pone fine alla condizione avvelenato su di sé. Per le 24 ore successive, recupera il numero massimo di punti ferita per ogni Dado Vita che spende.Il liquido cremisi della pozione emana una luce fioca che pulsa regolarmente a un ritmo che ricorda il battito cardiaco.
 
-## Pozione di volare
+---
 
+## Pozione di volare
+**id:** pozione_di_volare
 **tipo:** Pozione
 **rarita:** molto rara 
 
@@ -2306,16 +2686,20 @@ Quando il personaggio beve questa pozione, ottiene una velocità di volo pari al
 aria quando l'effetto della pozione termina, cade a meno che non possieda altri mezzi per mantenersi in aria.
 Il liquido trasparente di questa pozione rimane sospeso nella parte superiore del contenitore e al suo interno sono visibili alcune impurità biancastre simili a nuvole.
 
-## Pozione velenosa
+---
 
+## Pozione velenosa
+**id:** pozione_velenosa
 **tipo:** Pozione
 **rarita:** non comune
 
 Questa mistura ha l'aspetto, l'odore e il sapore di una pozione di guarigione o altre pozioni benefiche. 
 In realtà, si tratta di un veleno mascherato da  un'illusione magica. L'incantesimo identificare rivela la sua vera natura.Se il personaggio la beve, subisce 4d6 danni da veleno e deve superare un tiro salvezza su Costi-tuzione con CD 13, altrimenti sarà avvelenato per 1 ora.
 
-## Pozioni di guarigione
+---
 
+## Pozioni di guarigione
+**id:** pozioni_di_guarigione
 **tipo:** Pozione
 **rarita:** variabile 
 
@@ -2329,8 +2713,10 @@ A prescindere dalla sua potenza, il liquido rosso della pozione brilla quando vi
 **Pozione di guarigione (superiore)** 8d4 + 8 Rara
 **Pozione di guarigione (suprema)** 10d4 + 20 Molto rara
 
-## Pozzo dei mondi
+---
 
+## Pozzo dei mondi
+**id:** pozzo_dei_mondi
 **tipo:** Oggetto meraviglioso
 **rarita:** leggendario
 
@@ -2340,16 +2726,20 @@ Il personaggio può effettuare un'azione di Magia per srotolare il pozzo dei mon
 Il portale rimane aperto finché una creatura entro 1,5 metri da esso non effettua un'azione di Magia per afferrarne i lembi e richiuderlo.
 Una volta che ha aperto un portale, il pozzo dei mondi non può essere riutilizzato per 1d8 ore.
 
-## Pugnale avvelenato
+---
 
+## Pugnale avvelenato
+**id:** pugnale_avvelenato
 **tipo:** Arma (pugnale)
 **rarita:** rara 
 
 Il personaggio ottiene un bonus di +1 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica.Può effettuare un'azione bonus per ricoprire magicamente la lama di veleno. Il veleno resta sulla lama per 1 minuto o finché un attacco sferrato con quest'arma non colpisce una creatura. La creatura colpita deve superare un tiro salvezza su Costi-tuzione con CD 15, altrimenti subisce 2d10 danni da veleno e resta avvelenata per 1 minuto. L'arma 
 non può più essere utilizzata in questo modo fino  all'alba successiva.
 
-## Randello pesante del tuono
+---
 
+## Randello pesante del tuono
+**id:** randello_pesante_del_tuono
 **tipo:** Arma (randello pesante) (richiede sintonia)
 **rarita:** molto rara
 
@@ -2363,8 +2753,10 @@ fino all'alba successiva.
 **Tuono possente**
 Effettuando un'azione di Magia, il personaggio colpisce una superficie dura con l'arma creando un possente rombo di tuono udibile fino a 90 metri di distanza. Inoltre, crea un cono di 9 metri di energia tonante. Ogni creatura all'interno del cono deve superare un tiro salvezza su Forza con CD 15, altrimenti cadrà a terra prona. Gli oggetti non magici nel cono che non sono indossati o trasportati subiscono 3d8 danni da tuono.
 
-## Ruba nove vite
+---
 
+## Ruba nove vite
+**id:** ruba_nove_vite
 **tipo:** Arma (qualsiasi arma semplice o da guerra) (richiede sintonia)
 **rarita:** molto rara
 
@@ -2373,16 +2765,20 @@ Il personaggio ottiene un bonus di +2 ai tiri per col-pire e a quelli per i dann
 **Furto vitale**
 L'arma ha 1d8 + 1 cariche. Se il personaggio usa quest'arma per attaccare una creatura con meno di 100 punti ferita e ottiene un 20 sul d20 al tiro per colpire, il bersaglio deve superare un tiro salvezza su Costituzione con CD 15, altrimenti l'arma risucchierà l'energia vitale dal suo corpo facendolo morire all'istante. Costrutti e non morti superano automaticamente il tiro salvezza. L'arma perde 1 carica se la creatura viene uccisa in questo modo. Quando termina le cariche, perde questa proprietà.
 
-## Sacro vendicatore
+---
 
+## Sacro vendicatore
+**id:** sacro_vendicatore
 **tipo:** Arma (qualsiasi arma semplice o da guerra) (richiede sintonia con un paladino)
 **rarita:** leggendaria
 
 Il personaggio ottiene un bonus di +3 ai tiri per colpire e ai tiri per i danni effettuati con quest'arma magica. Quando colpisce con quest'arma un immondo o un non morto, quella creatura subisce 2d10 danni radiosi extra.
 Mentre il personaggio impugna l'arma sguainata, crea un'emanazione di 3 metri che si origina da lui. Il personaggio e tutte le creature amichevoli nei suoi confronti situate all'interno dell'emanazione dispongono di vantaggio ai tiri salvezza contro gli incantesimi e gli altri effetti magici. Se il perso-naggio ha 17 o più livelli nella classe del paladino, il raggio dell'emanazione aumenta a 9 metri.
 
-## Scarabeo di protezione
+---
 
+## Scarabeo di protezione
+**id:** scarabeo_di_protezione
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendaria
 
@@ -2397,46 +2793,58 @@ Il personaggio dispone di vantaggio ai tiri salvezza contro gli incantesimi.
 **Salvaguardia**
 Lo scarabeo ha 12 cariche. Se il personaggio fallisce un tiro salvezza contro un incantesimo di necromanzia o un effetto nocivo proveniente da un non morto, può usare la sua reazione e consumare 1 carica per trasformare il tiro salvezza fallito in un successo. Una volta consumata l'ultima carica, lo scarabeo si sbriciola ed è distrutto.
 
-## Scimitarra della velocità
+---
 
+## Scimitarra della velocità
+**id:** scimitarra_della_velocità
 **tipo:** Arma (scimitarra) (richiede sintonia)
 **rarita:** molto rara
 
 Il personaggio ottiene un bonus di +2 ai tiri per col-pire e a quelli per i danni effettuati con  quest'arma magica. Può inoltre effettuare un attacco con quest'arma come azione bonus a ogni suo turno.
 
-## Scopa volante
+---
 
+## Scopa volante
+**id:** scopa_volante
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Questa scopa di legno funziona come una normale scopa fino a quando il personaggio non ci monta a cavallo ed effettua un'azione di Magia per farla sollevare in aria; a quel punto può essere cavalcata in volo. Ha una velocità di volo pari a 15 metri e può trasportare fino a 200 kg di peso, ma con un carico superiore a 100 kg la sua velocità di volo scende a 9 metri. La scopa smette di fluttuare quando il personaggio atterra o quando non è più in sella.
 Il personaggio può effettuare un'azione di Magia per inviare la scopa in volo da sola fino a una destinazione entro 1,5 chilometri da sé nominando il luogo in questione, purché abbia familiarità con esso. La scopa torna dal personaggio quando questi effettua un'azione di Magia e usa una parola  d'ordine se la scopa si trova ancora entro 1,5 chilo-metri da lui.
 
-## Scudo +1, +2 o +3
+---
 
+## Scudo +1, +2 o +3
+**id:** scudo_+1,_+2_o_+3
 **tipo:** Armatura (scudo)
 **rarita:** non comune (+1), rara (+2) o molto rara (+3)
 
 Finché il personaggio impugna questo scudo, ha 
 un bonus alla Classe Armatura determinato dalla rarità dello scudo, oltre al normale bonus alla CA fornito da esso.
 
-## Scudo animato
+---
 
+## Scudo animato
+**id:** scudo_animato
 **tipo:** Armatura (scudo) (richiede sintonia)
 **rarita:** molto raro
 
 Il personaggio che impugna questo scudo può usare un'azione bonus per animarlo. Lo scudo si solleva in aria e fluttua nello spazio del personaggio per 
 proteggerlo come quando viene impugnato normalmente, ma lasciando le mani libere. Lo scudo resta animato per 1 minuto, finché il personaggio non usa un'azione bonus per terminare l'effetto o finché il personaggio non diventa incapacitato o muore. A questo punto, lo scudo cade a terra o torna in mano al personaggio, se quest'ultimo ha almeno una mano libera.
 
-## Scudo anti-incantesimi
+---
 
+## Scudo anti-incantesimi
+**id:** scudo_anti-incantesimi
 **tipo:** Armatura (scudo) (richiede sintonia)
 **rarita:** molto raro
 
 Mentre il personaggio impugna questo scudo, dispone di vantaggio ai tiri salvezza contro gli incantesimi e altri effetti magici. Inoltre, i tiri per colpire con incantesimo contro di lui subiscono svantaggio.
 
-## Scudo attiraproiettili
+---
 
+## Scudo attiraproiettili
+**id:** scudo_attiraproiettili
 **tipo:** Armatura (scudo) (richiede sintonia)
 **rarita:** rara
 
@@ -2445,15 +2853,19 @@ Mentre il personaggio impugna questo scudo, ottiene resistenza ai danni inflitti
 **Maledizione**
 Questo scudo è maledetto. Entrare in sintonia con esso rende il personaggio maledetto finché su di lui non viene lanciato l'incantesimo rimuovi maledizione o un'altra magia simile. Rimuovere lo scudo non basta per porre fine alla maledizione. Ogni volta che un attacco con arma a distanza prende di mira una creatura entro 3 metri dal personaggio, quest'ultimo diventa il bersaglio dell'attacco a causa della maledizione.
 
-## Scudo catturafrecce
+---
 
+## Scudo catturafrecce
+**id:** scudo_catturafrecce
 **tipo:** Armatura (scudo) (richiede sintonia)
 **rarita:** rara
 
 Il personaggio che impugna questo scudo riceve un bonus di +2 alla Classe Armatura contro gli attacchi a distanza. Questo bonus è cumulativo al normale bonus alla CA dello scudo.Ogni volta che un avversario effettua un tiro per colpire a distanza contro un bersaglio entro 1,5 metri dal possessore dello scudo, quest'ultimo può effettuare una reazione per diventare il bersaglio dell'attacco al posto di quello inteso.
 
-## Scudo del cavaliere
+---
 
+## Scudo del cavaliere
+**id:** scudo_del_cavaliere
 **tipo:** Armatura (scudo) (richiede sintonia)
 **rarita:** molto raro
 
@@ -2466,15 +2878,19 @@ Con una reazione, quando il personaggio o un suo alleato che è in grado di vede
 **Sfondamento possente**
 Durante l'azione di Attacco, il personaggio può effettuare uno dei tiri per colpire usando lo scudo contro un bersaglio entro 1,5 metri da sé. Al tiro per colpire applica il suo bonus di competenza e il modificatore di Forza. Se il colpo va a segno, lo scudo infligge danni da forza al bersaglio pari a 2d6 + 2 più il modifica-tore di Forza del personaggio. Se il bersaglio è una creatura, la spingerà fino a 3 metri lontano da sé in linea retta. Inoltre, se la creatura è della stessa taglia del personaggio o inferiore, cadrà a terra prona.
 
-## Scudo sentinella
+---
 
+## Scudo sentinella
+**id:** scudo_sentinella
 **tipo:** Armatura (scudo)
 **rarita:** non comune
 
 Finché il personaggio impugna questo scudo, dispone di vantaggio ai tiri per l'iniziativa e alle prova di Saggezza (Percezione). Sullo scudo è inciso il simbolo di un occhio.
 
-## Sfera annientatrice
+---
 
+## Sfera annientatrice
+**id:** sfera_annientatrice
 **tipo:** Oggetto meraviglioso 
 **rarita:* leggendario
 
@@ -2493,8 +2909,10 @@ Se la sfera entra in contatto con un portale planare, come quello creato dall'in
 **51–85** La sfera si muove attraverso il portale o nello spazio extradimensionale.
 **86–00** Uno squarcio nello spazio trascina la sfera e ogni creatura e oggetto entro 54 metri da essa su un piano di esistenza casuale.
 
-## Sfera del drago
+---
 
+## Sfera del drago
+**id:** sfera_del_drago
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** manufatto
 
@@ -2516,52 +2934,66 @@ La sfera ha 7 cariche e recupera 1d4 + 3 cariche consumate all'alba di ogni gior
 Mentre il personaggio con-trolla la sfera, può effettuare un'azione di Magia per farle inviare un richiamo telepatico che si estende in tutte le direzioni per 60 chilometri. I draghi cromatici situati entro quel raggio sono obbligati a raggiungere la sfera il più velocemente possibile lungo il percorso più diretto. Le divinità dei draghi come Tiamat sono immuni a questo richiamo. I dra-ghi cromatici attirati dalla sfera potrebbero essere ostili nei confronti del personaggio per essere stati obbligati ad agire contro il loro volere. Una volta che il personaggio ha usato questa proprietà, non può riutilizzarla per 1 ora.
 Distruggere una sfera. Una sfera del drago ha CA 20 ed è distrutta se subisce danni da un'arma +3 o da un incantesimo disintegrazione. Non può essere danneggiata in nessun altro modo.
 
-## Sfera di cristallo
+---
 
+## Sfera di cristallo
+**id:** sfera_di_cristallo
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** molto raro
 
 Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa.
 
-## Sfera di cristallo della lettura del pensiero
+---
 
+## Sfera di cristallo della lettura del pensiero
+**id:** sfera_di_cristallo_della_lettura_del_pensiero
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendario
 
 Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa. Inoltre, può lanciare individuazione dei pensieri (CD del tiro salvezza 17) rivolto alle creature che è in grado di vedere situate entro 9 metri dal sensore dell'incantesimo. Non è obbligato a concentrarsi su 
 individuazione dei pensieri per mantenerlo per la sua durata, ma l'incantesimo termina se scrutare viene interrotto.
 
-## Sfera di cristallo della telepatia
+---
 
+## Sfera di cristallo della telepatia
+**id:** sfera_di_cristallo_della_telepatia
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendario
 
 Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa. Inoltre, può comunicare telepaticamente con le creature che è in grado di vedere situate entro 9 metri dal sensore dell'incantesimo. Può anche lanciare suggestione (CD del tiro salvezza 17) attraverso il sensore su una di queste creature. Non è obbligato a concentrarsi su suggestione per man-tenerlo per la sua durata, ma l'incantesimo termina se scrutare viene interrotto. Non è possibile lanciare suggestione in questo modo fino all'alba successiva.
 
-## Sfera di cristallo della visione del vero
+---
 
+## Sfera di cristallo della visione del vero
+**id:** sfera_di_cristallo_della_visione_del_vero
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendario
 
 Toccando questa sfera di cristallo, il personaggio può lanciare scrutare (CD del tiro salvezza 17) con essa. Inoltre, dispone di vista pura entro un raggio di 36 metri centrato sul sensore dell'incantesimo.
 
-## Solvente universale
+---
 
+## Solvente universale
+**id:** solvente_universale
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendario
 
 Questa fiala contiene un liquido lattiginoso che emana un forte odore di alcool. Quando viene trovata, una fiala ne contiene (1d6 + 1) x 30 grammi.
 Il personaggio può effettuare un'azione di Utilizzo per versare 30 grammi o più di solvente su una superficie a portata. Il liquido dissolve istanta-neamente qualsiasi materiale o sostanza adesiva toccata, inclusa la colla meravigliosa, che copra fino a un'area quadrata con lato di 30 centimetri.
 
-## Spada affilata
+---
 
+## Spada affilata
+**id:** spada_affilata
 **tipo:** Arma (falcione, scimitarra, spada lunga o spadone) (richiede sintonia)
 **rarita:** molto rara
 
 Quando il personaggio attacca un oggetto con quest'arma magica e l'attacco va a segno, mas-simizza i dadi dei danni della sua arma contro il bersaglio.Quando il personaggio attacca una creatura con quest'arma e ottiene 20 sul d20 al tiro per colpire, il bersaglio subisce 14 danni taglienti extra e ottiene 1 livello di indebolimento.
 
-## Spada danzante
+---
 
+## Spada danzante
+**id:** spada_danzante
 **tipo:** Arma (scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
 **rarita:** molto rara
 
@@ -2572,38 +3004,48 @@ punto entro 9 metri da sé. Come parte della stessa azione bonus, il personaggio
 Dopo il quarto attacco, l'arma fluttuante vola verso il personaggio e cerca di tornare nella sua mano. Se il personaggio non ha una mano libera, l'arma cade a terra ai suoi piedi. Se non esiste un percorso sgombro fino al personaggio, la spada si avvicina a lui quanto più possibile e poi cade a 
 terra. Smette di fluttuare anche se il personaggio la prende in mano o se si allontana più di 9 metri da essa.
 
-## Spada del ferimento
+---
 
+## Spada del ferimento
+**id:** spada_del_ferimento
 **tipo:** Arma (falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
 **rarita:** rara
 
 Quando il personaggio colpisce una creatura con un attacco utilizzando quest'arma magica, il bersaglio subisce 2d6 danni necrotici extra e deve superare un tiro salvezza su Costituzione con CD 15, altrimenti non potrà recuperare punti ferita per 1 ora. Il bersaglio può ripetere il tiro salvezza alla fine di ogni suo turno. Se lo supera, l'effetto svanisce.
 
-## Spada del furto vitale
+---
 
+## Spada del furto vitale
+**id:** spada_del_furto_vitale
 **tipo:** Arma (falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
 **rarita:** rara
 
 Quando il personaggio attacca una creatura con quest'arma magica e ottiene 20 sul d20 al tiro per colpire, il bersaglio subisce 15 danni necrotici extra 
 se non è un costrutto o un non morto. Inoltre, il personaggio ottiene un numero di punti ferita tem-poranei pari alla quantità di danni necrotici inferti.
 
-## Spada vorpal
+---
 
+## Spada vorpal
+**id:** spada_vorpal
 **tipo:** Arma (falcione, scimitarra, spada lunga o spadone) (richiede sintonia)
 **rarita:** leggendaria
 
 Il personaggio ottiene un bonus di +3 ai tiri per colpire e a quelli per i danni effettuati con quest'arma magica. Inoltre, l'arma ignora la resistenza ai danni taglienti.Quando il personaggio usa quest'arma per attaccare una creatura che abbia almeno una testa e ottiene 20 sul d20 al tiro per colpire, taglia una delle sue teste. La creatura muore se non riesce a sopravvivere senza testa. L'effetto non si applica a una creatura che è immune ai danni taglienti, non possiede o non ha bisogno di una testa, oppure se il GM decide che la creatura è troppo grande perché la sua testa possa essere tagliata con quest'arma. In tal caso, la creatura subisce 30 danni taglienti extra dal colpo. Se la creatura ha Resistenza leggen-daria, può consumare un utilizzo giornaliero di quel tratto per evitare di perdere la testa e subire invece i danni extra.
 
-## Spadone del gelo
+---
 
+## Spadone del gelo
+**id:** spadone_del_gelo
 **tipo:** Arma (falcione, scimitarra, spada corta, spada lunga, spadone o stocco) (richiede sintonia)
 **rarita:** molto rara
 
 Quando il personaggio colpisce con un tiro per colpire effettuando un attacco con quest'arma magica, il bersaglio subisce 1d6 danni da freddo extra. Inoltre, finché impugna l'arma, il personaggio ha resistenza ai danni da fuoco.A temperature gelide, l'arma proietta luce intensa in un raggio di 3 metri e luce fioca per altri 3 metri.
 Quando il personaggio sfodera quest'arma, può estinguere tutte le fiamme non magiche entro un raggio di 9 metri da sé. Una volta usata, questa proprietà non può essere riutilizzata per 1 ora.
 
-## Specchio imprigionante
+---
 
+## Specchio imprigionante
+**id:** specchio_imprigionante
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
@@ -2616,8 +3058,10 @@ Mentre si trova entro 1,5 metri dallo specchio, il personaggio può effettuare u
 In modo analogo, il personaggio può effettuare un'azione di Magia e utilizzare una seconda parola d'ordine per liberare una creatura intrappolata che compare, insieme a tutto ciò che possiede, nello spazio libero più vicino allo specchio, con le spalle rivolte verso di esso.
 Collocare lo specchio all'interno di uno spazio extradimensionale, come quello creato da una borsa conservante, un buco portatile o da altri oggetti simili, distrugge istantaneamente entrambi gli oggetti e apre un portale sul Piano Astrale. Il portale ha origine nel punto in cui uno dei due oggetti è stato inserito nell'altro. Tutte le creature entro 3 metri dal portale e senza copertura totale vengono attirate al suo interno e finiscono in un luogo casuale del Piano Astrale; dopodiché, il portale si chiude. Il portale è a senso unico e non può essere riaperto.
 
-## Statuina del potere meraviglioso
+---
 
+## Statuina del potere meraviglioso
+**id:** statuina_del_potere_meraviglioso
 **tipo:** Oggetto meraviglioso
 **rarita:** rarità variabile 
 
@@ -2675,21 +3119,27 @@ GS 0 (PE 0; BC +2)
 Questa statuina di ossidiana levigata può trasformarsi in un cavallo degli incubi per una durata massima di 24 ore. Il cavallo degli incubi combatte solo per difendersi. Una volta usata, non può essere riutilizzata finché non sono trascorsi 5 giorni.
 Ogni volta che il personaggio usa la statuina esiste una probabilità del 10% che il cavallo degli incubi ignori i suoi ordini, compreso quello di riprendere la forma di statuina. Se il personaggio è in sella al cavallo degli incubi quando quest'ultimo ignora i suoi ordini, entrambi vengono istantaneamente trasportati in un luogo casuale sul piano  dell'Ade, dove il cavallo degli incubi si ritrasforma in  statuina.
 
-## Stivali alati
+---
 
+## Stivali alati
+**id:** stivali_alati
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Questi stivali hanno 4 cariche e recuperano 1d4 cariche consumate all'alba di ogni giorno. Mentre indossa gli stivali, il personaggio può effettuare un'azione di Magia per consumare 1 carica, ottenendo una velocità di volo di 9 metri per 1 ora. Se il personaggio è in volo quando la durata si esaurisce, scende a una velocità di 9 metri per round finché non atterra.
 
+---
+
 ## Stivali della levitazione
-**tipo:** Oggetto meraviglioso (richiede sintonia)
+**id:** stivali_della_levitazione**tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Indossando questi stivali, il personaggio può lanciare un incantesimo levitazione su di sé.
 
-## Stivali della velocità
+---
 
+## Stivali della velocità
+**id:** stivali_della_velocità
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
@@ -2697,8 +3147,10 @@ Il personaggio che indossa questi stivali può effettuare un'azione bonus per ba
 i tacchi, pone fine all'effetto.
 Dopo avere usato la proprietà degli stivali per un totale di 10 minuti, la magia smette di funzionare finché il personaggio non completa un riposo lungo.
 
-## Stivali dell'inverno
+---
 
+## Stivali dell'inverno
+**id:** stivali_dell'inverno
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
@@ -2709,30 +3161,38 @@ Ottiene resistenza ai danni da freddo e può tollerare temperature fino a -17 gr
 **Passo invernale**
 Ignora il terreno difficile dovuto al ghiaccio o alla neve.
 
-## Stivali elfici
+---
 
+## Stivali elfici
+**id:** stivali_elfici
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Indossando questi stivali, il personaggio non fa alcun rumore quando cammina, a prescindere dalla superficie su cui si muove. Inoltre, dispone di van-taggio alle prove di Destrezza (Furtività).
 
-## Stivali molleggiati
+---
 
+## Stivali molleggiati
+**id:** stivali_molleggiati
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Quando il personaggio indossa questi stivali, la sua velocità è pari a 9 metri, a meno che la velocità normale non sia superiore. Inoltre, la velocità non viene ridotta se il personaggio trasporta un peso superiore alla propria capacità di carico o indossa un'armatura pesante.
 Una volta per ogni turno, può saltare fino a 9 metri usando solo 3 metri di movimento.
 
-## Talismano anti-veleno
+---
 
+## Talismano anti-veleno
+**id:** talismano_anti-veleno
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Questa delicata catenella d'argento ha come pendente una gemma nera con taglio a brillante. Finché è indosso al personaggio, quest'ultimo ha immunità alla condizione avvelenato e ai danni da veleno.
 
-## Talismano del bene puro
+---
 
+## Talismano del bene puro
+**id:** talismano_del_bene_puro
 **tipo:** Oggetto meraviglioso (richiede sintonia con un chierico o un paladino)
 **rarita:* leggendario
 
@@ -2744,8 +3204,10 @@ Il talismano ha 7 cariche. Mentre il personaggio lo indossa o lo impugna può ef
 **Simbolo sacro**
 Il personaggio può usare il talismano come simbolo sacro. Mentre lo indossa o lo impugna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
 
-## Talismano della rimarginazione
+---
 
+## Talismano della rimarginazione
+**id:** talismano_della_rimarginazione
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
@@ -2757,23 +3219,29 @@ Ogni volta che il personaggio tira un Dado Vita per recuperare punti ferita, rad
 **Salvaguardia vitale**
 Ogni volta che il personaggio effettua un tiro salvezza contro morte, può trasformare un risultato di 9 o inferiore in un 10, ottenendo un successo anziché un fallimento.
 
-## Talismano della salute
+---
 
+## Talismano della salute
+**id:** talismano_della_salute
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** non comune
 
 Finché il personaggio indossa questo pendente, può effettuare un'azione di Magia per recuperare 2d4 + 2 punti ferita. Una volta usata, questa proprietà non 
 può essere riutilizzata fino all'alba successiva.Inoltre, finché indossa il pendente, il personaggio dispone di vantaggio ai tiri salvezza effettuati per evitare o porre fine alla condizione avvelenato.
 
-## Talismano della sfera
+---
 
+## Talismano della sfera
+**id:** talismano_della_sfera
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendario
 
 Finché il personaggio impugna o indossa questo talismano, dispone di vantaggio alle prove di Intelligenza (Arcano) effettuate per controllare la sfera annientatrice. Inoltre, quando inizia il proprio turno avendo il controllo di una sfera annientatrice, può effettuare un'azione di Magia per spostarla di 3 metri più una distanza aggiuntiva pari a 3 metri × il suo modificatore di Intelligenza. Il movimento non deve essere per forza effettuato in linea retta.
 
-## Talismano del male estremo
+---
 
+## Talismano del male estremo
+**id:** talismano_del_male_estremo
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** leggendario
 
@@ -2783,8 +3251,10 @@ Quest'oggetto è un simbolo di malvagità impenitente. Se qualsiasi creatura che
 Il talismano ha 6 cariche. Mentre il personaggio lo indossa o lo impugna può effet-tuare un'azione di Magia per consumare 1 carica e prendere di mira una creatura che è in grado di vedere a terra entro 36 metri da sé. Dopodiché, si apre una fenditura sotto il bersaglio, il quale effettua un tiro salvezza su Destrezza con CD 20. Se il bersaglio è un celestiale, effettua la prova con svantaggio. In caso di fallimento, cade nella fenditura e viene distrutto senza lasciare traccia. In caso di successo, non cade nella fenditura ma subisce 4d6 danni psichici. In ognuno dei due casi, la fenditura si richiude senza lasciare alcuna traccia della sua esistenza. Quando il personaggio consuma l'ultima carica, il talismano si dissolve in una melma  dall'odore rivoltante ed è distrutto.
 Simbolo sacro. Il personaggio può usare il talismano come simbolo sacro. Mentre lo indossa o lo impugna, ottiene un bonus di +2 ai tiri per colpire con incantesimo.
 
-## Tappeto volante
+---
 
+## Tappeto volante
+**id:** tappeto_volante
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
@@ -2797,39 +3267,49 @@ Il personaggio può far fluttuare e volare il tappeto volante effettuando un'azi
 **56–80** 150 cm × 210 cm 300 kg 12 metri
 **81–00** 180 cm × 270 cm 400 kg 9 metri
 
-## Tomo del comando e dell'influenza
+---
 
+## Tomo del comando e dell'influenza
+**id:** tomo_del_comando_e_dell'influenza
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro
 
 Questo libro contiene una serie di suggerimenti su come persuadere e ispirare gli altri, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Carisma aumenta di 2, fino a un 
 massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
 
-## Tomo della comprensione
+---
 
+## Tomo della comprensione
+**id:** tomo_della_comprensione
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro 
 
 Questo libro contiene la descrizione di una serie di esercizi di intuizione e percezione, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il contenuto del libro e ad applicarne i precetti, il suo punteggio di Saggezza aumenta di 2, fino a un massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
 
-## Tomo del nitido pensiero
+---
 
+## Tomo del nitido pensiero
+**id:** tomo_del_nitido_pensiero
 **tipo:** Oggetto meraviglioso
 **rarita:** molto raro 
 
 Questo libro contiene la descrizione di una serie di esercizi di logica e memoria, e le sue parole sono cariche di magia. Se il personaggio trascorre 48 ore in un periodo massimo di 6 giorni a studiare il con-tenuto del libro e ad applicarne i precetti, il suo punteggio di Intelligenza aumenta di 2, fino a un 
 massimo di 30. Una volta letto, il libro perde il suo potere: lo riacquisterà dopo un secolo.
 
-## Tridente del comando dei pesci
+---
 
+## Tridente del comando dei pesci
+**id:** tridente_del_comando_dei_pesci
 **tipo:** Arma (tridente) (richiede sintonia)
 **rarita:** non comune
 
 Quest'arma magica possiede 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. 
 Finché il personaggio la trasporta, può consumare 1 carica e usarla per lanciare dominare bestie (CD del tiro salvezza 15) su una bestia dotata di velocità di nuoto.
 
-## Tunica degli occhi
+---
 
+## Tunica degli occhi
+**id:** tunica_degli_occhi
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
@@ -2844,8 +3324,10 @@ La tunica conferisce vantaggio alle prove di Saggezza (Percezione) basate sulla 
 **Debolezze**
 Un incantesimo luce lanciato sulla tunica o un incantesimo luce diurna lanciato entro 1,5 metri dalla tunica rende il personaggio accecato per 1 minuto. Alla fine di ogni suo turno, il perso-naggio effettua un tiro salvezza su Costituzione (CD 11 per luce o CD 15 per luce diurna), terminando la cecità in caso di successo.
 
-## Tunica degli oggetti utili
+---
 
+## Tunica degli oggetti utili
+**id:** tunica_degli_oggetti_utili
 **tipo:** Oggetto meraviglioso
 **rarita:** non comune 
 
@@ -2868,16 +3350,20 @@ La tunica possiede due copie di ognuna delle seguenti toppe:• Asta• Corda (a
 **91–96** Una finestra (60 per 120 centimetri, profonda fino a 60 centimetri) che il personaggio può collocare su una superficie verticale entro la sua portata
 **97–00** Ariete portatile
 
-## Tunica dei colori scintillanti
+---
 
+## Tunica dei colori scintillanti
+**id:** tunica_dei_colori_scintillanti
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** molto raro
 
 Questa tunica ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il perso-naggio la indossa, può effettuare un'azione di Magia e consumare 1 carica per far comparire sull'indumento un motivo cangiante dai colori sgargianti, che permane fino alla fine del suo turno successivo. 
 In questo frangente, la tunica emana luce intensa in un raggio di 9 metri e luce fioca per ulteriori 9 metri; le creature che vedono il personaggio hanno svantaggio ai tiri per colpire effettuati con-tro di lui. Inoltre, ogni creatura che si trova entro la luce intensa e che può vedere il personaggio quando la proprietà della tunica è attivata deve superare un tiro salvezza su Saggezza con CD 15, altrimenti diventa stordita finché l'effetto non termina. 
 
-## Tunica dell'arcimago
+---
 
+## Tunica dell'arcimago
+**id:** tunica_dell'arcimago
 **tipo:** Oggetto meraviglioso (richiede sintonia con un mago, uno stregone o un warlock)
 **rarita:** leggendario
 
@@ -2893,23 +3379,29 @@ La CD del tiro salvezza  sull'incantesimo e il bonus di attacco dell'incante-sim
 **Resistenza alla magia**
 Il personaggio dispone di vantaggio ai tiri salvezza contro gli incantesimi e gli altri effetti magici.
 
-## Tunica delle stelle
+---
 
+## Tunica delle stelle
+**id:** tunica_delle_stelle
 **tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** molto raro
 
 Questa tunica, di colore nero o blu scuro, è ricamata con minuscole stelle bianche o argentate. Quando il personaggio la indossa, ottiene un bonus di +1 ai tiri salvezza.Sei stelle nella parte anteriore della tunica, in alto, sono particolarmente grandi. Finché il personaggio indossa la tunica, può effettuare un'azione di Magia per rimuovere una delle stelle e consumarla per lanciare una versione di 5º livello di dardo incan-tato. Ogni giorno al tramonto, 1d6 stelle rimosse ricompaiono sulla tunica.Mentre il personaggio indossa la tunica, può effettuare un'azione di Magia per entrare nel Piano Astrale insieme a tutto ciò che indossa e trasporta 
 e vi rimane finché non effettua un'azione di Magia per tornare sul piano in cui si trovava prima. Il per-sonaggio ricompare nell'ultimo spazio che occupava o, se è occupato, nello spazio libero più vicino.
 
-## Ventaglio
+---
 
+## Ventaglio
+**id:** ventaglio
 **tipo:** Oggetto meraviglioso 
 **rarita:** non comune
 
 Finché il personaggio impugna questo ventaglio, può usarlo per lanciare folata di vento (CD del tiro salvezza 13). Ogni volta che viene utilizzato di nuovo prima dell'alba successiva, c'è una probabilità cumulativa del 20% che non funzioni. Se ciò dovesse accadere, si ridurrà in inutili brandelli non magici.
 
-## Verga dell'allerta
+---
 
+## Verga dell'allerta
+**id:** verga_dell'allerta
 **tipo:** Verga (richiede sintonia)
 **rarita:** molto rara
 
@@ -2927,8 +3419,10 @@ Mentre impugna la verga, il personaggio può usarla per lanciare i seguenti inca
 **Aura protettiva**
 Con un'azione di Magia, il personaggio può piantare l'asta della verga nel terreno; quando lo fa, l'estremità superiore della verga proietta luce intensa in un raggio di 18 metri e luce fioca per altri 18 metri. Finché il personaggio e i suoi alleati si trovano entro il raggio di quella luce intensa, ottengono un bonus di +1 alla Classe Armatura e ai tiri salvezza, e possono percepire la presenza di eventuali creature invisibili che si trovano a loro volta entro la luce intensa.La punta della verga smette di brillare e l'effetto termina dopo 10 minuti o quando una creatura usa un'azione di Magia per estrarla dal terreno. Una volta usata, questa proprietà non può essere  riutilizzata fino all'alba successiva.
 
-## Verga della potenza divina
+---
 
+## Verga della potenza divina
+**id:** verga_della_potenza_divina
 **tipo:** Verga (richiede sintonia)
 **rarita:** leggendaria
 
@@ -2964,16 +3458,20 @@ Quando il personaggio colpisce una creatura con un attacco in mischia usando la 
 Mentre il personaggio impugna la verga, può effettuare un'azione di Magia per costringere tutte le creature situate entro 9 metri da sé che è in grado di vedere a effettuare un tiro salvezza su Saggezza con CD 17. In caso di fallimento, il bersaglio è spaventato per 1 minuto e ripeterà il tiro salvezza alla fine di ogni suo turno. 
 Se lo supera, l'effetto svanisce. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
 
-## Verga della resurrezione
+---
 
+## Verga della resurrezione
+**id:** verga_della_resurrezione
 **tipo:** Verga (richiede sintonia)
 **rarita:** leggendaria
 
 Questa verga ha 5 cariche. Mentre il personaggio la impugna, può usarla per lanciare uno dei seguenti incantesimi: guarigione (consumando 1 carica) o resurrezione (consumando 5 cariche).
 La verga recupera 1 carica consumata all'alba di ogni giorno. Se il personaggio consuma l'ultima carica, deve tirare 1d20. Con un risultato di 1, la verga scompare in un'innocua esplosione abbagliante.
 
-## Verga della sicurezza
+---
 
+## Verga della sicurezza
+**id:** verga_della_sicurezza
 **tipo:** Verga
 **rarita:** molto rara
 
@@ -2981,8 +3479,10 @@ Mentre il personaggio impugna questa verga, può effettuare un'azione di Magia p
 massimo di 200 giorni suddivisi per il numero delle creature presenti (arrotondato per difetto).
 Quando il tempo si esaurisce o il personaggio effettua un'azione di Magia per terminare l'effetto, tutti i visitatori ricompaiono nello spazio che occu-pavano quando il personaggio ha attivato la verga o nello spazio libero più vicino. Una volta utilizzata, questa proprietà non può essere riutilizzata prima che siano trascorsi 10 giorni.
 
-## Verga della sovranità
+---
 
+## Verga della sovranità
+**id:** verga_della_sovranità
 **tipo:** Verga (richiede sintonia)
 **rarita:** rara
 
@@ -2991,22 +3491,28 @@ situata entro 36 metri da sé. Ogni bersaglio deve superare un tiro salvezza su 
 affascinata in questo modo, una creatura considera il personaggio come un capo in cui ha piena fiducia. 
 Se il personaggio o i suoi alleati le fanno del male o se riceve l'ordine di agire in modo contrario alla sua natura, la creatura smette di essere affascinata in questo modo. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.
 
-## Verga dell'assorbimento
+---
 
+## Verga dell'assorbimento
+**id:** verga_dell'assorbimento
 **tipo:** Verga (richiede sintonia)
 **rarita:** molto rara
 
 Mentre impugna questa verga, il personaggio può usare la sua reazione per assorbire un incantesimo che sta bersagliando solo lui e non ha un'area di effetto. L'effetto dell'incantesimo assorbito è annullato e l'energia dell'incantesimo (ma non  l'incantesimo vero e proprio) viene accumulata nella verga. L'energia ha lo stesso livello  dell'incantesimo nel momento in cui è stato lanciato. Un incantesimo annullato si dissipa senza produrre alcun effetto e le risorse utilizzate per lanciarlo vengono sprecate. La verga può assorbire e accumulare fino a 50 livelli di energia nel corso della sua esistenza. Dopo aver assorbito 50 livelli di energia, non può assorbirne altri. Se il personaggio è bersagliato da un incantesimo che non può essere accumulato, la verga non ha alcun effetto su quell'incantesimo.Quando il personaggio entra in sintonia con la verga, scopre quanti livelli di energia  quest'ultima ha assorbito nel corso della propria esistenza e quanti livelli di energia degli incante-simi contiene attualmente.Se il personaggio è un incantatore e impugna la verga, può trasformare l'energia accumulata al suo interno in slot incantesimo e usarli per lanciare gli incantesimi che ha preparato o che conosce. Il personaggio può creare soltanto slot incantesimo di livello pari o inferiore a quello dei propri slot, fino al 5º livello al massimo. Inoltre, usa i livelli accumulati al posto dei propri slot, ma sotto ogni altro aspetto lancia l'incantesimo normalmente. Per esempio, può usare 3 livelli accumulati nella verga come uno slot incantesimo di 3º livello.Una verga appena trovata solitamente ha già 1d10 livelli di energia di incantesimi accumulati. Una verga che non può assorbire altra energia degli incantesimi e a cui non rimane più energia smette di essere un oggetto magico.
 
-## Verga inamovibile
+---
 
+## Verga inamovibile
+**id:** verga_inamovibile
 **tipo:** Verga
 **rarita:** non comune 
 
 Questa verga di ferro è dotata di un tasto su  un'estremità. Il personaggio può effettuare  un'azione di Utilizzo per premere il tasto e fare in modo che la verga si fissi magicamente nel luogo in cui si trova. Finché il personaggio o un'altra crea-tura non effettua un'azione di Utilizzo per premere nuovamente il tasto, la verga non si sposta, sfidando anche la forza di gravità. La verga può sostenere un peso massimo di 4 tonnellate; un peso superiore fa sì che la verga si disattivi e cada. Una creatura può compiere un'azione di Utilizzo per effettuare una prova di Forza (Atletica) con CD 30, spostando la verga per un massimo di 3 metri in caso di successo.
 
-## Zainetto pratico
+---
 
+## Zainetto pratico
+**id:** zainetto_pratico
 **tipo:** Oggetto meraviglioso
 **rarita:** raro 
 
