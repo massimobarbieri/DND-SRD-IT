@@ -8177,7 +8177,8 @@ Questo incantesimo crea un legame magico tra un vegetale inanimato di taglia Gra
 **tempo_lancio:** azione  
 **gittata:** 9 metri  
 **componenti:** V, S  
-**durata:** istantanea  
+**durata:** istantanea
+**creatura_evocata:** cavalcatura_ultraterrena 
 
 
 L'incantatore evoca un essere ultraterreno che appare come una cavalcatura forte e fedele in uno spazio libero a scelta dell'incantatore entro gittata. Questa creatura usa la scheda delle statistiche della cavalcatura ultraterrena. Se l'incantatore possiede già una cavalcatura evocata con questo incantesimo, essa viene sostituita da quella nuova.

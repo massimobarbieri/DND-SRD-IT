@@ -1176,6 +1176,56 @@ Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che 
 
 ---
 
+## Cavalcatura ultraterrena
+**id:** cavalcatura_ultraterrena
+**tipo:** Celestiale, Folletto o Immondo (a scelta)
+**dimensione:** Grande
+**allineamento:** senza allineamento  
+
+**classe_armatura:** 13 + il bonus di competenza dell'incantatore  
+**iniziativa:** +2 (12)  
+**punti_ferita:** 40 + 10 × livello dell'incantesimo  
+**velocita:** 18 m (o altra velocità in base alla forma scelta)  
+
+**caratteristiche:**
+- forza: 18 (+4)
+- destrezza: 14 (+2)
+- costituzione: 16 (+3)
+- intelligenza: 6 (-2)
+- saggezza: 12 (+1)
+- carisma: 10 (+0)
+
+**tiri_salvezza_base:**
+- forza: +4
+- destrezza: +2
+- costituzione: +3
+- intelligenza: -2
+- saggezza: +1
+- carisma: +0
+
+**sensi:** Percezione passiva 11  
+**lingue:** comprende le lingue dell'incantatore  
+**grado_sfida:** null  
+**punti_esperienza:** PE 0  
+**bonus_competenza:** pari al bonus di competenza dell'incantatore  
+**grado_sfida_raw:** nessuno (PE 0; BC pari al bonus di competenza dell'incantatore)  
+
+### Tratti
+
+**Legame con l'incantatore**  
+La cavalcatura è sotto il controllo dell'incantatore e agisce nel suo turno. Può muoversi e usare la sua reazione autonomamente, ma esegue le azioni secondo i comandi dell'incantatore.
+
+**Tipo ultraterreno (scelta)**  
+Quando viene evocata, scegli uno dei seguenti tipi: celestiale, folletto o immondo. Il tipo può influenzare l’aspetto e alcune interazioni magiche.
+
+### Azioni
+
+**Zoccoli (o attacco naturale equivalente)**  
+Tiro per colpire in mischia: bonus pari al modificatore di attacco dell'incantesimo dell'incantatore, portata 1,5 m.  
+Colpito: 1d8 + 4 + il bonus di competenza dell'incantatore danni contundenti (o altro tipo appropriato alla forma).
+
+---
+
 ## Cavaliere
 **id:** cavaliere
 **tipo:** Umanoide
