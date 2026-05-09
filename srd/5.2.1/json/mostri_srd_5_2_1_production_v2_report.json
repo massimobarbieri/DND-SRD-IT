@@ -1,0 +1,789 @@
+{
+  "source_markdown": "/mnt/data/srd_5_2_1_monsters.md",
+  "schema_markdown": "/mnt/data/srd_5_2_1_monsters_schema.md",
+  "output_json": "/mnt/data/mostri_srd_5_2_1_production_v2.json",
+  "monster_count": 334,
+  "duplicate_ids_count": 0,
+  "duplicate_ids": [],
+  "missing_required_fields_count": 4,
+  "missing_required_fields": {
+    "cavalcatura_ultraterrena": [
+      "grado_sfida"
+    ],
+    "insetto_gigante": [
+      "grado_sfida",
+      "punti_esperienza",
+      "bonus_competenza",
+      "grado_sfida_raw"
+    ],
+    "oggetto_animato": [
+      "grado_sfida"
+    ],
+    "spirito_draconico": [
+      "grado_sfida"
+    ]
+  },
+  "warnings_count": 124,
+  "warnings_by_monster": {
+    "aboleth": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, l'aboleth può consumare un utilizzo per effettuare una delle seguenti azioni."
+      }
+    ],
+    "drago_bianco_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_bianco_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_blu_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_blu_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_d'argento_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_d'argento_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_di_bronzo_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_di_bronzo_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_di_rame_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_di_rame_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_d'oro_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_d'oro_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_d'ottone_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_d'ottone_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_nero_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_nero_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_rosso_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_rosso_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_verde_adulto": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "drago_verde_antico": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "druido": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "animale messaggero, bagliore lunare, passo veloce"
+      },
+      {
+        "type": "unknown_field",
+        "field": "2/giorno_ciascuno",
+        "value": "intralciare, onda tonante"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "artificio druidico, parlare con gli animali"
+      }
+    ],
+    "efreeti": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "forma gassosa, immagine maggiore, invisibilità, linguaggi, muro di fuoco (di 7º livello), spostamento planare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "elementalismo, individuazione del magico"
+      }
+    ],
+    "elementale_della_terra": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilità",
+        "value": "tuono"
+      }
+    ],
+    "gigante_delle_nuvole": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Controllare tempo atmosferico, forma gassosa, telecinesi"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Individuazione del magico, luce, nube di nebbia"
+      }
+    ],
+    "gigante_delle_tempeste": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno",
+        "value": "Controllare tempo atmosferico"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Individuazione del magico, luce"
+      }
+    ],
+    "incubo": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Sogno, trama ipnotica"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Camuffare se stesso, forma eterea"
+      }
+    ],
+    "insetto_gigante": [
+      {
+        "type": "unknown_section",
+        "text": "note"
+      },
+      {
+        "type": "unattached_text",
+        "text": "Questa creatura non ha una singola scheda fissa: le sue statistiche dipendono dal tipo di insetto scelto (ragno, scarabe"
+      }
+    ],
+    "kraken": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il kraken può consumare un utilizzo per effettuare una delle seguenti azioni."
+      }
+    ],
+    "lamia": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Costrizione, immagine maggiore, scrutare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Camuffare se stesso (può apparire come un bipede di taglia Grande o Media), illusione minore"
+      }
+    ],
+    "lich": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "catena di fulmini, dito della morte, parola del potere uccidere, scrutare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "2/giorno_ciascuno",
+        "value": "animare morti, porta dimensionale, spostamento planare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Dissolvi magie, fulmine (di 5º livello), individuazione dei pensieri, individuazione del magico, invisibilità, mano magica, palla di fuoco (di 5º livello), prestidigitazione"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il lich può consumare un utilizzo per effettuare una delle seguenti azioni. I"
+      }
+    ],
+    "mago": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Cono di freddo, volare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "2/giorno_ciascuno",
+        "value": "Invisibilità, palla di fuoco (di 4º livello)"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Armatura magica (inclusa nella CA), individuazione del magico, luce, mano magica, prestidigitazione"
+      }
+    ],
+    "arcimago": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Cono di freddo (di 9º livello), scrutare, teletrasporto, vuoto mentale (lanciato prima del combattimento)"
+      },
+      {
+        "type": "unknown_field",
+        "field": "2/giorno_ciascuno",
+        "value": "Fulmine (di 7º livello), volare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Armatura magica (inclusa nella CA), camuffare se stesso, individuazione dei pensieri, individuazione del magico, invisibilità, luce, mano magica, prestidigitazione"
+      }
+    ],
+    "megera_notturna": [
+      {
+        "type": "unknown_field",
+        "field": "2/giorno_ciascuno",
+        "value": "Allucinazione mortale, spostamento planare (solo se stessa)"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Dardo incantato (di 4º livello), forma eterea, individuazione del magico"
+      }
+    ],
+    "megera_verde": [
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio di infermità (di 3º livello)."
+      }
+    ],
+    "mephit_del_ghiaccio": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "fuoco"
+      }
+    ],
+    "mephit_del_magma": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "freddo"
+      }
+    ],
+    "mephit_della_polvere": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "fuoco"
+      }
+    ],
+    "mummia": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "fuoco"
+      }
+    ],
+    "signore_delle_mummie": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "fuoco"
+      },
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Animare morti, ferire, piaga degli insetti (di 7º livello)"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Dissolvi magie, taumaturgia"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, la mummia può consumare un utilizzo per effettuare una delle seguenti azioni."
+      }
+    ],
+    "naga_guardiana": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Chiaroveggenza, colpo infuocato (di 6º livello), costrizione, cura ferite (di 6º livello), visione del vero"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "taumaturgia"
+      }
+    ],
+    "naga_spirituale": [
+      {
+        "type": "unknown_field",
+        "field": "2/giorno_ciascuno",
+        "value": "blocca persone (di 3º livello), individuazione dei pensieri, fulmine (di 4º livello), porta dimensionale"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "illusione minore, individuazione del magico, mano magica, respirare sott'acqua"
+      }
+    ],
+    "ombra": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "radioso"
+      }
+    ],
+    "oni": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Charme su persone (di 2º livello), forma gassosa, oscurità, sonno"
+      }
+    ],
+    "planetar": [
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Individuazione del bene e del male"
+      },
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Comunione, controllare tempo atmosferico, dissolvi il bene e il male, rianimare morti"
+      }
+    ],
+    "rakshasa": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "danni perforanti inflitti da armi brandite da creature sotto l'effetto dell'incantesimo benedizione"
+      },
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Immagine maggiore, invisibilità, spostamento planare, volare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Camuffare se stesso, illusione minore, individuazione dei pensieri, individuazione del magico, mano magica"
+      }
+    ],
+    "sacerdote_accolito": [
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Luce, taumaturgia"
+      }
+    ],
+    "sacerdote": [
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Luce, taumaturgia"
+      },
+      {
+        "type": "unknown_field",
+        "field": "1/giorno",
+        "value": "Guardiani spirituali"
+      }
+    ],
+    "salamandra": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "freddo"
+      }
+    ],
+    "scheletro": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "contundente"
+      }
+    ],
+    "scheletro_di_cavallo_da_guerra": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "contundente"
+      }
+    ],
+    "scheletro_di_minotauro": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "contundente"
+      }
+    ],
+    "sfinge_della_conoscenza": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "conoscenza delle leggende, dissolvi magie, linguaggi, localizza oggetto, rimuovi maledizione, spostamento planare"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "identificare, illusione minore, individuazione del magico, mano magica, prestidigitazione"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo per effettuare una delle seguenti azioni."
+      }
+    ],
+    "sfinge_del_valore": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo per effettuare una delle seguenti azioni."
+      }
+    ],
+    "solar": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "comunione, controllare tempo atmosferico, dissolvi il bene e il male, resurrezione"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "individuazione del bene e del male"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il solar può consumare un utilizzo per effettuare una delle seguenti azioni. "
+      }
+    ],
+    "tarrasque": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il tarrasque può consumare un utilizzo per effettuare una delle seguenti azio"
+      }
+    ],
+    "treant": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "fuoco"
+      }
+    ],
+    "unicorno": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno_ciascuno",
+        "value": "Calmare emozioni, dissolvi il bene e il male, intralciare, parola del ritiro, passare senza tracce"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Artificio druidico, individuazione del bene e del male"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, l'unicorno può consumare un utilizzo per effettuare una delle seguenti azioni"
+      }
+    ],
+    "vampiro": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3 (4 nella tana)**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il vampiro può consumare un utilizzo per effettuare una delle seguenti azioni"
+      }
+    ],
+    "albero_risvegliato": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "fuoco"
+      }
+    ],
+    "cespuglio_risvegliato": [
+      {
+        "type": "unknown_field",
+        "field": "vulnerabilita",
+        "value": "fuoco"
+      }
+    ],
+    "gufo_gigante": [
+      {
+        "type": "unknown_field",
+        "field": "1/giorno",
+        "value": "Chiaroveggenza"
+      },
+      {
+        "type": "unknown_field",
+        "field": "a_volontà",
+        "value": "Individuazione del bene e del male, individuazione del magico"
+      }
+    ]
+  },
+  "schema_shape": {
+    "root": "array",
+    "legendary_actions": "object with utilizzi and azioni",
+    "stat_fields": [
+      "classe_armatura",
+      "iniziativa",
+      "punti_ferita",
+      "velocita"
+    ],
+    "ability_fields": [
+      "forza",
+      "destrezza",
+      "costituzione",
+      "intelligenza",
+      "saggezza",
+      "carisma"
+    ]
+  }
+}
