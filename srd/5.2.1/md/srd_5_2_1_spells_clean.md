@@ -297,7 +297,8 @@ L'incantatore anima due creature non morte aggiuntive o ristabilisce il controll
 **tempo_lancio:** azione  
 **gittata:** 36 metri  
 **componenti:** V, S  
-**durata:** concentrazione, fino a 1 minuto  
+**durata:** concentrazione, fino a 1 minuto
+**creatura_evocata:** oggetto_animato 
 
 
 Gli oggetti si animano su ordine dell'incantatore. L'incantatore sceglie un numero di oggetti non magici entro gittata che non siano indossati o trasportati, fissati su una superficie o di dimensioni Mastodontiche. Il numero massimo di oggetti è uguale al suo modificatore di caratteristica da incantatore; per questo numero, un bersaglio di taglia Media o inferiore conta come un oggetto, un bersaglio di taglia Grande conta come due e un bersaglio Enorme conta come tre.

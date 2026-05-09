@@ -10013,6 +10013,50 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 
 ---
 
+## Oggetto animato
+**id:** oggetto_animato
+**gruppo:** Oggetti animati
+**tipo:** Costrutto
+**dimensione:** Enorme o inferiore
+**allineamento:** senza allineamento  
+
+**classe_armatura:** 15  
+**iniziativa:** variabile  
+**punti_ferita:** 10 (taglia Media o inferiore), 20 (taglia Grande), 40 (taglia Enorme)  
+**velocita:** 9 m  
+
+**caratteristiche:**
+- forza: 16 (+3)
+- destrezza: 10 (+0)
+- costituzione: 10 (+0)
+- intelligenza: 3 (-4)
+- saggezza: 3 (-4)
+- carisma: 1 (-5)
+
+**tiri_salvezza_base:**
+- forza: +3
+- destrezza: +0
+- costituzione: +0
+- intelligenza: -4
+- saggezza: -4
+- carisma: -5
+
+**immunita_danni:** psichico, veleno  
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
+**sensi:** Percezione passiva 6; vista cieca 9 m  
+**lingue:** comprende le lingue parlate dal personaggio  
+**grado_sfida:** null  
+**punti_esperienza:** PE 0  
+**bonus_competenza:** pari al bonus di competenza del personaggio  
+**grado_sfida_raw:** nessuno (PE 0; BC pari al bonus di competenza del personaggio)  
+
+### Azioni
+
+**Schianto**  
+Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'incantesimo del personaggio, portata 1,5 m. Colpito: danni da forza pari a 1d4 + 3 (taglia Media o inferiore), 2d6 + 3 + il modificatore di caratteristica da incantatore dell'incantatore (taglia Grande) o 2d12 + 3 + il modificatore di caratteristica da incantatore dell'incantatore (taglia Enorme).
+
+---
+
 ## Spada volante animata
 **id:** spada_volante_animata
 **gruppo:** Oggetti animati
