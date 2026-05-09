@@ -3770,7 +3770,8 @@ La taglia del bersaglio diminuisce di una categoria (da Media a Piccola, per ese
 **tempo_lancio:** azione  
 **gittata:** 18 metri  
 **componenti:** V, S  
-**durata:** concentrazione, fino a 10 minuti  
+**durata:** concentrazione, fino a 10 minuti
+**creatura_evocata:** insetto_gigante 
 
 
 L'incantatore evoca un millepiedi gigante, un ragno gigante o una vespa gigante (a sua scelta al momento del lancio). L'insetto si manifesta in uno spazio libero entro gittata che l'incantatore è in grado di vedere e utilizza la scheda delle statistiche dell'insetto gigante. La forma scelta dall'incantatore determina alcuni dettagli della sua scheda delle statistiche. La creatura scompare quando scende a 0 punti ferita o quando l'incantesimo termina.

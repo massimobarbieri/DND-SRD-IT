@@ -7961,6 +7961,51 @@ Tiro salvezza su Saggezza: CD 15, una creatura che l'incubo è in grado di veder
 
 ---
 
+## Insetto gigante
+**id:** insetto_gigante
+**tipo:** Bestia
+**dimensione:** Grande o inferiore
+**allineamento:** senza allineamento  
+
+**classe_armatura:** 12  
+**iniziativa:** variabile  
+**punti_ferita:** variabile  
+**velocita:** variabile  
+
+**caratteristiche:**
+- forza: variabile
+- destrezza: variabile
+- costituzione: variabile
+- intelligenza: 1 (-5)
+- saggezza: variabile
+- carisma: 3 (-4)
+
+**tiri_salvezza_base:**
+- forza: variabile
+- destrezza: variabile
+- costituzione: variabile
+- intelligenza: -5
+- saggezza: variabile
+- carisma: -4
+
+**sensi:** Percezione passiva variabile  
+**lingue:** nessuna  
+**grado_sfida:** variabile  
+**punti_esperienza:** variabile  
+**bonus_competenza:** variabile  
+**grado_sfida_raw:** variabile  
+
+### Note
+
+Questa creatura non ha una singola scheda fissa: le sue statistiche dipendono dal tipo di insetto scelto (ragno, scarabeo, vespa, ecc.) e dalla sua taglia. L'incantesimo o effetto che la genera specifica quali statistiche utilizzare.
+
+### Azioni
+
+**Attacco naturale (variabile)**  
+Tiro per colpire in mischia: bonus variabile, portata 1,5 m (o diversa in base all’insetto). Colpito: danni variabili in base al tipo di insetto (per esempio morso, pungiglione, ecc.), eventualmente con effetti aggiuntivi come veleno.
+
+---
+
 ## Ippogrifo
 **id:** ippogrifo
 **tipo:** Mostruosità
