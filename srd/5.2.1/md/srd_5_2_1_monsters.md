@@ -107,7 +107,7 @@ L'aboleth effettua un attacco Tentacolo.
 
 **resistenze:** acido  
 **immunita_danni:** fulmine, tagliente 
-**imminita_condizione:** affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+**immunita_condizione:** affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -260,7 +260,7 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** necrotico, veleno  
-**imminita_condizione:** affascinato, afferrato, avvelenato, incapacitato, indebolimento, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizione:** affascinato, afferrato, avvelenato, incapacitato, indebolimento, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 9 m  
 **lingue:** capisce il Comune ma non lo parla  
 **grado_sfida:** 3  
@@ -369,7 +369,7 @@ L'assassino effettua l'azione di Disimpegno, Nascondersi o Scatto.
 - carisma: +0
 
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 11  
 **lingue:** Primordiale (Ignan)  
 **grado_sfida:** 2  
@@ -422,7 +422,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni contu
 **abilita:** Percezione +9  
 **resistenze:** freddo, fulmine  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** affascinato, avvelenato, spaventato 
+**immunita_condizione:** affascinato, avvelenato, spaventato 
 **sensi:** Percezione passiva 19; vista pura 36 m  
 **lingue:** Abissale; telepatia 36 m  
 **grado_sfida:** 19  
@@ -1054,7 +1054,7 @@ Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento.
 **abilita:** Furtività +10, Percezione +8  
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** veleno  
-**imminita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto 
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto 
 **sensi:** Percezione passiva 18; scurovisione 18 m  
 **lingue:** Comune, Primordiale (Auran)  
 **grado_sfida:** 6  
@@ -1111,7 +1111,7 @@ Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore 
 - carisma: -2
 
 **abilita:** Furtività +4, Percezione +5  
-**imminita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito 
+**immunita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito 
 **sensi:** Percezione passiva 15; scurovisione 36 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -1254,7 +1254,7 @@ Colpito: 1d8 + 4 + il bonus di competenza dell'incantatore danni contundenti (o 
 - carisma: +2
 
 **attrezzatura:** armatura a piastre, balestra pesante, spadone  
-**imminita_condizione:** spaventato  
+**immunita_condizione:** spaventato  
 **sensi:** Percezione passiva 10  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
@@ -1471,7 +1471,7 @@ Tiro salvezza su Destrezza: CD 15, tutte le creature in un cono di 4,5 metri. Fa
 
 **abilita:** Percezione +4  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** capisce il Gergo delle Profondità ma non lo parla  
 **grado_sfida:** 4  
@@ -1635,7 +1635,7 @@ Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Co
 - saggezza: +1
 - carisma: -3
 
-**imminita_condizione:** pietrificato  
+**immunita_condizione:** pietrificato  
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -1737,7 +1737,7 @@ Il couatl lancia benedizione, ristorare inferiore o santuario senza bisogno di c
 - carisma: -5
 
 **immunita_danni:** acido  
-**imminita_condizione:** accecato, affascinato, assordato, indebolimento, prono, spaventato 
+**immunita_condizione:** accecato, affascinato, assordato, indebolimento, prono, spaventato 
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -1889,7 +1889,7 @@ Il cultista lancia l'incantesimo arma spirituale, utilizzando la stessa caratter
 **abilita:** Furtività +3  
 **resistenze:** freddo, fuoco  
 **immunita_danni:** fulmine  
-**imminita_condizione:** assordato, indebolimento  
+**immunita_condizione:** assordato, indebolimento  
 **sensi:** Percezione passiva 10; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 5  
@@ -1944,7 +1944,7 @@ Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore entro 1,
 
 **abilita:** Intuizione +9, Percezione +9  
 **resistenze:** radioso  
-**imminita_condizione:** affascinato, indebolimento, spaventato  
+**immunita_condizione:** affascinato, indebolimento, spaventato  
 **sensi:** Percezione passiva 19; scurovisione 36 m  
 **lingue:** tutte; telepatia 36 m  
 **grado_sfida:** 10  
@@ -2007,7 +2007,7 @@ Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzan
 
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato, spaventato  
+**immunita_condizione:** avvelenato, spaventato  
 **sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 3  
@@ -2062,7 +2062,7 @@ Tiro per colpire in mischia: +5, portata 3 m. Colpito: 8 (1d10 + 3) danni taglie
 
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 13; scurovisione 45 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 11  
@@ -2123,7 +2123,7 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di ve
 
 **abilita:** Intuizione +7, Percezione +7, Persuasione +9  
 **immunita_danni:** freddo, fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 17; vista cieca 36 m  
 **lingue:** Infernale; telepatia 36 m 
 **grado_sfida:** 14  
@@ -2185,7 +2185,7 @@ Il diavolo lancia muro di ghiaccio (di 8º livello), senza bisogno di componenti
 **abilita:** Percezione +10, Persuasione +19  
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 20; vista pura 36 m  
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 20  
@@ -2255,7 +2255,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 
 **resistenze:** contundente, freddo, perforante, tagliente  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 11; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 8  
@@ -2319,7 +2319,7 @@ Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo tur
 **abilita:** Inganno +7, Intuizione +6  
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 12; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 9  
@@ -2379,7 +2379,7 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perfo
 **abilita:** Inganno +5, Intuizione +5, Percezione +8  
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 18; scurovisione 36 m (non ostacolata dall'oscurità magica) 
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 5  
@@ -2511,7 +2511,7 @@ A volontà: individuazione del bene e del male, individuazione del magico
 - carisma: +2
 
 **abilita:** Inganno +6, Intuizione +3  
-**imminita_condizione:** affascinato  
+**immunita_condizione:** affascinato  
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più altre tre lingue  
 **grado_sfida:** 3  
@@ -4845,7 +4845,7 @@ Il drago usa Incantesimi per lanciare raggio rovente (di 3º livello). il drago 
 
 **abilita:** Furtività +3, Percezione +4  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 14; scurovisione 18 m, vista cieca 3 m
 **lingue:** Draconico  
 **grado_sfida:** 2  
@@ -4899,7 +4899,7 @@ Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri.
 
 **abilita:** Furtività +4, Inganno +5, Percezione +7
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 17; scurovisione 36 m, vista cieca 9 m
 **lingue:** Comune, Draconico  
 **grado_sfida:** 8
@@ -4953,7 +4953,7 @@ Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. F
 
 **abilita:** Furtività +6, Inganno +9, Percezione +12, Persuasione +9
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 22; scurovisione 36 m, vista cieca 18 m
 **lingue:** Comune, Draconico  
 **grado_sfida:** 15
@@ -5029,7 +5029,7 @@ Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri 
 
 **abilita:** Furtività +8, Inganno +13, Percezione +17, Persuasione +13
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 27; scurovisione 36 m, vista cieca 18 m
 **lingue:** Comune, Draconico  
 **grado_sfida:** 22
@@ -5106,7 +5106,7 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 
 **resistenze:** freddo, fulmine, fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** Abissale; telepatia 18 m (funziona solo le creature che capiscono l'Abissale) 
 **grado_sfida:** 1/4  
@@ -5400,7 +5400,7 @@ L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 
 **resistenze:** contundente, perforante, tagliente
 **immunita_danni:** fuoco, veleno
-**imminita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m
 **lingue:** Primordiale (Ignan)  
 **grado_sfida:** 5
@@ -5461,7 +5461,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fu
 
 **resistenze:** acido, fuoco
 **immunita_danni:** veleno
-**imminita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m
 **lingue:** Primordiale (Aquan)  
 **grado_sfida:** 5
@@ -5519,7 +5519,7 @@ Tiro salvezza su Forza: CD 15, ogni creatura nello spazio dell'elementale. Falli
 
 **resistenze:** contundente, fulmine, perforante, tagliente
 **immunita_danni:** tuono, veleno
-**imminita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m
 **lingue:** Primordiale (Auran)  
 **grado_sfida:** 5
@@ -5574,7 +5574,7 @@ Tiro salvezza su Forza: CD 13, una creatura di taglia Media o inferiore nello sp
 
 **vulnerabilità:** tuono
 **immunita_danni:** veleno
-**imminita_condizione:** avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi
+**immunita_condizione:** avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi
 **sensi:** Percezione passiva 10; percezione tellurica 18 m, scurovisione 18 m
 **lingue:** Primordiale (Terran)  
 **grado_sfida:** 5
@@ -5633,7 +5633,7 @@ Tiro per colpire a distanza: +8, gittata 18 m. Colpito: 8 (1d6 + 5) danni contun
 **abilita:** Percezione +6, Persuasione +8  
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 16; vista pura 36 m  
 **lingue:** Infernale; telepatia 36 m  
 **grado_sfida:** 12  
@@ -5812,7 +5812,7 @@ L'ettercap attira in linea retta verso di sé una creatura entro 9 metri tratten
 
 **abilita:** Percezione +4  
 **attrezzatura:** ascia da battaglia, mazza chiodata  
-**imminita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+**immunita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Gigante  
 **grado_sfida:** 4  
@@ -5862,7 +5862,7 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata.
 
 **resistenze:** acido, contundente, freddo, fulmine, fuoco, perforante, tagliente, tuono
 **immunita_danni:** necrotico, veleno, perforante, tagliente, tuono 
-**imminita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, trattenuto
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 4  
@@ -5927,7 +5927,7 @@ Tiro salvezza su Saggezza: CD 13, tutte le creature in un cono di 18 metri in gr
 - saggezza: +0
 - carisma: -2
 
-**imminita_condizione:** prono  
+**immunita_condizione:** prono  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -5981,7 +5981,7 @@ Tiro salvezza su Destrezza: CD 10, tutte le creature in una sfera di 3 metri di 
 - saggezza: -4
 - carisma: -5
 
-**imminita_condizione:** accecato, affascinato, assordato, spaventato  
+**immunita_condizione:** accecato, affascinato, assordato, spaventato  
 **sensi:** Percezione passiva 6; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 0  
@@ -6024,7 +6024,7 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 - saggezza: -4
 - carisma: -5
 
-**imminita_condizione:** accecato, affascinato, assordato, spaventato  
+**immunita_condizione:** accecato, affascinato, assordato, spaventato  
 **sensi:** Percezione passiva 6; vista cieca 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -6071,7 +6071,7 @@ Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici.
 
 **resistenze:** acido, contundente, freddo, fuoco, necrotico, perforante, tagliente
 **immunita_danni:** fulmine, veleno  
-**imminita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 12; scurovisione 36 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 2  
@@ -6190,7 +6190,7 @@ Il fustigatore tira in linea retta verso di sé ogni creatura che ha afferrato p
 
 **abilita:** Furtività +4  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento, pietrificato  
+**immunita_condizione:** avvelenato, indebolimento, pietrificato  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** Primordiale (Terran)  
 **grado_sfida:** 2  
@@ -6242,7 +6242,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni tagli
 
 **resistenze:** necrotico  
 **immunita_danni:** veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento  
+**immunita_condizione:** affascinato, avvelenato, indebolimento  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** Comune  
 **grado_sfida:** 2  
@@ -6293,7 +6293,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 - carisma: -2
 
 **immunita_danni:** veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento  
+**immunita_condizione:** affascinato, avvelenato, indebolimento  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** Comune  
 **grado_sfida:** 1  
@@ -6670,7 +6670,7 @@ Tiro salvezza su Destrezza: CD 18, ogni creatura in un cilindro di 3 metri di ra
 **abilita:** Inganno +7, Percezione +7  
 **resistenze:** freddo, fulmine, fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 17; vista pura 36 m  
 **lingue:** Abissale; telepatia 36 m  
 **grado_sfida:** 9  
@@ -6999,7 +6999,7 @@ Attivazione: Una creatura che il goblin è in grado di vedere effettua un tiro p
 
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** acido, psichico, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 9  
@@ -7064,7 +7064,7 @@ Il golem effettua le azioni di Disimpegno e Scatto.
 - carisma: -3
 
 **immunita_danni:** fulmine, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 5  
@@ -7127,7 +7127,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 - carisma: -5
 
 **immunita_danni:** fuoco, psichico, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 36 m  
 **lingue:** capisce il Comune più altre due lingue ma non le parla
 **grado_sfida:** 16  
@@ -7190,7 +7190,7 @@ Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. 
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 36 m  
 **lingue:** capisce il Comune più altre due lingue ma non le parla
 **grado_sfida:** 10  
@@ -7252,7 +7252,7 @@ Il golem lancia l'incantesimo lentezza, senza bisogno di componenti e utilizzand
 - carisma: -2
 
 **abilita:** Percezione +7  
-**imminita_condizione:** indebolimento, pietrificato  
+**immunita_condizione:** indebolimento, pietrificato  
 **sensi:** Percezione passiva 17; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 5  
@@ -7438,7 +7438,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contun
 - carisma: -4
 
 **immunita_danni:** veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 18 m, vista cieca 3 m
 **lingue:** capisce i comandi impartiti in qualsiasi lingua, ma non è in grado di parlare
 **grado_sfida:** 7  
@@ -7698,7 +7698,7 @@ Attivazione: il guerriero viene colpito da un tiro per colpire in mischia mentre
 
 **resistenze:** freddo, fulmine, fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 11; scurovisione 36 m  
 **lingue:** Abissale; telepatia 36 m  
 **grado_sfida:** 8  
@@ -7865,7 +7865,7 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 - carisma: -2
 
 **abilita:** Percezione +6  
-**imminita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
+**immunita_condizione:** accecato, affascinato, assordato, privo di sensi, spaventato, stordito
 **sensi:** Percezione passiva 16; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 8  
@@ -7924,7 +7924,7 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 10 (1d10 + 5) danni perfo
 **abilita:** Inganno +4, Intuizione +3, Furtività +5  
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 11; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** Comune, Infernale  
 **grado_sfida:** 1  
@@ -8135,7 +8135,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni tagli
 
 **abilita:** Percezione +11, Storia +13  
 **immunita_danni:** freddo, fulmine  
-**imminita_condizione:** afferrato, paralizzato, spaventato, trattenuto
+**immunita_condizione:** afferrato, paralizzato, spaventato, trattenuto
 **sensi:** Percezione passiva 21; vista pura 36 m  
 **lingue:** capisce l'Abissale, il Celestiale, l'Infernale e il Primordiale ma non li parla; telepatia 36 m  
 **grado_sfida:** 23  
@@ -8271,7 +8271,7 @@ Il lamia salta fino a 9 metri usando 3 metri di movimento.
 
 **resistenze:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** affascinato, avvelenato, spaventato
+**immunita_condizione:** affascinato, avvelenato, spaventato
 **sensi:** Percezione passiva 10; scurovisione 36 m (non ostacolata dall'oscurità magica)
 **lingue:** capisce l'Infernale ma non lo parla  
 **grado_sfida:** 0  
@@ -8322,7 +8322,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno
 **attrezzatura:** borsa per componenti  
 **resistenze:** freddo, fulmine  
 **immunita_danni:** necrotico, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista pura 36 m  
 **lingue:** tutte  
 **grado_sfida:** 21  
@@ -8584,7 +8584,7 @@ Il mago lancia controincantesimo o scudo come risposta all'innesco dell'incantes
 **abilita:** Arcano +13, Percezione +6, Storia +9  
 **attrezzatura:** bacchetta  
 **immunita_danni:** psichico  
-**imminita_condizione:** affascinato (con vuoto mentale)  
+**immunita_condizione:** affascinato (con vuoto mentale)  
 **sensi:** Percezione passiva 16  
 **lingue:** Comune più altre cinque lingue  
 **grado_sfida:** 12  
@@ -8750,7 +8750,7 @@ Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni per
 - carisma: -2
 
 **abilita:** Furtività +5  
-**imminita_condizione:** spaventato  
+**immunita_condizione:** spaventato  
 **sensi:** Percezione passiva 12; scurovisione 36 m  
 **lingue:** Gergo delle profondità, Sottocomune  
 **grado_sfida:** 8  
@@ -8859,7 +8859,7 @@ L'oscurità magica riempie un'emanazione di 4,5 metri di cui il mantoscuro è il
 **abilita:** Percezione +8  
 **resistenze:** freddo, fulmine, fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 18; vista pura 36 m  
 **lingue:** Abissale; telepatia 36 m  
 **grado_sfida:** 16  
@@ -9091,7 +9091,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in gr
 
 **abilita:** Furtività +5, Inganno +6, Intuizione +5, Percezione  
 **resistenze:** freddo, fuoco  
-**imminita_condizione:** affascinato  
+**immunita_condizione:** affascinato  
 **sensi:** Percezione passiva 15; scurovisione 36 m  
 **lingue:** Abissale, Comune, Infernale, Primordiale  
 **grado_sfida:** 5  
@@ -9220,7 +9220,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 
 **abilita:** Furtività +2  
 **resistenze:** acido, freddo, fuoco  
-**imminita_condizione:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+**immunita_condizione:** accecato, affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -9274,7 +9274,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 10 (2d8 + 1) danni da a
 **abilita:** Furtività +3, Percezione +2  
 **vulnerabilita:** fuoco  
 **immunita_danni:** freddo, veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 12; scurovisione 18 m  
 **lingue:** Primordiale (Aquan, Auran)  
 **grado_sfida:** 1/2  
@@ -9331,7 +9331,7 @@ Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri.
 **abilita:** Furtività +3  
 **vulnerabilita:** freddo  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** Primordiale (Ignan, Terran)  
 **grado_sfida:** 1/2  
@@ -9384,7 +9384,7 @@ Tiro salvezza su Destrezza: CD 11, tutte le creature in un cono di 4,5 metri. Fa
 
 **abilita:** Furtività +2  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** Primordiale (Aquan, Ignan)  
 **grado_sfida:** 1/4  
@@ -9441,7 +9441,7 @@ Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri.
 **abilita:** Furtività +4, Percezione +2  
 **vulnerabilita:** fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 12; scurovisione 18 m  
 **lingue:** Primordiale (Auran, Terran)  
 **grado_sfida:** 1/2  
@@ -9610,7 +9610,7 @@ Il mezzodrago salta fino a 9 metri usando 3 metri di movimento.
 
 **abilita:** Furtività +5  
 **immunita_danni:** acido  
-**imminita_condizione:** prono  
+**immunita_condizione:** prono  
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -9713,7 +9713,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perf
 
 **vulnerabilita:** fuoco  
 **immunita_danni:** necrotico, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 11; scurovisione 18 m  
 **lingue:** Comune più altre due lingue  
 **grado_sfida:** 3  
@@ -9765,7 +9765,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 **abilita:** Percezione +9, Religione +5, Storia +5  
 **vulnerabilita:** fuoco  
 **immunita_danni:** necrotico, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista pura 18 m  
 **lingue:** Comune più altre tre lingue  
 **grado_sfida:** 15  
@@ -9854,7 +9854,7 @@ La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio de
 
 **abilita:** Arcano +11, Religione +11, Storia +11  
 **immunita_danni:** veleno  
-**imminita_condizione:** affascinato, avvelenato, paralizzato, trattenuto
+**immunita_condizione:** affascinato, avvelenato, paralizzato, trattenuto
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Celestiale, Comune  
 **grado_sfida:** 10  
@@ -9914,7 +9914,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di ve
 - carisma: +6
 
 **immunita_danni:** veleno  
-**imminita_condizione:** affascinato, avvelenato  
+**immunita_condizione:** affascinato, avvelenato  
 **sensi:** Percezione passiva 12; scurovisione 18 m  
 **lingue:** Abissale, Comune  
 **grado_sfida:** 8  
@@ -9974,7 +9974,7 @@ La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatic
 
 **resistenze:** freddo, fulmine, fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, spaventato  
+**immunita_condizione:** avvelenato, spaventato  
 **sensi:** Percezione passiva 11; vista pura 36 m  
 **lingue:** Abissale; telepatia 36 m  
 **grado_sfida:** 13  
@@ -10090,7 +10090,7 @@ Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre ti
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**imminita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 6; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -10137,7 +10137,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
 **sensi:** Percezione passiva 6; vista cieca 9 m  
 **lingue:** comprende le lingue parlate dal personaggio  
 **grado_sfida:** null  
@@ -10181,7 +10181,7 @@ Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'i
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**imminita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 7; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -10225,7 +10225,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni tagli
 - carisma: -5
 
 **immunita_danni:** psichico, veleno  
-**imminita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
+**immunita_condizione:** affascinato, assordato, avvelenato, indebolimento, paralizzato, pietrificato, spaventato
 **sensi:** Percezione passiva 6; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -10316,7 +10316,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 **vulnerabilita:** radioso  
 **resistenze:** acido, freddo, fulmine, fuoco, tuono  
 **immunita_danni:** necrotico, veleno  
-**imminita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, spaventato, trattenuto
+**immunita_condizione:** afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -10372,7 +10372,7 @@ Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azi
 - carisma: +0
 
 **immunita_danni:** veleno  
-**imminita_condizione:** affascinato, avvelenato  
+**immunita_condizione:** affascinato, avvelenato  
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 0  
@@ -10793,7 +10793,7 @@ Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre ti
 
 **abilita:** Percezione +11  
 **resistenze:** radioso  
-**imminita_condizione:** affascinato, indebolimento, spaventato  
+**immunita_condizione:** affascinato, indebolimento, spaventato  
 **sensi:** Percezione passiva 21; vista pura 36 m  
 **lingue:** tutte; telepatia 36 m  
 **grado_sfida:** 16  
@@ -10910,7 +10910,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contunden
 - carisma: -5
 
 **immunita_danni:** acido, freddo, fulmine, tagliente
-**imminita_condizione:** affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
+**immunita_condizione:** affascinato, afferrato, assordato, indebolimento, prono, spaventato, trattenuto
 **sensi:** Percezione passiva 8; vista cieca 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 4  
@@ -11025,7 +11025,7 @@ Tiro salvezza su Costituzione: CD 12, una creatura che lo pseudodrago è in grad
 **abilita:** Furtività +5  
 **resistenze:** freddo, fulmine, fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 10; scurovisione 36 m  
 **lingue:** Abissale, Comune  
 **grado_sfida:** 1  
@@ -11144,7 +11144,7 @@ Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 
 **abilita:** Inganno +10, Intuizione +8, Percezione +8  
 **vulnerabilita:** danni perforanti inflitti da armi brandite da creature sotto l'effetto dell'incantesimo benedizione
-**imminita_condizione:** affascinato, spaventato  
+**immunita_condizione:** affascinato, spaventato  
 **sensi:** Percezione passiva 18; vista pura 36 m  
 **lingue:** Comune, Infernale  
 **grado_sfida:** 13  
@@ -11657,7 +11657,7 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vede
 **attrezzatura:** arco corto, spada corta  
 **vulnerabilita:** contundente  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1/4  
@@ -11705,7 +11705,7 @@ Tiro per colpire a distanza: +5, portata 24/96 m Colpito: 6 (1d6 + 3) danni perf
 
 **vulnerabilita:** contundente  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/2  
@@ -11753,7 +11753,7 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si �
 
 **vulnerabilita:** contundente  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 9; scurovisione 18 m  
 **lingue:** capisce l'Abissale ma non lo parla  
 **grado_sfida:** 2  
@@ -11910,7 +11910,7 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 **abilita:** Arcano +12, Percezione +8, Religione +12, Storia +12
 **resistenze:** necrotico, radioso  
 **immunita_danni:** psichico  
-**imminita_condizione:** affascinato, spaventato  
+**immunita_condizione:** affascinato, spaventato  
 **sensi:** Percezione passiva 18; vista pura 36 m  
 **lingue:** Celestiale, Comune  
 **grado_sfida:** 11  
@@ -11986,7 +11986,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 **abilita:** Arcano +9, Percezione +12, Religione +15  
 **resistenze:** necrotico, radioso  
 **immunita_danni:** psichico  
-**imminita_condizione:** affascinato, spaventato  
+**immunita_condizione:** affascinato, spaventato  
 **sensi:** Percezione passiva 22; vista pura 36 m  
 **lingue:** Celestiale, Comune  
 **grado_sfida:** 17  
@@ -12067,7 +12067,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 
 **abilita:** Percezione +14  
 **immunita_danni:** radioso, veleno  
-**imminita_condizione:** affascinato, avvelenato, indebolimento, spaventato
+**immunita_condizione:** affascinato, avvelenato, indebolimento, spaventato
 **sensi:** Percezione passiva 24; vista pura 36 m  
 **lingue:** tutte; telepatia 36 m  
 **grado_sfida:** 21  
@@ -12152,7 +12152,7 @@ Il solar si teletrasporta fino a un massimo di 18 metri in uno spazio libero che
 
 **resistenze:** acido, contundente, freddo, fulmine, fuoco, perforante, tagliente, tuono
 **immunita_danni:** necrotico, veleno  
-**imminita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 18 m  
 **lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1  
@@ -12425,7 +12425,7 @@ La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna
 **abilita:** Percezione +9  
 **resistenze:** contundente, perforante, tagliente  
 **immunita_danni:** fuoco, veleno  
-**imminita_condizione:** affascinato, assordato, avvelenato, paralizzato, spaventato
+**immunita_condizione:** affascinato, assordato, avvelenato, paralizzato, spaventato
 **sensi:** Percezione passiva 19; vista cieca 36 m  
 **lingue:** nessuna  
 **grado_sfida:** 30  
@@ -12888,7 +12888,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perfor
 - carisma: +3
 
 **immunita_danni:** veleno  
-**imminita_condizione:** affascinato, avvelenato, paralizzato  
+**immunita_condizione:** affascinato, avvelenato, paralizzato  
 **sensi:** Percezione passiva 13; scurovisione 18 m  
 **lingue:** Celestiale, Elfico, Silvano; telepatia 36 m  
 **grado_sfida:** 5  
@@ -12969,7 +12969,7 @@ L'unicorno prende di mira se stesso o una creatura che è in grado di vedere ent
 **abilita:** Furtività +7, Percezione +4, Persuasione +4  
 **attrezzatura:** pugnali (10)  
 **resistenze:** necrotico  
-**imminita_condizione:** affascinato (tranne che dal suo padrone vampiro)
+**immunita_condizione:** affascinato (tranne che dal suo padrone vampiro)
 **sensi:** Percezione passiva 14; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
@@ -13395,7 +13395,7 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni perfor
 
 **resistenze:** freddo, fulmine, fuoco  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato  
+**immunita_condizione:** avvelenato  
 **sensi:** Percezione passiva 11; scurovisione 36 m  
 **lingue:** Abissale; telepatia 36 m  
 **grado_sfida:** 6  
@@ -13458,7 +13458,7 @@ Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 me
 **attrezzatura:** armatura di cuoio borchiato  
 **resistenze:** necrotico  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 13; scurovisione 18 m  
 **lingue:** Comune più un'altra lingua  
 **grado_sfida:** 3  
@@ -13558,7 +13558,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 
 **resistenze:** acido, contundente, freddo, fuoco, perforante, tagliente
 **immunita_danni:** necrotico, veleno  
-**imminita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
+**immunita_condizione:** affascinato, afferrato, avvelenato, indebolimento, paralizzato, pietrificato, privo di sensi, prono, trattenuto
 **sensi:** Percezione passiva 12; scurovisione 18 m  
 **lingue:** Comune più altre due lingue  
 **grado_sfida:** 5  
@@ -13613,7 +13613,7 @@ Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che 
 
 **abilita:** Furtività +6, Percezione +6  
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, paralizzato, pietrificato  
+**immunita_condizione:** avvelenato, paralizzato, pietrificato  
 **sensi:** Percezione passiva 16; percezione tellurica 18 m, scurovisione 18 m
 **lingue:** Primordiale (Terran)  
 **grado_sfida:** 5  
@@ -13675,7 +13675,7 @@ Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in lin
 - carisma: -3
 
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 8; scurovisione 18 m  
 **lingue:** capisce il Comune più un'altra lingua ma non le parla
 **grado_sfida:** 1/4  
@@ -13723,7 +13723,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni contu
 - carisma: -3
 
 **immunita_danni:** veleno  
-**imminita_condizione:** avvelenato, indebolimento  
+**immunita_condizione:** avvelenato, indebolimento  
 **sensi:** Percezione passiva 8; scurovisione 18 m  
 **lingue:** capisce il Comune e il Gigante ma non li parla  
 **grado_sfida:** 2  
@@ -14237,7 +14237,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**imminita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 8; scurovisione 18 m  
 **lingue:** nessuna  
 **grado_sfida:** 1  
@@ -14841,7 +14841,7 @@ Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni per
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**imminita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; vista cieca 3 m  
 **lingue:** nessuna  
 **grado_sfida:** 2  
@@ -14892,7 +14892,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 - carisma: -4
 
 **resistenze:** contundente, perforante, tagliente  
-**imminita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 10; scurovisione 9 m  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
@@ -17252,7 +17252,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 - carisma: -5
 
 **resistenze:** contundente, perforante, tagliente 
-**immunità_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
+**immunita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
 **sensi:** Percezione passiva 8; vista cieca 9 m
 **lingue:** nessuna  
 **grado_sfida:** 1/2
@@ -17304,7 +17304,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da ve
 - carisma: -3
 
 **resistenze:** contundente, perforante, tagliente 
-**immunità_condizioni:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
+**immunita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto 
 **sensi:** Percezione passiva 11; vista cieca 18 m
 **lingue:** nessuna  
 **grado_sfida:** 1/4
@@ -17824,7 +17824,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perfo
 
 **abilita:** Percezione +5  
 **resistenze:** contundente, perforante, tagliente  
-**imminita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
+**immunita_condizione:** affascinato, afferrato, paralizzato, pietrificato, prono, spaventato, stordito, trattenuto
 **sensi:** Percezione passiva 15  
 **lingue:** nessuna  
 **grado_sfida:** 1/4  
