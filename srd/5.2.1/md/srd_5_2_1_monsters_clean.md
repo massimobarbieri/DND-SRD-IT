@@ -1,7 +1,7 @@
 # SRD 5.2.1 - Mostri (MD pulito)
 
 ## Aboleth
-
+**id:** aboleth
 **tipo:** Aberrazione
 **dimensione:** Grande
 **allineamento:** legale malvagio  
@@ -79,7 +79,7 @@ L'aboleth effettua un attacco Tentacolo.
 ---
 
 ## Ameba paglierina
-
+**id:** ameba_paglierina
 **tipo:** Melma
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -136,7 +136,7 @@ L'ameba può scalare le superfici difficili, compresi i soffitti, senza effettua
 ---
 
 ## Ankheg
-
+**id:** ankheg
 **tipo:** Mostruosità  
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -185,7 +185,7 @@ L'ankheg può scavare nella roccia a metà della sua velocità di scavo e lascia
 ---
 
 ## Arpia
-
+**id:** arpia
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** caotico malvagio  
@@ -229,7 +229,7 @@ L'arpia intona un canto melodioso, che dura finché non termina la sua concentra
 ---
 
 ## Orda di artigli striscianti
-
+**id:** orda_di_artigli_striscianti
 **gruppo:** Artiglio strisciante  
 **tipo:** Sciame  
 **dimensione:** Medio
@@ -281,7 +281,7 @@ L'orda può occupare lo spazio di un'altra creatura e viceversa, e può muoversi
 ---
 
 ## Assassino
-
+**id:** assassino
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -341,7 +341,7 @@ L'assassino effettua l'azione di Disimpegno, Nascondersi o Scatto.
 ---
 
 ## Azer sentinella
-
+**id:** azer_sentinella
 **gruppo:** Azer
 **tipo:** Elementale
 **dimensione:** Medio
@@ -393,7 +393,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni contu
 ---
 
 ## Balor
-
+**id:** balor
 **tipo:** Immondo (demone)
 **dimensione:** Enorme
 **allineamento:** caotico malvagio  
@@ -463,7 +463,7 @@ Il balor teletrasporta se stesso (o un demone consenziente entro 3 metri da sé)
 ---
 
 ## Bandito
-
+**id:** bandito
 **gruppo:** Banditi  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -509,7 +509,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni tagli
 ---
 
 ## Capo dei banditi
-
+**id:** capo_dei_banditi
 **gruppo:** Banditi
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -564,7 +564,7 @@ Attivazione: il bandito viene colpito da un tiro per colpire in mischia mentre t
 ---
 
 ## Basilisco
-
+**id:** basilisco
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** senza allineamento  
@@ -610,7 +610,7 @@ Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 9 metri. S
 ---
 
 ## Beccoaguzzo
-
+**id:** beccoaguzzo
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -651,7 +651,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m *Colpito:* 6 (1d8 + 2) danni tagl
 ---
 
 ## Behir
-
+**id:** behir
 **tipo:** Mostruosità
 **dimensione:** Enorme
 **allineamento:** neutrale malvagio  
@@ -708,7 +708,7 @@ Tiro salvezza su Destrezza: CD 18, una creatura di taglia Grande o inferiore aff
 ---
 
 ## Berserker
-
+**id:** berserker
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -755,7 +755,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 9 (1d12 + 3) danni tagli
 ---
 
 ## Bruto
-
+**id:** bruto
 **gruppo:** Bruti  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -806,7 +806,7 @@ Tiro per colpire a distanza: +3, gittata 30/120 m. Colpito: 6 (1d10 + 1) danni p
 ---
 
 ## Capo dei bruti
-
+**id:** capo_dei_bruti
 **gruppo:** Bruti  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -860,7 +860,7 @@ Tiro per colpire a distanza: +4, gittata 30/120 m. Colpito: 13 (2d10 + 2) danni 
 ---
 
 ## Bugbear cacciatore
-
+**id:** bugbear_cacciatore
 **gruppo:** Bugbear
 **tipo:** Folletto (goblinoide)
 **dimensione:** Medio
@@ -920,7 +920,7 @@ Tiro salvezza su Destrezza: CD 13, una creatura di taglia Media o inferiore che 
 ---
 
 ## Bugbear guerriero
-
+**id:** bugbear_guerriero
 **gruppo:** Bugbear
 **tipo:** Folletto (goblinoide)
 **dimensione:** Medio
@@ -972,7 +972,7 @@ Tiro per colpire in mischia: +4, portata 3 m. *Colpito:* 9 (2d6 + 2) danni contu
 ---
 
 ## Bulette
-
+**id:** bulette
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -1025,7 +1025,7 @@ Il bulette salta fino a un massimo di 9 metri usando 3 metri di movimento.
 ---
 
 ## Cacciatore invisibile
-
+**id:** cacciatore_invisibile
 **tipo:** Elementale
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -1084,7 +1084,7 @@ Tiro salvezza su Costituzione: CD 14, una creatura di taglia Grande o inferiore 
 ---
 
 ## Cane della morte
-
+**id:** cane_della_morte
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** neutrale malvagio  
@@ -1130,7 +1130,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. *Colpito:* 4 (1d4 + 2) danni per
 ---
 
 ## Cane intermittente
-
+**id:** cane_intermittente
 **tipo:** Folletto
 **dimensione:** Medio
 **allineamento:** legale buono  
@@ -1177,7 +1177,7 @@ Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che 
 ---
 
 ## Cavaliere
-
+**id:** cavaliere
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale
@@ -1231,7 +1231,7 @@ Attivazione: il cavaliere viene colpito da un tiro per colpire in mischia mentre
 ---
 
 ## Cavallo degli incubi
-
+**id:** cavallo_degli_incubi
 **tipo:** Immondo
 **dimensione:** Grande
 **allineamento:** neutrale malvagio
@@ -1284,7 +1284,7 @@ Il cavallo degli incubi e un massimo di tre creature consenzienti situate entro 
 ---
 
 ## Centauro combattente
-
+**id:** centauro_combattente
 **gruppo:** Centauro
 **tipo:** Folletto
 **dimensione:** Grande
@@ -1339,7 +1339,7 @@ Il centauro si muove fino alla sua velocità massima senza provocare attacchi di
 ---
 
 ## Chimera
-
+**id:** chimera
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -1393,7 +1393,7 @@ Tiro salvezza su Destrezza: CD 15, tutte le creature in un cono di 4,5 metri. Fa
 ---
 
 ## Chuul
-
+**id:** chuul
 **tipo:** Aberrazione
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -1451,7 +1451,7 @@ Tiro salvezza su Costituzione: CD 13, una creatura afferrata dal chuul. Fallimen
 ---
 
 ## Cinghiale mannaro
-
+**id:** cinghiale_mannaro
 **tipo:** Mostruosità (licantropo)
 **dimensione:** Media o Piccola
 **allineamento:** neutrale malvagio 
@@ -1508,7 +1508,7 @@ Il cinghiale mannaro si trasforma in un ibrido umanoide-cinghiale di taglia Medi
 ---
 
 ## Coboldo guerriero
-
+**id:** coboldo_guerriero
 **gruppo:** Coboldo
 **tipo:** Drago
 **dimensione:** Piccolo
@@ -1559,7 +1559,7 @@ Tiro per colpire in mischia o a distanza: +4, portata 1,5 m o gittata 6/18 m. Co
 ---
 
 ## Coccatrice
-
+**id:** coccatrice
 **tipo:** Mostruosità
 **dimensione:** Piccola
 **allineamento:** senza allineamento  
@@ -1601,7 +1601,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 3 (1d4 + 1) danni perfo
 ---
 
 ## Couatl
-
+**id:** couatl
 **tipo:** Celestiale
 **dimensione:** Medio
 **allineamento:** legale buono  
@@ -1660,7 +1660,7 @@ Il couatl lancia benedizione, ristorare inferiore o santuario senza bisogno di c
 ---
 
 ## Cubo gelatinoso
-
+**id:** cubo_gelatinoso
 **tipo:** Melma
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -1714,7 +1714,7 @@ Il cubo si muove fino alla sua velocità massima senza provocare attacchi di opp
 ---
 
 ## Cultista
-
+**id:** cultista
 **gruppo:** Cultisti
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -1758,7 +1758,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 3 (1d4 + 1) danni taglie
 ---
 
 ## Cultista fanatico
-
+**id:** cultista_fanatico
 **gruppo:** Cultisti
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -1810,7 +1810,7 @@ Il cultista lancia l'incantesimo arma spirituale, utilizzando la stessa caratter
 ---
 
 ## Cumulo strisciante
-
+**id:** cumulo_strisciante
 **tipo:** Vegetale
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -1866,7 +1866,7 @@ Tiro salvezza su Forza: CD 15, una creatura di taglia Media o inferiore entro 1,
 ---
 
 ## Deva
-
+**id:** deva
 **tipo:** Celestiale (angelo)
 **dimensione:** Medio
 **allineamento:** legale buono  
@@ -1929,7 +1929,7 @@ Il deva lancia cura ferite, rimuovi maledizione o ristorare inferiore, utilizzan
 ---
 
 ## Diavolo barbuto
-
+**id:** diavolo_barbuto
 **tipo:** Immondo (diavolo)
 **dimensione:** Medio
 **allineamento:** legale malvagio  
@@ -1984,7 +1984,7 @@ Tiro per colpire in mischia: +5, portata 3 m. Colpito: 8 (1d10 + 3) danni taglie
 ---
 
 ## Diavolo cornuto
-
+**id:** diavolo_cornuto
 **tipo:** Immondo (diavolo)
 **dimensione:** Grande
 **allineamento:** legale malvagio  
@@ -2045,7 +2045,7 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il diavolo è in grado di ve
 ---
 
 ## Diavolo del ghiaccio
-
+**id:** diavolo_del_ghiaccio
 **tipo:** Immondo (diavolo)
 **dimensione:** Grande
 **allineamento:** legale malvagio  
@@ -2106,7 +2106,7 @@ Il diavolo lancia muro di ghiaccio (di 8º livello), senza bisogno di componenti
 ---
 
 ## Diavolo della fossa
-
+**id:** diavolo_della_fossa
 **tipo:** Immondo (diavolo)
 **dimensione:** Grande
 **allineamento:** legale malvagio  
@@ -2177,7 +2177,7 @@ Il diavolo della fossa lancia palla di fuoco (di 5º livello) due volte, senza b
 ---
 
 ## Diavolo delle catene
-
+**id:** diavolo_delle_catene
 **tipo:** Immondo (diavolo)
 **dimensione:** Medio
 **allineamento:** legale malvagio  
@@ -2240,7 +2240,7 @@ Attivazione: una creatura che il diavolo è in grado di vedere inizia il suo tur
 ---
 
 ## Diavolo d'ossa
-
+**id:** diavolo_d'ossa
 **tipo:** Immondo (diavolo)
 **dimensione:** Grande
 **allineamento:** legale malvagio  
@@ -2300,7 +2300,7 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 15 (2d10 + 4) danni perfo
 ---
 
 ## Diavolo uncinato
-
+**id:** diavolo_uncinato
 **tipo:** Immondo (diavolo)
 **dimensione:** Medio
 **allineamento:** legale malvagio  
@@ -2366,7 +2366,7 @@ Tiro per colpire a distanza: +5, gittata 45 m. Colpito: 17 (5d6) danni da fuoco.
 ---
 
 ## Djinni
-
+**id:** djinni
 **tipo:** Elementale
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -2434,7 +2434,7 @@ A volontà: individuazione del bene e del male, individuazione del magico
 ---
 
 ## Doppelganger
-
+**id:** doppelganger
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** neutrale  
@@ -2491,7 +2491,7 @@ Il doppelganger si trasforma in un umanoide di taglia Media o Piccola, oppure ri
 ---
 
 ## Drago bianco cucciolo
-
+**id:** drago_bianco_cucciolo
 **gruppo:** Draghi bianchi
 **tipo:** Drago (cromatico)
 **dimensione:** Medio
@@ -2544,7 +2544,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 6 (1d8 + 2) danni taglie
 Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 22 (5d8) danni da freddo. Successo: danni dimezzati. 
 
 ## Drago bianco giovane
-
+**id:** drago_bianco_giovane
 **gruppo:** Draghi bianchi
 **tipo:** Drago (cromatico)
 **dimensione:** Grande
@@ -2597,7 +2597,7 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglien
 Tiro salvezza su Costituzione: CD 15, tutte le creature in un cono di 9 metri. Fallimento: 40 (9d8) danni da freddo. Successo: danni dimezzati.
 
 ## Drago bianco adulto
-
+**id:** drago_bianco_adulto
 **gruppo:** Draghi bianchi
 **tipo:** Drago (cromatico)
 **dimensione:** Enorme
@@ -2663,7 +2663,7 @@ Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma
 Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio. 
 
 ## Drago bianco antico 
-
+**id:** drago_bianco_antico
 **gruppo:** Draghi bianchi
 **tipo:** Drago (cromatico)
 **dimensione:** Mastodontico
@@ -2732,7 +2732,7 @@ Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarc
 ---
 
 ## Drago blu cucciolo
-
+**id:** drago_blu_cucciolo
 **gruppo:** Draghi blu
 **tipo:** Drago (cromatico)
 **dimensione:** Medio
@@ -2781,7 +2781,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni tagli
 Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 21 (6d6) danni da fulmine. Successo: danni dimezzati.
 
 ## Drago blu giovane 
-
+**id:** drago_blu_giovane
 **gruppo:** Draghi blu
 **tipo:** Drago (cromatico)
 **dimensione:** Grande
@@ -2829,7 +2829,7 @@ Tiro per colpire in mischia: +9, portata 3 m. Colpito: 12 (2d6 + 5) danni taglie
 Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. 
 
 ## Drago blu adulto
-
+**id:** drago_blu_adulto
 **gruppo:** Draghi blu
 **tipo:** Drago (cromatico)
 **dimensione:** Enorme
@@ -2899,7 +2899,7 @@ Il drago effettua un attacco Squarcio.
 Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare fino a metà della sua velocità di volo. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
 ## Drago blu antico 
-
+**id:** drago_blu_antico
 **gruppo:** Draghi blu
 **tipo:** Drago (cromatico)
 **dimensione:** Mastodontico
@@ -2973,7 +2973,7 @@ Il drago usa Incantesimi per lanciare invisibilità su se stesso, e può volare 
 ---
 
 ## Drago d'argento cucciolo
-
+**id:** drago_d'argento_cucciolo
 **gruppo:** Draghi d'argento
 **tipo:** Drago (metallico)
 **dimensione:** Medio
@@ -3024,7 +3024,7 @@ Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri.
 Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 4,5 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente.
 
 ## Drago d'argento giovane
-
+**id:** drago_d'argento_giovane
 **gruppo:** Draghi d'argento
 **tipo:** Drago (metallico)
 **dimensione:** Grande
@@ -3075,7 +3075,7 @@ Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. F
 Tiro salvezza su Costituzione: CD 17, tutte le creature in un cono di 9 metri. Primo fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo. A quel punto, ripete il tiro salvezza. Secondo fallimento: il bersaglio è paralizzato e ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
 ## Drago d'argento adulto
-
+**id:** drago_d'argento_adulto
 **gruppo:** Draghi d'argento
 **tipo:** Drago (metallico)
 **dimensione:** Enorme
@@ -3150,7 +3150,7 @@ Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squar
 Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 18 metri e larga 3 metri. Fallimento: 14 (4d6) danni da freddo, e il bersaglio viene spinto in linea retta fino a un massimo di 9 metri lontano dal drago. Successo: danni dimezzati. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ## Drago d'argento antico
-
+**id:** drago_d'argento_antico
 **gruppo:** Draghi d'argento
 **tipo:** Drago (metallico)
 **dimensione:** Mastodontico
@@ -3227,7 +3227,7 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 18 metri
 ---
 
 ## Drago di bronzo cucciolo
-
+**id:** drago_di_bronzo_cucciolo
 **gruppo:** Draghi di bronzo
 **tipo:** Drago (metallico)
 **dimensione:** Medio
@@ -3283,7 +3283,7 @@ Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 12 metri
 Tiro salvezza su Forza: CD 12, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 9 metri di distanza dal drago e cade a terra prono. 
 
 ## Drago di bronzo giovane
-
+**id:** drago_di_bronzo_giovane
 **gruppo:** Draghi di bronzo
 **tipo:** Drago (metallico)
 **dimensione:** Grande
@@ -3339,7 +3339,7 @@ Tiro salvezza su Destrezza: CD 15, tutte le creature in una linea lunga 18 metri
 Tiro salvezza su Forza: CD 15, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 12 metri di distanza dal drago e cade a terra prono. 
 
 ## Drago di bronzo adulto 
-
+**id:** drago_di_bronzo_adulto
 **gruppo:** Draghi di bronzo
 **tipo:** Drago (metallico)
 **dimensione:** Enorme
@@ -3417,7 +3417,7 @@ Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
 Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 10 (3d6) danni da tuono, e il bersaglio è assordato fino al termine del proprio turno successivo. 
 
 ## Drago di bronzo antico 
-
+**id:** drago_di_bronzo_antico
 **gruppo:** Draghi di bronzo
 **tipo:** Drago (metallico)
 **dimensione:** Mastodontico
@@ -3497,7 +3497,7 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in una sfera di 6 metri 
 ---
 
 ## Drago di rame cucciolo
-
+**id:** drago_di_rame_cucciolo
 **gruppo:** Draghi di rame
 **tipo:** Drago (metallico)
 **dimensione:** Medio
@@ -3545,7 +3545,7 @@ Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri 
 Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
 
 ## Drago di rame giovane
-
+**id:** drago_di_rame_giovane
 **gruppo:** Draghi di rame
 **tipo:** Drago (metallico)
 **dimensione:** Grande
@@ -3596,7 +3596,7 @@ Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri
 Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio non può effettuare reazioni, la sua velocità è dimezzata e nel suo turno può effettuare un'azione o un'azione bonus, non entrambe. L'effetto dura fino al termine del proprio turno successivo. 
 
 ## Drago di rame adulto
-
+**id:** drago_di_rame_adulto
 **gruppo:** Draghi di rame
 **tipo:** Drago (metallico)
 **dimensione:** Enorme
@@ -3671,7 +3671,7 @@ Tiro salvezza su Carisma: CD 17, una creatura che il drago è in grado di vedere
 Il drago usa Incantesimi per lanciare aculeo mentale (di 4º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
 ## Drago di rame antico
-
+**id:** drago_di_rame_antico
 **gruppo:** Draghi di rame
 **tipo:** Drago (metallico)
 **dimensione:** Mastodontico
@@ -3748,7 +3748,7 @@ Il drago usa Incantesimi per lanciare aculeo mentale (di 5º livello). il drago 
 ---
 
 ## Drago d'oro cucciolo
-
+**id:** drago_d'oro_cucciolo
 **gruppo:** Draghi d'oro
 **tipo:** Drago (metallico)
 **dimensione:** Medio
@@ -3804,7 +3804,7 @@ Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fa
 Tiro salvezza su Forza: CD 13, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 4,5 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 2 (1d4) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
 ## Drago d'oro giovane
-
+**id:** drago_d'oro_giovane
 **gruppo:** Draghi d'oro
 **tipo:** Drago (metallico)
 **dimensione:** Grande
@@ -3860,7 +3860,7 @@ Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fall
 Tiro salvezza su Forza: CD 17, ogni creatura che al momento non è sotto l'effetto di questo soffio in un cono di 9 metri. Fallimento: il bersaglio subisce svantaggio alle prove con d20 basate sulla Forza e sottrae 3 (1d6) ai tiri per i danni. La creatura ripete il tiro salvezza alla fine di ogni suo turno e, se lo supera, l'effetto svanisce. Dopo 1 minuto, il tiro viene superato automaticamente. 
 
 ## Drago d'oro adulto
-
+**id:** drago_d'oro_adulto
 **gruppo:** Draghi d'oro
 **tipo:** Drago (metallico)
 **dimensione:** Enorme
@@ -3938,7 +3938,7 @@ Il drago usa Incantesimi per lanciare dardo tracciante (di 2º livello).
 Tiro salvezza su Carisma: CD 21, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 10 (3d6) danni da forza, il bersaglio è incapacitato e viene trasportato su un semipiano sicuro fino all'inizio del turno successivo del drago, durante cui riappare in uno spazio libero a scelta del drago entro 36 metri da quest'ultimo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
 ## Drago d'oro antico
-
+**id:** drago_d'oro_antico
 **gruppo:** Draghi d'oro
 **tipo:** Drago (metallico)
 **dimensione:** Mastodontico
@@ -4016,7 +4016,7 @@ Tiro salvezza su Carisma: CD 24, una creatura che il drago è in grado di vedere
 ---
 
 ## Drago d'ottone cucciolo
-
+**id:** drago_d'ottone_cucciolo
 **gruppo:** Draghi d'ottone
 **tipo:** Drago (metallico)
 **dimensione:** Medio
@@ -4064,7 +4064,7 @@ Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 6 metri 
 Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo. 
 
 ## Drago d'ottone giovane
-
+**id:** drago_d'ottone_giovane
 **gruppo:** Draghi d'ottone
 **tipo:** Drago (metallico)
 **dimensione:** Grande
@@ -4115,7 +4115,7 @@ Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 12 metri
 Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio è incapacitato fino al termine del proprio turno successivo, a quel punto ripete il tiro salvezza. Secondo fallimento: il bersaglio cade privo di sensi per 1 minuto. Questo effetto termina se il bersaglio subisce danni o se una creatura entro 1,5 metri da esso esegue un'azione per svegliarlo.
 
 ## Drago d'ottone adulto
-
+**id:** drago_d'ottone_adulto
 **gruppo:** Draghi d'ottone
 **tipo:** Drago (metallico)
 **dimensione:** Enorme
@@ -4190,7 +4190,7 @@ Il drago usa Incantesimi per lanciare raggio rovente.
 Tiro salvezza su Destrezza: CD 16, una creatura che il drago è in grado di vedere entro 36 metri. Fallimento: 27 (6d8) danni da fuoco, e la velocità del bersaglio è dimezzata fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
 
 ## Drago d'ottone antico 
-
+**id:** drago_d'ottone_antico
 **gruppo:** Draghi d'ottone
 **tipo:** Drago (metallico)
 **dimensione:** Mastodontico
@@ -4267,7 +4267,7 @@ Tiro salvezza su Destrezza: CD 20, una creatura che il drago è in grado di vede
 ---
 
 ## Drago nero cucciolo
-
+**id:** drago_nero_cucciolo
 **gruppo:** Draghi neri
 **tipo:** Drago (cromatico)
 **dimensione:** Medio
@@ -4320,7 +4320,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni taglie
 Tiro salvezza su Destrezza: CD 11, tutte le creature in una linea lunga 4,5 metri e larga 1,5 metri. Fallimento: 22 (5d8) danni da acido. Successo: danni dimezzati. 
 
 ## Drago nero giovane
-
+**id:** drago_nero_giovane
 **gruppo:** Draghi neri
 **tipo:** Drago (cromatico)
 **dimensione:** Grande
@@ -4373,7 +4373,7 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglien
 Tiro salvezza su Destrezza: CD 14, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 49 (14d6) danni da acido. Successo: danni dimezzati.
 
 ## Drago nero adulto
-
+**id:** drago_nero_adulto
 **gruppo:** Draghi neri
 **tipo:** Drago (cromatico)
 **dimensione:** Enorme
@@ -4448,7 +4448,7 @@ Tiro salvezza su Destrezza: CD 17, una creatura che il drago è in grado di vede
 Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
 ## Drago nero antico
-
+**id:** drago_nero_antico
 **gruppo:** Draghi neri
 **tipo:** Drago (cromatico)
 **dimensione:** Mastodontico
@@ -4525,7 +4525,7 @@ Il drago usa Incantesimi per lanciare paura. il drago non può ripetere quest'az
 ---
 
 ## Drago rosso cucciolo
-
+**id:** drago_rosso_cucciolo
 **gruppo:** Draghi rossi
 **tipo:** Drago (cromatico)
 **dimensione:** Medio
@@ -4573,7 +4573,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (1d10 + 4) danni tagl
 Tiro salvezza su Destrezza: CD 13, tutte le creature in un cono di 4,5 metri. Fallimento: 24 (7d6) danni da fuoco. Successo: danni dimezzati. 
 
 ## Drago rosso giovane
-
+**id:** drago_rosso_giovane
 **gruppo:** Draghi rossi
 **tipo:** Drago (cromatico)
 **dimensione:** Grande
@@ -4621,7 +4621,7 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 13 (2d6 + 6) danni tagli
 Tiro salvezza su Destrezza: CD 17, tutte le creature in un cono di 9 metri. Fallimento: 56 (16d6) danni da fuoco. Successo: danni dimezzati. 
 
 ## Drago rosso adulto
-
+**id:** drago_rosso_adulto
 **gruppo:** Draghi rossi
 **tipo:** Drago (cromatico)
 **dimensione:** Enorme
@@ -4692,7 +4692,7 @@ Il drago usa Incantesimi per lanciare comando (di 2º livello). il drago non pu�
 Il drago usa Incantesimi per lanciare raggio rovente. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
 ## Drago rosso antico
-
+**id:** drago_rosso_antico
 **gruppo:** Draghi rossi
 **tipo:** Drago (cromatico)
 **dimensione:** Mastodontico
@@ -4766,7 +4766,7 @@ Il drago usa Incantesimi per lanciare raggio rovente (di 3º livello). il drago 
 ---
 
 ## Drago verde cucciolo
-
+**id:** drago_verde_cucciolo
 **gruppo:** Draghi verdi
 **tipo:** Drago (cromatico)
 **dimensione:** Medio
@@ -4820,7 +4820,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (1d10 + 2) danni tagli
 Tiro salvezza su Costituzione: CD 11, tutte le creature in un cono di 4,5 metri. Fallimento: 21 (6d6) danni da veleno. Successo: danni dimezzati.
 
 ## Drago verde giovane 
-
+**id:** drago_verde_giovane
 **gruppo:** Draghi verdi
 **tipo:** Drago (cromatico)
 **dimensione:** Grande
@@ -4874,7 +4874,7 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni taglie
 Tiro salvezza su Costituzione: CD 14, tutte le creature in un cono di 9 metri. Fallimento: 42 (12d6) danni da veleno. Successo: danni dimezzati. 
 
 ## Drago verde adulto
-
+**id:** drago_verde_adulto
 **gruppo:** Draghi verdi
 **tipo:** Drago (cromatico)
 **dimensione:** Enorme
@@ -4950,7 +4950,7 @@ Il drago usa Incantesimi per lanciare aculeo mentale (di 3º livello).
 Tiro salvezza su Costituzione: CD 17, tutte le creature in una sfera di 6 metri di raggio centrata su un punto che il drago è in grado di vedere entro 27 metri. Fallimento: 7 (2d6) danni da veleno, e il bersaglio subisce una penalità di -2 alla CA fino al termine del proprio turno successivo. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo. 
 
 ## Drago verde antico
-
+**id:** drago_verde_antico
 **gruppo:** Draghi verdi
 **tipo:** Drago (cromatico)
 **dimensione:** Mastodontico
@@ -5028,7 +5028,7 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in una sfera di 9 metri 
 ---
 
 ## Dretch
-
+**id:** dretch
 **tipo:** Immondo (demone)
 **dimensione:** Piccolo
 **allineamento:** caotico malvagio  
@@ -5075,7 +5075,7 @@ Tiro salvezza su Costituzione: CD 11, tutte le creature in un'emanazione di 3 me
 ---
 
 ## Driade
-
+**id:** driade
 **tipo:** Folletto
 **dimensione:** Medio
 **allineamento:** neutrale  
@@ -5139,7 +5139,7 @@ Se si trova entro 1,5 metri da un albero di taglia Grande o superiore, la driade
 ---
 
 ## Drider
-
+**id:** drider
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -5204,7 +5204,7 @@ Il drider lancia luminescenza, oscurità o ragnatela, senza bisogno di component
 ---
 
 ## Druido
-
+**id:** druido
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -5260,7 +5260,7 @@ Il druido lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratte
 ---
 
 ## Efreeti
-
+**id:** efreeti
 **tipo:** Elementale (genio)
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -5322,7 +5322,7 @@ L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 **A volontà:** elementalismo, individuazione del magico 
 
 ## Elementale del fuoco
-
+**id:** elementale_del_fuoco
 **tipo:** Elementale
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -5383,7 +5383,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m Colpito: 10 (2d6 + 3) danni da fu
 ---
 
 ## Elementale dell'acqua
-
+**id:** elementale_dell'acqua
 **tipo:** Elementale
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -5441,7 +5441,7 @@ Tiro salvezza su Forza: CD 15, ogni creatura nello spazio dell'elementale. Falli
 ---
 
 ## Elementale dell'aria 
-
+**id:** elementale_dell'aria
 **tipo:** Elementale
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -5496,7 +5496,7 @@ Tiro salvezza su Forza: CD 13, una creatura di taglia Media o inferiore nello sp
 ---
 
 ## Elementale della terra
-
+**id:** elementale_della_terra
 **tipo:** Elementale
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -5554,7 +5554,7 @@ Tiro per colpire a distanza: +8, gittata 18 m. Colpito: 8 (1d6 + 5) danni contun
 ---
 
 ## Erinni
-
+**id:** erinni
 **tipo:** Immondo (diavolo)
 **dimensione:** Medio
 **allineamento:** legale malvagio  
@@ -5621,7 +5621,7 @@ Attivazione: l'erinni viene colpita da un tiro per colpire in mischia mentre tie
 ---
 
 ## Esploratore
-
+**id:** esploratore
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -5670,7 +5670,7 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 ---
 
 ## Ettercap
-
+**id:** ettercap
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** neutrale malvagio  
@@ -5734,7 +5734,7 @@ L'ettercap attira in linea retta verso di sé una creatura entro 9 metri tratten
 ---
 
 ## Ettin
-
+**id:** ettin
 **tipo:** Gigante
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -5784,7 +5784,7 @@ L'ettin effettua un attacco Ascia da battaglia e un attacco Mazza chiodata.
 ---
 
 ## Fantasma
-
+**id:** fantasma
 **tipo:** Non morto
 **dimensione:** Medio
 **allineamento:** neutrale  
@@ -5851,7 +5851,7 @@ Tiro salvezza su Saggezza: CD 13, tutte le creature in un cono di 18 metri in gr
 ---
 
 ## Fauce gorgogliante
-
+**id:** fauce_gorgogliante
 **tipo:** Aberrazione
 **dimensione:** Media
 **allineamento:** caotico neutrale  
@@ -5904,7 +5904,7 @@ Tiro salvezza su Destrezza: CD 10, tutte le creature in una sfera di 3 metri di 
 ---
 
 ## Boleto stridente
-
+**id:** boleto_stridente
 **gruppo:** Funghi  
 **tipo:** Vegetale
 **dimensione:** Medio
@@ -5947,7 +5947,7 @@ Attivazione: una creatura o una fonte di luce intensa si muove entro 9 metri dal
 ---
 
 ## Fungo viola
-
+**id:** fungo_viola
 **gruppo:** Funghi  
 **tipo:** Vegetale
 **dimensione:** Medio
@@ -5993,7 +5993,7 @@ Tiro per colpire in mischia: +2, portata 3 m. Colpito: 4 (1d8) danni necrotici.
 ---
 
 ## Fuoco fatuo
-
+**id:** fuoco_fatuo
 **tipo:** Non morto
 **dimensione:** Minuscolo
 **allineamento:** caotico malvagio  
@@ -6056,7 +6056,7 @@ Il fuoco fatuo e la luce che emana sono invisibili finché la sua concentrazione
 ---
 
 ## Fustigatore
-
+**id:** fustigatore
 **tipo:** Aberrazione
 **dimensione:** Grande
 **allineamento:** neutrale malvagio  
@@ -6112,7 +6112,7 @@ Il fustigatore tira in linea retta verso di sé ogni creatura che ha afferrato p
 ---
 
 ## Gargoyle
-
+**id:** gargoyle
 **tipo:** Elementale
 **dimensione:** Medio
 **allineamento:** caotico malvagio  
@@ -6164,7 +6164,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni tagli
 ---
 
 ## Ghast
-
+**id:** ghast
 **tipo:** Non morto
 **dimensione:** Medio
 **allineamento:** caotico malvagio  
@@ -6216,7 +6216,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 ---
 
 ## Ghoul
-
+**id:** ghoul
 **tipo:** Non morto
 **dimensione:** Medio
 **allineamento:** caotico malvagio  
@@ -6265,7 +6265,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 5 (1d6 + 2) danni perfor
 ---
 
 ## Gigante del fuoco
-
+**id:** gigante_del_fuoco
 **gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
@@ -6315,7 +6315,7 @@ Tiro per colpire a distanza: +11, portata 18/72 m. Colpito: 23 (3d10 + 7) danni 
 ---
 
 ## Gigante del gelo
-
+**id:** gigante_del_gelo
 **gruppo:** Giganti  
 **tipo:** Gigante  
 **dimensione:** Enorme  
@@ -6370,7 +6370,7 @@ Il gigante o una creatura a sua scelta che il gigante è in grado di vedere o di
 ---
 
 ## Gigante delle colline
-
+**id:** gigante_delle_colline
 **gruppo:** Giganti  
 **tipo:** Gigante  
 **dimensione:** Enorme  
@@ -6419,7 +6419,7 @@ Tiro per colpire a distanza: +8, gittata 18/72 m. Colpito: 16 (2d10 + 5) danni c
 ---
 
 ## Gigante delle nuvole 
-
+**id:** gigante_delle_nuvole
 **gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
@@ -6478,7 +6478,7 @@ Il gigante lancia l'incantesimo passo velato, utilizzando la stessa caratteristi
 ---
 
 ## Gigante delle pietre
-
+**id:** gigante_delle_pietre
 **gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
@@ -6532,7 +6532,7 @@ Attivazione: il gigante viene colpito da un tiro per colpire a distanza che gli 
 ---
 
 ## Gigante delle tempeste
-
+**id:** gigante_delle_tempeste
 **gruppo:** Giganti  
 **tipo:** Gigante
 **dimensione:** Enorme
@@ -6591,7 +6591,7 @@ Tiro salvezza su Destrezza: CD 18, ogni creatura in un cilindro di 3 metri di ra
 ---
 
 ## Glabrezu
-
+**id:** glabrezu
 **tipo:** Immondo (demone)
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -6653,7 +6653,7 @@ Tiro salvezza su Destrezza: CD 17, una creatura afferrata dal glabrezu. Fallimen
 ---
 
 ## Gladiatore
-
+**id:** gladiatore
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -6707,7 +6707,7 @@ Attivazione: il gladiatore viene colpito da un tiro per colpire in mischia mentr
 ---
 
 ## Gnoll guerriero
-
+**id:** gnoll_guerriero
 **gruppo:** Gnoll
 **dimensione:** Medio
 **tipo:** Immondo  
@@ -6759,7 +6759,7 @@ Subito dopo aver inflitto danni a una creatura già sanguinante, lo gnoll si muo
 ---
 
 ## Goblin tirapiedi
-
+**id:** goblin_tirapiedi
 **gruppo:** Goblin  
 **tipo:** Folletto (goblinoide)
 **dimensione:** Piccolo
@@ -6808,7 +6808,7 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi.
 ---
 
 ## Goblin guerriero
-
+**id:** goblin_guerriero
 **gruppo:** Goblin  
 **tipo:** Folletto (goblinoide)
 **dimensione:** Piccolo
@@ -6860,7 +6860,7 @@ Il goblin effettua l'azione di Disimpegno o Nascondersi.
 ---
 
 ## Goblin capo
-
+**id:** goblin_capo
 **gruppo:** Goblin
 **tipo:** Folletto
 **dimensione:** Piccolo
@@ -6921,7 +6921,7 @@ Attivazione: Una creatura che il goblin è in grado di vedere effettua un tiro p
 ---
 
 ## Golem di argilla
-
+**id:** golem_di_argilla
 **tipo:** Costrutto
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -6987,7 +6987,7 @@ Il golem effettua le azioni di Disimpegno e Scatto.
 ---
 
 ## Golem di carne
-
+**id:** golem_di_carne
 **tipo:** Costrutto
 **dimensione:** Medio
 **allineamento:** neutrale  
@@ -7050,7 +7050,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 ---
 
 ## Golem di ferro
-
+**id:** golem_di_ferro
 **tipo:** Costrutto
 **dimensione:** Grande
 **allineamento:** senza allineamento
@@ -7113,7 +7113,7 @@ Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. 
 ---
 
 ## Golem di pietra
-
+**id:** golem_di_pietra
 **tipo:** Costrutto
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -7175,7 +7175,7 @@ Il golem lancia l'incantesimo lentezza, senza bisogno di componenti e utilizzand
 ---
 
 ## Gorgone
-
+**id:** gorgone
 **tipo:** Costrutto
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -7226,7 +7226,7 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 ---
 
 ## Grick
-
+**id:** grick
 **tipo:** Aberrazione
 **dimensione:** Media
 **allineamento:** senza allineamento  
@@ -7274,7 +7274,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (1d10 + 2) danni tagl
 ---
 
 ## Grifone
-
+**id:** grifone
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -7319,7 +7319,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d8 + 4) danni perfo
 ---
 
 ## Grimlock
-
+**id:** grimlock
 **tipo:** Aberrazione
 **dimensione:** Media
 **allineamento:** neutrale malvagio  
@@ -7361,7 +7361,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni contun
 ---
 
 ## Guardiano protettore
-
+**id:** guardiano_protettore
 **tipo:** Costrutto
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -7423,7 +7423,7 @@ Attivazione: un tiro per colpire va a segno sul portatore dell'amuleto del guard
 ---
 
 ## Guardia
-
+**id:** guardia
 **gruppo:** Guardie  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -7467,7 +7467,7 @@ Tiro per colpire in mischia o a distanza: +3, portata 1,5 m o gittata 6/18 m. Co
 ---
 
 ## Capitano delle guardie
-
+**id:** capitano_delle_guardie
 **gruppo:** Guardie 
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -7517,7 +7517,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni tag
 ---
 
 ## Guerriero di fanteria
-
+**id:** guerriero_di_fanteria
 **gruppo:** Guerrieri  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -7565,7 +7565,7 @@ Tiro per colpire in mischia o a distanza: +3, portata 1,5 m o gittata 6/18 m. Co
 ---
 
 ## Guerriero veterano
-
+**id:** guerriero_veterano
 **gruppo:** Guerrieri  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -7620,7 +7620,7 @@ Attivazione: il guerriero viene colpito da un tiro per colpire in mischia mentre
 ---
 
 ## Hezrou
-
+**id:** hezrou
 **tipo:** Immondo (demone)
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -7683,7 +7683,7 @@ L'hezrou salta fino a 9 metri usando 3 metri di movimento.
 ---
 
 ## Hobgoblin guerriero
-
+**id:** hobgoblin_guerriero
 **gruppo:** Hobgoblin  
 **tipo:** Folletto (goblinoide)
 **dimensione:** Medio
@@ -7734,7 +7734,7 @@ Tiro per colpire a distanza: +3, gittata 45/180 m. Colpito: 5 (1d8 + 1) danni pe
 ---
 
 ## Hobgoblin capitano
-
+**id:** hobgoblin_capitano
 **gruppo:** Hobgoblin 
 **tipo:** Folletto (goblinoide)
 **dimensione:** Medio
@@ -7788,7 +7788,7 @@ Tiro per colpire a distanza: +4, gittata 45/180 m. Colpito: 6 (1d8 + 2) danni pe
 ---
 
 ## Idra
-
+**id:** idra
 **tipo:** Mostruosità
 **dimensione:** Enorme
 **allineamento:** senza allineamento  
@@ -7845,7 +7845,7 @@ Tiro per colpire in mischia: +8, portata 3 m. Colpito: 10 (1d10 + 5) danni perfo
 ---
 
 ## Imp
-
+**id:** imp
 **tipo:** Immondo (diavolo)
 **dimensione:** Minuscolo
 **allineamento:** legale malvagio  
@@ -7901,7 +7901,7 @@ L'imp può assumere la forma bestiale di un topo (velocità 6 m), un corvo (6 m,
 ---
 
 ## Incubo
-
+**id:** incubo
 **tipo:** Immondo
 **dimensione:** Medio
 **allineamento:** neutrale malvagio  
@@ -7962,7 +7962,7 @@ Tiro salvezza su Saggezza: CD 15, una creatura che l'incubo è in grado di veder
 ---
 
 ## Ippogrifo
-
+**id:** ippogrifo
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -8012,7 +8012,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni tagli
 ---
 
 ## Kraken
-
+**id:** kraken
 **tipo:** Mostruosità
 **dimensione:** Mastodontico
 **allineamento:** caotico malvagio  
@@ -8090,7 +8090,7 @@ Il kraken usa Colpo del fulmine.
 ---
 
 ## Lamia
-
+**id:** lamia
 **tipo:** Immondo
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -8148,7 +8148,7 @@ Il lamia salta fino a 9 metri usando 3 metri di movimento.
 ---
 
 ## Lemure
-
+**id:** lemure
 **tipo:** Immondo (diavolo)
 **dimensione:** Medio
 **allineamento:** legale malvagio  
@@ -8197,7 +8197,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni da veleno
 ---
 
 ## Lich
-
+**id:** lich
 **tipo:** Non morto (mago)
 **dimensione:** Medio
 **allineamento:** neutrale malvagio  
@@ -8282,7 +8282,7 @@ Il lich si teletrasporta fino a 18 metri in uno spazio libero che è in grado di
 ---
 
 ## Lupo invernale
-
+**id:** lupo_invernale
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** neutrale malvagio  
@@ -8333,7 +8333,7 @@ Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri.
 ---
 
 ## Lupo mannaro
-
+**id:** lupo_mannaro
 **tipo:** Mostruosità (licantropo)
 **dimensione:** Media o Piccola
 **allineamento:** caotico malvagio  
@@ -8396,7 +8396,7 @@ Il lupo mannaro si trasforma in un ibrido umanoide-lupo di taglia Grande o in un
 ---
 
 ## Mago
-
+**id:** mago
 **gruppo:** Maghi
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -8459,7 +8459,7 @@ Il mago lancia controincantesimo o scudo come risposta all'innesco dell'incantes
 ---
 
 ## Arcimago
-
+**id:** arcimago
 **gruppo:** Maghi
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -8529,7 +8529,7 @@ L'arcimago lancia controincantesimo o scudo come risposta all'innesco dell'incan
 ---
 
 ## Magmin
-
+**id:** magmin
 **tipo:** Elementale
 **dimensione:** Piccolo
 **allineamento:** caotico neutrale  
@@ -8581,7 +8581,7 @@ Il magmin si incendia o estingue le sue fiamme. Finché è in fiamme, proietta l
 ---
 
 ## Manticora
-
+**id:** manticora
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** legale malvagio  
@@ -8628,7 +8628,7 @@ Tiro per colpire a distanza: +5, gittata 30/60 m. Colpito: 7 (1d8 + 3) danni per
 ---
 
 ## Manto assassino
-
+**id:** manto_assassino
 **tipo:** Aberrazione
 **dimensione:** Grande
 **allineamento:** caotico neutrale  
@@ -8690,7 +8690,7 @@ Tiro salvezza su Saggezza: CD 13, tutte le creature in un'emanazione di 18 metri
 ---
 
 ## Mantoscuro
-
+**id:** mantoscuro
 **tipo:** Aberrazione
 **dimensione:** Piccola
 **allineamento:** senza allineamento  
@@ -8735,7 +8735,7 @@ L'oscurità magica riempie un'emanazione di 4,5 metri di cui il mantoscuro è il
 ---
 
 ## Marilith
-
+**id:** marilith
 **tipo:** Immondo (demone)
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -8807,7 +8807,7 @@ Attivazione: il marilith viene colpito da un tiro per colpire in mischia mentre 
 ---
 
 ## Marinide schermagliatore
-
+**id:** marinide_schermagliatore
 **gruppo:** Marinide  
 **tipo:** Elementale
 **dimensione:** Medio
@@ -8854,7 +8854,7 @@ Tiro per colpire in mischia o a distanza: +2, portata 1,5 m o gittata 6/18 m. Co
 ---
 
 ## Medusa
-
+**id:** medusa
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** legale malvagio  
@@ -8910,7 +8910,7 @@ Tiro salvezza su Costituzione: CD 13, tutte le creature in un cono di 9 metri. S
 ---
 
 ## Megera marina
-
+**id:** megera_marina
 **tipo:** Folletto
 **dimensione:** Medio
 **allineamento:** caotico malvagio  
@@ -8968,7 +8968,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura spaventata che la megera è in gr
 ---
 
 ## Megera notturna
-
+**id:** megera_notturna
 **tipo:** Immondo
 **dimensione:** Medio
 **allineamento:** neutrale malvagio  
@@ -9039,7 +9039,7 @@ La megera si trasforma in un umanoide di taglia Piccola o Media, oppure torna al
 ---
 
 ## Megera verde
-
+**id:** megera_verde
 **tipo:** Folletto
 **dimensione:** Medio
 **allineamento:** neutrale malvagio  
@@ -9097,7 +9097,7 @@ La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti mater
 **A volontà:** Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio di infermità (di 3º livello).
 
 ## Melma Grigia
-
+**id:** melma_grigia
 **tipo:** Melma
 **dimensione:** Media
 **allineamento:** senza allineamento
@@ -9149,7 +9149,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 10 (2d8 + 1) danni da a
 ---
 
 ## Mephit del ghiaccio
-
+**id:** mephit_del_ghiaccio
 **gruppo:** Mephit  
 **tipo:** Elementale
 **dimensione:** Piccolo
@@ -9206,7 +9206,7 @@ Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri.
 ---
 
 ## Mephit del magma
-
+**id:** mephit_del_magma
 **gruppo:** Mephit  
 **tipo:** Elementale
 **dimensione:** Piccolo
@@ -9260,7 +9260,7 @@ Tiro salvezza su Destrezza: CD 11, tutte le creature in un cono di 4,5 metri. Fa
 ---
 
 ## Mephit del vapore
-
+**id:** mephit_del_vapore
 **gruppo:** Mephit 
 **tipo:** Elementale
 **dimensione:** Piccolo
@@ -9316,7 +9316,7 @@ Tiro salvezza su Costituzione: CD 10, tutte le creature in un cono di 4,5 metri.
 ---
 
 ## Mephit della polvere
-
+**id:** mephit_della_polvere
 **gruppo:** Mephit 
 **tipo:** Elementale
 **dimensione:** Piccolo
@@ -9373,7 +9373,7 @@ Il mephit lancia sonno senza bisogno di componenti, utilizzando Carisma come car
 ---
 
 ## Merrow
-
+**id:** merrow
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -9428,7 +9428,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni perfo
 ---
 
 ## Mezzodrago
-
+**id:** mezzodrago
 **tipo:** Drago
 **dimensione:** Medio
 **allineamento:** neutrale  
@@ -9487,7 +9487,7 @@ Il mezzodrago salta fino a 9 metri usando 3 metri di movimento.
 ---
 
 ## Mimic
-
+**id:** mimic
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** neutrale  
@@ -9544,7 +9544,7 @@ Il mimic assume la forma di un oggetto Medio o Piccolo, mantenendo le proprie st
 ---
 
 ## Minotauro di Baphomet
-
+**id:** minotauro_di_baphomet
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -9589,7 +9589,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 18 (4d6 + 4) danni perf
 ---
 
 ## Mummia
-
+**id:** mummia
 **gruppo:** Mummie  
 **tipo:** Non morto
 **dimensione:** Medio o Piccolo
@@ -9640,7 +9640,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura che la mummia è in grado di vede
 ---
 
 ## Signore delle mummie
-
+**id:** signore_delle_mummie
 **gruppo:** Mummie
 **tipo:** Non morto (chierico)
 **dimensione:** Medio o Piccolo
@@ -9730,7 +9730,7 @@ La mummia usa Sguardo funesto. Non può ripetere quest'azione fino all'inizio de
 ---
 
 ## Naga guardiana
-
+**id:** naga_guardiana
 **gruppo:** Naga
 **tipo:** Celestiale
 **dimensione:** Grande
@@ -9791,7 +9791,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di ve
 ---
 
 ## Naga spirituale
-
+**id:** naga_spirituale
 **gruppo:** Naga
 **tipo:** Immondo
 **dimensione:** Grande
@@ -9851,7 +9851,7 @@ La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatic
 ---
 
 ## Nalfeshnee
-
+**id:** nalfeshnee
 **tipo:** Immondo (demone)
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -9919,7 +9919,7 @@ Attivazione: un'altra creatura che il nalfeshnee è in grado di vedere termina i
 ---
 
 ## Nobile
-
+**id:** nobile
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -9967,7 +9967,7 @@ Attivazione: il nobile viene colpito da un tiro per colpire in mischia mentre ti
 ---
 
 ## Armatura animata
-
+**id:** armatura_animata
 **gruppo:** Oggetti animati
 **tipo:** Costrutto
 **dimensione:** Medio
@@ -10014,7 +10014,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 ---
 
 ## Spada volante animata
-
+**id:** spada_volante_animata
 **gruppo:** Oggetti animati
 **tipo:** Costrutto
 **dimensione:** Piccolo
@@ -10058,7 +10058,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni tagli
 ---
 
 ## Tappeto soffocante animato
-
+**id:** tappeto_soffocante_animato
 **gruppo:** Oggetti animati
 **tipo:** Costrutto
 **dimensione:** Grande
@@ -10102,7 +10102,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni cont
 ---
 
 ## Ogre
-
+**id:** ogre
 **tipo:** Gigante
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -10147,7 +10147,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 ---
 
 ## Ombra
-
+**id:** ombra
 **tipo:** Non morto
 **dimensione:** Medio
 **allineamento:** caotico malvagio  
@@ -10206,7 +10206,7 @@ Finché si trova in condizioni di luce fioca o oscurità, l'ombra effettua l'azi
 ---
 
 ## Omuncolo
-
+**id:** omuncolo
 **tipo:** Costrutto
 **dimensione:** Minuscolo
 **allineamento:** neutrale  
@@ -10254,7 +10254,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante, e il
 ---
 
 ## Oni
-
+**id:** oni
 **tipo:** Immondo
 **dimensione:** Grande
 **allineamento:** legale malvagio  
@@ -10320,7 +10320,7 @@ L'oni lancia invisibilità su se stesso, senza bisogno di componenti e utilizzan
 ---
 
 ## Orsogufo
-
+**id:** orsogufo
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -10365,7 +10365,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni tagl
 ---
 
 ## Orso mannaro
-
+**id:** orso_mannaro
 **tipo:** Mostruosità (licantropo)
 **dimensione:** Media o Piccola
 **allineamento:** neutrale buono  
@@ -10425,7 +10425,7 @@ L'orso mannaro si trasforma in un ibrido umanoide-orso di taglia Grande o in un 
 ---
 
 ## Otyugh
-
+**id:** otyugh
 **tipo:** Aberrazione
 **dimensione:** Grande
 **allineamento:** neutrale  
@@ -10475,7 +10475,7 @@ Tiro salvezza su Costituzione: CD 14, tutte le creature afferrate dall'otyugh. F
 ---
 
 ## Pegaso
-
+**id:** pegaso
 **tipo:** Celestiale
 **dimensione:** Grande
 **allineamento:** caotico buono  
@@ -10517,7 +10517,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 7 (1d6 + 4) danni contu
 ---
 
 ## Pirata
-
+**id:** pirata
 **gruppo:** Pirati  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -10566,7 +10566,7 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il pirata è in grado di vede
 ---
 
 ## Capitano dei pirati
-
+**id:** capitano_dei_pirati
 **gruppo:** Pirati  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -10626,7 +10626,7 @@ Attivazione: il pirata viene colpito da un tiro per colpire in mischia mentre ti
 ---
 
 ## Planetar
-
+**id:** planetar
 **tipo:** Celestiale (angelo)
 **dimensione:** Grande
 **allineamento:** legale buono  
@@ -10697,7 +10697,7 @@ Il planetar lancia cura ferite, invisibilità, rimuovi maledizione o ristorare i
 ---
 
 ## Popolano
-
+**id:** popolano
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -10744,7 +10744,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contunden
 ---
 
 ## Protoplasma nero
-
+**id:** protoplasma_nero
 **tipo:** Melma
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -10803,7 +10803,7 @@ Attivazione: finché il protoplasma è di taglia Grande o Media e ha 10 punti fe
 ---
 
 ## Pseudodrago
-
+**id:** pseudodrago
 **tipo:** Drago
 **dimensione:** Minuscolo
 **allineamento:** neutrale buono  
@@ -10857,7 +10857,7 @@ Tiro salvezza su Costituzione: CD 12, una creatura che lo pseudodrago è in grad
 ---
 
 ## Quasit
-
+**id:** quasit
 **tipo:** Immondo
 **dimensione:** Minuscolo
 **allineamento:** caotico malvagio  
@@ -10916,7 +10916,7 @@ Tiro salvezza su Saggezza: CD 10, una creatura entro 6 metri. Fallimento: il ber
 ---
 
 ## Ragno-fase
-
+**id:** ragno-fase
 **tipo:** Mostruosità
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -10977,7 +10977,7 @@ Il ragno si teletrasporta dal Piano Materiale al Piano Etereo o viceversa.
 ---
 
 ## Rakshasa
-
+**id:** rakshasa
 **tipo:** Immondo
 **dimensione:** Medio
 **allineamento:** legale malvagio  
@@ -11040,7 +11040,7 @@ Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di 
 ---
 
 ## Remorhaz
-
+**id:** remorhaz
 **tipo:** Mostruosità
 **dimensione:** Enorme
 **allineamento:** senza allineamento  
@@ -11092,7 +11092,7 @@ Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferra
 ---
 
 ## Roc
-
+**id:** roc
 **tipo:** Mostruosità
 **dimensione:** Mastodontica
 **allineamento:** senza allineamento  
@@ -11145,7 +11145,7 @@ Se il roc ha afferrato una creatura, vola fino a metà della sua velocità di vo
 ---
 
 ## Rugginofago
-
+**id:** rugginofago
 **tipo:** Mostruosità
 **dimensione:** Media
 **allineamento:** senza allineamento  
@@ -11205,7 +11205,7 @@ Attivazione: Un tiro per colpire colpisce il rugginofago. Esito: il rugginofago 
 ---
 
 ## Sacerdote accolito
-
+**id:** sacerdote_accolito
 **gruppo:** Sacerdoti  
 **tipo:** Umanoide (chierico)
 **dimensione:** Medio o Piccolo
@@ -11261,7 +11261,7 @@ Il sacerdote lancia benedizione, parola guaritrice o santuario, utilizzando la s
 ---
 
 ## Sacerdote
-
+**id:** sacerdote
 **gruppo:** Sacerdoti  
 **tipo:** Umanoide (chierico)
 **dimensione:** Medio o Piccolo
@@ -11321,7 +11321,7 @@ Il sacerdote lancia benedizione, dissolvi magie, parola guaritrice o ristorare i
 ---
 
 ## Sahuagin guerriero
-
+**id:** sahuagin_guerriero
 **gruppo:** Sahuagin  
 **tipo:** Immondo
 **dimensione:** Medio
@@ -11384,7 +11384,7 @@ Il sahuagin nuota fino al massimo della sua velocità di nuoto in linea retta ve
 ---
 
 ## Salamandra
-
+**id:** salamandra
 **tipo:** Elementale
 **dimensione:** Grande
 **allineamento:** neutrale malvagio  
@@ -11438,7 +11438,7 @@ Tiro salvezza su Forza: CD 15, una creatura di taglia Grande o inferiore che la 
 ---
 
 ## Satiro
-
+**id:** satiro
 **tipo:** Folletto
 **dimensione:** Medio
 **allineamento:** caotico neutrale  
@@ -11488,7 +11488,7 @@ Tiro salvezza su Saggezza: CD 12, una creatura che il satiro è in grado di vede
 ---
 
 ## Scheletro
-
+**id:** scheletro
 **gruppo:** Scheletri  
 **tipo:** Non morto
 **dimensione:** Medio
@@ -11537,7 +11537,7 @@ Tiro per colpire a distanza: +5, portata 24/96 m Colpito: 6 (1d6 + 3) danni perf
 ---
 
 ## Scheletro di cavallo da guerra
-
+**id:** scheletro_di_cavallo_da_guerra
 **gruppo:** Scheletri  
 **tipo:** Non morto
 **dimensione:** Grande
@@ -11585,7 +11585,7 @@ Se il bersaglio è una creatura di taglia Grande o inferiore e lo scheletro si �
 ---
 
 ## Scheletro di minotauro
-
+**id:** scheletro_di_minotauro
 **gruppo:** Scheletri  
 **tipo:** Non morto
 **dimensione:** Grande
@@ -11633,7 +11633,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 11 (2d6 + 4) danni perf
 ---
 
 ## Segugio infernale
-
+**id:** segugio_infernale
 **tipo:** Immondo
 **dimensione:** Medio
 **allineamento:** legale malvagio  
@@ -11687,7 +11687,7 @@ Tiro salvezza su Destrezza: CD 12, tutte le creature in un cono di 4,5 metri. Fa
 ---
 
 ## Sfinge della meraviglia
-
+**id:** sfinge_della_meraviglia
 **gruppo:** Sfingi  
 **tipo:** Celestiale
 **dimensione:** Minuscolo
@@ -11741,7 +11741,7 @@ Attivazione: la sfinge o un'altra creatura entro 9 metri effettua una prova di c
 ---
 
 ## Sfinge della conoscenza
-
+**id:** sfinge_della_conoscenza
 **gruppo:** Sfingi  
 **tipo:** Celestiale
 **dimensione:** Grande
@@ -11817,7 +11817,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 ---
 
 ## Sfinge del valore
-
+**id:** sfinge_del_valore
 **gruppo:** Sfingi  
 **tipo:** Celestiale
 **dimensione:** Grande
@@ -11900,7 +11900,7 @@ Tiro salvezza su Costituzione: CD 16, una creatura che la sfinge è in grado di 
 ---
 
 ## Solar
-
+**id:** solar
 **tipo:** Celestiale (angelo)
 **dimensione:** Grande
 **allineamento:** legale buono  
@@ -11985,7 +11985,7 @@ Il solar si teletrasporta fino a un massimo di 18 metri in uno spazio libero che
 ---
 
 ## Spettro
-
+**id:** spettro
 **tipo:** Non morto
 **dimensione:** Medio
 **allineamento:** caotico malvagio  
@@ -12037,7 +12037,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 7 (2d6) danni necrotici.
 ---
 
 ## Spia
-
+**id:** spia
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale  
@@ -12088,7 +12088,7 @@ La spia effettua l'azione di Disimpegno, Nascondersi o Scatto.
 ---
 
 ## Spiritello
-
+**id:** spiritello
 **tipo:** Folletto
 **dimensione:** Minuscolo
 **allineamento:** neutrale buono  
@@ -12139,7 +12139,7 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 ---
 
 ## Succube
-
+**id:** succube
 **tipo:** Immondo
 **dimensione:** Medio
 **allineamento:** neutrale malvagio  
@@ -12201,7 +12201,7 @@ La succube si trasforma in un umanoide di taglia Media o Piccola, oppure ritorna
 ---
 
 ## Tarrasque
-
+**id:** tarrasque
 **tipo:** Mostruosità (titano)
 **dimensione:** Mastodonica
 **allineamento:** senza allineamento  
@@ -12288,7 +12288,7 @@ Il tarrasque si muove fino alla sua velocità massima. Alla fine di questo movim
 ---
 
 ## Testuggine dragona
-
+**id:** testuggine_dragona
 **tipo:** Drago
 **dimensione:** Mastodonico
 **allineamento:** neutrale  
@@ -12344,7 +12344,7 @@ Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. 
 ---
 
 ## Tigre mannara
-
+**id:** tigre_mannara
 **tipo:** Mostruosità (licantropo)
 **dimensione:** Media o Piccola
 **allineamento:** neutrale  
@@ -12404,7 +12404,7 @@ La tigre mannara si trasforma in un ibrido umanoide-tigre di taglia Grande o in 
 ---
 
 ## Topo mannaro
-
+**id:** topo_mannaro
 **tipo:** Mostruosità (licantropo)
 **dimensione:** Media o Piccola
 **allineamento:** legale malvagio  
@@ -12461,7 +12461,7 @@ Il topo mannaro si trasforma in un ibrido umanoide-topo di taglia Media o in un 
 ---
 
 ## Treant
-
+**id:** treant
 **tipo:** Vegetale
 **dimensione:** Enorme
 **allineamento:** caotico buono  
@@ -12518,7 +12518,7 @@ Il treant anima magicamente fino a due alberi nel suo campo visivo in un raggio 
 ---
 
 ## Troll
-
+**id:** troll
 **tipo:** Gigante
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -12576,7 +12576,7 @@ Il troll si muove fino a metà della sua velocità in linea retta verso un nemic
 ---
 
 ## Arto di troll
-
+**id:** arto_di_troll
 **tipo:** Gigante
 **dimensione:** Piccolo
 **allineamento:** caotico malvagio  
@@ -12625,7 +12625,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni tagli
 ---
 
 ## Uccello stigeo
-
+**id:** uccello_stigeo
 **tipo:** Mostruosità
 **dimensione:** Minuscola
 **allineamento:** senza allineamento  
@@ -12666,7 +12666,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 6 (1d6 + 3) danni perfor
 ---
 
 ## Unicorno
-
+**id:** unicorno
 **tipo:** Celestiale
 **dimensione:** Grande
 **allineamento:** legale buono  
@@ -12744,7 +12744,7 @@ L'unicorno prende di mira se stesso o una creatura che è in grado di vedere ent
 ---
 
 ## Famiglio del vampiro
-
+**id:** famiglio_del_vampiro
 **gruppo:** Vampiri  
 **tipo:** Umanoide
 **dimensione:** Medio o Piccolo
@@ -12803,7 +12803,7 @@ Il famiglio effettua l'azione di Disimpegno o Scatto.
 ---
 
 ## Progenie vampirica
-
+**id:** progenie_vampirica
 **gruppo:** Vampiri  
 **tipo:** Non morto
 **dimensione:** Medio o Piccolo
@@ -12881,7 +12881,7 @@ Il vampiro effettua l'azione di Disimpegno o Scatto.
 ---
 
 ## Vampiro
-
+**id:** vampiro
 **gruppo:** Vampiri  
 **tipo:** Non morto
 **dimensione:** Medio o Piccolo
@@ -12979,7 +12979,7 @@ Il vampiro lancia comando senza bisogno di componenti, utilizzando Carisma come 
 ---
 
 ## Albero risvegliato
-
+**id:** albero_risvegliato
 **gruppo:** Vegetali risvegliati
 **dimensione:** Enorme
 **tipo:** Vegetale  
@@ -13023,7 +13023,7 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 14 (3d6 + 4) danni contun
 ---
 
 ## Cespuglio risvegliato
-
+**id:** cespuglio_risvegliato
 **gruppo:** Vegetali risvegliati
 **dimensione:** Piccolo
 **tipo:** Vegetale
@@ -13067,7 +13067,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno tagliente.
 ---
 
 ## Verme purpureo
-
+**id:** verme_purpureo
 **tipo:** Mostruosità
 **dimensione:** Mastodontica
 **allineamento:** senza allineamento  
@@ -13124,7 +13124,7 @@ Tiro salvezza su Forza: CD 19, una creatura di taglia Grande o inferiore afferra
 ---
 
 ## Viverna
-
+**id:** viverna
 **tipo:** Drago
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -13172,7 +13172,7 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 11 (2d6 + 4) danni perfor
 ---
 
 ## Vrock
-
+**id:** vrock
 **tipo:** Immondo (demone)
 **dimensione:** Grande
 **allineamento:** caotico malvagio  
@@ -13233,7 +13233,7 @@ Tiro salvezza su Costituzione: CD 15, tutte le creature in un'emanazione di 6 me
 ---
 
 ## Wight
-
+**id:** wight
 **tipo:** Non morto
 **dimensione:** Medio
 **allineamento:** neutrale malvagio  
@@ -13293,7 +13293,7 @@ Tiro salvezza su Costituzione: CD 13, una creatura entro 1,5 metri. Fallimento: 
 ---
 
 ## Worg
-
+**id:** worg
 **tipo:** Folletto
 **dimensione:** Grande
 **allineamento:** neutrale malvagio  
@@ -13335,7 +13335,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 ---
 
 ## Wraith
-
+**id:** wraith
 **tipo:** Non morto
 **dimensione:** Medio o Piccolo
 **allineamento:** neutrale malvagio  
@@ -13390,7 +13390,7 @@ Il wraith bersaglia il cadavere di un umanoide situato entro 3 metri da sé che 
 ---
 
 ## Xorn
-
+**id:** xorn
 **tipo:** Elementale
 **dimensione:** Medio
 **allineamento:** neutrale  
@@ -13453,7 +13453,7 @@ Lo xorn si muove fino al massimo della sua velocità o velocità di scavo in lin
 ---
 
 ## Zombi
-
+**id:** zombi
 **tipo:** Non morto
 **dimensione:** Medio
 **allineamento:** neutrale malvagio  
@@ -13501,7 +13501,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 5 (1d8 + 1) danni contu
 ---
 
 ## Zombi ogre
-
+**id:** zombi_ogre
 **tipo:** Non morto
 **dimensione:** Grande
 **allineamento:** neutrale malvagio  
@@ -13549,7 +13549,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 13 (2d8 + 4) danni cont
 ---
 
 ## Alce
-
+**id:** alce
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -13592,7 +13592,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 ---
 
 ## Alce gigante
-
+**id:** alce_gigante
 **gruppo:** Animali
 **tipo:** Celestiale
 **dimensione:** Enorme
@@ -13636,7 +13636,7 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni contun
 ---
 
 ## Allosauro
-
+**id:** allosauro
 **gruppo:** Animali
 **tipo:** Bestia (dinosauro)
 **dimensione:** Grande
@@ -13682,7 +13682,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 15 (2d10 + 4) danni per
 ---
 
 ## Anchilosauro
-
+**id:** anchilosauro
 **gruppo:** Animali
 **tipo:** Bestia (dinosauro)
 **dimensione:** Enorme
@@ -13727,7 +13727,7 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 9 (1d10 + 4) danni contun
 ---
 
 ## Aquila
-
+**id:** aquila
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -13770,7 +13770,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni tagli
 ---
 
 ## Aquila gigante
-
+**id:** aquila_gigante
 **gruppo:** Animali
 **tipo:** Celestiale
 **dimensione:** Grande
@@ -13817,7 +13817,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni tagli
 ---
 
 ## Archelon
-
+**id:** archelon
 **gruppo:** Animali
 **tipo:** Bestia (dinosauro)
 **dimensione:** Enorme
@@ -13868,7 +13868,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 14 (3d6 + 4) danni perf
 ---
 
 ## Avvoltoio
-
+**id:** avvoltoio
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -13916,7 +13916,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni perforant
 ---
 
 ## Avvoltoio gigante
-
+**id:** avvoltoio_gigante
 **gruppo:** Animali
 **tipo:** Mostruosità
 **dimensione:** Grande
@@ -13965,7 +13965,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 9 (2d6 + 2) danni perfo
 ---
 
 ## Babbuino
-
+**id:** babbuino
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -14012,7 +14012,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perfo
 ---
 
 ## Banco di piranha
-
+**id:** banco_di_piranha
 **gruppo:** Animali
 **tipo:** Sciame
 **dimensione:** Medio
@@ -14066,7 +14066,7 @@ Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i pu
 ---
 
 ## Cammello
-
+**id:** cammello
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -14108,7 +14108,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contu
 ---
 
 ## Capra
-
+**id:** capra
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -14151,7 +14151,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno contundente, o 
 ---
 
 ## Capra gigante
-
+**id:** capra_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -14194,7 +14194,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni contu
 ---
 
 ## Cavallo da galoppo
-
+**id:** cavallo_da_galoppo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande 
@@ -14236,7 +14236,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni contu
 ---
 
 ## Cavallo da guerra
-
+**id:** cavallo_da_guerra
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande  
@@ -14278,7 +14278,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 9 (2d4 + 4) danni contu
 ---
 
 ## Cavallo da tiro
-
+**id:** cavallo_da_tiro
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande  
@@ -14320,7 +14320,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 6 (1d4 + 4) danni contu
 ---
 
 ## Cavalluccio marino
-
+**id:** cavalluccio_marino
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola  
@@ -14368,7 +14368,7 @@ Finché è sott'acqua, il cavalluccio marino può muoversi fino alla sua velocit
 ---
 
 ## Cavalluccio marino gigante
-
+**id:** cavalluccio_marino_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande  
@@ -14420,7 +14420,7 @@ Finché è sott'acqua, il cavalluccio marino può muoversi fino alla metà della
 ---
 
 ## Cinghiale
-
+**id:** cinghiale
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media  
@@ -14467,7 +14467,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m Colpito: 4 (1d6 + 1) danni perfor
 ---
 
 ## Cinghiale gigante
-
+**id:** cinghiale_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande  
@@ -14514,7 +14514,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 10 (2d6 + 3) danni perf
 ---
 
 ## Coccodrillo
-
+**id:** coccodrillo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -14562,7 +14562,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perfo
 ---
 
 ## Coccodrillo gigante
-
+**id:** coccodrillo_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Enorme
@@ -14616,7 +14616,7 @@ Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 21 (3d10 + 5) danni per
 ---
 
 ## Colonia di serpenti velenosi
-
+**id:** colonia_di_serpenti_velenosi
 **gruppo:** Animali
 **tipo:** Sciame
 **dimensione:** Medio
@@ -14667,7 +14667,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d4 + 4) danni perfo
 ---
 
 ## Colonia di topi
-
+**id:** colonia_di_topi
 **gruppo:** Animali
 **tipo:** Sciame
 **dimensione:** Medio
@@ -14718,7 +14718,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 5 (2d4) danni perforant
 ---
 
 ## Corvo
-
+**id:** corvo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -14766,7 +14766,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante.
 ---
 
 ## Daino
-
+**id:** daino
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -14814,7 +14814,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 2 (1d4) danni contunden
 ---
 
 ## Elefante
-
+**id:** elefante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Enorme
@@ -14864,7 +14864,7 @@ Tiro salvezza su Destrezza: CD 16, una creatura prona entro 1,5 metri. Falliment
 ---
 
 ## Faina
-
+**id:** faina
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -14907,7 +14907,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 1 danno perforante.
 ---
 
 ## Faina gigante
-
+**id:** faina_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -14950,7 +14950,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perfo
 ---
 
 ## Falco
-
+**id:** falco
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -14993,7 +14993,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 1 danno tagliente.
 ---
 
 ## Falco di sangue
-
+**id:** falco_di_sangue
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -15041,7 +15041,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni perfo
 ---
 
 ## Gatto
-
+**id:** gatto
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -15089,7 +15089,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno tagliente.
 ---
 
 ## Gorilla
-
+**id:** gorilla
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -15138,7 +15138,7 @@ Tiro per colpire a distanza: +5, gittata 7,5/15 m Colpito: 10 (2d6 + 3) danni co
 ---
 
 ## Gorilla gigante
-
+**id:** gorilla_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Enorme
@@ -15192,7 +15192,7 @@ Il gorilla salta fino a 9 metri usando 3 metri di movimento.
 ---
 
 ## Granchio
-
+**id:** granchio
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -15240,7 +15240,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno contundente.
 ---
 
 ## Granchio gigante
-
+**id:** granchio_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -15288,7 +15288,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni contu
 ---
 
 ## Gufo
-
+**id:** gufo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -15336,7 +15336,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 1 danno tagliente.
 ---
 
 ## Gufo gigante
-
+**id:** gufo_gigante
 **gruppo:** Animali
 **tipo:** Celestiale
 **dimensione:** Grande
@@ -15390,7 +15390,7 @@ Il gufo lancia uno dei seguenti incantesimi, senza bisogno di componenti, utiliz
 ---
 
 ## Iena
-
+**id:** iena
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -15438,7 +15438,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 3 (1d6) danni perforant
 ---
 
 ## Iena gigante
-
+**id:** iena_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -15486,7 +15486,7 @@ Subito dopo aver inflitto danni a una creatura già sanguinante, la iena si muov
 ---
 
 ## Ippopotamo
-
+**id:** ippopotamo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -15537,7 +15537,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 16 (2d10 + 5) danni per
 ---
 
 ## Leone
-
+**id:** leone
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -15594,7 +15594,7 @@ Tiro salvezza su Saggezza: CD 11, una creatura entro 4,5 metri. Fallimento: il b
 ---
 
 ## Lucertola
-
+**id:** lucertola
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -15641,7 +15641,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 ---
 
 ## Lucertola gigante
-
+**id:** lucertola_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -15688,7 +15688,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perfo
 ---
 
 ## Lupo
-
+**id:** lupo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -15736,7 +15736,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni perfo
 ---
 
 ## Lupo feroce
-
+**id:** lupo_feroce
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -15784,7 +15784,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 8 (1d10 + 3) danni perf
 ---
 
 ## Mammut
-
+**id:** mammut
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Enorme
@@ -15834,7 +15834,7 @@ Tiro salvezza su Destrezza: CD 18, una creatura prona entro 1,5 metri. Falliment
 ---
 
 ## Mastino
-
+**id:** mastino
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -15877,7 +15877,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 4 (1d6 + 1) danni perfo
 ---
 
 ## Millepiedi gigante
-
+**id:** millepiedi_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -15919,7 +15919,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 4 (1d4 + 2) danni perfor
 ---
 
 ## Mulo
-
+**id:** mulo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -15966,7 +15966,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contu
 ---
 
 ## Orca assassina
-
+**id:** orca_assassina
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Enorme
@@ -16014,7 +16014,7 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 21 (5d6 + 4) danni perf
 ---
 
 ## Orso bruno
-
+**id:** orso_bruno
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -16063,7 +16063,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 7 (1d8 + 3) danni perfo
 ---
 
 ## Orso nero
-
+**id:** orso_nero
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -16109,7 +16109,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni tagli
 ---
 
 ## Orso polare
-
+**id:** orso_polare
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -16156,7 +16156,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d8 + 5) danni tagli
 ---
 
 ## Pantera
-
+**id:** pantera
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -16204,7 +16204,7 @@ La pantera effettua l'azione di Disimpegno o Nascondersi.
 ---
 
 ## Piovra
-
+**id:** piovra
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -16260,7 +16260,7 @@ Attivazione: una creatura termina il suo turno entro 1,5 metri dalla piovra sott
 ---
 
 ## Piovra gigante
-
+**id:** piovra_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -16313,7 +16313,7 @@ Attivazione: la piovra subisce danni finché si trova sott'acqua. Esito: la piov
 ---
 
 ## Pipistrello
-
+**id:** pipistrello
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -16355,7 +16355,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante.
 ---
 
 ## Pipistrello gigante
-
+**id:** pipistrello_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -16397,7 +16397,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 6 (1d6 + 3) danni perfo
 ---
 
 ## Piranha
-
+**id:** piranha
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -16444,7 +16444,7 @@ Tiro per colpire in mischia: +5 (con vantaggio se il bersaglio non ha tutti i pu
 ---
 
 ## Plesiosauro
-
+**id:** plesiosauro
 **gruppo:** Animali
 **tipo:** Bestia (dinosauro)
 **dimensione:** Grande
@@ -16492,7 +16492,7 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 11 (2d6 + 4) danni perfor
 ---
 
 ## Pony
-
+**id:** pony
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -16534,7 +16534,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 4 (1d4 + 2) danni contu
 ---
 
 ## Pteranodonte
-
+**id:** pteranodonte
 **gruppo:** Animali
 **tipo:** Bestia (dinosauro)
 **dimensione:** Media
@@ -16582,7 +16582,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 6 (1d8 + 2) danni perfo
 ---
 
 ## Ragno
-
+**id:** ragno
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -16633,7 +16633,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 1 danno perforante più 
 ---
 
 ## Ragno gigante
-
+**id:** ragno_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -16687,7 +16687,7 @@ Tiro salvezza su Destrezza: CD 13, una creatura che il ragno è in grado di vede
 ---
 
 ## Ragno lupo gigante
-
+**id:** ragno_lupo_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -16735,7 +16735,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 5 (1d4 + 3) danni perfor
 ---
 
 ## Rana
-
+**id:** rana
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -16786,7 +16786,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 1 danno perforante.
 ---
 
 ## Rana gigante
-
+**id:** rana_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -16840,7 +16840,7 @@ La rana inghiotte un bersaglio di taglia Piccola o inferiore che sta afferrando.
 ---
 
 ## Rinoceronte
-
+**id:** rinoceronte
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -16882,7 +16882,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 14 (2d8 + 5) danni perf
 ---
 
 ## Rospo gigante
-
+**id:** rospo_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -16938,7 +16938,7 @@ La creatura inghiottita non è afferrata, ma è accecata e trattenuta, e benefic
 ---
 
 ## Scarabeo di fuoco gigante
-
+**id:** scarabeo_di_fuoco_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -16986,7 +16986,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno da fuoco.
 ---
 
 ## Sciacallo
-
+**id:** sciacallo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -17027,7 +17027,7 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno da fuoco.
 Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perforanti.
 
 ## Sciame di insetti
-
+**id:** sciame_di_insetti
 **gruppo:** Animali
 **tipo:** Sciame
 **dimensione:** Medio
@@ -17079,7 +17079,7 @@ Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muove
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. 
 
 ## Sciame di pipistrelli
-
+**id:** sciame_di_pipistrelli
 **gruppo:** Animali
 **tipo:** Sciame
 **dimensione:** Grande
@@ -17131,7 +17131,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (2d4) danni perforant
 ---
 
 ## Scorpione
-
+**id:** scorpione
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -17173,7 +17173,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m Colpito: 1 danno perforante più 
 ---
 
 ## Scorpione gigante
-
+**id:** scorpione_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -17221,7 +17221,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni perfor
 ---
 
 ## Serpente stritolatore
-
+**id:** serpente_stritolatore
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -17267,7 +17267,7 @@ Tiro salvezza su Forza: CD 12, una creatura di taglia Media o inferiore che il s
 ---
 
 ## Serpente stritolatore gigante
-
+**id:** serpente_stritolatore_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Enorme
@@ -17316,7 +17316,7 @@ Tiro salvezza su Forza: CD 14, una creatura di taglia Grande o inferiore che il 
 ---
 
 ## Serpente velenoso
-
+**id:** serpente_velenoso
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -17358,7 +17358,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 4 (1d4 + 2) danni perfor
 ---
 
 ## Serpente velenoso gigante
-
+**id:** serpente_velenoso_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -17401,7 +17401,7 @@ Tiro per colpire in mischia: +6, portata 3 m. Colpito: 6 (1d4 + 4) danni perfora
 ---
 
 ## Serpente volante
-
+**id:** serpente_volante
 **gruppo:** Animali
 **tipo:** Mostruosità
 **dimensione:** Minuscola
@@ -17448,7 +17448,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 1 danno perforante più
 ---
 
 ## Squalo cacciatore
-
+**id:** squalo_cacciatore
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -17496,7 +17496,7 @@ Tiro per colpire in mischia: +6 (con vantaggio se il bersaglio non ha tutti i pu
 ---
 
 ## Squalo gigante
-
+**id:** squalo_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Enorme
@@ -17547,7 +17547,7 @@ Tiro per colpire in mischia: +9 (con vantaggio se il bersaglio non ha tutti i pu
 ---
 
 ## Squalo tropicale
-
+**id:** squalo_tropicale
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -17598,7 +17598,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 7 (2d4 + 2) danni perfo
 ---
 
 ## Stormo di corvi
-
+**id:** stormo_di_corvi
 **gruppo:** Animali
 **tipo:** Sciame
 **dimensione:** Medio
@@ -17653,7 +17653,7 @@ Tiro salvezza su Saggezza: CD 10, una creatura nello spazio dello stormo. Fallim
 ---
 
 ## Tasso
-
+**id:** tasso
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -17697,7 +17697,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 ---
 
 ## Tasso gigante
-
+**id:** tasso_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
@@ -17741,7 +17741,7 @@ Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni perfo
 ---
 
 ## Tigre
-
+**id:** tigre
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -17789,7 +17789,7 @@ La tigre effettua l'azione di Disimpegno o Nascondersi.
 ---
 
 ## Tigre dai denti a sciabola
-
+**id:** tigre_dai_denti_a_sciabola
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Grande
@@ -17845,7 +17845,7 @@ La tigre effettua l'azione di Disimpegno o Nascondersi.
 ---
 
 ## Tirannosauro
-
+**id:** tirannosauro
 **gruppo:** Animali
 **tipo:** Bestia (dinosauro)
 **dimensione:** Enorme
@@ -17894,7 +17894,7 @@ Tiro per colpire in mischia: +10, portata 3 m. Colpito: 33 (4d12 + 7) danni perf
 ---
 
 ## Topo
-
+**id:** topo
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Minuscola
@@ -17942,7 +17942,7 @@ Tiro per colpire in mischia: +2, portata 1,5 m. Colpito: 1 danno perforante.
 ---
 
 ## Topo gigante
-
+**id:** topo_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Piccola
@@ -17990,7 +17990,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m. Colpito: 5 (1d4 + 3) danni perfo
 ---
 
 ## Triceratopo
-
+**id:** triceratopo
 **gruppo:** Animali
 **tipo:** Bestia (dinosauro)
 **dimensione:** Enorme
@@ -18035,7 +18035,7 @@ Tiro per colpire in mischia: +9, portata 1,5 m. Colpito: 19 (2d12 + 6) danni per
 ---
 
 ## Vespa gigante
-
+**id:** vespa_gigante
 **gruppo:** Animali
 **tipo:** Bestia
 **dimensione:** Media
