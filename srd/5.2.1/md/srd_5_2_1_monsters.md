@@ -2878,6 +2878,8 @@ Tiro per colpire in mischia: +9, portata 3 m. Colpito: 12 (2d6 + 5) danni taglie
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. 
 
+--
+
 ## Drago blu adulto
 **id:** drago_blu_adulto
 **gruppo:** Draghi blu
@@ -2890,7 +2892,7 @@ Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri
 **punti_ferita:** 212 (17d12 + 102)
 **velocita:** 12 m, scavo 9 m, volo 24 m
 
-*caratteristiche:**
+**caratteristiche:**
 - forza: 25 (+7)
 - destrezza: 10 (+0)
 - costituzione: 23 (+6)
@@ -8019,31 +8021,31 @@ Tiro salvezza su Saggezza: CD 15, una creatura che l'incubo è in grado di veder
 
 **classe_armatura:** 12  
 **iniziativa:** variabile  
-**punti_ferita:** variabile  
-**velocita:** variabile  
+**punti_ferita:** 30 + 10 per ogni livello di incantesimo sopra il 4
+**velocita:** 12 m, scalata 12 m, volo 12 m (solo vespa)
 
 **caratteristiche:**
-- forza: variabile
-- destrezza: variabile
-- costituzione: variabile
-- intelligenza: 1 (-5)
-- saggezza: variabile
+- forza: 17 (+3)
+- destrezza: 13 (+1)
+- costituzione: 15 (+2)
+- intelligenza: 4 (-3)
+- saggezza: 14 (+2)
 - carisma: 3 (-4)
 
 **tiri_salvezza_base:**
-- forza: variabile
-- destrezza: variabile
-- costituzione: variabile
-- intelligenza: -5
-- saggezza: variabile
+- forza: +3
+- destrezza: +1
+- costituzione: +2
+- intelligenza: -3
+- saggezza: +4
 - carisma: -4
 
 **sensi:** Percezione passiva variabile  
-**lingue:** nessuna  
-**grado_sfida:** variabile  
-**punti_esperienza:** variabile  
-**bonus_competenza:** variabile  
-**grado_sfida_raw:** variabile  
+**lingue:** Se evocato con incantesimo comprende le lingue parlate dal personaggio
+**grado_sfida:** null
+**punti_esperienza:** null  
+**bonus_competenza:** null 
+**grado_sfida_raw:** null 
 
 ### Note
 
