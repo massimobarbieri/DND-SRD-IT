@@ -11,10 +11,6 @@ Scopo: garantire che ogni conversione futura da Markdown a JSON produca sempre l
 - Le liste strutturate usano sempre `- chiave: valore`.
 - Le sezioni ammesse sono solo quelle elencate in questo schema.
 - Campi mancanti ma previsti dallo schema devono essere emessi nel JSON come `null` o array vuoto.
-- Il parser deve normalizzare:
-  - `imminita_condizione` → `immunita_condizione`
-  - `immunita_condizioni` → `immunita_condizione`
-  - `immunità_danni` → `immunita_danni`
 
 ---
 
