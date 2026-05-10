@@ -67,7 +67,8 @@ Il punteggio di Costituzione del possessore di que-sto amuleto è pari a 19 ment
 ---
 
 ## Anello accumula incantesimi
-**id:** anello_accumula_incantesimi**tipo:** Anello (richiede sintonia)
+**id:** anello_accumula_incantesimi
+**tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Questo anello accumula gli incantesimi lanciati su di  esso, finché un possessore in sintonia con  l'oggetto non decide di usarli. L'anello può contenere fino 
@@ -149,7 +150,8 @@ Quando il personaggio cade indossando questo anello, scende di 18 metri per roun
 ---
 
 ## Anello della libertà di azione
-**id:** anello_della_libertà_di_azione**tipo:** Anello (richiede sintonia)
+**id:** anello_della_libertà_di_azione
+**tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Mentre il personaggio indossa questo anello, il terreno difficile non gli costa movimento extra. Inoltre, la magia non può né ridurre la sua velocità di movimento (di qualsiasi tipo) né paralizzarlo o trattenerlo.
@@ -157,7 +159,8 @@ Mentre il personaggio indossa questo anello, il terreno difficile non gli costa 
 ---
 
 ## Anello dell'ariete
-**id:** anello_dell'ariete**tipo:** Anello (richiede sintonia)
+**id:** anello_dell'ariete
+**tipo:** Anello (richiede sintonia)
 **rarita:** raro
 
 Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il personaggio indossa l'anello, può effettuare un'azione di Magia per consumare da 1 a 3 cariche ed eseguire un attacco a distanza contro una creatura che è in grado di vedere entro 18 metri da sé. L'anello crea una testa d'ariete spettrale ed effettua il suo tiro per colpire con un bonus di +7. Se il colpo va a segno, per ogni carica consumata il bersaglio subisce 2d10 danni da forza e viene spinto lontano dal personag-gio per 1,5 metri.
@@ -203,7 +206,8 @@ Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni gio
 ---
 
 ## Anello di influenza sugli animali
-**id:** anello_di_influenza_sugli_animali**tipo:** Anello
+**id:** anello_di_influenza_sugli_animali
+**tipo:** Anello
 **rarita:** raro
 
 Questo anello ha 3 cariche e recupera 1d3 cariche consumate all'alba di ogni giorno. Finché il  personaggio indossa l'anello, può usare un'azione e  consumare 1 carica per lanciare uno degli incantesimi seguenti (CD del tiro salvezza 13):
@@ -2276,7 +2280,8 @@ Finché il personaggio indossa queste lenti scure, ottiene scurovisione fino a 1
 ---
 
 ## Olio dell'affilatura
-**id:** olio_dell'affilatura**tipo:** Pozione
+**id:** olio_dell'affilatura
+**tipo:** Pozione
 **rarita:** molto rara
 
 Una fiala di quest'olio può ricoprire un'arma da mischia o 20 munizioni, ma solo se si tratta di armi da mischia e munizioni non magiche che infliggono danni taglienti o perforanti. L'applicazione dell'olio richiede 1 minuto, dopo il quale penetra magicamente in qualsiasi oggetto su cui sia stato cosparso trasformando l'arma rivestita in un'arma +3 e le munizioni in munizioni +3.
@@ -2892,7 +2897,7 @@ Finché il personaggio impugna questo scudo, dispone di vantaggio ai tiri per l'
 ## Sfera annientatrice
 **id:** sfera_annientatrice
 **tipo:** Oggetto meraviglioso 
-**rarita:* leggendario
+**rarita:** leggendario
 
 Questa sfera nera del diametro di 60 centimetri è un buco nel multiverso che fluttua a mezz'aria e che è stabilizzato da un campo magico che lo circonda.
 La sfera annienta tutta la materia che attraversa e che passa attraverso di essa, a eccezione dei manu-fatti. A meno che un manufatto non sia suscettibile ai danni di una sfera annientatrice, esso vi passa attraverso e ne esce illeso. Ogni altra cosa che tocca la sfera, ma che non ne viene interamente inghiottita e annientata, subisce 8d10 danni da forza.
@@ -3131,7 +3136,8 @@ Questi stivali hanno 4 cariche e recuperano 1d4 cariche consumate all'alba di og
 ---
 
 ## Stivali della levitazione
-**id:** stivali_della_levitazione**tipo:** Oggetto meraviglioso (richiede sintonia)
+**id:** stivali_della_levitazione
+**tipo:** Oggetto meraviglioso (richiede sintonia)
 **rarita:** raro
 
 Indossando questi stivali, il personaggio può lanciare un incantesimo levitazione su di sé.
@@ -3194,7 +3200,7 @@ Questa delicata catenella d'argento ha come pendente una gemma nera con taglio a
 ## Talismano del bene puro
 **id:** talismano_del_bene_puro
 **tipo:** Oggetto meraviglioso (richiede sintonia con un chierico o un paladino)
-**rarita:* leggendario
+**rarita:** leggendario
 
 Questo talismano è un potente simbolo del bene. Qualsiasi immondo o non morto che tocchi il talismano subisce 8d6 danni radiosi, per poi subirli nuovamente ogni volta che termina il suo turno impugnando o trasportando il talismano.
 

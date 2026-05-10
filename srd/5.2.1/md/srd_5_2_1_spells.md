@@ -311,46 +311,6 @@ Fino al termine dell'incantesimo, come azione bonus, l'incantatore può comandar
 
 Utilizzo di uno slot incantesimo di livello superiore. I danni da Schianto della creatura aumentano di 1d4 (taglia Media o inferiore), 1d6 (taglia Grande) o 1d12 (taglia Enorme) per ogni slot di livello superiore al 5º.
 
-### Oggetto animato
-
-**tipo_blocco:** creatura_evocata  
-
-**nome:** Oggetto animato
-**tipo:** Costrutto Enorme o inferiore  
-**allineamento:** senza allineamento  
-
-**classe_armatura:** 15  
-**punti_ferita:** 10 (taglia Media o inferiore), 20 (taglia Grande), 40 (taglia Enorme)  
-**velocita:** 9 m  
-
-**caratteristiche:**
-- forza: 16 (+3)
-- destrezza: 10 (+0)
-- costituzione: 10 (+0)
-- intelligenza: 3 (-4)
-- saggezza: 3 (-4)
-- carisma: 1 (-5)
-
-**tiri_salvezza_base:**
-- forza: +3
-- destrezza: +0
-- costituzione: +0
-- intelligenza: -4
-- saggezza: -4
-- carisma: -5
-
-immunità_danni: psichico, veleno
-**immunita_condizioni:** affascinato, avvelenato, indebolimento, paralizzato, spaventato
-**sensi:** Percezione passiva 6; vista cieca: 9 m
-**lingue:** comprende le lingue del personaggio  
-**grado_sfida:** null  
-**bonus_competenza:** variabile  
-
-#### Azioni
-
-**Schianto**
-Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'incantesimo del personaggio, portata di 1,5 m Colpito: danni da forza pari a 1d4 + 3 (taglia Media o inferiore), 2d6 + 3 + il modificatore di caratteristica da incantatore dell'incantatore (taglia Grande) o 2d12 + 3 + il modificatore di caratteristica da incantatore dell'incantatore (taglia Enorme).
-
 ---
 
 ## Anti-individuazione
@@ -8135,60 +8095,6 @@ Scomparsa della cavalcatura. La cavalcatura scompare quando scende a 0 punti fer
 
 **Utilizzo di uno slot incantesimo di livello superiore**
 Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
-
-### Cavalcatura ultraterrena
-
-**tipo_blocco:** creatura_evocata  
-**nome:** Cavalcatura ultraterrena  
-**taglia:** Grande  
-**tipo:** Celestiale, folletto o immondo (a scelta)  
-**allineamento:** allineamento del tipo scelto  
-
-**classe_armatura:** 10 + 1 per livello dell'incantesimo 
-**punti_ferita:** v5 + 10 per livello dell'incantesimo (la cavalcatura ha un numero di Dadi Vita [d10] pari al livello dell'incantesimo) 
-**velocita:** 18 m, volo 18 m (richiede incantesimo di 4º livello o superiore)  
-
-**caratteristiche:**
-- forza: 18 (+4)
-- destrezza: 12 (+1)
-- costituzione: 14 (+2)
-- intelligenza: 6 (-2)
-- saggezza: 12 (+1)
-- carisma: 8 (-1)
-
-**tiri_salvezza_base:**
-- forza: +4
-- destrezza: +1
-- costituzione: +2
-- intelligenza: +2
-- saggezza: +1
-- carisma: -1
-
-**sensi:**
-- percezione passiva: 11
-**lingue:** telepatia 1,5 km (funziona solo con l'incantatore) GS nessuno (PE 0; BC pari al bonus di competenza del personaggio)  
-**grado_sfida:** null  
-
-#### Tratti
-
-**Legame vitale**
-Quando l'incantatore recupera punti ferita grazie a un incantesimo di 1º livello o superiore, la cavalcatura recupera la stessa quantità di punti ferita se l'incantatore si trova entro 1,5 metri da essa.
-
-#### Azioni
-
-**Schianto ultraterreno**
-Tiro per colpire in mischia: il bonus equivale al modificatore di attacco dell'incantesimo del personaggio, portata di 1,5 m Colpito: 1d8 più il livello dell'incantesimo danni radiosi (celestiale), danni psichici (folletto) o danni necrotici (immondo).
-
-#### Azioni bonus
-
-**Passo fatato (solo folletto; ricarica dopo un riposo lungo)**
-La cavalcatura si teletrasporta, insieme al suo cavaliere, in un uno spazio libero a scelta del personaggio situato a 18 metri da sé.
-
-**Sguardo letale (solo immondo; ricarica dopo un riposo lungo)**
-Tiro salvezza su Saggezza: La CD è pari alla CD del tiro salvezza sull'incantesimo, una creatura entro 18 metri che la cavalcatura è in grado di vedere. Fallimento: Il bersaglio è spaventato fino al termine del turno successivo dell'incantantore.
-
-**Tocco guaritore (solo celestiale; ricarica dopo un riposo lungo)**
-Una creatura entro 1,5 metri dalla cavalcatura recupera un numero di punti ferita pari a 2d8 più il livello dell'incantesimo.
 
 ---
 

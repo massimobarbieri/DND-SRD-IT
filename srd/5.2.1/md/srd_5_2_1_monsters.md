@@ -1178,6 +1178,7 @@ Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che 
 
 ## Cavalcatura ultraterrena
 **id:** cavalcatura_ultraterrena
+**gruppo:** Creatura evocata
 **tipo:** Celestiale, Folletto o Immondo (a scelta)
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -2593,6 +2594,8 @@ Tiro per colpire in mischia: +4, portata 1,5 m Colpito: 6 (1d8 + 2) danni taglie
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 12, tutte le creature in un cono di 4,5 metri. Fallimento: 22 (5d8) danni da freddo. Successo: danni dimezzati. 
 
+---
+
 ## Drago bianco giovane
 **id:** drago_bianco_giovane
 **gruppo:** Draghi bianchi
@@ -2645,6 +2648,8 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 9 (2d4 + 4) danni taglien
 
 **Soffio di freddo (ricarica 5-6)**  
 Tiro salvezza su Costituzione: CD 15, tutte le creature in un cono di 9 metri. Fallimento: 40 (9d8) danni da freddo. Successo: danni dimezzati.
+
+---
 
 ## Drago bianco adulto
 **id:** drago_bianco_adulto
@@ -2711,6 +2716,8 @@ Il drago lancia paura senza bisogno di componenti materiali, utilizzando Carisma
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio. 
+
+---
 
 ## Drago bianco antico 
 **id:** drago_bianco_antico
@@ -2830,6 +2837,8 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 8 (1d10 + 3) danni tagli
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 9 metri e larga 1,5 metri. Fallimento: 21 (6d6) danni da fulmine. Successo: danni dimezzati.
 
+---
+
 ## Drago blu giovane 
 **id:** drago_blu_giovane
 **gruppo:** Draghi blu
@@ -2878,7 +2887,7 @@ Tiro per colpire in mischia: +9, portata 3 m. Colpito: 12 (2d6 + 5) danni taglie
 **Soffio di fulmini (ricarica 5-6)**  
 Tiro salvezza su Destrezza: CD 16, tutte le creature in una linea lunga 18 metri e larga 1,5 metri. Fallimento: 55 (10d10) danni da fulmine. Successo: danni dimezzati. 
 
---
+---
 
 ## Drago blu adulto
 **id:** drago_blu_adulto
@@ -3336,6 +3345,8 @@ Tiro salvezza su Destrezza: CD 12, tutte le creature in una linea lunga 12 metri
 
 **Soffio repulsivo**  
 Tiro salvezza su Forza: CD 12, tutte le creature in un cono di 9 metri. Fallimento: il bersaglio viene spinto fino a un massimo di 9 metri di distanza dal drago e cade a terra prono. 
+
+---
 
 ## Drago di bronzo giovane
 **id:** drago_di_bronzo_giovane
@@ -5384,6 +5395,8 @@ Tiro per colpire a distanza: +8, gittata 36 m. Colpito: 24 (7d6) danni da fuoco.
 
 **Incantesimi**  
 L'efreeti lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: forma gassosa, immagine maggiore, invisibilità, linguaggi, muro di fuoco (di 7º livello), spostamento planare. A volontà: elementalismo, individuazione del magico 
+
+---
 
 ## Elementale del fuoco
 **id:** elementale_del_fuoco
@@ -9182,6 +9195,8 @@ Tiro per colpire in mischia: +6, portata 1,5 m. Colpito: 8 (1d8 + 4) danni tagli
 **Incantesimi**  
 La megera lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 12, +4 al tiro per colpire degli attacchi con incantesimo): A volontà: Camuffare se stesso (durata di 24 ore), illusione minore, invisibilità (solo se stessa, la megera non lascia tracce mentre è invisibile), luci danzanti, raggio di infermità (di 3º livello).
 
+---
+
 ## Melma Grigia
 **id:** melma_grigia
 **tipo:** Melma
@@ -10095,7 +10110,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 
 ## Oggetto animato
 **id:** oggetto_animato
-**gruppo:** Oggetti animati
+**gruppo:** Creatura evocata
 **tipo:** Costrutto
 **dimensione:** Enorme o inferiore
 **allineamento:** senza allineamento  
@@ -12252,6 +12267,7 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 
 ## Spirito draconico
 **id:** spirito_draconico
+**gruppo:** Creatura evocata
 **tipo:** Drago
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -17190,6 +17206,8 @@ Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 danno da fuoco.
 **Morso**  
 Tiro per colpire in mischia: +1, portata 1,5 m. Colpito: 1 (1d4 - 1) danni perforanti.
 
+---
+
 ## Sciame di insetti
 **id:** sciame_di_insetti
 **gruppo:** Animali
@@ -17241,6 +17259,8 @@ Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e può muove
 
 **Morsi**
 Tiro per colpire in mischia: +3, portata 1,5 m. Colpito: 6 (2d4 + 1) danni da veleno, o 3 (1d4 + 1) danni da veleno se lo sciame è sanguinante. 
+
+---
 
 ## Sciame di pipistrelli
 **id:** sciame_di_pipistrelli
