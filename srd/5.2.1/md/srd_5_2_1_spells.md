@@ -311,6 +311,8 @@ Fino al termine dell'incantesimo, come azione bonus, l'incantatore può comandar
 
 Utilizzo di uno slot incantesimo di livello superiore. I danni da Schianto della creatura aumentano di 1d4 (taglia Media o inferiore), 1d6 (taglia Grande) o 1d12 (taglia Enorme) per ogni slot di livello superiore al 5º.
 
+---
+
 ## Anti-individuazione
 
 **id:** anti_individuazione  
@@ -6189,6 +6191,8 @@ L'incantatore invoca uno spirito di drago, che si manifesta in uno spazio libero
 **Utilizzo di uno slot incantesimo di livello superiore**
 Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
 
+---
+
 ## Rigenerazione
 
 **id:** rigenerazione  
@@ -8091,6 +8095,8 @@ Scomparsa della cavalcatura. La cavalcatura scompare quando scende a 0 punti fer
 
 **Utilizzo di uno slot incantesimo di livello superiore**
 Usa il livello dello slot incantesimo relativo al livello dell'incantesimo nella scheda delle statistiche.
+
+---
 
 ## Trova famiglio
 
