@@ -1944,88 +1944,80 @@
     "sezioni": [
       {
         "titolo": "Precipitazioni",
-        "blocchi": [
+        "righe": [
           {
-            "nome": "1",
-            "descrizione": "Sereno"
+            "chiave": "1",
+            "valore": "Sereno"
           },
           {
-            "nome": "2",
-            "descrizione": "Poco nuvoloso"
+            "chiave": "2",
+            "valore": "Poco nuvoloso"
           },
           {
-            "nome": "3",
-            "descrizione": "Nuvoloso o nebbia"
+            "chiave": "3",
+            "valore": "Nuvoloso o nebbia"
           },
           {
-            "nome": "4",
-            "descrizione": "Pioggia, grandine o neve"
+            "chiave": "4",
+            "valore": "Pioggia, grandine o neve"
           },
           {
-            "nome": "5",
-            "descrizione": "Pioggia torrenziale, grandinata violenta o tormenta"
+            "chiave": "5",
+            "valore": "Pioggia torrenziale, grandinata violenta o tormenta"
           }
         ]
       },
       {
         "titolo": "Temperatura",
-        "blocchi": [
+        "righe": [
           {
-            "nome": null,
-            "descrizione": "Grado Condizione"
+            "chiave": "1",
+            "valore": "Torrido"
           },
           {
-            "nome": "1",
-            "descrizione": "Torrido"
+            "chiave": "2",
+            "valore": "Caldo"
           },
           {
-            "nome": "2",
-            "descrizione": "Caldo"
+            "chiave": "3",
+            "valore": "Temperato"
           },
           {
-            "nome": "3",
-            "descrizione": "Temperato"
+            "chiave": "4",
+            "valore": "Fresco"
           },
           {
-            "nome": "4",
-            "descrizione": "Fresco"
+            "chiave": "5",
+            "valore": "Freddo"
           },
           {
-            "nome": "5",
-            "descrizione": "Freddo"
-          },
-          {
-            "nome": "6",
-            "descrizione": "Gelido"
+            "chiave": "6",
+            "valore": "Gelido"
           }
         ]
       },
       {
         "titolo": "Vento",
-        "blocchi": [
+        "righe": [
           {
-            "nome": null,
-            "descrizione": "Grado Condizione"
+            "chiave": "1",
+            "valore": "Calmo"
           },
           {
-            "nome": "1",
-            "descrizione": "Calmo"
+            "chiave": "2",
+            "valore": "Vento moderato"
           },
           {
-            "nome": "2",
-            "descrizione": "Vento moderato"
+            "chiave": "3",
+            "valore": "Vento forte"
           },
           {
-            "nome": "3",
-            "descrizione": "Vento forte"
+            "chiave": "4",
+            "valore": "Burrasca"
           },
           {
-            "nome": "4",
-            "descrizione": "Burrasca"
-          },
-          {
-            "nome": "5",
-            "descrizione": "Tempesta"
+            "chiave": "5",
+            "valore": "Tempesta"
           }
         ]
       }
@@ -2181,30 +2173,26 @@
     "sezioni": [
       {
         "titolo": "Materiali",
-        "blocchi": [
+        "righe": [
           {
-            "nome": null,
-            "descrizione": "Materiale Durata"
+            "chiave": "Materia vegetale",
+            "valore": "24 ore"
           },
           {
-            "nome": "Materia vegetale",
-            "descrizione": "24 ore"
+            "chiave": "Pietra o cristallo",
+            "valore": "12 ore"
           },
           {
-            "nome": "Pietra o cristallo",
-            "descrizione": "12 ore"
+            "chiave": "Metalli preziosi",
+            "valore": "1 ora"
           },
           {
-            "nome": "Metalli preziosi",
-            "descrizione": "1 ora"
+            "chiave": "Gemme",
+            "valore": "10 minuti"
           },
           {
-            "nome": "Gemme",
-            "descrizione": "10 minuti"
-          },
-          {
-            "nome": "Adamantio o mithral",
-            "descrizione": "1 minuto"
+            "chiave": "Adamantio o mithral",
+            "valore": "1 minuto"
           }
         ]
       }
@@ -5576,38 +5564,34 @@
     "sezioni": [
       {
         "titolo": "Strati prismatici",
-        "blocchi": [
+        "righe": [
           {
-            "nome": "Ordine Effetti",
-            "descrizione": ""
+            "chiave": "1 Rosso",
+            "valore": "Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza non magici non possono attraversare questo strato, che viene distrutto se subisce almeno 25 danni da freddo."
           },
           {
-            "nome": "1 Rosso",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza non magici non possono attraversare questo strato, che viene distrutto se subisce almeno 25 danni da freddo."
+            "chiave": "2 Arancione",
+            "valore": "Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza magici non possono attraversare questo strato, che viene distrutto da un vento forte (come quello creato da folata di vento)."
           },
           {
-            "nome": "2 Arancione",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza magici non possono attraversare questo strato, che viene distrutto da un vento forte (come quello creato da folata di vento)."
+            "chiave": "3 Giallo",
+            "valore": "Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 60 danni da forza."
           },
           {
-            "nome": "3 Giallo",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 60 danni da forza."
+            "chiave": "4 Verde",
+            "valore": "Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: un incantesimo passapareti o un altro incantesimo di livello pari o superiore che è in grado di aprire un portale su una superficie solida, distrugge questo strato."
           },
           {
-            "nome": "4 Verde",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: un incantesimo passapareti o un altro incantesimo di livello pari o superiore che è in grado di aprire un portale su una superficie solida, distrugge questo strato."
+            "chiave": "5 Blu",
+            "valore": "Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 25 danni da fuoco."
           },
           {
-            "nome": "5 Blu",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 25 danni da fuoco."
+            "chiave": "6 Indaco",
+            "valore": "Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo. Effetti aggiuntivi: non è possibile lanciare incantesimi attraverso questo strato, che viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna."
           },
           {
-            "nome": "6 Indaco",
-            "descrizione": "Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo. Effetti aggiuntivi: non è possibile lanciare incantesimi attraverso questo strato, che viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna."
-          },
-          {
-            "nome": "7 Viola",
-            "descrizione": "Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM). Effetti aggiuntivi: questo strato viene distrutto da dissolvi magie."
+            "chiave": "7 Viola",
+            "valore": "Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM). Effetti aggiuntivi: questo strato viene distrutto da dissolvi magie."
           }
         ]
       }
@@ -6076,26 +6060,22 @@
     "sezioni": [
       {
         "titolo": "Effetti della parola divina",
-        "blocchi": [
+        "righe": [
           {
-            "nome": "Punti ferita Effetto",
-            "descrizione": ""
+            "chiave": "0-20",
+            "valore": "Il bersaglio muore."
           },
           {
-            "nome": "0-20",
-            "descrizione": "Il bersaglio muore."
+            "chiave": "21-30",
+            "valore": "Il bersaglio è accecato, assordato e stordito per 1 ora."
           },
           {
-            "nome": "21-30",
-            "descrizione": "Il bersaglio è accecato, assordato e stordito per 1 ora."
+            "chiave": "31-40",
+            "valore": "Il bersaglio è accecato e assordato per 10 minuti."
           },
           {
-            "nome": "31-40",
-            "descrizione": "Il bersaglio è accecato e assordato per 10 minuti."
-          },
-          {
-            "nome": "41-50",
-            "descrizione": "Il bersaglio è assordato per 1 minuto."
+            "chiave": "41-50",
+            "valore": "Il bersaglio è assordato per 1 minuto."
           }
         ]
       }
@@ -6490,26 +6470,28 @@
     "sezioni": [
       {
         "titolo": "Presagi",
+        "righe": [
+          {
+            "chiave": "Ventura",
+            "valore": "Positivi"
+          },
+          {
+            "chiave": "Sventura",
+            "valore": "Negativi"
+          },
+          {
+            "chiave": "Ventura e sventura",
+            "valore": "Positivi e negativi"
+          },
+          {
+            "chiave": "Indifferenza",
+            "valore": "Né positivi né negativi"
+          }
+        ],
         "blocchi": [
           {
-            "nome": "Presagio Con risultati..",
-            "descrizione": ""
-          },
-          {
-            "nome": "Ventura",
-            "descrizione": "Positivi"
-          },
-          {
-            "nome": "Sventura",
-            "descrizione": "Negativi"
-          },
-          {
-            "nome": "Ventura e sventura",
-            "descrizione": "Positivi e negativi"
-          },
-          {
-            "nome": "Indifferenza",
-            "descrizione": "Né positivi né negativi\n\nL'incantesimo non tiene conto delle circostanze, come altri incantesimi, che potrebbero modificare i risultati.\n\nSe l'incantatore lancia l'incantesimo più volte prima di completare un riposo lungo, esiste una probabilità cumulativa del 25% di non ottenere risposta per ogni lancio dopo il primo."
+            "nome": null,
+            "descrizione": "L'incantesimo non tiene conto delle circostanze, come altri incantesimi, che potrebbero modificare i risultati.\n\nSe l'incantatore lancia l'incantesimo più volte prima di completare un riposo lungo, esiste una probabilità cumulativa del 25% di non ottenere risposta per ogni lancio dopo il primo."
           }
         ]
       }
@@ -8667,42 +8649,38 @@
     "sezioni": [
       {
         "titolo": "Raggi prismatici",
-        "blocchi": [
+        "righe": [
           {
-            "nome": "1d8 Raggio",
-            "descrizione": ""
+            "chiave": "1 Rosso",
+            "valore": "Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni."
           },
           {
-            "nome": "1 Rosso",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni."
+            "chiave": "2 Arancione",
+            "valore": "Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni."
           },
           {
-            "nome": "2 Arancione",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni."
+            "chiave": "3 Giallo",
+            "valore": "Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni."
           },
           {
-            "nome": "3 Giallo",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni."
+            "chiave": "4 Verde",
+            "valore": "Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni."
           },
           {
-            "nome": "4 Verde",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni."
+            "chiave": "5 Blu",
+            "valore": "Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni."
           },
           {
-            "nome": "5 Blu",
-            "descrizione": "Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni."
+            "chiave": "6 Indaco",
+            "valore": "Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo."
           },
           {
-            "nome": "6 Indaco",
-            "descrizione": "Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo."
+            "chiave": "7 Viola",
+            "valore": "Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM)."
           },
           {
-            "nome": "7 Viola",
-            "descrizione": "Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM)."
-          },
-          {
-            "nome": "8 Speciale",
-            "descrizione": "Il bersaglio viene colpito da due raggi. Si tira altre due volte, rilanciando i dadi se il risultato ottenuto è 8."
+            "chiave": "8 Speciale",
+            "valore": "Il bersaglio viene colpito da due raggi. Si tira altre due volte, rilanciando i dadi se il risultato ottenuto è 8."
           }
         ]
       }

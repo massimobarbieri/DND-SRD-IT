@@ -1799,17 +1799,13 @@ La durata dell'incantesimo dipende dal materiale dell'oggetto, come indicato nel
 
 ### Materiali
 
-Materiale Durata
-
-**Materia vegetale** 24 ore
-
-**Pietra o cristallo** 12 ore
-
-**Metalli preziosi** 1 ora
-
-**Gemme** 10 minuti
-
-**Adamantio o mithral** 1 minuto
+| Materiale | Durata |
+| --- | --- |
+| Materia vegetale | 24 ore |
+| Pietra o cristallo | 12 ore |
+| Metalli preziosi | 1 ora |
+| Gemme | 10 minuti |
+| Adamantio o mithral | 1 minuto |
 
 ### Scaling
 
@@ -4805,21 +4801,15 @@ Il muro, che ha una CA pari a 10, può essere distrutto uno strato alla volta e 
 
 ### Strati prismatici
 
-**Ordine Effetti**
-
-**1 Rosso.** Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza non magici non possono attraversare questo strato, che viene distrutto se subisce almeno 25 danni da freddo.
-
-**2 Arancione.** Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza magici non possono attraversare questo strato, che viene distrutto da un vento forte (come quello creato da folata di vento).
-
-**3 Giallo.** Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 60 danni da forza.
-
-**4 Verde.** Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: un incantesimo passapareti o un altro incantesimo di livello pari o superiore che è in grado di aprire un portale su una superficie solida, distrugge questo strato.
-
-**5 Blu.** Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 25 danni da fuoco.
-
-**6 Indaco.** Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo. Effetti aggiuntivi: non è possibile lanciare incantesimi attraverso questo strato, che viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna.
-
-**7 Viola.** Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM). Effetti aggiuntivi: questo strato viene distrutto da dissolvi magie.
+| Ordine | Effetti |
+| --- | --- |
+| 1 Rosso | Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza non magici non possono attraversare questo strato, che viene distrutto se subisce almeno 25 danni da freddo. |
+| 2 Arancione | Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: gli attacchi a distanza magici non possono attraversare questo strato, che viene distrutto da un vento forte (come quello creato da folata di vento). |
+| 3 Giallo | Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 60 danni da forza. |
+| 4 Verde | Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: un incantesimo passapareti o un altro incantesimo di livello pari o superiore che è in grado di aprire un portale su una superficie solida, distrugge questo strato. |
+| 5 Blu | Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni. Effetti aggiuntivi: questo strato viene distrutto se subisce almeno 25 danni da fuoco. |
+| 6 Indaco | Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo. Effetti aggiuntivi: non è possibile lanciare incantesimi attraverso questo strato, che viene distrutto dalla luce intensa emanata dall'incantesimo luce diurna. |
+| 7 Viola | Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM). Effetti aggiuntivi: questo strato viene distrutto da dissolvi magie. |
 
 ---
 
@@ -5211,15 +5201,12 @@ L'incantatore pronuncia una parola pervasa di potere dei Piani Superiori. Ogni c
 
 ### Effetti della parola divina
 
-**Punti ferita Effetto**
-
-**0-20** Il bersaglio muore.
-
-**21-30** Il bersaglio è accecato, assordato e stordito per 1 ora.
-
-**31-40** Il bersaglio è accecato e assordato per 10 minuti.
-
-**41-50** Il bersaglio è assordato per 1 minuto.
+| Punti ferita | Effetto |
+| --- | --- |
+| 0-20 | Il bersaglio muore. |
+| 21-30 | Il bersaglio è accecato, assordato e stordito per 1 ora. |
+| 31-40 | Il bersaglio è accecato e assordato per 10 minuti. |
+| 41-50 | Il bersaglio è assordato per 1 minuto. |
 
 ---
 
@@ -5530,15 +5517,12 @@ L'incantatore riceve un presagio da un'entità ultraterrena sui risultati di un 
 
 ### Presagi
 
-**Presagio Con risultati...**
-
-**Ventura** Positivi
-
-**Sventura** Negativi
-
-**Ventura e sventura** Positivi e negativi
-
-**Indifferenza** Né positivi né negativi
+| Presagio | Con risultati... |
+| --- | --- |
+| Ventura | Positivi |
+| Sventura | Negativi |
+| Ventura e sventura | Positivi e negativi |
+| Indifferenza | Né positivi né negativi |
 
 L'incantesimo non tiene conto delle circostanze, come altri incantesimi, che potrebbero modificare i risultati.
 
@@ -7417,23 +7401,16 @@ Otto raggi di luce si sprigionano dall'incantatore in un cono di 18 metri. Ogni 
 
 ### Raggi prismatici
 
-**1d8 Raggio**
-
-**1 Rosso.** Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni.
-
-**2 Arancione.** Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni.
-
-**3 Giallo.** Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni.
-
-**4 Verde.** Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni.
-
-**5 Blu.** Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni.
-
-**6 Indaco.** Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo.
-
-**7 Viola.** Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM).
-
-**8 Speciale.** Il bersaglio viene colpito da due raggi. Si tira altre due volte, rilanciando i dadi se il risultato ottenuto è 8.
+| 1d8 | Raggio |
+| --- | --- |
+| 1 Rosso | Tiro salvezza fallito: 12d6 danni da fuoco. Tiro salvezza superato: la metà dei danni. |
+| 2 Arancione | Tiro salvezza fallito: 12d6 danni da acido. Tiro salvezza superato: la metà dei danni. |
+| 3 Giallo | Tiro salvezza fallito: 12d6 danni da fulmine. Tiro salvezza superato: la metà dei danni. |
+| 4 Verde | Tiro salvezza fallito: 12d6 danni da veleno. Tiro salvezza superato: la metà dei danni. |
+| 5 Blu | Tiro salvezza fallito: 12d6 danni da freddo. Tiro salvezza superato: la metà dei danni. |
+| 6 Indaco | Tiro salvezza fallito: il bersaglio è trattenuto ed effettua un tiro salvezza su Costituzione alla fine di ogni suo turno. Se lo supera per tre volte, pone fine alla condizione. Se fallisce per tre volte, resta pietrificato finché non viene liberato da un effetto come quello dell'incantesimo ristorare superiore. Non è necessario che i tiri superati o falliti siano consecutivi: si tiene semplicemente il conto di entrambi finché il bersaglio non ne accumula tre di un certo tipo. |
+| 7 Viola | Tiro salvezza fallito: il bersaglio è accecato ed effettua un tiro salvezza su Saggezza all'inizio del turno successivo dell'incantatore. Se lo supera, non è più accecato. Se lo fallisce, non è più accecato e viene teletrasportato su un altro piano di esistenza (a scelta del GM). |
+| 8 Speciale | Il bersaglio viene colpito da due raggi. Si tira altre due volte, rilanciando i dadi se il risultato ottenuto è 8. |
 
 ---
 
