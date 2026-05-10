@@ -67,8 +67,8 @@ L'aboleth effettua due attacchi Tentacolo e usa Consuma ricordi o Domina mente, 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, l'aboleth può consumare un utilizzo per effettuare una delle seguenti azioni. L'aboleth recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, l'aboleth può consumare un utilizzo per effettuare una delle seguenti azioni. L'aboleth recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Risucchio psichico**  
 Se l'aboleth ha affascinato o afferrato almeno una creatura, utilizza Consuma ricordi e recupera 5 (1d10) punti ferita.
@@ -2700,8 +2700,8 @@ Tiro per colpire in mischia: +11, portata 3 m. Colpito: 13 (2d6 + 6) danni tagli
 Tiro salvezza su Costituzione: CD 19, tutte le creature in un cono di 18 metri. Fallimento: 54 (12d8) danni da freddo. Successo: danni dimezzati.
 
 ### Azioni leggendarie
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Esplosione congelante**  
 Tiro salvezza su Costituzione: CD 14, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 7 (2d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -2767,8 +2767,8 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Esplosione congelante**  
 Tiro salvezza su Costituzione: CD 20, tutte le creature in una sfera di 9 metri di raggio centrata su un punto che il drago è in grado di vedere entro 36 metri. Fallimento: 14 (4d6) danni da freddo, e la velocità del bersaglio è pari a 0 fino al termine del turno successivo del bersaglio. Fallimento o successo: il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -2938,8 +2938,8 @@ Tiro salvezza su Destrezza: CD 19, tutte le creature in una linea lunga 27 metri
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Boato sonico**  
 Il drago usa Incantesimi per lanciare frantumare. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -3010,8 +3010,8 @@ Tiro salvezza su Destrezza: CD 23, tutte le creature in una linea lunga 36 metri
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Boato sonico**  
 Il drago usa Incantesimi per lanciare frantumare (di 3º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -3192,8 +3192,8 @@ Tiro salvezza su Costituzione: CD 20, tutte le creature in un cono di 18 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Assideramento**  
 Il drago usa Incantesimi per lanciare blocca mostri. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -3267,8 +3267,8 @@ Tiro salvezza su Costituzione: CD 24, tutte le creature in un cono di 27 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Assideramento**  
 Il drago usa Incantesimi per lanciare blocca mostri. il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -3459,8 +3459,8 @@ Tiro salvezza su Forza: CD 19, tutte le creature in un cono di 9 metri. Fallimen
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -3537,8 +3537,8 @@ Tiro salvezza su Forza: CD 23, tutte le creature in un cono di 9 metri. Fallimen
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -3715,8 +3715,8 @@ Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -3790,8 +3790,8 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -3984,8 +3984,8 @@ Tiro salvezza su Forza: CD 21, ogni creatura che al momento non è sotto l'effet
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -4062,8 +4062,8 @@ Tiro salvezza su Forza: CD 24, ogni creatura che al momento non è sotto l'effet
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -4240,8 +4240,8 @@ Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -4315,8 +4315,8 @@ Tiro salvezza su Costituzione: CD 21, tutte le creature in un cono di 27 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -4500,8 +4500,8 @@ Tiro salvezza su Destrezza: CD 18, tutte le creature in una linea lunga 18 metri
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio.
@@ -4575,8 +4575,8 @@ Tiro salvezza su Destrezza: CD 22, tutte le creature in una linea lunga 27 metri
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio.
@@ -4746,8 +4746,8 @@ Tiro salvezza su Destrezza: CD 21, tutte le creature in un cono di 18 metri. Fal
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità ed effettua un attacco Squarcio.
@@ -4818,8 +4818,8 @@ Tiro salvezza su Destrezza: CD 24, tutte le creature in un cono di 27 metri. Fal
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Presenza imponente**  
 Il drago usa Incantesimi per lanciare comando (di 2º livello). il drago non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -5006,8 +5006,8 @@ Tiro salvezza su Costituzione: CD 18, tutte le creature in un cono di 18 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -5082,8 +5082,8 @@ Tiro salvezza su Costituzione: CD 22, tutte le creature in un cono di 27 metri. 
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il drago può consumare un utilizzo per effettuare una delle seguenti azioni. Il drago recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Balzo**  
 Il drago si muove fino a metà della sua velocità, ed effettua un attacco Squarcio.
@@ -8181,8 +8181,8 @@ Il kraken scaglia una creatura di taglia Grande che ha afferrato in uno spazio c
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il kraken può consumare un utilizzo per effettuare una delle seguenti azioni. Il kraken recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il kraken può consumare un utilizzo per effettuare una delle seguenti azioni. Il kraken recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Inchiostro nocivo**  
 Tiro salvezza su Costituzione: CD 23, tutte le creature in un'emanazione di 4,5 metri di cui il kraken è il punto di origine finché si trova sott'acqua. Fallimento: il bersaglio è accecato e avvelenato fino al termine del turno successivo del kraken. Dopodiché il kraken si muove fino alla sua velocità massima. Fallimento o successo: il kraken non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -8365,8 +8365,8 @@ Il lich lancia controincantesimo o scudo come risposta all'innesco dell'incantes
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il lich può consumare un utilizzo per effettuare una delle seguenti azioni. Il lich recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il lich può consumare un utilizzo per effettuare una delle seguenti azioni. Il lich recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Distruggere vita**  
 Tiro salvezza su Costituzione: CD 20, tutte le creature diverse da un non morto in un'emanazione di 6 metri di cui il lich è il punto di origine. Fallimento: 31 (9d6) danni necrotici. Successo: danni dimezzati. Fallimento o successo: il lich non può ripetere quest'azione fino all'inizio del proprio turno successivo.
@@ -9802,8 +9802,8 @@ Attivazione: la mummia viene colpita con un tiro per colpire. Esito: la mummia a
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, la mummia può consumare un utilizzo per effettuare una delle seguenti azioni. La mummia recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, la mummia può consumare un utilizzo per effettuare una delle seguenti azioni. La mummia recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Colpo necrotico**  
 La mummia effettua un attacco Pugno di putrefazione o Incanalare energia negativa.
@@ -11922,8 +11922,8 @@ Tiro salvezza su Saggezza: CD 16, tutti i nemici in un'emanazione di 90 metri di
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo per effettuare una delle seguenti azioni. La sfinge recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo per effettuare una delle seguenti azioni. La sfinge recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Agguato arcano**  
 La sfinge può teletrasportarsi fino a 9 metri in uno spazio libero che è in grado di vedere, effettuando un attacco Artiglio.
@@ -12005,8 +12005,8 @@ Tiro salvezza su Costituzione: CD 20, tutti i nemici in un'emanazione di 150 met
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo per effettuare una delle seguenti azioni. La sfinge recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, la sfinge può consumare un utilizzo per effettuare una delle seguenti azioni. La sfinge recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Agguato arcano**  
 La sfinge può teletrasportarsi fino a 9 metri in uno spazio libero che è in grado di vedere, effettuando un attacco Artiglio.
@@ -13136,8 +13136,8 @@ Finché è in forma di pipistrello, il vampiro non può parlare. Le sue statisti
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie:** 3 (4 nella tana)  
-Subito dopo il turno di un'altra creatura, il vampiro può consumare un utilizzo per effettuare una delle seguenti azioni. Il vampiro recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**
+3 (4 nella tana)  Subito dopo il turno di un'altra creatura, il vampiro può consumare un utilizzo per effettuare una delle seguenti azioni. Il vampiro recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Colpo immortale**  
 Il vampiro si muove fino a metà della sua velocità, ed effettua un attacco Colpo tombale.
