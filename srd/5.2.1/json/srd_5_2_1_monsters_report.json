@@ -1,0 +1,60 @@
+{
+  "source_markdown": "/mnt/data/srd_5_2_1_monsters.md",
+  "schema_markdown": "/mnt/data/srd_5_2_1_monsters_schema.md",
+  "output_json": "/mnt/data/mostri_srd_5_2_1_production_v5.json",
+  "monster_count": 334,
+  "duplicate_ids_count": 0,
+  "duplicate_ids": [],
+  "missing_required_fields_count": 4,
+  "missing_required_fields": {
+    "cavalcatura_ultraterrena": [
+      "grado_sfida"
+    ],
+    "insetto_gigante": [
+      "grado_sfida",
+      "punti_esperienza",
+      "bonus_competenza",
+      "grado_sfida_raw"
+    ],
+    "oggetto_animato": [
+      "grado_sfida"
+    ],
+    "spirito_draconico": [
+      "grado_sfida"
+    ]
+  },
+  "warnings_count": 2,
+  "warnings_by_monster": {
+    "solar": [
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "**Utilizzi di azioni leggendarie: 3**"
+      },
+      {
+        "type": "unattached_section_text",
+        "section": "azioni_leggendarie",
+        "text": "Subito dopo il turno di un'altra creatura, il solar può consumare un utilizzo per effettuare una delle seguenti azioni. Il solar recupera tutti gli utilizzi con"
+      }
+    ]
+  },
+  "schema_shape": {
+    "root": "array",
+    "includes_optional_vulnerabilita": true,
+    "legendary_actions": "object with utilizzi, descrizione_utilizzi and azioni",
+    "ability_fields": [
+      "forza",
+      "destrezza",
+      "costituzione",
+      "intelligenza",
+      "saggezza",
+      "carisma"
+    ],
+    "stat_fields": [
+      "classe_armatura",
+      "iniziativa",
+      "punti_ferita",
+      "velocita"
+    ]
+  }
+}

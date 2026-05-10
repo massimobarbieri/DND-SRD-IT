@@ -1,0 +1,51 @@
+{
+  "source_markdown": "/mnt/data/srd_5_2_1_magic_items.md",
+  "schema_markdown": "/mnt/data/srd_5_2_1_magic_items_schema.md",
+  "output_json": "/mnt/data/srd_5_2_1_magic_items.json",
+  "item_count": 256,
+  "duplicate_ids_count": 0,
+  "duplicate_ids": [],
+  "missing_required_fields_count": 3,
+  "missing_required_fields": {
+    "bracciali_dell'arciere": [
+      "rarita"
+    ],
+    "sfera_annientatrice": [
+      "rarita"
+    ],
+    "talismano_del_bene_puro": [
+      "rarita"
+    ]
+  },
+  "warnings_count": 0,
+  "warnings_by_item": {},
+  "schema_shape": {
+    "root": "array",
+    "fields": [
+      "id",
+      "nome",
+      "tipo",
+      "tipo_base",
+      "rarita",
+      "richiede_sintonia",
+      "descrizione",
+      "proprieta",
+      "sezioni",
+      "riferimenti"
+    ],
+    "tolerates_concatenated_fields": true,
+    "normalizes_attunement": true
+  },
+  "sample_ids": [
+    "ammazzagiganti",
+    "ampolla_di_ferro",
+    "amuleto_anti-individuazione_e_localizzazione",
+    "amuleto_dei_piani",
+    "amuleto_della_salute",
+    "anello_accumula_incantesimi",
+    "anello_dei_tre_desideri",
+    "anello_del_calore",
+    "anello_del_camminare_sull'acqua",
+    "anello_del_comando_degli_elementali"
+  ]
+}
