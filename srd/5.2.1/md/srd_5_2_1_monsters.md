@@ -1178,6 +1178,7 @@ Il cane si teletrasporta fino a un massimo di 12 metri in uno spazio libero che 
 
 ## Cavalcatura ultraterrena
 **id:** cavalcatura_ultraterrena
+**gruppo:** Creatura evocata
 **tipo:** Celestiale, Folletto o Immondo (a scelta)
 **dimensione:** Grande
 **allineamento:** senza allineamento  
@@ -10095,7 +10096,7 @@ Tiro per colpire in mischia: +4, portata 1,5 m. Colpito: 5 (1d6 + 2) danni contu
 
 ## Oggetto animato
 **id:** oggetto_animato
-**gruppo:** Oggetti animati
+**gruppo:** Creatura evocata
 **tipo:** Costrutto
 **dimensione:** Enorme o inferiore
 **allineamento:** senza allineamento  
@@ -12252,6 +12253,7 @@ Tiro salvezza su Carisma: CD 10, una creatura entro 1,5 metri che lo spiritello 
 
 ## Spirito draconico
 **id:** spirito_draconico
+**gruppo:** Creatura evocata
 **tipo:** Drago
 **dimensione:** Grande
 **allineamento:** senza allineamento  
