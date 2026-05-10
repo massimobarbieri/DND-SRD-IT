@@ -8053,9 +8053,6 @@ Tiro salvezza su Saggezza: CD 15, una creatura che l'incubo è in grado di veder
 **bonus_competenza:** null 
 **grado_sfida_raw:** null 
 
-### Note
-
-Questa creatura non ha una singola scheda fissa: le sue statistiche dipendono dal tipo di insetto scelto (ragno, scarabeo, vespa, ecc.) e dalla sua taglia. L'incantesimo o effetto che la genera specifica quali statistiche utilizzare.
 
 ### Azioni
 
