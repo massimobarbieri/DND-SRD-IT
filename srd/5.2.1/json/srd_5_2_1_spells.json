@@ -1946,10 +1946,6 @@
         "titolo": "Precipitazioni",
         "blocchi": [
           {
-            "nome": null,
-            "descrizione": "Grado Condizione"
-          },
-          {
             "nome": "1",
             "descrizione": "Sereno"
           },
@@ -1959,7 +1955,11 @@
           },
           {
             "nome": "3",
-            "descrizione": "Nuvoloso o nebbia\n\n**4 Pioggia, grandine o neve"
+            "descrizione": "Nuvoloso o nebbia"
+          },
+          {
+            "nome": "4",
+            "descrizione": "Pioggia, grandine o neve"
           },
           {
             "nome": "5",
@@ -8962,10 +8962,52 @@
     "sezioni": [
       {
         "titolo": "Risultato del teletrasporto",
+        "righe": [
+          {
+            "chiave": "Cerchio permanente",
+            "valore": "Errore: -; Area simile: -; Fuori bersaglio: -; Sul bersaglio: 01–00"
+          },
+          {
+            "chiave": "Oggetto collegato",
+            "valore": "Errore: -; Area simile: -; Fuori bersaglio: -; Sul bersaglio: 01–00"
+          },
+          {
+            "chiave": "Molto familiare",
+            "valore": "Errore: 01–05; Area simile: 06–13; Fuori bersaglio: 14–24; Sul bersaglio: 25–00"
+          },
+          {
+            "chiave": "Visto occasionalmente",
+            "valore": "Errore: 01–33; Area simile: 34–43; Fuori bersaglio: 44–53; Sul bersaglio: 54–00"
+          },
+          {
+            "chiave": "Visto una volta o descritto",
+            "valore": "Errore: 01–43; Area simile: 44–53; Fuori bersaglio: 54–73; Sul bersaglio: 74–00"
+          },
+          {
+            "chiave": "Falsa destinazione",
+            "valore": "Errore: 01–50; Area simile: 51–00; Fuori bersaglio: -; Sul bersaglio: -"
+          }
+        ],
         "blocchi": [
           {
-            "nome": null,
-            "descrizione": "Area simile\nFuori bersaglio\nSul bersaglio\nFamiliarità Errore\nCerchio permanente\n- - - 01-00\nOggetto collegato\n- - - 01-00\nMolto familiare\n```text\n01-05\n06-13\n14-24\n25-00\n```\nVisto occasionalmente\n```text\n01-33\n34-43\n44-53\n54-00\n```\nVisto una volta o descritto\n```text\n01-43\n44-53\n54-73\n74-00\n```\nFalsa destinazione\n01-50 51-00 - -\nFamiliarità. Di seguito vengono spiegati i significati dei termini presenti nella colonna Familiarità:\n- \"Cerchio permanente\" indica un cerchio di\n- teletrasporto permanente di cui l'incantatore conosce la sequenza di sigilli.\n- \"Oggetto collegato\" indica un oggetto in possesso\n- dell'incantatore prelevato dalla destinazione desiderata negli ultimi sei mesi, come un libro della biblioteca di un mago.\n- \"Molto familiare\" indica un luogo che l'incanta-\n- tore ha visitato spesso, un luogo che ha studiato con attenzione o un luogo che è in grado di vedere quando lancia l'incantesimo.\n- \"Visto occasionalmente\" indica un luogo che\n- l'incantatore ha visto più di una volta, ma che non gli è troppo familiare.\n- \"Visto una volta o descritto\" indica un luogo che\n- l'incantatore ha visto una volta, magari usando la magia, o un luogo noto attraverso la descrizione di un'altra persona o una mappa.\n- \"Falsa destinazione\" è un luogo inesistente.\nPer esempio, l'incantatore ha cercato di scrutare il rifugio segreto di un nemico ma ha visto invece un'illusione, oppure tenta di teletrasportarsi in un luogo che non esiste più.\nErrore. La magia imprevedibile dell'incantesimo rende difficile il viaggio. Ogni creatura che si teletrasporta (o l'oggetto bersaglio) subisce 3d10 danni da forza e il GM lancia di nuovo sulla tabella per determinare dove arriverà (potrebbero verificarsi vari errori, nel qual caso i danni verranno inflitti ogni volta).\nArea simile. L'incantatore e il suo gruppo (o l'oggetto bersaglio) arrivano in un'area diversa che è visivamente o tematicamente simile all'area bersaglio, oltre a essere nelle sue immediate vicinanze. Per esempio, se l'incantatore vuole dirigersi al suo laboratorio personale, potrebbe comparire in quello di un'altra persona nella stessa città.\nFuori bersaglio. L'incantatore e il suo gruppo (o l'oggetto bersaglio) compaiono a una distanza di 2d12 chilometri dalla destinazione in una direzione casuale. Tira 1d8 per la direzione: 1, est; 2, sud-est; 3, sud; 4, sud-ovest; 5, ovest; 6, nord-ovest; 7, nord; oppure 8, nord-est.\nSul bersaglio. L'incantatore e il suo gruppo (o l'oggetto bersaglio) compaiono nel luogo designato."
+            "nome": "Familiarità",
+            "descrizione": "Cerchio permanente indica un cerchio di teletrasporto permanente di cui l'incantatore conosce la sequenza di sigilli. Oggetto collegato indica un oggetto in possesso dell'incantatore prelevato dalla destinazione desiderata negli ultimi sei mesi, come un libro della biblioteca di un mago. Molto familiare indica un luogo che l'incantatore ha visitato spesso, un luogo che ha studiato con attenzione o un luogo che è in grado di vedere quando lancia l'incantesimo. Visto occasionalmente indica un luogo che l'incantatore ha visto più di una volta, ma che non gli è troppo familiare. Visto una volta o descritto indica un luogo che l'incantatore ha visto una volta, magari usando la magia, o un luogo noto attraverso la descrizione di un'altra persona o una mappa. Falsa destinazione è un luogo inesistente."
+          },
+          {
+            "nome": "Errore",
+            "descrizione": "La magia imprevedibile dell'incantesimo rende difficile il viaggio. Ogni creatura che si teletrasporta (o l'oggetto bersaglio) subisce 3d10 danni da forza e il GM lancia di nuovo sulla tabella per determinare dove arriverà (potrebbero verificarsi vari errori, nel qual caso i danni verranno inflitti ogni volta)."
+          },
+          {
+            "nome": "Area simile",
+            "descrizione": "L'incantatore e il suo gruppo (o l'oggetto bersaglio) arrivano in un'area diversa che è visivamente o tematicamente simile all'area bersaglio, oltre a essere nelle sue immediate vicinanze. Per esempio, se l'incantatore vuole dirigersi al suo laboratorio personale, potrebbe comparire in quello di un'altra persona nella stessa città."
+          },
+          {
+            "nome": "Fuori bersaglio",
+            "descrizione": "L'incantatore e il suo gruppo (o l'oggetto bersaglio) compaiono a una distanza di 2d12 chilometri dalla destinazione in una direzione casuale. Tira 1d8 per la direzione: 1, est; 2, sud-est; 3, sud; 4, sud-ovest; 5, ovest; 6, nord-ovest; 7, nord; oppure 8, nord-est."
+          },
+          {
+            "nome": "Sul bersaglio",
+            "descrizione": "L'incantatore e il suo gruppo (o l'oggetto bersaglio) compaiono nel luogo designato."
           }
         ]
       }

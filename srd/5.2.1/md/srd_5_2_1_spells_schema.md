@@ -10,6 +10,7 @@ Scopo: garantire JSON omogeneo dagli incantesimi anche dopo modifiche future al 
 - I campi base usano sempre `**campo:** valore`.
 - Il testo libero dopo i campi base diventa `descrizione`.
 - Le sezioni `###` diventano elementi dell'array `sezioni`.
+- Le tabelle Markdown dentro una sezione `###` diventano `sezioni[].righe`.
 - `### Scaling` deve essere normalizzato nel campo JSON `scaling`.
 - Se esiste `**creatura_evocata:** id_creatura`, il valore è un riferimento all'`id` di una creatura nel JSON dei mostri.
 - Se esiste un blocco con `**tipo_blocco:** creatura_evocata`, quel blocco va convertito come creatura locale e collegato all'incantesimo.
@@ -43,6 +44,10 @@ Descrizione libera dell'incantesimo.
 Descrizione scaling.
 
 ### Nome sezione libera
+
+| Colonna A | Colonna B |
+| --- | --- |
+| valore | valore |
 
 **Nome sottosezione**
 Descrizione.
@@ -105,6 +110,12 @@ Descrizione.
   "sezioni": [
     {
       "titolo": "string",
+      "righe": [
+        {
+          "chiave": "string|null",
+          "valore": "string"
+        }
+      ],
       "blocchi": [
         {
           "nome": "string|null",

@@ -1640,47 +1640,34 @@ Quando l'incantatore modifica le condizioni atmosferiche, trova la condizione at
 
 ### Precipitazioni
 
-Grado Condizione
-
-**1** Sereno
-
-**2** Poco nuvoloso
-
-**3** Nuvoloso o nebbia
-
-**4 Pioggia, grandine o neve
-
-**5** Pioggia torrenziale, grandinata violenta o tormenta
+| Grado | Condizione |
+| --- | --- |
+| 1 | Sereno |
+| 2 | Poco nuvoloso |
+| 3 | Nuvoloso o nebbia |
+| 4 | Pioggia, grandine o neve |
+| 5 | Pioggia torrenziale, grandinata violenta o tormenta |
 
 ### Temperatura
 
-Grado Condizione
-
-**1** Torrido
-
-**2** Caldo
-
-**3** Temperato
-
-**4** Fresco
-
-**5** Freddo
-
-**6** Gelido
+| Grado | Condizione |
+| --- | --- |
+| 1 | Torrido |
+| 2 | Caldo |
+| 3 | Temperato |
+| 4 | Fresco |
+| 5 | Freddo |
+| 6 | Gelido |
 
 ### Vento
 
-Grado Condizione
-
-**1** Calmo
-
-**2** Vento moderato
-
-**3** Vento forte
-
-**4** Burrasca
-
-**5** Tempesta
+| Grado | Condizione |
+| --- | --- |
+| 1 | Calmo |
+| 2 | Vento moderato |
+| 3 | Vento forte |
+| 4 | Burrasca |
+| 5 | Tempesta |
 
 ---
 
@@ -7680,70 +7667,22 @@ La destinazione scelta deve essere nota all'incantatore e deve trovarsi sul suo 
 
 ### Risultato del teletrasporto
 
-Area simile
-
-Fuori bersaglio
-
-Sul bersaglio
-
-Familiarità Errore
-
-Cerchio permanente
-
-- - - 01-00
-
-Oggetto collegato
-
-- - - 01-00
-
-Molto familiare
-
-```text
-01-05
-06-13
-14-24
-25-00
-```
-
-Visto occasionalmente
-
-```text
-01-33
-34-43
-44-53
-54-00
-```
-
-Visto una volta o descritto
-
-```text
-01-43
-44-53
-54-73
-74-00
-```
-
-Falsa destinazione
-
-01-50 51-00 - -
+| Familiarità | Errore | Area simile | Fuori bersaglio | Sul bersaglio |
+| --- | --- | --- | --- | --- |
+| Cerchio permanente | - | - | - | 01–00 |
+| Oggetto collegato | - | - | - | 01–00 |
+| Molto familiare | 01–05 | 06–13 | 14–24 | 25–00 |
+| Visto occasionalmente | 01–33 | 34–43 | 44–53 | 54–00 |
+| Visto una volta o descritto | 01–43 | 44–53 | 54–73 | 74–00 |
+| Falsa destinazione | 01–50 | 51–00 | - | - |
 
 Familiarità. Di seguito vengono spiegati i significati dei termini presenti nella colonna Familiarità:
 
-- "Cerchio permanente" indica un cerchio di
-
-- teletrasporto permanente di cui l'incantatore conosce la sequenza di sigilli.
-- "Oggetto collegato" indica un oggetto in possesso
-
-- dell'incantatore prelevato dalla destinazione desiderata negli ultimi sei mesi, come un libro della biblioteca di un mago.
-- "Molto familiare" indica un luogo che l'incanta-
-
-- tore ha visitato spesso, un luogo che ha studiato con attenzione o un luogo che è in grado di vedere quando lancia l'incantesimo.
-- "Visto occasionalmente" indica un luogo che
-
-- l'incantatore ha visto più di una volta, ma che non gli è troppo familiare.
-- "Visto una volta o descritto" indica un luogo che
-
-- l'incantatore ha visto una volta, magari usando la magia, o un luogo noto attraverso la descrizione di un'altra persona o una mappa.
+- "Cerchio permanente" indica un cerchio di teletrasporto permanente di cui l'incantatore conosce la sequenza di sigilli.
+- "Oggetto collegato" indica un oggetto in possesso dell'incantatore prelevato dalla destinazione desiderata negli ultimi sei mesi, come un libro della biblioteca di un mago.
+- "Molto familiare" indica un luogo che l'incantatore ha visitato spesso, un luogo che ha studiato con attenzione o un luogo che è in grado di vedere quando lancia l'incantesimo.
+- "Visto occasionalmente" indica un luogo che l'incantatore ha visto più di una volta, ma che non gli è troppo familiare.
+- "Visto una volta o descritto" indica un luogo che l'incantatore ha visto una volta, magari usando la magia, o un luogo noto attraverso la descrizione di un'altra persona o una mappa.
 - "Falsa destinazione" è un luogo inesistente.
 
 Per esempio, l'incantatore ha cercato di scrutare il rifugio segreto di un nemico ma ha visto invece un'illusione, oppure tenta di teletrasportarsi in un luogo che non esiste più.

@@ -10,6 +10,7 @@ Scopo: garantire JSON omogeneo dagli oggetti magici anche dopo modifiche future 
 - I campi base usano sempre `**campo:** valore`.
 - Il testo libero dopo i campi base diventa `descrizione`.
 - Le sezioni `###` diventano elementi dell'array `sezioni`.
+- Le tabelle Markdown dentro una sezione `###` diventano `sezioni[].righe`.
 - I blocchi in grassetto dentro la descrizione diventano `proprieta`.
 - Campi mancanti ma previsti dallo schema devono essere emessi come `null` o array vuoto.
 - Il parser deve tollerare righe accidentalmente unite, per esempio:
@@ -32,6 +33,10 @@ Descrizione libera dell'oggetto.
 Descrizione proprietà.
 
 ### Nome tabella o sezione
+
+| Colonna A | Colonna B |
+| --- | --- |
+| valore | valore |
 
 **Voce**
 Descrizione voce.
