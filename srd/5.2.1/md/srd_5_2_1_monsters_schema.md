@@ -52,6 +52,7 @@ Scopo: garantire che ogni conversione futura da Markdown a JSON produca sempre l
 **resistenze:** string                # opzionale
 **immunita_danni:** string            # opzionale
 **immunita_condizione:** string       # opzionale
+**vulnerabilita:** string       # opzionale
 **sensi:** string
 **lingue:** string
 **grado_sfida:** string|number|null
