@@ -12447,8 +12447,8 @@ Tiro salvezza su Forza: CD 27, una creatura di taglia Grande o inferiore afferra
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie: 3**  
-Subito dopo il turno di un'altra creatura, il tarrasque può consumare un utilizzo per effettuare una delle seguenti azioni. Il tarrasque recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**  
+3 Subito dopo il turno di un'altra creatura, il tarrasque può consumare un utilizzo per effettuare una delle seguenti azioni. Il tarrasque recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Assalto brutale**  
 Il tarrasque si muove fino a metà della sua velocità ed effettua un attacco Artiglio e un attacco Coda.
@@ -12901,8 +12901,8 @@ L'unicorno tocca un'altra creatura col suo corno e lancia cura ferite o ristorar
 
 ### Azioni leggendarie
 
-**Utilizzi di azioni leggendarie: 3**  
-Subito dopo il turno di un'altra creatura, l'unicorno può consumare un utilizzo per effettuare una delle seguenti azioni. L'unicorno recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
+**Utilizzi di azioni leggendarie:**  
+3 Subito dopo il turno di un'altra creatura, l'unicorno può consumare un utilizzo per effettuare una delle seguenti azioni. L'unicorno recupera tutti gli utilizzi consumati all'inizio di ogni suo turno.
 
 **Incornata in carica**  
 L'unicorno si muove fino a metà della sua velocità senza provocare attacchi di opportunità, ed effettua un attacco Corno radioso.
