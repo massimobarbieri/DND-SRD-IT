@@ -5321,9 +5321,7 @@ Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni contun
 Tiro per colpire a distanza: +5, gittata 27 m. Colpito: 10 (3d6) danni radiosi.
 
 **Incantesimi**  
-Il druido lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
-**1/giorno ciascuno:** animale messaggero, bagliore lunare, passo veloce 
-**2/giorno ciascuno:** intralciare, onda tonante A volontà: artificio druidico, parlare con gli animali
+Il druido lancia uno dei seguenti incantesimi, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: animale messaggero, bagliore lunare, passo veloce 2/giorno ciascuno: intralciare, onda tonante A volontà: artificio druidico, parlare con gli animali
 
 ---
 
@@ -8012,8 +8010,7 @@ L'incubo effettua due attacchi Tocco irrequieto.
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 15 (3d6 + 5) danni psichici, e il bersaglio è maledetto per 24 ore o finché l'incubo non muore. Finché la maledizione perdura, il bersaglio non ottiene alcun beneficio dai riposi brevi.
 
 **Incantesimi**  
-L'incubo lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15): 
-**1/giorno ciascuno:** Sogno, trama ipnotica A volontà: Camuffare se stesso, forma eterea
+L'incubo lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 15): 1/giorno ciascuno: Sogno, trama ipnotica A volontà: Camuffare se stesso, forma eterea
 
 ### Azioni bonus
 
@@ -8239,8 +8236,7 @@ Il lamia effettua due attacchi Artiglio. Può sostituire un attacco con un utili
 Tiro per colpire in mischia: +5, portata 1,5 m Colpito: 7 (1d8 + 3) danni taglienti più 7 (2d6) danni psichici.
 
 **Incantesimi**
-Il lamia lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
-**1/giorno ciascuno:** Costrizione, immagine maggiore, scrutare A volontà: Camuffare se stesso (può apparire come un bipede di taglia Grande o Media), illusione minore
+Il lamia lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: Costrizione, immagine maggiore, scrutare A volontà: Camuffare se stesso (può apparire come un bipede di taglia Grande o Media), illusione minore
 
 **Tocco corruttore**
 Tiro salvezza su Saggezza: CD 13, una creatura che il lamia è in grado di vedere entro 1,5 metri. Fallimento: 13 (3d8) danni psichici, e il bersaglio è maledetto per 1 ora. Finché la maledizione perdura, il bersaglio è affascinato e avvelenato.
@@ -8360,9 +8356,7 @@ Tiro per colpire in mischia o a distanza: +12, portata 1,5 m o gittata 36 m. Col
 Tiro per colpire in mischia: +12, portata 1,5 m. Colpito: 15 (3d6 + 5) danni da freddo, e il bersaglio è paralizzato fino all'inizio del turno successivo del lich.
 
 **Incantesimi**  
-Il lich lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20):
-**1/giorno ciascuno:** catena di fulmini, dito della morte, parola del potere uccidere, scrutare 
-**2/giorno ciascuno:** animare morti, porta dimensionale, spostamento planare A volontà: Dissolvi magie, fulmine (di 5º livello), individuazione dei pensieri, individuazione del magico, invisibilità, mano magica, palla di fuoco (di 5º livello), prestidigitazione
+Il lich lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20):1/giorno ciascuno: catena di fulmini, dito della morte, parola del potere uccidere, scrutare 2/giorno ciascuno: animare morti, porta dimensionale, spostamento planare A volontà: Dissolvi magie, fulmine (di 5º livello), individuazione dei pensieri, individuazione del magico, invisibilità, mano magica, palla di fuoco (di 5º livello), prestidigitazione
 
 ### Reazioni
 
@@ -8545,9 +8539,7 @@ Il mago effettua tre attacchi Esplosione arcana.
 Tiro per colpire in mischia o a distanza: +6, portata 1,5 m o gittata 36 m. Colpito: 16 (3d8 + 3) danni da forza.
 
 **Incantesimi**  
-Il mago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
-**1/giorno ciascuno:** Cono di freddo, volare 
-**2/giorno ciascuno:** Invisibilità, palla di fuoco (di 4º livello) A volontà: Armatura magica (inclusa nella CA), individuazione del magico, luce, mano magica, prestidigitazione
+Il mago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 1/giorno ciascuno: Cono di freddo, volare 2/giorno ciascuno: Invisibilità, palla di fuoco (di 4º livello) A volontà: Armatura magica (inclusa nella CA), individuazione del magico, luce, mano magica, prestidigitazione
 
 ### Azioni bonus
 
@@ -8614,9 +8606,7 @@ L'arcimago effettua quattro attacchi Esplosione arcana.
 Tiro per colpire in mischia o a distanza: +9, portata 1,5 m o gittata 45 m. Colpito: 27 (4d10 + 5) danni da forza.
 
 **Incantesimi**  
-L'arcimago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 
-**1/giorno ciascuno:** Cono di freddo (di 9º livello), scrutare, teletrasporto, vuoto mentale (lanciato prima del combattimento) 
-**2/giorno ciascuno:** Fulmine (di 7º livello), volare A volontà: Armatura magica (inclusa nella CA), camuffare se stesso, individuazione dei pensieri, individuazione del magico, invisibilità, luce, mano magica, prestidigitazione
+L'arcimago lancia uno dei seguenti incantesimi, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17): 1/giorno ciascuno: Cono di freddo (di 9º livello), scrutare, teletrasporto, vuoto mentale (lanciato prima del combattimento) 2/giorno ciascuno: Fulmine (di 7º livello), volare A volontà: Armatura magica (inclusa nella CA), camuffare se stesso, individuazione dei pensieri, individuazione del magico, invisibilità, luce, mano magica, prestidigitazione
 
 ### Azioni bonus
 
@@ -9126,8 +9116,7 @@ La megera effettua due attacchi Artiglio.
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 13 (2d8 + 4) danni taglienti.
 
 **Incantesimi**  
-La megera lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
-**2/giorno ciascuno:** Allucinazione mortale, spostamento planare (solo se stessa) A volontà: Dardo incantato (di 4º livello), forma eterea, individuazione del magico
+La megera lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 2/giorno ciascuno: Allucinazione mortale, spostamento planare (solo se stessa) A volontà: Dardo incantato (di 4º livello), forma eterea, individuazione del magico
 
 **Infestare incubi (1/giorno; richiede Borsa dell'anima)**  
 Finché si trova sul Piano Etereo, la megera lancia sogno, utilizzando la stessa caratteristica da incantatore di Incantesimi. Soltanto la megera può agire da messaggera dell'incantesimo, e il bersaglio deve essere una creatura che la megera è in grado di vedere sul Piano Materiale. L'incantesimo fallisce ed è sprecato se il bersaglio è sotto l'effetto dell'incantesimo protezione dal bene e dal male o se si trova nel raggio dell'incantesimo cerchio magico. Se il bersaglio subisce danni dall'incantesimo sogno, i punti ferita massimi del bersaglio sono ridotti di un ammontare pari ai danni subiti. Se l'incantesimo uccide il bersaglio, la sua anima resta intrappolata nella borsa dell'anima della megera, e il bersaglio non può essere resuscitato finché la sua anima non viene liberata.
@@ -9801,8 +9790,7 @@ Tiro per colpire in mischia: +9, portata 1,5 m Colpito: 15 (2d10 + 4) danni cont
 Tiro per colpire a distanza: +9, gittata 18 m. Colpito: 25 (6d6 + 4) danni necrotici.
 
 **Incantesimi**  
-Il signore delle mummie lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 
-**1/giorno ciascuno:** Animare morti, ferire, piaga degli insetti (di 7º livello) A volontà: Dissolvi magie, taumaturgia
+Il signore delle mummie lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 17, +9 al tiro per colpire degli attacchi con incantesimo): 1/giorno ciascuno: Animare morti, ferire, piaga degli insetti (di 7º livello) A volontà: Dissolvi magie, taumaturgia
 
 **Sguardo funesto**  
 Tiro salvezza su Saggezza: CD 17, una creatura che la mummia è in grado di vedere entro 18 metri. Fallimento: 25 (6d6 + 4) danni psichici, e il bersaglio è paralizzato fino al termine del turno successivo della mummia.
@@ -9880,8 +9868,7 @@ La naga effettua due attacchi Morso. Può sostituire qualsiasi attacco con un ut
 Tiro per colpire in mischia: +8, portata 3 m. Colpito: 17 (2d12 + 4) danni perforanti più 22 (4d10) danni da veleno.
 
 **Incantesimi**  
-La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 
-**1/giorno ciascuno:** Chiaroveggenza, colpo infuocato (di 6º livello), costrizione, cura ferite (di 6º livello), visione del vero A volontà: taumaturgia
+La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Saggezza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16): 1/giorno ciascuno: Chiaroveggenza, colpo infuocato (di 6º livello), costrizione, cura ferite (di 6º livello), visione del vero A volontà: taumaturgia
 
 **Sputo velenoso**  
 Tiro salvezza su Costituzione: CD 16, una creatura che la naga è in grado di vedere entro 18 metri. Fallimento: 31 (7d8) danni da veleno, e il bersaglio è accecato fino all'inizio del turno successivo della naga. Successo: danni dimezzati.
@@ -9942,8 +9929,7 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 7 (1d6 + 4) danni perfora
 Tiro per colpire a distanza: +6, gittata 18 m. Colpito: 21 (6d6) danni necrotici.
 
 **Incantesimi**  
-La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 
-**2/giorno ciascuno:** blocca persone (di 3º livello), individuazione dei pensieri, fulmine (di 4º livello), porta dimensionaleA volontà: illusione minore, individuazione del magico, mano magica, respirare sott'acqua
+La naga lancia uno dei seguenti incantesimi, senza bisogno di componenti somatiche o materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14): 2/giorno ciascuno: blocca persone (di 3º livello), individuazione dei pensieri, fulmine (di 4º livello), porta dimensionaleA volontà: illusione minore, individuazione del magico, mano magica, respirare sott'acqua
 
 ---
 
@@ -10447,8 +10433,7 @@ Tiro per colpire in mischia: +7, portata 3 m. Colpito: 10 (1d12 + 4) danni tagli
 Tiro per colpire a distanza: +5, gittata 18 m. Colpito: 9 (2d6 + 2) danni psichici, e il bersaglio è spaventato fino all'inizio del turno successivo dell'oni.
 
 **Incantesimi**  
-L'oni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 
-**1/giorno ciascuno:** Charme su persone (di 2º livello), forma gassosa, oscurità, sonno
+L'oni lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 13): 1/giorno ciascuno: Charme su persone (di 2º livello), forma gassosa, oscurità, sonno
 
 **Mutaforma**  
 L'oni si trasforma in un umanoide di taglia Piccola o Media, o in un gigante di taglia Grande, oppure torna alla sua vera forma. A eccezione della taglia, le sue statistiche di gioco restano le stesse in ogni forma. Nessun oggetto che indossa o trasporta viene trasformato.
@@ -10826,8 +10811,7 @@ Tiro per colpire in mischia: +12, portata 3 m. Colpito: 14 (2d6 + 7) danni tagli
 Tiro salvezza su Destrezza: CD 20, tutti i nemici in una sfera di 6 metri di raggio centrata su un punto che il planetar è in grado di vedere entro 36 metri. Fallimento: 24 (7d6) danni radiosi. Successo: danni dimezzati.
 
 **Incantesimi**  
-Il planetar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): A volontà: Individuazione del bene e del male
-**1/giorno ciascuno:** Comunione, controllare tempo atmosferico, dissolvi il bene e il male, rianimare morti
+Il planetar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 20): A volontà: Individuazione del bene e del male1/giorno ciascuno: Comunione, controllare tempo atmosferico, dissolvi il bene e il male, rianimare morti
 
 ### Azioni bonus
 
@@ -11170,8 +11154,7 @@ Il rakshasa effettua tre attacchi Tocco maledetto.
 Tiro per colpire in mischia: +10, portata 1,5 m. Colpito: 12 (2d6 + 5) danni taglienti più 19 (3d12) danni necrotici. Se il bersaglio è una creatura, viene maledetto. Finché è maledetto, il bersaglio non ottiene alcun beneficio dal riposo breve o lungo.
 
 **Incantesimi**  
-Il rakshasa lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18):
-**1/giorno ciascuno:** Immagine maggiore, invisibilità, spostamento planare, volareA volontà: Camuffare se stesso, illusione minore, individuazione dei pensieri, individuazione del magico, mano magica
+Il rakshasa lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali e utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 18):1/giorno ciascuno: Immagine maggiore, invisibilità, spostamento planare, volareA volontà: Camuffare se stesso, illusione minore, individuazione dei pensieri, individuazione del magico, mano magica
 
 **Ordine funesto (ricarica 5-6)**  
 Tiro salvezza su Saggezza: CD 18, tutti i nemici in un'emanazione di 9 metri di cui il rakshasa è il punto di origine. Fallimento: 28 (8d6) danni psichici, e il bersaglio è spaventato e incapacitato fino all'inizio del turno successivo del rakshasa. 
@@ -11932,8 +11915,7 @@ La sfinge effettua tre attacchi Artiglio.
 Tiro per colpire in mischia: +8, portata 1,5 m. Colpito: 14 (3d6 + 4) danni taglienti.
 
 **Incantesimi**  
-La sfinge lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16):
-**1/giorno ciascuno:** conoscenza delle leggende, dissolvi magie, linguaggi, localizza oggetto, rimuovi maledizione, spostamento planareA volontà: identificare, illusione minore, individuazione del magico, mano magica, prestidigitazione
+La sfinge lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Intelligenza come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 16):1/giorno ciascuno: conoscenza delle leggende, dissolvi magie, linguaggi, localizza oggetto, rimuovi maledizione, spostamento planareA volontà: identificare, illusione minore, individuazione del magico, mano magica, prestidigitazione
 
 **Ruggito spezza-mente (ricarica 5-6)**  
 Tiro salvezza su Saggezza: CD 16, tutti i nemici in un'emanazione di 90 metri di cui la sfinge è il punto di origine. Fallimento: 35 (10d6) danni psichici, e il bersaglio è incapacitato fino all'inizio del turno successivo della sfinge.
@@ -12097,8 +12079,7 @@ Tiro per colpire in mischia o a distanza: +15, portata 3 m o gittata 36 m. Colpi
 Tiro salvezza su Destrezza: CD 21, una creatura che il solar è in grado di vedere entro 180 metri. Fallimento: se la creatura possiede 100 punti ferita o meno, muore. Altrimenti, subisce 24 (4d8 + 6) danni perforanti più 36 (8d8) danni radiosi.
 
 **Incantesimi**  
-Il solar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 25): 
-**1/giorno ciascuno:** comunione, controllare tempo atmosferico, dissolvi il bene e il male, resurrezioneA volontà: individuazione del bene e del male
+Il solar lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 25): 1/giorno ciascuno: comunione, controllare tempo atmosferico, dissolvi il bene e il male, resurrezioneA volontà: individuazione del bene e del male
 
 ### Azioni bonus
 
@@ -12911,8 +12892,7 @@ Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 9 (1d10 + 4) danni radi
 Tiro per colpire in mischia: +7, portata 1,5 m. Colpito: 11 (2d6 + 4) danni contundenti.
 
 **Incantesimi**  
-L'unicorno lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14):
-**1/giorno ciascuno:** Calmare emozioni, dissolvi il bene e il male, intralciare, parola del ritiro, passare senza tracceA volontà: Artificio druidico, individuazione del bene e del male
+L'unicorno lancia uno dei seguenti incantesimi senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 14):1/giorno ciascuno: Calmare emozioni, dissolvi il bene e il male, intralciare, parola del ritiro, passare senza tracceA volontà: Artificio druidico, individuazione del bene e del male
 
 ### Azioni bonus
 
