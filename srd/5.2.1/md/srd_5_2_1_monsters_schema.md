@@ -11,6 +11,8 @@ Scopo: garantire che ogni conversione futura da Markdown a JSON produca sempre l
 - Le liste strutturate usano sempre `- chiave: valore`.
 - Le sezioni ammesse sono solo quelle elencate in questo schema.
 - Campi mancanti ma previsti dallo schema devono essere emessi nel JSON come `null` o array vuoto.
+- I campi `tiri` e `ricarica` sono opzionali e devono essere emessi solo quando il dato è ad alta confidenza.
+- Se `tiri` o `ricarica` sono assenti o incompleti, le applicazioni devono poter tornare al parsing della descrizione testuale.
 
 ---
 
@@ -67,6 +69,39 @@ Descrizione.
 ### Azioni
 **Nome azione**
 Descrizione.
+
+**tiri:**                       # opzionale, solo per azioni/tratti/reazioni con dato certo
+- tipo: attacco
+  modalita: mischia|distanza|incantesimo|null
+  bonus: number
+  portata: string|null
+  gittata: string|null
+  danni:
+    - formula: string
+      media: number|null
+      tipo: string|null
+      contesto: string|null
+  confidenza: alta|media|bassa
+- tipo: salvezza
+  caratteristica: string
+  cd: number
+  bersaglio: string|null
+  fallimento:
+    danni:
+      - formula: string
+        media: number|null
+        tipo: string|null
+        contesto: string|null
+    effetti: []
+  successo:
+    danni: meta|null
+    effetti: []
+  confidenza: alta|media|bassa
+
+**ricarica:**                   # opzionale
+- formula: 1d6
+- successo: [5, 6]
+- testo: Ricarica 5-6
 
 ### Azioni bonus
 **Nome azione bonus**
@@ -130,22 +165,89 @@ Descrizione.
   "bonus_competenza": "string",
   "grado_sfida_raw": "string",
   "tratti": [
-    { "nome": "string", "descrizione": "string" }
+    {
+      "nome": "string",
+      "descrizione": "string",
+      "tiri": [],
+      "ricarica": null
+    }
   ],
   "azioni": [
-    { "nome": "string", "descrizione": "string" }
+    {
+      "nome": "string",
+      "descrizione": "string",
+      "tiri": [
+        {
+          "tipo": "attacco",
+          "modalita": "mischia|distanza|incantesimo|null",
+          "bonus": 0,
+          "portata": "string|null",
+          "gittata": "string|null",
+          "danni": [
+            {
+              "formula": "string",
+              "media": 0,
+              "tipo": "string|null",
+              "contesto": "string|null"
+            }
+          ],
+          "confidenza": "alta"
+        },
+        {
+          "tipo": "salvezza",
+          "caratteristica": "string",
+          "cd": 0,
+          "bersaglio": "string|null",
+          "fallimento": {
+            "danni": [
+              {
+                "formula": "string",
+                "media": 0,
+                "tipo": "string|null",
+                "contesto": "string|null"
+              }
+            ],
+            "effetti": []
+          },
+          "successo": {
+            "danni": "meta|null",
+            "effetti": []
+          },
+          "confidenza": "alta"
+        }
+      ],
+      "ricarica": {
+        "formula": "1d6",
+        "successo": [5, 6],
+        "testo": "Ricarica 5-6"
+      }
+    }
   ],
   "azioni_bonus": [
-    { "nome": "string", "descrizione": "string" }
+    { "nome": "string", "descrizione": "string", "tiri": [], "ricarica": null }
   ],
   "reazioni": [
-    { "nome": "string", "descrizione": "string" }
+    { "nome": "string", "descrizione": "string", "tiri": [], "ricarica": null }
   ],
   "azioni_leggendarie": {
     "utilizzi": "string|null",
     "azioni": [
-      { "nome": "string", "descrizione": "string" }
+      { "nome": "string", "descrizione": "string", "tiri": [], "ricarica": null }
     ]
   }
 }
 ```
+
+---
+
+## Regole per tiri strutturati
+
+- `tiri` può comparire su tratti, azioni, azioni bonus, reazioni e azioni leggendarie.
+- Negli elementi non arricchiti, `tiri` e `ricarica` possono essere omessi.
+- Ogni elemento di `tiri` deve avere `tipo: attacco` oppure `tipo: salvezza`.
+- Per gli attacchi, `bonus` è numerico e `danni[].formula` contiene solo formule di dado tirabili, per esempio `2d6 + 5`.
+- Per i tiri salvezza, `cd` è numerico, `caratteristica` è il nome della caratteristica e i danni del fallimento stanno in `fallimento.danni`.
+- `successo.danni` può essere `meta` quando il testo dice che il bersaglio subisce danni dimezzati.
+- `ricarica` descrive solo meccaniche esplicite di ricarica su `1d6`; `successo` contiene i risultati validi del dado.
+- `confidenza: alta` va usata quando bonus, CD, formula e contesto sono estratti senza ambiguità dal testo SRD.
+- In caso di ambiguità, non generare `tiri`: la descrizione testuale resta la fonte primaria.
