@@ -8,6 +8,8 @@ Aggiornamento: aggiunto anche il capitolo "Incantesimi", pagine 118-121.
 
 Aggiornamento: aggiunto anche il capitolo "Oggetti magici", pagine 232-237.
 
+Aggiornamento: aggiunto anche il capitolo "Mostri", pagine 289-293.
+
 ## Ritmo di gioco
 
 **id:** ritmo_di_gioco
@@ -952,3 +954,158 @@ Alcuni oggetti magici possiedono coscienza e personalita. Il GM controlla questi
 | Richieste | L'oggetto puo chiedere di perseguire il suo scopo, eliminare cio che disprezza, essere ceduto o restare sempre vicino. |
 | Ritorsioni | Se rifiutato, puo impedire la sintonia, sopprimere proprieta attivate o tentare di controllare il portatore. |
 | Controllo | Il controllo impone affascinato per 1d12 ore su TS fallito; il portatore ripete il TS se subisce danni. |
+
+---
+
+## Scheda delle statistiche del mostro
+
+**id:** scheda_statistiche_mostro
+**capitolo:** Mostri
+**categoria:** Mostri
+**pagine_sorgente:** 289
+
+Ogni mostro possiede una scheda delle statistiche che raccoglie le regole necessarie per usarlo nel gioco, dai dati generali alle azioni disponibili.
+
+### Sezioni della scheda
+
+| Sezione | Riepilogo |
+| --- | --- |
+| Nome e dati generali | Nome, taglia, tipo di creatura con eventuali descrittori e allineamento. |
+| Statistiche di combattimento | Classe Armatura, punti ferita, velocita e iniziativa. |
+| Punteggi di caratteristica | Caratteristiche, modificatori e tiri salvezza del mostro. |
+| Altri dettagli | Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunita e attrezzatura. |
+| Tratti | Caratteristiche sempre attive o attive in determinate situazioni. |
+| Azioni | Azioni specifiche del mostro, oltre alle azioni generali del capitolo Come si gioca. |
+| Azioni bonus | Azioni bonus del mostro, se presenti. |
+| Reazioni e leggendarie | Reazioni e azioni leggendarie, se presenti. |
+
+### Tipo, descrittori e allineamento
+
+| Voce | Riepilogo |
+| --- | --- |
+| Tipo di creatura | Aberrazioni, Bestie, Celestiali, Costrutti, Draghi, Elementali, Folletti, Giganti, Immondi, Melme, Mostruosita, Non morti, Umanoidi e Vegetali. |
+| Descrittori | Categorie aggiuntive tra parentesi dopo il tipo; non hanno regole proprie ma possono essere richiamate da effetti di gioco. |
+| Allineamento | Suggerimento predefinito per interpretare la creatura; il GM puo modificarlo per esigenze narrative. |
+
+---
+
+## Componenti statistiche dei mostri
+
+**id:** componenti_statistiche_mostri
+**capitolo:** Mostri
+**categoria:** Mostri
+**pagine_sorgente:** 290-292
+
+Le componenti numeriche della scheda spiegano CA, iniziativa, punti ferita, velocita, abilita, difese, attrezzatura, sensi, lingue, GS, PE e bonus di competenza.
+
+### Combattimento e caratteristiche
+
+| Voce | Riepilogo |
+| --- | --- |
+| Classe Armatura | Include armatura naturale, Destrezza, attrezzatura e altre difese. |
+| Iniziativa | Indica modificatore e punteggio fisso tra parentesi; il punteggio puo essere usato al posto del tiro. |
+| Punti ferita | Presentati come numero e formula con Dadi Vita; si usa il numero o si tira la formula, non entrambi. |
+| Velocita | Indica la velocita base e possibili velocita speciali come nuoto, scalata, scavo o volo. |
+| Abilita | I bonus derivano da modificatore di caratteristica, bonus di competenza e possibili altri modificatori. |
+
+### Dadi Vita per taglia
+
+| Taglia | Dado Vita |
+| --- | --- |
+| Minuscola | d4, media 2,5 PF per dado. |
+| Piccola | d6, media 3,5 PF per dado. |
+| Media | d8, media 4,5 PF per dado. |
+| Grande | d10, media 5,5 PF per dado. |
+| Enorme | d12, media 6,5 PF per dado. |
+| Mastodontica | d20, media 10,5 PF per dado. |
+
+### GS, PE e competenza
+
+| Voce | Riepilogo |
+| --- | --- |
+| PE per GS | Un mostro assegna PE in base al grado di sfida se sconfitto o neutralizzato in altro modo. |
+| BC 0-4 | +2. |
+| BC 5-8 | +3. |
+| BC 9-12 | +4. |
+| BC 13-16 | +5. |
+| BC 17-20 | +6. |
+| BC 21-24 | +7. |
+| BC 25-28 | +8. |
+| BC 29-30 | +9. |
+
+**Attrezzatura**
+I mostri hanno competenza nel loro equipaggiamento. Gli oggetti recuperabili usano le regole di Equipaggiamento quando vengono usati da altri.
+
+**Sensi e lingue**
+Sensi include Percezione passiva e sensi speciali; Lingue indica cio che il mostro puo usare per comunicare o comprendere.
+
+**Equipaggiare mostri**
+Il GM puo aggiungere equipaggiamento, ma oggetti magici orientati al combattimento possono alterare il grado di sfida.
+
+---
+
+## Gestire azioni e attacchi dei mostri
+
+**id:** gestire_azioni_mostri
+**capitolo:** Mostri
+**categoria:** Mostri
+**pagine_sorgente:** 290, 292
+
+Per far agire un mostro in linea con il suo grado di sfida, il GM dovrebbe usare spesso capacita speciali, Multiattacco, azioni bonus, reazioni e azioni leggendarie quando disponibili.
+
+### Gestione in combattimento
+
+| Voce | Riepilogo |
+| --- | --- |
+| Capacita speciali | Se infliggono molti danni e hanno usi limitati, usale rapidamente e spesso. |
+| Multiattacco | Usalo ogni turno in cui il mostro non impiega una delle sue abilita piu potenti. |
+| Azioni bonus, reazioni, leggendarie | Se presenti nella scheda, usale il piu spesso possibile. |
+
+### Informazioni sugli attacchi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Attacco | Indica tipo, bonus al tiro per colpire, portata o gittata e conseguenze se colpisce. |
+| Colpito | Danni o effetti che si verificano quando l'attacco colpisce. |
+| Mancato | Effetti che si verificano quando l'attacco manca. |
+| Colpito o mancato | Effetti che avvengono indipendentemente dall'esito del tiro. |
+| Danni | La scheda fornisce numero e formula; si usa il numero o si tira la formula, non entrambi. |
+| Tiro salvezza | L'effetto indica caratteristica, CD, bersagli e conseguenze di successo o fallimento; danni dimezzati significa arrotondati per difetto. |
+
+### Incantesimi dei mostri
+
+| Voce | Riepilogo |
+| --- | --- |
+| Dati | La scheda indica caratteristica da incantatore, CD e bonus di attacco se necessari. |
+| Livello | Salvo diversa indicazione, un incantesimo di 1º livello o superiore e lanciato al livello piu basso possibile. |
+| Restrizioni | La scheda puo imporre restrizioni speciali, come un incantesimo che funziona solo sul mostro stesso. |
+| Componenti | Il tratto Incantesimo indica se il mostro ignora componenti; se servono, il mostro possiede quelle materiali richieste. |
+| Tempi lunghi | Per tempi di lancio di 1 minuto o piu, il mostro deve usare l'azione di Magia ogni turno e mantenere concentrazione, salvo diversa indicazione. |
+
+---
+
+## Azioni leggendarie e uso limitato
+
+**id:** azioni_leggendarie_uso_limitato
+**capitolo:** Mostri
+**categoria:** Mostri
+**pagine_sorgente:** 292-293
+
+Alcune sezioni della scheda di un mostro hanno regole specifiche per azioni bonus, reazioni, azioni leggendarie e recupero degli utilizzi.
+
+### Azioni speciali
+
+| Voce | Riepilogo |
+| --- | --- |
+| Azione bonus | Se il mostro ha azioni bonus, sono indicate nella relativa sezione. |
+| Reazioni | Sono elencate con i rispettivi fattori scatenanti. |
+| Azioni leggendarie | Si compiono immediatamente dopo il turno di un'altra creatura; una sola alla volta e solo se il mostro puo agire. |
+| Utilizzi leggendari | La scheda indica quanti utilizzi possiede il mostro; recupera tutti gli utilizzi all'inizio di ogni suo turno. |
+
+### Uso limitato
+
+| Formula | Regola |
+| --- | --- |
+| X/giorno | La voce puo essere usata X volte e recupera gli usi consumati al termine di un riposo lungo. |
+| Ricarica X-Y | Dopo l'uso, all'inizio di ogni turno del mostro tira 1d6; se il risultato rientra nell'intervallo, l'uso torna disponibile. |
+| Ricarica dopo riposo | La voce puo essere usata una volta e torna disponibile dopo un riposo breve o lungo. |

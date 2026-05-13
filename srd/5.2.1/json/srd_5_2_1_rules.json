@@ -927,5 +927,161 @@
         "blocchi": []
       }
     ]
+  },
+  {
+    "id": "scheda_statistiche_mostro",
+    "nome": "Scheda delle statistiche del mostro",
+    "capitolo": "Mostri",
+    "categoria": "Mostri",
+    "pagine_sorgente": "289",
+    "descrizione": "Ogni mostro possiede una scheda delle statistiche che raccoglie le regole necessarie per usarlo nel gioco, dai dati generali alle azioni disponibili.",
+    "sezioni": [
+      {
+        "titolo": "Sezioni della scheda",
+        "righe": [
+          { "chiave": "Nome e dati generali", "valore": "Nome, taglia, tipo di creatura con eventuali descrittori e allineamento." },
+          { "chiave": "Statistiche di combattimento", "valore": "Classe Armatura, punti ferita, velocita e iniziativa." },
+          { "chiave": "Punteggi di caratteristica", "valore": "Caratteristiche, modificatori e tiri salvezza del mostro." },
+          { "chiave": "Altri dettagli", "valore": "Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunita e attrezzatura." },
+          { "chiave": "Tratti", "valore": "Caratteristiche sempre attive o attive in determinate situazioni." },
+          { "chiave": "Azioni", "valore": "Azioni specifiche del mostro, oltre alle azioni generali del capitolo Come si gioca." },
+          { "chiave": "Azioni bonus", "valore": "Azioni bonus del mostro, se presenti." },
+          { "chiave": "Reazioni e leggendarie", "valore": "Reazioni e azioni leggendarie, se presenti." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Tipo, descrittori e allineamento",
+        "righe": [
+          { "chiave": "Tipo di creatura", "valore": "Aberrazioni, Bestie, Celestiali, Costrutti, Draghi, Elementali, Folletti, Giganti, Immondi, Melme, Mostruosita, Non morti, Umanoidi e Vegetali." },
+          { "chiave": "Descrittori", "valore": "Categorie aggiuntive tra parentesi dopo il tipo; non hanno regole proprie ma possono essere richiamate da effetti di gioco." },
+          { "chiave": "Allineamento", "valore": "Suggerimento predefinito per interpretare la creatura; il GM puo modificarlo per esigenze narrative." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "componenti_statistiche_mostri",
+    "nome": "Componenti statistiche dei mostri",
+    "capitolo": "Mostri",
+    "categoria": "Mostri",
+    "pagine_sorgente": "290-292",
+    "descrizione": "Le componenti numeriche della scheda spiegano CA, iniziativa, punti ferita, velocita, abilita, difese, attrezzatura, sensi, lingue, GS, PE e bonus di competenza.",
+    "sezioni": [
+      {
+        "titolo": "Combattimento e caratteristiche",
+        "righe": [
+          { "chiave": "Classe Armatura", "valore": "Include armatura naturale, Destrezza, attrezzatura e altre difese." },
+          { "chiave": "Iniziativa", "valore": "Indica modificatore e punteggio fisso tra parentesi; il punteggio puo essere usato al posto del tiro." },
+          { "chiave": "Punti ferita", "valore": "Presentati come numero e formula con Dadi Vita; si usa il numero o si tira la formula, non entrambi." },
+          { "chiave": "Velocita", "valore": "Indica la velocita base e possibili velocita speciali come nuoto, scalata, scavo o volo." },
+          { "chiave": "Abilita", "valore": "I bonus derivano da modificatore di caratteristica, bonus di competenza e possibili altri modificatori." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Dadi Vita per taglia",
+        "righe": [
+          { "chiave": "Minuscola", "valore": "d4, media 2,5 PF per dado." },
+          { "chiave": "Piccola", "valore": "d6, media 3,5 PF per dado." },
+          { "chiave": "Media", "valore": "d8, media 4,5 PF per dado." },
+          { "chiave": "Grande", "valore": "d10, media 5,5 PF per dado." },
+          { "chiave": "Enorme", "valore": "d12, media 6,5 PF per dado." },
+          { "chiave": "Mastodontica", "valore": "d20, media 10,5 PF per dado." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "GS, PE e competenza",
+        "righe": [
+          { "chiave": "PE per GS", "valore": "Un mostro assegna PE in base al grado di sfida se sconfitto o neutralizzato in altro modo." },
+          { "chiave": "BC 0-4", "valore": "+2." },
+          { "chiave": "BC 5-8", "valore": "+3." },
+          { "chiave": "BC 9-12", "valore": "+4." },
+          { "chiave": "BC 13-16", "valore": "+5." },
+          { "chiave": "BC 17-20", "valore": "+6." },
+          { "chiave": "BC 21-24", "valore": "+7." },
+          { "chiave": "BC 25-28", "valore": "+8." },
+          { "chiave": "BC 29-30", "valore": "+9." }
+        ],
+        "blocchi": [
+          { "nome": "Attrezzatura", "descrizione": "I mostri hanno competenza nel loro equipaggiamento. Gli oggetti recuperabili usano le regole di Equipaggiamento quando vengono usati da altri." },
+          { "nome": "Sensi e lingue", "descrizione": "Sensi include Percezione passiva e sensi speciali; Lingue indica cio che il mostro puo usare per comunicare o comprendere." },
+          { "nome": "Equipaggiare mostri", "descrizione": "Il GM puo aggiungere equipaggiamento, ma oggetti magici orientati al combattimento possono alterare il grado di sfida." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gestire_azioni_mostri",
+    "nome": "Gestire azioni e attacchi dei mostri",
+    "capitolo": "Mostri",
+    "categoria": "Mostri",
+    "pagine_sorgente": "290, 292",
+    "descrizione": "Per far agire un mostro in linea con il suo grado di sfida, il GM dovrebbe usare spesso capacita speciali, Multiattacco, azioni bonus, reazioni e azioni leggendarie quando disponibili.",
+    "sezioni": [
+      {
+        "titolo": "Gestione in combattimento",
+        "righe": [
+          { "chiave": "Capacita speciali", "valore": "Se infliggono molti danni e hanno usi limitati, usale rapidamente e spesso." },
+          { "chiave": "Multiattacco", "valore": "Usalo ogni turno in cui il mostro non impiega una delle sue abilita piu potenti." },
+          { "chiave": "Azioni bonus, reazioni, leggendarie", "valore": "Se presenti nella scheda, usale il piu spesso possibile." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Informazioni sugli attacchi",
+        "righe": [
+          { "chiave": "Attacco", "valore": "Indica tipo, bonus al tiro per colpire, portata o gittata e conseguenze se colpisce." },
+          { "chiave": "Colpito", "valore": "Danni o effetti che si verificano quando l'attacco colpisce." },
+          { "chiave": "Mancato", "valore": "Effetti che si verificano quando l'attacco manca." },
+          { "chiave": "Colpito o mancato", "valore": "Effetti che avvengono indipendentemente dall'esito del tiro." },
+          { "chiave": "Danni", "valore": "La scheda fornisce numero e formula; si usa il numero o si tira la formula, non entrambi." },
+          { "chiave": "Tiro salvezza", "valore": "L'effetto indica caratteristica, CD, bersagli e conseguenze di successo o fallimento; danni dimezzati significa arrotondati per difetto." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Incantesimi dei mostri",
+        "righe": [
+          { "chiave": "Dati", "valore": "La scheda indica caratteristica da incantatore, CD e bonus di attacco se necessari." },
+          { "chiave": "Livello", "valore": "Salvo diversa indicazione, un incantesimo di 1º livello o superiore e lanciato al livello piu basso possibile." },
+          { "chiave": "Restrizioni", "valore": "La scheda puo imporre restrizioni speciali, come un incantesimo che funziona solo sul mostro stesso." },
+          { "chiave": "Componenti", "valore": "Il tratto Incantesimo indica se il mostro ignora componenti; se servono, il mostro possiede quelle materiali richieste." },
+          { "chiave": "Tempi lunghi", "valore": "Per tempi di lancio di 1 minuto o piu, il mostro deve usare l'azione di Magia ogni turno e mantenere concentrazione, salvo diversa indicazione." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "azioni_leggendarie_uso_limitato",
+    "nome": "Azioni leggendarie e uso limitato",
+    "capitolo": "Mostri",
+    "categoria": "Mostri",
+    "pagine_sorgente": "292-293",
+    "descrizione": "Alcune sezioni della scheda di un mostro hanno regole specifiche per azioni bonus, reazioni, azioni leggendarie e recupero degli utilizzi.",
+    "sezioni": [
+      {
+        "titolo": "Azioni speciali",
+        "righe": [
+          { "chiave": "Azione bonus", "valore": "Se il mostro ha azioni bonus, sono indicate nella relativa sezione." },
+          { "chiave": "Reazioni", "valore": "Sono elencate con i rispettivi fattori scatenanti." },
+          { "chiave": "Azioni leggendarie", "valore": "Si compiono immediatamente dopo il turno di un'altra creatura; una sola alla volta e solo se il mostro puo agire." },
+          { "chiave": "Utilizzi leggendari", "valore": "La scheda indica quanti utilizzi possiede il mostro; recupera tutti gli utilizzi all'inizio di ogni suo turno." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Uso limitato",
+        "righe": [
+          { "chiave": "X/giorno", "valore": "La voce puo essere usata X volte e recupera gli usi consumati al termine di un riposo lungo." },
+          { "chiave": "Ricarica X-Y", "valore": "Dopo l'uso, all'inizio di ogni turno del mostro tira 1d6; se il risultato rientra nell'intervallo, l'uso torna disponibile." },
+          { "chiave": "Ricarica dopo riposo", "valore": "La voce puo essere usata una volta e torna disponibile dopo un riposo breve o lungo." }
+        ],
+        "blocchi": []
+      }
+    ]
   }
 ]
