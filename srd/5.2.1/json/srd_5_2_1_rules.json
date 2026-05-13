@@ -1290,5 +1290,227 @@
         "blocchi": []
       }
     ]
+  },
+  {
+    "id": "creare_personaggio",
+    "nome": "Creare il personaggio",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "21",
+    "descrizione": "La creazione del personaggio parte dalla scelta di una scheda e procede attraverso classe, origini, punteggi di caratteristica, allineamento e dettagli finali.",
+    "sezioni": [
+      {
+        "titolo": "Fasi principali",
+        "righe": [
+          { "chiave": "1. Classe", "valore": "Descrive vocazione, talenti speciali e tattiche preferite del personaggio." },
+          { "chiave": "2. Origini", "valore": "Comprendono background, specie e lingue." },
+          { "chiave": "3. Caratteristiche", "valore": "Determinano gran parte delle azioni del personaggio." },
+          { "chiave": "4. Allineamento", "valore": "Rappresenta la bussola morale del personaggio." },
+          { "chiave": "5. Dettagli", "valore": "Completa la scheda usando le scelte precedenti." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Panoramica classi",
+        "righe": [
+          { "chiave": "Barbaro", "valore": "Battaglia; caratteristica primaria Forza; complessita media." },
+          { "chiave": "Bardo", "valore": "Esibizione; Carisma; complessita alta." },
+          { "chiave": "Chierico", "valore": "Dei; Saggezza; complessita media." },
+          { "chiave": "Druido", "valore": "Natura; Saggezza; complessita alta." },
+          { "chiave": "Guerriero", "valore": "Armi; Forza o Destrezza; complessita bassa." },
+          { "chiave": "Ladro", "valore": "Furtivita; Destrezza; complessita bassa." },
+          { "chiave": "Mago", "valore": "Libri di incantesimi; Intelligenza; complessita media." },
+          { "chiave": "Monaco", "valore": "Combattimento senz'armi; Destrezza e Saggezza; complessita alta." },
+          { "chiave": "Paladino", "valore": "Difesa; Forza e Carisma; complessita media." },
+          { "chiave": "Ranger", "valore": "Sopravvivenza; Destrezza e Saggezza; complessita media." },
+          { "chiave": "Stregone", "valore": "Potere; Carisma; complessita alta." },
+          { "chiave": "Warlock", "valore": "Scienze occulte; Carisma; complessita alta." }
+        ],
+        "blocchi": [
+          { "nome": "Livello e PE", "descrizione": "In genere un personaggio inizia al 1º livello con 0 PE. Se parte dal 3º livello o oltre, annota anche la sottoclasse." },
+          { "nome": "Armature", "descrizione": "La classe puo fornire competenze nelle armature; annotale sulla scheda del personaggio." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "origini_lingue_personaggio",
+    "nome": "Origini e lingue del personaggio",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "21-23",
+    "descrizione": "Le origini del personaggio derivano da background, specie e lingue. Background e classe forniscono anche competenze ed equipaggiamento iniziale.",
+    "sezioni": [
+      {
+        "titolo": "Origini",
+        "righe": [
+          { "chiave": "Background", "valore": "Rappresenta luogo e occupazione che hanno formato maggiormente il personaggio; fornisce talento, due abilita e uno strumento." },
+          { "chiave": "Equipaggiamento", "valore": "Background e classe forniscono equipaggiamento iniziale; le monete possono essere spese subito." },
+          { "chiave": "Specie", "valore": "Opzioni SRD: Dragonide, elfo, gnomo, goliath, halfling, nano, orco, tiefling e umano." },
+          { "chiave": "Taglia e velocita", "valore": "Sono determinate dalla specie e vanno annotate sulla scheda." },
+          { "chiave": "Passato", "valore": "Background e specie aiutano a definire famiglia, amicizie, legami, organizzazioni e motivazione all'avventura." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Lingue",
+        "righe": [
+          { "chiave": "Base", "valore": "Il personaggio conosce il Comune e altre due lingue scelte o determinate casualmente." },
+          { "chiave": "Standard", "valore": "Lingua dei segni comune, Draconico, Nanico, Elfico, Gigante, Gnomesco, Goblin, Halfling, Orchesco." },
+          { "chiave": "Rare", "valore": "Abissale, Celestiale, Druidico, Gergo delle profondita, Infernale, Primordiale, Silvano, Sottocomune, Gergo ladresco." },
+          { "chiave": "Primordiale", "valore": "Include i dialetti Aquan, Auran, Ignan e Terran; parlanti di dialetti diversi comunicano tra loro." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "caratteristiche_allineamento_personaggio",
+    "nome": "Caratteristiche e allineamento",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "23-24",
+    "descrizione": "I punteggi di caratteristica possono essere generati con serie standard, generazione casuale o costo in punti. L'allineamento descrive ideali e atteggiamenti etici.",
+    "sezioni": [
+      {
+        "titolo": "Generare e modificare punteggi",
+        "righe": [
+          { "chiave": "Serie standard", "valore": "15, 14, 13, 12, 10, 8." },
+          { "chiave": "Generazione casuale", "valore": "Tira 4d6, somma i tre piu alti; ripeti fino a ottenere sei numeri." },
+          { "chiave": "Costo in punti", "valore": "27 punti; punteggi disponibili da 8 a 15 con costi da 0 a 9." },
+          { "chiave": "Background", "valore": "Aumenta un punteggio di 2 e un altro di 1, oppure tre punteggi di 1; nessun incremento oltre 20." },
+          { "chiave": "Modificatori", "valore": "Usa la tabella dei modificatori: 10-11 vale +0, 12-13 +1, 14-15 +2, 16-17 +3, 18-19 +4, 20 +5." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Allineamenti",
+        "righe": [
+          { "chiave": "LB", "valore": "Agisce nel modo considerato giusto dalla societa." },
+          { "chiave": "NB", "valore": "Fa del suo meglio senza sentirsi rigidamente vincolato dalle regole." },
+          { "chiave": "CB", "valore": "Segue la coscienza senza curarsi troppo delle aspettative." },
+          { "chiave": "LN", "valore": "Segue legge, tradizione o codici personali." },
+          { "chiave": "N", "valore": "Evita questioni morali e fa cio che sembra migliore volta per volta." },
+          { "chiave": "CN", "valore": "Segue i propri capricci e mette la liberta personale al primo posto." },
+          { "chiave": "LM/NM/CM", "valore": "Allineamenti malvagi da concordare con il GM prima di creare il personaggio." }
+        ],
+        "blocchi": [
+          { "nome": "Senza allineamento", "descrizione": "Molte creature prive di mente razionale sono senza allineamento." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "compilare_scheda_personaggio",
+    "nome": "Compilare la scheda del personaggio",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "24-25",
+    "descrizione": "Dopo le scelte iniziali si registrano privilegi di classe, tiri salvezza, abilita, percezione passiva, punti ferita, Dadi Vita, iniziativa, Classe Armatura, attacchi e incantesimi.",
+    "sezioni": [
+      {
+        "titolo": "Numeri principali",
+        "righe": [
+          { "chiave": "Tiri salvezza", "valore": "Se competente, aggiungi bonus di competenza al modificatore di caratteristica appropriato." },
+          { "chiave": "Abilita", "valore": "Se competente, aggiungi bonus di competenza al modificatore associato all'abilita." },
+          { "chiave": "Percezione passiva", "valore": "10 + modificatore di Saggezza (Percezione), inclusi modificatori applicabili." },
+          { "chiave": "Iniziativa", "valore": "Usa il modificatore di Destrezza." },
+          { "chiave": "CA base", "valore": "Senza armatura o scudo, 10 + modificatore di Destrezza." },
+          { "chiave": "Attacco in mischia", "valore": "Modificatore di Forza + bonus di competenza, se competente e salvo proprieta diverse." },
+          { "chiave": "Attacco a distanza", "valore": "Modificatore di Destrezza + bonus di competenza, se competente e salvo proprieta diverse." },
+          { "chiave": "CD incantesimo", "valore": "8 + modificatore da incantatore + bonus di competenza." },
+          { "chiave": "Attacco incantesimo", "valore": "Modificatore da incantatore + bonus di competenza." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Punti ferita al 1º livello",
+        "righe": [
+          { "chiave": "Barbaro", "valore": "12 + modificatore di Costituzione." },
+          { "chiave": "Guerriero, paladino, ranger", "valore": "10 + modificatore di Costituzione." },
+          { "chiave": "Bardo, chierico, druido, monaco, ladro, warlock", "valore": "8 + modificatore di Costituzione." },
+          { "chiave": "Stregone, mago", "valore": "6 + modificatore di Costituzione." }
+        ],
+        "blocchi": [
+          { "nome": "Dadi Vita", "descrizione": "La classe indica il tipo di Dado Vita; al 1º livello il personaggio ha 1 Dado Vita." },
+          { "nome": "Incantesimi preparati", "descrizione": "Se la classe fornisce Incantesimi o Magia del patto, annota slot, trucchetti e incantesimi preparati dalla tabella della classe." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "avanzamento_livelli_superiori",
+    "nome": "Avanzamento e livelli superiori",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "25-27",
+    "descrizione": "L'avanzamento di livello aumenta capacita, punti ferita e talvolta bonus di competenza o modificatori. Il GM puo far partire il gruppo da un livello superiore al 1º.",
+    "sezioni": [
+      {
+        "titolo": "Avanzamento",
+        "righe": [
+          { "chiave": "Privilegi", "valore": "A ogni nuovo livello annota i privilegi indicati dalla classe." },
+          { "chiave": "Punti ferita", "valore": "Aggiungi il valore previsto dalla classe per i livelli successivi al 1º." },
+          { "chiave": "Bonus di competenza", "valore": "Quando aumenta, aggiorna tutti i numeri della scheda che lo includono." },
+          { "chiave": "Modificatori", "valore": "Se un punteggio diventa pari e cambia modificatore, aggiorna tutti i valori collegati." },
+          { "chiave": "Costituzione", "valore": "Se il modificatore aumenta di 1, i PF massimi aumentano di 1 per ogni livello del personaggio." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Fasce di gioco",
+        "righe": [
+          { "chiave": "1-4", "valore": "Apprendisti avventurieri; minacce locali." },
+          { "chiave": "5-10", "valore": "Avventurieri affermati; minacce per citta e regni." },
+          { "chiave": "11-16", "valore": "Potere raro tra gli avventurieri; minacce continentali." },
+          { "chiave": "17-20", "valore": "Archetipi eroici; destino del mondo o multiverso." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Equipaggiamento a livelli superiori",
+        "righe": [
+          { "chiave": "2-4", "valore": "Equipaggiamento ordinario, 1 oggetto comune." },
+          { "chiave": "5-10", "valore": "500 mo + 1d10 x 25 mo + equipaggiamento ordinario; 1 comune, 1 non comune." },
+          { "chiave": "11-16", "valore": "5.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 3 non comuni, 1 raro." },
+          { "chiave": "17-20", "valore": "20.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 4 non comuni, 3 rari, 1 molto raro." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "multiclasse_e_monili",
+    "nome": "Multiclasse e monili",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "27-31",
+    "descrizione": "Il multiclasse consente di acquisire livelli in piu classi. I monili sono piccoli oggetti misteriosi opzionali che possono arricchire personaggi, dungeon o creature.",
+    "sezioni": [
+      {
+        "titolo": "Regole multiclasse",
+        "righe": [
+          { "chiave": "Prerequisiti", "valore": "Serve 13 o piu nella caratteristica primaria della nuova classe e delle classi attuali." },
+          { "chiave": "PE", "valore": "Il costo di livello si basa sul livello totale del personaggio." },
+          { "chiave": "PF e Dadi Vita", "valore": "La nuova classe fornisce PF da livello successivo al 1º; i Dadi Vita delle classi si sommano." },
+          { "chiave": "Bonus competenza", "valore": "Basato sul livello totale, non sui livelli di una singola classe." },
+          { "chiave": "Competenze", "valore": "Il primo livello in una nuova classe fornisce solo alcune competenze di partenza." },
+          { "chiave": "Classe Armatura", "valore": "Se esistono piu modi di calcolarla, se ne usa uno solo alla volta." },
+          { "chiave": "Attacco extra", "valore": "Privilegi Attacco extra da piu classi non sono cumulativi, salvo eccezioni specifiche." },
+          { "chiave": "Incantesimi", "valore": "Gli incantesimi preparati si determinano per classe; gli slot combinano livelli da incantatore secondo le regole multiclasse." },
+          { "chiave": "Magia del patto", "valore": "Slot da Magia del patto e Incantesimi possono essere usati reciprocamente per lanciare incantesimi preparati appropriati." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Monili",
+        "righe": [
+          { "chiave": "Uso", "valore": "Quando crei il personaggio puoi tirare una volta sulla tabella Monili." },
+          { "chiave": "Funzione", "valore": "Un monile e un oggetto semplice e minuscolo con un sottile velo di mistero." },
+          { "chiave": "GM", "valore": "Il GM puo usare la tabella per arredare dungeon o riempire le tasche di una creatura." }
+        ],
+        "blocchi": []
+      }
+    ]
   }
 ]

@@ -2,6 +2,8 @@
 
 Fonte: `srd/5.2.1/pdf/IT_SRD_CC_v5.2.1.pdf`, capitolo "Come si gioca", pagine 5-20.
 
+Aggiornamento: aggiunto anche il capitolo "Creazione del personaggio", pagine 21-31.
+
 Aggiornamento: aggiunto anche il capitolo "Equipaggiamento", pagine 101-117.
 
 Aggiornamento: aggiunto anche il capitolo "Incantesimi", pagine 118-121.
@@ -1284,3 +1286,132 @@ La costruzione di combattimenti usa obiettivi di difficolta, budget di PE e scel
 | Budget PE | Moltiplica il valore per personaggio per il numero di personaggi e spendi senza sforare. |
 | Molte creature | Oltre due creature per personaggio aumenta il rischio di picchi di danno. |
 | Creature potenti | GS superiore al livello del gruppo puo eliminare personaggi con una sola azione. |
+
+---
+
+## Creare il personaggio
+
+**id:** creare_personaggio
+**capitolo:** Creazione del personaggio
+**categoria:** Creazione personaggio
+**pagine_sorgente:** 21
+
+La creazione del personaggio parte dalla scelta di una scheda e procede attraverso classe, origini, punteggi di caratteristica, allineamento e dettagli finali.
+
+### Fasi principali
+
+| Fase | Riepilogo |
+| --- | --- |
+| Classe | Vocazione, talenti speciali e tattiche preferite. |
+| Origini | Background, specie e lingue. |
+| Caratteristiche | Base numerica di gran parte delle azioni. |
+| Allineamento | Bussola morale del personaggio. |
+| Dettagli | Completamento della scheda. |
+
+---
+
+## Origini e lingue del personaggio
+
+**id:** origini_lingue_personaggio
+**capitolo:** Creazione del personaggio
+**categoria:** Creazione personaggio
+**pagine_sorgente:** 21-23
+
+Le origini del personaggio derivano da background, specie e lingue. Background e classe forniscono anche competenze ed equipaggiamento iniziale.
+
+### Origini e lingue
+
+| Voce | Riepilogo |
+| --- | --- |
+| Background | Fornisce talento, due abilita e uno strumento. |
+| Equipaggiamento | Background e classe forniscono equipaggiamento iniziale. |
+| Specie | Dragonide, elfo, gnomo, goliath, halfling, nano, orco, tiefling e umano. |
+| Lingue standard | Comune piu due lingue scelte o casuali tra le lingue standard. |
+| Lingue rare | Alcuni privilegi permettono di imparare lingue rare. |
+
+---
+
+## Caratteristiche e allineamento
+
+**id:** caratteristiche_allineamento_personaggio
+**capitolo:** Creazione del personaggio
+**categoria:** Creazione personaggio
+**pagine_sorgente:** 23-24
+
+I punteggi di caratteristica possono essere generati con serie standard, generazione casuale o costo in punti. L'allineamento descrive ideali e atteggiamenti etici.
+
+### Punteggi e allineamento
+
+| Voce | Riepilogo |
+| --- | --- |
+| Serie standard | 15, 14, 13, 12, 10, 8. |
+| Generazione casuale | 4d6, somma i tre piu alti, ripeti sei volte. |
+| Costo in punti | 27 punti, punteggi da 8 a 15. |
+| Background | +2/+1 oppure +1/+1/+1 alle caratteristiche indicate, massimo 20. |
+| Allineamento | Combinazione di moralita e rapporto con ordine o caos. |
+
+---
+
+## Compilare la scheda del personaggio
+
+**id:** compilare_scheda_personaggio
+**capitolo:** Creazione del personaggio
+**categoria:** Creazione personaggio
+**pagine_sorgente:** 24-25
+
+Dopo le scelte iniziali si registrano privilegi di classe, tiri salvezza, abilita, percezione passiva, punti ferita, Dadi Vita, iniziativa, Classe Armatura, attacchi e incantesimi.
+
+### Numeri principali
+
+| Voce | Formula o regola |
+| --- | --- |
+| Percezione passiva | 10 + modificatore di Saggezza (Percezione). |
+| CA base | 10 + modificatore di Destrezza. |
+| Attacco in mischia | Forza + bonus di competenza, se competente. |
+| Attacco a distanza | Destrezza + bonus di competenza, se competente. |
+| CD incantesimo | 8 + modificatore da incantatore + bonus di competenza. |
+| Attacco incantesimo | Modificatore da incantatore + bonus di competenza. |
+
+---
+
+## Avanzamento e livelli superiori
+
+**id:** avanzamento_livelli_superiori
+**capitolo:** Creazione del personaggio
+**categoria:** Creazione personaggio
+**pagine_sorgente:** 25-27
+
+L'avanzamento di livello aumenta capacita, punti ferita e talvolta bonus di competenza o modificatori. Il GM puo far partire il gruppo da un livello superiore al 1º.
+
+### Avanzamento
+
+| Voce | Riepilogo |
+| --- | --- |
+| Privilegi | A ogni livello annota i privilegi indicati dalla classe. |
+| Punti ferita | Aggiungi il valore previsto dalla classe per i livelli successivi al 1º. |
+| Bonus competenza | Quando aumenta, aggiorna tutti i valori che lo includono. |
+| Fasce 1-4 | Livelli 1-4, 5-10, 11-16, 17-20 descrivono scala e tono dell'avventura. |
+| Livelli superiori | Il GM puo far partire il gruppo oltre il 1º livello, spesso dal 3º per giocatori esperti. |
+
+---
+
+## Multiclasse e monili
+
+**id:** multiclasse_e_monili
+**capitolo:** Creazione del personaggio
+**categoria:** Creazione personaggio
+**pagine_sorgente:** 27-31
+
+Il multiclasse consente di acquisire livelli in piu classi. I monili sono piccoli oggetti misteriosi opzionali che possono arricchire personaggi, dungeon o creature.
+
+### Multiclasse e monili
+
+| Voce | Riepilogo |
+| --- | --- |
+| Prerequisiti | 13 o piu nella caratteristica primaria della nuova classe e delle classi attuali. |
+| PE | Il costo di livello si basa sul livello totale. |
+| Dadi Vita | I Dadi Vita delle classi si sommano, raggruppati per tipo. |
+| Bonus competenza | Basato sul livello totale. |
+| Attacco extra | Privilegi da piu classi non sono cumulativi salvo eccezioni. |
+| Incantesimi | Preparazione per classe, slot combinati secondo le regole multiclasse. |
+| Monili | Oggetti minuscoli e misteriosi ottenibili con tiro opzionale. |
