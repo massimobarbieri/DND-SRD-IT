@@ -4,6 +4,12 @@ Fonte: `srd/5.2.1/pdf/IT_SRD_CC_v5.2.1.pdf`, capitolo "Come si gioca", pagine 5-
 
 Aggiornamento: aggiunto anche il capitolo "Creazione del personaggio", pagine 21-31.
 
+Aggiornamento: aggiunto anche il capitolo "Classi", pagine 32-92.
+
+Aggiornamento: aggiunto anche il capitolo "Origini dei personaggi", pagine 93-97.
+
+Aggiornamento: aggiunto anche il capitolo "Talenti", pagine 98-100.
+
 Aggiornamento: aggiunto anche il capitolo "Equipaggiamento", pagine 101-117.
 
 Aggiornamento: aggiunto anche il capitolo "Incantesimi", pagine 118-121.
@@ -1415,3 +1421,360 @@ Il multiclasse consente di acquisire livelli in piu classi. I monili sono piccol
 | Attacco extra | Privilegi da piu classi non sono cumulativi salvo eccezioni. |
 | Incantesimi | Preparazione per classe, slot combinati secondo le regole multiclasse. |
 | Monili | Oggetti minuscoli e misteriosi ottenibili con tiro opzionale. |
+
+---
+
+## Background delle origini
+
+**id:** background_origini_personaggio
+**capitolo:** Origini dei personaggi
+**categoria:** Origini personaggio
+**pagine_sorgente:** 93
+
+Il background rappresenta luogo e occupazione che hanno formato il personaggio prima dell'avventura. Fornisce incrementi di caratteristica, un talento delle origini, competenze ed equipaggiamento iniziale.
+
+### Elementi e background SRD
+
+| Voce | Riepilogo |
+| --- | --- |
+| Punteggi | +2/+1 o +1/+1/+1 alle caratteristiche indicate, massimo 20. |
+| Talento | Ogni background fornisce un talento delle origini. |
+| Abilita | Competenza in due abilita specifiche. |
+| Strumenti | Uno strumento specifico o uno strumento da artigiano a scelta. |
+| Equipaggiamento | Dotazione indicata oppure 50 mo. |
+| Accolito | Intelligenza, Saggezza, Carisma; Iniziato alla magia (chierico); Intuizione e Religione. |
+| Criminale | Destrezza, Costituzione, Intelligenza; Allerta; Rapidita di mano e Furtivita. |
+| Sapiente | Costituzione, Intelligenza, Saggezza; Iniziato alla magia (mago); Arcano e Storia. |
+| Soldato | Forza, Destrezza, Costituzione; Aggressore selvaggio; Atletica e Intimidire. |
+
+---
+
+## Specie delle origini
+
+**id:** specie_origini_personaggio
+**capitolo:** Origini dei personaggi
+**categoria:** Origini personaggio
+**pagine_sorgente:** 93-97
+
+La specie del personaggio determina tipo di creatura, taglia, velocita e tratti speciali. Le specie SRD sono umanoidi e includono opzioni con retaggi, lignaggi o tratti fisici distintivi.
+
+### Elementi e specie SRD
+
+| Voce | Riepilogo |
+| --- | --- |
+| Tipo | Le specie di questo capitolo sono umanoidi. |
+| Taglia | Determinata dalla specie; alcune permettono di scegliere tra Piccola e Media. |
+| Velocita | Dipende dalla specie, da 9 m a 10,5 m nel blocco SRD. |
+| Dragonide | Soffio, resistenza al danno scelto, scurovisione e volo draconico dal 5º livello. |
+| Elfo | Scurovisione, lignaggio elfico, retaggio fatato, sensi acuti e trance. |
+| Gnomo | Astuzia gnomesca, lignaggio delle foreste o delle rocce e scurovisione. |
+| Goliath | Costituzione robusta, discendenza gigantica e forma Grande dal 5º livello. |
+| Halfling | Agilita, coraggio, fortuna e furtivita innata. |
+| Nano | Esperto minatore, resilienza nanica, robustezza nanica e scurovisione superiore. |
+| Orco | Resistenza implacabile, scarica di adrenalina e scurovisione superiore. |
+| Tiefling | Retaggio immondo, presenza ultraterrena e scurovisione. |
+| Umano | Ispirazione dopo riposo lungo, una competenza in abilita e un talento Origini a scelta. |
+
+---
+
+## Talenti Origini e Generali
+
+**id:** talenti_origini_generali
+**capitolo:** Talenti
+**categoria:** Talenti
+**pagine_sorgente:** 98-99
+
+I talenti sono organizzati per categoria e indicano prerequisiti, benefici ed eventuale ripetibilita. I talenti Origini sono disponibili tramite background o opzioni simili; quelli Generali richiedono di norma il 4º livello o superiore.
+
+### Talenti
+
+| Voce | Riepilogo |
+| --- | --- |
+| Categoria | Origini, Generale, Stile di combattimento o Dono epico. |
+| Prerequisito | Deve essere soddisfatto salvo privilegi che consentano di ignorarlo. |
+| Ripetibile | Un talento puo essere ottenuto una sola volta salvo indicazione diversa. |
+| Abile | Tre competenze tra abilita e strumenti a scelta; ripetibile. |
+| Aggressore selvaggio | Una volta per turno tiri due volte i danni dell'arma e scegli il risultato. |
+| Allerta | Bonus di competenza all'iniziativa e possibile scambio con un alleato. |
+| Iniziato alla magia | Due trucchetti, un incantesimo di 1º livello e cambio incantesimo dalla lista scelta. |
+| Aumento dei punteggi | Dal 4º livello, +2 a una caratteristica o +1 a due, massimo 20; ripetibile. |
+| Lottatore | Dal 4º livello con Forza o Destrezza 13; migliora colpi senz'armi e lotta. |
+
+---
+
+## Talenti Stile di combattimento e Doni epici
+
+**id:** talenti_stile_doni_epici
+**capitolo:** Talenti
+**categoria:** Talenti
+**pagine_sorgente:** 99-100
+
+I talenti Stile di combattimento richiedono il privilegio omonimo e migliorano un approccio marziale. I Doni epici richiedono il 19º livello o superiore e aumentano caratteristiche fino a 30 con benefici leggendari.
+
+### Stili e doni
+
+| Voce | Riepilogo |
+| --- | --- |
+| Armi possenti | Con armi a due mani o versatili impugnate a due mani, 1 o 2 ai danni valgono 3. |
+| Due armi | Aggiungi il modificatore di caratteristica al danno dell'attacco extra da arma leggera. |
+| Difesa | +1 CA con armatura leggera, media o pesante. |
+| Tiro | +2 ai tiri per colpire con armi a distanza. |
+| Dono del fato | +1 caratteristica, massimo 30; 2d4 come bonus o penalita a una prova con d20 entro 18 m. |
+| Dono della vista pura | +1 caratteristica, massimo 30; vista pura 18 m. |
+| Dono delle abilita di combattimento | +1 caratteristica, massimo 30; un attacco mancato puo colpire una volta per turno. |
+| Dono dell'offensiva irresistibile | +1 Forza o Destrezza, massimo 30; ignora resistenza fisica e aggiunge danni con 20 naturale. |
+| Dono dello spirito notturno | +1 caratteristica, massimo 30; invisibilita e resistenze in oscurita o luce fioca. |
+| Dono del richiamo degli incantesimi | Richiede Incantesimi; +1 caratteristica da incantatore e possibilita di non consumare slot 1-4. |
+| Dono del viaggio dimensionale | +1 caratteristica, massimo 30; teletrasporto fino a 9 m dopo Attacco o Magia. |
+
+---
+
+## Classe: Barbaro
+
+**id:** classe_barbaro
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 32-35
+
+Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica. La sottoclasse SRD e il Cammino del Berserker.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Forza; Dado Vita d12; TS Forza e Costituzione. |
+| Ira | Resistenza ai danni fisici, bonus ai danni con Forza e vantaggio a prove/TS di Forza. |
+| Attacco irruento | Vantaggio agli attacchi basati su Forza, con rischio difensivo. |
+| Colpo brutale | Danni extra ed effetti tattici rinunciando al vantaggio. |
+| Berserker | Sottoclasse SRD con frenesia e presenza intimidatoria. |
+
+---
+
+## Classe: Bardo
+
+**id:** classe_bardo
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 35-40
+
+Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bardica, competenze ampie e magia. La sottoclasse SRD e il Collegio della Sapienza.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Carisma; Dado Vita d8; TS Destrezza e Carisma. |
+| Ispirazione bardica | Dado dato a un alleato per trasformare un fallimento in possibile successo. |
+| Incantesimi | Preparazione dalla lista del bardo con recupero slot a riposo lungo. |
+| Maestria | Raddoppia il bonus di competenza in abilita scelte. |
+| Collegio della Sapienza | Sottoclasse SRD di conoscenza, parole taglienti e segreti magici. |
+
+---
+
+## Classe: Chierico
+
+**id:** classe_chierico
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 41-46
+
+Il chierico e un incantatore divino basato su Saggezza, capace di guarire, proteggere e incanalare energia sacra. La sottoclasse SRD e il Dominio della Vita.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Saggezza; Dado Vita d8; TS Saggezza e Carisma. |
+| Incantesimi | Prepara dalla lista del chierico usando Saggezza. |
+| Incanalare divinita | Alimenta Scintilla divina, Scacciare non morti e opzioni di dominio. |
+| Intervento divino | Aiuto divino ai livelli alti. |
+| Dominio della Vita | Sottoclasse SRD focalizzata sulla guarigione. |
+
+---
+
+## Classe: Druido
+
+**id:** classe_druido
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 46-52
+
+Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e alla Forma selvatica. La sottoclasse SRD e il Circolo della Terra.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Saggezza; Dado Vita d8; TS Intelligenza e Saggezza. |
+| Incantesimi | Prepara dalla lista del druido e puo cambiarli dopo riposo lungo. |
+| Forma selvatica | Assume forme bestiali con limiti e regole proprie. |
+| Corpo senza tempo | La magia primordiale rallenta l'invecchiamento. |
+| Circolo della Terra | Sottoclasse SRD con incantesimi legati al territorio scelto. |
+
+---
+
+## Classe: Guerriero
+
+**id:** classe_guerriero
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 53-55
+
+Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza delle armi e resistenza. La sottoclasse SRD e il Campione.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Forza o Destrezza; Dado Vita d10; TS Forza e Costituzione. |
+| Recuperare energie | Azione bonus per recuperare 1d10 + livello da guerriero PF. |
+| Padronanza d'armi | Usa proprieta di padronanza e ne amplia il numero con i livelli. |
+| Impeto d'azione | Azione aggiuntiva in momenti decisivi. |
+| Campione | Sottoclasse SRD con critico migliorato e atletica superiore. |
+
+---
+
+## Classe: Ladro
+
+**id:** classe_ladro
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 55-58
+
+Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto su Destrezza. La sottoclasse SRD e il Furfante.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Destrezza; Dado Vita d8; TS Destrezza e Intelligenza. |
+| Attacco furtivo | Danni extra una volta per turno con vantaggio o alleato vicino al bersaglio. |
+| Azione scaltra | Disimpegno, Nascondersi o Scatto come azione bonus. |
+| Colpo astuto | Effetti tattici spendendo dadi di Attacco furtivo. |
+| Furfante | Sottoclasse SRD con mani veloci e uso migliorato di oggetti. |
+
+---
+
+## Classe: Mago
+
+**id:** classe_mago
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 59-65
+
+Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi e preparazione flessibile. La sottoclasse SRD e l'Invocatore.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Intelligenza; Dado Vita d6; TS Intelligenza e Saggezza. |
+| Incantesimi | Prepara incantesimi usando il libro degli incantesimi. |
+| Recupero arcano | Recupera parte degli slot dopo un riposo breve. |
+| Libro degli incantesimi | Puo essere ampliato copiando incantesimi trovati. |
+| Invocatore | Sottoclasse SRD centrata su danni e protezione degli alleati. |
+
+---
+
+## Classe: Monaco
+
+**id:** classe_monaco
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 66-69
+
+Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e punti concentrazione. La sottoclasse SRD e la Via della Mano Aperta.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Destrezza e Saggezza; Dado Vita d8; TS Forza e Destrezza. |
+| Arti marziali | Colpo bonus, dado marziale e uso di Destrezza per attacchi da monaco. |
+| Concentrazione | Risorsa per Raffica di colpi, Difesa paziente e altri privilegi. |
+| Colpo stordente | Tenta di stordire un bersaglio colpito. |
+| Mano Aperta | Sottoclasse SRD con spinta, rovesciamento e guarigione personale. |
+
+---
+
+## Classe: Paladino
+
+**id:** classe_paladino
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 70-74
+
+Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposizione delle mani e magia divina. La sottoclasse SRD e il Giuramento di Devozione.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Forza e Carisma; Dado Vita d10; TS Saggezza e Carisma. |
+| Imposizione delle mani | Riserva di guarigione usata con il tocco. |
+| Incantesimi | Prepara incantesimi da paladino usando Carisma. |
+| Incanalare divinita | Alimenta Percezione del Divino e opzioni di giuramento. |
+| Devozione | Sottoclasse SRD con arma consacrata e aura difensiva. |
+
+---
+
+## Classe: Ranger
+
+**id:** classe_ranger
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 75-78
+
+Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza, magia naturale e mobilita. La sottoclasse SRD e il Cacciatore.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Destrezza e Saggezza; Dado Vita d10; TS Forza e Destrezza. |
+| Incantesimi | Prepara incantesimi da ranger e recupera slot con riposo lungo. |
+| Stile di combattimento | Ottiene un talento Stile di combattimento appropriato. |
+| Girovago | Velocita aumentata, scalata e nuoto. |
+| Cacciatore | Sottoclasse SRD con tattiche offensive e difensive. |
+
+---
+
+## Classe: Stregone
+
+**id:** classe_stregone
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 79-85
+
+Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metamagia. La sottoclasse SRD e la Stregoneria draconica.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Carisma; Dado Vita d6; TS Costituzione e Carisma. |
+| Fonte di magia | Punti stregoneria per creare slot, convertire slot e alimentare privilegi. |
+| Metamagia | Modifica incantesimi con opzioni speciali. |
+| Incantesimi | Lancia incantesimi arcani con Carisma. |
+| Stregoneria draconica | Sottoclasse SRD con incantesimi draconici e affinita elementale. |
+
+---
+
+## Classe: Warlock
+
+**id:** classe_warlock
+**capitolo:** Classi
+**categoria:** Classi
+**pagine_sorgente:** 85-92
+
+Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Suppliche occulte. La sottoclasse SRD e il Patrono immondo.
+
+### Riferimenti rapidi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Base | Carisma; Dado Vita d8; TS Saggezza e Carisma. |
+| Suppliche occulte | Opzioni modulari con prerequisiti che personalizzano magia e patti. |
+| Magia del patto | Slot dello stesso livello recuperati con riposo breve o lungo. |
+| Scaltrezza magica | Recupero limitato delle risorse di Magia del patto. |
+| Patrono immondo | Sottoclasse SRD con benedizione oscura e incantesimi immondi. |
