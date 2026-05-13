@@ -50,7 +50,7 @@ Tutte le creature hanno sei caratteristiche che misurano capacita fisiche e ment
 
 ### Modificatori di caratteristica
 
-| Voce | Riepilogo |
+| Punteggio | Modificatore |
 | --- | --- |
 | 1 | -5 |
 | 2-3 | -4 |
@@ -188,26 +188,26 @@ Una reazione e una risposta istantanea a un innesco. Dopo averla usata, non puoi
 
 ### Abilita
 
-| Voce | Riepilogo |
-| --- | --- |
-| Acrobazia | Destrezza; rimanere in piedi in una situazione difficile o eseguire acrobazie. |
-| Addestrare animali | Saggezza; calmare o controllare animali. |
-| Arcano | Intelligenza; ricordare conoscenze su incantesimi, oggetti magici e piani. |
-| Atletica | Forza; saltare, scalare, nuotare o lottare contro resistenza fisica. |
-| Furtivita | Destrezza; muoversi senza essere notati. |
-| Indagare | Intelligenza; cercare indizi e fare deduzioni. |
-| Inganno | Carisma; mentire o nascondere intenzioni. |
-| Intimidire | Carisma; influenzare tramite minacce o presenza. |
-| Intuizione | Saggezza; leggere intenzioni ed emozioni. |
-| Intrattenere | Carisma; esibirsi davanti a un pubblico. |
-| Medicina | Saggezza; stabilizzare, diagnosticare o curare. |
-| Natura | Intelligenza; ricordare informazioni su ambiente, animali e piante. |
-| Percezione | Saggezza; notare dettagli, creature o pericoli. |
-| Persuasione | Carisma; influenzare con tatto o argomenti. |
-| Rapidita di mano | Destrezza; borseggiare, manipolare o nascondere oggetti. |
-| Religione | Intelligenza; ricordare conoscenze su divinita, riti e culti. |
-| Sopravvivenza | Saggezza; seguire tracce, orientarsi e vivere nelle terre selvagge. |
-| Storia | Intelligenza; ricordare eventi, popoli e luoghi storici. |
+| Abilità | Caratteristica | Uso tipico |
+| --- | --- | --- |
+| Acrobazia | Destrezza | rimanere in piedi in una situazione difficile o eseguire acrobazie |
+| Addestrare animali | Saggezza | calmare o controllare animali |
+| Arcano | Intelligenza | ricordare conoscenze su incantesimi, oggetti magici e piani |
+| Atletica | Forza | saltare, scalare, nuotare o lottare contro resistenza fisica |
+| Furtivita | Destrezza | muoversi senza essere notati |
+| Indagare | Intelligenza | cercare indizi e fare deduzioni |
+| Inganno | Carisma | mentire o nascondere intenzioni |
+| Intimidire | Carisma | influenzare tramite minacce o presenza |
+| Intuizione | Saggezza | leggere intenzioni ed emozioni |
+| Intrattenere | Carisma | esibirsi davanti a un pubblico |
+| Medicina | Saggezza | stabilizzare, diagnosticare o curare |
+| Natura | Intelligenza | ricordare informazioni su ambiente, animali e piante |
+| Percezione | Saggezza | notare dettagli, creature o pericoli |
+| Persuasione | Carisma | influenzare con tatto o argomenti |
+| Rapidita di mano | Destrezza | borseggiare, manipolare o nascondere oggetti |
+| Religione | Intelligenza | ricordare conoscenze su divinita, riti e culti |
+| Sopravvivenza | Saggezza | seguire tracce, orientarsi e vivere nelle terre selvagge |
+| Storia | Intelligenza | ricordare eventi, popoli e luoghi storici |
 
 ---
 
@@ -240,11 +240,11 @@ Il passo di viaggio influenza furtivita, percezione e sopravvivenza.
 
 ### Passo di viaggio
 
-| Voce | Riepilogo |
-| --- | --- |
-| Veloce | 120 m/min; 6 km/ora; 45 km/giorno; penalita alla Percezione passiva. |
-| Normale | 90 m/min; 4,5 km/ora; 36 km/giorno. |
-| Lento | 60 m/min; 3 km/ora; 27 km/giorno; consente Furtivita. |
+| Passo | Al minuto | All ora | Al giorno | Effetto |
+| --- | --- | --- | --- | --- |
+| Veloce | 120 m/min | 6 km/ora | 45 km/giorno | penalita alla Percezione passiva |
+| Normale | 90 m/min | 4,5 km/ora | 36 km/giorno | - |
+| Lento | 60 m/min | 3 km/ora | 27 km/giorno | consente Furtivita |
 
 ---
 
@@ -346,20 +346,20 @@ La creazione del personaggio parte dalla scelta di una scheda e procede attraver
 
 ### Panoramica classi
 
-| Voce | Riepilogo |
-| --- | --- |
-| Barbaro | Battaglia; caratteristica primaria Forza; complessita media. |
-| Bardo | Esibizione; Carisma; complessita alta. |
-| Chierico | Dei; Saggezza; complessita media. |
-| Druido | Natura; Saggezza; complessita alta. |
-| Guerriero | Armi; Forza o Destrezza; complessita bassa. |
-| Ladro | Furtivita; Destrezza; complessita bassa. |
-| Mago | Libri di incantesimi; Intelligenza; complessita media. |
-| Monaco | Combattimento senz'armi; Destrezza e Saggezza; complessita alta. |
-| Paladino | Difesa; Forza e Carisma; complessita media. |
-| Ranger | Sopravvivenza; Destrezza e Saggezza; complessita media. |
-| Stregone | Potere; Carisma; complessita alta. |
-| Warlock | Scienze occulte; Carisma; complessita alta. |
+| Classe | Predilige | Caratteristiche primarie | Complessità |
+| --- | --- | --- | --- |
+| Barbaro | Battaglia | Forza | Media |
+| Bardo | Esibizione | Carisma | Alta |
+| Chierico | Dèi | Saggezza | Media |
+| Druido | Natura | Saggezza | Alta |
+| Guerriero | Armi | Forza o Destrezza | Bassa |
+| Ladro | Furtività | Destrezza | Bassa |
+| Mago | Libri di incantesimi | Intelligenza | Media |
+| Monaco | Combattimento senz'armi | Destrezza e Saggezza | Alta |
+| Paladino | Difesa | Forza e Carisma | Media |
+| Ranger | Sopravvivenza | Destrezza e Saggezza | Media |
+| Stregone | Potere | Carisma | Alta |
+| Warlock | Scienze occulte | Carisma | Alta |
 
 **Livello e PE**
 
@@ -390,6 +390,17 @@ Le origini del personaggio derivano da background, specie e lingue. Background e
 | Taglia e velocita | Sono determinate dalla specie e vanno annotate sulla scheda. |
 | Passato | Background e specie aiutano a definire famiglia, amicizie, legami, organizzazioni e motivazione all'avventura. |
 
+### Punteggi di caratteristica e background
+
+| Caratteristica | Background |
+| --- | --- |
+| Forza | Soldato |
+| Destrezza | Soldato |
+| Costituzione | Soldato |
+| Intelligenza | Accolito |
+| Saggezza | Accolito |
+| Carisma | Accolito |
+
 ### Lingue
 
 | Voce | Riepilogo |
@@ -401,33 +412,28 @@ Le origini del personaggio derivano da background, specie e lingue. Background e
 
 ### Lingue standard con tiro
 
-| Voce | Riepilogo |
+| 1d12 | Lingua |
 | --- | --- |
-| - | Comune |
+| — | Comune |
 | 1 | Lingua dei segni comune |
 | 2 | Draconico |
-| 3 | Nanico |
-| 4 | Elfico |
-| 5 | Gigante |
-| 6 | Gnomesco |
-| 7 | Goblin |
-| 8 | Halfling |
-| 9 | Orchesco |
-| 10-12 | Scegli una lingua standard o usa una lingua concessa dal GM. |
+| 3-4 | Nanico |
+| 5-6 | Elfico |
+| 7 | Gigante |
+| 8 | Gnomesco |
+| 9 | Goblin |
+| 10-11 | Halfling |
+| 12 | Orchesco |
 
 ### Lingue rare
 
-| Voce | Riepilogo |
+| Lingua | Lingua |
 | --- | --- |
-| Abissale | Lingua rara |
-| Celestiale | Lingua rara |
-| Druidico | Lingua rara |
-| Gergo delle profondita | Lingua rara |
-| Infernale | Lingua rara |
-| Primordiale | Lingua rara; comprende Aquan, Auran, Ignan e Terran. |
-| Silvano | Lingua rara |
-| Sottocomune | Lingua rara |
-| Gergo ladresco | Lingua rara |
+| Abissale | Primordiale* |
+| Celestiale | Silvano |
+| Druidico | Sottocomune |
+| Gergo delle profondità | Gergo ladresco |
+| Infernale |  |
 
 ---
 
@@ -468,7 +474,7 @@ Molte creature prive di mente razionale sono senza allineamento.
 
 ### Costi in punti del punteggio di caratteristica
 
-| Voce | Riepilogo |
+| Punteggio | Costo |
 | --- | --- |
 | 8 | 0 |
 | 9 | 1 |
@@ -481,24 +487,24 @@ Molte creature prive di mente razionale sono senza allineamento.
 
 ### Serie standard per classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| Barbaro | For 15, Des 13, Cos 14, Int 10, Sag 12, Car 8 |
-| Bardo | For 8, Des 14, Cos 12, Int 13, Sag 10, Car 15 |
-| Chierico | For 14, Des 8, Cos 13, Int 10, Sag 15, Car 12 |
-| Druido | For 8, Des 12, Cos 14, Int 13, Sag 15, Car 10 |
-| Guerriero | For 15, Des 14, Cos 13, Int 8, Sag 10, Car 12 |
-| Ladro | For 12, Des 15, Cos 13, Int 14, Sag 10, Car 8 |
-| Mago | For 8, Des 12, Cos 13, Int 15, Sag 14, Car 10 |
-| Monaco | For 12, Des 15, Cos 13, Int 10, Sag 14, Car 8 |
-| Paladino | For 15, Des 10, Cos 13, Int 8, Sag 12, Car 14 |
-| Ranger | For 12, Des 15, Cos 13, Int 8, Sag 14, Car 10 |
-| Stregone | For 10, Des 13, Cos 14, Int 8, Sag 12, Car 15 |
-| Warlock | For 8, Des 14, Cos 13, Int 12, Sag 10, Car 15 |
+| Classe | For | Des | Cos | Int | Sag | Car |
+| --- | --- | --- | --- | --- | --- | --- |
+| Barbaro | 15 | 13 | 14 | 10 | 12 | 8 |
+| Bardo | 8 | 14 | 12 | 13 | 10 | 15 |
+| Chierico | 14 | 8 | 13 | 10 | 15 | 12 |
+| Druido | 8 | 12 | 14 | 13 | 15 | 10 |
+| Guerriero | 15 | 14 | 13 | 8 | 10 | 12 |
+| Ladro | 12 | 15 | 13 | 14 | 10 | 8 |
+| Mago | 8 | 12 | 13 | 15 | 14 | 10 |
+| Monaco | 12 | 15 | 13 | 10 | 14 | 8 |
+| Paladino | 15 | 10 | 13 | 8 | 12 | 14 |
+| Ranger | 12 | 15 | 13 | 8 | 14 | 10 |
+| Stregone | 10 | 13 | 14 | 8 | 12 | 15 |
+| Warlock | 8 | 14 | 13 | 12 | 10 | 15 |
 
 ### Punteggi di caratteristica e modificatori
 
-| Voce | Riepilogo |
+| Punteggio | Modificatore |
 | --- | --- |
 | 3 | -4 |
 | 4-5 | -3 |
@@ -538,12 +544,12 @@ Dopo le scelte iniziali si registrano privilegi di classe, tiri salvezza, abilit
 
 ### Punti ferita al 1º livello
 
-| Voce | Riepilogo |
+| Classe | Punti ferita massimi |
 | --- | --- |
-| Barbaro | 12 + modificatore di Costituzione. |
-| Guerriero, paladino, ranger | 10 + modificatore di Costituzione. |
-| Bardo, chierico, druido, monaco, ladro, warlock | 8 + modificatore di Costituzione. |
-| Stregone, mago | 6 + modificatore di Costituzione. |
+| Barbaro | 12 + modificatore di Cos |
+| Guerriero, paladino o ranger | 10 + modificatore di Cos |
+| Bardo, chierico, druido, monaco, ladro o warlock | 8 + modificatore di Cos |
+| Stregone o mago | 6 + modificatore di Cos |
 
 **Dadi Vita**
 
@@ -585,37 +591,37 @@ L'avanzamento di livello aumenta capacita, punti ferita e talvolta bonus di comp
 
 ### Equipaggiamento a livelli superiori
 
-| Voce | Riepilogo |
-| --- | --- |
-| 2-4 | Equipaggiamento ordinario, 1 oggetto comune. |
-| 5-10 | 500 mo + 1d10 x 25 mo + equipaggiamento ordinario; 1 comune, 1 non comune. |
-| 11-16 | 5.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 3 non comuni, 1 raro. |
-| 17-20 | 20.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 4 non comuni, 3 rari, 1 molto raro. |
+| Livello di partenza | Equipaggiamento e denaro | Oggetti magici |
+| --- | --- | --- |
+| 2-4 | Equipaggiamento ordinario, 1 oggetto comune |  |
+| 5-10 | 500 mo + 1d10 x 25 mo + equipaggiamento ordinario; 1 comune, 1 non comune |  |
+| 11-16 | 5.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 3 non comuni, 1 raro |  |
+| 17-20 | 20.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 4 non comuni, 3 rari, 1 molto raro |  |
 
 ### Avanzamento dei personaggi
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | 0 PE; bonus competenza +2 |
-| 2 | 300 PE; +2 |
-| 3 | 900 PE; +2 |
-| 4 | 2.700 PE; +2 |
-| 5 | 6.500 PE; +3 |
-| 6 | 14.000 PE; +3 |
-| 7 | 23.000 PE; +3 |
-| 8 | 34.000 PE; +3 |
-| 9 | 48.000 PE; +4 |
-| 10 | 64.000 PE; +4 |
-| 11 | 85.000 PE; +4 |
-| 12 | 100.000 PE; +4 |
-| 13 | 120.000 PE; +5 |
-| 14 | 140.000 PE; +5 |
-| 15 | 165.000 PE; +5 |
-| 16 | 195.000 PE; +5 |
-| 17 | 225.000 PE; +6 |
-| 18 | 265.000 PE; +6 |
-| 19 | 305.000 PE; +6 |
-| 20 | 355.000 PE; +6 |
+| Livello | PE minimi | Bonus di competenza |
+| --- | --- | --- |
+| 1 | 0 | +2 |
+| 2 | 300 | +2 |
+| 3 | 900 | +2 |
+| 4 | 2.700 | +2 |
+| 5 | 6.500 | +3 |
+| 6 | 14.000 | +3 |
+| 7 | 23.000 | +3 |
+| 8 | 34.000 | +3 |
+| 9 | 48.000 | +4 |
+| 10 | 64.000 | +4 |
+| 11 | 85.000 | +4 |
+| 12 | 100.000 | +4 |
+| 13 | 120.000 | +5 |
+| 14 | 140.000 | +5 |
+| 15 | 165.000 | +5 |
+| 16 | 195.000 | +5 |
+| 17 | 225.000 | +6 |
+| 18 | 265.000 | +6 |
+| 19 | 305.000 | +6 |
+| 20 | 355.000 | +6 |
 
 ---
 
@@ -642,7 +648,7 @@ Il multiclasse consente di acquisire livelli in piu classi. I monili sono piccol
 | Incantesimi | Gli incantesimi preparati si determinano per classe; gli slot combinano livelli da incantatore secondo le regole multiclasse. |
 | Magia del patto | Slot da Magia del patto e Incantesimi possono essere usati reciprocamente per lanciare incantesimi preparati appropriati. |
 
-### Monili
+### Uso dei monili
 
 | Voce | Riepilogo |
 | --- | --- |
@@ -652,39 +658,135 @@ Il multiclasse consente di acquisire livelli in piu classi. I monili sono piccol
 
 ### Incantatore multiclasse: slot incantesimo 1-9
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | 2/-/-/-/-/-/-/-/- |
-| 2 | 3/-/-/-/-/-/-/-/- |
-| 3 | 4/2/-/-/-/-/-/-/- |
-| 4 | 4/3/-/-/-/-/-/-/- |
-| 5 | 4/3/2/-/-/-/-/-/- |
-| 6 | 4/3/3/-/-/-/-/-/- |
-| 7 | 4/3/3/1/-/-/-/-/- |
-| 8 | 4/3/3/2/-/-/-/-/- |
-| 9 | 4/3/3/3/1/-/-/-/- |
-| 10 | 4/3/3/3/2/-/-/-/- |
-| 11 | 4/3/3/3/2/1/-/-/- |
-| 12 | 4/3/3/3/2/1/-/-/- |
-| 13 | 4/3/3/3/2/1/1/-/- |
-| 14 | 4/3/3/3/2/1/1/-/- |
-| 15 | 4/3/3/3/2/1/1/1/- |
-| 16 | 4/3/3/3/2/1/1/1/- |
-| 17 | 4/3/3/3/2/1/1/1/1 |
-| 18 | 4/3/3/3/3/1/1/1/1 |
-| 19 | 4/3/3/3/3/2/1/1/1 |
-| 20 | 4/3/3/3/3/2/2/1/1 |
+| Livello | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 | Slot 6 | Slot 7 | Slot 8 | Slot 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2 | - | - | - | - | - | - | - | - |
+| 2 | 3 | - | - | - | - | - | - | - | - |
+| 3 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-### Monili d100: estremi e uso
+### Monili
 
-| Voce | Riepilogo |
+Tabella completa 1d100 dei monili dal PDF SRD.
+
+| 1d100 | Monile |
 | --- | --- |
 | 01 | Una mano di goblin mummificata |
 | 02 | Un frammento di cristallo che risplende debolmente alla luce della luna |
-| 03-30 | Monili minori come monete ignote, idoli, piume, globi, libri e oggetti misteriosi. |
-| 31-58 | Monili curiosi come distintivi, pietre, scrigni, chiavi, mappe e oggetti rotti. |
-| 59-85 | Monili personali o enigmatici come medaglioni, maschere, inviti, planimetrie e diari. |
-| 86-00 | Monili finali come simboli sacri ignoti, sangue di drago, bottiglie, costrutti minuscoli, grasso di grifone e urna di un eroe. |
+| 03 | Una moneta d'oro forgiata in una terra ignota |
+| 04 | Un diario scritto in una lingua ignota |
+| 05 | Un anello di ottone che non si consuma mai |
+| 06 | Un vecchio pezzo degli scacchi fatto in vetro |
+| 07 | Un paio di dadi fatto in ossa di falange; ognuno mostra il simbolo di un teschio sul lato che normalmente mostrerebbe sei punti |
+| 08 | Un piccolo idolo che raffigura una creatura da incubo e fa fare brutti sogni a chi dorme nelle sue vicinanze |
+| 09 | Una ciocca di capelli |
+| 10 | L'atto di proprietà di un appezzamento di terra in un reame sconosciuto |
+| 11 | Un cubetto fatto di un materiale sconosciuto del peso di 30 grammi |
+| 12 | Una piccola bambola di pezza trafitta da aghi |
+| 13 | Una zanna di una bestia sconosciuta |
+| 14 | Una scaglia enorme, forse appartenente a un drago |
+| 15 | Una sgargiante piuma verde |
+| 16 | Una vecchia carta da chiromante su cui compare il ritratto del personaggio |
+| 17 | Un globo di vetro pieno di sbuffi di fumo |
+| 18 | Un uovo da mezzo chilo dal guscio color rosso chiaro |
+| 19 | Un tubo per soffiare bolle di sapone |
+| 20 | Un vaso di vetro che contiene uno strano pezzo di carne immerso in un liquido conservante |
+| 21 | Un carillon di fattura gnomesca il cui motivo richiama vagamente una melodia che il personaggio ricorda dall'infanzia |
+| 22 | Una statuetta di legno con le fattezze di un halfling strafottente |
+| 23 | Un globo di ottone ricoperto di strane incisioni runiche |
+| 24 | Un disco di pietra multicolore |
+| 25 | Un'icona d'argento a forma di corvo |
+| 26 | Un sacchetto contenente quarantasette denti, tra cui uno marcio |
+| 27 | Un frammento di ossidiana che risulta sempre caldo al tatto |
+| 28 | Un artiglio di drago che pende da una collana in cuoio |
+| 29 | Un paio di vecchi calzini |
+| 30 | Un libro vuoto le cui pagine non si lasciano sporcare da inchiostro, gesso, grafite o qualsiasi altra sostanza o segno |
+| 31 | Un distintivo d'argento a forma di una stella a cinque punte |
+| 32 | Un coltello appartenuto a un parente |
+| 33 | Una fiala di vetro piena di unghie tagliate |
+| 34 | Un congegno di metallo rettangolare con due minuscole coppe di metallo a un'estremità che emettono scintille quando bagnate |
+| 35 | Un guanto bianco ricoperto di lustrini della taglia di un umano |
+| 36 | Una veste con cento minuscole tasche |
+| 37 | Una pietra priva di peso |
+| 38 | Un ritratto appena abbozzato di un goblin |
+| 39 | Una fiala di vetro vuota che emana un buon profumo |
+| 40 | Una gemma che sembra un pezzo di carbone quando viene esaminata da chiunque al di fuori del personaggio |
+| 41 | Un pezzo di stoffa strappato di una vecchia bandiera |
+| 42 | Una mostrina dei gradi di un legionario scomparso |
+| 43 | Un campanello d'argento senza batacchio |
+| 44 | Una lampada con all'interno un canarino meccanico |
+| 45 | Uno scrigno in miniatura scolpito per apparire dotato di numerose zampe alla base |
+| 46 | Uno spiritello morto all'interno di una bottiglia di vetro trasparente |
+| 47 | Un cilindro di metallo privo di qualsiasi apertura ma che sembra pieno di un liquido, di sabbia, di ragni o di vetri rotti (a scelta del giocatore) |
+| 48 | Un globo di vetro pieno d'acqua al cui interno nuota un pesce rosso meccanico |
+| 49 | Un cucchiaio d'argento con una M incisa sul manico |
+| 50 | Un fischietto in legno dorato |
+| 51 | Uno scarabeo morto, grande quanto la mano di un uomo |
+| 52 | Due soldatini giocattolo, di cui uno privo della testa |
+| 53 | Uno scrigno pieno di bottoni di tutte le taglie |
+| 54 | Una candela impossibile da accendere |
+| 55 | Una minuscola gabbia priva di porticina |
+| 56 | Una vecchia chiave |
+| 57 | Una mappa del tesoro indecifrabile |
+| 58 | L'elsa di una spada infranta |
+| 59 | Una zampa di coniglio |
+| 60 | Un occhio di vetro |
+| 61 | Un medaglione contenente il ritratto di una persona orribile |
+| 62 | Un teschio d'argento grande come una moneta |
+| 63 | Una maschera di alabastro |
+| 64 | Un cono di incenso nero appiccicoso e dal pessimo odore |
+| 65 | Un berretto da notte che, quando indossato, fa fare al portatore sogni piacevoli |
+| 66 | Un singolo tribolo fatto d'osso |
+| 67 | La montatura di un monocolo dorato privo di lente |
+| 68 | Un cubo con spigolo di 2,5 cm, con ogni faccia dipinta di un colore diverso |
+| 69 | Una maniglia di cristallo di una porta |
+| 70 | Un pacchetto pieno di polvere rosa |
+| 71 | Una strofa di una magnifica canzone, scritta come una serie di note musicali su due frammenti di pergamena |
+| 72 | Un orecchino d'argento a forma di goccia contenente una vera lacrima |
+| 73 | Il guscio di un uovo su cui sono raffigurate scene di varie disgrazie dipinte con inquietante precisione |
+| 74 | Un ventaglio che, una volta aperto, mostra un gatto addormentato |
+| 75 | Una serie di flauti in osso |
+| 76 | Un quadrifoglio custodito tra le pagine di un manuale di galateo |
+| 77 | Una pergamena su cui è stato disegnato un marchingegno meccanico |
+| 78 | Un elegante fodero che non si adatta a nessuna lama che il personaggio abbia mai visto |
+| 79 | Un invito a una festa a cui è stato commesso un delitto |
+| 80 | Un pentacolo di bronzo con l'immagine di una testa di ratto incisa al centro |
+| 81 | Un fazzoletto viola su cui è stato ricamato il nome di un potente arcimago |
+| 82 | Metà della planimetria di un tempio, un castello o una struttura di altro tipo |
+| 83 | Un pezzo di stoffa ripiegato che, una volta spiegato, si trasforma in un elegante mantello |
+| 84 | La ricevuta di un deposito presso una banca di una città molto lontana |
+| 85 | Un diario con sette pagine mancanti |
+| 86 | Una tabacchiera d'argento vuota con la scritta "sogni" incisa sul coperchio |
+| 87 | Un simbolo sacro in ferro dedicato a un dio sconosciuto |
+| 88 | Un libro che racconta la storia dell'ascesa e della caduta di un eroe leggendario, privo dell'ultimo capitolo |
+| 89 | Una fiala di sangue di drago |
+| 90 | Un'antica freccia di fattura elfica |
+| 91 | Un ago impossibile da piegare |
+| 92 | Un'elegante spilla di fattura nanica |
+| 93 | Una bottiglia di vino vuota con un'elegante etichetta che recita "Enoteca del Mago dei Vini, Torchietto del drago, 331422-W" |
+| 94 | La tessera di un mosaico dalla superficie lucida e multicolore |
+| 95 | Un topo pietrificato |
+| 96 | Una bandiera nera da pirata decorata con le tibie incrociate e il teschio di un drago |
+| 97 | Un minuscolo granchio o ragno meccanico che si anima e si sposta quando nessuno lo osserva |
+| 98 | Un vaso di vetro pieno di lardo con un'etichetta che recita: "Grasso di Grifone" |
+| 99 | Uno scrigno di legno con il fondo di ceramica che contiene un verme vivo con una testa a ogni estremità del suo corpo |
+| 00 | Un'urna di metallo contenente le ceneri di un eroe |
 
 ---
 
@@ -711,28 +813,28 @@ Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Difesa senza armatura, Ira, Padronanza d'armi; ire 2; danni ira +2; padronanze 2 |
-| 2 | BC +2; Attacco irruento, Percezione del pericolo; ire 2; danni +2; padronanze 2 |
-| 3 | BC +2; Conoscenza primordiale, sottoclasse del barbaro; ire 3; danni +2; padronanze 2 |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; ire 3; danni +2; padronanze 3 |
-| 5 | BC +3; Attacco extra, Movimento veloce; ire 3; danni +2; padronanze 3 |
-| 6 | BC +3; Privilegio della sottoclasse; ire 4; danni +2; padronanze 3 |
-| 7 | BC +3; Balzo istintivo, Istinto ferino; ire 4; danni +2; padronanze 3 |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; ire 4; danni +2; padronanze 3 |
-| 9 | BC +4; Colpo brutale; ire 4; danni +3; padronanze 3 |
-| 10 | BC +4; Privilegio della sottoclasse; ire 4; danni +3; padronanze 4 |
-| 11 | BC +4; Ira implacabile; ire 4; danni +3; padronanze 4 |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; ire 5; danni +3; padronanze 4 |
-| 13 | BC +5; Colpo brutale migliorato; ire 5; danni +3; padronanze 4 |
-| 14 | BC +5; Privilegio della sottoclasse; ire 5; danni +3; padronanze 4 |
-| 15 | BC +5; Ira persistente; ire 5; danni +3; padronanze 4 |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; ire 5; danni +4; padronanze 4 |
-| 17 | BC +6; Colpo brutale migliorato; ire 6; danni +4; padronanze 4 |
-| 18 | BC +6; Potenza indomabile; ire 6; danni +4; padronanze 4 |
-| 19 | BC +6; Dono epico; ire 6; danni +4; padronanze 4 |
-| 20 | BC +6; Campione primordiale; ire 6; danni +4; padronanze 4 |
+| Livello | Bonus di competenza | Privilegi di classe | Ire | Danni dell'ira | Padronanza d'armi |
+| --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Difesa senza armatura, Ira, Padronanza d'armi | 2 | +2 | 2 |
+| 2 | +2 | Attacco irruento, Percezione del pericolo | 2 | +2 | 2 |
+| 3 | +2 | Conoscenza primordiale, sottoclasse del barbaro | 3 | +2 | 2 |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 3 | +2 | 3 |
+| 5 | +3 | Attacco extra, Movimento veloce | 3 | +2 | 3 |
+| 6 | +3 | Privilegio della sottoclasse | 4 | +2 | 3 |
+| 7 | +3 | Balzo istintivo, Istinto ferino | 4 | +2 | 3 |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 4 | +2 | 3 |
+| 9 | +4 | Colpo brutale | 4 | +3 | 3 |
+| 10 | +4 | Privilegio della sottoclasse | 4 | +3 | 4 |
+| 11 | +4 | Ira implacabile | 4 | +3 | 4 |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 5 | +3 | 4 |
+| 13 | +5 | Colpo brutale migliorato | 5 | +3 | 4 |
+| 14 | +5 | Privilegio della sottoclasse | 5 | +3 | 4 |
+| 15 | +5 | Ira persistente | 5 | +3 | 4 |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 5 | +4 | 4 |
+| 17 | +6 | Colpo brutale migliorato | 6 | +4 | 4 |
+| 18 | +6 | Potenza indomabile | 6 | +4 | 4 |
+| 19 | +6 | Dono epico | 6 | +4 | 4 |
+| 20 | +6 | Campione primordiale | 6 | +4 | 4 |
 
 ### Privilegi chiave
 
@@ -743,11 +845,16 @@ Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica
 | Attacco irruento | Vantaggio agli attacchi basati su Forza, concedendo vantaggio contro di se fino al turno successivo. |
 | Colpo brutale | Rinuncia al vantaggio per infliggere danni extra ed effetti di controllo. |
 
-### Sottoclasse SRD
+### Sottoclasse del barbaro: Cammino del berserker
 
-| Voce | Riepilogo |
-| --- | --- |
-| Cammino del berserker | Frenesia, colpo di ritorsione e presenza intimidatoria. |
+Incanala l ira in furia violenta
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Frenesia | Con Attacco irruento durante l ira infligge d6 extra pari al bonus Danni dell ira al primo bersaglio colpito. |
+| 6 | Ira incontenibile | Durante l ira non puo essere affascinato o spaventato; se lo era, la condizione termina. |
+| 10 | Ritorsione | Quando subisce danni da una creatura entro 1,5 m puo reagire con un attacco in mischia. |
+| 14 | Presenza intimidatoria | Come azione bonus puo spaventare creature scelte entro 9 m con TS Saggezza. |
 
 ---
 
@@ -775,28 +882,28 @@ Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bar
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Incantesimi, Ispirazione bardica; dado bardico D6; trucchetti 2; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/- |
-| 2 | BC +2; Maestria, Factotum; dado bardico D6; trucchetti 2; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/- |
-| 3 | BC +2; Sottoclasse del bardo; dado bardico D6; trucchetti 2; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/- |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; dado bardico D6; trucchetti 3; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/- |
-| 5 | BC +3; Fonte di ispirazione; dado bardico D8; trucchetti 3; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/- |
-| 6 | BC +3; Privilegio della sottoclasse; dado bardico D8; trucchetti 3; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/- |
-| 7 | BC +3; Controfascino; dado bardico D8; trucchetti 3; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/- |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; dado bardico D8; trucchetti 3; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/- |
-| 9 | BC +4; Maestria; dado bardico D8; trucchetti 3; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/- |
-| 10 | BC +4; Segreti magici; dado bardico D10; trucchetti 4; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/- |
-| 11 | BC +4; -; dado bardico D10; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; dado bardico D10; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 13 | BC +5; -; dado bardico D10; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 14 | BC +5; Privilegio della sottoclasse; dado bardico D10; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 15 | BC +5; -; dado bardico D12; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; dado bardico D12; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 17 | BC +6; -; dado bardico D12; trucchetti 4; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1 |
-| 18 | BC +6; Ispirazione superiore; dado bardico D12; trucchetti 4; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1 |
-| 19 | BC +6; Dono epico; dado bardico D12; trucchetti 4; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1 |
-| 20 | BC +6; Parole della creazione; dado bardico D12; trucchetti 4; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1 |
+| Livello | Bonus di competenza | Privilegi di classe | Dado bardico | Trucchetti | Incantesimi preparati | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 | Slot 6 | Slot 7 | Slot 8 | Slot 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Incantesimi, Ispirazione bardica | D6 | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
+| 2 | +2 | Maestria, Factotum | D6 | 2 | 5 | 3 | - | - | - | - | - | - | - | - |
+| 3 | +2 | Sottoclasse del bardo | D6 | 2 | 6 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | +2 | Aumento dei punteggi di caratteristica | D6 | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | +3 | Fonte di ispirazione | D8 | 3 | 9 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | +3 | Privilegio della sottoclasse | D8 | 3 | 10 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | +3 | Controfascino | D8 | 3 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | +3 | Aumento dei punteggi di caratteristica | D8 | 3 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | +4 | Maestria | D8 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | +4 | Segreti magici | D10 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | +4 | - | D10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | +4 | Aumento dei punteggi di caratteristica | D10 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | +5 | - | D10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | +5 | Privilegio della sottoclasse | D10 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | +5 | - | D12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | +5 | Aumento dei punteggi di caratteristica | D12 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | +6 | - | D12 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Ispirazione superiore | D12 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Dono epico | D12 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Parole della creazione | D12 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Privilegi chiave
 
@@ -807,11 +914,153 @@ Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bar
 | Maestria | Raddoppia il bonus di competenza per alcune abilita scelte. |
 | Segreti magici | Permette di preparare incantesimi da altre liste. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da bardo
 
-| Voce | Riepilogo |
-| --- | --- |
-| Collegio della Sapienza | Conoscenza magica, competenze e segreti magici aggiuntivi. |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| Trucchetto | Beffa crudele | Ammaliamento | - |
+| Trucchetto | Colpo accurato | Divinazione | M |
+| Trucchetto | Illusione minore | Illusione | M |
+| Trucchetto | Luce | Invocazione | M |
+| Trucchetto | Luce splendente | Invocazione | - |
+| Trucchetto | Luci danzanti | Illusione | C, M |
+| Trucchetto | Mano magica | Evocazione | - |
+| Trucchetto | Messaggio | Trasmutazione | M |
+| Trucchetto | Prestidigitazione | Trasmutazione | - |
+| Trucchetto | Riparare | Trasmutazione | M |
+| 1 | Amicizia con gli animali | Ammaliamento | M |
+| 1 | Anatema | Ammaliamento | C, M |
+| 1 | Caduta morbida | Trasmutazione | M |
+| 1 | Camuffare se stesso | Illusione | - |
+| 1 | Charme su persone | Ammaliamento | - |
+| 1 | Comando | Ammaliamento | - |
+| 1 | Comprensione dei linguaggi | Divinazione | R, M |
+| 1 | Cura ferite | Abiurazione | - |
+| 1 | Eroismo | Ammaliamento | C |
+| 1 | Identificare | Divinazione | R, M |
+| 1 | Immagine silenziosa | Illusione | C, M |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Luminescenza | Invocazione | C |
+| 1 | Onda tonante | Invocazione | - |
+| 1 | Parlare con gli animali | Divinazione | R |
+| 1 | Parola guaritrice | Abiurazione | - |
+| 1 | Passo veloce | Trasmutazione | M |
+| 1 | Risata incontenibile | Ammaliamento | C, M |
+| 1 | Scritto illusorio | Illusione | R, M |
+| 1 | Servitore inosservato | Evocazione | R, M |
+| 1 | Sonno | Ammaliamento | C, M |
+| 1 | Spruzzo colorato | Illusione | M |
+| 1 | Sussurri dissonanti | Ammaliamento | - |
+| 2 | Aiuto | Abiurazione | M |
+| 2 | Allucinazione di forza | Illusione | C, M |
+| 2 | Animale messaggero | Ammaliamento | R, M |
+| 2 | Blocca persone | Ammaliamento | C, M |
+| 2 | Bocca magica | Illusione | R, M |
+| 2 | Calmare emozioni | Ammaliamento | C |
+| 2 | Caratteristica potenziata | Trasmutazione | C, M |
+| 2 | Cecità/sordità | Trasmutazione | - |
+| 2 | Estasiare | Ammaliamento | C |
+| 2 | Frantumare | Invocazione | M |
+| 2 | Immagine speculare | Illusione | - |
+| 2 | Individuazione dei pensieri | Divinazione | C, M |
+| 2 | Ingrandire/ridurre | Trasmutazione | C, M |
+| 2 | Invisibilità | Illusione | C, M |
+| 2 | Localizza animali o vegetali | Divinazione | R, M |
+| 2 | Localizza oggetto | Divinazione | C, M |
+| 2 | Riscaldare il metallo | Trasmutazione | C, M |
+| 2 | Ristorare inferiore | Abiurazione | - |
+| 2 | Scassinare | Trasmutazione | - |
+| 2 | Silenzio | Illusione | C, R |
+| 2 | Suggestione | Ammaliamento | C, M |
+| 2 | Vedere invisibilità | Divinazione | M |
+| 2 | Zona di verità | Ammaliamento | - |
+| 3 | Anti-individuazione | Abiurazione | M |
+| 3 | Capanna | Invocazione | R, M |
+| 3 | Chiaroveggenza | Divinazione | C, M |
+| 3 | Crescita vegetale | Trasmutazione | - |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Glifo di interdizione | Abiurazione | M |
+| 3 | Immagine maggiore | Illusione | C, M |
+| 3 | Inviare | Divinazione | M |
+| 3 | Lentezza | Trasmutazione | C, M |
+| 3 | Linguaggi | Divinazione | M |
+| 3 | Nube maleodorante | Evocazione | C, M |
+| 3 | Parlare con i morti | Necromanzia | M |
+| 3 | Parlare con i vegetali | Trasmutazione | - |
+| 3 | Parola guaritrice di massa | Abiurazione | - |
+| 3 | Paura | Illusione | C, M |
+| 3 | Scagliare maledizione | Necromanzia | C |
+| 3 | Trama ipnotica | Illusione | C, M |
+| 4 | Allucinazione mortale | Illusione | C |
+| 4 | Charme sui mostri | Ammaliamento | - |
+| 4 | Compulsione | Ammaliamento | C |
+| 4 | Confusione | Ammaliamento | C, M |
+| 4 | Invisibilità superiore | Illusione | C |
+| 4 | Libertà di movimento | Abiurazione | M |
+| 4 | Localizza creatura | Divinazione | C, M |
+| 4 | Metamorfosi | Trasmutazione | C, M |
+| 4 | Porta dimensionale | Evocazione | - |
+| 4 | Terreno illusorio | Illusione | M |
+| 5 | Animare oggetti | Trasmutazione | C |
+| 5 | Blocca mostri | Ammaliamento | C, M |
+| 5 | Cerchio di teletrasporto | Evocazione | M |
+| 5 | Conoscenza delle leggende | Divinazione | M |
+| 5 | Costrizione | Ammaliamento | - |
+| 5 | Cura ferite di massa | Abiurazione | - |
+| 5 | Dominare persone | Ammaliamento | C |
+| 5 | Fuorviare | Illusione | C |
+| 5 | Legame planare | Abiurazione | M |
+| 5 | Legame telepatico | Divinazione | R, M |
+| 5 | Modificare memoria | Ammaliamento | C |
+| 5 | Rianimare morti | Necromanzia | M |
+| 5 | Ristorare superiore | Abiurazione | M |
+| 5 | Risveglio | Trasmutazione | M |
+| 5 | Scrutare | Divinazione | C, M |
+| 5 | Sembrare | Illusione | - |
+| 5 | Sogno | Illusione | M |
+| 6 | Banchetto degli eroi | Evocazione | M |
+| 6 | Danza irresistibile | Ammaliamento | C |
+| 6 | Illusione programmata | Illusione | M |
+| 6 | Scopri il percorso | Divinazione | C, M |
+| 6 | Sguardo penetrante | Necromanzia | C |
+| 6 | Suggestione di massa | Ammaliamento | M |
+| 6 | Vigilanza e interdizione | Abiurazione | M |
+| 6 | Visione del vero | Divinazione | M |
+| 7 | Forma eterea | Evocazione | - |
+| 7 | Gabbia di forza | Invocazione | C, M |
+| 7 | Immagine proiettata | Illusione | C, M |
+| 7 | Miraggio arcano | Illusione | - |
+| 7 | Reggia meravigliosa | Evocazione | M |
+| 7 | Resurrezione | Necromanzia | M |
+| 7 | Rigenerazione | Trasmutazione | M |
+| 7 | Simbolo | Abiurazione | M |
+| 7 | Spada arcana | Invocazione | C, M |
+| 7 | Spruzzo prismatico | Invocazione | - |
+| 7 | Teletrasporto | Evocazione | - |
+| 8 | Antipatia/simpatia | Ammaliamento | M |
+| 8 | Disorientare | Ammaliamento | M |
+| 8 | Dominare mostri | Ammaliamento | C |
+| 8 | Loquacità | Ammaliamento | - |
+| 8 | Parola del potere stordire | Ammaliamento | - |
+| 8 | Vuoto mentale | Abiurazione | - |
+| 9 | Metamorfosi pura | Trasmutazione | C, M |
+| 9 | Muro prismatico | Abiurazione | - |
+| 9 | Parola del potere guarire | Ammaliamento | - |
+| 9 | Parola del potere uccidere | Ammaliamento | - |
+| 9 | Previsione | Divinazione | M |
+
+### Sottoclasse del bardo: Collegio della Sapienza
+
+Scandaglia le profondita della conoscenza magica
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Competenze bonus | Ottiene competenza in tre abilita a scelta. |
+| 3 | Parole taglienti | Usa reazione e Ispirazione bardica per sottrarre il dado a danni, prove o tiri per colpire riusciti. |
+| 6 | Scoperte magiche | Apprende due incantesimi da chierico, druido o mago, sempre preparati e sostituibili salendo di livello. |
+| 14 | Abilita impareggiabile | Dopo un fallimento puo spendere Ispirazione bardica e aggiungerla al d20; se fallisce resta non consumata. |
 
 ---
 
@@ -838,28 +1087,28 @@ Il chierico e un incantatore divino basato su Saggezza, capace di guarire, prote
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Incantesimi, Ordine divino; Incanalare divinita -; trucchetti 3; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/- |
-| 2 | BC +2; Incanalare divinita; Incanalare divinita 2; trucchetti 3; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/- |
-| 3 | BC +2; Sottoclasse del chierico; Incanalare divinita 2; trucchetti 3; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/- |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; Incanalare divinita 2; trucchetti 4; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/- |
-| 5 | BC +3; Bruciare i non morti; Incanalare divinita 2; trucchetti 4; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/- |
-| 6 | BC +3; Privilegio della sottoclasse; Incanalare divinita 3; trucchetti 4; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/- |
-| 7 | BC +3; Colpi benedetti; Incanalare divinita 3; trucchetti 4; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/- |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; Incanalare divinita 3; trucchetti 4; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/- |
-| 9 | BC +4; -; Incanalare divinita 3; trucchetti 4; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/- |
-| 10 | BC +4; Intervento divino; Incanalare divinita 3; trucchetti 5; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/- |
-| 11 | BC +4; -; Incanalare divinita 3; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; Incanalare divinita 3; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 13 | BC +5; -; Incanalare divinita 3; trucchetti 5; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 14 | BC +5; Colpi benedetti migliorati; Incanalare divinita 3; trucchetti 5; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 15 | BC +5; -; Incanalare divinita 3; trucchetti 5; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; Incanalare divinita 3; trucchetti 5; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 17 | BC +6; Privilegio della sottoclasse; Incanalare divinita 3; trucchetti 5; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1 |
-| 18 | BC +6; -; Incanalare divinita 4; trucchetti 5; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1 |
-| 19 | BC +6; Dono epico; Incanalare divinita 4; trucchetti 5; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1 |
-| 20 | BC +6; Intervento divino superiore; Incanalare divinita 4; trucchetti 5; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1 |
+| Livello | Bonus di competenza | Privilegi di classe | Incanalare divinità | Trucchetti | Incantesimi preparati | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 | Slot 6 | Slot 7 | Slot 8 | Slot 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Incantesimi, Ordine divino | - | 3 | 4 | 2 | - | - | - | - | - | - | - | - |
+| 2 | +2 | Incanalare divinita | 2 | 3 | 5 | 3 | - | - | - | - | - | - | - | - |
+| 3 | +2 | Sottoclasse del chierico | 2 | 3 | 6 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 2 | 4 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | +3 | Bruciare i non morti | 2 | 4 | 9 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | +3 | Privilegio della sottoclasse | 3 | 4 | 10 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | +3 | Colpi benedetti | 3 | 4 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 3 | 4 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | +4 | - | 3 | 4 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | +4 | Intervento divino | 3 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | +4 | - | 3 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 3 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | +5 | - | 3 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | +5 | Colpi benedetti migliorati | 3 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | +5 | - | 3 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 3 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | +6 | Privilegio della sottoclasse | 3 | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | - | 4 | 5 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Dono epico | 4 | 5 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Intervento divino superiore | 4 | 5 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Privilegi chiave
 
@@ -870,11 +1119,142 @@ Il chierico e un incantatore divino basato su Saggezza, capace di guarire, prote
 | Incanalare divinita | Alimenta Scintilla divina, Scacciare non morti e opzioni di sottoclasse. |
 | Intervento divino | Richiama aiuto divino ai livelli alti. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da chierico
 
-| Voce | Riepilogo |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| Trucchetto | Fiamma sacra | Invocazione | - |
+| Trucchetto | Guida | Divinazione | C |
+| Trucchetto | Luce | Invocazione | M |
+| Trucchetto | Resistenza | Abiurazione | C |
+| Trucchetto | Riparare | Trasmutazione | M |
+| Trucchetto | Salvare i morenti | Necromanzia | - |
+| Trucchetto | Taumaturgia | Trasmutazione | - |
+| 1 | Anatema | Ammaliamento | C, M |
+| 1 | Benedizione | Ammaliamento | C, M |
+| 1 | Comando | Ammaliamento | - |
+| 1 | Creare o distruggere acqua | Trasmutazione | M |
+| 1 | Cura ferite | Abiurazione | - |
+| 1 | Dardo tracciante | Invocazione | - |
+| 1 | Individuazione del bene e del male | Divinazione | C |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Individuazione delle malattie e dei veleni | Divinazione | C, R, M |
+| 1 | Infliggi ferite | Necromanzia | - |
+| 1 | Parola guaritrice | Abiurazione | - |
+| 1 | Protezione dal bene e dal male | Abiurazione | C, M |
+| 1 | Purificare cibo e bevande | Trasmutazione | R |
+| 1 | Santuario | Abiurazione | M |
+| 1 | Scudo della fede | Abiurazione | C, M |
+| 2 | Aiuto | Abiurazione | M |
+| 2 | Arma spirituale | Invocazione | C |
+| 2 | Blocca persone | Ammaliamento | C, M |
+| 2 | Calmare emozioni | Ammaliamento | C |
+| 2 | Caratteristica potenziata | Trasmutazione | C, M |
+| 2 | Cecità/sordità | Trasmutazione | - |
+| 2 | Fiamma perenne | Invocazione | M |
+| 2 | Localizza oggetto | Divinazione | C, M |
+| 2 | Preghiera di guarigione | Abiurazione | - |
+| 2 | Presagio | Divinazione | R, M |
+| 2 | Protezione dai veleni | Abiurazione | - |
+| 2 | Riposo inviolato | Necromanzia | R, M |
+| 2 | Ristorare inferiore | Abiurazione | - |
+| 2 | Scopri trappole | Divinazione | - |
+| 2 | Silenzio | Illusione | C, R |
+| 2 | Vincolo di interdizione | Abiurazione | M |
+| 2 | Zona di verità | Ammaliamento | - |
+| 3 | Animare morti | Necromanzia | M |
+| 3 | Camminare sull'acqua | Trasmutazione | R, M |
+| 3 | Cerchio magico | Abiurazione | M |
+| 3 | Chiaroveggenza | Divinazione | C, M |
+| 3 | Creare cibo e acqua | Evocazione | - |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Faro di speranza | Abiurazione | C |
+| 3 | Fondersi nella pietra | Trasmutazione | R |
+| 3 | Glifo di interdizione | Abiurazione | M |
+| 3 | Guardiani spirituali | Evocazione | C, M |
+| 3 | Inviare | Divinazione | M |
+| 3 | Linguaggi | Divinazione | M |
+| 3 | Luce diurna | Invocazione | - |
+| 3 | Parlare con i morti | Necromanzia | M |
+| 3 | Parola guaritrice di massa | Abiurazione | - |
+| 3 | Protezione dall'energia | Abiurazione | C |
+| 3 | Rimuovi maledizione | Abiurazione | - |
+| 3 | Rinascita | Necromanzia | M |
+| 3 | Scagliare maledizione | Necromanzia | C |
+| 4 | Aura di vita | Abiurazione | C |
+| 4 | Controllare acqua | Trasmutazione | C, M |
+| 4 | Divinazione | Divinazione | R, M |
+| 4 | Esilio | Abiurazione | C, M |
+| 4 | Guardiano della fede | Evocazione | - |
+| 4 | Interdizione alla morte | Abiurazione | - |
+| 4 | Libertà di movimento | Abiurazione | M |
+| 4 | Localizza creatura | Divinazione | C, M |
+| 4 | Scolpire pietra | Trasmutazione | M |
+| 5 | Colpo infuocato | Invocazione | M |
+| 5 | Comunione | Divinazione | R, M |
+| 5 | Conoscenza delle leggende | Divinazione | M |
+| 5 | Contagio | Necromanzia | - |
+| 5 | Costrizione | Ammaliamento | - |
+| 5 | Cura ferite di massa | Abiurazione | - |
+| 5 | Dissolvi il bene e il male | Abiurazione | C, M |
+| 5 | Legame planare | Abiurazione | M |
+| 5 | Piaga degli insetti | Evocazione | C, M |
+| 5 | Rianimare morti | Necromanzia | M |
+| 5 | Ristorare superiore | Abiurazione | M |
+| 5 | Santificare | Abiurazione | M |
+| 5 | Scrutare | Divinazione | C, M |
+| 6 | Alleato planare | Evocazione | - |
+| 6 | Bagliore solare | Invocazione | C, M |
+| 6 | Banchetto degli eroi | Evocazione | M |
+| 6 | Barriera di lame | Invocazione | C |
+| 6 | Creare non morti | Necromanzia | M |
+| 6 | Ferire | Necromanzia | - |
+| 6 | Guarigione | Abiurazione | - |
+| 6 | Parola del ritiro | Evocazione | - |
+| 6 | Proibizione | Abiurazione | R, M |
+| 6 | Scopri il percorso | Divinazione | C, M |
+| 6 | Visione del vero | Divinazione | M |
+| 7 | Evoca celestiale | Evocazione | C |
+| 7 | Forma eterea | Evocazione | - |
+| 7 | Parola divina | Invocazione | - |
+| 7 | Resurrezione | Necromanzia | M |
+| 7 | Rigenerazione | Trasmutazione | M |
+| 7 | Simbolo | Abiurazione | M |
+| 7 | Spostamento planare | Evocazione | M |
+| 7 | Tempesta di fuoco | Invocazione | - |
+| 8 | Aura sacra | Abiurazione | C, M |
+| 8 | Campo anti-magia | Abiurazione | C, M |
+| 8 | Controllare tempo atmosferico | Trasmutazione | C, M |
+| 8 | Esplosione solare | Invocazione | M |
+| 8 | Terremoto | Trasmutazione | C, M |
+| 9 | Guarigione di massa | Abiurazione | - |
+| 9 | Parola del potere guarire | Ammaliamento | - |
+| 9 | Portale | Evocazione | C, M |
+| 9 | Proiezione astrale | Necromanzia | M |
+| 9 | Resurrezione pura | Necromanzia | M |
+
+### Sottoclasse del chierico: Dominio della Vita
+
+Allevia le ferite del mondo
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Discepolo della vita | Gli incantesimi con slot che curano ripristinano PF aggiuntivi pari a 2 + livello dello slot. |
+| 3 | Incantesimi del Dominio della Vita | Gli incantesimi della tabella sono sempre preparati. |
+| 3 | Preservare vita | Spende Incanalare divinita per distribuire cure pari a cinque volte il livello da chierico. |
+| 6 | Guaritore benedetto | Quando cura altri con uno slot, cura anche se stesso di 2 + livello dello slot. |
+| 17 | Guarigione suprema | Usa il risultato massimo dei dadi quando cura con incantesimi o Incanalare divinita. |
+
+### Incantesimi del Dominio della Vita
+
+| Livello da chierico | Incantesimi preparati |
 | --- | --- |
-| Dominio della Vita | Guarigione migliorata, preservare vita e guarigione suprema. |
+| 3 | Aiuto, benedizione, cura ferite, ristorare inferiore |
+| 5 | Parola guaritrice di massa, rinascita |
+| 7 | Aura di vita, interdizione alla morte |
+| 9 | Ristorare superiore, cura ferite di massa |
 
 ---
 
@@ -902,36 +1282,36 @@ Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e 
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Druidico, Incantesimi e Ordine primordiale; Forma selvatica -; trucchetti 2; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/- |
-| 2 | BC +2; Compagno selvatico, Forma selvatica; Forma selvatica 2; trucchetti 2; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/- |
-| 3 | BC +2; Sottoclasse del druido; Forma selvatica 2; trucchetti 2; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/- |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; Forma selvatica 2; trucchetti 3; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/- |
-| 5 | BC +3; Rinascita selvatica; Forma selvatica 2; trucchetti 3; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/- |
-| 6 | BC +3; Privilegio della sottoclasse; Forma selvatica 3; trucchetti 3; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/- |
-| 7 | BC +3; Furia elementale; Forma selvatica 3; trucchetti 3; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/- |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; Forma selvatica 3; trucchetti 3; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/- |
-| 9 | BC +4; -; Forma selvatica 3; trucchetti 3; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/- |
-| 10 | BC +4; Privilegio della sottoclasse; Forma selvatica 3; trucchetti 4; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/- |
-| 11 | BC +4; -; Forma selvatica 3; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; Forma selvatica 3; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 13 | BC +5; -; Forma selvatica 3; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 14 | BC +5; Privilegio della sottoclasse; Forma selvatica 3; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 15 | BC +5; Furia elementale migliorata; Forma selvatica 3; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; Forma selvatica 3; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 17 | BC +6; -; Forma selvatica 4; trucchetti 4; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1 |
-| 18 | BC +6; Incantesimi bestiali; Forma selvatica 4; trucchetti 4; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1 |
-| 19 | BC +6; Dono epico; Forma selvatica 4; trucchetti 4; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1 |
-| 20 | BC +6; Arcidruido; Forma selvatica 4; trucchetti 4; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1 |
+| Livello | Bonus di competenza | Privilegi di classe | Forma selvatica | Trucchetti | Incantesimi preparati | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 | Slot 6 | Slot 7 | Slot 8 | Slot 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Druidico, Incantesimi e Ordine primordiale | - | 2 | 4 | 2 | - | - | - | - | - | - | - | - |
+| 2 | +2 | Compagno selvatico, Forma selvatica | 2 | 2 | 5 | 3 | - | - | - | - | - | - | - | - |
+| 3 | +2 | Sottoclasse del druido | 2 | 2 | 6 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 2 | 3 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | +3 | Rinascita selvatica | 2 | 3 | 9 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | +3 | Privilegio della sottoclasse | 3 | 3 | 10 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | +3 | Furia elementale | 3 | 3 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 3 | 3 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | +4 | - | 3 | 3 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | +4 | Privilegio della sottoclasse | 3 | 4 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | +4 | - | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 3 | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | +5 | - | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | +5 | Privilegio della sottoclasse | 3 | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | +5 | Furia elementale migliorata | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 3 | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | +6 | - | 4 | 4 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Incantesimi bestiali | 4 | 4 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Dono epico | 4 | 4 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Arcidruido | 4 | 4 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Forme bestiali
 
-| Voce | Riepilogo |
-| --- | --- |
-| 2 | Forme conosciute 4; GS max 1/4; velocita di volo No |
-| 4 | Forme conosciute 6; GS max 1/2; velocita di volo No |
-| 8 | Forme conosciute 8; GS max 1; velocita di volo Si |
+| Livello da druido | Forme conosciute | GS max | Velocità di volo |
+| --- | --- | --- | --- |
+| 2 | 4 | 1/4 | No |
+| 4 | 6 | 1/2 | No |
+| 8 | 8 | 1 | Si |
 
 ### Privilegi chiave
 
@@ -942,11 +1322,166 @@ Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e 
 | Compagno selvatico | Opzione legata a Forma selvatica per richiamare aiuti naturali. |
 | Corpo senza tempo | La magia primordiale rallenta l'invecchiamento. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da druido
 
-| Voce | Riepilogo |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| Trucchetto | Artificio druidico | Trasmutazione | - |
+| Trucchetto | Elementalismo | Trasmutazione | - |
+| Trucchetto | Guida | Divinazione | C |
+| Trucchetto | Luce splendente | Invocazione | - |
+| Trucchetto | Messaggio | Trasmutazione | M |
+| Trucchetto | Produrre fiamma | Evocazione | - |
+| Trucchetto | Randello incantato | Trasmutazione | M |
+| Trucchetto | Resistenza | Abiurazione | C |
+| Trucchetto | Riparare | Trasmutazione | M |
+| Trucchetto | Salvare i morenti | Necromanzia | - |
+| Trucchetto | Spruzzo velenoso | Necromanzia | - |
+| 1 | Amicizia con gli animali | Ammaliamento | M |
+| 1 | Bacche benefiche | Evocazione | M |
+| 1 | Charme su persone | Ammaliamento | - |
+| 1 | Coltello di ghiaccio | Evocazione | M |
+| 1 | Creare o distruggere acqua | Trasmutazione | M |
+| 1 | Cura ferite | Abiurazione | - |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Individuazione delle malattie e dei veleni | Divinazione | C, R, M |
+| 1 | Intralciare | Evocazione | C |
+| 1 | Luminescenza | Invocazione | C |
+| 1 | Nube di nebbia | Evocazione | C |
+| 1 | Onda tonante | Invocazione | - |
+| 1 | Parlare con gli animali | Divinazione | R |
+| 1 | Parola guaritrice | Abiurazione | - |
+| 1 | Passo veloce | Trasmutazione | M |
+| 1 | Protezione dal bene e dal male | Abiurazione | C, M |
+| 1 | Purificare cibo e bevande | Trasmutazione | R |
+| 1 | Salto | Trasmutazione | M |
+| 2 | Aiuto | Abiurazione | M |
+| 2 | Animale messaggero | Ammaliamento | R, M |
+| 2 | Bagliore lunare | Invocazione | C, M |
+| 2 | Blocca persone | Ammaliamento | C, M |
+| 2 | Caratteristica potenziata | Trasmutazione | C, M |
+| 2 | Crescita di spine | Trasmutazione | C, M |
+| 2 | Fiamma perenne | Invocazione | M |
+| 2 | Folata di vento | Invocazione | C, M |
+| 2 | Ingrandire/ridurre | Trasmutazione | C, M |
+| 2 | Lama infuocata | Invocazione | C, M |
+| 2 | Localizza animali o vegetali | Divinazione | R, M |
+| 2 | Localizza oggetto | Divinazione | C, M |
+| 2 | Passare senza tracce | Abiurazione | C, M |
+| 2 | Pelle coriacea | Trasmutazione | M |
+| 2 | Presagio | Divinazione | R, M |
+| 2 | Protezione dai veleni | Abiurazione | - |
+| 2 | Riscaldare il metallo | Trasmutazione | C, M |
+| 2 | Ristorare inferiore | Abiurazione | - |
+| 2 | Scopri trappole | Divinazione | - |
+| 2 | Scurovisione | Trasmutazione | M |
+| 2 | Sfera infuocata | Evocazione | C, M |
+| 3 | Camminare sull'acqua | Trasmutazione | R, M |
+| 3 | Crescita vegetale | Trasmutazione | - |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Evoca animali | Evocazione | C |
+| 3 | Fondersi nella pietra | Trasmutazione | R |
+| 3 | Invocare il fulmine | Evocazione | C |
+| 3 | Luce diurna | Invocazione | - |
+| 3 | Muro di vento | Invocazione | C, M |
+| 3 | Parlare con i vegetali | Trasmutazione | - |
+| 3 | Protezione dall'energia | Abiurazione | C |
+| 3 | Respirare sott'acqua | Trasmutazione | R, M |
+| 3 | Rinascita | Necromanzia | M |
+| 3 | Tempesta di nevischio | Evocazione | C, M |
+| 4 | Charme sui mostri | Ammaliamento | - |
+| 4 | Confusione | Ammaliamento | C, M |
+| 4 | Controllare acqua | Trasmutazione | C, M |
+| 4 | Divinazione | Divinazione | R, M |
+| 4 | Dominare bestie | Ammaliamento | C |
+| 4 | Evoca creature boschive | Evocazione | C |
+| 4 | Evoca elementali minori | Evocazione | C |
+| 4 | Inaridire | Necromanzia | - |
+| 4 | Insetto gigante | Evocazione | C |
+| 4 | Libertà di movimento | Abiurazione | M |
+| 4 | Localizza creatura | Divinazione | C, M |
+| 4 | Metamorfosi | Trasmutazione | C, M |
+| 4 | Muro di fuoco | Invocazione | C, M |
+| 4 | Pelle di pietra | Trasmutazione | C, M |
+| 4 | Scolpire pietra | Trasmutazione | M |
+| 4 | Scudo di fuoco | Invocazione | M |
+| 4 | Tempesta di ghiaccio | Invocazione | M |
+| 4 | Terreno illusorio | Illusione | M |
+| 5 | Comunione con la natura | Divinazione | R |
+| 5 | Cono di freddo | Invocazione | M |
+| 5 | Contagio | Necromanzia | - |
+| 5 | Costrizione | Ammaliamento | - |
+| 5 | Cura ferite di massa | Abiurazione | - |
+| 5 | Evoca elementale | Evocazione | C |
+| 5 | Guscio anti-vita | Abiurazione | C |
+| 5 | Legame planare | Abiurazione | M |
+| 5 | Muro di pietra | Invocazione | C, M |
+| 5 | Piaga degli insetti | Evocazione | C, M |
+| 5 | Reincarnazione | Necromanzia | M |
+| 5 | Ristorare superiore | Abiurazione | M |
+| 5 | Risveglio | Trasmutazione | M |
+| 5 | Scrutare | Divinazione | C, M |
+| 5 | Traslazione arborea | Evocazione | C |
+| 6 | Bagliore solare | Invocazione | C, M |
+| 6 | Banchetto degli eroi | Evocazione | M |
+| 6 | Camminare nel vento | Trasmutazione | M |
+| 6 | Carne in pietra | Trasmutazione | C, M |
+| 6 | Evoca folletto | Evocazione | C |
+| 6 | Guarigione | Abiurazione | - |
+| 6 | Muovere il terreno | Trasmutazione | C, M |
+| 6 | Muro di spine | Evocazione | C, M |
+| 6 | Scopri il percorso | Divinazione | C, M |
+| 6 | Trasporto vegetale | Evocazione | - |
+| 7 | Inversione della gravità | Trasmutazione | C, M |
+| 7 | Miraggio arcano | Illusione | - |
+| 7 | Rigenerazione | Trasmutazione | M |
+| 7 | Simbolo | Abiurazione | M |
+| 7 | Spostamento planare | Evocazione | M |
+| 7 | Tempesta di fuoco | Invocazione | - |
+| 8 | Antipatia/simpatia | Ammaliamento | M |
+| 8 | Controllare tempo atmosferico | Trasmutazione | C, M |
+| 8 | Disorientare | Ammaliamento | M |
+| 8 | Esplosione solare | Invocazione | M |
+| 8 | Forme animali | Trasmutazione | - |
+| 8 | Nube incendiaria | Evocazione | C |
+| 8 | Terremoto | Trasmutazione | C, M |
+| 8 | Tsunami | Evocazione | C |
+| 9 | Previsione | Divinazione | M |
+| 9 | Resurrezione pura | Necromanzia | M |
+| 9 | Tempesta di vendetta | Evocazione | C |
+| 9 | Trasformazione | Trasmutazione | C, M |
+
+### Sottoclasse del druido: Circolo della Terra
+
+Celebra la connessione con il mondo naturale
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Incantesimi del Circolo della Terra | Dopo un riposo lungo sceglie una terra; gli incantesimi corrispondenti sono sempre preparati. |
+| 3 | Ausilio dalla terra | Spende Forma selvatica per danni necrotici e cura in una sfera; scala a 10º e 14º livello. |
+| 6 | Recupero naturale | Lancia gratis un incantesimo del Circolo e recupera slot durante un riposo breve. |
+| 10 | Interdizione della Natura | Immunita ad avvelenato e resistenza in base alla terra scelta. |
+| 14 | Rifugio della Natura | Spende Forma selvatica per creare un area che concede mezza copertura e la resistenza agli alleati. |
+
+### Incantesimi del Circolo della Terra
+
+| Terra | Livello 3 | Livello 5 | Livello 7 | Livello 9 |
+| --- | --- | --- | --- | --- |
+| Arida | Dardo di fuoco, mani brucianti, sfocatura | Palla di fuoco | Inaridire | Muro di pietra |
+| Polare | Blocca persone, nube di nebbia, raggio di gelo | Tempesta di nevischio | Tempesta di ghiaccio | Cono di freddo |
+| Temperata | Passo velato, sonno, stretta folgorante | Fulmine | Liberta di movimento | Traslazione arborea |
+| Tropicale | Fiotto acido, raggio di infermita, ragnatela | Nube maleodorante | Metamorfosi | Piaga degli insetti |
+
+### Interdizione della Natura
+
+| Tipo di terra | Resistenza |
 | --- | --- |
-| Circolo della Terra | Incantesimi del Circolo legati a terre aride, polari, temperate o tropicali. |
+| Arida | Fuoco |
+| Polare | Freddo |
+| Temperata | Fulmine |
+| Tropicale | Veleno |
 
 ---
 
@@ -973,28 +1508,28 @@ Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza 
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Padronanza d'armi, Recuperare energie, Stile di combattimento; recuperare energie 2; padronanze 3 |
-| 2 | BC +2; Azione impetuosa (un utilizzo), Mente tattica; recuperare 2; padronanze 3 |
-| 3 | BC +2; Sottoclasse del guerriero; recuperare 2; padronanze 3 |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; recuperare 3; padronanze 4 |
-| 5 | BC +3; Attacco extra, Spostamento tattico; recuperare 3; padronanze 4 |
-| 6 | BC +3; Aumento dei punteggi di caratteristica; recuperare 3; padronanze 4 |
-| 7 | BC +3; Privilegio della sottoclasse; recuperare 3; padronanze 4 |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; recuperare 3; padronanze 4 |
-| 9 | BC +4; Indomabile (un utilizzo), Signore delle tattiche; recuperare 3; padronanze 4 |
-| 10 | BC +4; Privilegio della sottoclasse; recuperare 4; padronanze 5 |
-| 11 | BC +4; Due attacchi extra; recuperare 4; padronanze 5 |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; recuperare 4; padronanze 5 |
-| 13 | BC +5; Attacchi studiati, Indomabile (due utilizzi); recuperare 4; padronanze 5 |
-| 14 | BC +5; Aumento dei punteggi di caratteristica; recuperare 4; padronanze 5 |
-| 15 | BC +5; Privilegio della sottoclasse; recuperare 4; padronanze 5 |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; recuperare 4; padronanze 6 |
-| 17 | BC +6; Azione impetuosa (due utilizzi), Indomabile (tre utilizzi); recuperare 4; padronanze 6 |
-| 18 | BC +6; Privilegio della sottoclasse; recuperare 4; padronanze 6 |
-| 19 | BC +6; Dono epico; recuperare 4; padronanze 6 |
-| 20 | BC +6; Tre attacchi extra; recuperare 4; padronanze 6 |
+| Livello | Bonus di competenza | Privilegi di classe | Recuperare energie | Padronanza d'armi |
+| --- | --- | --- | --- | --- |
+| 1 | +2 | Padronanza d'armi, Recuperare energie, Stile di combattimento | 2 | 3 |
+| 2 | +2 | Azione impetuosa (un utilizzo), Mente tattica | 2 | 3 |
+| 3 | +2 | Sottoclasse del guerriero | 2 | 3 |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 3 | 4 |
+| 5 | +3 | Attacco extra, Spostamento tattico | 3 | 4 |
+| 6 | +3 | Aumento dei punteggi di caratteristica | 3 | 4 |
+| 7 | +3 | Privilegio della sottoclasse | 3 | 4 |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 3 | 4 |
+| 9 | +4 | Indomabile (un utilizzo), Signore delle tattiche | 3 | 4 |
+| 10 | +4 | Privilegio della sottoclasse | 4 | 5 |
+| 11 | +4 | Due attacchi extra | 4 | 5 |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 4 | 5 |
+| 13 | +5 | Attacchi studiati, Indomabile (due utilizzi) | 4 | 5 |
+| 14 | +5 | Aumento dei punteggi di caratteristica | 4 | 5 |
+| 15 | +5 | Privilegio della sottoclasse | 4 | 5 |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 4 | 6 |
+| 17 | +6 | Azione impetuosa (due utilizzi), Indomabile (tre utilizzi) | 4 | 6 |
+| 18 | +6 | Privilegio della sottoclasse | 4 | 6 |
+| 19 | +6 | Dono epico | 4 | 6 |
+| 20 | +6 | Tre attacchi extra | 4 | 6 |
 
 ### Privilegi chiave
 
@@ -1005,11 +1540,18 @@ Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza 
 | Azione impetuosa | Ottiene un'azione aggiuntiva in momenti decisivi. |
 | Attacco extra | Aumenta il numero di attacchi con l'azione di Attacco. |
 
-### Sottoclasse SRD
+### Sottoclasse del guerriero: Campione
 
-| Voce | Riepilogo |
-| --- | --- |
-| Campione | Critico migliorato/superiore, atleta straordinario e sopravvissuto. |
+Raggiungi l eccellenza fisica nel combattimento
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Critico migliorato | Colpo critico con armi e colpi senz armi su 19-20. |
+| 3 | Atleta straordinario | Vantaggio a iniziativa e Atletica; dopo un critico puo muoversi senza provocare opportunita. |
+| 7 | Stile di combattimento aggiuntivo | Ottiene un altro talento Stile di combattimento. |
+| 10 | Guerriero eroico | In combattimento ottiene Ispirazione eroica se inizia il turno senza averla. |
+| 15 | Critico superiore | Colpo critico con armi e colpi senz armi su 18-20. |
+| 18 | Sopravvissuto | Vantaggio ai TS morte e recupero PF a inizio turno se sanguinante. |
 
 ---
 
@@ -1037,28 +1579,28 @@ Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto 
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Maestria, Attacco furtivo, Gergo ladresco, Padronanza d'armi; Attacco furtivo 1d6 |
-| 2 | BC +2; Azione scaltra; Attacco furtivo 1d6 |
-| 3 | BC +2; Sottoclasse del ladro, Mira ferma; Attacco furtivo 2d6 |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; Attacco furtivo 2d6 |
-| 5 | BC +3; Colpo astuto, Schivata prodigiosa; Attacco furtivo 3d6 |
-| 6 | BC +3; Maestria; Attacco furtivo 3d6 |
-| 7 | BC +3; Elusione, Dote affidabile; Attacco furtivo 4d6 |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; Attacco furtivo 4d6 |
-| 9 | BC +4; Privilegio della sottoclasse; Attacco furtivo 5d6 |
-| 10 | BC +4; Aumento dei punteggi di caratteristica; Attacco furtivo 5d6 |
-| 11 | BC +4; Colpo astuto migliorato; Attacco furtivo 6d6 |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; Attacco furtivo 6d6 |
-| 13 | BC +5; Privilegio della sottoclasse; Attacco furtivo 7d6 |
-| 14 | BC +5; Colpi infidi; Attacco furtivo 7d6 |
-| 15 | BC +5; Mente sfuggente; Attacco furtivo 8d6 |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; Attacco furtivo 8d6 |
-| 17 | BC +6; Privilegio della sottoclasse; Attacco furtivo 9d6 |
-| 18 | BC +6; Inafferrabile; Attacco furtivo 9d6 |
-| 19 | BC +6; Dono epico; Attacco furtivo 10d6 |
-| 20 | BC +6; Pietra della buona fortuna; Attacco furtivo 10d6 |
+| Livello | Bonus di competenza | Privilegi di classe | Attacco furtivo |
+| --- | --- | --- | --- |
+| 1 | +2 | Maestria, Attacco furtivo, Gergo ladresco, Padronanza d'armi | 1d6 |
+| 2 | +2 | Azione scaltra | 1d6 |
+| 3 | +2 | Sottoclasse del ladro, Mira ferma | 2d6 |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 2d6 |
+| 5 | +3 | Colpo astuto, Schivata prodigiosa | 3d6 |
+| 6 | +3 | Maestria | 3d6 |
+| 7 | +3 | Elusione, Dote affidabile | 4d6 |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 4d6 |
+| 9 | +4 | Privilegio della sottoclasse | 5d6 |
+| 10 | +4 | Aumento dei punteggi di caratteristica | 5d6 |
+| 11 | +4 | Colpo astuto migliorato | 6d6 |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 6d6 |
+| 13 | +5 | Privilegio della sottoclasse | 7d6 |
+| 14 | +5 | Colpi infidi | 7d6 |
+| 15 | +5 | Mente sfuggente | 8d6 |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 8d6 |
+| 17 | +6 | Privilegio della sottoclasse | 9d6 |
+| 18 | +6 | Inafferrabile | 9d6 |
+| 19 | +6 | Dono epico | 10d6 |
+| 20 | +6 | Pietra della buona fortuna | 10d6 |
 
 ### Privilegi chiave
 
@@ -1069,11 +1611,17 @@ Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto 
 | Azione scaltra | Usa Disimpegno, Nascondersi o Scatto come azione bonus. |
 | Colpo astuto | Spende dadi di Attacco furtivo per aggiungere effetti tattici. |
 
-### Sottoclasse SRD
+### Sottoclasse del ladro: Furfante
 
-| Voce | Riepilogo |
-| --- | --- |
-| Furfante | Mani veloci, lavoro al secondo piano e uso migliorato degli oggetti magici. |
+Vai a caccia di tesori nei panni di un autentico avventuriero
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Mani veloci | Come azione bonus usa Rapidita di mano o Utilizzo/Magia per oggetti magici compatibili. |
+| 3 | Lavoro al secondo piano | Ottiene velocita di scalata e usa Destrezza per determinare le distanze di salto. |
+| 9 | Furtivita suprema | Ottiene Attacco nascosto come opzione di Colpo astuto. |
+| 13 | Usare oggetto magico | Migliora cariche, pergamene e limite di sintonia degli oggetti magici. |
+| 17 | Riflessi da furfante | Effettua due turni nel primo round di ogni combattimento. |
 
 ---
 
@@ -1100,28 +1648,28 @@ Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi 
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Incantesimi, Adepto dei rituali, Recupero arcano; trucchetti 3; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/- |
-| 2 | BC +2; Studioso; trucchetti 3; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/- |
-| 3 | BC +2; Sottoclasse del mago; trucchetti 3; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/- |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; trucchetti 4; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/- |
-| 5 | BC +3; Memorizzare incantesimi; trucchetti 4; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/- |
-| 6 | BC +3; Privilegio della sottoclasse; trucchetti 4; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/- |
-| 7 | BC +3; -; trucchetti 4; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/- |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; trucchetti 4; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/- |
-| 9 | BC +4; -; trucchetti 4; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/- |
-| 10 | BC +4; Privilegio della sottoclasse; trucchetti 5; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/- |
-| 11 | BC +4; -; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 13 | BC +5; -; trucchetti 5; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 14 | BC +5; Privilegio della sottoclasse; trucchetti 5; preparati 18; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 15 | BC +5; -; trucchetti 5; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; trucchetti 5; preparati 21; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 17 | BC +6; -; trucchetti 5; preparati 22; slot 1-9: 4/3/3/3/2/1/1/1/1 |
-| 18 | BC +6; Maestria negli incantesimi; trucchetti 5; preparati 23; slot 1-9: 4/3/3/3/3/1/1/1/1 |
-| 19 | BC +6; Dono epico; trucchetti 5; preparati 24; slot 1-9: 4/3/3/3/3/2/1/1/1 |
-| 20 | BC +6; Incantesimi personali; trucchetti 5; preparati 25; slot 1-9: 4/3/3/3/3/2/2/1/1 |
+| Livello | Bonus di competenza | Privilegi di classe | Trucchetti | Incantesimi preparati | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 | Slot 6 | Slot 7 | Slot 8 | Slot 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Incantesimi, Adepto dei rituali, Recupero arcano | 3 | 4 | 2 | - | - | - | - | - | - | - | - |
+| 2 | +2 | Studioso | 3 | 5 | 3 | - | - | - | - | - | - | - | - |
+| 3 | +2 | Sottoclasse del mago | 3 | 6 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 4 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | +3 | Memorizzare incantesimi | 4 | 9 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | +3 | Privilegio della sottoclasse | 4 | 10 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | +3 | - | 4 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 4 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | +4 | - | 4 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | +4 | Privilegio della sottoclasse | 5 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | +4 | - | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | +5 | - | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | +5 | Privilegio della sottoclasse | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | +5 | - | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 5 | 21 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | +6 | - | 5 | 22 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Maestria negli incantesimi | 5 | 23 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Dono epico | 5 | 24 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Incantesimi personali | 5 | 25 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Privilegi chiave
 
@@ -1132,11 +1680,241 @@ Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi 
 | Libro degli incantesimi | Puo ampliare e sostituire il libro copiando incantesimi trovati. |
 | Padronanza degli incantesimi | Ai livelli alti rende alcune magie sempre accessibili. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da mago
 
-| Voce | Riepilogo |
-| --- | --- |
-| Invocatore | Invocazioni sicure, invocazione potente e saturazione magica. |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| Trucchetto | Colpo accurato | Divinazione | M |
+| Trucchetto | Dardo di fuoco | Invocazione | - |
+| Trucchetto | Elementalismo | Trasmutazione | - |
+| Trucchetto | Fiotto acido | Invocazione | - |
+| Trucchetto | Illusione minore | Illusione | M |
+| Trucchetto | Luce | Invocazione | M |
+| Trucchetto | Luci danzanti | Illusione | C, M |
+| Trucchetto | Mano magica | Evocazione | - |
+| Trucchetto | Messaggio | Trasmutazione | M |
+| Trucchetto | Prestidigitazione | Trasmutazione | - |
+| Trucchetto | Raggio di gelo | Invocazione | - |
+| Trucchetto | Riparare | Trasmutazione | M |
+| Trucchetto | Spruzzo velenoso | Necromanzia | - |
+| Trucchetto | Stretta folgorante | Invocazione | - |
+| Trucchetto | Tocco gelido | Necromanzia | - |
+| 1 | Allarme | Abiurazione | R, M |
+| 1 | Armatura magica | Abiurazione | M |
+| 1 | Caduta morbida | Trasmutazione | M |
+| 1 | Camuffare se stesso | Illusione | - |
+| 1 | Charme su persone | Ammaliamento | - |
+| 1 | Coltello di ghiaccio | Evocazione | M |
+| 1 | Comprensione dei linguaggi | Divinazione | R, M |
+| 1 | Dardo incantato | Invocazione | - |
+| 1 | Disco fluttuante | Evocazione | R, M |
+| 1 | Globo cromatico | Invocazione | M |
+| 1 | Identificare | Divinazione | R, M |
+| 1 | Immagine silenziosa | Illusione | C, M |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Mani brucianti | Invocazione | - |
+| 1 | Nube di nebbia | Evocazione | C |
+| 1 | Onda tonante | Invocazione | - |
+| 1 | Passo veloce | Trasmutazione | M |
+| 1 | Protezione dal bene e dal male | Abiurazione | C, M |
+| 1 | Raggio di infermità | Necromanzia | - |
+| 1 | Risata incontenibile | Ammaliamento | C, M |
+| 1 | Ritirata rapida | Trasmutazione | C |
+| 1 | Salto | Trasmutazione | M |
+| 1 | Scritto illusorio | Illusione | R, M |
+| 1 | Scudo | Abiurazione | - |
+| 1 | Servitore inosservato | Evocazione | R, M |
+| 1 | Sonno | Ammaliamento | C, M |
+| 1 | Spruzzo colorato | Illusione | M |
+| 1 | Trova famiglio | Evocazione | R, M |
+| 1 | Unto | Evocazione | M |
+| 1 | Vita falsata | Necromanzia | M |
+| 2 | Aculeo mentale | Divinazione | C |
+| 2 | Allucinazione di forza | Illusione | C, M |
+| 2 | Alterare se stesso | Trasmutazione | C |
+| 2 | Arma magica | Trasmutazione | - |
+| 2 | Aura magica dell'arcanista | Illusione | M |
+| 2 | Blocca persone | Ammaliamento | C, M |
+| 2 | Bocca magica | Illusione | R, M |
+| 2 | Caratteristica potenziata | Trasmutazione | C, M |
+| 2 | Cecità/sordità | Trasmutazione | - |
+| 2 | Fiamma perenne | Invocazione | M |
+| 2 | Folata di vento | Invocazione | C, M |
+| 2 | Frantumare | Invocazione | M |
+| 2 | Freccia acida | Invocazione | M |
+| 2 | Immagine speculare | Illusione | - |
+| 2 | Individuazione dei pensieri | Divinazione | C, M |
+| 2 | Ingrandire/ridurre | Trasmutazione | C, M |
+| 2 | Invisibilità | Illusione | C, M |
+| 2 | Levitazione | Trasmutazione | C, M |
+| 2 | Localizza oggetto | Divinazione | C, M |
+| 2 | Movimenti del ragno | Trasmutazione | C, M |
+| 2 | Oscurità | Invocazione | C, M |
+| 2 | Passo velato | Evocazione | - |
+| 2 | Presagio | Divinazione | R, M |
+| 2 | Raggio di affaticamento | Necromanzia | C |
+| 2 | Raggio rovente | Invocazione | - |
+| 2 | Ragnatela | Evocazione | C, M |
+| 2 | Riposo inviolato | Necromanzia | R, M |
+| 2 | Scassinare | Trasmutazione | - |
+| 2 | Scurovisione | Trasmutazione | M |
+| 2 | Serratura arcana | Abiurazione | M |
+| 2 | Sfera infuocata | Evocazione | C, M |
+| 2 | Sfocatura | Illusione | C |
+| 2 | Soffio del drago | Trasmutazione | C, M |
+| 2 | Suggestione | Ammaliamento | C, M |
+| 2 | Trucco della corda | Trasmutazione | M |
+| 2 | Vedere invisibilità | Divinazione | M |
+| 3 | Animare morti | Necromanzia | M |
+| 3 | Anti-individuazione | Abiurazione | M |
+| 3 | Capanna | Invocazione | R, M |
+| 3 | Cerchio magico | Abiurazione | M |
+| 3 | Chiaroveggenza | Divinazione | C, M |
+| 3 | Controincantesimo | Abiurazione | - |
+| 3 | Destriero fantomatico | Illusione | R |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Forma gassosa | Trasmutazione | C, M |
+| 3 | Fulmine | Invocazione | M |
+| 3 | Glifo di interdizione | Abiurazione | M |
+| 3 | Immagine maggiore | Illusione | C, M |
+| 3 | Intermittenza | Trasmutazione | - |
+| 3 | Inviare | Divinazione | M |
+| 3 | Lentezza | Trasmutazione | C, M |
+| 3 | Linguaggi | Divinazione | M |
+| 3 | Nube maleodorante | Evocazione | C, M |
+| 3 | Palla di fuoco | Invocazione | M |
+| 3 | Parlare con i morti | Necromanzia | M |
+| 3 | Paura | Illusione | C, M |
+| 3 | Protezione dall'energia | Abiurazione | C |
+| 3 | Respirare sott'acqua | Trasmutazione | R, M |
+| 3 | Rimuovi maledizione | Abiurazione | - |
+| 3 | Scagliare maledizione | Necromanzia | C |
+| 3 | Tempesta di nevischio | Evocazione | C, M |
+| 3 | Tocco del vampiro | Necromanzia | C |
+| 3 | Trama ipnotica | Illusione | C, M |
+| 3 | Velocità | Trasmutazione | C, M |
+| 3 | Volare | Trasmutazione | C, M |
+| 4 | Allucinazione mortale | Illusione | C |
+| 4 | Charme sui mostri | Ammaliamento | - |
+| 4 | Confusione | Ammaliamento | C, M |
+| 4 | Controllare acqua | Trasmutazione | C, M |
+| 4 | Divinazione | Divinazione | R, M |
+| 4 | Esilio | Abiurazione | C, M |
+| 4 | Evoca elementali minori | Evocazione | C |
+| 4 | Fabbricare | Trasmutazione | - |
+| 4 | Inaridire | Necromanzia | - |
+| 4 | Invisibilità superiore | Illusione | C |
+| 4 | Localizza creatura | Divinazione | C, M |
+| 4 | Metamorfosi | Trasmutazione | C, M |
+| 4 | Muro di fuoco | Invocazione | C, M |
+| 4 | Occhio arcano | Divinazione | C, M |
+| 4 | Pelle di pietra | Trasmutazione | C, M |
+| 4 | Porta dimensionale | Evocazione | - |
+| 4 | Santuario privato | Abiurazione | M |
+| 4 | Scolpire pietra | Trasmutazione | M |
+| 4 | Scrigno segreto | Evocazione | M |
+| 4 | Scudo di fuoco | Invocazione | M |
+| 4 | Segugio fedele | Evocazione | M |
+| 4 | Sfera al vetriolo | Invocazione | M |
+| 4 | Sfera elastica | Abiurazione | C, M |
+| 4 | Tempesta di ghiaccio | Invocazione | M |
+| 4 | Tentacoli neri | Evocazione | C, M |
+| 4 | Terreno illusorio | Illusione | M |
+| 5 | Animare oggetti | Trasmutazione | C |
+| 5 | Blocca mostri | Ammaliamento | C, M |
+| 5 | Cerchio di teletrasporto | Evocazione | M |
+| 5 | Cono di freddo | Invocazione | M |
+| 5 | Conoscenza delle leggende | Divinazione | M |
+| 5 | Contattare altri piani | Divinazione | R |
+| 5 | Costrizione | Ammaliamento | - |
+| 5 | Creazione | Illusione | M |
+| 5 | Dominare persone | Ammaliamento | C |
+| 5 | Evoca elementale | Evocazione | C |
+| 5 | Fuorviare | Illusione | C |
+| 5 | Legame planare | Abiurazione | M |
+| 5 | Legame telepatico | Divinazione | R, M |
+| 5 | Mano arcana | Invocazione | C, M |
+| 5 | Modificare memoria | Ammaliamento | C |
+| 5 | Muro di forza | Invocazione | C, M |
+| 5 | Muro di pietra | Invocazione | C, M |
+| 5 | Nube mortale | Evocazione | C |
+| 5 | Passapareti | Trasmutazione | M |
+| 5 | Richiama drago | Evocazione | C, M |
+| 5 | Scrutare | Divinazione | C, M |
+| 5 | Sembrare | Illusione | - |
+| 5 | Sogno | Illusione | M |
+| 5 | Telecinesi | Trasmutazione | C |
+| 6 | Bagliore solare | Invocazione | C, M |
+| 6 | Carne in pietra | Trasmutazione | C, M |
+| 6 | Catena di fulmini | Invocazione | M |
+| 6 | Cerchio di morte | Necromanzia | M |
+| 6 | Contingenza | Abiurazione | M |
+| 6 | Creare non morti | Necromanzia | M |
+| 6 | Danza irresistibile | Ammaliamento | C |
+| 6 | Disintegrazione | Trasmutazione | M |
+| 6 | Evocazioni istantanee | Evocazione | R, M |
+| 6 | Giara magica | Necromanzia | M |
+| 6 | Globo di invulnerabilità | Abiurazione | C, M |
+| 6 | Illusione programmata | Illusione | M |
+| 6 | Muovere il terreno | Trasmutazione | C, M |
+| 6 | Muro di ghiaccio | Invocazione | C, M |
+| 6 | Sfera congelante | Invocazione | M |
+| 6 | Sguardo penetrante | Necromanzia | C |
+| 6 | Suggestione di massa | Ammaliamento | M |
+| 6 | Vigilanza e interdizione | Abiurazione | M |
+| 6 | Visione del vero | Divinazione | M |
+| 7 | Celare | Trasmutazione | M |
+| 7 | Dito della morte | Necromanzia | - |
+| 7 | Forma eterea | Evocazione | - |
+| 7 | Gabbia di forza | Invocazione | C, M |
+| 7 | Immagine proiettata | Illusione | C, M |
+| 7 | Inversione della gravità | Trasmutazione | C, M |
+| 7 | Miraggio arcano | Illusione | - |
+| 7 | Palla di fuoco ritardata | Invocazione | C, M |
+| 7 | Reggia meravigliosa | Evocazione | M |
+| 7 | Simbolo | Abiurazione | M |
+| 7 | Simulacro | Illusione | M |
+| 7 | Spada arcana | Invocazione | C, M |
+| 7 | Spostamento planare | Evocazione | M |
+| 7 | Spruzzo prismatico | Invocazione | - |
+| 7 | Teletrasporto | Evocazione | - |
+| 8 | Antipatia/simpatia | Ammaliamento | M |
+| 8 | Campo anti-magia | Abiurazione | C, M |
+| 8 | Clone | Necromanzia | M |
+| 8 | Controllare tempo atmosferico | Trasmutazione | C, M |
+| 8 | Disorientare | Ammaliamento | M |
+| 8 | Dominare mostri | Ammaliamento | C |
+| 8 | Esplosione solare | Invocazione | M |
+| 8 | Labirinto | Evocazione | C |
+| 8 | Nube incendiaria | Evocazione | C |
+| 8 | Parola del potere stordire | Ammaliamento | - |
+| 8 | Semipiano | Evocazione | - |
+| 8 | Vuoto mentale | Abiurazione | - |
+| 9 | Desiderio | Evocazione | - |
+| 9 | Fatale | Illusione | C |
+| 9 | Fermare il tempo | Trasmutazione | - |
+| 9 | Imprigionare | Abiurazione | M |
+| 9 | Metamorfosi pura | Trasmutazione | C, M |
+| 9 | Muro prismatico | Abiurazione | - |
+| 9 | Parola del potere uccidere | Ammaliamento | - |
+| 9 | Portale | Evocazione | C, M |
+| 9 | Previsione | Divinazione | M |
+| 9 | Proiezione astrale | Necromanzia | M |
+| 9 | Sciame di meteore | Invocazione | - |
+| 9 | Trasformazione | Trasmutazione | C, M |
+
+### Sottoclasse del mago: Invocatore
+
+Crea effetti elementali esplosivi
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Sapiente invocatore | Riduce tempo e costo per copiare incantesimi di Invocazione nel libro. |
+| 3 | Scolpire incantesimi | Protegge creature scelte dagli effetti degli incantesimi di Invocazione. |
+| 10 | Invocazione potente | Aggiunge Intelligenza a un tiro per i danni di un incantesimo di Invocazione. |
+| 14 | Saturazione magica | Massimizza i danni di un incantesimo con slot 1-5, con rischio di danni necrotici se ripetuto prima del riposo lungo. |
 
 ---
 
@@ -1164,28 +1942,28 @@ Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Arti marziali, Difesa senza armatura; arti marziali 1d6; concentrazione -; movimento - |
-| 2 | BC +2; Concentrazione da monaco, Metabolismo straordinario, Movimento senza armatura; arti 1d6; concentrazione 2; movimento +3 m |
-| 3 | BC +2; Devia attacchi, sottoclasse del monaco; arti 1d6; concentrazione 3; movimento +3 m |
-| 4 | BC +2; Aumento dei punteggi di caratteristica, Caduta lenta; arti 1d6; concentrazione 4; movimento +3 m |
-| 5 | BC +3; Attacco extra, Colpo stordente; arti 1d8; concentrazione 5; movimento +3 m |
-| 6 | BC +3; Colpi potenziati, privilegio della sottoclasse; arti 1d8; concentrazione 6; movimento +4,5 m |
-| 7 | BC +3; Elusione; arti 1d8; concentrazione 7; movimento +4,5 m |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; arti 1d8; concentrazione 8; movimento +4,5 m |
-| 9 | BC +4; Movimento acrobatico; arti 1d8; concentrazione 9; movimento +4,5 m |
-| 10 | BC +4; Autorigenerazione, Concentrazione superiore; arti 1d8; concentrazione 10; movimento +6 m |
-| 11 | BC +4; Privilegio della sottoclasse; arti 1d10; concentrazione 11; movimento +6 m |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; arti 1d10; concentrazione 12; movimento +6 m |
-| 13 | BC +5; Deviare energia; arti 1d10; concentrazione 13; movimento +6 m |
-| 14 | BC +5; Esperto di sopravvivenza disciplinato; arti 1d10; concentrazione 14; movimento +7,5 m |
-| 15 | BC +5; Concentrazione perfetta; arti 1d10; concentrazione 15; movimento +7,5 m |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; arti 1d10; concentrazione 16; movimento +7,5 m |
-| 17 | BC +6; Privilegio della sottoclasse; arti 1d12; concentrazione 17; movimento +7,5 m |
-| 18 | BC +6; Difesa superiore; arti 1d12; concentrazione 18; movimento +9 m |
-| 19 | BC +6; Dono epico; arti 1d12; concentrazione 19; movimento +9 m |
-| 20 | BC +6; Corpo e mente; arti 1d12; concentrazione 20; movimento +9 m |
+| Livello | Bonus di competenza | Privilegi di classe | Arti marziali | Concentrazione | Movimento senza armatura |
+| --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Arti marziali, Difesa senza armatura | 1d6 | - | - |
+| 2 | +2 | Concentrazione da monaco, Metabolismo straordinario, Movimento senza armatura | 1d6 | 2 | +3 m |
+| 3 | +2 | Devia attacchi, sottoclasse del monaco | 1d6 | 3 | +3 m |
+| 4 | +2 | Aumento dei punteggi di caratteristica, Caduta lenta | 1d6 | 4 | +3 m |
+| 5 | +3 | Attacco extra, Colpo stordente | 1d8 | 5 | +3 m |
+| 6 | +3 | Colpi potenziati, privilegio della sottoclasse | 1d8 | 6 | +4,5 m |
+| 7 | +3 | Elusione | 1d8 | 7 | +4,5 m |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 1d8 | 8 | +4,5 m |
+| 9 | +4 | Movimento acrobatico | 1d8 | 9 | +4,5 m |
+| 10 | +4 | Autorigenerazione, Concentrazione superiore | 1d8 | 10 | +6 m |
+| 11 | +4 | Privilegio della sottoclasse | 1d10 | 11 | +6 m |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 1d10 | 12 | +6 m |
+| 13 | +5 | Deviare energia | 1d10 | 13 | +6 m |
+| 14 | +5 | Esperto di sopravvivenza disciplinato | 1d10 | 14 | +7,5 m |
+| 15 | +5 | Concentrazione perfetta | 1d10 | 15 | +7,5 m |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 1d10 | 16 | +7,5 m |
+| 17 | +6 | Privilegio della sottoclasse | 1d12 | 17 | +7,5 m |
+| 18 | +6 | Difesa superiore | 1d12 | 18 | +9 m |
+| 19 | +6 | Dono epico | 1d12 | 19 | +9 m |
+| 20 | +6 | Corpo e mente | 1d12 | 20 | +9 m |
 
 ### Privilegi chiave
 
@@ -1196,11 +1974,16 @@ Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e
 | Colpo stordente | Spende concentrazione per tentare di stordire un bersaglio colpito. |
 | Movimento senza armatura | Aumenta mobilita e opzioni di spostamento. |
 
-### Sottoclasse SRD
+### Sottoclasse del monaco: Guerriero della Mano Aperta
 
-| Voce | Riepilogo |
-| --- | --- |
-| Guerriero della Mano Aperta | Tecnica della mano aperta, integrita del corpo e controllo del corpo. |
+Padroneggia le tecniche di combattimento senz armi
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Tecnica della mano aperta | Con Raffica di colpi puo impedire reazioni, spingere o rendere prono il bersaglio. |
+| 6 | Integrita del corpo | Come azione bonus tira il dado di Arti marziali e recupera PF. |
+| 11 | Passo lesto | Dopo un azione bonus diversa da Passo del vento puo usare anche Passo del vento. |
+| 17 | Palmo tremante | Spende 4 punti concentrazione per vibrazioni che poi infliggono 10d12 danni da forza o meta con TS. |
 
 ---
 
@@ -1227,28 +2010,28 @@ Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposi
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Imposizione delle mani, Incantesimi, Padronanza d'armi; Incanalare divinita -; preparati 2; slot 1-5: 2/-/-/-/- |
-| 2 | BC +2; Stile di combattimento, Punizione del paladino; Incanalare divinita -; preparati 3; slot 1-5: 2/-/-/-/- |
-| 3 | BC +2; Incanalare divinita, sottoclasse del paladino; Incanalare divinita 2; preparati 4; slot 1-5: 3/-/-/-/- |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; Incanalare divinita 2; preparati 5; slot 1-5: 3/-/-/-/- |
-| 5 | BC +3; Attacco extra, Fido destriero; Incanalare divinita 2; preparati 6; slot 1-5: 4/2/-/-/- |
-| 6 | BC +3; Aura di protezione; Incanalare divinita 2; preparati 6; slot 1-5: 4/2/-/-/- |
-| 7 | BC +3; Privilegio della sottoclasse; Incanalare divinita 2; preparati 7; slot 1-5: 4/3/-/-/- |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; Incanalare divinita 2; preparati 7; slot 1-5: 4/3/-/-/- |
-| 9 | BC +4; Abiurare nemici; Incanalare divinita 2; preparati 9; slot 1-5: 4/3/2/-/- |
-| 10 | BC +4; Aura di coraggio; Incanalare divinita 2; preparati 9; slot 1-5: 4/3/2/-/- |
-| 11 | BC +4; Colpi radiosi; Incanalare divinita 3; preparati 10; slot 1-5: 4/3/3/-/- |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; Incanalare divinita 3; preparati 10; slot 1-5: 4/3/3/-/- |
-| 13 | BC +5; -; Incanalare divinita 3; preparati 11; slot 1-5: 4/3/3/1/- |
-| 14 | BC +5; Tocco rigenerante; Incanalare divinita 3; preparati 11; slot 1-5: 4/3/3/1/- |
-| 15 | BC +5; Privilegio della sottoclasse; Incanalare divinita 3; preparati 12; slot 1-5: 4/3/3/2/- |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; Incanalare divinita 3; preparati 12; slot 1-5: 4/3/3/2/- |
-| 17 | BC +6; -; Incanalare divinita 3; preparati 14; slot 1-5: 4/3/3/3/1 |
-| 18 | BC +6; Ampliamento dell'aura; Incanalare divinita 3; preparati 14; slot 1-5: 4/3/3/3/1 |
-| 19 | BC +6; Dono epico; Incanalare divinita 3; preparati 15; slot 1-5: 4/3/3/3/2 |
-| 20 | BC +6; Privilegio della sottoclasse; Incanalare divinita 3; preparati 15; slot 1-5: 4/3/3/3/2 |
+| Livello | Bonus di competenza | Privilegi di classe | Incanalare divinità | Incantesimi preparati | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Imposizione delle mani, Incantesimi, Padronanza d'armi | - | 2 | 2 | - | - | - | - |
+| 2 | +2 | Stile di combattimento, Punizione del paladino | - | 3 | 2 | - | - | - | - |
+| 3 | +2 | Incanalare divinita, sottoclasse del paladino | 2 | 4 | 3 | - | - | - | - |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 2 | 5 | 3 | - | - | - | - |
+| 5 | +3 | Attacco extra, Fido destriero | 2 | 6 | 4 | 2 | - | - | - |
+| 6 | +3 | Aura di protezione | 2 | 6 | 4 | 2 | - | - | - |
+| 7 | +3 | Privilegio della sottoclasse | 2 | 7 | 4 | 3 | - | - | - |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 2 | 7 | 4 | 3 | - | - | - |
+| 9 | +4 | Abiurare nemici | 2 | 9 | 4 | 3 | 2 | - | - |
+| 10 | +4 | Aura di coraggio | 2 | 9 | 4 | 3 | 2 | - | - |
+| 11 | +4 | Colpi radiosi | 3 | 10 | 4 | 3 | 3 | - | - |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 3 | 10 | 4 | 3 | 3 | - | - |
+| 13 | +5 | - | 3 | 11 | 4 | 3 | 3 | 1 | - |
+| 14 | +5 | Tocco rigenerante | 3 | 11 | 4 | 3 | 3 | 1 | - |
+| 15 | +5 | Privilegio della sottoclasse | 3 | 12 | 4 | 3 | 3 | 2 | - |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 3 | 12 | 4 | 3 | 3 | 2 | - |
+| 17 | +6 | - | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Ampliamento dell'aura | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Dono epico | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Privilegio della sottoclasse | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ### Privilegi chiave
 
@@ -1259,11 +2042,72 @@ Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposi
 | Punizione divina | Converte potere sacro in danni aggiuntivi. |
 | Incanalare divinita | Alimenta Percezione del Divino e opzioni di giuramento. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da paladino
 
-| Voce | Riepilogo |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| 1 | Benedizione | Ammaliamento | C, M |
+| 1 | Comando | Ammaliamento | - |
+| 1 | Cura ferite | Abiurazione | - |
+| 1 | Eroismo | Ammaliamento | C |
+| 1 | Favore divino | Trasmutazione | - |
+| 1 | Individuazione del bene e del male | Divinazione | C |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Individuazione delle malattie e dei veleni | Divinazione | C, R, M |
+| 1 | Protezione dal bene e dal male | Abiurazione | C, M |
+| 1 | Punizione divina | Invocazione | - |
+| 1 | Punizione incandescente | Invocazione | - |
+| 1 | Purificare cibo e bevande | Trasmutazione | R |
+| 1 | Scudo della fede | Abiurazione | C, M |
+| 2 | Aiuto | Abiurazione | M |
+| 2 | Arma magica | Trasmutazione | - |
+| 2 | Localizza oggetto | Divinazione | C, M |
+| 2 | Preghiera di guarigione | Abiurazione | - |
+| 2 | Protezione dai veleni | Abiurazione | - |
+| 2 | Punizione splendente | Trasmutazione | C |
+| 2 | Riposo inviolato | Necromanzia | R, M |
+| 2 | Ristorare inferiore | Abiurazione | - |
+| 2 | Trova cavalcatura | Evocazione | - |
+| 2 | Vincolo di interdizione | Abiurazione | M |
+| 2 | Zona di verità | Ammaliamento | - |
+| 3 | Cerchio magico | Abiurazione | M |
+| 3 | Creare cibo e acqua | Evocazione | - |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Luce diurna | Invocazione | - |
+| 3 | Rimuovi maledizione | Abiurazione | - |
+| 3 | Rinascita | Necromanzia | M |
+| 4 | Aura di vita | Abiurazione | C |
+| 4 | Esilio | Abiurazione | C, M |
+| 4 | Interdizione alla morte | Abiurazione | - |
+| 4 | Localizza creatura | Divinazione | C, M |
+| 5 | Costrizione | Ammaliamento | - |
+| 5 | Dissolvi il bene e il male | Abiurazione | C, M |
+| 5 | Rianimare morti | Necromanzia | M |
+| 5 | Ristorare superiore | Abiurazione | M |
+
+### Sottoclasse del paladino: Giuramento di devozione
+
+Tieni fede agli ideali di giustizia e ordine
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Incantesimi del Giuramento di devozione | Gli incantesimi della tabella sono sempre preparati. |
+| 3 | Arma consacrata | Spende Incanalare divinita per aggiungere Carisma ai tiri per colpire e rendere radiosi i danni. |
+| 7 | Aura di devozione | Il paladino e gli alleati nell Aura di protezione non possono essere affascinati. |
+| 15 | Punizione protettiva | Dopo punizione divina, il paladino e gli alleati nell Aura ottengono mezza copertura. |
+| 20 | Nube sacra | Potenzia l Aura con danni radiosi, luce solare e vantaggio contro immondi e non morti. |
+
+### Incantesimi del Giuramento di devozione
+
+| Livello da paladino | Incantesimi |
 | --- | --- |
-| Giuramento di devozione | Incantesimi del Giuramento, arma consacrata e aura di devozione. |
+| 3 | Protezione dal bene e dal male, scudo della fede |
+| 5 | Aiuto, zona di verita |
+| 9 | Faro di speranza, dissolvi magie |
+| 13 | Liberta di movimento, guardiano della fede |
+| 17 | Comunione, colpo infuocato |
 
 ---
 
@@ -1290,28 +2134,28 @@ Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Incantesimi, Nemico prescelto, Padronanza d'armi; Nemico prescelto 2; preparati 2; slot 1-5: 2/-/-/-/- |
-| 2 | BC +2; Esploratore esperto, Stile di combattimento; Nemico prescelto 2; preparati 3; slot 1-5: 2/-/-/-/- |
-| 3 | BC +2; Sottoclasse del ranger; Nemico prescelto 2; preparati 4; slot 1-5: 3/-/-/-/- |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; Nemico prescelto 2; preparati 5; slot 1-5: 3/-/-/-/- |
-| 5 | BC +3; Attacco extra; Nemico prescelto 3; preparati 6; slot 1-5: 4/2/-/-/- |
-| 6 | BC +3; Girovago; Nemico prescelto 3; preparati 6; slot 1-5: 4/2/-/-/- |
-| 7 | BC +3; Privilegio della sottoclasse; Nemico prescelto 3; preparati 7; slot 1-5: 4/3/-/-/- |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; Nemico prescelto 3; preparati 7; slot 1-5: 4/3/-/-/- |
-| 9 | BC +4; Maestria; Nemico prescelto 4; preparati 9; slot 1-5: 4/3/2/-/- |
-| 10 | BC +4; Instancabile; Nemico prescelto 4; preparati 9; slot 1-5: 4/3/2/-/- |
-| 11 | BC +4; Privilegio della sottoclasse; Nemico prescelto 4; preparati 10; slot 1-5: 4/3/3/-/- |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; Nemico prescelto 4; preparati 10; slot 1-5: 4/3/3/-/- |
-| 13 | BC +5; Cacciatore implacabile; Nemico prescelto 5; preparati 11; slot 1-5: 4/3/3/1/- |
-| 14 | BC +5; Velo della natura; Nemico prescelto 5; preparati 11; slot 1-5: 4/3/3/1/- |
-| 15 | BC +5; Privilegio della sottoclasse; Nemico prescelto 5; preparati 12; slot 1-5: 4/3/3/2/- |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; Nemico prescelto 5; preparati 12; slot 1-5: 4/3/3/2/- |
-| 17 | BC +6; Precisione del cacciatore; Nemico prescelto 6; preparati 14; slot 1-5: 4/3/3/3/1 |
-| 18 | BC +6; Sensi ferini; Nemico prescelto 6; preparati 14; slot 1-5: 4/3/3/3/1 |
-| 19 | BC +6; Dono epico; Nemico prescelto 6; preparati 15; slot 1-5: 4/3/3/3/2 |
-| 20 | BC +6; Sterminatore di nemici; Nemico prescelto 6; preparati 15; slot 1-5: 4/3/3/3/2 |
+| Livello | Bonus di competenza | Privilegi di classe | Nemico prescelto | Incantesimi preparati | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Incantesimi, Nemico prescelto, Padronanza d'armi | 2 | 2 | 2 | - | - | - | - |
+| 2 | +2 | Esploratore esperto, Stile di combattimento | 2 | 3 | 2 | - | - | - | - |
+| 3 | +2 | Sottoclasse del ranger | 2 | 4 | 3 | - | - | - | - |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 2 | 5 | 3 | - | - | - | - |
+| 5 | +3 | Attacco extra | 3 | 6 | 4 | 2 | - | - | - |
+| 6 | +3 | Girovago | 3 | 6 | 4 | 2 | - | - | - |
+| 7 | +3 | Privilegio della sottoclasse | 3 | 7 | 4 | 3 | - | - | - |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 3 | 7 | 4 | 3 | - | - | - |
+| 9 | +4 | Maestria | 4 | 9 | 4 | 3 | 2 | - | - |
+| 10 | +4 | Instancabile | 4 | 9 | 4 | 3 | 2 | - | - |
+| 11 | +4 | Privilegio della sottoclasse | 4 | 10 | 4 | 3 | 3 | - | - |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 4 | 10 | 4 | 3 | 3 | - | - |
+| 13 | +5 | Cacciatore implacabile | 5 | 11 | 4 | 3 | 3 | 1 | - |
+| 14 | +5 | Velo della natura | 5 | 11 | 4 | 3 | 3 | 1 | - |
+| 15 | +5 | Privilegio della sottoclasse | 5 | 12 | 4 | 3 | 3 | 2 | - |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 5 | 12 | 4 | 3 | 3 | 2 | - |
+| 17 | +6 | Precisione del cacciatore | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Sensi ferini | 6 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Dono epico | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Sterminatore di nemici | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ### Privilegi chiave
 
@@ -1322,11 +2166,72 @@ Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza
 | Stile di combattimento | Ottiene un talento Stile di combattimento appropriato. |
 | Girovago | Aumenta velocita e ottiene velocita di scalata e nuoto. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da ranger
 
-| Voce | Riepilogo |
-| --- | --- |
-| Cacciatore | Sapienza del cacciatore, preda del cacciatore e difese da cacciatore. |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| 1 | Allarme | Abiurazione | R, M |
+| 1 | Amicizia con gli animali | Ammaliamento | M |
+| 1 | Bacche benefiche | Evocazione | M |
+| 1 | Colpo intrappolante | Evocazione | C |
+| 1 | Cura ferite | Abiurazione | - |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Individuazione delle malattie e dei veleni | Divinazione | C, R, M |
+| 1 | Intralciare | Evocazione | C |
+| 1 | Marchio del cacciatore | Divinazione | C |
+| 1 | Nube di nebbia | Evocazione | C |
+| 1 | Parlare con gli animali | Divinazione | R |
+| 1 | Passo veloce | Trasmutazione | M |
+| 1 | Salto | Trasmutazione | M |
+| 2 | Aiuto | Abiurazione | M |
+| 2 | Animale messaggero | Ammaliamento | R, M |
+| 2 | Arma magica | Trasmutazione | - |
+| 2 | Caratteristica potenziata | Trasmutazione | C, M |
+| 2 | Crescita di spine | Trasmutazione | C, M |
+| 2 | Folata di vento | Invocazione | C, M |
+| 2 | Localizza animali o vegetali | Divinazione | R, M |
+| 2 | Localizza oggetto | Divinazione | C, M |
+| 2 | Passare senza tracce | Abiurazione | C, M |
+| 2 | Pelle coriacea | Trasmutazione | M |
+| 2 | Protezione dai veleni | Abiurazione | - |
+| 2 | Ristorare inferiore | Abiurazione | - |
+| 2 | Scopri trappole | Divinazione | - |
+| 2 | Scurovisione | Trasmutazione | M |
+| 2 | Silenzio | Illusione | C, R |
+| 3 | Anti-individuazione | Abiurazione | M |
+| 3 | Camminare sull'acqua | Trasmutazione | R, M |
+| 3 | Crescita vegetale | Trasmutazione | - |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Evoca animali | Evocazione | C |
+| 3 | Fondersi nella pietra | Trasmutazione | R |
+| 3 | Luce diurna | Invocazione | - |
+| 3 | Muro di vento | Invocazione | C, M |
+| 3 | Parlare con i vegetali | Trasmutazione | - |
+| 3 | Protezione dall'energia | Abiurazione | C |
+| 3 | Respirare sott'acqua | Trasmutazione | R, M |
+| 3 | Rinascita | Necromanzia | M |
+| 4 | Dominare bestie | Ammaliamento | C |
+| 4 | Evoca creature boschive | Evocazione | C |
+| 4 | Libertà di movimento | Abiurazione | M |
+| 4 | Localizza creatura | Divinazione | C, M |
+| 4 | Pelle di pietra | Trasmutazione | C, M |
+| 5 | Comunione con la natura | Divinazione | R |
+| 5 | Ristorare superiore | Abiurazione | M |
+| 5 | Traslazione arborea | Evocazione | C |
+
+### Sottoclasse del ranger: Cacciatore
+
+Proteggi la natura e le persone dalla distruzione
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Sapienza del cacciatore | Conosce immunita, resistenze e vulnerabilita di una creatura sotto marchio del cacciatore. |
+| 3 | Preda del cacciatore | Sceglie Devastatore dell orda o Sterminatore di colossi e puo cambiarlo dopo riposo. |
+| 7 | Tattiche difensive | Sceglie Difesa dal multiattacco o Sfuggire all orda e puo cambiarla dopo riposo. |
+| 11 | Preda del cacciatore superiore | Estende i danni extra del marchio del cacciatore a una seconda creatura vicina. |
+| 15 | Difesa del cacciatore superiore | Con reazione ottiene resistenza al danno appena subito e allo stesso tipo fino a fine turno. |
 
 ---
 
@@ -1353,28 +2258,28 @@ Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metam
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Incantesimi, Stregoneria innata; punti stregoneria -; trucchetti 4; preparati 2; slot 1-9: 2/-/-/-/-/-/-/-/- |
-| 2 | BC +2; Fonte di magia, Metamagia; punti stregoneria 2; trucchetti 4; preparati 4; slot 1-9: 3/-/-/-/-/-/-/-/- |
-| 3 | BC +2; Sottoclasse dello stregone; punti stregoneria 3; trucchetti 4; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/- |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; punti stregoneria 4; trucchetti 5; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/- |
-| 5 | BC +3; Ripristino stregonesco; punti stregoneria 5; trucchetti 5; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/- |
-| 6 | BC +3; Privilegio della sottoclasse; punti stregoneria 6; trucchetti 5; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/- |
-| 7 | BC +3; Stregoneria incarnata; punti stregoneria 7; trucchetti 5; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/- |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; punti stregoneria 8; trucchetti 5; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/- |
-| 9 | BC +4; -; punti stregoneria 9; trucchetti 5; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/- |
-| 10 | BC +4; Metamagia; punti stregoneria 10; trucchetti 6; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/- |
-| 11 | BC +4; -; punti stregoneria 11; trucchetti 6; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; punti stregoneria 12; trucchetti 6; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/- |
-| 13 | BC +5; -; punti stregoneria 13; trucchetti 6; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 14 | BC +5; Privilegio della sottoclasse; punti stregoneria 14; trucchetti 6; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/- |
-| 15 | BC +5; -; punti stregoneria 15; trucchetti 6; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; punti stregoneria 16; trucchetti 6; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/- |
-| 17 | BC +6; Metamagia; punti stregoneria 17; trucchetti 6; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1 |
-| 18 | BC +6; Privilegio della sottoclasse; punti stregoneria 18; trucchetti 6; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1 |
-| 19 | BC +6; Dono epico; punti stregoneria 19; trucchetti 6; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1 |
-| 20 | BC +6; Apoteosi arcana; punti stregoneria 20; trucchetti 6; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1 |
+| Livello | Bonus di competenza | Privilegi di classe | Punti stregoneria | Trucchetti | Incantesimi preparati | Slot 1 | Slot 2 | Slot 3 | Slot 4 | Slot 5 | Slot 6 | Slot 7 | Slot 8 | Slot 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Incantesimi, Stregoneria innata | - | 4 | 2 | 2 | - | - | - | - | - | - | - | - |
+| 2 | +2 | Fonte di magia, Metamagia | 2 | 4 | 4 | 3 | - | - | - | - | - | - | - | - |
+| 3 | +2 | Sottoclasse dello stregone | 3 | 4 | 6 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 4 | 5 | 7 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | +3 | Ripristino stregonesco | 5 | 5 | 9 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | +3 | Privilegio della sottoclasse | 6 | 5 | 10 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | +3 | Stregoneria incarnata | 7 | 5 | 11 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 8 | 5 | 12 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | +4 | - | 9 | 5 | 14 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | +4 | Metamagia | 10 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | +4 | - | 11 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 12 | 6 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | +5 | - | 13 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | +5 | Privilegio della sottoclasse | 14 | 6 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | +5 | - | 15 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 16 | 6 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | +6 | Metamagia | 17 | 6 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Privilegio della sottoclasse | 18 | 6 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | Dono epico | 19 | 6 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Apoteosi arcana | 20 | 6 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ### Privilegi chiave
 
@@ -1385,11 +2290,173 @@ Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metam
 | Metamagia | Modifica incantesimi con opzioni come incantesimo rapido, esteso, intensificato o gemellato. |
 | Ripristino stregonesco | Recupera risorse magiche ai livelli alti. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da stregone
 
-| Voce | Riepilogo |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| Trucchetto | Colpo accurato | Divinazione | M |
+| Trucchetto | Dardo di fuoco | Invocazione | - |
+| Trucchetto | Elementalismo | Trasmutazione | - |
+| Trucchetto | Fiotto acido | Invocazione | - |
+| Trucchetto | Illusione minore | Illusione | M |
+| Trucchetto | Luce | Invocazione | M |
+| Trucchetto | Luci danzanti | Illusione | C, M |
+| Trucchetto | Mano magica | Evocazione | - |
+| Trucchetto | Messaggio | Trasmutazione | M |
+| Trucchetto | Prestidigitazione | Trasmutazione | - |
+| Trucchetto | Raggio di gelo | Invocazione | - |
+| Trucchetto | Riparare | Trasmutazione | M |
+| Trucchetto | Spruzzo velenoso | Necromanzia | - |
+| Trucchetto | Stregoneria esplosiva | Invocazione | - |
+| Trucchetto | Stretta folgorante | Invocazione | - |
+| Trucchetto | Tocco gelido | Necromanzia | - |
+| 1 | Armatura magica | Abiurazione | M |
+| 1 | Caduta morbida | Trasmutazione | M |
+| 1 | Camuffare se stesso | Illusione | - |
+| 1 | Charme su persone | Ammaliamento | - |
+| 1 | Coltello di ghiaccio | Evocazione | M |
+| 1 | Comprensione dei linguaggi | Divinazione | R, M |
+| 1 | Dardo incantato | Invocazione | - |
+| 1 | Globo cromatico | Invocazione | M |
+| 1 | Immagine silenziosa | Illusione | C, M |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Mani brucianti | Invocazione | - |
+| 1 | Nube di nebbia | Evocazione | C |
+| 1 | Onda tonante | Invocazione | - |
+| 1 | Raggio di infermità | Necromanzia | - |
+| 1 | Ritirata rapida | Trasmutazione | C |
+| 1 | Salto | Trasmutazione | M |
+| 1 | Scudo | Abiurazione | - |
+| 1 | Sonno | Ammaliamento | C, M |
+| 1 | Spruzzo colorato | Illusione | M |
+| 1 | Unto | Evocazione | M |
+| 1 | Vita falsata | Necromanzia | M |
+| 2 | Aculeo mentale | Divinazione | C |
+| 2 | Allucinazione di forza | Illusione | C, M |
+| 2 | Alterare se stesso | Trasmutazione | C |
+| 2 | Arma magica | Trasmutazione | - |
+| 2 | Blocca persone | Ammaliamento | C, M |
+| 2 | Caratteristica potenziata | Trasmutazione | C, M |
+| 2 | Cecità/sordità | Trasmutazione | - |
+| 2 | Folata di vento | Invocazione | C, M |
+| 2 | Frantumare | Invocazione | M |
+| 2 | Immagine speculare | Illusione | - |
+| 2 | Individuazione dei pensieri | Divinazione | C, M |
+| 2 | Ingrandire/ridurre | Trasmutazione | C, M |
+| 2 | Invisibilità | Illusione | C, M |
+| 2 | Lama infuocata | Invocazione | C, M |
+| 2 | Levitazione | Trasmutazione | C, M |
+| 2 | Movimenti del ragno | Trasmutazione | C, M |
+| 2 | Oscurità | Invocazione | C, M |
+| 2 | Passo velato | Evocazione | - |
+| 2 | Raggio rovente | Invocazione | - |
+| 2 | Ragnatela | Evocazione | C, M |
+| 2 | Scassinare | Trasmutazione | - |
+| 2 | Scurovisione | Trasmutazione | M |
+| 2 | Sfera infuocata | Evocazione | C, M |
+| 2 | Sfocatura | Illusione | C |
+| 2 | Soffio del drago | Trasmutazione | C, M |
+| 2 | Suggestione | Ammaliamento | C, M |
+| 2 | Vedere invisibilità | Divinazione | M |
+| 3 | Camminare sull'acqua | Trasmutazione | R, M |
+| 3 | Chiaroveggenza | Divinazione | C, M |
+| 3 | Controincantesimo | Abiurazione | - |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Forma gassosa | Trasmutazione | C, M |
+| 3 | Fulmine | Invocazione | M |
+| 3 | Immagine maggiore | Illusione | C, M |
+| 3 | Intermittenza | Trasmutazione | - |
+| 3 | Lentezza | Trasmutazione | C, M |
+| 3 | Linguaggi | Divinazione | M |
+| 3 | Luce diurna | Invocazione | - |
+| 3 | Nube maleodorante | Evocazione | C, M |
+| 3 | Palla di fuoco | Invocazione | M |
+| 3 | Paura | Illusione | C, M |
+| 3 | Protezione dall'energia | Abiurazione | C |
+| 3 | Respirare sott'acqua | Trasmutazione | R, M |
+| 3 | Tempesta di nevischio | Evocazione | C, M |
+| 3 | Tocco del vampiro | Necromanzia | C |
+| 3 | Trama ipnotica | Illusione | C, M |
+| 3 | Velocità | Trasmutazione | C, M |
+| 3 | Volare | Trasmutazione | C, M |
+| 4 | Charme sui mostri | Ammaliamento | - |
+| 4 | Confusione | Ammaliamento | C, M |
+| 4 | Dominare bestie | Ammaliamento | C |
+| 4 | Esilio | Abiurazione | C, M |
+| 4 | Inaridire | Necromanzia | - |
+| 4 | Invisibilità superiore | Illusione | C |
+| 4 | Metamorfosi | Trasmutazione | C, M |
+| 4 | Muro di fuoco | Invocazione | C, M |
+| 4 | Pelle di pietra | Trasmutazione | C, M |
+| 4 | Porta dimensionale | Evocazione | - |
+| 4 | Scudo di fuoco | Invocazione | M |
+| 4 | Sfera al vetriolo | Invocazione | M |
+| 4 | Tempesta di ghiaccio | Invocazione | M |
+| 5 | Animare oggetti | Trasmutazione | C |
+| 5 | Blocca mostri | Ammaliamento | C, M |
+| 5 | Cerchio di teletrasporto | Evocazione | M |
+| 5 | Cono di freddo | Invocazione | M |
+| 5 | Creazione | Illusione | M |
+| 5 | Dominare persone | Ammaliamento | C |
+| 5 | Mano arcana | Invocazione | C, M |
+| 5 | Muro di pietra | Invocazione | C, M |
+| 5 | Nube mortale | Evocazione | C |
+| 5 | Piaga degli insetti | Evocazione | C, M |
+| 5 | Sembrare | Illusione | - |
+| 5 | Telecinesi | Trasmutazione | C |
+| 6 | Bagliore solare | Invocazione | C, M |
+| 6 | Carne in pietra | Trasmutazione | C, M |
+| 6 | Catena di fulmini | Invocazione | M |
+| 6 | Cerchio di morte | Necromanzia | M |
+| 6 | Disintegrazione | Trasmutazione | M |
+| 6 | Globo di invulnerabilità | Abiurazione | C, M |
+| 6 | Muovere il terreno | Trasmutazione | C, M |
+| 6 | Sfera congelante | Invocazione | M |
+| 6 | Sguardo penetrante | Necromanzia | C |
+| 6 | Suggestione di massa | Ammaliamento | M |
+| 6 | Visione del vero | Divinazione | M |
+| 7 | Dito della morte | Necromanzia | - |
+| 7 | Forma eterea | Evocazione | - |
+| 7 | Inversione della gravità | Trasmutazione | C, M |
+| 7 | Palla di fuoco ritardata | Invocazione | C, M |
+| 7 | Spostamento planare | Evocazione | M |
+| 7 | Spruzzo prismatico | Invocazione | - |
+| 7 | Teletrasporto | Evocazione | - |
+| 7 | Tempesta di fuoco | Invocazione | - |
+| 8 | Dominare mostri | Ammaliamento | C |
+| 8 | Esplosione solare | Invocazione | M |
+| 8 | Nube incendiaria | Evocazione | C |
+| 8 | Parola del potere stordire | Ammaliamento | - |
+| 8 | Semipiano | Evocazione | - |
+| 8 | Terremoto | Trasmutazione | C, M |
+| 9 | Desiderio | Evocazione | - |
+| 9 | Fermare il tempo | Trasmutazione | - |
+| 9 | Parola del potere uccidere | Ammaliamento | - |
+| 9 | Portale | Evocazione | C, M |
+| 9 | Sciame di meteore | Invocazione | - |
+
+### Sottoclasse dello stregone: Stregoneria draconica
+
+Lasciati inebriare dalla magia dei draghi
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Resilienza draconica | Aumenta i PF e, senza armatura, usa 10 + Des + Car come CA base. |
+| 3 | Incantesimi draconici | Gli incantesimi della tabella sono sempre preparati. |
+| 6 | Affinita elementale | Sceglie acido, freddo, fulmine, fuoco o veleno; ottiene resistenza e aggiunge Carisma ai danni. |
+| 14 | Ali di drago | Come azione bonus ottiene velocita di volo 18 m per 1 ora. |
+| 18 | Seguace draconico | Lancia richiama drago senza materiale, una volta gratis, e puo rimuovere concentrazione riducendo la durata. |
+
+### Incantesimi draconici
+
+| Livello da stregone | Incantesimi |
 | --- | --- |
-| Stregoneria draconica | Incantesimi draconici, affinita elementale, ali di drago e seguace draconico. |
+| 3 | Alterare se stesso, globo cromatico, comando, soffio del drago |
+| 5 | Paura, volare |
+| 7 | Occhio arcano, charme sui mostri |
+| 9 | Conoscenza delle leggende, richiama drago |
 
 ---
 
@@ -1416,28 +2483,28 @@ Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Supplic
 
 ### Progressione di classe
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | BC +2; Suppliche occulte, Magia del patto; suppliche 1; trucchetti 2; preparati 2; slot 1; livello slot 1 |
-| 2 | BC +2; Scaltrezza magica; suppliche 3; trucchetti 2; preparati 3; slot 2; livello slot 1 |
-| 3 | BC +2; Sottoclasse del warlock; suppliche 3; trucchetti 2; preparati 4; slot 2; livello slot 2 |
-| 4 | BC +2; Aumento dei punteggi di caratteristica; suppliche 3; trucchetti 3; preparati 5; slot 2; livello slot 2 |
-| 5 | BC +3; -; suppliche 5; trucchetti 3; preparati 6; slot 2; livello slot 3 |
-| 6 | BC +3; Privilegio della sottoclasse; suppliche 5; trucchetti 3; preparati 7; slot 2; livello slot 3 |
-| 7 | BC +3; -; suppliche 6; trucchetti 3; preparati 8; slot 2; livello slot 4 |
-| 8 | BC +3; Aumento dei punteggi di caratteristica; suppliche 6; trucchetti 3; preparati 9; slot 2; livello slot 4 |
-| 9 | BC +4; Contatta patrono; suppliche 7; trucchetti 3; preparati 10; slot 2; livello slot 5 |
-| 10 | BC +4; Privilegio della sottoclasse; suppliche 7; trucchetti 4; preparati 10; slot 2; livello slot 5 |
-| 11 | BC +4; Arcanum mistico (incantesimo di 6º livello); suppliche 7; trucchetti 4; preparati 11; slot 3; livello slot 5 |
-| 12 | BC +4; Aumento dei punteggi di caratteristica; suppliche 8; trucchetti 4; preparati 11; slot 3; livello slot 5 |
-| 13 | BC +5; Arcanum mistico (incantesimo di 7º livello); suppliche 8; trucchetti 4; preparati 12; slot 3; livello slot 5 |
-| 14 | BC +5; Privilegio della sottoclasse; suppliche 8; trucchetti 4; preparati 12; slot 3; livello slot 5 |
-| 15 | BC +5; Arcanum mistico (incantesimo di 8º livello); suppliche 9; trucchetti 4; preparati 13; slot 3; livello slot 5 |
-| 16 | BC +5; Aumento dei punteggi di caratteristica; suppliche 9; trucchetti 4; preparati 13; slot 3; livello slot 5 |
-| 17 | BC +6; Arcanum mistico (incantesimo di 9º livello); suppliche 9; trucchetti 4; preparati 14; slot 4; livello slot 5 |
-| 18 | BC +6; -; suppliche 10; trucchetti 4; preparati 14; slot 4; livello slot 5 |
-| 19 | BC +6; Dono epico; suppliche 10; trucchetti 4; preparati 15; slot 4; livello slot 5 |
-| 20 | BC +6; Maestro dell'occulto; suppliche 10; trucchetti 4; preparati 15; slot 4; livello slot 5 |
+| Livello | Bonus di competenza | Privilegi di classe | Suppliche occulte | Trucchetti | Incantesimi preparati | Slot incantesimo | Livello slot |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | +2 | Suppliche occulte, Magia del patto | 1 | 2 | 2 | 1 | 1 |
+| 2 | +2 | Scaltrezza magica | 3 | 2 | 3 | 2 | 1 |
+| 3 | +2 | Sottoclasse del warlock | 3 | 2 | 4 | 2 | 2 |
+| 4 | +2 | Aumento dei punteggi di caratteristica | 3 | 3 | 5 | 2 | 2 |
+| 5 | +3 | - | 5 | 3 | 6 | 2 | 3 |
+| 6 | +3 | Privilegio della sottoclasse | 5 | 3 | 7 | 2 | 3 |
+| 7 | +3 | - | 6 | 3 | 8 | 2 | 4 |
+| 8 | +3 | Aumento dei punteggi di caratteristica | 6 | 3 | 9 | 2 | 4 |
+| 9 | +4 | Contatta patrono | 7 | 3 | 10 | 2 | 5 |
+| 10 | +4 | Privilegio della sottoclasse | 7 | 4 | 10 | 2 | 5 |
+| 11 | +4 | Arcanum mistico (incantesimo di 6º livello) | 7 | 4 | 11 | 3 | 5 |
+| 12 | +4 | Aumento dei punteggi di caratteristica | 8 | 4 | 11 | 3 | 5 |
+| 13 | +5 | Arcanum mistico (incantesimo di 7º livello) | 8 | 4 | 12 | 3 | 5 |
+| 14 | +5 | Privilegio della sottoclasse | 8 | 4 | 12 | 3 | 5 |
+| 15 | +5 | Arcanum mistico (incantesimo di 8º livello) | 9 | 4 | 13 | 3 | 5 |
+| 16 | +5 | Aumento dei punteggi di caratteristica | 9 | 4 | 13 | 3 | 5 |
+| 17 | +6 | Arcanum mistico (incantesimo di 9º livello) | 9 | 4 | 14 | 4 | 5 |
+| 18 | +6 | - | 10 | 4 | 14 | 4 | 5 |
+| 19 | +6 | Dono epico | 10 | 4 | 15 | 4 | 5 |
+| 20 | +6 | Maestro dell'occulto | 10 | 4 | 15 | 4 | 5 |
 
 ### Privilegi chiave
 
@@ -1448,11 +2515,105 @@ Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Supplic
 | Scaltrezza magica | Permette recupero limitato di risorse della Magia del patto. |
 | Maestro dell'occulto | Al 20º livello recupera tutti gli slot di Magia del patto quando usa Scaltrezza magica. |
 
-### Sottoclasse SRD
+### Lista degli incantesimi da warlock
 
-| Voce | Riepilogo |
+Tabella riepilogativa della lista incantesimi della classe nel formato del PDF; i dettagli completi restano nel catalogo incantesimi.
+
+| Livello | Incantesimo | Scuola | Speciale |
+| --- | --- | --- | --- |
+| Trucchetto | Colpo accurato | Divinazione | M |
+| Trucchetto | Deflagrazione occulta | Invocazione | - |
+| Trucchetto | Illusione minore | Illusione | M |
+| Trucchetto | Mano magica | Evocazione | - |
+| Trucchetto | Prestidigitazione | Trasmutazione | - |
+| Trucchetto | Spruzzo velenoso | Necromanzia | - |
+| Trucchetto | Tocco gelido | Necromanzia | - |
+| 1 | Anatema | Ammaliamento | C, M |
+| 1 | Charme su persone | Ammaliamento | - |
+| 1 | Comprensione dei linguaggi | Divinazione | R, M |
+| 1 | Individuazione del magico | Divinazione | C, R |
+| 1 | Intimorire infernale | Invocazione | - |
+| 1 | Parlare con gli animali | Divinazione | R |
+| 1 | Protezione dal bene e dal male | Abiurazione | C, M |
+| 1 | Risata incontenibile | Ammaliamento | C, M |
+| 1 | Ritirata rapida | Trasmutazione | C |
+| 1 | Scritto illusorio | Illusione | R, M |
+| 1 | Servitore inosservato | Evocazione | R, M |
+| 1 | Sortilegio | Ammaliamento | C, M |
+| 2 | Aculeo mentale | Divinazione | C |
+| 2 | Blocca persone | Ammaliamento | C, M |
+| 2 | Estasiare | Ammaliamento | C |
+| 2 | Immagine speculare | Illusione | - |
+| 2 | Invisibilità | Illusione | C, M |
+| 2 | Movimenti del ragno | Trasmutazione | C, M |
+| 2 | Oscurità | Invocazione | C, M |
+| 2 | Passo velato | Evocazione | - |
+| 2 | Raggio di affaticamento | Necromanzia | C |
+| 2 | Suggestione | Ammaliamento | C, M |
+| 3 | Cerchio magico | Abiurazione | M |
+| 3 | Controincantesimo | Abiurazione | - |
+| 3 | Dissolvi magie | Abiurazione | - |
+| 3 | Forma gassosa | Trasmutazione | C, M |
+| 3 | Immagine maggiore | Illusione | C, M |
+| 3 | Linguaggi | Divinazione | M |
+| 3 | Paura | Illusione | C, M |
+| 3 | Rimuovi maledizione | Abiurazione | - |
+| 3 | Tocco del vampiro | Necromanzia | C |
+| 3 | Trama ipnotica | Illusione | C, M |
+| 3 | Volare | Trasmutazione | C, M |
+| 4 | Charme sui mostri | Ammaliamento | - |
+| 4 | Esilio | Abiurazione | C, M |
+| 4 | Inaridire | Necromanzia | - |
+| 4 | Porta dimensionale | Evocazione | - |
+| 4 | Terreno illusorio | Illusione | M |
+| 5 | Blocca mostri | Ammaliamento | C, M |
+| 5 | Cerchio di teletrasporto | Evocazione | M |
+| 5 | Contattare altri piani | Divinazione | R |
+| 5 | Fuorviare | Illusione | C |
+| 5 | Legame planare | Abiurazione | M |
+| 5 | Scrutare | Divinazione | C, M |
+| 5 | Sogno | Illusione | M |
+| 6 | Cerchio di morte | Necromanzia | M |
+| 6 | Creare non morti | Necromanzia | M |
+| 6 | Sguardo penetrante | Necromanzia | C |
+| 6 | Visione del vero | Divinazione | M |
+| 7 | Dito della morte | Necromanzia | - |
+| 7 | Forma eterea | Evocazione | - |
+| 7 | Gabbia di forza | Invocazione | C, M |
+| 7 | Spostamento planare | Evocazione | M |
+| 8 | Disorientare | Ammaliamento | M |
+| 8 | Dominare mostri | Ammaliamento | C |
+| 8 | Loquacità | Ammaliamento | - |
+| 8 | Parola del potere stordire | Ammaliamento | - |
+| 8 | Semipiano | Evocazione | - |
+| 9 | Fatale | Illusione | C |
+| 9 | Imprigionare | Abiurazione | M |
+| 9 | Metamorfosi pura | Trasmutazione | C, M |
+| 9 | Parola del potere uccidere | Ammaliamento | - |
+| 9 | Portale | Evocazione | C, M |
+| 9 | Previsione | Divinazione | M |
+| 9 | Proiezione astrale | Necromanzia | M |
+
+### Sottoclasse del warlock: Patrono immondo
+
+Stringi un patto con i Piani Inferiori
+
+| Livello | Privilegio | Riepilogo |
+| --- | --- | --- |
+| 3 | Benedizione dell Oscuro | Quando riduce un nemico a 0 PF ottiene PF temporanei. |
+| 3 | Incantesimi immondi | Gli incantesimi della tabella sono sempre preparati. |
+| 6 | Fortuna dell Oscuro | Aggiunge 1d10 a una prova di caratteristica o TS dopo il tiro ma prima dell esito. |
+| 10 | Resilienza immonda | Dopo riposo sceglie una resistenza ai danni tranne forza. |
+| 14 | Scagliare all Inferno | Una volta per turno puo tentare di mandare un bersaglio colpito nei Piani Inferiori. |
+
+### Incantesimi immondi
+
+| Livello da warlock | Incantesimi |
 | --- | --- |
-| Patrono immondo | Benedizione oscura, incantesimi immondi e resistenza del patrono. |
+| 3 | Comando, mani brucianti, raggio rovente, suggestione |
+| 5 | Nube maleodorante, palla di fuoco |
+| 7 | Muro di fuoco, scudo di fuoco |
+| 9 | Costrizione, piaga degli insetti |
 
 ---
 
@@ -1539,19 +2700,19 @@ Elfi, gnomi, goliath e tiefling scelgono opzioni interne che definiscono incante
 
 ### Lignaggi elfici
 
-| Voce | Riepilogo |
-| --- | --- |
-| Drow | Liv.1 scurovisione 36 m e luci danzanti; liv.3 luminescenza; liv.5 oscurita. |
-| Elfo alto | Liv.1 prestidigitazione sostituibile dopo riposo lungo; liv.3 individuazione del magico; liv.5 passo velato. |
-| Elfo dei boschi | Liv.1 velocita +1,5 m e artificio druidico; liv.3 passo veloce; liv.5 passare senza tracce. |
+| Lignaggio | Livello 1 | Livello 3 | Livello 5 |
+| --- | --- | --- | --- |
+| Drow | scurovisione 36 m e luci danzanti | luminescenza | oscurita |
+| Elfo alto | prestidigitazione sostituibile dopo riposo lungo | individuazione del magico | passo velato |
+| Elfo dei boschi | velocita +1,5 m e artificio druidico | passo veloce | passare senza tracce |
 
 ### Retaggi immondi
 
-| Voce | Riepilogo |
-| --- | --- |
-| Abissale | Liv.1 resistenza veleno e spruzzo velenoso; liv.3 raggio di infermita; liv.5 blocca persone. |
-| Ctonio | Liv.1 resistenza necrotico e tocco gelido; liv.3 vita falsata; liv.5 raggio di affaticamento. |
-| Infernale | Liv.1 resistenza fuoco e dardo di fuoco; liv.3 intimorire infernale; liv.5 oscurita. |
+| Retaggio | Livello 1 | Livello 3 | Livello 5 |
+| --- | --- | --- | --- |
+| Abissale | resistenza veleno e spruzzo velenoso | raggio di infermita | blocca persone |
+| Ctonio | resistenza necrotico e tocco gelido | vita falsata | raggio di affaticamento |
+| Infernale | resistenza fuoco e dardo di fuoco | intimorire infernale | oscurita |
 
 ---
 
@@ -1634,13 +2795,13 @@ Le monete sono la valuta principale degli avventurieri. L'equipaggiamento puo es
 
 ### Valore della moneta
 
-| Voce | Riepilogo |
+| Moneta | Valore in mo |
 | --- | --- |
-| Moneta di rame (mr) | 1/100 mo |
-| Moneta d'argento (ma) | 1/10 mo |
-| Moneta di electrum (me) | 1/2 mo |
-| Moneta d'oro (mo) | 1 mo |
-| Moneta di platino (mp) | 10 mo |
+| Moneta di rame (mr) | 1/100 |
+| Moneta d'argento (ma) | 1/10 |
+| Moneta di electrum (me) | 1/2 |
+| Moneta d'oro (mo) | 1 |
+| Moneta di platino (mp) | 10 |
 
 **Peso**
 
@@ -1700,46 +2861,46 @@ Le armi sono divise in semplici e da guerra, da mischia o a distanza. La compete
 
 ### Armi principali
 
-| Voce | Riepilogo |
-| --- | --- |
-| Ascia | 1d6 taglienti; lancio 6/18, leggera; Vessazione; 1 kg; 5 mo |
-| Bastone ferrato | 1d6 contundenti; versatile 1d8; Rovesciamento; 2 kg; 2 ma |
-| Falcetto | 1d4 taglienti; leggera; Graffio; 1 kg; 1 mo |
-| Giavellotto | 1d6 perforanti; lancio 9/36; Lentezza; 1 kg; 5 ma |
-| Lancia | 1d6 perforanti; lancio 6/18, versatile 1d8; Fiaccare; 1,5 kg; 1 mo |
-| Martello leggero | 1d4 contundenti; lancio 6/18, leggera; Graffio; 1 kg; 2 mo |
-| Mazza | 1d6 contundenti; Fiaccare; 2 kg; 5 mo |
-| Pugnale | 1d4 perforanti; accurata, lancio 6/18, leggera; Graffio; 0,5 kg; 2 mo |
-| Randello pesante | 1d8 contundenti; due mani; Spinta; 5 kg; 2 ma |
-| Randello | 1d4 contundenti; leggera; Lentezza; 1 kg; 1 ma |
-| Arco corto | 1d6 perforanti; due mani, munizioni 24/96; Vessazione; 1 kg; 25 mo |
-| Balestra leggera | 1d8 perforanti; due mani, munizioni 24/96, ricarica; Lentezza; 2,5 kg; 25 mo |
-| Dardo | 1d4 perforanti; accurata, lancio 6/18; Vessazione; 0,125 kg; 5 mr |
-| Fionda | 1d4 contundenti; munizioni 9/36; Lentezza; 1 ma |
-| Alabarda | 1d10 taglienti; due mani, pesante, portata; Doppio fendente; 3 kg; 20 mo |
-| Ascia bipenne | 1d12 taglienti; due mani, pesante; Doppio fendente; 3,5 kg; 30 mo |
-| Ascia da battaglia | 1d8 taglienti; versatile 1d10; Rovesciamento; 2 kg; 10 mo |
-| Falcione | 1d10 taglienti; due mani, pesante, portata; Colpo di striscio; 3 kg; 20 mo |
-| Frusta | 1d4 taglienti; accurata, portata; Lentezza; 1,5 kg; 2 mo |
-| Lancia da cavaliere | 1d10 perforanti; due mani eccetto in sella, pesante, portata; Rovesciamento; 3 kg; 10 mo |
-| Maglio | 2d6 contundenti; due mani, pesante; Rovesciamento; 5 kg; 10 mo |
-| Martello da guerra | 1d8 contundenti; versatile 1d10; Spinta; 2,5 kg; 15 mo |
-| Mazza chiodata | 1d8 perforanti; Fiaccare; 2 kg; 15 mo |
-| Mazzafrusto | 1d8 contundenti; Fiaccare; 1 kg; 10 mo |
-| Picca | 1d10 perforanti; due mani, pesante, portata; Spinta; 9 kg; 5 mo |
-| Piccone da guerra | 1d8 perforanti; versatile 1d10; Fiaccare; 1 kg; 5 mo |
-| Scimitarra | 1d6 taglienti; accurata, leggera; Graffio; 1,5 kg; 25 mo |
-| Spada corta | 1d6 perforanti; accurata, leggera; Vessazione; 1 kg; 10 mo |
-| Spada lunga | 1d8 taglienti; versatile 1d10; Fiaccare; 1,5 kg; 15 mo |
-| Spadone | 2d6 taglienti; due mani, pesante; Colpo di striscio; 3 kg; 50 mo |
-| Stocco | 1d8 perforanti; accurata; Vessazione; 1 kg; 25 mo |
-| Tridente | 1d8 perforanti; lancio 6/18, versatile 1d10; Rovesciamento; 2 kg; 5 mo |
-| Arco lungo | 1d8 perforanti; due mani, munizioni 45/180, pesante; Lentezza; 1 kg; 50 mo |
-| Balestra a mano | 1d6 perforanti; leggera, munizioni 9/36, ricarica; Vessazione; 1,5 kg; 75 mo |
-| Balestra pesante | 1d10 perforanti; due mani, munizioni 30/120, pesante, ricarica; Spinta; 9 kg; 50 mo |
-| Cerbottana | 1 perforante; munizioni 7/30, ricarica; Vessazione; 0,5 kg; 10 mo |
-| Moschetto | 1d12 perforanti; due mani, munizioni 12/36, ricarica; Lentezza; 5 kg; 500 mo |
-| Pistola | 1d10 perforanti; munizioni 9/27, ricarica; Vessazione; 1,5 kg; 250 mo |
+| Categoria | Nome | Danni | Proprietà | Padronanza | Peso | Costo |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mischia semplice | Ascia | 1d6 taglienti | lancio 6/18, leggera | Vessazione | 1 kg | 5 mo |
+| Mischia semplice | Bastone ferrato | 1d6 contundenti | versatile 1d8 | Rovesciamento | 2 kg | 2 ma |
+| Mischia semplice | Falcetto | 1d4 taglienti | leggera | Graffio | 1 kg | 1 mo |
+| Mischia semplice | Giavellotto | 1d6 perforanti | lancio 9/36 | Lentezza | 1 kg | 5 ma |
+| Mischia semplice | Lancia | 1d6 perforanti | lancio 6/18, versatile 1d8 | Fiaccare | 1,5 kg | 1 mo |
+| Mischia semplice | Martello leggero | 1d4 contundenti | lancio 6/18, leggera | Graffio | 1 kg | 2 mo |
+| Mischia semplice | Mazza | 1d6 contundenti | Fiaccare | 2 kg | 5 mo | - |
+| Mischia semplice | Pugnale | 1d4 perforanti | accurata, lancio 6/18, leggera | Graffio | 0,5 kg | 2 mo |
+| Mischia semplice | Randello pesante | 1d8 contundenti | due mani | Spinta | 5 kg | 2 ma |
+| Mischia semplice | Randello | 1d4 contundenti | leggera | Lentezza | 1 kg | 1 ma |
+| Distanza semplice | Arco corto | 1d6 perforanti | due mani, munizioni 24/96 | Vessazione | 1 kg | 25 mo |
+| Distanza semplice | Balestra leggera | 1d8 perforanti | due mani, munizioni 24/96, ricarica | Lentezza | 2,5 kg | 25 mo |
+| Distanza semplice | Dardo | 1d4 perforanti | accurata, lancio 6/18 | Vessazione | 0,125 kg | 5 mr |
+| Distanza semplice | Fionda | 1d4 contundenti | munizioni 9/36 | Lentezza | 1 ma | - |
+| Mischia da guerra | Alabarda | 1d10 taglienti | due mani, pesante, portata | Doppio fendente | 3 kg | 20 mo |
+| Mischia da guerra | Ascia bipenne | 1d12 taglienti | due mani, pesante | Doppio fendente | 3,5 kg | 30 mo |
+| Mischia da guerra | Ascia da battaglia | 1d8 taglienti | versatile 1d10 | Rovesciamento | 2 kg | 10 mo |
+| Mischia da guerra | Falcione | 1d10 taglienti | due mani, pesante, portata | Colpo di striscio | 3 kg | 20 mo |
+| Mischia da guerra | Frusta | 1d4 taglienti | accurata, portata | Lentezza | 1,5 kg | 2 mo |
+| Mischia da guerra | Lancia da cavaliere | 1d10 perforanti | due mani eccetto in sella, pesante, portata | Rovesciamento | 3 kg | 10 mo |
+| Mischia da guerra | Maglio | 2d6 contundenti | due mani, pesante | Rovesciamento | 5 kg | 10 mo |
+| Mischia da guerra | Martello da guerra | 1d8 contundenti | versatile 1d10 | Spinta | 2,5 kg | 15 mo |
+| Mischia da guerra | Mazza chiodata | 1d8 perforanti | Fiaccare | 2 kg | 15 mo | - |
+| Mischia da guerra | Mazzafrusto | 1d8 contundenti | Fiaccare | 1 kg | 10 mo | - |
+| Mischia da guerra | Picca | 1d10 perforanti | due mani, pesante, portata | Spinta | 9 kg | 5 mo |
+| Mischia da guerra | Piccone da guerra | 1d8 perforanti | versatile 1d10 | Fiaccare | 1 kg | 5 mo |
+| Mischia da guerra | Scimitarra | 1d6 taglienti | accurata, leggera | Graffio | 1,5 kg | 25 mo |
+| Mischia da guerra | Spada corta | 1d6 perforanti | accurata, leggera | Vessazione | 1 kg | 10 mo |
+| Mischia da guerra | Spada lunga | 1d8 taglienti | versatile 1d10 | Fiaccare | 1,5 kg | 15 mo |
+| Mischia da guerra | Spadone | 2d6 taglienti | due mani, pesante | Colpo di striscio | 3 kg | 50 mo |
+| Mischia da guerra | Stocco | 1d8 perforanti | accurata | Vessazione | 1 kg | 25 mo |
+| Mischia da guerra | Tridente | 1d8 perforanti | lancio 6/18, versatile 1d10 | Rovesciamento | 2 kg | 5 mo |
+| Distanza da guerra | Arco lungo | 1d8 perforanti | due mani, munizioni 45/180, pesante | Lentezza | 1 kg | 50 mo |
+| Distanza da guerra | Balestra a mano | 1d6 perforanti | leggera, munizioni 9/36, ricarica | Vessazione | 1,5 kg | 75 mo |
+| Distanza da guerra | Balestra pesante | 1d10 perforanti | due mani, munizioni 30/120, pesante, ricarica | Spinta | 9 kg | 50 mo |
+| Distanza da guerra | Cerbottana | 1 perforante | munizioni 7/30, ricarica | Vessazione | 0,5 kg | 10 mo |
+| Distanza da guerra | Moschetto | 1d12 perforanti | due mani, munizioni 12/36, ricarica | Lentezza | 5 kg | 500 mo |
+| Distanza da guerra | Pistola | 1d10 perforanti | munizioni 9/27, ricarica | Vessazione | 1,5 kg | 250 mo |
 
 ---
 
@@ -1781,21 +2942,21 @@ Una creatura puo indossare una sola armatura e impugnare un solo scudo alla volt
 
 ### Armature complete
 
-| Voce | Riepilogo |
-| --- | --- |
-| Armatura imbottita | CA 11 + Des; furtivita svantaggio; 4 kg; 5 mo |
-| Armatura di cuoio | CA 11 + Des; 5 kg; 10 mo |
-| Armatura di cuoio borchiato | CA 12 + Des; 6,5 kg; 45 mo |
-| Armatura di pelle | CA 12 + Des max 2; 6 kg; 10 mo |
-| Giaco di maglia | CA 13 + Des max 2; 10 kg; 50 mo |
-| Corazza a scaglie | CA 14 + Des max 2; furtivita svantaggio; 22,5 kg; 50 mo |
-| Corazza di piastre | CA 14 + Des max 2; 10 kg; 400 mo |
-| Mezza armatura | CA 15 + Des max 2; furtivita svantaggio; 20 kg; 750 mo |
-| Corazza ad anelli | CA 14; furtivita svantaggio; 20 kg; 30 mo |
-| Cotta di maglia | CA 16; For 13; furtivita svantaggio; 27,5 kg; 75 mo |
-| Corazza a strisce | CA 17; For 15; furtivita svantaggio; 30 kg; 200 mo |
-| Armatura a piastre | CA 18; For 15; furtivita svantaggio; 32,5 kg; 1.500 mo |
-| Scudo | CA +2; 3 kg; 10 mo |
+| Categoria | Armatura | Classe Armatura | Forza | Furtività | Peso | Costo |
+| --- | --- | --- | --- | --- | --- | --- |
+| Leggera | Armatura imbottita | 11 + Des | - | Svantaggio | 4 kg | 5 mo |
+| Leggera | Armatura di cuoio | 11 + Des | - | - | 5 kg | 10 mo |
+| Leggera | Armatura di cuoio borchiato | 12 + Des | - | - | 6,5 kg | 45 mo |
+| Media | Armatura di pelle | 12 + Des max 2 | - | - | 6 kg | 10 mo |
+| Media | Giaco di maglia | 13 + Des max 2 | - | - | 10 kg | 50 mo |
+| Media | Corazza a scaglie | 14 + Des max 2 | - | Svantaggio | 22,5 kg | 50 mo |
+| Media | Corazza di piastre | 14 + Des max 2 | - | - | 10 kg | 400 mo |
+| Media | Mezza armatura | 15 + Des max 2 | - | Svantaggio | 20 kg | 750 mo |
+| Pesante | Corazza ad anelli | 14 | - | Svantaggio | 20 kg | 30 mo |
+| Pesante | Cotta di maglia | 16 | For 13 | Svantaggio | 27,5 kg | 75 mo |
+| Pesante | Corazza a strisce | 17 | For 15 | Svantaggio | 30 kg | 200 mo |
+| Pesante | Armatura a piastre | 18 | For 15 | Svantaggio | 32,5 kg | 1.500 mo |
+| Scudo | Scudo | +2 | - | - | 3 kg | 10 mo |
 
 ---
 
@@ -1866,90 +3027,90 @@ L'equipaggiamento d'avventura raccoglie attrezzi, contenitori, dotazioni, focus,
 
 ### Equipaggiamento d'avventura: peso e costo
 
-| Voce | Riepilogo |
-| --- | --- |
-| Abiti da viaggiatore | 2 kg; 2 mo |
-| Abiti eleganti | 3 kg; 15 mo |
-| Acciarino e pietra focaia | 0,5 kg; 5 ma |
-| Acido | 0,5 kg; 25 mo |
-| Acqua santa | 0,5 kg; 25 mo |
-| Ampolla | 0,5 kg; 2 mr |
-| Antitossina | -; 50 mo |
-| Ariete portatile | 17,5 kg; 4 mo |
-| Asta | 3,5 kg; 5 mr |
-| Attrezzi da scalatore | 6 kg; 25 mo |
-| Barile | 35 kg; 2 mo |
-| Borsa | 0,5 kg; 5 ma |
-| Borsa del guaritore | 1,5 kg; 5 mo |
-| Borsa per componenti | 1 kg; 25 mo |
-| Bottiglia di vetro | 1 kg; 2 mo |
-| Brocca | 2 kg; 2 mr |
-| Campanella | -; 1 mo |
-| Candela | -; 1 mr |
-| Cannocchiale | 0,5 kg; 1.000 mo |
-| Carrucola e paranco | 2,5 kg; 1 mo |
-| Carta | -; 2 ma |
-| Catena | 5 kg; 5 mo |
-| Cesto | 1 kg; 4 ma |
-| Coperta | 1,5 kg; 5 ma |
-| Corda | 2,5 kg; 1 mo |
-| Costume | 2 kg; 5 mo |
-| Custodia per mappe o pergamene | 0,5 kg; 1 mo |
-| Custodia per quadrelli | 0,5 kg; 1 mo |
-| Dotazione da avventuriero | 27,5 kg; 12 mo |
-| Dotazione da diplomatico | 19,5 kg; 39 mo |
-| Dotazione da esploratore | 27,5 kg; 10 mo |
-| Dotazione da intrattenitore | 29 kg; 40 mo |
-| Dotazione da sacerdote | 14 kg; 33 mo |
-| Dotazione da scassinatore | 19 kg; 16 mo |
-| Dotazione da studioso | 11 kg; 40 mo |
-| Faretra | 0,5 kg; 1 mo |
-| Fiala | -; 1 mo |
-| Fischietto da richiamo | -; 5 mr |
-| Focus arcano | variabile; variabile |
-| Focus druidico | variabile; variabile |
-| Forziere | 12,5 kg; 5 mo |
-| Fuoco dell'alchimista | 0,5 kg; 50 mo |
-| Giaciglio | 3,5 kg; 1 mo |
-| Inchiostro | -; 10 mo |
-| Lampada | 0,5 kg; 5 ma |
-| Lanterna a lente sporgente | 1 kg; 10 mo |
-| Lanterna schermabile | 1 kg; 5 mo |
-| Lente d'ingrandimento | -; 100 mo |
-| Libro | 2,5 kg; 25 mo |
-| Manette | 3 kg; 2 mo |
-| Mappa | -; 1 mo |
-| Munizioni | variabile; variabile |
-| Olio | 0,5 kg; 1 ma |
-| Otre | 2,5 kg pieno; 2 ma |
-| Pala | 2,5 kg; 2 mo |
-| Pennino | -; 2 mr |
-| Pentola di ferro | 5 kg; 2 mo |
-| Pergamena | -; 1 ma |
-| Pergamena magica livello 1 | -; 50 mo |
-| Pergamena magica trucchetto | -; 30 mo |
-| Piede di porco | 2,5 kg; 2 mo |
-| Pozione di guarigione | 0,25 kg; 50 mo |
-| Profumo | -; 5 mo |
-| Rampino | 2 kg; 2 mo |
-| Razioni | 1 kg; 5 ma |
-| Rete | 1,5 kg; 1 mo |
-| Sacco | 0,25 kg; 1 mr |
-| Scala a pioli | 12,5 kg; 1 ma |
-| Secchio | 1 kg; 5 mr |
-| Serratura | 0,5 kg; 10 mo |
-| Sfere metalliche | 1 kg; 1 mo |
-| Simbolo sacro | variabile; variabile |
-| Spago | -; 1 ma |
-| Specchio | 0,25 kg; 5 mo |
-| Spuntoni di ferro | 2,5 kg; 1 mo |
-| Tagliola | 12,5 kg; 5 mo |
-| Tenda | 10 kg; 2 mo |
-| Torcia | 0,5 kg; 1 mr |
-| Triboli | 1 kg; 1 mo |
-| Tunica | 2 kg; 1 mo |
-| Veleno base | -; 100 mo |
-| Zaino | 2,5 kg; 2 mo |
+| Oggetto | Peso | Costo |
+| --- | --- | --- |
+| Abiti da viaggiatore | 2 kg | 2 mo |
+| Abiti eleganti | 3 kg | 15 mo |
+| Acciarino e pietra focaia | 0,5 kg | 5 ma |
+| Acido | 0,5 kg | 25 mo |
+| Acqua santa | 0,5 kg | 25 mo |
+| Ampolla | 0,5 kg | 2 mr |
+| Antitossina | - | 50 mo |
+| Ariete portatile | 17,5 kg | 4 mo |
+| Asta | 3,5 kg | 5 mr |
+| Attrezzi da scalatore | 6 kg | 25 mo |
+| Barile | 35 kg | 2 mo |
+| Borsa | 0,5 kg | 5 ma |
+| Borsa del guaritore | 1,5 kg | 5 mo |
+| Borsa per componenti | 1 kg | 25 mo |
+| Bottiglia di vetro | 1 kg | 2 mo |
+| Brocca | 2 kg | 2 mr |
+| Campanella | - | 1 mo |
+| Candela | - | 1 mr |
+| Cannocchiale | 0,5 kg | 1.000 mo |
+| Carrucola e paranco | 2,5 kg | 1 mo |
+| Carta | - | 2 ma |
+| Catena | 5 kg | 5 mo |
+| Cesto | 1 kg | 4 ma |
+| Coperta | 1,5 kg | 5 ma |
+| Corda | 2,5 kg | 1 mo |
+| Costume | 2 kg | 5 mo |
+| Custodia per mappe o pergamene | 0,5 kg | 1 mo |
+| Custodia per quadrelli | 0,5 kg | 1 mo |
+| Dotazione da avventuriero | 27,5 kg | 12 mo |
+| Dotazione da diplomatico | 19,5 kg | 39 mo |
+| Dotazione da esploratore | 27,5 kg | 10 mo |
+| Dotazione da intrattenitore | 29 kg | 40 mo |
+| Dotazione da sacerdote | 14 kg | 33 mo |
+| Dotazione da scassinatore | 19 kg | 16 mo |
+| Dotazione da studioso | 11 kg | 40 mo |
+| Faretra | 0,5 kg | 1 mo |
+| Fiala | - | 1 mo |
+| Fischietto da richiamo | - | 5 mr |
+| Focus arcano | variabile | variabile |
+| Focus druidico | variabile | variabile |
+| Forziere | 12,5 kg | 5 mo |
+| Fuoco dell'alchimista | 0,5 kg | 50 mo |
+| Giaciglio | 3,5 kg | 1 mo |
+| Inchiostro | - | 10 mo |
+| Lampada | 0,5 kg | 5 ma |
+| Lanterna a lente sporgente | 1 kg | 10 mo |
+| Lanterna schermabile | 1 kg | 5 mo |
+| Lente d'ingrandimento | - | 100 mo |
+| Libro | 2,5 kg | 25 mo |
+| Manette | 3 kg | 2 mo |
+| Mappa | - | 1 mo |
+| Munizioni | variabile | variabile |
+| Olio | 0,5 kg | 1 ma |
+| Otre | 2,5 kg pieno | 2 ma |
+| Pala | 2,5 kg | 2 mo |
+| Pennino | - | 2 mr |
+| Pentola di ferro | 5 kg | 2 mo |
+| Pergamena | - | 1 ma |
+| Pergamena magica livello 1 | - | 50 mo |
+| Pergamena magica trucchetto | - | 30 mo |
+| Piede di porco | 2,5 kg | 2 mo |
+| Pozione di guarigione | 0,25 kg | 50 mo |
+| Profumo | - | 5 mo |
+| Rampino | 2 kg | 2 mo |
+| Razioni | 1 kg | 5 ma |
+| Rete | 1,5 kg | 1 mo |
+| Sacco | 0,25 kg | 1 mr |
+| Scala a pioli | 12,5 kg | 1 ma |
+| Secchio | 1 kg | 5 mr |
+| Serratura | 0,5 kg | 10 mo |
+| Sfere metalliche | 1 kg | 1 mo |
+| Simbolo sacro | variabile | variabile |
+| Spago | - | 1 ma |
+| Specchio | 0,25 kg | 5 mo |
+| Spuntoni di ferro | 2,5 kg | 1 mo |
+| Tagliola | 12,5 kg | 5 mo |
+| Tenda | 10 kg | 2 mo |
+| Torcia | 0,5 kg | 1 mr |
+| Triboli | 1 kg | 1 mo |
+| Tunica | 2 kg | 1 mo |
+| Veleno base | - | 100 mo |
+| Zaino | 2,5 kg | 2 mo |
 
 ---
 
@@ -1964,16 +3125,16 @@ Cavalcature, veicoli da tiro, veicoli aerei e imbarcazioni permettono di traspor
 
 ### Cavalcature
 
-| Voce | Riepilogo |
-| --- | --- |
-| Cammello | Capacita 225 kg; costo 50 mo. |
-| Cavallo da galoppo | Capacita 240 kg; costo 75 mo. |
-| Cavallo da guerra | Capacita 270 kg; costo 400 mo. |
-| Cavallo da tiro | Capacita 270 kg; costo 50 mo. |
-| Elefante | Capacita 660 kg; costo 200 mo. |
-| Mastino | Capacita 97,5 kg; costo 25 mo. |
-| Mulo | Capacita 210 kg; costo 8 mo. |
-| Pony | Capacita 112,5 kg; costo 30 mo. |
+| Oggetto | Capacità di trasporto | Costo |
+| --- | --- | --- |
+| Cammello | 225 kg | 50 mo |
+| Cavallo da galoppo | 240 kg | 75 mo |
+| Cavallo da guerra | 270 kg | 400 mo |
+| Cavallo da tiro | 270 kg | 50 mo |
+| Elefante | 660 kg | 200 mo |
+| Mastino | 97,5 kg | 25 mo |
+| Mulo | 210 kg | 8 mo |
+| Pony | 112,5 kg | 30 mo |
 
 ### Regole e veicoli
 
@@ -1987,30 +3148,30 @@ Cavalcature, veicoli da tiro, veicoli aerei e imbarcazioni permettono di traspor
 
 ### Finimenti e veicoli da tiro
 
-| Voce | Riepilogo |
-| --- | --- |
-| Biga | 50 kg; 250 mo |
-| Carretto | 100 kg; 15 mo |
-| Carro | 200 kg; 35 mo |
-| Carrozza | 300 kg; 100 mo |
-| Nutrimento al giorno | 5 kg; 5 mr |
-| Sella da galoppo | 12,5 kg; 10 mo |
-| Sella esotica | 20 kg; 60 mo |
-| Sella militare | 15 kg; 20 mo |
-| Slitta | 150 kg; 20 mo |
-| Stallaggio al giorno | -; 5 ma |
+| Oggetto | Peso | Costo |
+| --- | --- | --- |
+| Biga | 50 kg | 250 mo |
+| Carretto | 100 kg | 15 mo |
+| Carro | 200 kg | 35 mo |
+| Carrozza | 300 kg | 100 mo |
+| Nutrimento al giorno | 5 kg | 5 mr |
+| Sella da galoppo | 12,5 kg | 10 mo |
+| Sella esotica | 20 kg | 60 mo |
+| Sella militare | 15 kg | 20 mo |
+| Slitta | 150 kg | 20 mo |
+| Stallaggio al giorno | - | 5 ma |
 
 ### Veicoli aerei e imbarcazioni
 
-| Voce | Riepilogo |
-| --- | --- |
-| Barca a remi | 2,25 km/h; equipaggio 1; passeggeri 3; CA 11; PF 50; costo 50 mo |
-| Barcone | 1,5 km/h; equipaggio 1; passeggeri 6; carico 1/2 t; CA 15; PF 100; soglia 10; costo 3.000 mo |
-| Dirigibile | 12 km/h; equipaggio 10; passeggeri 20; carico 1 t; CA 13; PF 300; costo 40.000 mo |
-| Galea | 6 km/h; equipaggio 80; carico 150 t; CA 15; PF 500; soglia 20; costo 30.000 mo |
-| Nave a vela | 3 km/h; equipaggio 20; passeggeri 20; carico 100 t; CA 15; PF 300; soglia 15; costo 10.000 mo |
-| Nave da guerra | 3,75 km/h; equipaggio 60; passeggeri 60; carico 200 t; CA 15; PF 500; soglia 20; costo 25.000 mo |
-| Nave lunga | 4,5 km/h; equipaggio 40; passeggeri 150; carico 10 t; CA 15; PF 300; soglia 15; costo 10.000 mo |
+| Nave | Velocità | Equipaggio | Passeggeri | Carico | CA | PF | Soglia di danno | Costo |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Barca a remi | 2,25 km/h | 1 | 3 | - | 11 | 50 | - | 50 mo |
+| Barcone | 1,5 km/h | 1 | 6 | 1/2 t | 15 | 100 | 10 | 3.000 mo |
+| Dirigibile | 12 km/h | 10 | 20 | 1 t | 13 | 300 | - | 40.000 mo |
+| Galea | 6 km/h | 80 | - | 150 t | 15 | 500 | 20 | 30.000 mo |
+| Nave a vela | 3 km/h | 20 | 20 | 100 t | 15 | 300 | 15 | 10.000 mo |
+| Nave da guerra | 3,75 km/h | 60 | 60 | 200 t | 15 | 500 | 20 | 25.000 mo |
+| Nave lunga | 4,5 km/h | 40 | 150 | 10 t | 15 | 300 | 15 | 10.000 mo |
 
 ---
 
@@ -2052,29 +3213,40 @@ Le spese dello stile di vita coprono vitto, alloggio, manutenzione dell'attrezza
 
 ### Vitto e alloggio
 
-| Voce | Riepilogo |
-| --- | --- |
-| Birra | Boccale 4 mr |
-| Formaggio | Fetta 1 ma |
-| Locanda | Squallido 7 mr; povero 1 ma; modesto 5 ma; agiato 8 ma; ricco 2 mo; aristocratico 4 mo |
-| Pagnotta | 2 mr |
-| Pasto | Squallido 1 mr; povero 2 mr; modesto 1 ma; agiato 2 ma; ricco 3 ma; aristocratico 6 ma |
-| Vino | Comune 2 ma; pregiato 10 mo |
+| Oggetto | Dettaglio | Costo |
+| --- | --- | --- |
+| Birra | Boccale | 4 mr |
+| Fetta di formaggio | — | 1 ma |
+| Locanda | Squallido | 7 mr |
+| Locanda | Povero | 1 ma |
+| Locanda | Modesto | 5 ma |
+| Locanda | Agiato | 8 ma |
+| Locanda | Ricco | 2 mo |
+| Locanda | Aristocratico | 4 mo |
+| Pagnotta | — | 2 mr |
+| Pasto | Squallido | 1 mr |
+| Pasto | Povero | 2 mr |
+| Pasto | Modesto | 1 ma |
+| Pasto | Agiato | 2 ma |
+| Pasto | Ricco | 3 ma |
+| Pasto | Aristocratico | 6 ma |
+| Vino | Comune | 2 ma |
+| Vino | Pregiato | 10 mo |
 
 ### Gregari e servizi magici
 
-| Voce | Riepilogo |
-| --- | --- |
-| Gregario abile | 2 mo al giorno |
-| Gregario inesperto | 2 ma al giorno |
-| Messaggero | 2 mr per 1,5 km |
-| Trucchetto | Villaggio, cittadina o citta; 30 mo |
-| Incantesimo 1 | Villaggio, cittadina o citta; 50 mo |
-| Incantesimo 2 | Villaggio, cittadina o citta; 200 mo |
-| Incantesimo 3 | Solo cittadina o citta; 300 mo |
-| Incantesimo 4-5 | Solo cittadina o citta; 2.000 mo |
-| Incantesimo 6-8 | Solo citta; 20.000 mo |
-| Incantesimo 9 | Solo citta; 100.000 mo |
+| Categoria | Servizio/Livello | Disponibilità | Costo |
+| --- | --- | --- | --- |
+| Gregari | Gregario abile | — | 2 mo al giorno |
+| Gregari | Gregario inesperto | — | 2 ma al giorno |
+| Gregari | Messaggero | — | 2 mr per 1,5 km |
+| Servizi magici | Trucchetto | Villaggio, cittadina o città | 30 mo |
+| Servizi magici | 1 | Villaggio, cittadina o città | 50 mo |
+| Servizi magici | 2 | Villaggio, cittadina o città | 200 mo |
+| Servizi magici | 3 | Solo cittadina o città | 300 mo |
+| Servizi magici | 4-5 | Solo cittadina o città | 2.000 mo |
+| Servizi magici | 6-8 | Solo città | 20.000 mo |
+| Servizi magici | 9 | Solo città | 100.000 mo |
 
 ---
 
@@ -2107,18 +3279,18 @@ Il capitolo equipaggiamento riepiloga identificazione e sintonia degli oggetti m
 
 ### Costi pergamene magiche
 
-| Voce | Riepilogo |
-| --- | --- |
-| Trucchetto | 1 giorno, 15 mo. |
-| 1 | 1 giorno, 25 mo. |
-| 2 | 3 giorni, 100 mo. |
-| 3 | 5 giorni, 150 mo. |
-| 4 | 10 giorni, 1.000 mo. |
-| 5 | 25 giorni, 1.500 mo. |
-| 6 | 40 giorni, 10.000 mo. |
-| 7 | 50 giorni, 12.500 mo. |
-| 8 | 60 giorni, 15.000 mo. |
-| 9 | 120 giorni, 50.000 mo. |
+| Livello incantesimo | Tempo | Costo |
+| --- | --- | --- |
+| Trucchetto | 1 giorno | 15 mo |
+| 1 | 1 giorno | 25 mo |
+| 2 | 3 giorni | 100 mo |
+| 3 | 5 giorni | 150 mo |
+| 4 | 10 giorni | 1.000 mo |
+| 5 | 25 giorni | 1.500 mo |
+| 6 | 40 giorni | 10.000 mo |
+| 7 | 50 giorni | 12.500 mo |
+| 8 | 60 giorni | 15.000 mo |
+| 9 | 120 giorni | 50.000 mo |
 
 ---
 
@@ -2329,16 +3501,16 @@ Il terreno predominante determina il passo massimo di viaggio. Strade, velocita 
 
 ### Terreni
 
-| Voce | Riepilogo |
-| --- | --- |
-| Artico | Passo massimo veloce con equipaggiamento adeguato; CD foraggiare 20, orientarsi 10, cercare 10. |
-| Costiero | Passo massimo normale; CD foraggiare 10, orientarsi 5, cercare 15. |
-| Deserto | Passo massimo normale; CD foraggiare 20, orientarsi 10, cercare 10. |
-| Foresta | Passo massimo normale; CD foraggiare 10, orientarsi 15, cercare 15. |
-| Prateria | Passo massimo veloce; CD foraggiare 15, orientarsi 5, cercare 15. |
-| Montagna o palude | Passo massimo lento. |
-| Sottosuolo o urbano | Passo massimo normale. |
-| Sull'acqua | Il movimento dipende dal veicolo. |
+| Terreno | Passo massimo | CD foraggiare | CD orientarsi | CD cercare |
+| --- | --- | --- | --- | --- |
+| Artico | veloce con equipaggiamento adeguato | 20 | 10 | 10 |
+| Costiero | normale | 10 | 5 | 15 |
+| Deserto | normale | 20 | 10 | 10 |
+| Foresta | normale | 10 | 15 | 15 |
+| Prateria | veloce | 15 | 5 | 15 |
+| Montagna o palude | lento | - | - | - |
+| Sottosuolo o urbano | normale | - | - | - |
+| Sull'acqua | Il movimento dipende dal veicolo. | - | - | - |
 
 ---
 
@@ -2513,28 +3685,28 @@ La costruzione di combattimenti usa obiettivi di difficolta, budget di PE e scel
 
 ### Budget di PE per personaggio
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | Facile 50; Media 75; Difficile 100 |
-| 2 | 100; 150; 200 |
-| 3 | 150; 225; 400 |
-| 4 | 250; 375; 500 |
-| 5 | 500; 750; 1.100 |
-| 6 | 600; 1.000; 1.400 |
-| 7 | 750; 1.300; 1.700 |
-| 8 | 1.000; 1.700; 2.100 |
-| 9 | 1.300; 2.000; 2.600 |
-| 10 | 1.600; 2.300; 3.100 |
-| 11 | 1.900; 2.900; 4.100 |
-| 12 | 2.200; 3.700; 4.700 |
-| 13 | 2.600; 4.200; 5.400 |
-| 14 | 2.900; 4.900; 6.200 |
-| 15 | 3.300; 5.400; 7.800 |
-| 16 | 3.800; 6.100; 9.800 |
-| 17 | 4.500; 7.200; 11.700 |
-| 18 | 5.000; 8.700; 14.200 |
-| 19 | 5.500; 10.700; 17.200 |
-| 20 | 6.400; 13.200; 22.000 |
+| Livello del gruppo | Facile | Media | Difficile |
+| --- | --- | --- | --- |
+| 1 | 50 | 75 | 100 |
+| 2 | 100 | 150 | 200 |
+| 3 | 150 | 225 | 400 |
+| 4 | 250 | 375 | 500 |
+| 5 | 500 | 750 | 1.100 |
+| 6 | 600 | 1.000 | 1.400 |
+| 7 | 750 | 1.300 | 1.700 |
+| 8 | 1.000 | 1.700 | 2.100 |
+| 9 | 1.300 | 2.000 | 2.600 |
+| 10 | 1.600 | 2.300 | 3.100 |
+| 11 | 1.900 | 2.900 | 4.100 |
+| 12 | 2.200 | 3.700 | 4.700 |
+| 13 | 2.600 | 4.200 | 5.400 |
+| 14 | 2.900 | 4.900 | 6.200 |
+| 15 | 3.300 | 5.400 | 7.800 |
+| 16 | 3.800 | 6.100 | 9.800 |
+| 17 | 4.500 | 7.200 | 11.700 |
+| 18 | 5.000 | 8.700 | 14.200 |
+| 19 | 5.500 | 10.700 | 17.200 |
+| 20 | 6.400 | 13.200 | 22.000 |
 
 ---
 
@@ -2583,14 +3755,14 @@ La rarita misura approssimativamente il potere di un oggetto magico e puo aiutar
 
 ### Valori per rarita
 
-| Voce | Riepilogo |
+| Rarità | Valore base |
 | --- | --- |
-| Comune | 100 mo. |
-| Non comune | 400 mo. |
-| Raro | 4.000 mo. |
-| Molto raro | 40.000 mo. |
-| Leggendario | 200.000 mo. |
-| Manufatto | Inestimabile. |
+| Comune | 100 mo |
+| Non comune | 400 mo |
+| Raro | 4.000 mo |
+| Molto raro | 40.000 mo |
+| Leggendario | 200.000 mo |
+| Manufatto | Inestimabile |
 
 **Consumabili**
 
@@ -2625,16 +3797,16 @@ Le pozioni possono interagire in modo imprevedibile, gli oggetti maledetti nasco
 
 ### Miscibilita delle pozioni
 
-| Voce | Riepilogo |
+| 1d100 | Risultato |
 | --- | --- |
-| 01 | Entrambe perdono effetto e generano un'esplosione: 4d10 danni da forza in una sfera di 1,5 metri. |
-| 02-08 | Entrambe perdono effetto e la miscela diventa un veleno da ingestione scelto dal GM. |
-| 09-15 | Entrambe le pozioni perdono effetto. |
-| 16-25 | Una delle pozioni perde effetto. |
-| 26-35 | Entrambe funzionano, ma effetti numerici e durata sono dimezzati; se una non ha numeri o durata perde effetto. |
-| 36-90 | Entrambe funzionano normalmente. |
-| 91-99 | Entrambe funzionano, ma effetti numerici e durata di una sono raddoppiati; se non applicabile funzionano normalmente. |
-| 00 | Solo una pozione funziona, ma il suo effetto diventa permanente a discrezione del GM. |
+| 01 | Entrambe le pozioni perdono i loro effetti e la miscela genera un'esplosione magica in una sfera di 1,5 metri di raggio centrata su se stessa. Ogni creatura nell'area subisce 4d10 danni da forza. |
+| 02-08 | Entrambe le pozioni perdono i loro effetti e la miscela diventa un veleno da ingestione a tua scelta. |
+| 09-15 | Entrambe le pozioni perdono i loro effetti. |
+| 16-25 | Una delle pozioni perde il suo effetto. |
+| 26-35 | Entrambe le pozioni funzionano, ma i loro effetti numerici e la durata sono dimezzati. Se una pozione non ha effetto numerico né durata, perde il suo effetto. |
+| 36-90 | Entrambe le pozioni funzionano normalmente. |
+| 91-99 | Entrambe le pozioni funzionano, ma gli effetti numerici e la durata di una pozione sono raddoppiati. Se nessuna delle due pozioni ha valori raddoppiabili, entrambe funzionano normalmente. |
+| 00 | Solo una pozione funziona, ma il suo effetto è permanente a discrezione del GM. |
 
 ### Maledizioni e resilienza
 
@@ -2688,27 +3860,27 @@ Creare oggetti magici richiede competenza in Arcano, strumenti appropriati, even
 
 ### Strumenti per categoria
 
-| Voce | Riepilogo |
+| Categoria di oggetto | Strumento richiesto |
 | --- | --- |
-| Anello | Strumenti da gioielliere. |
-| Armature | Strumenti da conciatore, da fabbro o da tessitore secondo il tipo di armatura. |
-| Arma | Strumenti da conciatore, da fabbro o da intagliatore secondo il tipo di arma. |
-| Bacchetta | Strumenti da intagliatore. |
-| Bastone | Strumenti da intagliatore. |
-| Oggetti meravigliosi | Strumenti da inventore o lo strumento necessario per costruire l'oggetto non magico di base. |
-| Pergamena | Scorte da calligrafo. |
-| Pozione | Scorte da alchimista o borsa da erborista. |
-| Verga | Strumenti da intagliatore. |
+| Anello | Strumenti da gioielliere |
+| Armature | Strumenti da conciatore, da fabbro o da tessitore, a seconda del tipo di armatura |
+| Arma | Strumenti da conciatore, da fabbro o da intagliatore, a seconda del tipo di arma |
+| Bacchetta | Strumenti da intagliatore |
+| Bastone | Strumenti da intagliatore |
+| Oggetti meravigliosi | Strumenti da inventore o lo strumento necessario per costruire l'oggetto non magico su cui si basa l'oggetto magico |
+| Pergamena | Scorte da calligrafo |
+| Pozione | Scorte da alchimista o borsa da erborista |
+| Verga | Strumenti da intagliatore |
 
 ### Tempi e costi
 
-| Voce | Riepilogo |
-| --- | --- |
-| Comune | 5 giorni, 50 mo. |
-| Non comune | 10 giorni, 200 mo. |
-| Raro | 50 giorni, 2.000 mo. |
-| Molto raro | 125 giorni, 20.000 mo. |
-| Leggendario | 250 giorni, 100.000 mo. |
+| Rarità dell'oggetto | Tempo | Costo |
+| --- | --- | --- |
+| Comune | 5 giorni | 50 mo |
+| Non comune | 10 giorni | 200 mo |
+| Raro | 50 giorni | 2.000 mo |
+| Molto raro | 125 giorni | 20.000 mo |
+| Leggendario | 250 giorni | 100.000 mo |
 
 **Competenza**
 
@@ -2816,28 +3988,45 @@ Le componenti numeriche della scheda spiegano CA, iniziativa, punti ferita, velo
 
 ### Dadi Vita per taglia
 
-| Voce | Riepilogo |
-| --- | --- |
-| Minuscola | d4, media 2,5 PF per dado. |
-| Piccola | d6, media 3,5 PF per dado. |
-| Media | d8, media 4,5 PF per dado. |
-| Grande | d10, media 5,5 PF per dado. |
-| Enorme | d12, media 6,5 PF per dado. |
-| Mastodontica | d20, media 10,5 PF per dado. |
+| Taglia | Dado Vita | PF medi per dado |
+| --- | --- | --- |
+| Minuscola | d4 | 2,5 |
+| Piccola | d6 | 3,5 |
+| Media | d8 | 4,5 |
+| Grande | d10 | 5,5 |
+| Enorme | d12 | 6,5 |
+| Mastodontica | d20 | 10,5 |
 
-### GS, PE e competenza
+### Punti esperienza per grado di sfida
 
-| Voce | Riepilogo |
-| --- | --- |
-| PE per GS | Un mostro assegna PE in base al grado di sfida se sconfitto o neutralizzato in altro modo. |
-| BC 0-4 | +2. |
-| BC 5-8 | +3. |
-| BC 9-12 | +4. |
-| BC 13-16 | +5. |
-| BC 17-20 | +6. |
-| BC 21-24 | +7. |
-| BC 25-28 | +8. |
-| BC 29-30 | +9. |
+| GS | PE | GS | PE |
+| --- | --- | --- | --- |
+| 0 | 0 o 10 | 14 | 11.500 |
+| 1/8 | 25 | 15 | 13.000 |
+| 1/4 | 50 | 16 | 15.000 |
+| 1/2 | 100 | 17 | 18.000 |
+| 1 | 200 | 18 | 20.000 |
+| 2 | 450 | 19 | 22.000 |
+| 3 | 700 | 20 | 25.000 |
+| 4 | 1.100 | 21 | 33.000 |
+| 5 | 1.800 | 22 | 41.000 |
+| 6 | 2.300 | 23 | 50.000 |
+| 7 | 2.900 | 24 | 62.000 |
+| 8 | 3.900 | 25 | 75.000 |
+| 9 | 5.000 | 26 | 90.000 |
+| 10 | 5.900 | 27 | 105.000 |
+| 11 | 7.200 | 28 | 120.000 |
+| 12 | 8.400 | 29 | 135.000 |
+| 13 | 10.000 | 30 | 155.000 |
+
+### Bonus di competenza per grado di sfida
+
+| GS | BC | GS | BC |
+| --- | --- | --- | --- |
+| 0-4 | +2 | 17-20 | +6 |
+| 5-8 | +3 | 21-24 | +7 |
+| 9-12 | +4 | 25-28 | +8 |
+| 13-16 | +5 | 29-30 | +9 |
 
 **Attrezzatura**
 
