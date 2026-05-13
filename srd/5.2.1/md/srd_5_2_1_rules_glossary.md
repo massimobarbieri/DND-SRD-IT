@@ -1880,3 +1880,376 @@ Con l'azione di Studio effettui una prova di Intelligenza per analizzare memoria
 | Natura | Terreno, flora, tempo atmosferico e alcune creature |
 | Religione | Divinità, riti, gerarchie religiose, simboli sacri, culti e alcune creature |
 | Storia | Eventi e personaggi storici, civiltà, guerre e alcune creature |
+
+---
+
+## Svantaggio
+
+**id:** svantaggio
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 217
+**vedi_anche:** prove_con_d20
+
+Se hai svantaggio a una prova con d20, tiri due d20 e usi il risultato più basso. Più svantaggi non si accumulano e vantaggio e svantaggio sullo stesso tiro si annullano.
+
+---
+
+## Taglia
+
+**id:** taglia
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 217
+**vedi_anche:** rompere_gli_oggetti, combattimento
+
+Ogni creatura o oggetto ha una categoria di taglia: Minuscola, Piccola, Media, Grande, Enorme o Mastodontica. La taglia di una creatura determina lo spazio occupato in combattimento; quella di un oggetto influenza i suoi punti ferita.
+
+---
+
+## Telepatia
+
+**id:** telepatia
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 217
+
+La telepatia è un'abilità magica che consente a una creatura di comunicare mentalmente con un'altra creatura entro un raggio specificato.
+
+### Regole
+
+**Comprensione**
+La creatura contattata non deve parlare la stessa lingua, ma deve comprendere almeno una lingua o essere telepatica.
+
+**Contatto**
+La creatura telepatica può iniziare o terminare il contatto in qualsiasi momento senza azione, ma il contatto termina se una delle due creature è incapacitata, esce dal raggio o se la creatura telepatica contatta un'altra creatura.
+
+---
+
+## Teletrasporto
+
+**id:** teletrasporto
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 217
+
+Il teletrasporto è trasporto magico istantaneo: scompari e riappari altrove senza muoverti nello spazio intermedio. Non consuma movimento e non provoca attacchi di opportunità, salvo diversa indicazione.
+
+### Regole
+
+**Equipaggiamento**
+Quando ti teletrasporti, anche l'equipaggiamento indossato o trasportato si teletrasporta.
+
+**Spazio occupato**
+Se lo spazio di destinazione è occupato o bloccato, appari nello spazio libero più vicino a tua scelta.
+
+---
+
+## Terreno difficile
+
+**id:** terreno_difficile
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 217
+
+In terreno difficile, ogni 30 centimetri di movimento costano 30 centimetri extra. Il terreno difficile non è cumulativo.
+
+### Esempi
+
+| Elemento | Effetto |
+| --- | --- |
+| Creatura non minuscola o non alleata | Rende difficile lo spazio |
+| Mobili grandi | Rendono difficile lo spazio |
+| Neve alta, ghiaccio, detriti o sottobosco | Rendono difficile lo spazio |
+| Liquido fino agli stinchi o alla vita | Rende difficile lo spazio |
+| Apertura stretta | Rende difficile lo spazio |
+| Pendenza di 20 gradi o più | Rende difficile lo spazio |
+
+---
+
+## Tipi di danno
+
+**id:** tipi_di_danno
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 217
+
+Gli attacchi e altri effetti dannosi infliggono vari tipi di danno. I tipi non hanno regole proprie, ma altre regole, come resistenza o vulnerabilità, possono farvi riferimento.
+
+### Tipi di danno
+
+| Tipo | Esempi |
+| --- | --- |
+| Acido | Liquidi corrosivi, enzimi digestivi |
+| Contundente | Oggetti contundenti, stritolamento, caduta |
+| Forza | Pura energia magica |
+| Freddo | Acqua gelata, getti ghiacciati |
+| Fulmine | Elettricità |
+| Fuoco | Fiamme, calore insopportabile |
+| Necrotico | Energia in grado di risucchiare la vita |
+| Perforante | Zanne, oggetti perforanti |
+| Psichico | Energia in grado di spezzare la mente |
+| Radioso | Energia sacra, radiazione incandescente |
+| Tagliente | Artigli, oggetti taglienti |
+| Tuono | Suono concussivo |
+| Veleno | Gas tossico, veleno |
+
+---
+
+## Tipo di creatura
+
+**id:** tipo_di_creatura
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 218
+
+Ogni creatura ha un descrittore che identifica il tipo di creatura. I tipi non hanno regole proprie, ma alcune regole influenzano certi tipi diversamente.
+
+### Tipi
+
+| Tipo | Note |
+| --- | --- |
+| Aberrazione | Tipo di creatura |
+| Bestia | Tipo di creatura |
+| Celestiale | Tipo di creatura |
+| Costrutto | Tipo di creatura |
+| Drago | Tipo di creatura |
+| Elementale | Tipo di creatura |
+| Folletto | Tipo di creatura |
+| Gigante | Tipo di creatura |
+| Immondo | Tipo di creatura |
+| Melma | Tipo di creatura |
+| Mostruosità | Tipo di creatura |
+| Non morto | Tipo di creatura |
+| Umanoide | Tipo di creatura |
+| Vegetale | Tipo di creatura |
+
+---
+
+## Tiro per colpire
+
+**id:** tiro_per_colpire
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 218
+**vedi_anche:** prove_con_d20
+
+Un tiro per colpire è una prova con d20 che rappresenta un attacco con arma, colpo senz'armi o incantesimo.
+
+---
+
+## Tiro per i danni
+
+**id:** tiro_per_i_danni
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 218
+**vedi_anche:** danni_e_guarigione
+
+Un tiro per i danni è un tiro di dado, con eventuali modificatori, che infligge danni a un bersaglio.
+
+---
+
+## Tiro salvezza
+
+**id:** tiro_salvezza
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 218
+**vedi_anche:** prove_con_d20
+
+Un tiro salvezza rappresenta il tentativo di evitare o resistere a una minaccia. Di norma si effettua solo quando una regola lo richiede, ma puoi scegliere di fallirlo senza tirare.
+
+---
+
+## Tiro salvezza contro morte
+
+**id:** tiro_salvezza_contro_morte
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 218
+**vedi_anche:** danni_e_guarigione
+
+Un personaggio giocante effettua un tiro salvezza contro morte se inizia il proprio turno con 0 punti ferita.
+
+---
+
+## Tramortire una creatura
+
+**id:** tramortire_una_creatura
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 218
+
+Quando stai per ridurre una creatura a 0 punti ferita con un attacco in mischia, puoi invece ridurla a 1 punto ferita. La creatura diventa priva di sensi e inizia un riposo breve.
+
+---
+
+## Trattenuto
+
+**id:** trattenuto
+**lettera:** T
+**descrittore:** condizione
+**pagine_sorgente:** 218
+
+Condizione che impedisce movimento e ostacola difesa e attacchi.
+
+### Effetti
+
+**Velocità 0**
+La velocità è 0 e non può aumentare.
+
+**Influenza sugli attacchi**
+I tiri per colpire contro la creatura hanno vantaggio, mentre i suoi tiri per colpire hanno svantaggio.
+
+**Influenza sui tiri salvezza**
+La creatura ha svantaggio ai TS su Destrezza.
+
+---
+
+## Trucchetto
+
+**id:** trucchetto
+**lettera:** T
+**descrittore:** null
+**pagine_sorgente:** 218
+**vedi_anche:** incantesimo
+
+Un trucchetto è un incantesimo di livello 0 che si lancia senza slot incantesimo.
+
+---
+
+## Utilizzo
+
+**id:** utilizzo
+**lettera:** U
+**descrittore:** azione
+**pagine_sorgente:** 218
+
+Quando l'utilizzo di un oggetto richiede un'azione, effettui l'azione di Utilizzo. Le interazioni semplici con oggetti possono avvenire mentre fai altro, salvo diversa indicazione.
+
+---
+
+## Vantaggio
+
+**id:** vantaggio
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 218
+**vedi_anche:** prove_con_d20
+
+Se hai vantaggio a una prova con d20, tiri due d20 e usi il risultato più alto. Più vantaggi non si accumulano e vantaggio e svantaggio sullo stesso tiro si annullano.
+
+---
+
+## Velocità
+
+**id:** velocita
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 218-219
+**vedi_anche:** nuotare, saltare, scalare, strisciare, volare, combattimento
+
+La velocità è la distanza in metri che una creatura può percorrere quando si muove nel suo turno.
+
+### Regole
+
+**Velocità speciali**
+Se hai più velocità, scegli quale usare e puoi passare da un tipo all'altro sottraendo dalla nuova velocità la distanza già percorsa.
+
+**Modifiche alle velocità**
+Se un effetto aumenta o diminuisce la velocità per un periodo, anche le velocità speciali aumentano o diminuiscono della stessa quantità e durata.
+
+---
+
+## Velocità di nuoto
+
+**id:** velocita_di_nuoto
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+**vedi_anche:** nuotare, velocita
+
+La velocità di nuoto permette di nuotare senza spendere movimento extra normalmente associato al nuoto.
+
+---
+
+## Velocità di scalata
+
+**id:** velocita_di_scalata
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+**vedi_anche:** scalare, velocita
+
+La velocità di scalata può sostituire la velocità per arrampicarsi su superfici verticali senza spendere movimento extra normalmente associato alla scalata.
+
+---
+
+## Velocità di scavo
+
+**id:** velocita_di_scavo
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+**vedi_anche:** velocita
+
+Una creatura con velocità di scavo può usarla per muoversi attraverso sabbia, terra, fango o ghiaccio. Non può scavare nella roccia solida salvo tratto specifico.
+
+---
+
+## Velocità di volo
+
+**id:** velocita_di_volo
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+**vedi_anche:** volare, velocita
+
+La velocità di volo permette di spostarsi in aria. Finché la possiedi, puoi restare sospeso fino ad atterrare, cadere o morire.
+
+---
+
+## Vista cieca
+
+**id:** vista_cieca
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+
+Con vista cieca puoi vedere entro un raggio specifico senza affidarti alla vista. Entro quel raggio vedi ciò che non è dietro copertura totale, anche se sei accecato o in oscurità, e vedi ciò che è invisibile.
+
+---
+
+## Vista pura
+
+**id:** vista_pura
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+
+La vista pura migliora la vista entro un raggio specifico, permettendo di vedere attraverso oscurità, invisibilità, illusioni visive, trasformazioni magiche e nel Piano Etereo.
+
+---
+
+## Volare
+
+**id:** volare
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+**vedi_anche:** caduta, velocita_di_volo
+
+Mentre voli, cadi se sei incapacitato o prono, o se la tua velocità di volo scende a 0. Puoi restare sospeso se sei in grado di fluttuare.
+
+---
+
+## Vulnerabilità
+
+**id:** vulnerabilita
+**lettera:** V
+**descrittore:** null
+**pagine_sorgente:** 219
+**vedi_anche:** danni_e_guarigione
+
+Se sei vulnerabile a un tipo di danno, i danni di quel tipo che subisci sono raddoppiati. La vulnerabilità si applica una sola volta per ogni istanza di danno.
