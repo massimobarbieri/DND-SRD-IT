@@ -542,5 +542,181 @@
         "blocchi": []
       }
     ]
+  },
+  {
+    "id": "ottenere_incantesimi",
+    "nome": "Ottenere incantesimi",
+    "capitolo": "Incantesimi",
+    "categoria": "Incantesimi",
+    "pagine_sorgente": "118",
+    "descrizione": "Prima di lanciare un incantesimo, una creatura deve averlo preparato, averlo sempre preparato tramite un privilegio o accedervi tramite un oggetto magico.",
+    "sezioni": [
+      {
+        "titolo": "Preparazione degli incantesimi per classe",
+        "righe": [
+          { "chiave": "Bardo", "valore": "Modifica quando acquisisce un livello; cambia un incantesimo." },
+          { "chiave": "Chierico", "valore": "Modifica quando completa un riposo lungo; cambia qualsiasi numero di incantesimi." },
+          { "chiave": "Druido", "valore": "Modifica quando completa un riposo lungo; cambia qualsiasi numero di incantesimi." },
+          { "chiave": "Mago", "valore": "Modifica quando completa un riposo lungo; cambia qualsiasi numero di incantesimi." },
+          { "chiave": "Paladino", "valore": "Modifica quando completa un riposo lungo; cambia un incantesimo." },
+          { "chiave": "Ranger", "valore": "Modifica quando completa un riposo lungo; cambia un incantesimo." },
+          { "chiave": "Stregone", "valore": "Modifica quando acquisisce un livello; cambia un incantesimo." },
+          { "chiave": "Warlock", "valore": "Modifica quando acquisisce un livello; cambia un incantesimo." }
+        ],
+        "blocchi": [
+          { "nome": "Mostri", "descrizione": "Quasi tutti i mostri che lanciano incantesimi non modificano la lista degli incantesimi preparati, ma il GM puo ritoccarla." },
+          { "nome": "Sempre preparati", "descrizione": "Un incantesimo sempre preparato non conta nel numero di incantesimi della lista modificabile del personaggio." },
+          { "nome": "Armatura", "descrizione": "Un incantatore deve essere competente nell'armatura che indossa per lanciare incantesimi mentre la indossa." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "slot_e_lancio_incantesimi",
+    "nome": "Slot e lancio degli incantesimi",
+    "capitolo": "Incantesimi",
+    "categoria": "Incantesimi",
+    "pagine_sorgente": "118-119",
+    "descrizione": "Gli slot incantesimo rappresentano il potenziale magico di una creatura. Lanciare un incantesimo di 1º livello o superiore consuma normalmente uno slot di livello pari o superiore.",
+    "sezioni": [
+      {
+        "titolo": "Livello e slot",
+        "righe": [
+          { "chiave": "Livelli", "valore": "Gli incantesimi hanno livello da 0 a 9; i trucchetti sono di livello 0." },
+          { "chiave": "Consumo", "valore": "Quando lanci un incantesimo, consumi uno slot di livello pari o superiore a quello dell'incantesimo." },
+          { "chiave": "Riposo lungo", "valore": "Completare un riposo lungo ripristina tutti gli slot incantesimo spesi." },
+          { "chiave": "Slot superiore", "valore": "Un incantesimo lanciato con uno slot superiore assume quel livello per quel lancio." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Senza spendere slot",
+        "righe": [
+          { "chiave": "Trucchetti", "valore": "Si lanciano senza usare slot incantesimo." },
+          { "chiave": "Rituali", "valore": "Richiedono 10 minuti in piu, non consumano slot e devono essere preparati." },
+          { "chiave": "Capacita speciali", "valore": "Possono permettere lanci senza slot, spesso con limiti giornalieri o altre restrizioni." },
+          { "chiave": "Oggetti magici", "valore": "Pergamene e altri oggetti possono contenere incantesimi lanciabili senza slot secondo la loro descrizione." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "scuole_tempo_gittata_incantesimi",
+    "nome": "Scuole, tempo e gittata",
+    "capitolo": "Incantesimi",
+    "categoria": "Incantesimi",
+    "pagine_sorgente": "119-120",
+    "descrizione": "Ogni descrizione di incantesimo indica scuola, tempo di lancio e gittata. Queste voci determinano come e dove l'incantesimo puo essere lanciato.",
+    "sezioni": [
+      {
+        "titolo": "Scuole di magia",
+        "righe": [
+          { "chiave": "Abiurazione", "valore": "Previene o inverte effetti dannosi." },
+          { "chiave": "Ammaliamento", "valore": "Influenza la mente altrui." },
+          { "chiave": "Divinazione", "valore": "Rivela informazioni." },
+          { "chiave": "Evocazione", "valore": "Trasporta creature od oggetti." },
+          { "chiave": "Illusione", "valore": "Inganna mente o sensi." },
+          { "chiave": "Invocazione", "valore": "Canalizza energia per creare effetti spesso distruttivi." },
+          { "chiave": "Necromanzia", "valore": "Manipola vita e morte." },
+          { "chiave": "Trasmutazione", "valore": "Trasforma creature od oggetti." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Tempo di lancio",
+        "righe": [
+          { "chiave": "Azione di Magia", "valore": "La maggior parte degli incantesimi richiede una singola azione di Magia." },
+          { "chiave": "Un solo slot per turno", "valore": "In un turno si puo spendere un solo slot per lanciare un incantesimo." },
+          { "chiave": "Reazione", "valore": "Un incantesimo con tempo di reazione si lancia in risposta all'innesco indicato." },
+          { "chiave": "Azione bonus", "valore": "Alcuni incantesimi con azione bonus rispondono a un innesco definito nell'incantesimo." },
+          { "chiave": "Tempi lunghi", "valore": "Se il tempo e 1 minuto o piu, serve un'azione di Magia ogni turno e concentrazione; se la concentrazione si interrompe, l'incantesimo fallisce senza consumare slot." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Gittata",
+        "righe": [
+          { "chiave": "Distanza", "valore": "La gittata e espressa in metri." },
+          { "chiave": "Contatto", "valore": "L'effetto ha origine su qualcosa che l'incantatore deve toccare entro la portata definita." },
+          { "chiave": "Incantatore", "valore": "L'incantesimo viene lanciato sull'incantatore o si irradia da lui." },
+          { "chiave": "Effetti mobili", "valore": "Non sono limitati dalla gittata dopo il lancio, salvo diversa indicazione." }
+        ],
+        "blocchi": [
+          { "nome": "Identificare un incantesimo in corso", "descrizione": "Per identificare un incantesimo non istantaneo osservabile, si usa l'azione di Studio e si supera una prova di Intelligenza (Arcano) con CD 15." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "componenti_durata_incantesimi",
+    "nome": "Componenti e durata",
+    "capitolo": "Incantesimi",
+    "categoria": "Incantesimi",
+    "pagine_sorgente": "120",
+    "descrizione": "Le componenti sono i requisiti fisici necessari al lancio di un incantesimo. La durata indica per quanto tempo l'effetto persiste dopo il lancio.",
+    "sezioni": [
+      {
+        "titolo": "Componenti",
+        "righe": [
+          { "chiave": "Verbale (V)", "valore": "Richiede una cantilena a voce normale; non funziona se la creatura e imbavagliata o in silenzio magico." },
+          { "chiave": "Somatica (S)", "valore": "Richiede gesti energici o movimenti elaborati e almeno una mano libera." },
+          { "chiave": "Materiale (M)", "valore": "Richiede materiali indicati tra parentesi; non sono consumati salvo diversa indicazione." },
+          { "chiave": "Borsa o focus", "valore": "Se il materiale non ha costo e non viene consumato, puo essere sostituito da borsa per componenti o focus da incantatore consentito dal privilegio." },
+          { "chiave": "Mano libera", "valore": "La mano usata per materiali o focus puo essere la stessa usata per componenti somatiche." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Durata",
+        "righe": [
+          { "chiave": "Concentrazione", "valore": "Segue le regole di concentrazione." },
+          { "chiave": "Istantanea", "valore": "L'incantesimo appare solo per un momento e poi scompare." },
+          { "chiave": "Intervallo", "valore": "La durata e espressa in round, minuti, ore o altre unita simili." },
+          { "chiave": "Interrompere", "valore": "Se un incantesimo a intervallo e in corso, l'incantatore puo interromperlo senza azione se non e incapacitato." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "bersagli_tiri_effetti_incantesimi",
+    "nome": "Bersagli, tiri ed effetti",
+    "capitolo": "Incantesimi",
+    "categoria": "Incantesimi",
+    "pagine_sorgente": "120-121",
+    "descrizione": "Gli effetti di un incantesimo specificano bersagli, tiri salvezza, tiri per colpire e risultati. Gli esiti oltre il testo dell'incantesimo restano a discrezione del GM.",
+    "sezioni": [
+      {
+        "titolo": "Bersagli",
+        "righe": [
+          { "chiave": "Percorso libero", "valore": "Per bersagliare qualcosa serve un percorso libero; il bersaglio non deve essere dietro copertura totale." },
+          { "chiave": "Se stessi", "valore": "Se l'incantesimo bersaglia una creatura a scelta, l'incantatore puo scegliere se stesso salvo vincoli contrari." },
+          { "chiave": "Area di effetto", "valore": "Cono, cubo, cilindro, emanazione, linea o sfera determinano quali bersagli sono colpiti." },
+          { "chiave": "Accorgersi", "valore": "Una creatura puo non accorgersi di essere bersagliata se l'effetto non e percettibile." },
+          { "chiave": "Bersaglio non valido", "valore": "Non accade nulla al bersaglio, ma uno slot speso viene consumato; di norma sembra che il bersaglio abbia superato il tiro salvezza." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Tiri",
+        "righe": [
+          { "chiave": "CD incantesimo", "valore": "8 + modificatore di caratteristica da incantatore + bonus di competenza." },
+          { "chiave": "Attacco incantesimo", "valore": "Modificatore di caratteristica da incantatore + bonus di competenza." },
+          { "chiave": "Tiri salvezza", "valore": "L'incantesimo indica caratteristica usata e cosa accade in caso di successo o fallimento." },
+          { "chiave": "Tiri per colpire", "valore": "Alcuni incantesimi richiedono un tiro per determinare se l'effetto colpisce il bersaglio." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Combinare effetti",
+        "righe": [],
+        "blocchi": [
+          { "nome": "Incantesimi diversi", "descrizione": "Gli effetti di incantesimi diversi si sommano finche le rispettive durate si sovrappongono." },
+          { "nome": "Stesso incantesimo", "descrizione": "Gli effetti dello stesso incantesimo lanciato piu volte non si combinano: si applica solo l'effetto piu potente." },
+          { "nome": "Pari potenza", "descrizione": "Se gli effetti sono ugualmente potenti, si applica quello piu recente mentre le durate si sovrappongono." }
+        ]
+      }
+    ]
   }
 ]

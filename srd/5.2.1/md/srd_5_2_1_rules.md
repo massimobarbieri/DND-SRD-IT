@@ -4,6 +4,8 @@ Fonte: `srd/5.2.1/pdf/IT_SRD_CC_v5.2.1.pdf`, capitolo "Come si gioca", pagine 5-
 
 Aggiornamento: aggiunto anche il capitolo "Equipaggiamento", pagine 101-117.
 
+Aggiornamento: aggiunto anche il capitolo "Incantesimi", pagine 118-121.
+
 ## Ritmo di gioco
 
 **id:** ritmo_di_gioco
@@ -552,3 +554,182 @@ Il capitolo equipaggiamento riepiloga identificazione e sintonia degli oggetti m
 | 7 | 50 giorni, 12.500 mo. |
 | 8 | 60 giorni, 15.000 mo. |
 | 9 | 120 giorni, 50.000 mo. |
+
+---
+
+## Ottenere incantesimi
+
+**id:** ottenere_incantesimi
+**capitolo:** Incantesimi
+**categoria:** Incantesimi
+**pagine_sorgente:** 118
+
+Prima di lanciare un incantesimo, una creatura deve averlo preparato, averlo sempre preparato tramite un privilegio o accedervi tramite un oggetto magico.
+
+### Preparazione degli incantesimi per classe
+
+| Classe | Modifica |
+| --- | --- |
+| Bardo | Modifica quando acquisisce un livello; cambia un incantesimo. |
+| Chierico | Modifica quando completa un riposo lungo; cambia qualsiasi numero di incantesimi. |
+| Druido | Modifica quando completa un riposo lungo; cambia qualsiasi numero di incantesimi. |
+| Mago | Modifica quando completa un riposo lungo; cambia qualsiasi numero di incantesimi. |
+| Paladino | Modifica quando completa un riposo lungo; cambia un incantesimo. |
+| Ranger | Modifica quando completa un riposo lungo; cambia un incantesimo. |
+| Stregone | Modifica quando acquisisce un livello; cambia un incantesimo. |
+| Warlock | Modifica quando acquisisce un livello; cambia un incantesimo. |
+
+**Mostri**
+Quasi tutti i mostri che lanciano incantesimi non modificano la lista degli incantesimi preparati, ma il GM puo ritoccarla.
+
+**Sempre preparati**
+Un incantesimo sempre preparato non conta nel numero di incantesimi della lista modificabile del personaggio.
+
+**Armatura**
+Un incantatore deve essere competente nell'armatura che indossa per lanciare incantesimi mentre la indossa.
+
+---
+
+## Slot e lancio degli incantesimi
+
+**id:** slot_e_lancio_incantesimi
+**capitolo:** Incantesimi
+**categoria:** Incantesimi
+**pagine_sorgente:** 118-119
+
+Gli slot incantesimo rappresentano il potenziale magico di una creatura. Lanciare un incantesimo di 1º livello o superiore consuma normalmente uno slot di livello pari o superiore.
+
+### Livello e slot
+
+| Voce | Riepilogo |
+| --- | --- |
+| Livelli | Gli incantesimi hanno livello da 0 a 9; i trucchetti sono di livello 0. |
+| Consumo | Quando lanci un incantesimo, consumi uno slot di livello pari o superiore a quello dell'incantesimo. |
+| Riposo lungo | Completare un riposo lungo ripristina tutti gli slot incantesimo spesi. |
+| Slot superiore | Un incantesimo lanciato con uno slot superiore assume quel livello per quel lancio. |
+
+### Senza spendere slot
+
+| Fonte | Riepilogo |
+| --- | --- |
+| Trucchetti | Si lanciano senza usare slot incantesimo. |
+| Rituali | Richiedono 10 minuti in piu, non consumano slot e devono essere preparati. |
+| Capacita speciali | Possono permettere lanci senza slot, spesso con limiti giornalieri o altre restrizioni. |
+| Oggetti magici | Pergamene e altri oggetti possono contenere incantesimi lanciabili senza slot secondo la loro descrizione. |
+
+---
+
+## Scuole, tempo e gittata
+
+**id:** scuole_tempo_gittata_incantesimi
+**capitolo:** Incantesimi
+**categoria:** Incantesimi
+**pagine_sorgente:** 119-120
+
+Ogni descrizione di incantesimo indica scuola, tempo di lancio e gittata. Queste voci determinano come e dove l'incantesimo puo essere lanciato.
+
+### Scuole di magia
+
+| Scuola | Effetti tipici |
+| --- | --- |
+| Abiurazione | Previene o inverte effetti dannosi. |
+| Ammaliamento | Influenza la mente altrui. |
+| Divinazione | Rivela informazioni. |
+| Evocazione | Trasporta creature od oggetti. |
+| Illusione | Inganna mente o sensi. |
+| Invocazione | Canalizza energia per creare effetti spesso distruttivi. |
+| Necromanzia | Manipola vita e morte. |
+| Trasmutazione | Trasforma creature od oggetti. |
+
+### Tempo di lancio
+
+| Voce | Riepilogo |
+| --- | --- |
+| Azione di Magia | La maggior parte degli incantesimi richiede una singola azione di Magia. |
+| Un solo slot per turno | In un turno si puo spendere un solo slot per lanciare un incantesimo. |
+| Reazione | Un incantesimo con tempo di reazione si lancia in risposta all'innesco indicato. |
+| Azione bonus | Alcuni incantesimi con azione bonus rispondono a un innesco definito nell'incantesimo. |
+| Tempi lunghi | Se il tempo e 1 minuto o piu, serve un'azione di Magia ogni turno e concentrazione; se la concentrazione si interrompe, l'incantesimo fallisce senza consumare slot. |
+
+### Gittata
+
+| Forma | Riepilogo |
+| --- | --- |
+| Distanza | La gittata e espressa in metri. |
+| Contatto | L'effetto ha origine su qualcosa che l'incantatore deve toccare entro la portata definita. |
+| Incantatore | L'incantesimo viene lanciato sull'incantatore o si irradia da lui. |
+| Effetti mobili | Non sono limitati dalla gittata dopo il lancio, salvo diversa indicazione. |
+
+**Identificare un incantesimo in corso**
+Per identificare un incantesimo non istantaneo osservabile, si usa l'azione di Studio e si supera una prova di Intelligenza (Arcano) con CD 15.
+
+---
+
+## Componenti e durata
+
+**id:** componenti_durata_incantesimi
+**capitolo:** Incantesimi
+**categoria:** Incantesimi
+**pagine_sorgente:** 120
+
+Le componenti sono i requisiti fisici necessari al lancio di un incantesimo. La durata indica per quanto tempo l'effetto persiste dopo il lancio.
+
+### Componenti
+
+| Componente | Riepilogo |
+| --- | --- |
+| Verbale (V) | Richiede una cantilena a voce normale; non funziona se la creatura e imbavagliata o in silenzio magico. |
+| Somatica (S) | Richiede gesti energici o movimenti elaborati e almeno una mano libera. |
+| Materiale (M) | Richiede materiali indicati tra parentesi; non sono consumati salvo diversa indicazione. |
+| Borsa o focus | Se il materiale non ha costo e non viene consumato, puo essere sostituito da borsa per componenti o focus da incantatore consentito dal privilegio. |
+| Mano libera | La mano usata per materiali o focus puo essere la stessa usata per componenti somatiche. |
+
+### Durata
+
+| Forma | Riepilogo |
+| --- | --- |
+| Concentrazione | Segue le regole di concentrazione. |
+| Istantanea | L'incantesimo appare solo per un momento e poi scompare. |
+| Intervallo | La durata e espressa in round, minuti, ore o altre unita simili. |
+| Interrompere | Se un incantesimo a intervallo e in corso, l'incantatore puo interromperlo senza azione se non e incapacitato. |
+
+---
+
+## Bersagli, tiri ed effetti
+
+**id:** bersagli_tiri_effetti_incantesimi
+**capitolo:** Incantesimi
+**categoria:** Incantesimi
+**pagine_sorgente:** 120-121
+
+Gli effetti di un incantesimo specificano bersagli, tiri salvezza, tiri per colpire e risultati. Gli esiti oltre il testo dell'incantesimo restano a discrezione del GM.
+
+### Bersagli
+
+| Voce | Riepilogo |
+| --- | --- |
+| Percorso libero | Per bersagliare qualcosa serve un percorso libero; il bersaglio non deve essere dietro copertura totale. |
+| Se stessi | Se l'incantesimo bersaglia una creatura a scelta, l'incantatore puo scegliere se stesso salvo vincoli contrari. |
+| Area di effetto | Cono, cubo, cilindro, emanazione, linea o sfera determinano quali bersagli sono colpiti. |
+| Accorgersi | Una creatura puo non accorgersi di essere bersagliata se l'effetto non e percettibile. |
+| Bersaglio non valido | Non accade nulla al bersaglio, ma uno slot speso viene consumato; di norma sembra che il bersaglio abbia superato il tiro salvezza. |
+
+### Tiri
+
+| Tiro | Formula o regola |
+| --- | --- |
+| CD incantesimo | 8 + modificatore di caratteristica da incantatore + bonus di competenza. |
+| Attacco incantesimo | Modificatore di caratteristica da incantatore + bonus di competenza. |
+| Tiri salvezza | L'incantesimo indica caratteristica usata e cosa accade in caso di successo o fallimento. |
+| Tiri per colpire | Alcuni incantesimi richiedono un tiro per determinare se l'effetto colpisce il bersaglio. |
+
+### Combinare effetti
+
+**Incantesimi diversi**
+Gli effetti di incantesimi diversi si sommano finche le rispettive durate si sovrappongono.
+
+**Stesso incantesimo**
+Gli effetti dello stesso incantesimo lanciato piu volte non si combinano: si applica solo l'effetto piu potente.
+
+**Pari potenza**
+Se gli effetti sono ugualmente potenti, si applica quello piu recente mentre le durate si sovrappongono.
