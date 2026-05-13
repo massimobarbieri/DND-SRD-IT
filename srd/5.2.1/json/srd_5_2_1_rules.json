@@ -159,6 +159,30 @@
           { "nome": "Azioni bonus", "descrizione": "Puoi effettuare un'azione bonus solo quando una regola lo consente. Nel tuo turno puoi effettuarne una sola." },
           { "nome": "Reazioni", "descrizione": "Una reazione e una risposta istantanea a un innesco. Dopo averla usata, non puoi usarne un'altra fino all'inizio del tuo turno successivo." }
         ]
+      },
+      {
+        "titolo": "Abilita",
+        "righe": [
+          { "chiave": "Acrobazia", "valore": "Destrezza; rimanere in piedi in una situazione difficile o eseguire acrobazie." },
+          { "chiave": "Addestrare animali", "valore": "Saggezza; calmare o controllare animali." },
+          { "chiave": "Arcano", "valore": "Intelligenza; ricordare conoscenze su incantesimi, oggetti magici e piani." },
+          { "chiave": "Atletica", "valore": "Forza; saltare, scalare, nuotare o lottare contro resistenza fisica." },
+          { "chiave": "Furtivita", "valore": "Destrezza; muoversi senza essere notati." },
+          { "chiave": "Indagare", "valore": "Intelligenza; cercare indizi e fare deduzioni." },
+          { "chiave": "Inganno", "valore": "Carisma; mentire o nascondere intenzioni." },
+          { "chiave": "Intimidire", "valore": "Carisma; influenzare tramite minacce o presenza." },
+          { "chiave": "Intuizione", "valore": "Saggezza; leggere intenzioni ed emozioni." },
+          { "chiave": "Intrattenere", "valore": "Carisma; esibirsi davanti a un pubblico." },
+          { "chiave": "Medicina", "valore": "Saggezza; stabilizzare, diagnosticare o curare." },
+          { "chiave": "Natura", "valore": "Intelligenza; ricordare informazioni su ambiente, animali e piante." },
+          { "chiave": "Percezione", "valore": "Saggezza; notare dettagli, creature o pericoli." },
+          { "chiave": "Persuasione", "valore": "Carisma; influenzare con tatto o argomenti." },
+          { "chiave": "Rapidita di mano", "valore": "Destrezza; borseggiare, manipolare o nascondere oggetti." },
+          { "chiave": "Religione", "valore": "Intelligenza; ricordare conoscenze su divinita, riti e culti." },
+          { "chiave": "Sopravvivenza", "valore": "Saggezza; seguire tracce, orientarsi e vivere nelle terre selvagge." },
+          { "chiave": "Storia", "valore": "Intelligenza; ricordare eventi, popoli e luoghi storici." }
+        ],
+        "blocchi": []
       }
     ]
   },
@@ -179,6 +203,15 @@
           { "nome": "Interazioni con oggetti", "descrizione": "In combattimento o in tempo limitato e possibile una sola interazione libera per turno; interazioni aggiuntive richiedono l'azione di Utilizzo." },
           { "nome": "Viaggiare", "descrizione": "Il passo di viaggio influenza furtivita, percezione e sopravvivenza." }
         ]
+      },
+      {
+        "titolo": "Passo di viaggio",
+        "righe": [
+          { "chiave": "Veloce", "valore": "120 m/min; 6 km/ora; 45 km/giorno; penalita alla Percezione passiva." },
+          { "chiave": "Normale", "valore": "90 m/min; 4,5 km/ora; 36 km/giorno." },
+          { "chiave": "Lento", "valore": "60 m/min; 3 km/ora; 27 km/giorno; consente Furtivita." }
+        ],
+        "blocchi": []
       }
     ]
   },
@@ -247,6 +280,1350 @@
           { "nome": "Ottenere 1 o 20", "descrizione": "Un 1 naturale conta come due fallimenti. Un 20 naturale fa recuperare 1 punto ferita." },
           { "nome": "Stabilizzare un personaggio", "descrizione": "Con l'azione di Aiuto si puo stabilizzare una creatura a 0 punti ferita superando una prova di Saggezza (Medicina) con CD 10." }
         ]
+      }
+    ]
+  },
+  {
+    "id": "creare_personaggio",
+    "nome": "Creare il personaggio",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "21",
+    "descrizione": "La creazione del personaggio parte dalla scelta di una scheda e procede attraverso classe, origini, punteggi di caratteristica, allineamento e dettagli finali.",
+    "sezioni": [
+      {
+        "titolo": "Fasi principali",
+        "righe": [
+          { "chiave": "1. Classe", "valore": "Descrive vocazione, talenti speciali e tattiche preferite del personaggio." },
+          { "chiave": "2. Origini", "valore": "Comprendono background, specie e lingue." },
+          { "chiave": "3. Caratteristiche", "valore": "Determinano gran parte delle azioni del personaggio." },
+          { "chiave": "4. Allineamento", "valore": "Rappresenta la bussola morale del personaggio." },
+          { "chiave": "5. Dettagli", "valore": "Completa la scheda usando le scelte precedenti." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Panoramica classi",
+        "righe": [
+          { "chiave": "Barbaro", "valore": "Battaglia; caratteristica primaria Forza; complessita media." },
+          { "chiave": "Bardo", "valore": "Esibizione; Carisma; complessita alta." },
+          { "chiave": "Chierico", "valore": "Dei; Saggezza; complessita media." },
+          { "chiave": "Druido", "valore": "Natura; Saggezza; complessita alta." },
+          { "chiave": "Guerriero", "valore": "Armi; Forza o Destrezza; complessita bassa." },
+          { "chiave": "Ladro", "valore": "Furtivita; Destrezza; complessita bassa." },
+          { "chiave": "Mago", "valore": "Libri di incantesimi; Intelligenza; complessita media." },
+          { "chiave": "Monaco", "valore": "Combattimento senz'armi; Destrezza e Saggezza; complessita alta." },
+          { "chiave": "Paladino", "valore": "Difesa; Forza e Carisma; complessita media." },
+          { "chiave": "Ranger", "valore": "Sopravvivenza; Destrezza e Saggezza; complessita media." },
+          { "chiave": "Stregone", "valore": "Potere; Carisma; complessita alta." },
+          { "chiave": "Warlock", "valore": "Scienze occulte; Carisma; complessita alta." }
+        ],
+        "blocchi": [
+          { "nome": "Livello e PE", "descrizione": "In genere un personaggio inizia al 1º livello con 0 PE. Se parte dal 3º livello o oltre, annota anche la sottoclasse." },
+          { "nome": "Armature", "descrizione": "La classe puo fornire competenze nelle armature; annotale sulla scheda del personaggio." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "origini_lingue_personaggio",
+    "nome": "Origini e lingue del personaggio",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "21-23",
+    "descrizione": "Le origini del personaggio derivano da background, specie e lingue. Background e classe forniscono anche competenze ed equipaggiamento iniziale.",
+    "sezioni": [
+      {
+        "titolo": "Origini",
+        "righe": [
+          { "chiave": "Background", "valore": "Rappresenta luogo e occupazione che hanno formato maggiormente il personaggio; fornisce talento, due abilita e uno strumento." },
+          { "chiave": "Equipaggiamento", "valore": "Background e classe forniscono equipaggiamento iniziale; le monete possono essere spese subito." },
+          { "chiave": "Specie", "valore": "Opzioni SRD: Dragonide, elfo, gnomo, goliath, halfling, nano, orco, tiefling e umano." },
+          { "chiave": "Taglia e velocita", "valore": "Sono determinate dalla specie e vanno annotate sulla scheda." },
+          { "chiave": "Passato", "valore": "Background e specie aiutano a definire famiglia, amicizie, legami, organizzazioni e motivazione all'avventura." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Lingue",
+        "righe": [
+          { "chiave": "Base", "valore": "Il personaggio conosce il Comune e altre due lingue scelte o determinate casualmente." },
+          { "chiave": "Standard", "valore": "Lingua dei segni comune, Draconico, Nanico, Elfico, Gigante, Gnomesco, Goblin, Halfling, Orchesco." },
+          { "chiave": "Rare", "valore": "Abissale, Celestiale, Druidico, Gergo delle profondita, Infernale, Primordiale, Silvano, Sottocomune, Gergo ladresco." },
+          { "chiave": "Primordiale", "valore": "Include i dialetti Aquan, Auran, Ignan e Terran; parlanti di dialetti diversi comunicano tra loro." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Lingue standard con tiro",
+        "righe": [
+          { "chiave": "-", "valore": "Comune" },
+          { "chiave": "1", "valore": "Lingua dei segni comune" },
+          { "chiave": "2", "valore": "Draconico" },
+          { "chiave": "3", "valore": "Nanico" },
+          { "chiave": "4", "valore": "Elfico" },
+          { "chiave": "5", "valore": "Gigante" },
+          { "chiave": "6", "valore": "Gnomesco" },
+          { "chiave": "7", "valore": "Goblin" },
+          { "chiave": "8", "valore": "Halfling" },
+          { "chiave": "9", "valore": "Orchesco" },
+          { "chiave": "10-12", "valore": "Scegli una lingua standard o usa una lingua concessa dal GM." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Lingue rare",
+        "righe": [
+          { "chiave": "Abissale", "valore": "Lingua rara" },
+          { "chiave": "Celestiale", "valore": "Lingua rara" },
+          { "chiave": "Druidico", "valore": "Lingua rara" },
+          { "chiave": "Gergo delle profondita", "valore": "Lingua rara" },
+          { "chiave": "Infernale", "valore": "Lingua rara" },
+          { "chiave": "Primordiale", "valore": "Lingua rara; comprende Aquan, Auran, Ignan e Terran." },
+          { "chiave": "Silvano", "valore": "Lingua rara" },
+          { "chiave": "Sottocomune", "valore": "Lingua rara" },
+          { "chiave": "Gergo ladresco", "valore": "Lingua rara" }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "caratteristiche_allineamento_personaggio",
+    "nome": "Caratteristiche e allineamento",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "23-24",
+    "descrizione": "I punteggi di caratteristica possono essere generati con serie standard, generazione casuale o costo in punti. L'allineamento descrive ideali e atteggiamenti etici.",
+    "sezioni": [
+      {
+        "titolo": "Generare e modificare punteggi",
+        "righe": [
+          { "chiave": "Serie standard", "valore": "15, 14, 13, 12, 10, 8." },
+          { "chiave": "Generazione casuale", "valore": "Tira 4d6, somma i tre piu alti; ripeti fino a ottenere sei numeri." },
+          { "chiave": "Costo in punti", "valore": "27 punti; punteggi disponibili da 8 a 15 con costi da 0 a 9." },
+          { "chiave": "Background", "valore": "Aumenta un punteggio di 2 e un altro di 1, oppure tre punteggi di 1; nessun incremento oltre 20." },
+          { "chiave": "Modificatori", "valore": "Usa la tabella dei modificatori: 10-11 vale +0, 12-13 +1, 14-15 +2, 16-17 +3, 18-19 +4, 20 +5." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Allineamenti",
+        "righe": [
+          { "chiave": "LB", "valore": "Agisce nel modo considerato giusto dalla societa." },
+          { "chiave": "NB", "valore": "Fa del suo meglio senza sentirsi rigidamente vincolato dalle regole." },
+          { "chiave": "CB", "valore": "Segue la coscienza senza curarsi troppo delle aspettative." },
+          { "chiave": "LN", "valore": "Segue legge, tradizione o codici personali." },
+          { "chiave": "N", "valore": "Evita questioni morali e fa cio che sembra migliore volta per volta." },
+          { "chiave": "CN", "valore": "Segue i propri capricci e mette la liberta personale al primo posto." },
+          { "chiave": "LM/NM/CM", "valore": "Allineamenti malvagi da concordare con il GM prima di creare il personaggio." }
+        ],
+        "blocchi": [
+          { "nome": "Senza allineamento", "descrizione": "Molte creature prive di mente razionale sono senza allineamento." }
+        ]
+      },
+      {
+        "titolo": "Costi in punti del punteggio di caratteristica",
+        "righe": [
+          { "chiave": "8", "valore": "0" },
+          { "chiave": "9", "valore": "1" },
+          { "chiave": "10", "valore": "2" },
+          { "chiave": "11", "valore": "3" },
+          { "chiave": "12", "valore": "4" },
+          { "chiave": "13", "valore": "5" },
+          { "chiave": "14", "valore": "7" },
+          { "chiave": "15", "valore": "9" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Serie standard per classe",
+        "righe": [
+          { "chiave": "Barbaro", "valore": "For 15, Des 13, Cos 14, Int 10, Sag 12, Car 8" },
+          { "chiave": "Bardo", "valore": "For 8, Des 14, Cos 12, Int 13, Sag 10, Car 15" },
+          { "chiave": "Chierico", "valore": "For 14, Des 8, Cos 13, Int 10, Sag 15, Car 12" },
+          { "chiave": "Druido", "valore": "For 8, Des 12, Cos 14, Int 13, Sag 15, Car 10" },
+          { "chiave": "Guerriero", "valore": "For 15, Des 14, Cos 13, Int 8, Sag 10, Car 12" },
+          { "chiave": "Ladro", "valore": "For 12, Des 15, Cos 13, Int 14, Sag 10, Car 8" },
+          { "chiave": "Mago", "valore": "For 8, Des 12, Cos 13, Int 15, Sag 14, Car 10" },
+          { "chiave": "Monaco", "valore": "For 12, Des 15, Cos 13, Int 10, Sag 14, Car 8" },
+          { "chiave": "Paladino", "valore": "For 15, Des 10, Cos 13, Int 8, Sag 12, Car 14" },
+          { "chiave": "Ranger", "valore": "For 12, Des 15, Cos 13, Int 8, Sag 14, Car 10" },
+          { "chiave": "Stregone", "valore": "For 10, Des 13, Cos 14, Int 8, Sag 12, Car 15" },
+          { "chiave": "Warlock", "valore": "For 8, Des 14, Cos 13, Int 12, Sag 10, Car 15" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Punteggi di caratteristica e modificatori",
+        "righe": [
+          { "chiave": "3", "valore": "-4" },
+          { "chiave": "4-5", "valore": "-3" },
+          { "chiave": "6-7", "valore": "-2" },
+          { "chiave": "8-9", "valore": "-1" },
+          { "chiave": "10-11", "valore": "+0" },
+          { "chiave": "12-13", "valore": "+1" },
+          { "chiave": "14-15", "valore": "+2" },
+          { "chiave": "16-17", "valore": "+3" },
+          { "chiave": "18-19", "valore": "+4" },
+          { "chiave": "20", "valore": "+5" }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "compilare_scheda_personaggio",
+    "nome": "Compilare la scheda del personaggio",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "24-25",
+    "descrizione": "Dopo le scelte iniziali si registrano privilegi di classe, tiri salvezza, abilita, percezione passiva, punti ferita, Dadi Vita, iniziativa, Classe Armatura, attacchi e incantesimi.",
+    "sezioni": [
+      {
+        "titolo": "Numeri principali",
+        "righe": [
+          { "chiave": "Tiri salvezza", "valore": "Se competente, aggiungi bonus di competenza al modificatore di caratteristica appropriato." },
+          { "chiave": "Abilita", "valore": "Se competente, aggiungi bonus di competenza al modificatore associato all'abilita." },
+          { "chiave": "Percezione passiva", "valore": "10 + modificatore di Saggezza (Percezione), inclusi modificatori applicabili." },
+          { "chiave": "Iniziativa", "valore": "Usa il modificatore di Destrezza." },
+          { "chiave": "CA base", "valore": "Senza armatura o scudo, 10 + modificatore di Destrezza." },
+          { "chiave": "Attacco in mischia", "valore": "Modificatore di Forza + bonus di competenza, se competente e salvo proprieta diverse." },
+          { "chiave": "Attacco a distanza", "valore": "Modificatore di Destrezza + bonus di competenza, se competente e salvo proprieta diverse." },
+          { "chiave": "CD incantesimo", "valore": "8 + modificatore da incantatore + bonus di competenza." },
+          { "chiave": "Attacco incantesimo", "valore": "Modificatore da incantatore + bonus di competenza." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Punti ferita al 1º livello",
+        "righe": [
+          { "chiave": "Barbaro", "valore": "12 + modificatore di Costituzione." },
+          { "chiave": "Guerriero, paladino, ranger", "valore": "10 + modificatore di Costituzione." },
+          { "chiave": "Bardo, chierico, druido, monaco, ladro, warlock", "valore": "8 + modificatore di Costituzione." },
+          { "chiave": "Stregone, mago", "valore": "6 + modificatore di Costituzione." }
+        ],
+        "blocchi": [
+          { "nome": "Dadi Vita", "descrizione": "La classe indica il tipo di Dado Vita; al 1º livello il personaggio ha 1 Dado Vita." },
+          { "nome": "Incantesimi preparati", "descrizione": "Se la classe fornisce Incantesimi o Magia del patto, annota slot, trucchetti e incantesimi preparati dalla tabella della classe." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "avanzamento_livelli_superiori",
+    "nome": "Avanzamento e livelli superiori",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "25-27",
+    "descrizione": "L'avanzamento di livello aumenta capacita, punti ferita e talvolta bonus di competenza o modificatori. Il GM puo far partire il gruppo da un livello superiore al 1º.",
+    "sezioni": [
+      {
+        "titolo": "Avanzamento",
+        "righe": [
+          { "chiave": "Privilegi", "valore": "A ogni nuovo livello annota i privilegi indicati dalla classe." },
+          { "chiave": "Punti ferita", "valore": "Aggiungi il valore previsto dalla classe per i livelli successivi al 1º." },
+          { "chiave": "Bonus di competenza", "valore": "Quando aumenta, aggiorna tutti i numeri della scheda che lo includono." },
+          { "chiave": "Modificatori", "valore": "Se un punteggio diventa pari e cambia modificatore, aggiorna tutti i valori collegati." },
+          { "chiave": "Costituzione", "valore": "Se il modificatore aumenta di 1, i PF massimi aumentano di 1 per ogni livello del personaggio." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Fasce di gioco",
+        "righe": [
+          { "chiave": "1-4", "valore": "Apprendisti avventurieri; minacce locali." },
+          { "chiave": "5-10", "valore": "Avventurieri affermati; minacce per citta e regni." },
+          { "chiave": "11-16", "valore": "Potere raro tra gli avventurieri; minacce continentali." },
+          { "chiave": "17-20", "valore": "Archetipi eroici; destino del mondo o multiverso." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Equipaggiamento a livelli superiori",
+        "righe": [
+          { "chiave": "2-4", "valore": "Equipaggiamento ordinario, 1 oggetto comune." },
+          { "chiave": "5-10", "valore": "500 mo + 1d10 x 25 mo + equipaggiamento ordinario; 1 comune, 1 non comune." },
+          { "chiave": "11-16", "valore": "5.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 3 non comuni, 1 raro." },
+          { "chiave": "17-20", "valore": "20.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 4 non comuni, 3 rari, 1 molto raro." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Avanzamento dei personaggi",
+        "righe": [
+          { "chiave": "1", "valore": "0 PE; bonus competenza +2" },
+          { "chiave": "2", "valore": "300 PE; +2" },
+          { "chiave": "3", "valore": "900 PE; +2" },
+          { "chiave": "4", "valore": "2.700 PE; +2" },
+          { "chiave": "5", "valore": "6.500 PE; +3" },
+          { "chiave": "6", "valore": "14.000 PE; +3" },
+          { "chiave": "7", "valore": "23.000 PE; +3" },
+          { "chiave": "8", "valore": "34.000 PE; +3" },
+          { "chiave": "9", "valore": "48.000 PE; +4" },
+          { "chiave": "10", "valore": "64.000 PE; +4" },
+          { "chiave": "11", "valore": "85.000 PE; +4" },
+          { "chiave": "12", "valore": "100.000 PE; +4" },
+          { "chiave": "13", "valore": "120.000 PE; +5" },
+          { "chiave": "14", "valore": "140.000 PE; +5" },
+          { "chiave": "15", "valore": "165.000 PE; +5" },
+          { "chiave": "16", "valore": "195.000 PE; +5" },
+          { "chiave": "17", "valore": "225.000 PE; +6" },
+          { "chiave": "18", "valore": "265.000 PE; +6" },
+          { "chiave": "19", "valore": "305.000 PE; +6" },
+          { "chiave": "20", "valore": "355.000 PE; +6" }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "multiclasse_e_monili",
+    "nome": "Multiclasse e monili",
+    "capitolo": "Creazione del personaggio",
+    "categoria": "Creazione personaggio",
+    "pagine_sorgente": "27-31",
+    "descrizione": "Il multiclasse consente di acquisire livelli in piu classi. I monili sono piccoli oggetti misteriosi opzionali che possono arricchire personaggi, dungeon o creature.",
+    "sezioni": [
+      {
+        "titolo": "Regole multiclasse",
+        "righe": [
+          { "chiave": "Prerequisiti", "valore": "Serve 13 o piu nella caratteristica primaria della nuova classe e delle classi attuali." },
+          { "chiave": "PE", "valore": "Il costo di livello si basa sul livello totale del personaggio." },
+          { "chiave": "PF e Dadi Vita", "valore": "La nuova classe fornisce PF da livello successivo al 1º; i Dadi Vita delle classi si sommano." },
+          { "chiave": "Bonus competenza", "valore": "Basato sul livello totale, non sui livelli di una singola classe." },
+          { "chiave": "Competenze", "valore": "Il primo livello in una nuova classe fornisce solo alcune competenze di partenza." },
+          { "chiave": "Classe Armatura", "valore": "Se esistono piu modi di calcolarla, se ne usa uno solo alla volta." },
+          { "chiave": "Attacco extra", "valore": "Privilegi Attacco extra da piu classi non sono cumulativi, salvo eccezioni specifiche." },
+          { "chiave": "Incantesimi", "valore": "Gli incantesimi preparati si determinano per classe; gli slot combinano livelli da incantatore secondo le regole multiclasse." },
+          { "chiave": "Magia del patto", "valore": "Slot da Magia del patto e Incantesimi possono essere usati reciprocamente per lanciare incantesimi preparati appropriati." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Monili",
+        "righe": [
+          { "chiave": "Uso", "valore": "Quando crei il personaggio puoi tirare una volta sulla tabella Monili." },
+          { "chiave": "Funzione", "valore": "Un monile e un oggetto semplice e minuscolo con un sottile velo di mistero." },
+          { "chiave": "GM", "valore": "Il GM puo usare la tabella per arredare dungeon o riempire le tasche di una creatura." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Incantatore multiclasse: slot incantesimo 1-9",
+        "righe": [
+          { "chiave": "1", "valore": "2/-/-/-/-/-/-/-/-" },
+          { "chiave": "2", "valore": "3/-/-/-/-/-/-/-/-" },
+          { "chiave": "3", "valore": "4/2/-/-/-/-/-/-/-" },
+          { "chiave": "4", "valore": "4/3/-/-/-/-/-/-/-" },
+          { "chiave": "5", "valore": "4/3/2/-/-/-/-/-/-" },
+          { "chiave": "6", "valore": "4/3/3/-/-/-/-/-/-" },
+          { "chiave": "7", "valore": "4/3/3/1/-/-/-/-/-" },
+          { "chiave": "8", "valore": "4/3/3/2/-/-/-/-/-" },
+          { "chiave": "9", "valore": "4/3/3/3/1/-/-/-/-" },
+          { "chiave": "10", "valore": "4/3/3/3/2/-/-/-/-" },
+          { "chiave": "11", "valore": "4/3/3/3/2/1/-/-/-" },
+          { "chiave": "12", "valore": "4/3/3/3/2/1/-/-/-" },
+          { "chiave": "13", "valore": "4/3/3/3/2/1/1/-/-" },
+          { "chiave": "14", "valore": "4/3/3/3/2/1/1/-/-" },
+          { "chiave": "15", "valore": "4/3/3/3/2/1/1/1/-" },
+          { "chiave": "16", "valore": "4/3/3/3/2/1/1/1/-" },
+          { "chiave": "17", "valore": "4/3/3/3/2/1/1/1/1" },
+          { "chiave": "18", "valore": "4/3/3/3/3/1/1/1/1" },
+          { "chiave": "19", "valore": "4/3/3/3/3/2/1/1/1" },
+          { "chiave": "20", "valore": "4/3/3/3/3/2/2/1/1" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Monili d100: estremi e uso",
+        "righe": [
+          { "chiave": "01", "valore": "Una mano di goblin mummificata" },
+          { "chiave": "02", "valore": "Un frammento di cristallo che risplende debolmente alla luce della luna" },
+          { "chiave": "03-30", "valore": "Monili minori come monete ignote, idoli, piume, globi, libri e oggetti misteriosi." },
+          { "chiave": "31-58", "valore": "Monili curiosi come distintivi, pietre, scrigni, chiavi, mappe e oggetti rotti." },
+          { "chiave": "59-85", "valore": "Monili personali o enigmatici come medaglioni, maschere, inviti, planimetrie e diari." },
+          { "chiave": "86-00", "valore": "Monili finali come simboli sacri ignoti, sangue di drago, bottiglie, costrutti minuscoli, grasso di grifone e urna di un eroe." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_barbaro",
+    "nome": "Classe: Barbaro",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "32-35",
+    "descrizione": "Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica. La sottoclasse SRD e il Cammino del Berserker.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del barbaro",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Forza." },
+          { "chiave": "Dado Vita", "valore": "D12 per ogni livello da barbaro." },
+          { "chiave": "Tiri salvezza", "valore": "Forza e Costituzione." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Addestrare Animali, Atletica, Intimidire, Natura, Percezione o Sopravvivenza." },
+          { "chiave": "Armi", "valore": "Armi semplici e da guerra." },
+          { "chiave": "Armature", "valore": "Armature leggere e medie; scudi." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: ascia bipenne, 4 asce, dotazione da esploratore e 15 mo; oppure B: 75 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Difesa senza armatura, Ira, Padronanza d'armi; ire 2; danni ira +2; padronanze 2" },
+          { "chiave": 2, "valore": "BC +2; Attacco irruento, Percezione del pericolo; ire 2; danni +2; padronanze 2" },
+          { "chiave": 3, "valore": "BC +2; Conoscenza primordiale, sottoclasse del barbaro; ire 3; danni +2; padronanze 2" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; ire 3; danni +2; padronanze 3" },
+          { "chiave": 5, "valore": "BC +3; Attacco extra, Movimento veloce; ire 3; danni +2; padronanze 3" },
+          { "chiave": 6, "valore": "BC +3; Privilegio della sottoclasse; ire 4; danni +2; padronanze 3" },
+          { "chiave": 7, "valore": "BC +3; Balzo istintivo, Istinto ferino; ire 4; danni +2; padronanze 3" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; ire 4; danni +2; padronanze 3" },
+          { "chiave": 9, "valore": "BC +4; Colpo brutale; ire 4; danni +3; padronanze 3" },
+          { "chiave": 10, "valore": "BC +4; Privilegio della sottoclasse; ire 4; danni +3; padronanze 4" },
+          { "chiave": 11, "valore": "BC +4; Ira implacabile; ire 4; danni +3; padronanze 4" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; ire 5; danni +3; padronanze 4" },
+          { "chiave": 13, "valore": "BC +5; Colpo brutale migliorato; ire 5; danni +3; padronanze 4" },
+          { "chiave": 14, "valore": "BC +5; Privilegio della sottoclasse; ire 5; danni +3; padronanze 4" },
+          { "chiave": 15, "valore": "BC +5; Ira persistente; ire 5; danni +3; padronanze 4" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; ire 5; danni +4; padronanze 4" },
+          { "chiave": 17, "valore": "BC +6; Colpo brutale migliorato; ire 6; danni +4; padronanze 4" },
+          { "chiave": 18, "valore": "BC +6; Potenza indomabile; ire 6; danni +4; padronanze 4" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; ire 6; danni +4; padronanze 4" },
+          { "chiave": 20, "valore": "BC +6; Campione primordiale; ire 6; danni +4; padronanze 4" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Ira", "valore": "Resistenza a danni contundenti, perforanti e taglienti; bonus ai danni con Forza e vantaggio a prove e TS su Forza." },
+          { "chiave": "Difesa senza armatura", "valore": "Classe Armatura basata su Destrezza e Costituzione quando non indossa armatura." },
+          { "chiave": "Attacco irruento", "valore": "Vantaggio agli attacchi basati su Forza, concedendo vantaggio contro di se fino al turno successivo." },
+          { "chiave": "Colpo brutale", "valore": "Rinuncia al vantaggio per infliggere danni extra ed effetti di controllo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Cammino del berserker", "valore": "Frenesia, colpo di ritorsione e presenza intimidatoria." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_bardo",
+    "nome": "Classe: Bardo",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "35-40",
+    "descrizione": "Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bardica, competenze ampie e magia. La sottoclasse SRD e il Collegio della Sapienza.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del bardo",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Carisma." },
+          { "chiave": "Dado Vita", "valore": "D8 per ogni livello da bardo." },
+          { "chiave": "Tiri salvezza", "valore": "Destrezza e Carisma." },
+          { "chiave": "Abilita", "valore": "Tre abilita a scelta." },
+          { "chiave": "Armi", "valore": "Armi semplici." },
+          { "chiave": "Strumenti", "valore": "Tre strumenti musicali a scelta." },
+          { "chiave": "Armature", "valore": "Armature leggere." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: armatura di cuoio, 2 pugnali, strumento musicale, dotazione da intrattenitore e 19 mo; oppure B: 90 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Incantesimi, Ispirazione bardica; dado bardico D6; trucchetti 2; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/-" },
+          { "chiave": 2, "valore": "BC +2; Maestria, Factotum; dado bardico D6; trucchetti 2; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/-" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del bardo; dado bardico D6; trucchetti 2; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/-" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; dado bardico D6; trucchetti 3; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/-" },
+          { "chiave": 5, "valore": "BC +3; Fonte di ispirazione; dado bardico D8; trucchetti 3; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/-" },
+          { "chiave": 6, "valore": "BC +3; Privilegio della sottoclasse; dado bardico D8; trucchetti 3; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/-" },
+          { "chiave": 7, "valore": "BC +3; Controfascino; dado bardico D8; trucchetti 3; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/-" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; dado bardico D8; trucchetti 3; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/-" },
+          { "chiave": 9, "valore": "BC +4; Maestria; dado bardico D8; trucchetti 3; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/-" },
+          { "chiave": 10, "valore": "BC +4; Segreti magici; dado bardico D10; trucchetti 4; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/-" },
+          { "chiave": 11, "valore": "BC +4; -; dado bardico D10; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; dado bardico D10; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 13, "valore": "BC +5; -; dado bardico D10; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 14, "valore": "BC +5; Privilegio della sottoclasse; dado bardico D10; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 15, "valore": "BC +5; -; dado bardico D12; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; dado bardico D12; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 17, "valore": "BC +6; -; dado bardico D12; trucchetti 4; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1" },
+          { "chiave": 18, "valore": "BC +6; Ispirazione superiore; dado bardico D12; trucchetti 4; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; dado bardico D12; trucchetti 4; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1" },
+          { "chiave": 20, "valore": "BC +6; Parole della creazione; dado bardico D12; trucchetti 4; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Ispirazione bardica", "valore": "Dado conferito a un alleato per trasformare un fallimento in possibile successo; il dado cresce con i livelli." },
+          { "chiave": "Incantesimi", "valore": "Preparazione dalla lista del bardo, trucchetti e slot che si recuperano con riposo lungo." },
+          { "chiave": "Maestria", "valore": "Raddoppia il bonus di competenza per alcune abilita scelte." },
+          { "chiave": "Segreti magici", "valore": "Permette di preparare incantesimi da altre liste." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Collegio della Sapienza", "valore": "Conoscenza magica, competenze e segreti magici aggiuntivi." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_chierico",
+    "nome": "Classe: Chierico",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "41-46",
+    "descrizione": "Il chierico e un incantatore divino basato su Saggezza, capace di guarire, proteggere e incanalare energia sacra. La sottoclasse SRD e il Dominio della Vita.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del chierico",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Saggezza." },
+          { "chiave": "Dado Vita", "valore": "D8 per ogni livello da chierico." },
+          { "chiave": "Tiri salvezza", "valore": "Saggezza e Carisma." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Intuizione, Medicina, Persuasione, Religione o Storia." },
+          { "chiave": "Armi", "valore": "Armi semplici." },
+          { "chiave": "Armature", "valore": "Armature leggere e medie; scudi." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: giaco di maglia, scudo, mazza, simbolo sacro, dotazione da sacerdote e 7 mo; oppure B: 110 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Incantesimi, Ordine divino; Incanalare divinita -; trucchetti 3; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/-" },
+          { "chiave": 2, "valore": "BC +2; Incanalare divinita; Incanalare divinita 2; trucchetti 3; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/-" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del chierico; Incanalare divinita 2; trucchetti 3; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/-" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; Incanalare divinita 2; trucchetti 4; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/-" },
+          { "chiave": 5, "valore": "BC +3; Bruciare i non morti; Incanalare divinita 2; trucchetti 4; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/-" },
+          { "chiave": 6, "valore": "BC +3; Privilegio della sottoclasse; Incanalare divinita 3; trucchetti 4; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/-" },
+          { "chiave": 7, "valore": "BC +3; Colpi benedetti; Incanalare divinita 3; trucchetti 4; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/-" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; Incanalare divinita 3; trucchetti 4; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/-" },
+          { "chiave": 9, "valore": "BC +4; -; Incanalare divinita 3; trucchetti 4; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/-" },
+          { "chiave": 10, "valore": "BC +4; Intervento divino; Incanalare divinita 3; trucchetti 5; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/-" },
+          { "chiave": 11, "valore": "BC +4; -; Incanalare divinita 3; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; Incanalare divinita 3; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 13, "valore": "BC +5; -; Incanalare divinita 3; trucchetti 5; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 14, "valore": "BC +5; Colpi benedetti migliorati; Incanalare divinita 3; trucchetti 5; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 15, "valore": "BC +5; -; Incanalare divinita 3; trucchetti 5; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; Incanalare divinita 3; trucchetti 5; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 17, "valore": "BC +6; Privilegio della sottoclasse; Incanalare divinita 3; trucchetti 5; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1" },
+          { "chiave": 18, "valore": "BC +6; -; Incanalare divinita 4; trucchetti 5; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; Incanalare divinita 4; trucchetti 5; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1" },
+          { "chiave": 20, "valore": "BC +6; Intervento divino superiore; Incanalare divinita 4; trucchetti 5; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Incantesimi", "valore": "Prepara incantesimi dalla lista del chierico e usa Saggezza come caratteristica da incantatore." },
+          { "chiave": "Ordine divino", "valore": "Scelta iniziale che orienta armature, armi o conoscenza mistica." },
+          { "chiave": "Incanalare divinita", "valore": "Alimenta Scintilla divina, Scacciare non morti e opzioni di sottoclasse." },
+          { "chiave": "Intervento divino", "valore": "Richiama aiuto divino ai livelli alti." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Dominio della Vita", "valore": "Guarigione migliorata, preservare vita e guarigione suprema." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_druido",
+    "nome": "Classe: Druido",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "46-52",
+    "descrizione": "Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e alla Forma selvatica. La sottoclasse SRD e il Circolo della Terra.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del druido",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Saggezza." },
+          { "chiave": "Dado Vita", "valore": "D8 per ogni livello da druido." },
+          { "chiave": "Tiri salvezza", "valore": "Intelligenza e Saggezza." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Addestrare animali, Arcano, Intuizione, Medicina, Natura, Percezione, Religione o Sopravvivenza." },
+          { "chiave": "Armi", "valore": "Armi semplici." },
+          { "chiave": "Strumenti", "valore": "Borsa da erborista." },
+          { "chiave": "Armature", "valore": "Armature leggere e scudi." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: armatura di cuoio, scudo, falcetto, focus druidico, dotazione da esploratore, borsa da erborista e 9 mo; oppure B: 50 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Druidico, Incantesimi e Ordine primordiale; Forma selvatica -; trucchetti 2; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/-" },
+          { "chiave": 2, "valore": "BC +2; Compagno selvatico, Forma selvatica; Forma selvatica 2; trucchetti 2; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/-" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del druido; Forma selvatica 2; trucchetti 2; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/-" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; Forma selvatica 2; trucchetti 3; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/-" },
+          { "chiave": 5, "valore": "BC +3; Rinascita selvatica; Forma selvatica 2; trucchetti 3; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/-" },
+          { "chiave": 6, "valore": "BC +3; Privilegio della sottoclasse; Forma selvatica 3; trucchetti 3; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/-" },
+          { "chiave": 7, "valore": "BC +3; Furia elementale; Forma selvatica 3; trucchetti 3; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/-" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; Forma selvatica 3; trucchetti 3; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/-" },
+          { "chiave": 9, "valore": "BC +4; -; Forma selvatica 3; trucchetti 3; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/-" },
+          { "chiave": 10, "valore": "BC +4; Privilegio della sottoclasse; Forma selvatica 3; trucchetti 4; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/-" },
+          { "chiave": 11, "valore": "BC +4; -; Forma selvatica 3; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; Forma selvatica 3; trucchetti 4; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 13, "valore": "BC +5; -; Forma selvatica 3; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 14, "valore": "BC +5; Privilegio della sottoclasse; Forma selvatica 3; trucchetti 4; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 15, "valore": "BC +5; Furia elementale migliorata; Forma selvatica 3; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; Forma selvatica 3; trucchetti 4; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 17, "valore": "BC +6; -; Forma selvatica 4; trucchetti 4; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1" },
+          { "chiave": 18, "valore": "BC +6; Incantesimi bestiali; Forma selvatica 4; trucchetti 4; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; Forma selvatica 4; trucchetti 4; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1" },
+          { "chiave": 20, "valore": "BC +6; Arcidruido; Forma selvatica 4; trucchetti 4; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Forme bestiali",
+        "righe": [
+          { "chiave": 2, "valore": "Forme conosciute 4; GS max 1/4; velocita di volo No" },
+          { "chiave": 4, "valore": "Forme conosciute 6; GS max 1/2; velocita di volo No" },
+          { "chiave": 8, "valore": "Forme conosciute 8; GS max 1; velocita di volo Si" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Incantesimi", "valore": "Prepara incantesimi dalla lista del druido e puo cambiarli dopo un riposo lungo." },
+          { "chiave": "Forma selvatica", "valore": "Assume forme bestiali con limiti di livello, mantenendo alcuni tratti personali." },
+          { "chiave": "Compagno selvatico", "valore": "Opzione legata a Forma selvatica per richiamare aiuti naturali." },
+          { "chiave": "Corpo senza tempo", "valore": "La magia primordiale rallenta l'invecchiamento." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Circolo della Terra", "valore": "Incantesimi del Circolo legati a terre aride, polari, temperate o tropicali." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_guerriero",
+    "nome": "Classe: Guerriero",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "53-55",
+    "descrizione": "Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza delle armi e resistenza. La sottoclasse SRD e il Campione.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del guerriero",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Forza o Destrezza." },
+          { "chiave": "Dado Vita", "valore": "D10 per ogni livello da guerriero." },
+          { "chiave": "Tiri salvezza", "valore": "Forza e Costituzione." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Acrobazia, Addestrare animali, Atletica, Intimidire, Intuizione, Percezione, Persuasione, Sopravvivenza o Storia." },
+          { "chiave": "Armi", "valore": "Armi semplici e da guerra." },
+          { "chiave": "Armature", "valore": "Armature leggere, medie e pesanti; scudi." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: cotta di maglia, spadone, mazzafrusto, 8 giavellotti, dotazione da avventuriero e 4 mo; B: cuoio borchiato, scimitarra, spada corta, arco lungo, 20 frecce, faretra, dotazione da avventuriero e 11 mo; C: 155 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Padronanza d'armi, Recuperare energie, Stile di combattimento; recuperare energie 2; padronanze 3" },
+          { "chiave": 2, "valore": "BC +2; Azione impetuosa (un utilizzo), Mente tattica; recuperare 2; padronanze 3" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del guerriero; recuperare 2; padronanze 3" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; recuperare 3; padronanze 4" },
+          { "chiave": 5, "valore": "BC +3; Attacco extra, Spostamento tattico; recuperare 3; padronanze 4" },
+          { "chiave": 6, "valore": "BC +3; Aumento dei punteggi di caratteristica; recuperare 3; padronanze 4" },
+          { "chiave": 7, "valore": "BC +3; Privilegio della sottoclasse; recuperare 3; padronanze 4" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; recuperare 3; padronanze 4" },
+          { "chiave": 9, "valore": "BC +4; Indomabile (un utilizzo), Signore delle tattiche; recuperare 3; padronanze 4" },
+          { "chiave": 10, "valore": "BC +4; Privilegio della sottoclasse; recuperare 4; padronanze 5" },
+          { "chiave": 11, "valore": "BC +4; Due attacchi extra; recuperare 4; padronanze 5" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; recuperare 4; padronanze 5" },
+          { "chiave": 13, "valore": "BC +5; Attacchi studiati, Indomabile (due utilizzi); recuperare 4; padronanze 5" },
+          { "chiave": 14, "valore": "BC +5; Aumento dei punteggi di caratteristica; recuperare 4; padronanze 5" },
+          { "chiave": 15, "valore": "BC +5; Privilegio della sottoclasse; recuperare 4; padronanze 5" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; recuperare 4; padronanze 6" },
+          { "chiave": 17, "valore": "BC +6; Azione impetuosa (due utilizzi), Indomabile (tre utilizzi); recuperare 4; padronanze 6" },
+          { "chiave": 18, "valore": "BC +6; Privilegio della sottoclasse; recuperare 4; padronanze 6" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; recuperare 4; padronanze 6" },
+          { "chiave": 20, "valore": "BC +6; Tre attacchi extra; recuperare 4; padronanze 6" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Recuperare energie", "valore": "Azione bonus per recuperare PF pari a 1d10 + livello da guerriero." },
+          { "chiave": "Padronanza d'armi", "valore": "Usa proprieta di padronanza delle armi e ne amplia il numero con i livelli." },
+          { "chiave": "Azione impetuosa", "valore": "Ottiene un'azione aggiuntiva in momenti decisivi." },
+          { "chiave": "Attacco extra", "valore": "Aumenta il numero di attacchi con l'azione di Attacco." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Campione", "valore": "Critico migliorato/superiore, atleta straordinario e sopravvissuto." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_ladro",
+    "nome": "Classe: Ladro",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "55-58",
+    "descrizione": "Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto su Destrezza. La sottoclasse SRD e il Furfante.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del ladro",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Destrezza." },
+          { "chiave": "Dado Vita", "valore": "D8 per ogni livello da ladro." },
+          { "chiave": "Tiri salvezza", "valore": "Destrezza e Intelligenza." },
+          { "chiave": "Abilita", "valore": "Quattro a scelta tra Acrobazia, Atletica, Furtivita, Indagare, Inganno, Intimidire, Intuizione, Percezione, Persuasione o Rapidita di mano." },
+          { "chiave": "Armi", "valore": "Armi semplici e armi da guerra con proprieta accurata o leggera." },
+          { "chiave": "Strumenti", "valore": "Arnesi da scasso." },
+          { "chiave": "Armature", "valore": "Armature leggere." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: armatura di cuoio, 2 pugnali, spada corta, arco corto, 20 frecce, faretra, arnesi da scasso, dotazione da scassinatore e 8 mo; oppure B: 100 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Maestria, Attacco furtivo, Gergo ladresco, Padronanza d'armi; Attacco furtivo 1d6" },
+          { "chiave": 2, "valore": "BC +2; Azione scaltra; Attacco furtivo 1d6" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del ladro, Mira ferma; Attacco furtivo 2d6" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; Attacco furtivo 2d6" },
+          { "chiave": 5, "valore": "BC +3; Colpo astuto, Schivata prodigiosa; Attacco furtivo 3d6" },
+          { "chiave": 6, "valore": "BC +3; Maestria; Attacco furtivo 3d6" },
+          { "chiave": 7, "valore": "BC +3; Elusione, Dote affidabile; Attacco furtivo 4d6" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; Attacco furtivo 4d6" },
+          { "chiave": 9, "valore": "BC +4; Privilegio della sottoclasse; Attacco furtivo 5d6" },
+          { "chiave": 10, "valore": "BC +4; Aumento dei punteggi di caratteristica; Attacco furtivo 5d6" },
+          { "chiave": 11, "valore": "BC +4; Colpo astuto migliorato; Attacco furtivo 6d6" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; Attacco furtivo 6d6" },
+          { "chiave": 13, "valore": "BC +5; Privilegio della sottoclasse; Attacco furtivo 7d6" },
+          { "chiave": 14, "valore": "BC +5; Colpi infidi; Attacco furtivo 7d6" },
+          { "chiave": 15, "valore": "BC +5; Mente sfuggente; Attacco furtivo 8d6" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; Attacco furtivo 8d6" },
+          { "chiave": 17, "valore": "BC +6; Privilegio della sottoclasse; Attacco furtivo 9d6" },
+          { "chiave": 18, "valore": "BC +6; Inafferrabile; Attacco furtivo 9d6" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; Attacco furtivo 10d6" },
+          { "chiave": 20, "valore": "BC +6; Pietra della buona fortuna; Attacco furtivo 10d6" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Attacco furtivo", "valore": "Una volta per turno infligge danni extra con armi accurate o a distanza se ha vantaggio o un alleato vicino al bersaglio." },
+          { "chiave": "Maestria", "valore": "Raddoppia il bonus di competenza in abilita o strumenti scelti." },
+          { "chiave": "Azione scaltra", "valore": "Usa Disimpegno, Nascondersi o Scatto come azione bonus." },
+          { "chiave": "Colpo astuto", "valore": "Spende dadi di Attacco furtivo per aggiungere effetti tattici." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Furfante", "valore": "Mani veloci, lavoro al secondo piano e uso migliorato degli oggetti magici." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_mago",
+    "nome": "Classe: Mago",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "59-65",
+    "descrizione": "Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi e preparazione flessibile. La sottoclasse SRD e l'Invocatore.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del mago",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Intelligenza." },
+          { "chiave": "Dado Vita", "valore": "D6 per ogni livello da mago." },
+          { "chiave": "Tiri salvezza", "valore": "Intelligenza e Saggezza." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Arcano, Indagare, Intuizione, Medicina, Natura, Religione o Storia." },
+          { "chiave": "Armi", "valore": "Armi semplici." },
+          { "chiave": "Armature", "valore": "Nessuna." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: 2 pugnali, focus arcano, veste, libro degli incantesimi, dotazione da studioso e 5 mo; oppure B: 55 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Incantesimi, Adepto dei rituali, Recupero arcano; trucchetti 3; preparati 4; slot 1-9: 2/-/-/-/-/-/-/-/-" },
+          { "chiave": 2, "valore": "BC +2; Studioso; trucchetti 3; preparati 5; slot 1-9: 3/-/-/-/-/-/-/-/-" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del mago; trucchetti 3; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/-" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; trucchetti 4; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/-" },
+          { "chiave": 5, "valore": "BC +3; Memorizzare incantesimi; trucchetti 4; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/-" },
+          { "chiave": 6, "valore": "BC +3; Privilegio della sottoclasse; trucchetti 4; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/-" },
+          { "chiave": 7, "valore": "BC +3; -; trucchetti 4; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/-" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; trucchetti 4; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/-" },
+          { "chiave": 9, "valore": "BC +4; -; trucchetti 4; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/-" },
+          { "chiave": 10, "valore": "BC +4; Privilegio della sottoclasse; trucchetti 5; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/-" },
+          { "chiave": 11, "valore": "BC +4; -; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; trucchetti 5; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 13, "valore": "BC +5; -; trucchetti 5; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 14, "valore": "BC +5; Privilegio della sottoclasse; trucchetti 5; preparati 18; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 15, "valore": "BC +5; -; trucchetti 5; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; trucchetti 5; preparati 21; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 17, "valore": "BC +6; -; trucchetti 5; preparati 22; slot 1-9: 4/3/3/3/2/1/1/1/1" },
+          { "chiave": 18, "valore": "BC +6; Maestria negli incantesimi; trucchetti 5; preparati 23; slot 1-9: 4/3/3/3/3/1/1/1/1" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; trucchetti 5; preparati 24; slot 1-9: 4/3/3/3/3/2/1/1/1" },
+          { "chiave": 20, "valore": "BC +6; Incantesimi personali; trucchetti 5; preparati 25; slot 1-9: 4/3/3/3/3/2/2/1/1" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Incantesimi", "valore": "Conosce trucchetti e prepara incantesimi usando il libro degli incantesimi." },
+          { "chiave": "Recupero arcano", "valore": "Recupera parte degli slot dopo un riposo breve." },
+          { "chiave": "Libro degli incantesimi", "valore": "Puo ampliare e sostituire il libro copiando incantesimi trovati." },
+          { "chiave": "Padronanza degli incantesimi", "valore": "Ai livelli alti rende alcune magie sempre accessibili." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Invocatore", "valore": "Invocazioni sicure, invocazione potente e saturazione magica." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_monaco",
+    "nome": "Classe: Monaco",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "66-69",
+    "descrizione": "Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e punti concentrazione. La sottoclasse SRD e il Guerriero della Mano Aperta.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del monaco",
+        "righe": [
+          { "chiave": "Caratteristiche primarie", "valore": "Destrezza e Saggezza." },
+          { "chiave": "Dado Vita", "valore": "D8 per ogni livello da monaco." },
+          { "chiave": "Tiri salvezza", "valore": "Forza e Destrezza." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Acrobazia, Atletica, Furtivita, Intuizione, Religione o Storia." },
+          { "chiave": "Armi", "valore": "Armi semplici e armi da guerra con proprieta leggera." },
+          { "chiave": "Strumenti", "valore": "Uno strumento da artigiano o musicale a scelta." },
+          { "chiave": "Armature", "valore": "Nessuna." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: lancia, 5 pugnali, strumento scelto, dotazione da esploratore e 11 mo; oppure B: 50 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Arti marziali, Difesa senza armatura; arti marziali 1d6; concentrazione -; movimento -" },
+          { "chiave": 2, "valore": "BC +2; Concentrazione da monaco, Metabolismo straordinario, Movimento senza armatura; arti 1d6; concentrazione 2; movimento +3 m" },
+          { "chiave": 3, "valore": "BC +2; Devia attacchi, sottoclasse del monaco; arti 1d6; concentrazione 3; movimento +3 m" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica, Caduta lenta; arti 1d6; concentrazione 4; movimento +3 m" },
+          { "chiave": 5, "valore": "BC +3; Attacco extra, Colpo stordente; arti 1d8; concentrazione 5; movimento +3 m" },
+          { "chiave": 6, "valore": "BC +3; Colpi potenziati, privilegio della sottoclasse; arti 1d8; concentrazione 6; movimento +4,5 m" },
+          { "chiave": 7, "valore": "BC +3; Elusione; arti 1d8; concentrazione 7; movimento +4,5 m" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; arti 1d8; concentrazione 8; movimento +4,5 m" },
+          { "chiave": 9, "valore": "BC +4; Movimento acrobatico; arti 1d8; concentrazione 9; movimento +4,5 m" },
+          { "chiave": 10, "valore": "BC +4; Autorigenerazione, Concentrazione superiore; arti 1d8; concentrazione 10; movimento +6 m" },
+          { "chiave": 11, "valore": "BC +4; Privilegio della sottoclasse; arti 1d10; concentrazione 11; movimento +6 m" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; arti 1d10; concentrazione 12; movimento +6 m" },
+          { "chiave": 13, "valore": "BC +5; Deviare energia; arti 1d10; concentrazione 13; movimento +6 m" },
+          { "chiave": 14, "valore": "BC +5; Esperto di sopravvivenza disciplinato; arti 1d10; concentrazione 14; movimento +7,5 m" },
+          { "chiave": 15, "valore": "BC +5; Concentrazione perfetta; arti 1d10; concentrazione 15; movimento +7,5 m" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; arti 1d10; concentrazione 16; movimento +7,5 m" },
+          { "chiave": 17, "valore": "BC +6; Privilegio della sottoclasse; arti 1d12; concentrazione 17; movimento +7,5 m" },
+          { "chiave": 18, "valore": "BC +6; Difesa superiore; arti 1d12; concentrazione 18; movimento +9 m" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; arti 1d12; concentrazione 19; movimento +9 m" },
+          { "chiave": 20, "valore": "BC +6; Corpo e mente; arti 1d12; concentrazione 20; movimento +9 m" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Arti marziali", "valore": "Colpo senz'armi bonus, dado di arti marziali e uso di Destrezza per attacchi da monaco." },
+          { "chiave": "Concentrazione", "valore": "Risorsa per Raffica di colpi, Difesa paziente, Passo del vento e altri privilegi." },
+          { "chiave": "Colpo stordente", "valore": "Spende concentrazione per tentare di stordire un bersaglio colpito." },
+          { "chiave": "Movimento senza armatura", "valore": "Aumenta mobilita e opzioni di spostamento." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Guerriero della Mano Aperta", "valore": "Tecnica della mano aperta, integrita del corpo e controllo del corpo." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_paladino",
+    "nome": "Classe: Paladino",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "70-74",
+    "descrizione": "Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposizione delle mani e magia divina. La sottoclasse SRD e il Giuramento di Devozione.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del paladino",
+        "righe": [
+          { "chiave": "Caratteristiche primarie", "valore": "Forza e Carisma." },
+          { "chiave": "Dado Vita", "valore": "D10 per ogni livello da paladino." },
+          { "chiave": "Tiri salvezza", "valore": "Saggezza e Carisma." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Atletica, Intimidire, Intuizione, Medicina, Persuasione o Religione." },
+          { "chiave": "Armi", "valore": "Armi semplici e da guerra." },
+          { "chiave": "Armature", "valore": "Armature leggere, medie e pesanti; scudi." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: cotta di maglia, scudo, spada lunga, 6 giavellotti, simbolo sacro, dotazione da sacerdote e 9 mo; oppure B: 150 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Imposizione delle mani, Incantesimi, Padronanza d'armi; Incanalare divinita -; preparati 2; slot 1-5: 2/-/-/-/-" },
+          { "chiave": 2, "valore": "BC +2; Stile di combattimento, Punizione del paladino; Incanalare divinita -; preparati 3; slot 1-5: 2/-/-/-/-" },
+          { "chiave": 3, "valore": "BC +2; Incanalare divinita, sottoclasse del paladino; Incanalare divinita 2; preparati 4; slot 1-5: 3/-/-/-/-" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; Incanalare divinita 2; preparati 5; slot 1-5: 3/-/-/-/-" },
+          { "chiave": 5, "valore": "BC +3; Attacco extra, Fido destriero; Incanalare divinita 2; preparati 6; slot 1-5: 4/2/-/-/-" },
+          { "chiave": 6, "valore": "BC +3; Aura di protezione; Incanalare divinita 2; preparati 6; slot 1-5: 4/2/-/-/-" },
+          { "chiave": 7, "valore": "BC +3; Privilegio della sottoclasse; Incanalare divinita 2; preparati 7; slot 1-5: 4/3/-/-/-" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; Incanalare divinita 2; preparati 7; slot 1-5: 4/3/-/-/-" },
+          { "chiave": 9, "valore": "BC +4; Abiurare nemici; Incanalare divinita 2; preparati 9; slot 1-5: 4/3/2/-/-" },
+          { "chiave": 10, "valore": "BC +4; Aura di coraggio; Incanalare divinita 2; preparati 9; slot 1-5: 4/3/2/-/-" },
+          { "chiave": 11, "valore": "BC +4; Colpi radiosi; Incanalare divinita 3; preparati 10; slot 1-5: 4/3/3/-/-" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; Incanalare divinita 3; preparati 10; slot 1-5: 4/3/3/-/-" },
+          { "chiave": 13, "valore": "BC +5; -; Incanalare divinita 3; preparati 11; slot 1-5: 4/3/3/1/-" },
+          { "chiave": 14, "valore": "BC +5; Tocco rigenerante; Incanalare divinita 3; preparati 11; slot 1-5: 4/3/3/1/-" },
+          { "chiave": 15, "valore": "BC +5; Privilegio della sottoclasse; Incanalare divinita 3; preparati 12; slot 1-5: 4/3/3/2/-" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; Incanalare divinita 3; preparati 12; slot 1-5: 4/3/3/2/-" },
+          { "chiave": 17, "valore": "BC +6; -; Incanalare divinita 3; preparati 14; slot 1-5: 4/3/3/3/1" },
+          { "chiave": 18, "valore": "BC +6; Ampliamento dell'aura; Incanalare divinita 3; preparati 14; slot 1-5: 4/3/3/3/1" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; Incanalare divinita 3; preparati 15; slot 1-5: 4/3/3/3/2" },
+          { "chiave": 20, "valore": "BC +6; Privilegio della sottoclasse; Incanalare divinita 3; preparati 15; slot 1-5: 4/3/3/3/2" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Imposizione delle mani", "valore": "Riserva di guarigione usata con il tocco." },
+          { "chiave": "Incantesimi", "valore": "Prepara incantesimi da paladino usando Carisma." },
+          { "chiave": "Punizione divina", "valore": "Converte potere sacro in danni aggiuntivi." },
+          { "chiave": "Incanalare divinita", "valore": "Alimenta Percezione del Divino e opzioni di giuramento." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Giuramento di devozione", "valore": "Incantesimi del Giuramento, arma consacrata e aura di devozione." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_ranger",
+    "nome": "Classe: Ranger",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "75-78",
+    "descrizione": "Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza, magia naturale e mobilita. La sottoclasse SRD e il Cacciatore.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del ranger",
+        "righe": [
+          { "chiave": "Caratteristiche primarie", "valore": "Destrezza e Saggezza." },
+          { "chiave": "Dado Vita", "valore": "D10 per ogni livello da ranger." },
+          { "chiave": "Tiri salvezza", "valore": "Forza e Destrezza." },
+          { "chiave": "Abilita", "valore": "Tre a scelta tra Addestrare Animali, Atletica, Furtivita, Indagare, Intuizione, Natura, Percezione o Sopravvivenza." },
+          { "chiave": "Armi", "valore": "Armi semplici e da guerra." },
+          { "chiave": "Armature", "valore": "Armature leggere e medie; scudi." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: cuoio borchiato, scimitarra, spada corta, arco lungo, 20 frecce, faretra, focus druidico, dotazione da esploratore e 7 mo; oppure B: 150 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Incantesimi, Nemico prescelto, Padronanza d'armi; Nemico prescelto 2; preparati 2; slot 1-5: 2/-/-/-/-" },
+          { "chiave": 2, "valore": "BC +2; Esploratore esperto, Stile di combattimento; Nemico prescelto 2; preparati 3; slot 1-5: 2/-/-/-/-" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del ranger; Nemico prescelto 2; preparati 4; slot 1-5: 3/-/-/-/-" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; Nemico prescelto 2; preparati 5; slot 1-5: 3/-/-/-/-" },
+          { "chiave": 5, "valore": "BC +3; Attacco extra; Nemico prescelto 3; preparati 6; slot 1-5: 4/2/-/-/-" },
+          { "chiave": 6, "valore": "BC +3; Girovago; Nemico prescelto 3; preparati 6; slot 1-5: 4/2/-/-/-" },
+          { "chiave": 7, "valore": "BC +3; Privilegio della sottoclasse; Nemico prescelto 3; preparati 7; slot 1-5: 4/3/-/-/-" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; Nemico prescelto 3; preparati 7; slot 1-5: 4/3/-/-/-" },
+          { "chiave": 9, "valore": "BC +4; Maestria; Nemico prescelto 4; preparati 9; slot 1-5: 4/3/2/-/-" },
+          { "chiave": 10, "valore": "BC +4; Instancabile; Nemico prescelto 4; preparati 9; slot 1-5: 4/3/2/-/-" },
+          { "chiave": 11, "valore": "BC +4; Privilegio della sottoclasse; Nemico prescelto 4; preparati 10; slot 1-5: 4/3/3/-/-" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; Nemico prescelto 4; preparati 10; slot 1-5: 4/3/3/-/-" },
+          { "chiave": 13, "valore": "BC +5; Cacciatore implacabile; Nemico prescelto 5; preparati 11; slot 1-5: 4/3/3/1/-" },
+          { "chiave": 14, "valore": "BC +5; Velo della natura; Nemico prescelto 5; preparati 11; slot 1-5: 4/3/3/1/-" },
+          { "chiave": 15, "valore": "BC +5; Privilegio della sottoclasse; Nemico prescelto 5; preparati 12; slot 1-5: 4/3/3/2/-" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; Nemico prescelto 5; preparati 12; slot 1-5: 4/3/3/2/-" },
+          { "chiave": 17, "valore": "BC +6; Precisione del cacciatore; Nemico prescelto 6; preparati 14; slot 1-5: 4/3/3/3/1" },
+          { "chiave": 18, "valore": "BC +6; Sensi ferini; Nemico prescelto 6; preparati 14; slot 1-5: 4/3/3/3/1" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; Nemico prescelto 6; preparati 15; slot 1-5: 4/3/3/3/2" },
+          { "chiave": 20, "valore": "BC +6; Sterminatore di nemici; Nemico prescelto 6; preparati 15; slot 1-5: 4/3/3/3/2" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Nemico prescelto", "valore": "Supporta la caccia a bersagli scelti e si integra con marchio del cacciatore." },
+          { "chiave": "Incantesimi", "valore": "Prepara incantesimi da ranger e recupera slot con riposo lungo." },
+          { "chiave": "Stile di combattimento", "valore": "Ottiene un talento Stile di combattimento appropriato." },
+          { "chiave": "Girovago", "valore": "Aumenta velocita e ottiene velocita di scalata e nuoto." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Cacciatore", "valore": "Sapienza del cacciatore, preda del cacciatore e difese da cacciatore." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_stregone",
+    "nome": "Classe: Stregone",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "79-85",
+    "descrizione": "Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metamagia. La sottoclasse SRD e la Stregoneria draconica.",
+    "sezioni": [
+      {
+        "titolo": "Tratti dello stregone",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Carisma." },
+          { "chiave": "Dado Vita", "valore": "D6 per ogni livello da stregone." },
+          { "chiave": "Tiri salvezza", "valore": "Costituzione e Carisma." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Arcano, Inganno, Intimidire, Intuizione, Persuasione o Religione." },
+          { "chiave": "Armi", "valore": "Armi semplici." },
+          { "chiave": "Armature", "valore": "Nessuna." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: lancia, 2 pugnali, focus arcano, dotazione da avventuriero e 28 mo; oppure B: 50 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Incantesimi, Stregoneria innata; punti stregoneria -; trucchetti 4; preparati 2; slot 1-9: 2/-/-/-/-/-/-/-/-" },
+          { "chiave": 2, "valore": "BC +2; Fonte di magia, Metamagia; punti stregoneria 2; trucchetti 4; preparati 4; slot 1-9: 3/-/-/-/-/-/-/-/-" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse dello stregone; punti stregoneria 3; trucchetti 4; preparati 6; slot 1-9: 4/2/-/-/-/-/-/-/-" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; punti stregoneria 4; trucchetti 5; preparati 7; slot 1-9: 4/3/-/-/-/-/-/-/-" },
+          { "chiave": 5, "valore": "BC +3; Ripristino stregonesco; punti stregoneria 5; trucchetti 5; preparati 9; slot 1-9: 4/3/2/-/-/-/-/-/-" },
+          { "chiave": 6, "valore": "BC +3; Privilegio della sottoclasse; punti stregoneria 6; trucchetti 5; preparati 10; slot 1-9: 4/3/3/-/-/-/-/-/-" },
+          { "chiave": 7, "valore": "BC +3; Stregoneria incarnata; punti stregoneria 7; trucchetti 5; preparati 11; slot 1-9: 4/3/3/1/-/-/-/-/-" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; punti stregoneria 8; trucchetti 5; preparati 12; slot 1-9: 4/3/3/2/-/-/-/-/-" },
+          { "chiave": 9, "valore": "BC +4; -; punti stregoneria 9; trucchetti 5; preparati 14; slot 1-9: 4/3/3/3/1/-/-/-/-" },
+          { "chiave": 10, "valore": "BC +4; Metamagia; punti stregoneria 10; trucchetti 6; preparati 15; slot 1-9: 4/3/3/3/2/-/-/-/-" },
+          { "chiave": 11, "valore": "BC +4; -; punti stregoneria 11; trucchetti 6; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; punti stregoneria 12; trucchetti 6; preparati 16; slot 1-9: 4/3/3/3/2/1/-/-/-" },
+          { "chiave": 13, "valore": "BC +5; -; punti stregoneria 13; trucchetti 6; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 14, "valore": "BC +5; Privilegio della sottoclasse; punti stregoneria 14; trucchetti 6; preparati 17; slot 1-9: 4/3/3/3/2/1/1/-/-" },
+          { "chiave": 15, "valore": "BC +5; -; punti stregoneria 15; trucchetti 6; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; punti stregoneria 16; trucchetti 6; preparati 18; slot 1-9: 4/3/3/3/2/1/1/1/-" },
+          { "chiave": 17, "valore": "BC +6; Metamagia; punti stregoneria 17; trucchetti 6; preparati 19; slot 1-9: 4/3/3/3/2/1/1/1/1" },
+          { "chiave": 18, "valore": "BC +6; Privilegio della sottoclasse; punti stregoneria 18; trucchetti 6; preparati 20; slot 1-9: 4/3/3/3/3/1/1/1/1" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; punti stregoneria 19; trucchetti 6; preparati 21; slot 1-9: 4/3/3/3/3/2/1/1/1" },
+          { "chiave": 20, "valore": "BC +6; Apoteosi arcana; punti stregoneria 20; trucchetti 6; preparati 22; slot 1-9: 4/3/3/3/3/2/2/1/1" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Incantesimi", "valore": "Lancia incantesimi arcani con Carisma e prepara una selezione dalla lista da stregone." },
+          { "chiave": "Fonte di magia", "valore": "Punti stregoneria usati per creare slot, convertire slot e alimentare privilegi." },
+          { "chiave": "Metamagia", "valore": "Modifica incantesimi con opzioni come incantesimo rapido, esteso, intensificato o gemellato." },
+          { "chiave": "Ripristino stregonesco", "valore": "Recupera risorse magiche ai livelli alti." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Stregoneria draconica", "valore": "Incantesimi draconici, affinita elementale, ali di drago e seguace draconico." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "classe_warlock",
+    "nome": "Classe: Warlock",
+    "capitolo": "Classi",
+    "categoria": "Classi",
+    "pagine_sorgente": "85-92",
+    "descrizione": "Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Suppliche occulte. La sottoclasse SRD e il Patrono immondo.",
+    "sezioni": [
+      {
+        "titolo": "Tratti del warlock",
+        "righe": [
+          { "chiave": "Caratteristica primaria", "valore": "Carisma." },
+          { "chiave": "Dado Vita", "valore": "D8 per ogni livello da warlock." },
+          { "chiave": "Tiri salvezza", "valore": "Saggezza e Carisma." },
+          { "chiave": "Abilita", "valore": "Due a scelta tra Arcano, Indagare, Inganno, Intimidire, Natura, Religione o Storia." },
+          { "chiave": "Armi", "valore": "Armi semplici." },
+          { "chiave": "Armature", "valore": "Armature leggere." },
+          { "chiave": "Equipaggiamento iniziale", "valore": "A: armatura di cuoio, falcetto, 2 pugnali, focus arcano, libro, dotazione da studioso e 15 mo; oppure B: 100 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Progressione di classe",
+        "righe": [
+          { "chiave": 1, "valore": "BC +2; Suppliche occulte, Magia del patto; suppliche 1; trucchetti 2; preparati 2; slot 1; livello slot 1" },
+          { "chiave": 2, "valore": "BC +2; Scaltrezza magica; suppliche 3; trucchetti 2; preparati 3; slot 2; livello slot 1" },
+          { "chiave": 3, "valore": "BC +2; Sottoclasse del warlock; suppliche 3; trucchetti 2; preparati 4; slot 2; livello slot 2" },
+          { "chiave": 4, "valore": "BC +2; Aumento dei punteggi di caratteristica; suppliche 3; trucchetti 3; preparati 5; slot 2; livello slot 2" },
+          { "chiave": 5, "valore": "BC +3; -; suppliche 5; trucchetti 3; preparati 6; slot 2; livello slot 3" },
+          { "chiave": 6, "valore": "BC +3; Privilegio della sottoclasse; suppliche 5; trucchetti 3; preparati 7; slot 2; livello slot 3" },
+          { "chiave": 7, "valore": "BC +3; -; suppliche 6; trucchetti 3; preparati 8; slot 2; livello slot 4" },
+          { "chiave": 8, "valore": "BC +3; Aumento dei punteggi di caratteristica; suppliche 6; trucchetti 3; preparati 9; slot 2; livello slot 4" },
+          { "chiave": 9, "valore": "BC +4; Contatta patrono; suppliche 7; trucchetti 3; preparati 10; slot 2; livello slot 5" },
+          { "chiave": 10, "valore": "BC +4; Privilegio della sottoclasse; suppliche 7; trucchetti 4; preparati 10; slot 2; livello slot 5" },
+          { "chiave": 11, "valore": "BC +4; Arcanum mistico (incantesimo di 6º livello); suppliche 7; trucchetti 4; preparati 11; slot 3; livello slot 5" },
+          { "chiave": 12, "valore": "BC +4; Aumento dei punteggi di caratteristica; suppliche 8; trucchetti 4; preparati 11; slot 3; livello slot 5" },
+          { "chiave": 13, "valore": "BC +5; Arcanum mistico (incantesimo di 7º livello); suppliche 8; trucchetti 4; preparati 12; slot 3; livello slot 5" },
+          { "chiave": 14, "valore": "BC +5; Privilegio della sottoclasse; suppliche 8; trucchetti 4; preparati 12; slot 3; livello slot 5" },
+          { "chiave": 15, "valore": "BC +5; Arcanum mistico (incantesimo di 8º livello); suppliche 9; trucchetti 4; preparati 13; slot 3; livello slot 5" },
+          { "chiave": 16, "valore": "BC +5; Aumento dei punteggi di caratteristica; suppliche 9; trucchetti 4; preparati 13; slot 3; livello slot 5" },
+          { "chiave": 17, "valore": "BC +6; Arcanum mistico (incantesimo di 9º livello); suppliche 9; trucchetti 4; preparati 14; slot 4; livello slot 5" },
+          { "chiave": 18, "valore": "BC +6; -; suppliche 10; trucchetti 4; preparati 14; slot 4; livello slot 5" },
+          { "chiave": 19, "valore": "BC +6; Dono epico; suppliche 10; trucchetti 4; preparati 15; slot 4; livello slot 5" },
+          { "chiave": 20, "valore": "BC +6; Maestro dell'occulto; suppliche 10; trucchetti 4; preparati 15; slot 4; livello slot 5" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Privilegi chiave",
+        "righe": [
+          { "chiave": "Suppliche occulte", "valore": "Opzioni modulari con prerequisiti; possono modificare magie, patti e capacita." },
+          { "chiave": "Magia del patto", "valore": "Slot dello stesso livello recuperati con riposo breve o lungo." },
+          { "chiave": "Scaltrezza magica", "valore": "Permette recupero limitato di risorse della Magia del patto." },
+          { "chiave": "Maestro dell'occulto", "valore": "Al 20º livello recupera tutti gli slot di Magia del patto quando usa Scaltrezza magica." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Sottoclasse SRD",
+        "righe": [
+          { "chiave": "Patrono immondo", "valore": "Benedizione oscura, incantesimi immondi e resistenza del patrono." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "background_origini_personaggio",
+    "nome": "Background delle origini",
+    "capitolo": "Origini dei personaggi",
+    "categoria": "Origini personaggio",
+    "pagine_sorgente": "93",
+    "descrizione": "Il background rappresenta luogo e occupazione che hanno formato il personaggio prima dell'avventura. Fornisce incrementi di caratteristica, un talento delle origini, competenze ed equipaggiamento iniziale.",
+    "sezioni": [
+      {
+        "titolo": "Elementi di un background",
+        "righe": [
+          { "chiave": "Punteggi di caratteristica", "valore": "Scegli tra tre caratteristiche indicate: +2 a una e +1 a un'altra, oppure +1 a tutte e tre; massimo 20." },
+          { "chiave": "Talento", "valore": "Ogni background fornisce un talento delle origini descritto nel capitolo Talenti." },
+          { "chiave": "Abilita", "valore": "Fornisce competenza in due abilita specifiche." },
+          { "chiave": "Strumenti", "valore": "Fornisce competenza in uno strumento specifico o in uno strumento da artigiano a scelta." },
+          { "chiave": "Equipaggiamento", "valore": "Offre una dotazione indicata dal background oppure 50 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Background SRD",
+        "righe": [
+          { "chiave": "Accolito", "valore": "Intelligenza, Saggezza, Carisma; Iniziato alla magia (chierico); Intuizione e Religione; scorte da calligrafo." },
+          { "chiave": "Criminale", "valore": "Destrezza, Costituzione, Intelligenza; Allerta; Rapidita di mano e Furtivita; arnesi da scasso." },
+          { "chiave": "Sapiente", "valore": "Costituzione, Intelligenza, Saggezza; Iniziato alla magia (mago); Arcano e Storia; scorte da calligrafo." },
+          { "chiave": "Soldato", "valore": "Forza, Destrezza, Costituzione; Aggressore selvaggio; Atletica e Intimidire; un gioco a scelta." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "specie_origini_personaggio",
+    "nome": "Specie delle origini",
+    "capitolo": "Origini dei personaggi",
+    "categoria": "Origini personaggio",
+    "pagine_sorgente": "93-97",
+    "descrizione": "La specie del personaggio determina tipo di creatura, taglia, velocita e tratti speciali. Le specie SRD sono umanoidi e includono opzioni con retaggi, lignaggi o tratti fisici distintivi.",
+    "sezioni": [
+      {
+        "titolo": "Elementi di una specie",
+        "righe": [
+          { "chiave": "Tipo", "valore": "Le specie di questo capitolo sono umanoidi." },
+          { "chiave": "Taglia", "valore": "La specie determina la taglia; alcune permettono di scegliere tra Piccola e Media." },
+          { "chiave": "Velocita", "valore": "La velocita base dipende dalla specie." },
+          { "chiave": "Tratti speciali", "valore": "Ogni specie conferisce tratti unici, talvolta con una scelta tra lignaggi, retaggi o discendenze." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Specie SRD",
+        "righe": [
+          { "chiave": "Dragonide", "valore": "Media, 9 m; discendenza draconica, soffio, resistenza al danno scelto, scurovisione e volo draconico dal 5º livello." },
+          { "chiave": "Elfo", "valore": "Media, 9 m; scurovisione, lignaggio elfico, retaggio fatato, sensi acuti e trance." },
+          { "chiave": "Gnomo", "valore": "Piccola, 9 m; astuzia gnomesca, lignaggio delle foreste o delle rocce e scurovisione." },
+          { "chiave": "Goliath", "valore": "Media, 10,5 m; costituzione robusta, discendenza gigantica e forma Grande dal 5º livello." },
+          { "chiave": "Halfling", "valore": "Piccola, 9 m; agilita halfling, coraggio, fortuna e furtivita innata." },
+          { "chiave": "Nano", "valore": "Media, 9 m; esperto minatore, resilienza nanica, robustezza nanica e scurovisione superiore." },
+          { "chiave": "Orco", "valore": "Media, 9 m; resistenza implacabile, scarica di adrenalina e scurovisione superiore." },
+          { "chiave": "Tiefling", "valore": "Piccola o Media, 9 m; retaggio immondo, presenza ultraterrena e scurovisione." },
+          { "chiave": "Umano", "valore": "Piccola o Media, 9 m; intraprendente, pluriabilita e un talento Origini a scelta." }
+        ],
+        "blocchi": [
+          { "nome": "Retaggi e lignaggi", "descrizione": "Elfi, gnomi, goliath e tiefling scelgono opzioni interne che definiscono incantesimi, resistenze o capacita soprannaturali." }
+        ]
+      },
+      {
+        "titolo": "Antenati draconici",
+        "righe": [
+          { "chiave": "Argento", "valore": "Freddo" },
+          { "chiave": "Bianco", "valore": "Freddo" },
+          { "chiave": "Blu", "valore": "Fulmine" },
+          { "chiave": "Bronzo", "valore": "Fulmine" },
+          { "chiave": "Nero", "valore": "Acido" },
+          { "chiave": "Oro", "valore": "Fuoco" },
+          { "chiave": "Ottone", "valore": "Fuoco" },
+          { "chiave": "Rame", "valore": "Acido" },
+          { "chiave": "Rosso", "valore": "Fuoco" },
+          { "chiave": "Verde", "valore": "Veleno" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Lignaggi elfici",
+        "righe": [
+          { "chiave": "Drow", "valore": "Liv.1 scurovisione 36 m e luci danzanti; liv.3 luminescenza; liv.5 oscurita." },
+          { "chiave": "Elfo alto", "valore": "Liv.1 prestidigitazione sostituibile dopo riposo lungo; liv.3 individuazione del magico; liv.5 passo velato." },
+          { "chiave": "Elfo dei boschi", "valore": "Liv.1 velocita +1,5 m e artificio druidico; liv.3 passo veloce; liv.5 passare senza tracce." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Retaggi immondi",
+        "righe": [
+          { "chiave": "Abissale", "valore": "Liv.1 resistenza veleno e spruzzo velenoso; liv.3 raggio di infermita; liv.5 blocca persone." },
+          { "chiave": "Ctonio", "valore": "Liv.1 resistenza necrotico e tocco gelido; liv.3 vita falsata; liv.5 raggio di affaticamento." },
+          { "chiave": "Infernale", "valore": "Liv.1 resistenza fuoco e dardo di fuoco; liv.3 intimorire infernale; liv.5 oscurita." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "talenti_origini_generali",
+    "nome": "Talenti Origini e Generali",
+    "capitolo": "Talenti",
+    "categoria": "Talenti",
+    "pagine_sorgente": "98-99",
+    "descrizione": "I talenti sono organizzati per categoria e indicano prerequisiti, benefici ed eventuale ripetibilita. I talenti Origini sono disponibili tramite background o opzioni simili; quelli Generali richiedono di norma il 4º livello o superiore.",
+    "sezioni": [
+      {
+        "titolo": "Elementi di un talento",
+        "righe": [
+          { "chiave": "Categoria", "valore": "Origini, Generale, Stile di combattimento o Dono epico." },
+          { "chiave": "Prerequisito", "valore": "Deve essere soddisfatto salvo privilegi che consentano di ignorarlo; un prerequisito di classe richiede almeno 1 livello in quella classe." },
+          { "chiave": "Beneficio", "valore": "Chi possiede il talento ottiene i benefici descritti." },
+          { "chiave": "Ripetibile", "valore": "Un talento puo essere ottenuto una sola volta, salvo indicazione diversa." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Talenti Origini",
+        "righe": [
+          { "chiave": "Abile", "valore": "Ottieni competenza in una combinazione di tre abilita o strumenti a scelta; ripetibile." },
+          { "chiave": "Aggressore selvaggio", "valore": "Una volta per turno, quando colpisci con un'arma, tiri due volte i danni dell'arma e scegli il risultato." },
+          { "chiave": "Allerta", "valore": "Aggiungi il bonus di competenza all'iniziativa e puoi scambiare il risultato con un alleato consenziente nello stesso combattimento." },
+          { "chiave": "Iniziato alla magia", "valore": "Scegli lista da chierico, druido o mago; ottieni due trucchetti, un incantesimo di 1º livello e possibilita di sostituirli salendo di livello." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Talenti Generali",
+        "righe": [
+          { "chiave": "Aumento dei punteggi di caratteristica", "valore": "Dal 4º livello, aumenta un punteggio di 2 o due punteggi di 1, massimo 20; ripetibile." },
+          { "chiave": "Lottatore", "valore": "Dal 4º livello con Forza o Destrezza 13; aumenta Forza o Destrezza, migliora colpi senz'armi, attacchi contro creature afferrate e movimento in lotta." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "talenti_stile_doni_epici",
+    "nome": "Talenti Stile di combattimento e Doni epici",
+    "capitolo": "Talenti",
+    "categoria": "Talenti",
+    "pagine_sorgente": "99-100",
+    "descrizione": "I talenti Stile di combattimento richiedono il privilegio omonimo e migliorano un approccio marziale. I Doni epici richiedono il 19º livello o superiore e aumentano caratteristiche fino a 30 con benefici leggendari.",
+    "sezioni": [
+      {
+        "titolo": "Stili di combattimento",
+        "righe": [
+          { "chiave": "Combattere con armi possenti", "valore": "Con armi da mischia a due mani o versatili impugnate a due mani, i risultati 1 o 2 ai danni valgono 3." },
+          { "chiave": "Combattere con due armi", "valore": "Aggiungi il modificatore di caratteristica al danno dell'attacco extra da arma leggera se non gia aggiunto." },
+          { "chiave": "Difesa", "valore": "Con armatura leggera, media o pesante ottieni +1 alla Classe Armatura." },
+          { "chiave": "Tiro", "valore": "Ottieni +2 ai tiri per colpire con armi a distanza." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Doni epici",
+        "righe": [
+          { "chiave": "Dono del fato", "valore": "+1 a una caratteristica, massimo 30; 2d4 come bonus o penalita a una prova con d20 entro 18 m." },
+          { "chiave": "Dono della vista pura", "valore": "+1 a una caratteristica, massimo 30; vista pura 18 m." },
+          { "chiave": "Dono delle abilita di combattimento", "valore": "+1 a una caratteristica, massimo 30; un tiro per colpire mancato puo comunque colpire, una volta per turno." },
+          { "chiave": "Dono dell'offensiva irresistibile", "valore": "+1 a Forza o Destrezza, massimo 30; ignori resistenza a danni fisici e infliggi danni extra con 20 naturale." },
+          { "chiave": "Dono dello spirito notturno", "valore": "+1 a una caratteristica, massimo 30; in oscurita o luce fioca puoi diventare invisibile e resisti ai danni non psichici o radiosi." },
+          { "chiave": "Dono del richiamo degli incantesimi", "valore": "Richiede Incantesimi; +1 a Intelligenza, Saggezza o Carisma, massimo 30; puoi non consumare slot di livello 1-4 con tiro 1d4 corrispondente." },
+          { "chiave": "Dono del viaggio dimensionale", "valore": "+1 a una caratteristica, massimo 30; dopo Attacco o Magia puoi teletrasportarti fino a 9 m." }
+        ],
+        "blocchi": []
       }
     ]
   },
@@ -321,6 +1698,50 @@
           { "chiave": "Vessazione", "valore": "Dopo aver colpito e inflitto danni, hai vantaggio al prossimo tiro per colpire contro quella creatura prima della fine del tuo prossimo turno." }
         ],
         "blocchi": []
+      },
+      {
+        "titolo": "Armi principali",
+        "righe": [
+          { "chiave": "Ascia", "valore": "1d6 taglienti; lancio 6/18, leggera; Vessazione; 1 kg; 5 mo" },
+          { "chiave": "Bastone ferrato", "valore": "1d6 contundenti; versatile 1d8; Rovesciamento; 2 kg; 2 ma" },
+          { "chiave": "Falcetto", "valore": "1d4 taglienti; leggera; Graffio; 1 kg; 1 mo" },
+          { "chiave": "Giavellotto", "valore": "1d6 perforanti; lancio 9/36; Lentezza; 1 kg; 5 ma" },
+          { "chiave": "Lancia", "valore": "1d6 perforanti; lancio 6/18, versatile 1d8; Fiaccare; 1,5 kg; 1 mo" },
+          { "chiave": "Martello leggero", "valore": "1d4 contundenti; lancio 6/18, leggera; Graffio; 1 kg; 2 mo" },
+          { "chiave": "Mazza", "valore": "1d6 contundenti; Fiaccare; 2 kg; 5 mo" },
+          { "chiave": "Pugnale", "valore": "1d4 perforanti; accurata, lancio 6/18, leggera; Graffio; 0,5 kg; 2 mo" },
+          { "chiave": "Randello pesante", "valore": "1d8 contundenti; due mani; Spinta; 5 kg; 2 ma" },
+          { "chiave": "Randello", "valore": "1d4 contundenti; leggera; Lentezza; 1 kg; 1 ma" },
+          { "chiave": "Arco corto", "valore": "1d6 perforanti; due mani, munizioni 24/96; Vessazione; 1 kg; 25 mo" },
+          { "chiave": "Balestra leggera", "valore": "1d8 perforanti; due mani, munizioni 24/96, ricarica; Lentezza; 2,5 kg; 25 mo" },
+          { "chiave": "Dardo", "valore": "1d4 perforanti; accurata, lancio 6/18; Vessazione; 0,125 kg; 5 mr" },
+          { "chiave": "Fionda", "valore": "1d4 contundenti; munizioni 9/36; Lentezza; 1 ma" },
+          { "chiave": "Alabarda", "valore": "1d10 taglienti; due mani, pesante, portata; Doppio fendente; 3 kg; 20 mo" },
+          { "chiave": "Ascia bipenne", "valore": "1d12 taglienti; due mani, pesante; Doppio fendente; 3,5 kg; 30 mo" },
+          { "chiave": "Ascia da battaglia", "valore": "1d8 taglienti; versatile 1d10; Rovesciamento; 2 kg; 10 mo" },
+          { "chiave": "Falcione", "valore": "1d10 taglienti; due mani, pesante, portata; Colpo di striscio; 3 kg; 20 mo" },
+          { "chiave": "Frusta", "valore": "1d4 taglienti; accurata, portata; Lentezza; 1,5 kg; 2 mo" },
+          { "chiave": "Lancia da cavaliere", "valore": "1d10 perforanti; due mani eccetto in sella, pesante, portata; Rovesciamento; 3 kg; 10 mo" },
+          { "chiave": "Maglio", "valore": "2d6 contundenti; due mani, pesante; Rovesciamento; 5 kg; 10 mo" },
+          { "chiave": "Martello da guerra", "valore": "1d8 contundenti; versatile 1d10; Spinta; 2,5 kg; 15 mo" },
+          { "chiave": "Mazza chiodata", "valore": "1d8 perforanti; Fiaccare; 2 kg; 15 mo" },
+          { "chiave": "Mazzafrusto", "valore": "1d8 contundenti; Fiaccare; 1 kg; 10 mo" },
+          { "chiave": "Picca", "valore": "1d10 perforanti; due mani, pesante, portata; Spinta; 9 kg; 5 mo" },
+          { "chiave": "Piccone da guerra", "valore": "1d8 perforanti; versatile 1d10; Fiaccare; 1 kg; 5 mo" },
+          { "chiave": "Scimitarra", "valore": "1d6 taglienti; accurata, leggera; Graffio; 1,5 kg; 25 mo" },
+          { "chiave": "Spada corta", "valore": "1d6 perforanti; accurata, leggera; Vessazione; 1 kg; 10 mo" },
+          { "chiave": "Spada lunga", "valore": "1d8 taglienti; versatile 1d10; Fiaccare; 1,5 kg; 15 mo" },
+          { "chiave": "Spadone", "valore": "2d6 taglienti; due mani, pesante; Colpo di striscio; 3 kg; 50 mo" },
+          { "chiave": "Stocco", "valore": "1d8 perforanti; accurata; Vessazione; 1 kg; 25 mo" },
+          { "chiave": "Tridente", "valore": "1d8 perforanti; lancio 6/18, versatile 1d10; Rovesciamento; 2 kg; 5 mo" },
+          { "chiave": "Arco lungo", "valore": "1d8 perforanti; due mani, munizioni 45/180, pesante; Lentezza; 1 kg; 50 mo" },
+          { "chiave": "Balestra a mano", "valore": "1d6 perforanti; leggera, munizioni 9/36, ricarica; Vessazione; 1,5 kg; 75 mo" },
+          { "chiave": "Balestra pesante", "valore": "1d10 perforanti; due mani, munizioni 30/120, pesante, ricarica; Spinta; 9 kg; 50 mo" },
+          { "chiave": "Cerbottana", "valore": "1 perforante; munizioni 7/30, ricarica; Vessazione; 0,5 kg; 10 mo" },
+          { "chiave": "Moschetto", "valore": "1d12 perforanti; due mani, munizioni 12/36, ricarica; Lentezza; 5 kg; 500 mo" },
+          { "chiave": "Pistola", "valore": "1d10 perforanti; munizioni 9/27, ricarica; Vessazione; 1,5 kg; 250 mo" }
+        ],
+        "blocchi": []
       }
     ]
   },
@@ -351,6 +1772,25 @@
           { "nome": "Senza competenza", "descrizione": "Indossare armatura leggera, media o pesante senza competenza impone svantaggio alle prove con d20 di Forza o Destrezza e impedisce di lanciare incantesimi." },
           { "nome": "Una alla volta", "descrizione": "Una creatura puo indossare una sola armatura e impugnare un solo scudo alla volta." }
         ]
+      },
+      {
+        "titolo": "Armature complete",
+        "righe": [
+          { "chiave": "Armatura imbottita", "valore": "CA 11 + Des; furtivita svantaggio; 4 kg; 5 mo" },
+          { "chiave": "Armatura di cuoio", "valore": "CA 11 + Des; 5 kg; 10 mo" },
+          { "chiave": "Armatura di cuoio borchiato", "valore": "CA 12 + Des; 6,5 kg; 45 mo" },
+          { "chiave": "Armatura di pelle", "valore": "CA 12 + Des max 2; 6 kg; 10 mo" },
+          { "chiave": "Giaco di maglia", "valore": "CA 13 + Des max 2; 10 kg; 50 mo" },
+          { "chiave": "Corazza a scaglie", "valore": "CA 14 + Des max 2; furtivita svantaggio; 22,5 kg; 50 mo" },
+          { "chiave": "Corazza di piastre", "valore": "CA 14 + Des max 2; 10 kg; 400 mo" },
+          { "chiave": "Mezza armatura", "valore": "CA 15 + Des max 2; furtivita svantaggio; 20 kg; 750 mo" },
+          { "chiave": "Corazza ad anelli", "valore": "CA 14; furtivita svantaggio; 20 kg; 30 mo" },
+          { "chiave": "Cotta di maglia", "valore": "CA 16; For 13; furtivita svantaggio; 27,5 kg; 75 mo" },
+          { "chiave": "Corazza a strisce", "valore": "CA 17; For 15; furtivita svantaggio; 30 kg; 200 mo" },
+          { "chiave": "Armatura a piastre", "valore": "CA 18; For 15; furtivita svantaggio; 32,5 kg; 1.500 mo" },
+          { "chiave": "Scudo", "valore": "CA +2; 3 kg; 10 mo" }
+        ],
+        "blocchi": []
       }
     ]
   },
@@ -420,6 +1860,94 @@
           { "chiave": "Munizioni", "valore": "Aghi, frecce, proiettili per arma da fuoco, proiettili da fionda e quadrelli hanno quantita, contenitore, peso e costo propri." }
         ],
         "blocchi": []
+      },
+      {
+        "titolo": "Equipaggiamento d'avventura: peso e costo",
+        "righe": [
+          { "chiave": "Abiti da viaggiatore", "valore": "2 kg; 2 mo" },
+          { "chiave": "Abiti eleganti", "valore": "3 kg; 15 mo" },
+          { "chiave": "Acciarino e pietra focaia", "valore": "0,5 kg; 5 ma" },
+          { "chiave": "Acido", "valore": "0,5 kg; 25 mo" },
+          { "chiave": "Acqua santa", "valore": "0,5 kg; 25 mo" },
+          { "chiave": "Ampolla", "valore": "0,5 kg; 2 mr" },
+          { "chiave": "Antitossina", "valore": "-; 50 mo" },
+          { "chiave": "Ariete portatile", "valore": "17,5 kg; 4 mo" },
+          { "chiave": "Asta", "valore": "3,5 kg; 5 mr" },
+          { "chiave": "Attrezzi da scalatore", "valore": "6 kg; 25 mo" },
+          { "chiave": "Barile", "valore": "35 kg; 2 mo" },
+          { "chiave": "Borsa", "valore": "0,5 kg; 5 ma" },
+          { "chiave": "Borsa del guaritore", "valore": "1,5 kg; 5 mo" },
+          { "chiave": "Borsa per componenti", "valore": "1 kg; 25 mo" },
+          { "chiave": "Bottiglia di vetro", "valore": "1 kg; 2 mo" },
+          { "chiave": "Brocca", "valore": "2 kg; 2 mr" },
+          { "chiave": "Campanella", "valore": "-; 1 mo" },
+          { "chiave": "Candela", "valore": "-; 1 mr" },
+          { "chiave": "Cannocchiale", "valore": "0,5 kg; 1.000 mo" },
+          { "chiave": "Carrucola e paranco", "valore": "2,5 kg; 1 mo" },
+          { "chiave": "Carta", "valore": "-; 2 ma" },
+          { "chiave": "Catena", "valore": "5 kg; 5 mo" },
+          { "chiave": "Cesto", "valore": "1 kg; 4 ma" },
+          { "chiave": "Coperta", "valore": "1,5 kg; 5 ma" },
+          { "chiave": "Corda", "valore": "2,5 kg; 1 mo" },
+          { "chiave": "Costume", "valore": "2 kg; 5 mo" },
+          { "chiave": "Custodia per mappe o pergamene", "valore": "0,5 kg; 1 mo" },
+          { "chiave": "Custodia per quadrelli", "valore": "0,5 kg; 1 mo" },
+          { "chiave": "Dotazione da avventuriero", "valore": "27,5 kg; 12 mo" },
+          { "chiave": "Dotazione da diplomatico", "valore": "19,5 kg; 39 mo" },
+          { "chiave": "Dotazione da esploratore", "valore": "27,5 kg; 10 mo" },
+          { "chiave": "Dotazione da intrattenitore", "valore": "29 kg; 40 mo" },
+          { "chiave": "Dotazione da sacerdote", "valore": "14 kg; 33 mo" },
+          { "chiave": "Dotazione da scassinatore", "valore": "19 kg; 16 mo" },
+          { "chiave": "Dotazione da studioso", "valore": "11 kg; 40 mo" },
+          { "chiave": "Faretra", "valore": "0,5 kg; 1 mo" },
+          { "chiave": "Fiala", "valore": "-; 1 mo" },
+          { "chiave": "Fischietto da richiamo", "valore": "-; 5 mr" },
+          { "chiave": "Focus arcano", "valore": "variabile; variabile" },
+          { "chiave": "Focus druidico", "valore": "variabile; variabile" },
+          { "chiave": "Forziere", "valore": "12,5 kg; 5 mo" },
+          { "chiave": "Fuoco dell'alchimista", "valore": "0,5 kg; 50 mo" },
+          { "chiave": "Giaciglio", "valore": "3,5 kg; 1 mo" },
+          { "chiave": "Inchiostro", "valore": "-; 10 mo" },
+          { "chiave": "Lampada", "valore": "0,5 kg; 5 ma" },
+          { "chiave": "Lanterna a lente sporgente", "valore": "1 kg; 10 mo" },
+          { "chiave": "Lanterna schermabile", "valore": "1 kg; 5 mo" },
+          { "chiave": "Lente d'ingrandimento", "valore": "-; 100 mo" },
+          { "chiave": "Libro", "valore": "2,5 kg; 25 mo" },
+          { "chiave": "Manette", "valore": "3 kg; 2 mo" },
+          { "chiave": "Mappa", "valore": "-; 1 mo" },
+          { "chiave": "Munizioni", "valore": "variabile; variabile" },
+          { "chiave": "Olio", "valore": "0,5 kg; 1 ma" },
+          { "chiave": "Otre", "valore": "2,5 kg pieno; 2 ma" },
+          { "chiave": "Pala", "valore": "2,5 kg; 2 mo" },
+          { "chiave": "Pennino", "valore": "-; 2 mr" },
+          { "chiave": "Pentola di ferro", "valore": "5 kg; 2 mo" },
+          { "chiave": "Pergamena", "valore": "-; 1 ma" },
+          { "chiave": "Pergamena magica livello 1", "valore": "-; 50 mo" },
+          { "chiave": "Pergamena magica trucchetto", "valore": "-; 30 mo" },
+          { "chiave": "Piede di porco", "valore": "2,5 kg; 2 mo" },
+          { "chiave": "Pozione di guarigione", "valore": "0,25 kg; 50 mo" },
+          { "chiave": "Profumo", "valore": "-; 5 mo" },
+          { "chiave": "Rampino", "valore": "2 kg; 2 mo" },
+          { "chiave": "Razioni", "valore": "1 kg; 5 ma" },
+          { "chiave": "Rete", "valore": "1,5 kg; 1 mo" },
+          { "chiave": "Sacco", "valore": "0,25 kg; 1 mr" },
+          { "chiave": "Scala a pioli", "valore": "12,5 kg; 1 ma" },
+          { "chiave": "Secchio", "valore": "1 kg; 5 mr" },
+          { "chiave": "Serratura", "valore": "0,5 kg; 10 mo" },
+          { "chiave": "Sfere metalliche", "valore": "1 kg; 1 mo" },
+          { "chiave": "Simbolo sacro", "valore": "variabile; variabile" },
+          { "chiave": "Spago", "valore": "-; 1 ma" },
+          { "chiave": "Specchio", "valore": "0,25 kg; 5 mo" },
+          { "chiave": "Spuntoni di ferro", "valore": "2,5 kg; 1 mo" },
+          { "chiave": "Tagliola", "valore": "12,5 kg; 5 mo" },
+          { "chiave": "Tenda", "valore": "10 kg; 2 mo" },
+          { "chiave": "Torcia", "valore": "0,5 kg; 1 mr" },
+          { "chiave": "Triboli", "valore": "1 kg; 1 mo" },
+          { "chiave": "Tunica", "valore": "2 kg; 1 mo" },
+          { "chiave": "Veleno base", "valore": "-; 100 mo" },
+          { "chiave": "Zaino", "valore": "2,5 kg; 2 mo" }
+        ],
+        "blocchi": []
       }
     ]
   },
@@ -453,6 +1981,35 @@
           { "chiave": "Veicoli da tiro", "valore": "Biga, carretto, carro, carrozza e slitta hanno peso e costo specifici." },
           { "chiave": "Veicoli grandi", "valore": "Navi e veicoli aerei indicano velocita, equipaggio, passeggeri, carico, CA, PF, soglia di danno e costo." },
           { "chiave": "Riparazioni", "valore": "Riparare una nave richiede normalmente 1 giorno e 20 mo per punto ferita; in cantiere navale tempo e costo si dimezzano." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Finimenti e veicoli da tiro",
+        "righe": [
+          { "chiave": "Biga", "valore": "50 kg; 250 mo" },
+          { "chiave": "Carretto", "valore": "100 kg; 15 mo" },
+          { "chiave": "Carro", "valore": "200 kg; 35 mo" },
+          { "chiave": "Carrozza", "valore": "300 kg; 100 mo" },
+          { "chiave": "Nutrimento al giorno", "valore": "5 kg; 5 mr" },
+          { "chiave": "Sella da galoppo", "valore": "12,5 kg; 10 mo" },
+          { "chiave": "Sella esotica", "valore": "20 kg; 60 mo" },
+          { "chiave": "Sella militare", "valore": "15 kg; 20 mo" },
+          { "chiave": "Slitta", "valore": "150 kg; 20 mo" },
+          { "chiave": "Stallaggio al giorno", "valore": "-; 5 ma" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Veicoli aerei e imbarcazioni",
+        "righe": [
+          { "chiave": "Barca a remi", "valore": "2,25 km/h; equipaggio 1; passeggeri 3; CA 11; PF 50; costo 50 mo" },
+          { "chiave": "Barcone", "valore": "1,5 km/h; equipaggio 1; passeggeri 6; carico 1/2 t; CA 15; PF 100; soglia 10; costo 3.000 mo" },
+          { "chiave": "Dirigibile", "valore": "12 km/h; equipaggio 10; passeggeri 20; carico 1 t; CA 13; PF 300; costo 40.000 mo" },
+          { "chiave": "Galea", "valore": "6 km/h; equipaggio 80; carico 150 t; CA 15; PF 500; soglia 20; costo 30.000 mo" },
+          { "chiave": "Nave a vela", "valore": "3 km/h; equipaggio 20; passeggeri 20; carico 100 t; CA 15; PF 300; soglia 15; costo 10.000 mo" },
+          { "chiave": "Nave da guerra", "valore": "3,75 km/h; equipaggio 60; passeggeri 60; carico 200 t; CA 15; PF 500; soglia 20; costo 25.000 mo" },
+          { "chiave": "Nave lunga", "valore": "4,5 km/h; equipaggio 40; passeggeri 150; carico 10 t; CA 15; PF 300; soglia 15; costo 10.000 mo" }
         ],
         "blocchi": []
       }
@@ -492,6 +2049,34 @@
           { "chiave": "Servizi magici: livelli 4-5", "valore": "Solo cittadina o citta; costo 2.000 mo." },
           { "chiave": "Servizi magici: livelli 6-8", "valore": "Solo citta; costo 20.000 mo." },
           { "chiave": "Servizi magici: livello 9", "valore": "Solo citta; costo 100.000 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Vitto e alloggio",
+        "righe": [
+          { "chiave": "Birra", "valore": "Boccale 4 mr" },
+          { "chiave": "Formaggio", "valore": "Fetta 1 ma" },
+          { "chiave": "Locanda", "valore": "Squallido 7 mr; povero 1 ma; modesto 5 ma; agiato 8 ma; ricco 2 mo; aristocratico 4 mo" },
+          { "chiave": "Pagnotta", "valore": "2 mr" },
+          { "chiave": "Pasto", "valore": "Squallido 1 mr; povero 2 mr; modesto 1 ma; agiato 2 ma; ricco 3 ma; aristocratico 6 ma" },
+          { "chiave": "Vino", "valore": "Comune 2 ma; pregiato 10 mo" }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Gregari e servizi magici",
+        "righe": [
+          { "chiave": "Gregario abile", "valore": "2 mo al giorno" },
+          { "chiave": "Gregario inesperto", "valore": "2 ma al giorno" },
+          { "chiave": "Messaggero", "valore": "2 mr per 1,5 km" },
+          { "chiave": "Trucchetto", "valore": "Villaggio, cittadina o citta; 30 mo" },
+          { "chiave": "Incantesimo 1", "valore": "Villaggio, cittadina o citta; 50 mo" },
+          { "chiave": "Incantesimo 2", "valore": "Villaggio, cittadina o citta; 200 mo" },
+          { "chiave": "Incantesimo 3", "valore": "Solo cittadina o citta; 300 mo" },
+          { "chiave": "Incantesimo 4-5", "valore": "Solo cittadina o citta; 2.000 mo" },
+          { "chiave": "Incantesimo 6-8", "valore": "Solo citta; 20.000 mo" },
+          { "chiave": "Incantesimo 9", "valore": "Solo citta; 100.000 mo" }
         ],
         "blocchi": []
       }
@@ -720,6 +2305,239 @@
     ]
   },
   {
+    "id": "passo_di_viaggio",
+    "nome": "Passo di viaggio",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "220",
+    "descrizione": "Il terreno predominante determina il passo massimo di viaggio. Strade, velocita dei viaggiatori, viaggio prolungato, movimenti speciali e veicoli possono modificare il modo in cui il gruppo si sposta.",
+    "sezioni": [
+      {
+        "titolo": "Fattori del viaggio",
+        "righe": [
+          { "chiave": "Strade", "valore": "Una strada in buone condizioni aumenta il passo massimo di un grado, da lento a normale o da normale a veloce." },
+          { "chiave": "Viaggiatori lenti", "valore": "Il gruppo deve muoversi a passo lento se la velocita di un membro e ridotta alla meta o meno." },
+          { "chiave": "Oltre 8 ore", "valore": "Alla fine di ogni ora extra, ogni personaggio supera un TS su Costituzione o ottiene 1 livello di indebolimento; CD 10 + ore oltre l'ottava." },
+          { "chiave": "Movimenti speciali", "valore": "Chilometri all'ora = velocita divisa 2; passo normale = km/h per ore di viaggio; veloce x 1,33; lento x 0,66." },
+          { "chiave": "Veicoli", "valore": "Chi viaggia su un veicolo usa la velocita del veicolo in km/h e non sceglie un passo di viaggio." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Terreni",
+        "righe": [
+          { "chiave": "Artico", "valore": "Passo massimo veloce con equipaggiamento adeguato; CD foraggiare 20, orientarsi 10, cercare 10." },
+          { "chiave": "Costiero", "valore": "Passo massimo normale; CD foraggiare 10, orientarsi 5, cercare 15." },
+          { "chiave": "Deserto", "valore": "Passo massimo normale; CD foraggiare 20, orientarsi 10, cercare 10." },
+          { "chiave": "Foresta", "valore": "Passo massimo normale; CD foraggiare 10, orientarsi 15, cercare 15." },
+          { "chiave": "Prateria", "valore": "Passo massimo veloce; CD foraggiare 15, orientarsi 5, cercare 15." },
+          { "chiave": "Montagna o palude", "valore": "Passo massimo lento." },
+          { "chiave": "Sottosuolo o urbano", "valore": "Passo massimo normale." },
+          { "chiave": "Sull'acqua", "valore": "Il movimento dipende dal veicolo." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "creare_background",
+    "nome": "Creare un background",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "220-221",
+    "descrizione": "Un background contestualizza la vita del personaggio prima dell'avventura. Il GM puo crearne o personalizzarne uno per riflettere il tema della campagna o del mondo.",
+    "sezioni": [
+      {
+        "titolo": "Procedura",
+        "righe": [
+          { "chiave": "1. Caratteristiche", "valore": "Scegli tre caratteristiche appropriate al background." },
+          { "chiave": "2. Talento", "valore": "Scegli un talento della categoria Origini." },
+          { "chiave": "3. Abilita", "valore": "Scegli due abilita appropriate; non devono corrispondere per forza alle caratteristiche aumentate." },
+          { "chiave": "4. Strumento", "valore": "Scegli uno strumento usato nella pratica o associato al background." },
+          { "chiave": "5. Equipaggiamento", "valore": "Assembla un pacchetto del valore di 50 mo, oro non speso incluso; non includere armi da guerra o armature." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "maledizioni_e_contagi_magici",
+    "nome": "Maledizioni e contagi magici",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "221-223",
+    "descrizione": "Le maledizioni sono fardelli magici che durano per un tempo specifico o finche non vengono rimossi. I contagi magici sono effetti avversi e contagiosi di origine magica.",
+    "sezioni": [
+      {
+        "titolo": "Maledizioni",
+        "righe": [
+          { "chiave": "Scagliare maledizione", "valore": "Fornisce un metro di paragone: durata 1 minuto come livello 3, durata fino a dissoluzione come livello 9." },
+          { "chiave": "Creature maledette", "valore": "Il GM decide come rimuovi maledizione interagisce con creature dalle origini maledette." },
+          { "chiave": "Oggetti maledetti", "valore": "Possono essere creati deliberatamente o derivare da eventi soprannaturali." },
+          { "chiave": "Narrative", "valore": "Possono essere punizioni divine o violazioni di tabu; dovrebbero avere causa e possibile espiazione." },
+          { "chiave": "Ambientali", "valore": "Luoghi intrisi di male possono infliggere maledizioni a chi vi entra." },
+          { "chiave": "Possessione demoniaca", "valore": "TS Carisma CD 15; su fallimento un'entita puo controllare la creatura quando ottiene 1 a una prova con d20." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Contagi magici",
+        "righe": [
+          { "chiave": "Convalescenza", "valore": "Dopo 3 giorni senza interrompere riposi lunghi, TS Costituzione CD 15; su successo vantaggio per debellare il contagio per 24 ore." },
+          { "chiave": "Epidemia fognaria", "valore": "CD 11; causa indebolimento e ostacola recupero di PF e riduzione dell'indebolimento." },
+          { "chiave": "Febbre da gallina", "valore": "CD 13; causa indebolimento, risata incapacitante e puo diffondersi entro emanazione di 3 metri." },
+          { "chiave": "Vista putrefatta", "valore": "CD 15; causa accecato, puo essere curata magicamente o soppressa con unguento da borsa da erborista." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "effetti_ambientali",
+    "nome": "Effetti ambientali",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "223-224",
+    "descrizione": "Gli ambienti estremi impongono rischi aggiuntivi come indebolimento, terreno difficile, cadute, oscuramento, svantaggi alle prove o interferenze con volo e attacchi a distanza.",
+    "sezioni": [
+      {
+        "titolo": "Pericoli ambientali",
+        "righe": [
+          { "chiave": "Acque gelide", "valore": "Dopo minuti pari alla Costituzione, ogni minuto richiede TS Costituzione CD 10 o 1 livello di indebolimento." },
+          { "chiave": "Acque profonde", "valore": "Dopo 1 ora oltre 30 metri, chi non ha velocita di nuoto supera TS Costituzione CD 10 o ottiene indebolimento." },
+          { "chiave": "Alta quota", "valore": "Oltre 3.000 metri ogni ora vale come 2 ore di viaggio; adattamento dopo 30 giorni, non oltre 6.000 metri salvo nativi." },
+          { "chiave": "Caldo estremo", "valore": "A 38 gradi o piu senza acqua, TS Costituzione ogni ora: CD 5 nella prima ora, +1 per ogni ora successiva." },
+          { "chiave": "Freddo estremo", "valore": "A -18 gradi o meno, TS Costituzione CD 10 ogni ora o 1 livello di indebolimento." },
+          { "chiave": "Ghiaccio scivoloso", "valore": "Terreno difficile; TS Destrezza CD 10 o prono quando ci si muove sopra per la prima volta in un turno o vi si inizia il turno." },
+          { "chiave": "Ghiaccio sottile", "valore": "Regge 3d10 x 5 kg per quadrato di 3 metri; se superato si rompe sopra acque gelide." },
+          { "chiave": "Precipitazioni abbondanti", "valore": "Area leggermente oscurata, svantaggio a Percezione e pioggia battente spegne fiamme scoperte." },
+          { "chiave": "Vento forte", "valore": "Svantaggio agli attacchi a distanza con armi, spegne fiamme, disperde nebbia e puo far cadere creature volanti." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "paura_e_stress_mentale",
+    "nome": "Paura e stress mentale",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "224-225",
+    "descrizione": "Paura e stress mentale sono regole opzionali da discutere con i giocatori all'inizio della campagna. La paura usa spesso la condizione spaventato; lo stress mentale usa spesso danni psichici.",
+    "sezioni": [
+      {
+        "titolo": "Paura e stress",
+        "righe": [
+          { "chiave": "Paura CD 10", "valore": "Evento innocuo ma terrificante." },
+          { "chiave": "Paura CD 15", "valore": "Manifestazione illusoria delle peggiori paure visibile solo al personaggio." },
+          { "chiave": "Paura CD 20", "valore": "Portale verso l'Abisso o scena soprannaturale estrema." },
+          { "chiave": "Stress CD 10", "valore": "Sostanza allucinogena: 1d6 danni psichici." },
+          { "chiave": "Stress CD 15", "valore": "Idolo immondo che attacca la psiche: 3d6 danni psichici." },
+          { "chiave": "Stress CD 20", "valore": "Trappola magica che spedisce nel Reame Remoto: 9d6 danni psichici." },
+          { "chiave": "Effetti prolungati", "valore": "Breve termine 1d10 minuti, lungo termine 1d10 x 10 ore o indefinito finche rimosso." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "veleno",
+    "nome": "Veleno",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "225-226",
+    "descrizione": "I veleni sono sostanze insidiose e spesso illegali. Possono essere da contatto, ferimento, inalazione o ingestione, e alcuni possono essere estratti da creature velenose.",
+    "sezioni": [
+      {
+        "titolo": "Tipi ed esempi",
+        "righe": [
+          { "chiave": "Contatto", "valore": "Cosparso su un oggetto, resta attivo finche viene toccato o lavato via." },
+          { "chiave": "Ferimento", "valore": "Applicato con azione bonus ad armi o munizioni, ha effetto quando viene trasmesso tramite una ferita." },
+          { "chiave": "Inalazione", "valore": "Polveri e gas colpiscono creature entro cubo di 1,5 metri; trattenere il respiro non basta." },
+          { "chiave": "Ingestione", "valore": "Richiede ingerire una dose intera; una dose parziale puo concedere vantaggio al TS o dimezzare i danni." },
+          { "chiave": "Estrazione", "valore": "1d6 minuti e prova Intelligenza (Natura) CD 20 con sostanze da avvelenatore; fallire di 5 o piu espone al veleno." },
+          { "chiave": "Veleno di verme purpureo", "valore": "2.000 mo, ferimento, CD 21; 10d6 danni da veleno o meta." },
+          { "chiave": "Veleno di viverna", "valore": "1.200 mo, ferimento, CD 14; 7d6 danni da veleno o meta." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "trappole",
+    "nome": "Trappole",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "227-230",
+    "descrizione": "Le trappole funzionano meglio se usate con parsimonia. Le migliori sono distrazioni superabili o enigmi mortali che richiedono attenzione, abilita e lavoro di squadra.",
+    "sezioni": [
+      {
+        "titolo": "Componenti ed esempi",
+        "righe": [
+          { "chiave": "Gravita e livelli", "valore": "Una trappola puo essere una seccatura o una minaccia mortale per personaggi di certi livelli." },
+          { "chiave": "Innesco", "valore": "Spesso si attiva entrando in un'area, toccando un oggetto, calpestando una piastra, tirando un cavo o aprendo una serratura." },
+          { "chiave": "Durata", "valore": "Puo essere istantanea, misurata in round/minuti/ore, o durare fino a distruzione o dissoluzione." },
+          { "chiave": "Ago avvelenato", "valore": "Serratura trappola; Percezione CD 15 per individuarlo, Rapidita di mano CD 15 per disattivarlo." },
+          { "chiave": "Crollo del tetto", "valore": "Cavo teso; TS Destrezza CD 13 o 2d10 danni contundenti e terreno difficile." },
+          { "chiave": "Dardi avvelenati", "valore": "Piastra a pressione; TS Destrezza CD 13 o 1d3 dardi da 1d6 veleno ciascuno." },
+          { "chiave": "Pietra rotolante", "valore": "Piastra a pressione; pietra con iniziativa +8, CA 17, 100 PF, soglia danno 10." },
+          { "chiave": "Statua del soffio di fuoco", "valore": "Piastra a pressione; cono di fuoco, glifo individuabile e disarmabile." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "combattimenti",
+    "nome": "Combattimenti",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "230-231",
+    "descrizione": "La costruzione di combattimenti usa obiettivi di difficolta, budget di PE e scelta ragionata delle creature. Terreno, posizioni, gruppi misti e motivi per muoversi rendono gli incontri piu interessanti.",
+    "sezioni": [
+      {
+        "titolo": "Difficolta e gestione",
+        "righe": [
+          { "chiave": "Facile", "valore": "Dovrebbe essere vinto senza vittime, pur potendo richiedere risorse di guarigione." },
+          { "chiave": "Media", "valore": "Senza cure e risorse puo andare male; possibile eliminazione temporanea e bassa possibilita di morte." },
+          { "chiave": "Difficile", "valore": "Puo essere letale e richiede tattiche intelligenti, prontezza e fortuna." },
+          { "chiave": "Budget PE", "valore": "Moltiplica il valore per personaggio della tabella per il numero di personaggi, poi spendi PE senza superare il budget." },
+          { "chiave": "Molte creature", "valore": "Oltre due creature per personaggio aumenta il rischio di picchi di danno; usa creature deboli, soprattutto ai livelli 1-2." },
+          { "chiave": "GS 0", "valore": "Creature con GS 0, soprattutto da 0 PE, vanno usate con parsimonia; per molte creature usa sciami." },
+          { "chiave": "Schede statistiche", "valore": "Oltre due o tre schede diverse in un incontro puo essere scoraggiante." },
+          { "chiave": "Creature potenti", "valore": "Una creatura con GS superiore al livello del gruppo puo eliminare personaggi con una sola azione." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Budget di PE per personaggio",
+        "righe": [
+          { "chiave": "1", "valore": "Facile 50; Media 75; Difficile 100" },
+          { "chiave": "2", "valore": "100; 150; 200" },
+          { "chiave": "3", "valore": "150; 225; 400" },
+          { "chiave": "4", "valore": "250; 375; 500" },
+          { "chiave": "5", "valore": "500; 750; 1.100" },
+          { "chiave": "6", "valore": "600; 1.000; 1.400" },
+          { "chiave": "7", "valore": "750; 1.300; 1.700" },
+          { "chiave": "8", "valore": "1.000; 1.700; 2.100" },
+          { "chiave": "9", "valore": "1.300; 2.000; 2.600" },
+          { "chiave": "10", "valore": "1.600; 2.300; 3.100" },
+          { "chiave": "11", "valore": "1.900; 2.900; 4.100" },
+          { "chiave": "12", "valore": "2.200; 3.700; 4.700" },
+          { "chiave": "13", "valore": "2.600; 4.200; 5.400" },
+          { "chiave": "14", "valore": "2.900; 4.900; 6.200" },
+          { "chiave": "15", "valore": "3.300; 5.400; 7.800" },
+          { "chiave": "16", "valore": "3.800; 6.100; 9.800" },
+          { "chiave": "17", "valore": "4.500; 7.200; 11.700" },
+          { "chiave": "18", "valore": "5.000; 8.700; 14.200" },
+          { "chiave": "19", "valore": "5.500; 10.700; 17.200" },
+          { "chiave": "20", "valore": "6.400; 13.200; 22.000" }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
     "id": "categorie_oggetti_magici",
     "nome": "Categorie di oggetti magici",
     "capitolo": "Oggetti magici",
@@ -790,37 +2608,6 @@
     ]
   },
   {
-    "id": "attivare_oggetti_magici",
-    "nome": "Attivare oggetti magici",
-    "capitolo": "Oggetti magici",
-    "categoria": "Oggetti magici",
-    "pagine_sorgente": "234",
-    "descrizione": "Di solito attivare un oggetto magico richiede un'azione di Magia. La categoria o la descrizione del singolo oggetto specificano eventuali procedure particolari.",
-    "sezioni": [
-      {
-        "titolo": "Modalita di attivazione",
-        "righe": [
-          { "chiave": "Parola d'ordine", "valore": "Deve essere pronunciata in modo udibile; non funziona dove i suoni sono soppressi, come in silenzio." },
-          { "chiave": "Consumabili", "valore": "Una volta usato, un oggetto consumabile perde la sua magia." },
-          { "chiave": "Pozioni", "valore": "Bere una pozione o somministrarla richiede un'azione bonus; applicare un olio puo richiedere piu tempo." },
-          { "chiave": "Cariche", "valore": "Alcuni oggetti consumano cariche; identificare rivela le cariche rimanenti e una creatura sintonizzata conosce cariche e recupero." },
-          { "chiave": "Alba successiva", "valore": "Se l'evento di ricarica non esiste nel mondo o piano, il GM decide quando l'oggetto si ricarica." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Incantesimi dagli oggetti",
-        "righe": [
-          { "chiave": "Slot e componenti", "valore": "L'incantesimo non consuma slot e non richiede componenti, salvo diversa indicazione." },
-          { "chiave": "Livello", "valore": "Viene lanciato al livello piu basso possibile di incantesimo e incantatore, salvo diversa indicazione." },
-          { "chiave": "Concentrazione", "valore": "Se l'incantesimo richiede concentrazione, chi usa l'oggetto deve concentrarsi." },
-          { "chiave": "Caratteristica da incantatore", "valore": "Se richiesta, chi usa piu caratteristiche sceglie quale usare; chi non ne ha usa modificatore +0 e bonus di competenza." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
     "id": "pozioni_maledizioni_resilienza",
     "nome": "Pozioni, maledizioni e resilienza",
     "capitolo": "Oggetti magici",
@@ -849,6 +2636,37 @@
           { "chiave": "Sintonia maledetta", "valore": "La sintonia con un oggetto maledetto non puo essere interrotta volontariamente finche la maledizione non viene spezzata." },
           { "chiave": "Resilienza", "valore": "Un oggetto magico e tenace almeno quanto un oggetto non magico del suo genere; quasi tutti, eccetto pozioni e pergamene, hanno resistenza a tutti i danni." },
           { "chiave": "Manufatti", "valore": "Possono essere distrutti solo con misure speciali, spesso scoperte tramite ricerca o missione." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "attivare_oggetti_magici",
+    "nome": "Attivare oggetti magici",
+    "capitolo": "Oggetti magici",
+    "categoria": "Oggetti magici",
+    "pagine_sorgente": "234",
+    "descrizione": "Di solito attivare un oggetto magico richiede un'azione di Magia. La categoria o la descrizione del singolo oggetto specificano eventuali procedure particolari.",
+    "sezioni": [
+      {
+        "titolo": "Modalita di attivazione",
+        "righe": [
+          { "chiave": "Parola d'ordine", "valore": "Deve essere pronunciata in modo udibile; non funziona dove i suoni sono soppressi, come in silenzio." },
+          { "chiave": "Consumabili", "valore": "Una volta usato, un oggetto consumabile perde la sua magia." },
+          { "chiave": "Pozioni", "valore": "Bere una pozione o somministrarla richiede un'azione bonus; applicare un olio puo richiedere piu tempo." },
+          { "chiave": "Cariche", "valore": "Alcuni oggetti consumano cariche; identificare rivela le cariche rimanenti e una creatura sintonizzata conosce cariche e recupero." },
+          { "chiave": "Alba successiva", "valore": "Se l'evento di ricarica non esiste nel mondo o piano, il GM decide quando l'oggetto si ricarica." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Incantesimi dagli oggetti",
+        "righe": [
+          { "chiave": "Slot e componenti", "valore": "L'incantesimo non consuma slot e non richiede componenti, salvo diversa indicazione." },
+          { "chiave": "Livello", "valore": "Viene lanciato al livello piu basso possibile di incantesimo e incantatore, salvo diversa indicazione." },
+          { "chiave": "Concentrazione", "valore": "Se l'incantesimo richiede concentrazione, chi usa l'oggetto deve concentrarsi." },
+          { "chiave": "Caratteristica da incantatore", "valore": "Se richiesta, chi usa piu caratteristiche sceglie quale usare; chi non ne ha usa modificatore +0 e bonus di competenza." }
         ],
         "blocchi": []
       }
@@ -1079,946 +2897,6 @@
           { "chiave": "X/giorno", "valore": "La voce puo essere usata X volte e recupera gli usi consumati al termine di un riposo lungo." },
           { "chiave": "Ricarica X-Y", "valore": "Dopo l'uso, all'inizio di ogni turno del mostro tira 1d6; se il risultato rientra nell'intervallo, l'uso torna disponibile." },
           { "chiave": "Ricarica dopo riposo", "valore": "La voce puo essere usata una volta e torna disponibile dopo un riposo breve o lungo." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "passo_di_viaggio",
-    "nome": "Passo di viaggio",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "220",
-    "descrizione": "Il terreno predominante determina il passo massimo di viaggio. Strade, velocita dei viaggiatori, viaggio prolungato, movimenti speciali e veicoli possono modificare il modo in cui il gruppo si sposta.",
-    "sezioni": [
-      {
-        "titolo": "Fattori del viaggio",
-        "righe": [
-          { "chiave": "Strade", "valore": "Una strada in buone condizioni aumenta il passo massimo di un grado, da lento a normale o da normale a veloce." },
-          { "chiave": "Viaggiatori lenti", "valore": "Il gruppo deve muoversi a passo lento se la velocita di un membro e ridotta alla meta o meno." },
-          { "chiave": "Oltre 8 ore", "valore": "Alla fine di ogni ora extra, ogni personaggio supera un TS su Costituzione o ottiene 1 livello di indebolimento; CD 10 + ore oltre l'ottava." },
-          { "chiave": "Movimenti speciali", "valore": "Chilometri all'ora = velocita divisa 2; passo normale = km/h per ore di viaggio; veloce x 1,33; lento x 0,66." },
-          { "chiave": "Veicoli", "valore": "Chi viaggia su un veicolo usa la velocita del veicolo in km/h e non sceglie un passo di viaggio." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Terreni",
-        "righe": [
-          { "chiave": "Artico", "valore": "Passo massimo veloce con equipaggiamento adeguato; CD foraggiare 20, orientarsi 10, cercare 10." },
-          { "chiave": "Costiero", "valore": "Passo massimo normale; CD foraggiare 10, orientarsi 5, cercare 15." },
-          { "chiave": "Deserto", "valore": "Passo massimo normale; CD foraggiare 20, orientarsi 10, cercare 10." },
-          { "chiave": "Foresta", "valore": "Passo massimo normale; CD foraggiare 10, orientarsi 15, cercare 15." },
-          { "chiave": "Prateria", "valore": "Passo massimo veloce; CD foraggiare 15, orientarsi 5, cercare 15." },
-          { "chiave": "Montagna o palude", "valore": "Passo massimo lento." },
-          { "chiave": "Sottosuolo o urbano", "valore": "Passo massimo normale." },
-          { "chiave": "Sull'acqua", "valore": "Il movimento dipende dal veicolo." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "creare_background",
-    "nome": "Creare un background",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "220-221",
-    "descrizione": "Un background contestualizza la vita del personaggio prima dell'avventura. Il GM puo crearne o personalizzarne uno per riflettere il tema della campagna o del mondo.",
-    "sezioni": [
-      {
-        "titolo": "Procedura",
-        "righe": [
-          { "chiave": "1. Caratteristiche", "valore": "Scegli tre caratteristiche appropriate al background." },
-          { "chiave": "2. Talento", "valore": "Scegli un talento della categoria Origini." },
-          { "chiave": "3. Abilita", "valore": "Scegli due abilita appropriate; non devono corrispondere per forza alle caratteristiche aumentate." },
-          { "chiave": "4. Strumento", "valore": "Scegli uno strumento usato nella pratica o associato al background." },
-          { "chiave": "5. Equipaggiamento", "valore": "Assembla un pacchetto del valore di 50 mo, oro non speso incluso; non includere armi da guerra o armature." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "maledizioni_e_contagi_magici",
-    "nome": "Maledizioni e contagi magici",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "221-223",
-    "descrizione": "Le maledizioni sono fardelli magici che durano per un tempo specifico o finche non vengono rimossi. I contagi magici sono effetti avversi e contagiosi di origine magica.",
-    "sezioni": [
-      {
-        "titolo": "Maledizioni",
-        "righe": [
-          { "chiave": "Scagliare maledizione", "valore": "Fornisce un metro di paragone: durata 1 minuto come livello 3, durata fino a dissoluzione come livello 9." },
-          { "chiave": "Creature maledette", "valore": "Il GM decide come rimuovi maledizione interagisce con creature dalle origini maledette." },
-          { "chiave": "Oggetti maledetti", "valore": "Possono essere creati deliberatamente o derivare da eventi soprannaturali." },
-          { "chiave": "Narrative", "valore": "Possono essere punizioni divine o violazioni di tabu; dovrebbero avere causa e possibile espiazione." },
-          { "chiave": "Ambientali", "valore": "Luoghi intrisi di male possono infliggere maledizioni a chi vi entra." },
-          { "chiave": "Possessione demoniaca", "valore": "TS Carisma CD 15; su fallimento un'entita puo controllare la creatura quando ottiene 1 a una prova con d20." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Contagi magici",
-        "righe": [
-          { "chiave": "Convalescenza", "valore": "Dopo 3 giorni senza interrompere riposi lunghi, TS Costituzione CD 15; su successo vantaggio per debellare il contagio per 24 ore." },
-          { "chiave": "Epidemia fognaria", "valore": "CD 11; causa indebolimento e ostacola recupero di PF e riduzione dell'indebolimento." },
-          { "chiave": "Febbre da gallina", "valore": "CD 13; causa indebolimento, risata incapacitante e puo diffondersi entro emanazione di 3 metri." },
-          { "chiave": "Vista putrefatta", "valore": "CD 15; causa accecato, puo essere curata magicamente o soppressa con unguento da borsa da erborista." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "effetti_ambientali",
-    "nome": "Effetti ambientali",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "223-224",
-    "descrizione": "Gli ambienti estremi impongono rischi aggiuntivi come indebolimento, terreno difficile, cadute, oscuramento, svantaggi alle prove o interferenze con volo e attacchi a distanza.",
-    "sezioni": [
-      {
-        "titolo": "Pericoli ambientali",
-        "righe": [
-          { "chiave": "Acque gelide", "valore": "Dopo minuti pari alla Costituzione, ogni minuto richiede TS Costituzione CD 10 o 1 livello di indebolimento." },
-          { "chiave": "Acque profonde", "valore": "Dopo 1 ora oltre 30 metri, chi non ha velocita di nuoto supera TS Costituzione CD 10 o ottiene indebolimento." },
-          { "chiave": "Alta quota", "valore": "Oltre 3.000 metri ogni ora vale come 2 ore di viaggio; adattamento dopo 30 giorni, non oltre 6.000 metri salvo nativi." },
-          { "chiave": "Caldo estremo", "valore": "A 38 gradi o piu senza acqua, TS Costituzione ogni ora: CD 5 nella prima ora, +1 per ogni ora successiva." },
-          { "chiave": "Freddo estremo", "valore": "A -18 gradi o meno, TS Costituzione CD 10 ogni ora o 1 livello di indebolimento." },
-          { "chiave": "Ghiaccio scivoloso", "valore": "Terreno difficile; TS Destrezza CD 10 o prono quando ci si muove sopra per la prima volta in un turno o vi si inizia il turno." },
-          { "chiave": "Ghiaccio sottile", "valore": "Regge 3d10 x 5 kg per quadrato di 3 metri; se superato si rompe sopra acque gelide." },
-          { "chiave": "Precipitazioni abbondanti", "valore": "Area leggermente oscurata, svantaggio a Percezione e pioggia battente spegne fiamme scoperte." },
-          { "chiave": "Vento forte", "valore": "Svantaggio agli attacchi a distanza con armi, spegne fiamme, disperde nebbia e puo far cadere creature volanti." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "paura_e_stress_mentale",
-    "nome": "Paura e stress mentale",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "224-225",
-    "descrizione": "Paura e stress mentale sono regole opzionali da discutere con i giocatori all'inizio della campagna. La paura usa spesso la condizione spaventato; lo stress mentale usa spesso danni psichici.",
-    "sezioni": [
-      {
-        "titolo": "Paura e stress",
-        "righe": [
-          { "chiave": "Paura CD 10", "valore": "Evento innocuo ma terrificante." },
-          { "chiave": "Paura CD 15", "valore": "Manifestazione illusoria delle peggiori paure visibile solo al personaggio." },
-          { "chiave": "Paura CD 20", "valore": "Portale verso l'Abisso o scena soprannaturale estrema." },
-          { "chiave": "Stress CD 10", "valore": "Sostanza allucinogena: 1d6 danni psichici." },
-          { "chiave": "Stress CD 15", "valore": "Idolo immondo che attacca la psiche: 3d6 danni psichici." },
-          { "chiave": "Stress CD 20", "valore": "Trappola magica che spedisce nel Reame Remoto: 9d6 danni psichici." },
-          { "chiave": "Effetti prolungati", "valore": "Breve termine 1d10 minuti, lungo termine 1d10 x 10 ore o indefinito finche rimosso." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "veleno",
-    "nome": "Veleno",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "225-226",
-    "descrizione": "I veleni sono sostanze insidiose e spesso illegali. Possono essere da contatto, ferimento, inalazione o ingestione, e alcuni possono essere estratti da creature velenose.",
-    "sezioni": [
-      {
-        "titolo": "Tipi ed esempi",
-        "righe": [
-          { "chiave": "Contatto", "valore": "Cosparso su un oggetto, resta attivo finche viene toccato o lavato via." },
-          { "chiave": "Ferimento", "valore": "Applicato con azione bonus ad armi o munizioni, ha effetto quando viene trasmesso tramite una ferita." },
-          { "chiave": "Inalazione", "valore": "Polveri e gas colpiscono creature entro cubo di 1,5 metri; trattenere il respiro non basta." },
-          { "chiave": "Ingestione", "valore": "Richiede ingerire una dose intera; una dose parziale puo concedere vantaggio al TS o dimezzare i danni." },
-          { "chiave": "Estrazione", "valore": "1d6 minuti e prova Intelligenza (Natura) CD 20 con sostanze da avvelenatore; fallire di 5 o piu espone al veleno." },
-          { "chiave": "Veleno di verme purpureo", "valore": "2.000 mo, ferimento, CD 21; 10d6 danni da veleno o meta." },
-          { "chiave": "Veleno di viverna", "valore": "1.200 mo, ferimento, CD 14; 7d6 danni da veleno o meta." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "trappole",
-    "nome": "Trappole",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "227-230",
-    "descrizione": "Le trappole funzionano meglio se usate con parsimonia. Le migliori sono distrazioni superabili o enigmi mortali che richiedono attenzione, abilita e lavoro di squadra.",
-    "sezioni": [
-      {
-        "titolo": "Componenti ed esempi",
-        "righe": [
-          { "chiave": "Gravita e livelli", "valore": "Una trappola puo essere una seccatura o una minaccia mortale per personaggi di certi livelli." },
-          { "chiave": "Innesco", "valore": "Spesso si attiva entrando in un'area, toccando un oggetto, calpestando una piastra, tirando un cavo o aprendo una serratura." },
-          { "chiave": "Durata", "valore": "Puo essere istantanea, misurata in round/minuti/ore, o durare fino a distruzione o dissoluzione." },
-          { "chiave": "Ago avvelenato", "valore": "Serratura trappola; Percezione CD 15 per individuarlo, Rapidita di mano CD 15 per disattivarlo." },
-          { "chiave": "Crollo del tetto", "valore": "Cavo teso; TS Destrezza CD 13 o 2d10 danni contundenti e terreno difficile." },
-          { "chiave": "Dardi avvelenati", "valore": "Piastra a pressione; TS Destrezza CD 13 o 1d3 dardi da 1d6 veleno ciascuno." },
-          { "chiave": "Pietra rotolante", "valore": "Piastra a pressione; pietra con iniziativa +8, CA 17, 100 PF, soglia danno 10." },
-          { "chiave": "Statua del soffio di fuoco", "valore": "Piastra a pressione; cono di fuoco, glifo individuabile e disarmabile." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "combattimenti",
-    "nome": "Combattimenti",
-    "capitolo": "Strumenti di gioco",
-    "categoria": "Strumenti di gioco",
-    "pagine_sorgente": "230-231",
-    "descrizione": "La costruzione di combattimenti usa obiettivi di difficolta, budget di PE e scelta ragionata delle creature. Terreno, posizioni, gruppi misti e motivi per muoversi rendono gli incontri piu interessanti.",
-    "sezioni": [
-      {
-        "titolo": "Difficolta e gestione",
-        "righe": [
-          { "chiave": "Facile", "valore": "Dovrebbe essere vinto senza vittime, pur potendo richiedere risorse di guarigione." },
-          { "chiave": "Media", "valore": "Senza cure e risorse puo andare male; possibile eliminazione temporanea e bassa possibilita di morte." },
-          { "chiave": "Difficile", "valore": "Puo essere letale e richiede tattiche intelligenti, prontezza e fortuna." },
-          { "chiave": "Budget PE", "valore": "Moltiplica il valore per personaggio della tabella per il numero di personaggi, poi spendi PE senza superare il budget." },
-          { "chiave": "Molte creature", "valore": "Oltre due creature per personaggio aumenta il rischio di picchi di danno; usa creature deboli, soprattutto ai livelli 1-2." },
-          { "chiave": "GS 0", "valore": "Creature con GS 0, soprattutto da 0 PE, vanno usate con parsimonia; per molte creature usa sciami." },
-          { "chiave": "Schede statistiche", "valore": "Oltre due o tre schede diverse in un incontro puo essere scoraggiante." },
-          { "chiave": "Creature potenti", "valore": "Una creatura con GS superiore al livello del gruppo puo eliminare personaggi con una sola azione." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "creare_personaggio",
-    "nome": "Creare il personaggio",
-    "capitolo": "Creazione del personaggio",
-    "categoria": "Creazione personaggio",
-    "pagine_sorgente": "21",
-    "descrizione": "La creazione del personaggio parte dalla scelta di una scheda e procede attraverso classe, origini, punteggi di caratteristica, allineamento e dettagli finali.",
-    "sezioni": [
-      {
-        "titolo": "Fasi principali",
-        "righe": [
-          { "chiave": "1. Classe", "valore": "Descrive vocazione, talenti speciali e tattiche preferite del personaggio." },
-          { "chiave": "2. Origini", "valore": "Comprendono background, specie e lingue." },
-          { "chiave": "3. Caratteristiche", "valore": "Determinano gran parte delle azioni del personaggio." },
-          { "chiave": "4. Allineamento", "valore": "Rappresenta la bussola morale del personaggio." },
-          { "chiave": "5. Dettagli", "valore": "Completa la scheda usando le scelte precedenti." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Panoramica classi",
-        "righe": [
-          { "chiave": "Barbaro", "valore": "Battaglia; caratteristica primaria Forza; complessita media." },
-          { "chiave": "Bardo", "valore": "Esibizione; Carisma; complessita alta." },
-          { "chiave": "Chierico", "valore": "Dei; Saggezza; complessita media." },
-          { "chiave": "Druido", "valore": "Natura; Saggezza; complessita alta." },
-          { "chiave": "Guerriero", "valore": "Armi; Forza o Destrezza; complessita bassa." },
-          { "chiave": "Ladro", "valore": "Furtivita; Destrezza; complessita bassa." },
-          { "chiave": "Mago", "valore": "Libri di incantesimi; Intelligenza; complessita media." },
-          { "chiave": "Monaco", "valore": "Combattimento senz'armi; Destrezza e Saggezza; complessita alta." },
-          { "chiave": "Paladino", "valore": "Difesa; Forza e Carisma; complessita media." },
-          { "chiave": "Ranger", "valore": "Sopravvivenza; Destrezza e Saggezza; complessita media." },
-          { "chiave": "Stregone", "valore": "Potere; Carisma; complessita alta." },
-          { "chiave": "Warlock", "valore": "Scienze occulte; Carisma; complessita alta." }
-        ],
-        "blocchi": [
-          { "nome": "Livello e PE", "descrizione": "In genere un personaggio inizia al 1º livello con 0 PE. Se parte dal 3º livello o oltre, annota anche la sottoclasse." },
-          { "nome": "Armature", "descrizione": "La classe puo fornire competenze nelle armature; annotale sulla scheda del personaggio." }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "origini_lingue_personaggio",
-    "nome": "Origini e lingue del personaggio",
-    "capitolo": "Creazione del personaggio",
-    "categoria": "Creazione personaggio",
-    "pagine_sorgente": "21-23",
-    "descrizione": "Le origini del personaggio derivano da background, specie e lingue. Background e classe forniscono anche competenze ed equipaggiamento iniziale.",
-    "sezioni": [
-      {
-        "titolo": "Origini",
-        "righe": [
-          { "chiave": "Background", "valore": "Rappresenta luogo e occupazione che hanno formato maggiormente il personaggio; fornisce talento, due abilita e uno strumento." },
-          { "chiave": "Equipaggiamento", "valore": "Background e classe forniscono equipaggiamento iniziale; le monete possono essere spese subito." },
-          { "chiave": "Specie", "valore": "Opzioni SRD: Dragonide, elfo, gnomo, goliath, halfling, nano, orco, tiefling e umano." },
-          { "chiave": "Taglia e velocita", "valore": "Sono determinate dalla specie e vanno annotate sulla scheda." },
-          { "chiave": "Passato", "valore": "Background e specie aiutano a definire famiglia, amicizie, legami, organizzazioni e motivazione all'avventura." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Lingue",
-        "righe": [
-          { "chiave": "Base", "valore": "Il personaggio conosce il Comune e altre due lingue scelte o determinate casualmente." },
-          { "chiave": "Standard", "valore": "Lingua dei segni comune, Draconico, Nanico, Elfico, Gigante, Gnomesco, Goblin, Halfling, Orchesco." },
-          { "chiave": "Rare", "valore": "Abissale, Celestiale, Druidico, Gergo delle profondita, Infernale, Primordiale, Silvano, Sottocomune, Gergo ladresco." },
-          { "chiave": "Primordiale", "valore": "Include i dialetti Aquan, Auran, Ignan e Terran; parlanti di dialetti diversi comunicano tra loro." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "caratteristiche_allineamento_personaggio",
-    "nome": "Caratteristiche e allineamento",
-    "capitolo": "Creazione del personaggio",
-    "categoria": "Creazione personaggio",
-    "pagine_sorgente": "23-24",
-    "descrizione": "I punteggi di caratteristica possono essere generati con serie standard, generazione casuale o costo in punti. L'allineamento descrive ideali e atteggiamenti etici.",
-    "sezioni": [
-      {
-        "titolo": "Generare e modificare punteggi",
-        "righe": [
-          { "chiave": "Serie standard", "valore": "15, 14, 13, 12, 10, 8." },
-          { "chiave": "Generazione casuale", "valore": "Tira 4d6, somma i tre piu alti; ripeti fino a ottenere sei numeri." },
-          { "chiave": "Costo in punti", "valore": "27 punti; punteggi disponibili da 8 a 15 con costi da 0 a 9." },
-          { "chiave": "Background", "valore": "Aumenta un punteggio di 2 e un altro di 1, oppure tre punteggi di 1; nessun incremento oltre 20." },
-          { "chiave": "Modificatori", "valore": "Usa la tabella dei modificatori: 10-11 vale +0, 12-13 +1, 14-15 +2, 16-17 +3, 18-19 +4, 20 +5." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Allineamenti",
-        "righe": [
-          { "chiave": "LB", "valore": "Agisce nel modo considerato giusto dalla societa." },
-          { "chiave": "NB", "valore": "Fa del suo meglio senza sentirsi rigidamente vincolato dalle regole." },
-          { "chiave": "CB", "valore": "Segue la coscienza senza curarsi troppo delle aspettative." },
-          { "chiave": "LN", "valore": "Segue legge, tradizione o codici personali." },
-          { "chiave": "N", "valore": "Evita questioni morali e fa cio che sembra migliore volta per volta." },
-          { "chiave": "CN", "valore": "Segue i propri capricci e mette la liberta personale al primo posto." },
-          { "chiave": "LM/NM/CM", "valore": "Allineamenti malvagi da concordare con il GM prima di creare il personaggio." }
-        ],
-        "blocchi": [
-          { "nome": "Senza allineamento", "descrizione": "Molte creature prive di mente razionale sono senza allineamento." }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "compilare_scheda_personaggio",
-    "nome": "Compilare la scheda del personaggio",
-    "capitolo": "Creazione del personaggio",
-    "categoria": "Creazione personaggio",
-    "pagine_sorgente": "24-25",
-    "descrizione": "Dopo le scelte iniziali si registrano privilegi di classe, tiri salvezza, abilita, percezione passiva, punti ferita, Dadi Vita, iniziativa, Classe Armatura, attacchi e incantesimi.",
-    "sezioni": [
-      {
-        "titolo": "Numeri principali",
-        "righe": [
-          { "chiave": "Tiri salvezza", "valore": "Se competente, aggiungi bonus di competenza al modificatore di caratteristica appropriato." },
-          { "chiave": "Abilita", "valore": "Se competente, aggiungi bonus di competenza al modificatore associato all'abilita." },
-          { "chiave": "Percezione passiva", "valore": "10 + modificatore di Saggezza (Percezione), inclusi modificatori applicabili." },
-          { "chiave": "Iniziativa", "valore": "Usa il modificatore di Destrezza." },
-          { "chiave": "CA base", "valore": "Senza armatura o scudo, 10 + modificatore di Destrezza." },
-          { "chiave": "Attacco in mischia", "valore": "Modificatore di Forza + bonus di competenza, se competente e salvo proprieta diverse." },
-          { "chiave": "Attacco a distanza", "valore": "Modificatore di Destrezza + bonus di competenza, se competente e salvo proprieta diverse." },
-          { "chiave": "CD incantesimo", "valore": "8 + modificatore da incantatore + bonus di competenza." },
-          { "chiave": "Attacco incantesimo", "valore": "Modificatore da incantatore + bonus di competenza." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Punti ferita al 1º livello",
-        "righe": [
-          { "chiave": "Barbaro", "valore": "12 + modificatore di Costituzione." },
-          { "chiave": "Guerriero, paladino, ranger", "valore": "10 + modificatore di Costituzione." },
-          { "chiave": "Bardo, chierico, druido, monaco, ladro, warlock", "valore": "8 + modificatore di Costituzione." },
-          { "chiave": "Stregone, mago", "valore": "6 + modificatore di Costituzione." }
-        ],
-        "blocchi": [
-          { "nome": "Dadi Vita", "descrizione": "La classe indica il tipo di Dado Vita; al 1º livello il personaggio ha 1 Dado Vita." },
-          { "nome": "Incantesimi preparati", "descrizione": "Se la classe fornisce Incantesimi o Magia del patto, annota slot, trucchetti e incantesimi preparati dalla tabella della classe." }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "avanzamento_livelli_superiori",
-    "nome": "Avanzamento e livelli superiori",
-    "capitolo": "Creazione del personaggio",
-    "categoria": "Creazione personaggio",
-    "pagine_sorgente": "25-27",
-    "descrizione": "L'avanzamento di livello aumenta capacita, punti ferita e talvolta bonus di competenza o modificatori. Il GM puo far partire il gruppo da un livello superiore al 1º.",
-    "sezioni": [
-      {
-        "titolo": "Avanzamento",
-        "righe": [
-          { "chiave": "Privilegi", "valore": "A ogni nuovo livello annota i privilegi indicati dalla classe." },
-          { "chiave": "Punti ferita", "valore": "Aggiungi il valore previsto dalla classe per i livelli successivi al 1º." },
-          { "chiave": "Bonus di competenza", "valore": "Quando aumenta, aggiorna tutti i numeri della scheda che lo includono." },
-          { "chiave": "Modificatori", "valore": "Se un punteggio diventa pari e cambia modificatore, aggiorna tutti i valori collegati." },
-          { "chiave": "Costituzione", "valore": "Se il modificatore aumenta di 1, i PF massimi aumentano di 1 per ogni livello del personaggio." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Fasce di gioco",
-        "righe": [
-          { "chiave": "1-4", "valore": "Apprendisti avventurieri; minacce locali." },
-          { "chiave": "5-10", "valore": "Avventurieri affermati; minacce per citta e regni." },
-          { "chiave": "11-16", "valore": "Potere raro tra gli avventurieri; minacce continentali." },
-          { "chiave": "17-20", "valore": "Archetipi eroici; destino del mondo o multiverso." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Equipaggiamento a livelli superiori",
-        "righe": [
-          { "chiave": "2-4", "valore": "Equipaggiamento ordinario, 1 oggetto comune." },
-          { "chiave": "5-10", "valore": "500 mo + 1d10 x 25 mo + equipaggiamento ordinario; 1 comune, 1 non comune." },
-          { "chiave": "11-16", "valore": "5.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 3 non comuni, 1 raro." },
-          { "chiave": "17-20", "valore": "20.000 mo + 1d10 x 250 mo + equipaggiamento ordinario; 2 comuni, 4 non comuni, 3 rari, 1 molto raro." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "multiclasse_e_monili",
-    "nome": "Multiclasse e monili",
-    "capitolo": "Creazione del personaggio",
-    "categoria": "Creazione personaggio",
-    "pagine_sorgente": "27-31",
-    "descrizione": "Il multiclasse consente di acquisire livelli in piu classi. I monili sono piccoli oggetti misteriosi opzionali che possono arricchire personaggi, dungeon o creature.",
-    "sezioni": [
-      {
-        "titolo": "Regole multiclasse",
-        "righe": [
-          { "chiave": "Prerequisiti", "valore": "Serve 13 o piu nella caratteristica primaria della nuova classe e delle classi attuali." },
-          { "chiave": "PE", "valore": "Il costo di livello si basa sul livello totale del personaggio." },
-          { "chiave": "PF e Dadi Vita", "valore": "La nuova classe fornisce PF da livello successivo al 1º; i Dadi Vita delle classi si sommano." },
-          { "chiave": "Bonus competenza", "valore": "Basato sul livello totale, non sui livelli di una singola classe." },
-          { "chiave": "Competenze", "valore": "Il primo livello in una nuova classe fornisce solo alcune competenze di partenza." },
-          { "chiave": "Classe Armatura", "valore": "Se esistono piu modi di calcolarla, se ne usa uno solo alla volta." },
-          { "chiave": "Attacco extra", "valore": "Privilegi Attacco extra da piu classi non sono cumulativi, salvo eccezioni specifiche." },
-          { "chiave": "Incantesimi", "valore": "Gli incantesimi preparati si determinano per classe; gli slot combinano livelli da incantatore secondo le regole multiclasse." },
-          { "chiave": "Magia del patto", "valore": "Slot da Magia del patto e Incantesimi possono essere usati reciprocamente per lanciare incantesimi preparati appropriati." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Monili",
-        "righe": [
-          { "chiave": "Uso", "valore": "Quando crei il personaggio puoi tirare una volta sulla tabella Monili." },
-          { "chiave": "Funzione", "valore": "Un monile e un oggetto semplice e minuscolo con un sottile velo di mistero." },
-          { "chiave": "GM", "valore": "Il GM puo usare la tabella per arredare dungeon o riempire le tasche di una creatura." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "background_origini_personaggio",
-    "nome": "Background delle origini",
-    "capitolo": "Origini dei personaggi",
-    "categoria": "Origini personaggio",
-    "pagine_sorgente": "93",
-    "descrizione": "Il background rappresenta luogo e occupazione che hanno formato il personaggio prima dell'avventura. Fornisce incrementi di caratteristica, un talento delle origini, competenze ed equipaggiamento iniziale.",
-    "sezioni": [
-      {
-        "titolo": "Elementi di un background",
-        "righe": [
-          { "chiave": "Punteggi di caratteristica", "valore": "Scegli tra tre caratteristiche indicate: +2 a una e +1 a un'altra, oppure +1 a tutte e tre; massimo 20." },
-          { "chiave": "Talento", "valore": "Ogni background fornisce un talento delle origini descritto nel capitolo Talenti." },
-          { "chiave": "Abilita", "valore": "Fornisce competenza in due abilita specifiche." },
-          { "chiave": "Strumenti", "valore": "Fornisce competenza in uno strumento specifico o in uno strumento da artigiano a scelta." },
-          { "chiave": "Equipaggiamento", "valore": "Offre una dotazione indicata dal background oppure 50 mo." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Background SRD",
-        "righe": [
-          { "chiave": "Accolito", "valore": "Intelligenza, Saggezza, Carisma; Iniziato alla magia (chierico); Intuizione e Religione; scorte da calligrafo." },
-          { "chiave": "Criminale", "valore": "Destrezza, Costituzione, Intelligenza; Allerta; Rapidita di mano e Furtivita; arnesi da scasso." },
-          { "chiave": "Sapiente", "valore": "Costituzione, Intelligenza, Saggezza; Iniziato alla magia (mago); Arcano e Storia; scorte da calligrafo." },
-          { "chiave": "Soldato", "valore": "Forza, Destrezza, Costituzione; Aggressore selvaggio; Atletica e Intimidire; un gioco a scelta." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "specie_origini_personaggio",
-    "nome": "Specie delle origini",
-    "capitolo": "Origini dei personaggi",
-    "categoria": "Origini personaggio",
-    "pagine_sorgente": "93-97",
-    "descrizione": "La specie del personaggio determina tipo di creatura, taglia, velocita e tratti speciali. Le specie SRD sono umanoidi e includono opzioni con retaggi, lignaggi o tratti fisici distintivi.",
-    "sezioni": [
-      {
-        "titolo": "Elementi di una specie",
-        "righe": [
-          { "chiave": "Tipo", "valore": "Le specie di questo capitolo sono umanoidi." },
-          { "chiave": "Taglia", "valore": "La specie determina la taglia; alcune permettono di scegliere tra Piccola e Media." },
-          { "chiave": "Velocita", "valore": "La velocita base dipende dalla specie." },
-          { "chiave": "Tratti speciali", "valore": "Ogni specie conferisce tratti unici, talvolta con una scelta tra lignaggi, retaggi o discendenze." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Specie SRD",
-        "righe": [
-          { "chiave": "Dragonide", "valore": "Media, 9 m; discendenza draconica, soffio, resistenza al danno scelto, scurovisione e volo draconico dal 5º livello." },
-          { "chiave": "Elfo", "valore": "Media, 9 m; scurovisione, lignaggio elfico, retaggio fatato, sensi acuti e trance." },
-          { "chiave": "Gnomo", "valore": "Piccola, 9 m; astuzia gnomesca, lignaggio delle foreste o delle rocce e scurovisione." },
-          { "chiave": "Goliath", "valore": "Media, 10,5 m; costituzione robusta, discendenza gigantica e forma Grande dal 5º livello." },
-          { "chiave": "Halfling", "valore": "Piccola, 9 m; agilita halfling, coraggio, fortuna e furtivita innata." },
-          { "chiave": "Nano", "valore": "Media, 9 m; esperto minatore, resilienza nanica, robustezza nanica e scurovisione superiore." },
-          { "chiave": "Orco", "valore": "Media, 9 m; resistenza implacabile, scarica di adrenalina e scurovisione superiore." },
-          { "chiave": "Tiefling", "valore": "Piccola o Media, 9 m; retaggio immondo, presenza ultraterrena e scurovisione." },
-          { "chiave": "Umano", "valore": "Piccola o Media, 9 m; intraprendente, pluriabilita e un talento Origini a scelta." }
-        ],
-        "blocchi": [
-          { "nome": "Retaggi e lignaggi", "descrizione": "Elfi, gnomi, goliath e tiefling scelgono opzioni interne che definiscono incantesimi, resistenze o capacita soprannaturali." }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "talenti_origini_generali",
-    "nome": "Talenti Origini e Generali",
-    "capitolo": "Talenti",
-    "categoria": "Talenti",
-    "pagine_sorgente": "98-99",
-    "descrizione": "I talenti sono organizzati per categoria e indicano prerequisiti, benefici ed eventuale ripetibilita. I talenti Origini sono disponibili tramite background o opzioni simili; quelli Generali richiedono di norma il 4º livello o superiore.",
-    "sezioni": [
-      {
-        "titolo": "Elementi di un talento",
-        "righe": [
-          { "chiave": "Categoria", "valore": "Origini, Generale, Stile di combattimento o Dono epico." },
-          { "chiave": "Prerequisito", "valore": "Deve essere soddisfatto salvo privilegi che consentano di ignorarlo; un prerequisito di classe richiede almeno 1 livello in quella classe." },
-          { "chiave": "Beneficio", "valore": "Chi possiede il talento ottiene i benefici descritti." },
-          { "chiave": "Ripetibile", "valore": "Un talento puo essere ottenuto una sola volta, salvo indicazione diversa." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Talenti Origini",
-        "righe": [
-          { "chiave": "Abile", "valore": "Ottieni competenza in una combinazione di tre abilita o strumenti a scelta; ripetibile." },
-          { "chiave": "Aggressore selvaggio", "valore": "Una volta per turno, quando colpisci con un'arma, tiri due volte i danni dell'arma e scegli il risultato." },
-          { "chiave": "Allerta", "valore": "Aggiungi il bonus di competenza all'iniziativa e puoi scambiare il risultato con un alleato consenziente nello stesso combattimento." },
-          { "chiave": "Iniziato alla magia", "valore": "Scegli lista da chierico, druido o mago; ottieni due trucchetti, un incantesimo di 1º livello e possibilita di sostituirli salendo di livello." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Talenti Generali",
-        "righe": [
-          { "chiave": "Aumento dei punteggi di caratteristica", "valore": "Dal 4º livello, aumenta un punteggio di 2 o due punteggi di 1, massimo 20; ripetibile." },
-          { "chiave": "Lottatore", "valore": "Dal 4º livello con Forza o Destrezza 13; aumenta Forza o Destrezza, migliora colpi senz'armi, attacchi contro creature afferrate e movimento in lotta." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "talenti_stile_doni_epici",
-    "nome": "Talenti Stile di combattimento e Doni epici",
-    "capitolo": "Talenti",
-    "categoria": "Talenti",
-    "pagine_sorgente": "99-100",
-    "descrizione": "I talenti Stile di combattimento richiedono il privilegio omonimo e migliorano un approccio marziale. I Doni epici richiedono il 19º livello o superiore e aumentano caratteristiche fino a 30 con benefici leggendari.",
-    "sezioni": [
-      {
-        "titolo": "Stili di combattimento",
-        "righe": [
-          { "chiave": "Combattere con armi possenti", "valore": "Con armi da mischia a due mani o versatili impugnate a due mani, i risultati 1 o 2 ai danni valgono 3." },
-          { "chiave": "Combattere con due armi", "valore": "Aggiungi il modificatore di caratteristica al danno dell'attacco extra da arma leggera se non gia aggiunto." },
-          { "chiave": "Difesa", "valore": "Con armatura leggera, media o pesante ottieni +1 alla Classe Armatura." },
-          { "chiave": "Tiro", "valore": "Ottieni +2 ai tiri per colpire con armi a distanza." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Doni epici",
-        "righe": [
-          { "chiave": "Dono del fato", "valore": "+1 a una caratteristica, massimo 30; 2d4 come bonus o penalita a una prova con d20 entro 18 m." },
-          { "chiave": "Dono della vista pura", "valore": "+1 a una caratteristica, massimo 30; vista pura 18 m." },
-          { "chiave": "Dono delle abilita di combattimento", "valore": "+1 a una caratteristica, massimo 30; un tiro per colpire mancato puo comunque colpire, una volta per turno." },
-          { "chiave": "Dono dell'offensiva irresistibile", "valore": "+1 a Forza o Destrezza, massimo 30; ignori resistenza a danni fisici e infliggi danni extra con 20 naturale." },
-          { "chiave": "Dono dello spirito notturno", "valore": "+1 a una caratteristica, massimo 30; in oscurita o luce fioca puoi diventare invisibile e resisti ai danni non psichici o radiosi." },
-          { "chiave": "Dono del richiamo degli incantesimi", "valore": "Richiede Incantesimi; +1 a Intelligenza, Saggezza o Carisma, massimo 30; puoi non consumare slot di livello 1-4 con tiro 1d4 corrispondente." },
-          { "chiave": "Dono del viaggio dimensionale", "valore": "+1 a una caratteristica, massimo 30; dopo Attacco o Magia puoi teletrasportarti fino a 9 m." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_barbaro",
-    "nome": "Classe: Barbaro",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "32-35",
-    "descrizione": "Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica. La sottoclasse SRD e il Cammino del Berserker.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Forza." },
-          { "chiave": "Dado Vita", "valore": "D12 per livello da barbaro." },
-          { "chiave": "Tiri salvezza", "valore": "Forza e Costituzione." },
-          { "chiave": "Abilita", "valore": "Due tra Addestrare Animali, Atletica, Intimidire, Natura, Percezione e Sopravvivenza." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Ira", "valore": "Resistenza a danni contundenti, perforanti e taglienti; bonus ai danni con Forza e vantaggio a prove e TS su Forza." },
-          { "chiave": "Difesa senza armatura", "valore": "Classe Armatura basata su Destrezza e Costituzione quando non indossa armatura." },
-          { "chiave": "Attacco irruento", "valore": "Vantaggio agli attacchi basati su Forza, concedendo vantaggio contro di se fino al turno successivo." },
-          { "chiave": "Colpo brutale", "valore": "Rinuncia al vantaggio per infliggere danni extra ed effetti di controllo." },
-          { "chiave": "Berserker", "valore": "Sottoclasse SRD focalizzata su frenesia, ritorsione e presenza intimidatoria." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_bardo",
-    "nome": "Classe: Bardo",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "35-40",
-    "descrizione": "Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bardica, competenze ampie e magia. La sottoclasse SRD e il Collegio della Sapienza.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Carisma." },
-          { "chiave": "Dado Vita", "valore": "D8 per livello da bardo." },
-          { "chiave": "Tiri salvezza", "valore": "Destrezza e Carisma." },
-          { "chiave": "Ruolo", "valore": "Incantesimi, supporto, abilita e versatilita sociale." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Ispirazione bardica", "valore": "Dado conferito a un alleato per trasformare un fallimento in possibile successo; il dado cresce con i livelli." },
-          { "chiave": "Incantesimi", "valore": "Preparazione dalla lista del bardo, trucchetti e slot che si recuperano con riposo lungo." },
-          { "chiave": "Maestria", "valore": "Raddoppia il bonus di competenza per alcune abilita scelte." },
-          { "chiave": "Segreti magici", "valore": "Permette di preparare incantesimi da altre liste." },
-          { "chiave": "Collegio della Sapienza", "valore": "Sottoclasse SRD centrata su conoscenze, parole taglienti e segreti magici extra." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_chierico",
-    "nome": "Classe: Chierico",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "41-46",
-    "descrizione": "Il chierico e un incantatore divino basato su Saggezza, capace di guarire, proteggere e incanalare energia sacra. La sottoclasse SRD e il Dominio della Vita.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Saggezza." },
-          { "chiave": "Dado Vita", "valore": "D8 per livello da chierico." },
-          { "chiave": "Tiri salvezza", "valore": "Saggezza e Carisma." },
-          { "chiave": "Abilita", "valore": "Due tra Intuizione, Medicina, Persuasione, Religione e Storia." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Incantesimi", "valore": "Prepara incantesimi dalla lista del chierico e usa Saggezza come caratteristica da incantatore." },
-          { "chiave": "Ordine divino", "valore": "Scelta iniziale che orienta armature, armi o conoscenza mistica." },
-          { "chiave": "Incanalare divinita", "valore": "Alimenta Scintilla divina, Scacciare non morti e opzioni di sottoclasse." },
-          { "chiave": "Intervento divino", "valore": "Richiama aiuto divino ai livelli alti." },
-          { "chiave": "Dominio della Vita", "valore": "Sottoclasse SRD focalizzata su guarigione potenziata, preservare vita e guarigione suprema." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_druido",
-    "nome": "Classe: Druido",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "46-52",
-    "descrizione": "Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e alla Forma selvatica. La sottoclasse SRD e il Circolo della Terra.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Saggezza." },
-          { "chiave": "Dado Vita", "valore": "D8 per livello da druido." },
-          { "chiave": "Tiri salvezza", "valore": "Intelligenza e Saggezza." },
-          { "chiave": "Ruolo", "valore": "Incantesimi primordiali, esplorazione, controllo e trasformazione." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Incantesimi", "valore": "Prepara incantesimi dalla lista del druido e puo cambiarli dopo un riposo lungo." },
-          { "chiave": "Forma selvatica", "valore": "Assume forme bestiali con limiti di livello, mantenendo alcuni tratti personali." },
-          { "chiave": "Compagno selvatico", "valore": "Opzione legata a Forma selvatica per richiamare aiuti naturali." },
-          { "chiave": "Corpo senza tempo", "valore": "La magia primordiale rallenta l'invecchiamento." },
-          { "chiave": "Circolo della Terra", "valore": "Sottoclasse SRD con incantesimi del circolo legati al tipo di territorio scelto." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_guerriero",
-    "nome": "Classe: Guerriero",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "53-55",
-    "descrizione": "Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza delle armi e resistenza. La sottoclasse SRD e il Campione.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Forza o Destrezza." },
-          { "chiave": "Dado Vita", "valore": "D10 per livello da guerriero." },
-          { "chiave": "Tiri salvezza", "valore": "Forza e Costituzione." },
-          { "chiave": "Abilita", "valore": "Due tra abilita atletiche, sociali, percettive e di conoscenza indicate dalla classe." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Recuperare energie", "valore": "Azione bonus per recuperare PF pari a 1d10 + livello da guerriero." },
-          { "chiave": "Padronanza d'armi", "valore": "Usa proprieta di padronanza delle armi e ne amplia il numero con i livelli." },
-          { "chiave": "Impeto d'azione", "valore": "Ottiene un'azione aggiuntiva in momenti decisivi." },
-          { "chiave": "Attacco extra", "valore": "Aumenta il numero di attacchi con l'azione di Attacco." },
-          { "chiave": "Campione", "valore": "Sottoclasse SRD con critico migliorato, atletica superiore e sopravvivenza marziale." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_ladro",
-    "nome": "Classe: Ladro",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "55-58",
-    "descrizione": "Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto su Destrezza. La sottoclasse SRD e il Furfante.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Destrezza." },
-          { "chiave": "Dado Vita", "valore": "D8 per livello da ladro." },
-          { "chiave": "Tiri salvezza", "valore": "Destrezza e Intelligenza." },
-          { "chiave": "Ruolo", "valore": "Danni mirati, mobilita, furtivita, strumenti e abilita." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Attacco furtivo", "valore": "Una volta per turno infligge danni extra con armi accurate o a distanza se ha vantaggio o un alleato vicino al bersaglio." },
-          { "chiave": "Maestria", "valore": "Raddoppia il bonus di competenza in abilita o strumenti scelti." },
-          { "chiave": "Azione scaltra", "valore": "Usa Disimpegno, Nascondersi o Scatto come azione bonus." },
-          { "chiave": "Colpo astuto", "valore": "Spende dadi di Attacco furtivo per aggiungere effetti tattici." },
-          { "chiave": "Furfante", "valore": "Sottoclasse SRD con mani veloci, mobilita verticale e uso migliorato degli oggetti magici." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_mago",
-    "nome": "Classe: Mago",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "59-65",
-    "descrizione": "Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi e preparazione flessibile. La sottoclasse SRD e l'Invocatore.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Intelligenza." },
-          { "chiave": "Dado Vita", "valore": "D6 per livello da mago." },
-          { "chiave": "Tiri salvezza", "valore": "Intelligenza e Saggezza." },
-          { "chiave": "Abilita", "valore": "Due tra Arcano, Indagare, Intuizione, Medicina, Natura, Religione e Storia." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Incantesimi", "valore": "Conosce trucchetti e prepara incantesimi usando il libro degli incantesimi." },
-          { "chiave": "Recupero arcano", "valore": "Recupera parte degli slot dopo un riposo breve." },
-          { "chiave": "Libro degli incantesimi", "valore": "Puo ampliare e sostituire il libro copiando incantesimi trovati." },
-          { "chiave": "Padronanza degli incantesimi", "valore": "Ai livelli alti rende alcune magie sempre accessibili." },
-          { "chiave": "Invocatore", "valore": "Sottoclasse SRD focalizzata su invocazioni, protezione degli alleati e danni massimizzati." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_monaco",
-    "nome": "Classe: Monaco",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "66-69",
-    "descrizione": "Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e punti concentrazione. La sottoclasse SRD e la Via della Mano Aperta.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristiche primarie", "valore": "Destrezza e Saggezza." },
-          { "chiave": "Dado Vita", "valore": "D8 per livello da monaco." },
-          { "chiave": "Tiri salvezza", "valore": "Forza e Destrezza." },
-          { "chiave": "Ruolo", "valore": "Mobilita, colpi senz'armi, controllo e difesa senza armatura." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Arti marziali", "valore": "Colpo senz'armi bonus, dado di arti marziali e uso di Destrezza per attacchi da monaco." },
-          { "chiave": "Concentrazione", "valore": "Risorsa per Raffica di colpi, Difesa paziente, Passo del vento e altri privilegi." },
-          { "chiave": "Colpo stordente", "valore": "Spende concentrazione per tentare di stordire un bersaglio colpito." },
-          { "chiave": "Movimento senza armatura", "valore": "Aumenta mobilita e opzioni di spostamento." },
-          { "chiave": "Mano Aperta", "valore": "Sottoclasse SRD con tecniche di spinta, rovesciamento, disorientamento e guarigione personale." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_paladino",
-    "nome": "Classe: Paladino",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "70-74",
-    "descrizione": "Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposizione delle mani e magia divina. La sottoclasse SRD e il Giuramento di Devozione.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristiche primarie", "valore": "Forza e Carisma." },
-          { "chiave": "Dado Vita", "valore": "D10 per livello da paladino." },
-          { "chiave": "Tiri salvezza", "valore": "Saggezza e Carisma." },
-          { "chiave": "Ruolo", "valore": "Combattimento, protezione, guarigione e incantesimi divini." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Imposizione delle mani", "valore": "Riserva di guarigione usata con il tocco." },
-          { "chiave": "Incantesimi", "valore": "Prepara incantesimi da paladino usando Carisma." },
-          { "chiave": "Punizione divina", "valore": "Converte potere sacro in danni aggiuntivi." },
-          { "chiave": "Incanalare divinita", "valore": "Alimenta Percezione del Divino e opzioni di giuramento." },
-          { "chiave": "Giuramento di Devozione", "valore": "Sottoclasse SRD con incantesimi del giuramento, arma consacrata e aura difensiva." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_ranger",
-    "nome": "Classe: Ranger",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "75-78",
-    "descrizione": "Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza, magia naturale e mobilita. La sottoclasse SRD e il Cacciatore.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristiche primarie", "valore": "Destrezza e Saggezza." },
-          { "chiave": "Dado Vita", "valore": "D10 per livello da ranger." },
-          { "chiave": "Tiri salvezza", "valore": "Forza e Destrezza." },
-          { "chiave": "Abilita", "valore": "Tre tra Addestrare Animali, Atletica, Furtivita, Indagare, Intuizione, Natura, Percezione e Sopravvivenza." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Nemico prescelto", "valore": "Supporta la caccia a bersagli scelti e si integra con marchio del cacciatore." },
-          { "chiave": "Incantesimi", "valore": "Prepara incantesimi da ranger e recupera slot con riposo lungo." },
-          { "chiave": "Stile di combattimento", "valore": "Ottiene un talento Stile di combattimento appropriato." },
-          { "chiave": "Girovago", "valore": "Aumenta velocita e ottiene velocita di scalata e nuoto." },
-          { "chiave": "Cacciatore", "valore": "Sottoclasse SRD con preda del cacciatore, tattiche difensive e attacchi multipli." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_stregone",
-    "nome": "Classe: Stregone",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "79-85",
-    "descrizione": "Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metamagia. La sottoclasse SRD e la Stregoneria draconica.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Carisma." },
-          { "chiave": "Dado Vita", "valore": "D6 per livello da stregone." },
-          { "chiave": "Tiri salvezza", "valore": "Costituzione e Carisma." },
-          { "chiave": "Abilita", "valore": "Due tra Arcano, Inganno, Intimidire, Intuizione, Persuasione e Religione." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Incantesimi", "valore": "Lancia incantesimi arcani con Carisma e prepara una selezione dalla lista da stregone." },
-          { "chiave": "Fonte di magia", "valore": "Punti stregoneria usati per creare slot, convertire slot e alimentare privilegi." },
-          { "chiave": "Metamagia", "valore": "Modifica incantesimi con opzioni come incantesimo rapido, esteso, intensificato o gemellato." },
-          { "chiave": "Ripristino stregonesco", "valore": "Recupera risorse magiche ai livelli alti." },
-          { "chiave": "Stregoneria draconica", "valore": "Sottoclasse SRD con incantesimi draconici, affinita elementale e tratti da drago." }
-        ],
-        "blocchi": []
-      }
-    ]
-  },
-  {
-    "id": "classe_warlock",
-    "nome": "Classe: Warlock",
-    "capitolo": "Classi",
-    "categoria": "Classi",
-    "pagine_sorgente": "85-92",
-    "descrizione": "Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Suppliche occulte. La sottoclasse SRD e il Patrono immondo.",
-    "sezioni": [
-      {
-        "titolo": "Tratti base",
-        "righe": [
-          { "chiave": "Caratteristica primaria", "valore": "Carisma." },
-          { "chiave": "Dado Vita", "valore": "D8 per livello da warlock." },
-          { "chiave": "Tiri salvezza", "valore": "Saggezza e Carisma." },
-          { "chiave": "Ruolo", "valore": "Magia a slot ridotti ma recuperabili, invocazioni personalizzanti e patto occulto." }
-        ],
-        "blocchi": []
-      },
-      {
-        "titolo": "Privilegi chiave",
-        "righe": [
-          { "chiave": "Suppliche occulte", "valore": "Opzioni modulari con prerequisiti; possono modificare magie, patti e capacita." },
-          { "chiave": "Magia del patto", "valore": "Slot dello stesso livello recuperati con riposo breve o lungo." },
-          { "chiave": "Scaltrezza magica", "valore": "Permette recupero limitato di risorse della Magia del patto." },
-          { "chiave": "Maestro dell'occulto", "valore": "Al 20º livello recupera tutti gli slot di Magia del patto quando usa Scaltrezza magica." },
-          { "chiave": "Patrono immondo", "valore": "Sottoclasse SRD con benedizione oscura, incantesimi immondi e resistenza del patrono." }
         ],
         "blocchi": []
       }
