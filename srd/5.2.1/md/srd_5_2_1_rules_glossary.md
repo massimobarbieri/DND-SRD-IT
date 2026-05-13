@@ -961,3 +961,922 @@ I tiri per colpire contro la creatura hanno svantaggio e i suoi tiri per colpire
 **pagine_sorgente:** 209
 
 Un personaggio con Ispirazione eroica può spenderla per ripetere il tiro di un dado subito dopo averlo tirato, usando obbligatoriamente il nuovo risultato. Se la ottiene quando già la possiede, può donarla a un personaggio che non ce l'ha.
+
+---
+
+## Leggermente oscurata
+
+**id:** leggermente_oscurata
+**lettera:** L
+**descrittore:** null
+**pagine_sorgente:** 209
+**vedi_anche:** luce_fioca, oscurita, esplorazione
+
+In un'area leggermente oscurata, una creatura che cerca di vedere qualcosa subisce svantaggio alle prove di Saggezza (Percezione).
+
+---
+
+## Linea
+
+**id:** linea
+**lettera:** L
+**descrittore:** area di effetto
+**pagine_sorgente:** 209
+
+Una linea è un'area di effetto che si estende da un punto di origine in linea retta lungo la sua lunghezza e copre una larghezza indicata dall'effetto. Il punto di origine non è incluso salvo scelta contraria del creatore.
+
+---
+
+## Luce fioca
+
+**id:** luce_fioca
+**lettera:** L
+**descrittore:** null
+**pagine_sorgente:** 209
+**vedi_anche:** leggermente_oscurata, esplorazione
+
+Un'area con luce fioca è leggermente oscurata.
+
+---
+
+## Luce intensa
+
+**id:** luce_intensa
+**lettera:** L
+**descrittore:** null
+**pagine_sorgente:** 209
+**vedi_anche:** esplorazione
+
+La luce intensa rappresenta la normale illuminazione.
+
+---
+
+## Maestria
+
+**id:** maestria
+**lettera:** M
+**descrittore:** null
+**pagine_sorgente:** 209
+**vedi_anche:** competenza
+
+La maestria migliora una competenza in un'abilità: quando effettui una prova con quella competenza, il bonus di competenza è raddoppiato, salvo che sia già raddoppiato da un altro privilegio.
+
+---
+
+## Magia
+
+**id:** magia
+**lettera:** M
+**descrittore:** azione
+**pagine_sorgente:** 209
+**vedi_anche:** concentrazione
+
+Con l'azione di Magia lanci un incantesimo con tempo di lancio di un'azione, oppure usi un privilegio o oggetto magico che richiede questa azione. Se il lancio richiede 1 minuto o più, devi usare l'azione di Magia a ogni turno e mantenere concentrazione.
+
+---
+
+## Maledizioni
+
+**id:** maledizioni
+**lettera:** M
+**descrittore:** null
+**pagine_sorgente:** 209
+
+Alcuni effetti maledicono creature o oggetti e ne definiscono le conseguenze. Le maledizioni possono essere rimosse da magie appropriate, come rimuovi maledizione o ristorare superiore.
+
+---
+
+## Malnutrizione
+
+**id:** malnutrizione
+**lettera:** M
+**descrittore:** pericolo
+**pagine_sorgente:** 209-210
+**vedi_anche:** indebolimento
+
+Una creatura che consuma meno della metà del cibo richiesto in un giorno deve superare un TS su Costituzione con CD 10 o ottenere 1 livello di indebolimento. Senza cibo per 5 giorni ottiene automaticamente indebolimento alla fine del quinto giorno e dei giorni successivi.
+
+### Fabbisogno di cibo giornaliero
+
+| Taglia | Cibo |
+| --- | --- |
+| Minuscola | 125 grammi |
+| Piccola | 0,5 chili |
+| Media | 0,5 chili |
+| Grande | 2 chili |
+| Enorme | 8 chili |
+| Mastodontica | 32 chili |
+
+---
+
+## Morte
+
+**id:** morte
+**lettera:** M
+**descrittore:** null
+**pagine_sorgente:** 210
+
+Una creatura morta non ha punti ferita e non può recuperarne finché non viene riportata in vita dalla magia. Quando torna in vita, conserva condizioni, contagi o maledizioni ancora in corso, perde un livello di indebolimento se ne aveva, e perde la sintonia con gli oggetti magici.
+
+---
+
+## Mostro
+
+**id:** mostro
+**lettera:** M
+**descrittore:** null
+**pagine_sorgente:** 210
+**vedi_anche:** creatura, personaggio_non_giocante
+
+Una creatura controllata dal GM è un mostro, anche se è benevola.
+
+---
+
+## Mutaforma
+
+**id:** mutaforma
+**lettera:** M
+**descrittore:** null
+**pagine_sorgente:** 210
+
+Se un effetto consente di mutare forma, la descrizione dell'effetto indica cosa accade. Salvo diversa indicazione, condizioni, incantesimi, maledizioni ed effetti in corso si trasmettono alla nuova forma.
+
+---
+
+## Nascondersi
+
+**id:** nascondersi
+**lettera:** N
+**descrittore:** azione
+**pagine_sorgente:** 210
+
+Con l'azione di Nascondersi provi a nasconderti superando una prova di Destrezza (Furtività) con CD 15 mentre sei in un'area pesantemente oscurata, dietro tre quarti di copertura o copertura totale, e fuori dal campo visivo dei nemici.
+
+### Fine della condizione nascosta
+
+**Rumore**
+Termina se emetti un suono più forte di un sussurro.
+
+**Attacco o magia verbale**
+Termina se effettui un tiro per colpire o lanci un incantesimo con componente verbale.
+
+**Trovato**
+Termina se un nemico ti trova.
+
+---
+
+## Nemico
+
+**id:** nemico
+**lettera:** N
+**descrittore:** null
+**pagine_sorgente:** 210
+
+Una creatura è nemica se combatte contro il personaggio, agisce per danneggiarlo o è indicata come nemica da una regola o dal GM.
+
+---
+
+## Nuotare
+
+**id:** nuotare
+**lettera:** N
+**descrittore:** null
+**pagine_sorgente:** 210
+**vedi_anche:** velocita_di_nuoto
+
+Quando nuoti, ogni 30 centimetri di movimento costano 30 centimetri extra, o 60 centimetri extra in terreno difficile. Una velocità di nuoto ignora questi costi extra.
+
+---
+
+## Oggetto
+
+**id:** oggetto
+**lettera:** O
+**descrittore:** null
+**pagine_sorgente:** 210
+**vedi_anche:** rompere_gli_oggetti
+
+Un oggetto è una cosa distinta e non vivente. Oggetti compositi, come edifici, comprendono più oggetti.
+
+---
+
+## Oscurità
+
+**id:** oscurita
+**lettera:** O
+**descrittore:** null
+**pagine_sorgente:** 210
+**vedi_anche:** pesantemente_oscurata, esplorazione
+
+Un'area di oscurità è pesantemente oscurata.
+
+---
+
+## Ostile
+
+**id:** ostile
+**lettera:** O
+**descrittore:** atteggiamento
+**pagine_sorgente:** 210
+**vedi_anche:** influenza
+
+Una creatura ostile ha un'opinione negativa del personaggio. Il personaggio subisce svantaggio a una prova di caratteristica per influenzarla.
+
+---
+
+## Paralizzato
+
+**id:** paralizzato
+**lettera:** P
+**descrittore:** condizione
+**pagine_sorgente:** 210
+
+Condizione che blocca movimento e difesa.
+
+### Effetti
+
+**Incapacitato**
+La creatura ha la condizione incapacitato.
+
+**Velocità 0**
+La velocità è 0 e non può aumentare.
+
+**Influenza sui tiri salvezza**
+La creatura fallisce automaticamente i TS su Forza e Destrezza.
+
+**Influenza sugli attacchi**
+I tiri per colpire contro la creatura hanno vantaggio.
+
+**Colpi critici automatici**
+Ogni tiro per colpire che la colpisce è critico se l'attaccante è entro 1,5 metri.
+
+---
+
+## Percezione passiva
+
+**id:** percezione_passiva
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+
+La Percezione passiva misura la consapevolezza generale dell'ambiente. È pari a 10 + bonus alla prova di Saggezza (Percezione), con +5 in caso di vantaggio e -5 in caso di svantaggio.
+
+---
+
+## Percezione tellurica
+
+**id:** percezione_tellurica
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+
+Una creatura con percezione tellurica individua creature e oggetti in movimento entro un raggio specifico se entrambi sono a contatto con la stessa superficie o liquido. Non individua bersagli in aria e non conta come vista.
+
+---
+
+## Pericolo
+
+**id:** pericolo
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+**vedi_anche:** caduta, disidratazione, in_fiamme, malnutrizione, soffocamento
+
+Un pericolo è un rischio ambientale.
+
+---
+
+## Personaggio giocante
+
+**id:** personaggio_giocante
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+**vedi_anche:** creazione_del_personaggio
+
+Un personaggio giocante è un personaggio controllato da un giocatore.
+
+---
+
+## Personaggio non giocante
+
+**id:** personaggio_non_giocante
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+**vedi_anche:** mostro
+
+Un personaggio non giocante (PNG) è un mostro con nome proprio e personalità distinta.
+
+---
+
+## Pesantemente oscurata
+
+**id:** pesantemente_oscurata
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+**vedi_anche:** accecato, oscurita, esplorazione
+
+Se cerchi di scorgere qualcosa in un'area pesantemente oscurata, hai la condizione accecato.
+
+---
+
+## Pietrificato
+
+**id:** pietrificato
+**lettera:** P
+**descrittore:** condizione
+**pagine_sorgente:** 211
+
+Condizione che trasforma la creatura in sostanza solida inanimata.
+
+### Effetti
+
+**Trasformazione in sostanza inanimata**
+La creatura e gli oggetti non magici indossati o trasportati diventano una sostanza solida inanimata; la creatura smette di invecchiare e il peso è decuplicato.
+
+**Incapacitato**
+La creatura ha la condizione incapacitato.
+
+**Velocità 0**
+La velocità è 0 e non può aumentare.
+
+**Influenza sugli attacchi**
+I tiri per colpire contro la creatura hanno vantaggio.
+
+**Influenza sui tiri salvezza**
+La creatura fallisce automaticamente i TS su Forza e Destrezza.
+
+**Resistenza ai danni**
+La creatura è resistente a tutti i danni.
+
+**Immunità ai veleni**
+La creatura è immune alla condizione avvelenato.
+
+---
+
+## Portata
+
+**id:** portata
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+
+Una creatura ha portata di 1,5 metri salvo diversa indicazione di una regola.
+
+---
+
+## Possessione
+
+**id:** possessione
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 211
+
+Alcuni effetti fanno possedere una creatura da un'altra creatura o entità. L'effetto definisce come avviene la possessione; alcune magie possono impedirla o terminarla.
+
+---
+
+## Prepararsi
+
+**id:** prepararsi
+**lettera:** P
+**descrittore:** azione
+**pagine_sorgente:** 211
+
+Con l'azione di Prepararsi scegli una circostanza percettibile come innesco e un'azione o movimento da eseguire con la tua reazione prima dell'inizio del tuo turno successivo.
+
+### Incantesimi preparati
+
+**Concentrazione**
+Preparare un incantesimo richiede lanciarlo normalmente e trattenere la magia con concentrazione fino all'innesco. Se la concentrazione termina, l'incantesimo si dissipa senza effetto.
+
+---
+
+## Privo di sensi
+
+**id:** privo_di_sensi
+**lettera:** P
+**descrittore:** condizione
+**pagine_sorgente:** 212
+
+Condizione di una creatura non cosciente.
+
+### Effetti
+
+**Inerte**
+La creatura ha le condizioni incapacitato e prono e lascia cadere ciò che impugna.
+
+**Velocità 0**
+La velocità è 0 e non può aumentare.
+
+**Influenza sugli attacchi**
+I tiri per colpire contro la creatura hanno vantaggio.
+
+**Influenza sui tiri salvezza**
+La creatura fallisce automaticamente i TS su Forza e Destrezza.
+
+**Colpi critici automatici**
+Ogni tiro per colpire che la colpisce è critico se l'attaccante è entro 1,5 metri.
+
+**Ignaro**
+La creatura non è consapevole di ciò che la circonda.
+
+---
+
+## Prono
+
+**id:** prono
+**lettera:** P
+**descrittore:** condizione
+**pagine_sorgente:** 212
+
+Condizione di una creatura a terra.
+
+### Effetti
+
+**Movimento limitato**
+La creatura può solo strisciare o spendere metà della velocità per rialzarsi. Se la velocità è 0, non può rialzarsi.
+
+**Influenza sugli attacchi**
+La creatura ha svantaggio ai tiri per colpire. Gli attacchi contro di lei hanno vantaggio entro 1,5 metri, altrimenti svantaggio.
+
+---
+
+## Prova con D20
+
+**id:** prova_con_d20
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** prove_con_d20
+
+Le prove con d20 includono prove di caratteristica, tiri per colpire e tiri salvezza. Se un elemento influenza le prove con d20, influenza tutti e tre questi tiri.
+
+---
+
+## Prova di caratteristica
+
+**id:** prova_di_caratteristica
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** prove_con_d20, competenza
+
+Una prova di caratteristica è una prova con d20 che rappresenta l'uso di una caratteristica o di un'abilità collegata per superare una sfida.
+
+---
+
+## Punteggio di caratteristica e modificatore
+
+**id:** punteggio_di_caratteristica_e_modificatore
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** sei_caratteristiche
+
+Una creatura ha sei punteggi di caratteristica, ciascuno con un modificatore. Quando effettui una prova con d20 relativa a una caratteristica, o una regola lo richiede, aggiungi il modificatore corrispondente.
+
+---
+
+## Punti esperienza
+
+**id:** punti_esperienza
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** avanzamento_di_livello
+
+I punti esperienza (PE) sono assegnati dal GM superando sfide e completando avventure. Quando il totale supera una soglia, il livello aumenta.
+
+---
+
+## Punti ferita
+
+**id:** punti_ferita
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** rompere_gli_oggetti, danni_e_guarigione
+
+I punti ferita (PF) misurano quanto è difficile uccidere o distruggere una creatura o oggetto. I danni li riducono e la guarigione li ripristina, entro il massimo e non sotto 0.
+
+---
+
+## Punti ferita temporanei
+
+**id:** punti_ferita_temporanei
+**lettera:** P
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** danni_e_guarigione
+
+I punti ferita temporanei sono concessi da alcuni effetti e ammortizzano la perdita dei punti ferita reali.
+
+---
+
+## Reazione
+
+**id:** reazione
+**lettera:** R
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** attacchi_di_opportunita, azioni
+
+Una reazione è un'azione speciale eseguita in risposta a un innesco. Dopo averla usata, non puoi usarne un'altra fino all'inizio del tuo turno successivo.
+
+---
+
+## Resistenza
+
+**id:** resistenza
+**lettera:** R
+**descrittore:** null
+**pagine_sorgente:** 212
+**vedi_anche:** danni_e_guarigione
+
+Se una creatura ha resistenza a un tipo di danno, i danni di quel tipo sono dimezzati, arrotondando per difetto. Si applica una sola volta per istanza di danno.
+
+---
+
+## Ricerca
+
+**id:** ricerca
+**lettera:** R
+**descrittore:** azione
+**pagine_sorgente:** 212-213
+
+Con l'azione di Ricerca effettui una prova di Saggezza per discernere qualcosa che non sia ovvio.
+
+### Ricerca
+
+| Abilità | Elemento da individuare |
+| --- | --- |
+| Intuizione | Stato mentale di una creatura |
+| Medicina | Malattia o causa di morte di una creatura |
+| Percezione | Creature o oggetti nascosti |
+| Sopravvivenza | Tracce o cibo |
+
+---
+
+## Riposo breve
+
+**id:** riposo_breve
+**lettera:** R
+**descrittore:** null
+**pagine_sorgente:** 213
+
+Un riposo breve è 1 ora di inattività leggera. Per iniziarlo devi avere almeno 1 punto ferita. Alla fine puoi spendere Dadi Vita e recuperare capacità che si ricaricano con riposo breve.
+
+### Interruzione
+
+**Eventi**
+Tirare per l'iniziativa, lanciare un incantesimo diverso da un trucchetto o subire danni interrompe il riposo e impedisce di riceverne i benefici.
+
+---
+
+## Riposo lungo
+
+**id:** riposo_lungo
+**lettera:** R
+**descrittore:** null
+**pagine_sorgente:** 213
+**vedi_anche:** riposo_breve
+
+Un riposo lungo è un periodo di almeno 8 ore, con almeno 6 ore di sonno e non più di 2 ore di attività poco impegnative. Dopo un riposo lungo devi aspettare almeno 16 ore prima di iniziarne un altro.
+
+### Benefici
+
+**Recupero**
+Recuperi tutti i punti ferita perduti e tutti i Dadi Vita spesi; i punti ferita massimi e i punteggi di caratteristica ridotti tornano normali.
+
+**Indebolimento**
+Se hai indebolimento, questo diminuisce di 1 livello.
+
+**Capacità speciali**
+Le capacità che si ricaricano con un riposo lungo si ricaricano come indicato.
+
+---
+
+## Rituale
+
+**id:** rituale
+**lettera:** R
+**descrittore:** null
+**pagine_sorgente:** 213
+**vedi_anche:** incantesimo
+
+Se hai preparato un incantesimo con descrittore rituale, puoi lanciarlo come rituale. Richiede 10 minuti in più, non consuma slot e non può essere lanciato a livello superiore.
+
+---
+
+## Rompere gli oggetti
+
+**id:** rompere_gli_oggetti
+**lettera:** R
+**descrittore:** null
+**pagine_sorgente:** 213-214
+
+Gli oggetti possono essere danneggiati da attacchi o incantesimi. Un oggetto fragile può essere rotto automaticamente a discrezione del GM con l'azione di Attacco o Utilizzo.
+
+### Classe Armatura degli oggetti
+
+| Materiale | CA |
+| --- | --- |
+| Stoffa, carta, corda | 11 |
+| Cristallo, vetro, ghiaccio | 13 |
+| Legno | 15 |
+| Pietra | 17 |
+| Ferro, acciaio | 19 |
+| Mithral | 21 |
+| Adamantio | 23 |
+
+### Punti ferita degli oggetti
+
+| Taglia | Fragile | Resiliente |
+| --- | --- | --- |
+| Minuscola | 2 (1d4) | 5 (2d4) |
+| Piccola | 3 (1d6) | 10 (3d6) |
+| Media | 4 (1d8) | 18 (4d8) |
+| Grande | 5 (1d10) | 27 (5d10) |
+
+---
+
+## Saltare
+
+**id:** saltare
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 214
+**vedi_anche:** salto_in_lungo, salto_in_alto
+
+Quando salti puoi compiere un salto in lungo o un salto in alto.
+
+---
+
+## Salto in alto
+
+**id:** salto_in_alto
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 214
+
+Con rincorsa di almeno 3 metri, salti in alto di 3 + modificatore di Forza moltiplicato per 30 centimetri, minimo 0. Da fermo raggiungi metà altezza. Ogni 30 centimetri saltati costano 30 centimetri di movimento.
+
+---
+
+## Salto in lungo
+
+**id:** salto_in_lungo
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 214
+
+Con rincorsa di almeno 3 metri, salti in lungo di una distanza pari al punteggio di Forza moltiplicato per 30 centimetri. Da fermo copri metà distanza. Ogni 30 centimetri saltati costano 30 centimetri di movimento.
+
+---
+
+## Sanguinante
+
+**id:** sanguinante
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 214
+
+Una creatura è sanguinante se le rimane metà o meno dei suoi punti ferita.
+
+---
+
+## Scalare
+
+**id:** scalare
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 214
+**vedi_anche:** velocita_di_scalata
+
+Quando scali, ogni 30 centimetri di movimento costano 30 centimetri extra, o 60 centimetri extra in terreno difficile. Una velocità di scalata ignora questi costi extra.
+
+---
+
+## Scatto
+
+**id:** scatto
+**lettera:** S
+**descrittore:** azione
+**pagine_sorgente:** 214
+**vedi_anche:** velocita
+
+Con l'azione di Scatto ottieni movimento extra per il turno pari alla tua velocità dopo i modificatori. Se hai velocità speciali, puoi scegliere quale usare.
+
+---
+
+## Scheda delle statistiche
+
+**id:** scheda_delle_statistiche
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 215
+
+Una scheda delle statistiche contiene le statistiche di gioco di un mostro: taglia, tipo, allineamento, CA, iniziativa, PF, velocità, caratteristiche, abilità, resistenze, immunità, sensi, lingue, GS e azioni.
+
+---
+
+## Scheda del personaggio
+
+**id:** scheda_del_personaggio
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 215
+**vedi_anche:** creazione_del_personaggio
+
+La scheda del personaggio è una nota digitale o cartacea usata per tenere traccia delle informazioni del personaggio.
+
+---
+
+## Schivata
+
+**id:** schivata
+**lettera:** S
+**descrittore:** azione
+**pagine_sorgente:** 215
+
+Con l'azione di Schivata, fino all'inizio del tuo turno successivo gli attacchi contro di te hanno svantaggio se vedi l'attaccante e i tuoi TS su Destrezza hanno vantaggio. Perdi il beneficio se sei incapacitato o la velocità scende a 0.
+
+---
+
+## Scurovisione
+
+**id:** scurovisione
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 215
+**vedi_anche:** esplorazione
+
+Con scurovisione vedi in luce fioca come luce intensa e in oscurità come luce fioca entro un raggio specificato. Nell'oscurità distingui solo sfumature di grigio.
+
+---
+
+## Sfera
+
+**id:** sfera
+**lettera:** S
+**descrittore:** area di effetto
+**pagine_sorgente:** 216
+
+Una sfera è un'area di effetto che si estende in tutte le direzioni da un punto di origine. L'effetto ne specifica il raggio. Il punto di origine è incluso.
+
+---
+
+## Sintonia
+
+**id:** sintonia
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 216
+**vedi_anche:** oggetti_magici
+
+Alcuni oggetti magici richiedono sintonia prima di poter usare le loro proprietà. Una creatura può essere in sintonia con al massimo tre oggetti magici alla volta.
+
+---
+
+## Soffocamento
+
+**id:** soffocamento
+**lettera:** S
+**descrittore:** pericolo
+**pagine_sorgente:** 216
+
+Una creatura può trattenere il fiato per 1 + modificatore di Costituzione minuti, minimo 30 secondi. Quando resta senza fiato o soffoca, ottiene 1 livello di indebolimento alla fine di ogni suo turno finché non respira di nuovo.
+
+---
+
+## Soglia di danno
+
+**id:** soglia_di_danno
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 216
+
+Una creatura o oggetto con soglia di danno è immune ai danni inferiori alla soglia da un singolo attacco o effetto. Se i danni raggiungono o superano la soglia, subisce l'intera istanza di danno.
+
+---
+
+## Sorpresa
+
+**id:** sorpresa
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 216
+**vedi_anche:** combattimento
+
+Una creatura colta alla sprovvista all'inizio del combattimento è sorpresa e subisce svantaggio al tiro per l'iniziativa.
+
+---
+
+## Spaventato
+
+**id:** spaventato
+**lettera:** S
+**descrittore:** condizione
+**pagine_sorgente:** 216
+
+Condizione causata dalla paura.
+
+### Effetti
+
+**Influenza sulle prove di caratteristica e sugli attacchi**
+La creatura ha svantaggio alle prove di caratteristica e ai tiri per colpire finché la fonte della paura è nel suo campo visivo.
+
+**Non è in grado di avvicinarsi**
+La creatura non può avvicinarsi volontariamente alla fonte della paura.
+
+---
+
+## Spazio libero
+
+**id:** spazio_libero
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 216
+
+Uno spazio è libero se nessuna creatura si trova al suo interno e non è completamente pieno di oggetti.
+
+---
+
+## Spazio occupato
+
+**id:** spazio_occupato
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 216
+
+Uno spazio è occupato se una creatura si trova al suo interno o se è completamente pieno di oggetti.
+
+---
+
+## Stabile
+
+**id:** stabile
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 216
+**vedi_anche:** danni_e_guarigione
+
+Una creatura è stabile se ha 0 punti ferita ma non deve effettuare tiri salvezza contro morte.
+
+---
+
+## Stordito
+
+**id:** stordito
+**lettera:** S
+**descrittore:** condizione
+**pagine_sorgente:** 216
+
+Condizione che impedisce di agire e rende vulnerabili.
+
+### Effetti
+
+**Incapacitato**
+La creatura ha la condizione incapacitato.
+
+**Influenza sui tiri salvezza**
+La creatura fallisce automaticamente i TS su Forza e Destrezza.
+
+**Influenza sugli attacchi**
+I tiri per colpire contro la creatura hanno vantaggio.
+
+---
+
+## Strisciare
+
+**id:** strisciare
+**lettera:** S
+**descrittore:** null
+**pagine_sorgente:** 216
+**vedi_anche:** velocita
+
+Quando strisci, ogni 30 centimetri di movimento costano 30 centimetri extra, o 60 centimetri extra in terreno difficile.
+
+---
+
+## Studio
+
+**id:** studio
+**lettera:** S
+**descrittore:** azione
+**pagine_sorgente:** 216
+
+Con l'azione di Studio effettui una prova di Intelligenza per analizzare memoria, libri, indizi o altre fonti di conoscenza.
+
+### Aree di conoscenza
+
+| Abilità | Aree |
+| --- | --- |
+| Arcano | Incantesimi, oggetti magici, simboli occulti, tradizioni magiche, piani di esistenza e alcune creature |
+| Indagare | Trappole, cifrari, indovinelli e congegni |
+| Natura | Terreno, flora, tempo atmosferico e alcune creature |
+| Religione | Divinità, riti, gerarchie religiose, simboli sacri, culti e alcune creature |
+| Storia | Eventi e personaggi storici, civiltà, guerre e alcune creature |
