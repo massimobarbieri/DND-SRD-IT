@@ -718,5 +718,214 @@
         ]
       }
     ]
+  },
+  {
+    "id": "categorie_oggetti_magici",
+    "nome": "Categorie di oggetti magici",
+    "capitolo": "Oggetti magici",
+    "categoria": "Oggetti magici",
+    "pagine_sorgente": "232-233",
+    "descrizione": "Ogni oggetto magico appartiene a una categoria che ne descrive forma, uso tipico e regole generali. Le descrizioni dei singoli oggetti possono modificare queste regole.",
+    "sezioni": [
+      {
+        "titolo": "Categorie",
+        "righe": [
+          { "chiave": "Anelli", "valore": "Devono essere indossati su un dito o simile affinche la magia funzioni, salvo diversa indicazione." },
+          { "chiave": "Armature", "valore": "Sono versioni magiche di armature; devono essere indossate per funzionare, salvo diversa indicazione." },
+          { "chiave": "Armi", "valore": "Sono versioni magiche di armi; se non specificano il tipo, puo essere scelto o determinato casualmente." },
+          { "chiave": "Bacchette", "valore": "Di norma possono essere usate come focus arcano, salvo diversa indicazione." },
+          { "chiave": "Bastoni", "valore": "Di norma possono essere usati come bastoni ferrati non magici e come focus arcano." },
+          { "chiave": "Oggetti meravigliosi", "valore": "Includono abiti, accessori, borse, tappeti, statuette, corni, strumenti musicali e altri oggetti speciali." },
+          { "chiave": "Pergamene", "valore": "Sono consumabili; la magia si libera leggendo la pergamena e poi non puo piu essere usata." },
+          { "chiave": "Pozioni", "valore": "Sono infusi da bere o oli da applicare; di solito una fiala contiene 30 grammi di liquido." },
+          { "chiave": "Verghe", "valore": "Sono scettri in metallo, legno o osso e possono essere focus arcani salvo diversa indicazione." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Regole aggiuntive",
+        "righe": [
+          { "chiave": "Munizioni magiche", "valore": "Le munizioni scagliate da un'arma magica con proprieta munizioni sono considerate magiche." },
+          { "chiave": "Prerequisiti di sintonia", "valore": "Se e richiesto essere di una classe, la creatura deve appartenere a quella classe; se e richiesto essere incantatore, deve poter lanciare almeno un incantesimo tramite tratti o privilegi." },
+          { "chiave": "Oggetti su misura", "valore": "Il GM puo decidere che un oggetto non si adatti a qualsiasi anatomia o forma corporea." },
+          { "chiave": "Oggetti in coppia", "valore": "Il GM puo ammettere eccezioni quando un oggetto abbinato non puo essere indossato normalmente, pur richiedendo il pezzo corrispondente." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "rarita_e_valore_oggetti_magici",
+    "nome": "Rarita e valore degli oggetti magici",
+    "capitolo": "Oggetti magici",
+    "categoria": "Oggetti magici",
+    "pagine_sorgente": "233-234",
+    "descrizione": "La rarita misura approssimativamente il potere di un oggetto magico e puo aiutare a definirne disponibilita e valore nelle campagne in cui gli oggetti magici si comprano o vendono.",
+    "sezioni": [
+      {
+        "titolo": "Valori per rarita",
+        "righe": [
+          { "chiave": "Comune", "valore": "100 mo." },
+          { "chiave": "Non comune", "valore": "400 mo." },
+          { "chiave": "Raro", "valore": "4.000 mo." },
+          { "chiave": "Molto raro", "valore": "40.000 mo." },
+          { "chiave": "Leggendario", "valore": "200.000 mo." },
+          { "chiave": "Manufatto", "valore": "Inestimabile." }
+        ],
+        "blocchi": [
+          { "nome": "Consumabili", "descrizione": "Il valore e dimezzato per un oggetto consumabile diverso da una pergamena magica." },
+          { "nome": "Pergamene magiche", "descrizione": "Il valore di una pergamena magica e pari al doppio del costo di scrittura della pergamena." },
+          { "nome": "Oggetto incorporato", "descrizione": "Se l'oggetto magico incorpora un oggetto con costo d'acquisto, come arma o armatura, quel costo si aggiunge al valore magico." }
+        ]
+      },
+      {
+        "titolo": "Disponibilita indicativa",
+        "righe": [
+          { "chiave": "Comune", "valore": "Spesso acquistabile in una cittadina o una citta grande." },
+          { "chiave": "Non comune e raro", "valore": "Solitamente reperibile solo nelle citta grandi." },
+          { "chiave": "Molto raro e oltre", "valore": "Potrebbe essere venduto solo in luoghi meravigliosi, come una citta su un altro piano di esistenza." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "attivare_oggetti_magici",
+    "nome": "Attivare oggetti magici",
+    "capitolo": "Oggetti magici",
+    "categoria": "Oggetti magici",
+    "pagine_sorgente": "234",
+    "descrizione": "Di solito attivare un oggetto magico richiede un'azione di Magia. La categoria o la descrizione del singolo oggetto specificano eventuali procedure particolari.",
+    "sezioni": [
+      {
+        "titolo": "Modalita di attivazione",
+        "righe": [
+          { "chiave": "Parola d'ordine", "valore": "Deve essere pronunciata in modo udibile; non funziona dove i suoni sono soppressi, come in silenzio." },
+          { "chiave": "Consumabili", "valore": "Una volta usato, un oggetto consumabile perde la sua magia." },
+          { "chiave": "Pozioni", "valore": "Bere una pozione o somministrarla richiede un'azione bonus; applicare un olio puo richiedere piu tempo." },
+          { "chiave": "Cariche", "valore": "Alcuni oggetti consumano cariche; identificare rivela le cariche rimanenti e una creatura sintonizzata conosce cariche e recupero." },
+          { "chiave": "Alba successiva", "valore": "Se l'evento di ricarica non esiste nel mondo o piano, il GM decide quando l'oggetto si ricarica." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Incantesimi dagli oggetti",
+        "righe": [
+          { "chiave": "Slot e componenti", "valore": "L'incantesimo non consuma slot e non richiede componenti, salvo diversa indicazione." },
+          { "chiave": "Livello", "valore": "Viene lanciato al livello piu basso possibile di incantesimo e incantatore, salvo diversa indicazione." },
+          { "chiave": "Concentrazione", "valore": "Se l'incantesimo richiede concentrazione, chi usa l'oggetto deve concentrarsi." },
+          { "chiave": "Caratteristica da incantatore", "valore": "Se richiesta, chi usa piu caratteristiche sceglie quale usare; chi non ne ha usa modificatore +0 e bonus di competenza." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "pozioni_maledizioni_resilienza",
+    "nome": "Pozioni, maledizioni e resilienza",
+    "capitolo": "Oggetti magici",
+    "categoria": "Oggetti magici",
+    "pagine_sorgente": "233-235",
+    "descrizione": "Le pozioni possono interagire in modo imprevedibile, gli oggetti maledetti nascondono spesso la loro natura e gli oggetti magici sono generalmente piu resistenti delle controparti non magiche.",
+    "sezioni": [
+      {
+        "titolo": "Miscibilita delle pozioni",
+        "righe": [
+          { "chiave": "01", "valore": "Entrambe perdono effetto e generano un'esplosione: 4d10 danni da forza in una sfera di 1,5 metri." },
+          { "chiave": "02-08", "valore": "Entrambe perdono effetto e la miscela diventa un veleno da ingestione scelto dal GM." },
+          { "chiave": "09-15", "valore": "Entrambe le pozioni perdono effetto." },
+          { "chiave": "16-25", "valore": "Una delle pozioni perde effetto." },
+          { "chiave": "26-35", "valore": "Entrambe funzionano, ma effetti numerici e durata sono dimezzati; se una non ha numeri o durata perde effetto." },
+          { "chiave": "36-90", "valore": "Entrambe funzionano normalmente." },
+          { "chiave": "91-99", "valore": "Entrambe funzionano, ma effetti numerici e durata di una sono raddoppiati; se non applicabile funzionano normalmente." },
+          { "chiave": "00", "valore": "Solo una pozione funziona, ma il suo effetto diventa permanente a discrezione del GM." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Maledizioni e resilienza",
+        "righe": [
+          { "chiave": "Maledizioni", "valore": "La descrizione indica se un oggetto e maledetto; identificare e la maggior parte dei metodi di identificazione non rivelano la maledizione." },
+          { "chiave": "Sintonia maledetta", "valore": "La sintonia con un oggetto maledetto non puo essere interrotta volontariamente finche la maledizione non viene spezzata." },
+          { "chiave": "Resilienza", "valore": "Un oggetto magico e tenace almeno quanto un oggetto non magico del suo genere; quasi tutti, eccetto pozioni e pergamene, hanno resistenza a tutti i danni." },
+          { "chiave": "Manufatti", "valore": "Possono essere distrutti solo con misure speciali, spesso scoperte tramite ricerca o missione." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "creare_oggetti_magici",
+    "nome": "Creare oggetti magici",
+    "capitolo": "Oggetti magici",
+    "categoria": "Oggetti magici",
+    "pagine_sorgente": "235",
+    "descrizione": "Creare oggetti magici richiede competenza in Arcano, strumenti appropriati, eventuali incantesimi preparati, tempo e materie prime. Pozioni di guarigione e pergamene magiche seguono le regole di Equipaggiamento.",
+    "sezioni": [
+      {
+        "titolo": "Strumenti per categoria",
+        "righe": [
+          { "chiave": "Anello", "valore": "Strumenti da gioielliere." },
+          { "chiave": "Armature", "valore": "Strumenti da conciatore, da fabbro o da tessitore secondo il tipo di armatura." },
+          { "chiave": "Arma", "valore": "Strumenti da conciatore, da fabbro o da intagliatore secondo il tipo di arma." },
+          { "chiave": "Bacchetta", "valore": "Strumenti da intagliatore." },
+          { "chiave": "Bastone", "valore": "Strumenti da intagliatore." },
+          { "chiave": "Oggetti meravigliosi", "valore": "Strumenti da inventore o lo strumento necessario per costruire l'oggetto non magico di base." },
+          { "chiave": "Pergamena", "valore": "Scorte da calligrafo." },
+          { "chiave": "Pozione", "valore": "Scorte da alchimista o borsa da erborista." },
+          { "chiave": "Verga", "valore": "Strumenti da intagliatore." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Tempi e costi",
+        "righe": [
+          { "chiave": "Comune", "valore": "5 giorni, 50 mo." },
+          { "chiave": "Non comune", "valore": "10 giorni, 200 mo." },
+          { "chiave": "Raro", "valore": "50 giorni, 2.000 mo." },
+          { "chiave": "Molto raro", "valore": "125 giorni, 20.000 mo." },
+          { "chiave": "Leggendario", "valore": "250 giorni, 100.000 mo." }
+        ],
+        "blocchi": [
+          { "nome": "Competenza", "descrizione": "Creatore e assistenti devono avere competenza in Arcano e nello strumento richiesto." },
+          { "nome": "Incantesimi", "descrizione": "Se l'oggetto permette di lanciare incantesimi, tutti gli incantesimi devono essere preparati ogni giorno dedicato alla creazione." },
+          { "nome": "Assistenti", "descrizione": "Il tempo si divide per il numero di personaggi che lavorano, se il GM consente assistenti." },
+          { "nome": "Materie prime", "descrizione": "In una citta c'e il 75% di probabilita che siano disponibili, altrove il 25%; se mancano, si ricontrolla dopo almeno 7 giorni." },
+          { "nome": "Consumabili", "descrizione": "Tempo e costo sono dimezzati per consumabili diversi dalle pergamene magiche." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oggetti_magici_senzienti",
+    "nome": "Oggetti magici senzienti",
+    "capitolo": "Oggetti magici",
+    "categoria": "Oggetti magici",
+    "pagine_sorgente": "236-237",
+    "descrizione": "Alcuni oggetti magici possiedono coscienza e personalita. Il GM controlla questi oggetti e le loro proprieta attivate; il rapporto con il possessore puo generare collaborazione o conflitto.",
+    "sezioni": [
+      {
+        "titolo": "Tratti",
+        "righe": [
+          { "chiave": "Caratteristiche", "valore": "L'oggetto ha Intelligenza, Saggezza e Carisma scelti dal GM o determinati con 4d6 scartando il risultato piu basso." },
+          { "chiave": "Allineamento", "valore": "Ha un allineamento scelto dal GM o determinato casualmente." },
+          { "chiave": "Comunicazione", "valore": "Comunica tramite emozioni, parlando, o parlando e comunicando telepaticamente." },
+          { "chiave": "Sensi", "valore": "Puo avere udito e visione entro 9, 18 o 36 metri, oppure scurovisione e udito entro 36 metri." },
+          { "chiave": "Scopo speciale", "valore": "Puo avere un obiettivo, come proteggere creature, cercare conoscenza, distruggere nemici o servire una divinita." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Conflitto",
+        "righe": [
+          { "chiave": "Innesco", "valore": "Se il possessore agisce contro allineamento o scopo dell'oggetto, puo nascere un conflitto." },
+          { "chiave": "Tiro salvezza", "valore": "Il possessore effettua un TS su Carisma con CD 12 + modificatore di Carisma dell'oggetto." },
+          { "chiave": "Richieste", "valore": "L'oggetto puo chiedere di perseguire il suo scopo, eliminare cio che disprezza, essere ceduto o restare sempre vicino." },
+          { "chiave": "Ritorsioni", "valore": "Se rifiutato, puo impedire la sintonia, sopprimere proprieta attivate o tentare di controllare il portatore." },
+          { "chiave": "Controllo", "valore": "Il controllo impone affascinato per 1d12 ore su TS fallito; il portatore ripete il TS se subisce danni." }
+        ],
+        "blocchi": []
+      }
+    ]
   }
 ]

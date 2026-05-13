@@ -6,6 +6,8 @@ Aggiornamento: aggiunto anche il capitolo "Equipaggiamento", pagine 101-117.
 
 Aggiornamento: aggiunto anche il capitolo "Incantesimi", pagine 118-121.
 
+Aggiornamento: aggiunto anche il capitolo "Oggetti magici", pagine 232-237.
+
 ## Ritmo di gioco
 
 **id:** ritmo_di_gioco
@@ -733,3 +735,220 @@ Gli effetti dello stesso incantesimo lanciato piu volte non si combinano: si app
 
 **Pari potenza**
 Se gli effetti sono ugualmente potenti, si applica quello piu recente mentre le durate si sovrappongono.
+
+---
+
+## Categorie di oggetti magici
+
+**id:** categorie_oggetti_magici
+**capitolo:** Oggetti magici
+**categoria:** Oggetti magici
+**pagine_sorgente:** 232-233
+
+Ogni oggetto magico appartiene a una categoria che ne descrive forma, uso tipico e regole generali. Le descrizioni dei singoli oggetti possono modificare queste regole.
+
+### Categorie
+
+| Categoria | Riepilogo |
+| --- | --- |
+| Anelli | Devono essere indossati su un dito o simile affinche la magia funzioni, salvo diversa indicazione. |
+| Armature | Sono versioni magiche di armature; devono essere indossate per funzionare, salvo diversa indicazione. |
+| Armi | Sono versioni magiche di armi; se non specificano il tipo, puo essere scelto o determinato casualmente. |
+| Bacchette | Di norma possono essere usate come focus arcano, salvo diversa indicazione. |
+| Bastoni | Di norma possono essere usati come bastoni ferrati non magici e come focus arcano. |
+| Oggetti meravigliosi | Includono abiti, accessori, borse, tappeti, statuette, corni, strumenti musicali e altri oggetti speciali. |
+| Pergamene | Sono consumabili; la magia si libera leggendo la pergamena e poi non puo piu essere usata. |
+| Pozioni | Sono infusi da bere o oli da applicare; di solito una fiala contiene 30 grammi di liquido. |
+| Verghe | Sono scettri in metallo, legno o osso e possono essere focus arcani salvo diversa indicazione. |
+
+### Regole aggiuntive
+
+| Voce | Riepilogo |
+| --- | --- |
+| Munizioni magiche | Le munizioni scagliate da un'arma magica con proprieta munizioni sono considerate magiche. |
+| Prerequisiti di sintonia | Se e richiesto essere di una classe, la creatura deve appartenere a quella classe; se e richiesto essere incantatore, deve poter lanciare almeno un incantesimo tramite tratti o privilegi. |
+| Oggetti su misura | Il GM puo decidere che un oggetto non si adatti a qualsiasi anatomia o forma corporea. |
+| Oggetti in coppia | Il GM puo ammettere eccezioni quando un oggetto abbinato non puo essere indossato normalmente, pur richiedendo il pezzo corrispondente. |
+
+---
+
+## Rarita e valore degli oggetti magici
+
+**id:** rarita_e_valore_oggetti_magici
+**capitolo:** Oggetti magici
+**categoria:** Oggetti magici
+**pagine_sorgente:** 233-234
+
+La rarita misura approssimativamente il potere di un oggetto magico e puo aiutare a definirne disponibilita e valore nelle campagne in cui gli oggetti magici si comprano o vendono.
+
+### Valori per rarita
+
+| Rarita | Valore |
+| --- | --- |
+| Comune | 100 mo. |
+| Non comune | 400 mo. |
+| Raro | 4.000 mo. |
+| Molto raro | 40.000 mo. |
+| Leggendario | 200.000 mo. |
+| Manufatto | Inestimabile. |
+
+**Consumabili**
+Il valore e dimezzato per un oggetto consumabile diverso da una pergamena magica.
+
+**Pergamene magiche**
+Il valore di una pergamena magica e pari al doppio del costo di scrittura della pergamena.
+
+**Oggetto incorporato**
+Se l'oggetto magico incorpora un oggetto con costo d'acquisto, come arma o armatura, quel costo si aggiunge al valore magico.
+
+### Disponibilita indicativa
+
+| Rarita | Disponibilita |
+| --- | --- |
+| Comune | Spesso acquistabile in una cittadina o una citta grande. |
+| Non comune e raro | Solitamente reperibile solo nelle citta grandi. |
+| Molto raro e oltre | Potrebbe essere venduto solo in luoghi meravigliosi, come una citta su un altro piano di esistenza. |
+
+---
+
+## Attivare oggetti magici
+
+**id:** attivare_oggetti_magici
+**capitolo:** Oggetti magici
+**categoria:** Oggetti magici
+**pagine_sorgente:** 234
+
+Di solito attivare un oggetto magico richiede un'azione di Magia. La categoria o la descrizione del singolo oggetto specificano eventuali procedure particolari.
+
+### Modalita di attivazione
+
+| Voce | Riepilogo |
+| --- | --- |
+| Parola d'ordine | Deve essere pronunciata in modo udibile; non funziona dove i suoni sono soppressi, come in silenzio. |
+| Consumabili | Una volta usato, un oggetto consumabile perde la sua magia. |
+| Pozioni | Bere una pozione o somministrarla richiede un'azione bonus; applicare un olio puo richiedere piu tempo. |
+| Cariche | Alcuni oggetti consumano cariche; identificare rivela le cariche rimanenti e una creatura sintonizzata conosce cariche e recupero. |
+| Alba successiva | Se l'evento di ricarica non esiste nel mondo o piano, il GM decide quando l'oggetto si ricarica. |
+
+### Incantesimi dagli oggetti
+
+| Voce | Riepilogo |
+| --- | --- |
+| Slot e componenti | L'incantesimo non consuma slot e non richiede componenti, salvo diversa indicazione. |
+| Livello | Viene lanciato al livello piu basso possibile di incantesimo e incantatore, salvo diversa indicazione. |
+| Concentrazione | Se l'incantesimo richiede concentrazione, chi usa l'oggetto deve concentrarsi. |
+| Caratteristica da incantatore | Se richiesta, chi usa piu caratteristiche sceglie quale usare; chi non ne ha usa modificatore +0 e bonus di competenza. |
+
+---
+
+## Pozioni, maledizioni e resilienza
+
+**id:** pozioni_maledizioni_resilienza
+**capitolo:** Oggetti magici
+**categoria:** Oggetti magici
+**pagine_sorgente:** 233-235
+
+Le pozioni possono interagire in modo imprevedibile, gli oggetti maledetti nascondono spesso la loro natura e gli oggetti magici sono generalmente piu resistenti delle controparti non magiche.
+
+### Miscibilita delle pozioni
+
+| 1d100 | Risultato |
+| --- | --- |
+| 01 | Entrambe perdono effetto e generano un'esplosione: 4d10 danni da forza in una sfera di 1,5 metri. |
+| 02-08 | Entrambe perdono effetto e la miscela diventa un veleno da ingestione scelto dal GM. |
+| 09-15 | Entrambe le pozioni perdono effetto. |
+| 16-25 | Una delle pozioni perde effetto. |
+| 26-35 | Entrambe funzionano, ma effetti numerici e durata sono dimezzati; se una non ha numeri o durata perde effetto. |
+| 36-90 | Entrambe funzionano normalmente. |
+| 91-99 | Entrambe funzionano, ma effetti numerici e durata di una sono raddoppiati; se non applicabile funzionano normalmente. |
+| 00 | Solo una pozione funziona, ma il suo effetto diventa permanente a discrezione del GM. |
+
+### Maledizioni e resilienza
+
+| Voce | Riepilogo |
+| --- | --- |
+| Maledizioni | La descrizione indica se un oggetto e maledetto; identificare e la maggior parte dei metodi di identificazione non rivelano la maledizione. |
+| Sintonia maledetta | La sintonia con un oggetto maledetto non puo essere interrotta volontariamente finche la maledizione non viene spezzata. |
+| Resilienza | Un oggetto magico e tenace almeno quanto un oggetto non magico del suo genere; quasi tutti, eccetto pozioni e pergamene, hanno resistenza a tutti i danni. |
+| Manufatti | Possono essere distrutti solo con misure speciali, spesso scoperte tramite ricerca o missione. |
+
+---
+
+## Creare oggetti magici
+
+**id:** creare_oggetti_magici
+**capitolo:** Oggetti magici
+**categoria:** Oggetti magici
+**pagine_sorgente:** 235
+
+Creare oggetti magici richiede competenza in Arcano, strumenti appropriati, eventuali incantesimi preparati, tempo e materie prime. Pozioni di guarigione e pergamene magiche seguono le regole di Equipaggiamento.
+
+### Strumenti per categoria
+
+| Categoria | Strumento |
+| --- | --- |
+| Anello | Strumenti da gioielliere. |
+| Armature | Strumenti da conciatore, da fabbro o da tessitore secondo il tipo di armatura. |
+| Arma | Strumenti da conciatore, da fabbro o da intagliatore secondo il tipo di arma. |
+| Bacchetta | Strumenti da intagliatore. |
+| Bastone | Strumenti da intagliatore. |
+| Oggetti meravigliosi | Strumenti da inventore o lo strumento necessario per costruire l'oggetto non magico di base. |
+| Pergamena | Scorte da calligrafo. |
+| Pozione | Scorte da alchimista o borsa da erborista. |
+| Verga | Strumenti da intagliatore. |
+
+### Tempi e costi
+
+| Rarita | Tempo e costo |
+| --- | --- |
+| Comune | 5 giorni, 50 mo. |
+| Non comune | 10 giorni, 200 mo. |
+| Raro | 50 giorni, 2.000 mo. |
+| Molto raro | 125 giorni, 20.000 mo. |
+| Leggendario | 250 giorni, 100.000 mo. |
+
+**Competenza**
+Creatore e assistenti devono avere competenza in Arcano e nello strumento richiesto.
+
+**Incantesimi**
+Se l'oggetto permette di lanciare incantesimi, tutti gli incantesimi devono essere preparati ogni giorno dedicato alla creazione.
+
+**Assistenti**
+Il tempo si divide per il numero di personaggi che lavorano, se il GM consente assistenti.
+
+**Materie prime**
+In una citta c'e il 75% di probabilita che siano disponibili, altrove il 25%; se mancano, si ricontrolla dopo almeno 7 giorni.
+
+**Consumabili**
+Tempo e costo sono dimezzati per consumabili diversi dalle pergamene magiche.
+
+---
+
+## Oggetti magici senzienti
+
+**id:** oggetti_magici_senzienti
+**capitolo:** Oggetti magici
+**categoria:** Oggetti magici
+**pagine_sorgente:** 236-237
+
+Alcuni oggetti magici possiedono coscienza e personalita. Il GM controlla questi oggetti e le loro proprieta attivate; il rapporto con il possessore puo generare collaborazione o conflitto.
+
+### Tratti
+
+| Tratto | Riepilogo |
+| --- | --- |
+| Caratteristiche | L'oggetto ha Intelligenza, Saggezza e Carisma scelti dal GM o determinati con 4d6 scartando il risultato piu basso. |
+| Allineamento | Ha un allineamento scelto dal GM o determinato casualmente. |
+| Comunicazione | Comunica tramite emozioni, parlando, o parlando e comunicando telepaticamente. |
+| Sensi | Puo avere udito e visione entro 9, 18 o 36 metri, oppure scurovisione e udito entro 36 metri. |
+| Scopo speciale | Puo avere un obiettivo, come proteggere creature, cercare conoscenza, distruggere nemici o servire una divinita. |
+
+### Conflitto
+
+| Voce | Riepilogo |
+| --- | --- |
+| Innesco | Se il possessore agisce contro allineamento o scopo dell'oggetto, puo nascere un conflitto. |
+| Tiro salvezza | Il possessore effettua un TS su Carisma con CD 12 + modificatore di Carisma dell'oggetto. |
+| Richieste | L'oggetto puo chiedere di perseguire il suo scopo, eliminare cio che disprezza, essere ceduto o restare sempre vicino. |
+| Ritorsioni | Se rifiutato, puo impedire la sintonia, sopprimere proprieta attivate o tentare di controllare il portatore. |
+| Controllo | Il controllo impone affascinato per 1d12 ore su TS fallito; il portatore ripete il TS se subisce danni. |
