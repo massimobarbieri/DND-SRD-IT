@@ -1,0 +1,802 @@
+[
+  {
+    "nome": "Accecato",
+    "id": "accecato",
+    "lettera": "A",
+    "descrittore": "condizione",
+    "pagine_sorgente": "202",
+    "descrizione": "Condizione che impedisce di vedere.",
+    "sezioni": [
+      {
+        "titolo": "Effetti",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Non è in grado di vedere",
+            "descrizione": "La creatura fallisce automaticamente le prove di caratteristica che richiedono la vista."
+          },
+          {
+            "nome": "Influenza sugli attacchi",
+            "descrizione": "I tiri per colpire contro la creatura hanno vantaggio, mentre i suoi tiri per colpire hanno svantaggio."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Affascinato",
+    "id": "affascinato",
+    "lettera": "A",
+    "descrittore": "condizione",
+    "pagine_sorgente": "202",
+    "descrizione": "Condizione causata da chi esercita fascino sulla creatura.",
+    "sezioni": [
+      {
+        "titolo": "Effetti",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Non può attaccare chi lo ha affascinato",
+            "descrizione": "La creatura non può attaccare chi l'ha affascinata né bersagliarlo con abilità o effetti magici dannosi."
+          },
+          {
+            "nome": "Vantaggio sociale",
+            "descrizione": "Chi ha affascinato la creatura ha vantaggio alle prove di caratteristica per interagire socialmente con essa."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Afferrare",
+    "id": "afferrare",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "202-203",
+    "descrizione": "Una creatura può afferrarne un'altra, spesso tramite colpo senz'armi o tramite attacchi speciali dei mostri.",
+    "sezioni": [
+      {
+        "titolo": "Regole",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Condizione afferrato",
+            "descrizione": "Una creatura afferrata subisce la condizione \"afferrato\"."
+          },
+          {
+            "nome": "Una presa per ogni mano",
+            "descrizione": "Una creatura deve avere una mano libera, o una parte del corpo indicata dalla regola, per mantenere una presa."
+          },
+          {
+            "nome": "Sfuggire a una presa",
+            "descrizione": "La creatura afferrata può usare un'azione per effettuare una prova di Forza (Atletica) o Destrezza (Acrobazia) contro la CD della presa. La condizione termina anche se chi afferra è incapacitato, se la distanza supera la portata o se chi afferra lascia andare il bersaglio."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": [
+      "colpo_senz_armi",
+      "afferrato"
+    ]
+  },
+  {
+    "nome": "Afferrato",
+    "id": "afferrato",
+    "lettera": "A",
+    "descrittore": "condizione",
+    "pagine_sorgente": "203",
+    "descrizione": "Condizione subita da una creatura tenuta in presa.",
+    "sezioni": [
+      {
+        "titolo": "Effetti",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Velocità 0",
+            "descrizione": "La velocità della creatura è 0 e non può aumentare."
+          },
+          {
+            "nome": "Influenza sugli attacchi",
+            "descrizione": "La creatura ha svantaggio ai tiri per colpire contro bersagli diversi da chi l'ha afferrata."
+          },
+          {
+            "nome": "Movibile",
+            "descrizione": "Chi ha afferrato la creatura può trascinarla o spostarla, pagando movimento extra salvo eccezioni di taglia."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Aiuto",
+    "id": "aiuto",
+    "lettera": "A",
+    "descrittore": "azione",
+    "pagine_sorgente": "203",
+    "descrizione": "Con l'azione di Aiuto una creatura supporta un alleato in una prova di caratteristica o in un tiro per colpire.",
+    "sezioni": [
+      {
+        "titolo": "Opzioni",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Aiuto a una prova di caratteristica",
+            "descrizione": "Scegli una competenza in un'abilità o strumento e un alleato che puoi aiutare. L'alleato ha vantaggio alla prossima prova pertinente prima dell'inizio del tuo turno successivo."
+          },
+          {
+            "nome": "Aiuto a un tiro per colpire",
+            "descrizione": "Distrai un nemico entro 1,5 metri da te, concedendo vantaggio al prossimo tiro per colpire di un alleato contro quel nemico prima dell'inizio del tuo turno successivo."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Al giorno",
+    "id": "al_giorno",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "203",
+    "descrizione": "Se una regola permette un uso per un certo numero di volte al giorno, dopo aver esaurito gli usi occorre terminare un riposo lungo per riusarli.",
+    "sezioni": [],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Alleato",
+    "id": "alleato",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "203",
+    "descrizione": "Una creatura è alleata se appartiene al gruppo del personaggio, gli è amica, combatte al suo fianco o è indicata come alleata da una regola o dal GM.",
+    "sezioni": [],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Allineamento",
+    "id": "allineamento",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "203",
+    "descrizione": "L'allineamento descrive ideali e atteggiamenti etici di una creatura combinando moralità e rapporto con l'ordine.",
+    "sezioni": [],
+    "vedi_anche": [
+      "creazione_del_personaggio"
+    ]
+  },
+  {
+    "nome": "Amichevole",
+    "id": "amichevole",
+    "lettera": "A",
+    "descrittore": "atteggiamento",
+    "pagine_sorgente": "203",
+    "descrizione": "Una creatura amichevole ha un'opinione positiva del personaggio. Il personaggio ha vantaggio a una prova di caratteristica per influenzarla.",
+    "sezioni": [],
+    "vedi_anche": [
+      "influenza"
+    ]
+  },
+  {
+    "nome": "Area di effetto",
+    "id": "area_di_effetto",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "203",
+    "descrizione": "Molti incantesimi e privilegi indicano un'area di effetto. Ogni area ha un punto di origine e può essere bloccata da ostruzioni che forniscono copertura totale.",
+    "sezioni": [
+      {
+        "titolo": "Forme",
+        "righe": [
+          {
+            "chiave": "Cilindro",
+            "valore": "area di effetto"
+          },
+          {
+            "chiave": "Cono",
+            "valore": "area di effetto"
+          },
+          {
+            "chiave": "Cubo",
+            "valore": "area di effetto"
+          },
+          {
+            "chiave": "Emanazione",
+            "valore": "area di effetto"
+          },
+          {
+            "chiave": "Linea",
+            "valore": "area di effetto"
+          },
+          {
+            "chiave": "Sfera",
+            "valore": "area di effetto"
+          }
+        ],
+        "blocchi": []
+      }
+    ],
+    "vedi_anche": [
+      "cilindro",
+      "cono",
+      "cubo",
+      "emanazione",
+      "linea",
+      "sfera",
+      "copertura"
+    ]
+  },
+  {
+    "nome": "Arma",
+    "id": "arma",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "203",
+    "descrizione": "Un'arma è un oggetto della categoria delle armi semplici o da guerra.",
+    "sezioni": [],
+    "vedi_anche": [
+      "equipaggiamento"
+    ]
+  },
+  {
+    "nome": "Armi improvvisate",
+    "id": "armi_improvvisate",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "203-204",
+    "descrizione": "Un'arma improvvisata è un oggetto usato come arma alla buona, o un'arma usata in modo contrario al suo scopo normale.",
+    "sezioni": [
+      {
+        "titolo": "Regole",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Competenza",
+            "descrizione": "Non si aggiunge il bonus di competenza ai tiri per colpire con un'arma improvvisata."
+          },
+          {
+            "nome": "Danni",
+            "descrizione": "Se colpisce, infligge 1d4 danni del tipo scelto dal GM."
+          },
+          {
+            "nome": "Gittata",
+            "descrizione": "Ha gittata normale 6 metri e gittata lunga 18 metri."
+          },
+          {
+            "nome": "Equivalenti delle armi",
+            "descrizione": "Se assomiglia a un'arma semplice o da guerra, il GM può usarne le regole."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Arrotondare per difetto",
+    "id": "arrotondare_per_difetto",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "204",
+    "descrizione": "Quando si divide o moltiplica un numero nel gioco, si arrotonda per difetto se il risultato è frazionario, salvo regole che dicano diversamente.",
+    "sezioni": [],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Assordato",
+    "id": "assordato",
+    "lettera": "A",
+    "descrittore": "condizione",
+    "pagine_sorgente": "204",
+    "descrizione": "Condizione che impedisce di sentire.",
+    "sezioni": [
+      {
+        "titolo": "Effetti",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Non è in grado di sentire",
+            "descrizione": "La creatura non può sentire e fallisce automaticamente le prove di caratteristica che richiedono l'udito."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Attacchi di opportunità",
+    "id": "attacchi_di_opportunita",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "204",
+    "descrizione": "Una creatura può effettuare un attacco di opportunità quando una creatura che vede esce dalla sua portata. Usa la reazione per eseguire un attacco in mischia con arma o colpo senz'armi.",
+    "sezioni": [],
+    "vedi_anche": [
+      "combattimento"
+    ]
+  },
+  {
+    "nome": "Attacco",
+    "id": "attacco",
+    "lettera": "A",
+    "descrittore": "azione",
+    "pagine_sorgente": "204",
+    "descrizione": "Con l'azione di Attacco, una creatura effettua un tiro per colpire con un'arma o con un colpo senz'armi.",
+    "sezioni": [
+      {
+        "titolo": "Regole",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Equipaggiarsi con le armi e riporle",
+            "descrizione": "Durante l'azione di Attacco puoi anche equipaggiare o riporre un'arma prima o dopo l'attacco."
+          },
+          {
+            "nome": "Muoversi tra un attacco e l'altro",
+            "descrizione": "Se puoi effettuare più attacchi, puoi usare parte o tutto il movimento tra un attacco e l'altro."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Attacco con arma",
+    "id": "attacco_con_arma",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "204",
+    "descrizione": "Un attacco con arma è un tiro per colpire effettuato con un'arma.",
+    "sezioni": [],
+    "vedi_anche": [
+      "arma"
+    ]
+  },
+  {
+    "nome": "Attacco con incantesimo",
+    "id": "attacco_con_incantesimo",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "204",
+    "descrizione": "Un attacco con incantesimo è un tiro per colpire effettuato come parte di un incantesimo o di un altro effetto magico.",
+    "sezioni": [],
+    "vedi_anche": [
+      "incantesimo"
+    ]
+  },
+  {
+    "nome": "Atteggiamento",
+    "id": "atteggiamento",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "204",
+    "descrizione": "Ogni mostro ha un atteggiamento iniziale verso il personaggio: amichevole, ostile o indifferente.",
+    "sezioni": [],
+    "vedi_anche": [
+      "amichevole",
+      "ostile",
+      "indifferente",
+      "influenza"
+    ]
+  },
+  {
+    "nome": "Avvelenato",
+    "id": "avvelenato",
+    "lettera": "A",
+    "descrittore": "condizione",
+    "pagine_sorgente": "204",
+    "descrizione": "Condizione causata da veleno o effetti simili.",
+    "sezioni": [
+      {
+        "titolo": "Effetti",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Influenza sulle prove di caratteristica e sugli attacchi",
+            "descrizione": "La creatura ha svantaggio ai tiri per colpire e alle prove di caratteristica."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Avventura",
+    "id": "avventura",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "204",
+    "descrizione": "Un'avventura è una serie di incontri che, giocati, compongono una storia.",
+    "sezioni": [],
+    "vedi_anche": [
+      "incontro"
+    ]
+  },
+  {
+    "nome": "Azione",
+    "id": "azione",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "204",
+    "descrizione": "Nel proprio turno, una creatura può effettuare un'azione scegliendo tra quelle disponibili o tra azioni speciali concesse dai privilegi.",
+    "sezioni": [],
+    "vedi_anche": [
+      "aiuto",
+      "attacco",
+      "disimpegno",
+      "influenza",
+      "magia",
+      "nascondersi",
+      "prepararsi",
+      "ricerca",
+      "scatto",
+      "schivata",
+      "studio",
+      "utilizzo"
+    ]
+  },
+  {
+    "nome": "Azione bonus",
+    "id": "azione_bonus",
+    "lettera": "A",
+    "descrittore": null,
+    "pagine_sorgente": "205",
+    "descrizione": "Un'azione bonus è un'azione speciale eseguibile nello stesso turno di un'azione. Una creatura non può effettuare più di un'azione bonus per turno e ne dispone solo se una regola lo indica.",
+    "sezioni": [],
+    "vedi_anche": [
+      "azioni"
+    ]
+  },
+  {
+    "nome": "Bersaglio",
+    "id": "bersaglio",
+    "lettera": "B",
+    "descrittore": null,
+    "pagine_sorgente": "205",
+    "descrizione": "Un bersaglio è una creatura o un oggetto scelto da un tiro per colpire, da un effetto che impone un tiro salvezza o da un incantesimo o altro fenomeno.",
+    "sezioni": [],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Caduta",
+    "id": "caduta",
+    "lettera": "C",
+    "descrittore": "pericolo",
+    "pagine_sorgente": "205",
+    "descrizione": "Una creatura che cade subisce 1d6 danni contundenti per ogni 3 metri di caduta, fino a 20d6, e cade prona quando atterra salvo che eviti i danni.",
+    "sezioni": [
+      {
+        "titolo": "Acqua o liquidi",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Reazione",
+            "descrizione": "Cadendo in acqua o altro liquido, la creatura può usare la reazione per superare una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15. Se riesce, i danni della caduta sono dimezzati."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Campagna",
+    "id": "campagna",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "205",
+    "descrizione": "Una campagna è una serie di avventure.",
+    "sezioni": [],
+    "vedi_anche": [
+      "avventura"
+    ]
+  },
+  {
+    "nome": "Capacità di trasporto",
+    "id": "capacita_di_trasporto",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "205",
+    "descrizione": "La taglia e il punteggio di Forza determinano il peso massimo che una creatura può trasportare, trascinare, sollevare o spingere.",
+    "sezioni": [
+      {
+        "titolo": "Capacità di trasporto",
+        "righe": [
+          {
+            "chiave": "Minuscola",
+            "valore": "For x 3,75 kg | For x 7,5 kg"
+          },
+          {
+            "chiave": "Piccola/Media",
+            "valore": "For x 7,5 kg | For x 15 kg"
+          },
+          {
+            "chiave": "Grande",
+            "valore": "For x 15 kg | For x 30 kg"
+          },
+          {
+            "chiave": "Enorme",
+            "valore": "For x 30 kg | For x 60 kg"
+          },
+          {
+            "chiave": "Mastodontica",
+            "valore": "For x 60 kg | For x 120 kg"
+          }
+        ],
+        "blocchi": []
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Cilindro",
+    "id": "cilindro",
+    "lettera": "C",
+    "descrittore": "area di effetto",
+    "pagine_sorgente": "205",
+    "descrizione": "Un cilindro è un'area di effetto che si estende in linee rette da un punto di origine al centro della parte circolare superiore o inferiore. Il punto di origine è incluso nell'area.",
+    "sezioni": [],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Classe Armatura",
+    "id": "classe_armatura",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "205",
+    "descrizione": "La Classe Armatura (CA) è il numero bersaglio per un tiro per colpire. La CA base di un personaggio è 10 + modificatore di Destrezza, salvo metodi alternativi concessi dalle regole.",
+    "sezioni": [],
+    "vedi_anche": [
+      "tiro_per_colpire"
+    ]
+  },
+  {
+    "nome": "Classe Difficoltà",
+    "id": "classe_difficolta",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "205",
+    "descrizione": "La Classe Difficoltà (CD) è il numero bersaglio per una prova di caratteristica o un tiro salvezza.",
+    "sezioni": [],
+    "vedi_anche": [
+      "prove_con_d20"
+    ]
+  },
+  {
+    "nome": "Colpo critico",
+    "id": "colpo_critico",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "205",
+    "descrizione": "Se un tiro per colpire ottiene 20 sul d20, l'attacco colpisce a prescindere da modificatori o CA e infligge dadi extra: tira due volte tutti i dadi di danno dell'attacco e poi aggiungi i modificatori rilevanti.",
+    "sezioni": [],
+    "vedi_anche": [
+      "danni_e_guarigione"
+    ]
+  },
+  {
+    "nome": "Colpo senz'armi",
+    "id": "colpo_senz_armi",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "205-206",
+    "descrizione": "Un colpo senz'armi è un attacco in mischia che usa il corpo per danneggiare, afferrare o spingere un bersaglio entro 1,5 metri.",
+    "sezioni": [
+      {
+        "titolo": "Opzioni",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Danni",
+            "descrizione": "Effettui un tiro per colpire con bonus pari a modificatore di Forza + bonus di competenza. Se colpisce, infligge danni contundenti pari a 1 + modificatore di Forza."
+          },
+          {
+            "nome": "Presa",
+            "descrizione": "Il bersaglio deve superare un TS su Forza o Destrezza, altrimenti è afferrato. La CD è 8 + modificatore di Forza + bonus di competenza."
+          },
+          {
+            "nome": "Spinta",
+            "descrizione": "Il bersaglio deve superare un TS su Forza o Destrezza, altrimenti è spinto di 1,5 metri o diventa prono. La CD è 8 + modificatore di Forza + bonus di competenza."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": [
+      "afferrare"
+    ]
+  },
+  {
+    "nome": "Competenza",
+    "id": "competenza_glossario",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "206",
+    "descrizione": "Se una creatura ha competenza in qualcosa, aggiunge il bonus di competenza alle prove con d20 effettuate per usarla.",
+    "sezioni": [],
+    "vedi_anche": [
+      "competenza"
+    ]
+  },
+  {
+    "nome": "Competenza nelle armature",
+    "id": "competenza_nelle_armature",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "206",
+    "descrizione": "La competenza nelle armature permette di usare una categoria di armatura senza penalità. Senza competenza, una creatura ha svantaggio alle prove con d20 di Forza o Destrezza e non può lanciare incantesimi; uno scudo senza competenza non concede il bonus alla CA.",
+    "sezioni": [],
+    "vedi_anche": [
+      "armatura",
+      "svantaggio"
+    ]
+  },
+  {
+    "nome": "Concentrazione",
+    "id": "concentrazione",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "206",
+    "descrizione": "Alcuni incantesimi ed effetti richiedono concentrazione. Se il creatore perde la concentrazione, l'effetto termina.",
+    "sezioni": [
+      {
+        "titolo": "Interruzioni",
+        "righe": [],
+        "blocchi": [
+          {
+            "nome": "Un altro effetto di concentrazione",
+            "descrizione": "La concentrazione termina quando inizi a lanciare un incantesimo o attivi un effetto che richiede concentrazione."
+          },
+          {
+            "nome": "Danni",
+            "descrizione": "Quando subisci danni, devi superare un TS su Costituzione. La CD è 10 o metà dei danni subiti, scegliendo il valore più alto, fino a massimo 30."
+          },
+          {
+            "nome": "Incapacitato o morto",
+            "descrizione": "La concentrazione termina se sei incapacitato o muori."
+          }
+        ]
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Condizione",
+    "id": "condizione",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "206",
+    "descrizione": "Una condizione è uno stato di gioco temporaneo. Le condizioni non si accumulano, salvo l'indebolimento.",
+    "sezioni": [
+      {
+        "titolo": "Condizioni del glossario",
+        "righe": [
+          {
+            "chiave": "Accecato",
+            "valore": "accecato"
+          },
+          {
+            "chiave": "Affascinato",
+            "valore": "affascinato"
+          },
+          {
+            "chiave": "Afferrato",
+            "valore": "afferrato"
+          },
+          {
+            "chiave": "Assordato",
+            "valore": "assordato"
+          },
+          {
+            "chiave": "Avvelenato",
+            "valore": "avvelenato"
+          },
+          {
+            "chiave": "Incapacitato",
+            "valore": "incapacitato"
+          },
+          {
+            "chiave": "Indebolimento",
+            "valore": "indebolimento"
+          },
+          {
+            "chiave": "Invisibile",
+            "valore": "invisibile"
+          },
+          {
+            "chiave": "Paralizzato",
+            "valore": "paralizzato"
+          },
+          {
+            "chiave": "Pietrificato",
+            "valore": "pietrificato"
+          },
+          {
+            "chiave": "Privo di sensi",
+            "valore": "privo_di_sensi"
+          },
+          {
+            "chiave": "Prono",
+            "valore": "prono"
+          },
+          {
+            "chiave": "Spaventato",
+            "valore": "spaventato"
+          },
+          {
+            "chiave": "Stordito",
+            "valore": "stordito"
+          },
+          {
+            "chiave": "Trattenuto",
+            "valore": "trattenuto"
+          }
+        ],
+        "blocchi": []
+      }
+    ],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Cono",
+    "id": "cono",
+    "lettera": "C",
+    "descrittore": "area di effetto",
+    "pagine_sorgente": "206",
+    "descrizione": "Un cono è un'area di effetto che si estende in linee rette da un punto di origine nella direzione scelta. La larghezza in un punto è pari alla distanza di quel punto dall'origine. Il punto di origine non è incluso salvo scelta contraria del creatore.",
+    "sezioni": [],
+    "vedi_anche": []
+  },
+  {
+    "nome": "Copertura",
+    "id": "copertura",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "206",
+    "descrizione": "La copertura protegge un bersaglio dietro un ostacolo. Se più gradi si applicano, vale solo il più protettivo.",
+    "sezioni": [
+      {
+        "titolo": "Gradi",
+        "righe": [
+          {
+            "chiave": "Mezza copertura",
+            "valore": "+2 alla CA e ai TS su Destrezza"
+          },
+          {
+            "chiave": "Tre quarti di copertura",
+            "valore": "+5 alla CA e ai TS su Destrezza"
+          },
+          {
+            "chiave": "Copertura totale",
+            "valore": "Il bersaglio non può essere bersagliato direttamente"
+          }
+        ],
+        "blocchi": []
+      }
+    ],
+    "vedi_anche": [
+      "combattimento"
+    ]
+  },
+  {
+    "nome": "Creatura",
+    "id": "creatura",
+    "lettera": "C",
+    "descrittore": null,
+    "pagine_sorgente": "206",
+    "descrizione": "Qualsiasi essere nel gioco, incluso un personaggio giocante, è una creatura.",
+    "sezioni": [],
+    "vedi_anche": [
+      "tipo_di_creatura"
+    ]
+  },
+  {
+    "nome": "Cubo",
+    "id": "cubo",
+    "lettera": "C",
+    "descrittore": "area di effetto",
+    "pagine_sorgente": "206",
+    "descrizione": "Un cubo è un'area di effetto che si estende in linee rette da un punto di origine su una delle sue facce. La dimensione è la lunghezza di ogni lato. Il punto di origine non è incluso salvo scelta contraria del creatore.",
+    "sezioni": [],
+    "vedi_anche": []
+  }
+]
