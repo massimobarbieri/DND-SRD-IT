@@ -1083,5 +1083,212 @@
         "blocchi": []
       }
     ]
+  },
+  {
+    "id": "passo_di_viaggio",
+    "nome": "Passo di viaggio",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "220",
+    "descrizione": "Il terreno predominante determina il passo massimo di viaggio. Strade, velocita dei viaggiatori, viaggio prolungato, movimenti speciali e veicoli possono modificare il modo in cui il gruppo si sposta.",
+    "sezioni": [
+      {
+        "titolo": "Fattori del viaggio",
+        "righe": [
+          { "chiave": "Strade", "valore": "Una strada in buone condizioni aumenta il passo massimo di un grado, da lento a normale o da normale a veloce." },
+          { "chiave": "Viaggiatori lenti", "valore": "Il gruppo deve muoversi a passo lento se la velocita di un membro e ridotta alla meta o meno." },
+          { "chiave": "Oltre 8 ore", "valore": "Alla fine di ogni ora extra, ogni personaggio supera un TS su Costituzione o ottiene 1 livello di indebolimento; CD 10 + ore oltre l'ottava." },
+          { "chiave": "Movimenti speciali", "valore": "Chilometri all'ora = velocita divisa 2; passo normale = km/h per ore di viaggio; veloce x 1,33; lento x 0,66." },
+          { "chiave": "Veicoli", "valore": "Chi viaggia su un veicolo usa la velocita del veicolo in km/h e non sceglie un passo di viaggio." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Terreni",
+        "righe": [
+          { "chiave": "Artico", "valore": "Passo massimo veloce con equipaggiamento adeguato; CD foraggiare 20, orientarsi 10, cercare 10." },
+          { "chiave": "Costiero", "valore": "Passo massimo normale; CD foraggiare 10, orientarsi 5, cercare 15." },
+          { "chiave": "Deserto", "valore": "Passo massimo normale; CD foraggiare 20, orientarsi 10, cercare 10." },
+          { "chiave": "Foresta", "valore": "Passo massimo normale; CD foraggiare 10, orientarsi 15, cercare 15." },
+          { "chiave": "Prateria", "valore": "Passo massimo veloce; CD foraggiare 15, orientarsi 5, cercare 15." },
+          { "chiave": "Montagna o palude", "valore": "Passo massimo lento." },
+          { "chiave": "Sottosuolo o urbano", "valore": "Passo massimo normale." },
+          { "chiave": "Sull'acqua", "valore": "Il movimento dipende dal veicolo." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "creare_background",
+    "nome": "Creare un background",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "220-221",
+    "descrizione": "Un background contestualizza la vita del personaggio prima dell'avventura. Il GM puo crearne o personalizzarne uno per riflettere il tema della campagna o del mondo.",
+    "sezioni": [
+      {
+        "titolo": "Procedura",
+        "righe": [
+          { "chiave": "1. Caratteristiche", "valore": "Scegli tre caratteristiche appropriate al background." },
+          { "chiave": "2. Talento", "valore": "Scegli un talento della categoria Origini." },
+          { "chiave": "3. Abilita", "valore": "Scegli due abilita appropriate; non devono corrispondere per forza alle caratteristiche aumentate." },
+          { "chiave": "4. Strumento", "valore": "Scegli uno strumento usato nella pratica o associato al background." },
+          { "chiave": "5. Equipaggiamento", "valore": "Assembla un pacchetto del valore di 50 mo, oro non speso incluso; non includere armi da guerra o armature." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "maledizioni_e_contagi_magici",
+    "nome": "Maledizioni e contagi magici",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "221-223",
+    "descrizione": "Le maledizioni sono fardelli magici che durano per un tempo specifico o finche non vengono rimossi. I contagi magici sono effetti avversi e contagiosi di origine magica.",
+    "sezioni": [
+      {
+        "titolo": "Maledizioni",
+        "righe": [
+          { "chiave": "Scagliare maledizione", "valore": "Fornisce un metro di paragone: durata 1 minuto come livello 3, durata fino a dissoluzione come livello 9." },
+          { "chiave": "Creature maledette", "valore": "Il GM decide come rimuovi maledizione interagisce con creature dalle origini maledette." },
+          { "chiave": "Oggetti maledetti", "valore": "Possono essere creati deliberatamente o derivare da eventi soprannaturali." },
+          { "chiave": "Narrative", "valore": "Possono essere punizioni divine o violazioni di tabu; dovrebbero avere causa e possibile espiazione." },
+          { "chiave": "Ambientali", "valore": "Luoghi intrisi di male possono infliggere maledizioni a chi vi entra." },
+          { "chiave": "Possessione demoniaca", "valore": "TS Carisma CD 15; su fallimento un'entita puo controllare la creatura quando ottiene 1 a una prova con d20." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Contagi magici",
+        "righe": [
+          { "chiave": "Convalescenza", "valore": "Dopo 3 giorni senza interrompere riposi lunghi, TS Costituzione CD 15; su successo vantaggio per debellare il contagio per 24 ore." },
+          { "chiave": "Epidemia fognaria", "valore": "CD 11; causa indebolimento e ostacola recupero di PF e riduzione dell'indebolimento." },
+          { "chiave": "Febbre da gallina", "valore": "CD 13; causa indebolimento, risata incapacitante e puo diffondersi entro emanazione di 3 metri." },
+          { "chiave": "Vista putrefatta", "valore": "CD 15; causa accecato, puo essere curata magicamente o soppressa con unguento da borsa da erborista." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "effetti_ambientali",
+    "nome": "Effetti ambientali",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "223-224",
+    "descrizione": "Gli ambienti estremi impongono rischi aggiuntivi come indebolimento, terreno difficile, cadute, oscuramento, svantaggi alle prove o interferenze con volo e attacchi a distanza.",
+    "sezioni": [
+      {
+        "titolo": "Pericoli ambientali",
+        "righe": [
+          { "chiave": "Acque gelide", "valore": "Dopo minuti pari alla Costituzione, ogni minuto richiede TS Costituzione CD 10 o 1 livello di indebolimento." },
+          { "chiave": "Acque profonde", "valore": "Dopo 1 ora oltre 30 metri, chi non ha velocita di nuoto supera TS Costituzione CD 10 o ottiene indebolimento." },
+          { "chiave": "Alta quota", "valore": "Oltre 3.000 metri ogni ora vale come 2 ore di viaggio; adattamento dopo 30 giorni, non oltre 6.000 metri salvo nativi." },
+          { "chiave": "Caldo estremo", "valore": "A 38 gradi o piu senza acqua, TS Costituzione ogni ora: CD 5 nella prima ora, +1 per ogni ora successiva." },
+          { "chiave": "Freddo estremo", "valore": "A -18 gradi o meno, TS Costituzione CD 10 ogni ora o 1 livello di indebolimento." },
+          { "chiave": "Ghiaccio scivoloso", "valore": "Terreno difficile; TS Destrezza CD 10 o prono quando ci si muove sopra per la prima volta in un turno o vi si inizia il turno." },
+          { "chiave": "Ghiaccio sottile", "valore": "Regge 3d10 x 5 kg per quadrato di 3 metri; se superato si rompe sopra acque gelide." },
+          { "chiave": "Precipitazioni abbondanti", "valore": "Area leggermente oscurata, svantaggio a Percezione e pioggia battente spegne fiamme scoperte." },
+          { "chiave": "Vento forte", "valore": "Svantaggio agli attacchi a distanza con armi, spegne fiamme, disperde nebbia e puo far cadere creature volanti." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "paura_e_stress_mentale",
+    "nome": "Paura e stress mentale",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "224-225",
+    "descrizione": "Paura e stress mentale sono regole opzionali da discutere con i giocatori all'inizio della campagna. La paura usa spesso la condizione spaventato; lo stress mentale usa spesso danni psichici.",
+    "sezioni": [
+      {
+        "titolo": "Paura e stress",
+        "righe": [
+          { "chiave": "Paura CD 10", "valore": "Evento innocuo ma terrificante." },
+          { "chiave": "Paura CD 15", "valore": "Manifestazione illusoria delle peggiori paure visibile solo al personaggio." },
+          { "chiave": "Paura CD 20", "valore": "Portale verso l'Abisso o scena soprannaturale estrema." },
+          { "chiave": "Stress CD 10", "valore": "Sostanza allucinogena: 1d6 danni psichici." },
+          { "chiave": "Stress CD 15", "valore": "Idolo immondo che attacca la psiche: 3d6 danni psichici." },
+          { "chiave": "Stress CD 20", "valore": "Trappola magica che spedisce nel Reame Remoto: 9d6 danni psichici." },
+          { "chiave": "Effetti prolungati", "valore": "Breve termine 1d10 minuti, lungo termine 1d10 x 10 ore o indefinito finche rimosso." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "veleno",
+    "nome": "Veleno",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "225-226",
+    "descrizione": "I veleni sono sostanze insidiose e spesso illegali. Possono essere da contatto, ferimento, inalazione o ingestione, e alcuni possono essere estratti da creature velenose.",
+    "sezioni": [
+      {
+        "titolo": "Tipi ed esempi",
+        "righe": [
+          { "chiave": "Contatto", "valore": "Cosparso su un oggetto, resta attivo finche viene toccato o lavato via." },
+          { "chiave": "Ferimento", "valore": "Applicato con azione bonus ad armi o munizioni, ha effetto quando viene trasmesso tramite una ferita." },
+          { "chiave": "Inalazione", "valore": "Polveri e gas colpiscono creature entro cubo di 1,5 metri; trattenere il respiro non basta." },
+          { "chiave": "Ingestione", "valore": "Richiede ingerire una dose intera; una dose parziale puo concedere vantaggio al TS o dimezzare i danni." },
+          { "chiave": "Estrazione", "valore": "1d6 minuti e prova Intelligenza (Natura) CD 20 con sostanze da avvelenatore; fallire di 5 o piu espone al veleno." },
+          { "chiave": "Veleno di verme purpureo", "valore": "2.000 mo, ferimento, CD 21; 10d6 danni da veleno o meta." },
+          { "chiave": "Veleno di viverna", "valore": "1.200 mo, ferimento, CD 14; 7d6 danni da veleno o meta." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "trappole",
+    "nome": "Trappole",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "227-230",
+    "descrizione": "Le trappole funzionano meglio se usate con parsimonia. Le migliori sono distrazioni superabili o enigmi mortali che richiedono attenzione, abilita e lavoro di squadra.",
+    "sezioni": [
+      {
+        "titolo": "Componenti ed esempi",
+        "righe": [
+          { "chiave": "Gravita e livelli", "valore": "Una trappola puo essere una seccatura o una minaccia mortale per personaggi di certi livelli." },
+          { "chiave": "Innesco", "valore": "Spesso si attiva entrando in un'area, toccando un oggetto, calpestando una piastra, tirando un cavo o aprendo una serratura." },
+          { "chiave": "Durata", "valore": "Puo essere istantanea, misurata in round/minuti/ore, o durare fino a distruzione o dissoluzione." },
+          { "chiave": "Ago avvelenato", "valore": "Serratura trappola; Percezione CD 15 per individuarlo, Rapidita di mano CD 15 per disattivarlo." },
+          { "chiave": "Crollo del tetto", "valore": "Cavo teso; TS Destrezza CD 13 o 2d10 danni contundenti e terreno difficile." },
+          { "chiave": "Dardi avvelenati", "valore": "Piastra a pressione; TS Destrezza CD 13 o 1d3 dardi da 1d6 veleno ciascuno." },
+          { "chiave": "Pietra rotolante", "valore": "Piastra a pressione; pietra con iniziativa +8, CA 17, 100 PF, soglia danno 10." },
+          { "chiave": "Statua del soffio di fuoco", "valore": "Piastra a pressione; cono di fuoco, glifo individuabile e disarmabile." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "combattimenti",
+    "nome": "Combattimenti",
+    "capitolo": "Strumenti di gioco",
+    "categoria": "Strumenti di gioco",
+    "pagine_sorgente": "230-231",
+    "descrizione": "La costruzione di combattimenti usa obiettivi di difficolta, budget di PE e scelta ragionata delle creature. Terreno, posizioni, gruppi misti e motivi per muoversi rendono gli incontri piu interessanti.",
+    "sezioni": [
+      {
+        "titolo": "Difficolta e gestione",
+        "righe": [
+          { "chiave": "Facile", "valore": "Dovrebbe essere vinto senza vittime, pur potendo richiedere risorse di guarigione." },
+          { "chiave": "Media", "valore": "Senza cure e risorse puo andare male; possibile eliminazione temporanea e bassa possibilita di morte." },
+          { "chiave": "Difficile", "valore": "Puo essere letale e richiede tattiche intelligenti, prontezza e fortuna." },
+          { "chiave": "Budget PE", "valore": "Moltiplica il valore per personaggio della tabella per il numero di personaggi, poi spendi PE senza superare il budget." },
+          { "chiave": "Molte creature", "valore": "Oltre due creature per personaggio aumenta il rischio di picchi di danno; usa creature deboli, soprattutto ai livelli 1-2." },
+          { "chiave": "GS 0", "valore": "Creature con GS 0, soprattutto da 0 PE, vanno usate con parsimonia; per molte creature usa sciami." },
+          { "chiave": "Schede statistiche", "valore": "Oltre due o tre schede diverse in un incontro puo essere scoraggiante." },
+          { "chiave": "Creature potenti", "valore": "Una creatura con GS superiore al livello del gruppo puo eliminare personaggi con una sola azione." }
+        ],
+        "blocchi": []
+      }
+    ]
   }
 ]

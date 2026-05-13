@@ -6,6 +6,8 @@ Aggiornamento: aggiunto anche il capitolo "Equipaggiamento", pagine 101-117.
 
 Aggiornamento: aggiunto anche il capitolo "Incantesimi", pagine 118-121.
 
+Aggiornamento: aggiunto anche il capitolo "Strumenti di gioco", pagine 220-231.
+
 Aggiornamento: aggiunto anche il capitolo "Oggetti magici", pagine 232-237.
 
 Aggiornamento: aggiunto anche il capitolo "Mostri", pagine 289-293.
@@ -1109,3 +1111,176 @@ Alcune sezioni della scheda di un mostro hanno regole specifiche per azioni bonu
 | X/giorno | La voce puo essere usata X volte e recupera gli usi consumati al termine di un riposo lungo. |
 | Ricarica X-Y | Dopo l'uso, all'inizio di ogni turno del mostro tira 1d6; se il risultato rientra nell'intervallo, l'uso torna disponibile. |
 | Ricarica dopo riposo | La voce puo essere usata una volta e torna disponibile dopo un riposo breve o lungo. |
+
+---
+
+## Passo di viaggio
+
+**id:** passo_di_viaggio
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 220
+
+Il terreno predominante determina il passo massimo di viaggio. Strade, velocita dei viaggiatori, viaggio prolungato, movimenti speciali e veicoli possono modificare il modo in cui il gruppo si sposta.
+
+### Fattori del viaggio
+
+| Voce | Riepilogo |
+| --- | --- |
+| Strade | Una strada in buone condizioni aumenta il passo massimo di un grado. |
+| Viaggiatori lenti | Il gruppo deve muoversi a passo lento se la velocita di un membro e ridotta alla meta o meno. |
+| Oltre 8 ore | Ogni ora extra richiede TS Costituzione o 1 livello di indebolimento; CD 10 + ore oltre l'ottava. |
+| Movimenti speciali | Chilometri all'ora = velocita divisa 2; passo veloce x 1,33; passo lento x 0,66. |
+| Veicoli | Si usa la velocita del veicolo in km/h e non si sceglie un passo di viaggio. |
+
+---
+
+## Creare un background
+
+**id:** creare_background
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 220-221
+
+Un background contestualizza la vita del personaggio prima dell'avventura. Il GM puo crearne o personalizzarne uno per riflettere il tema della campagna o del mondo.
+
+### Procedura
+
+| Passo | Riepilogo |
+| --- | --- |
+| Caratteristiche | Scegli tre caratteristiche appropriate. |
+| Talento | Scegli un talento della categoria Origini. |
+| Abilita | Scegli due abilita appropriate. |
+| Strumento | Scegli uno strumento associato al background. |
+| Equipaggiamento | Assembla un pacchetto da 50 mo, oro non speso incluso, senza armi da guerra o armature. |
+
+---
+
+## Maledizioni e contagi magici
+
+**id:** maledizioni_e_contagi_magici
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 221-223
+
+Le maledizioni sono fardelli magici che durano per un tempo specifico o finche non vengono rimossi. I contagi magici sono effetti avversi e contagiosi di origine magica.
+
+### Riepilogo
+
+| Voce | Riepilogo |
+| --- | --- |
+| Scagliare maledizione | Metro di paragone: durata 1 minuto come livello 3, fino a dissoluzione come livello 9. |
+| Creature maledette | Il GM decide come rimuovi maledizione interagisce con origini maledette. |
+| Maledizioni narrative | Punizioni divine o violazioni di tabu con causa e possibile espiazione. |
+| Possessione demoniaca | TS Carisma CD 15; un'entita puo controllare la creatura quando ottiene 1 a una prova con d20. |
+| Convalescenza | Dopo 3 giorni, TS Costituzione CD 15 per ottenere vantaggio contro il contagio per 24 ore. |
+
+---
+
+## Effetti ambientali
+
+**id:** effetti_ambientali
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 223-224
+
+Gli ambienti estremi impongono rischi aggiuntivi come indebolimento, terreno difficile, cadute, oscuramento, svantaggi alle prove o interferenze con volo e attacchi a distanza.
+
+### Pericoli ambientali
+
+| Pericolo | Riepilogo |
+| --- | --- |
+| Acque gelide | Dopo minuti pari alla Costituzione, TS Costituzione CD 10 ogni minuto o indebolimento. |
+| Alta quota | Oltre 3.000 metri ogni ora vale come 2 ore di viaggio. |
+| Caldo estremo | A 38 gradi o piu senza acqua, TS Costituzione ogni ora, CD 5 + ore successive. |
+| Freddo estremo | A -18 gradi o meno, TS Costituzione CD 10 ogni ora o indebolimento. |
+| Ghiaccio scivoloso | Terreno difficile; TS Destrezza CD 10 o prono. |
+| Vento forte | Svantaggio agli attacchi a distanza con armi, spegne fiamme e puo far cadere creature volanti. |
+
+---
+
+## Paura e stress mentale
+
+**id:** paura_e_stress_mentale
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 224-225
+
+Paura e stress mentale sono regole opzionali da discutere con i giocatori all'inizio della campagna. La paura usa spesso la condizione spaventato; lo stress mentale usa spesso danni psichici.
+
+### Esempi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Paura CD 10 | Evento innocuo ma terrificante. |
+| Paura CD 15 | Manifestazione illusoria delle peggiori paure. |
+| Paura CD 20 | Portale verso l'Abisso o scena estrema. |
+| Stress CD 10 | Sostanza allucinogena: 1d6 danni psichici. |
+| Stress CD 15 | Idolo immondo: 3d6 danni psichici. |
+| Stress CD 20 | Trappola verso il Reame Remoto: 9d6 danni psichici. |
+| Effetti prolungati | Breve termine, lungo termine o indefinito finche rimosso. |
+
+---
+
+## Veleno
+
+**id:** veleno
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 225-226
+
+I veleni sono sostanze insidiose e spesso illegali. Possono essere da contatto, ferimento, inalazione o ingestione, e alcuni possono essere estratti da creature velenose.
+
+### Tipi ed esempi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Contatto | Resta attivo finche viene toccato o lavato via. |
+| Ferimento | Applicato con azione bonus, agisce tramite ferita. |
+| Inalazione | Colpisce creature entro cubo di 1,5 metri; trattenere il respiro non basta. |
+| Ingestione | Richiede dose intera, con possibili effetti ridotti per dosi parziali. |
+| Estrazione | 1d6 minuti e prova Intelligenza (Natura) CD 20 con sostanze da avvelenatore. |
+
+---
+
+## Trappole
+
+**id:** trappole
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 227-230
+
+Le trappole funzionano meglio se usate con parsimonia. Le migliori sono distrazioni superabili o enigmi mortali che richiedono attenzione, abilita e lavoro di squadra.
+
+### Componenti ed esempi
+
+| Voce | Riepilogo |
+| --- | --- |
+| Gravita e livelli | Seccatura o minaccia mortale per personaggi di certi livelli. |
+| Innesco | Area, oggetto, piastra, cavo, serratura o altra condizione. |
+| Durata | Istantanea, misurata, fino a distruzione o dissoluzione. |
+| Ago avvelenato | Percezione CD 15 per individuarlo, Rapidita di mano CD 15 per disattivarlo. |
+| Pietra rotolante | Pietra con iniziativa +8, CA 17, 100 PF e soglia danno 10. |
+| Statua del soffio di fuoco | Piastra a pressione, cono di fuoco e glifo disarmabile. |
+
+---
+
+## Combattimenti
+
+**id:** combattimenti
+**capitolo:** Strumenti di gioco
+**categoria:** Strumenti di gioco
+**pagine_sorgente:** 230-231
+
+La costruzione di combattimenti usa obiettivi di difficolta, budget di PE e scelta ragionata delle creature. Terreno, posizioni, gruppi misti e motivi per muoversi rendono gli incontri piu interessanti.
+
+### Difficolta e gestione
+
+| Voce | Riepilogo |
+| --- | --- |
+| Facile | Vittoria senza vittime, possibile consumo di risorse di guarigione. |
+| Media | Puo andare male senza cure e risorse; minima possibilita di morte. |
+| Difficile | Potenzialmente letale, richiede tattiche e fortuna. |
+| Budget PE | Moltiplica il valore per personaggio per il numero di personaggi e spendi senza sforare. |
+| Molte creature | Oltre due creature per personaggio aumenta il rischio di picchi di danno. |
+| Creature potenti | GS superiore al livello del gruppo puo eliminare personaggi con una sola azione. |
