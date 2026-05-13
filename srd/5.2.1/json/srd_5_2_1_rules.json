@@ -249,5 +249,298 @@
         ]
       }
     ]
+  },
+  {
+    "id": "monete_e_commercio",
+    "nome": "Monete e commercio",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "101",
+    "descrizione": "Le monete sono la valuta principale degli avventurieri. L'equipaggiamento puo essere rivenduto a meta del prezzo d'acquisto, mentre merci, pietre preziose e opere d'arte mantengono il loro valore di mercato.",
+    "sezioni": [
+      {
+        "titolo": "Valore della moneta",
+        "righe": [
+          { "chiave": "Moneta di rame (mr)", "valore": "1/100 mo" },
+          { "chiave": "Moneta d'argento (ma)", "valore": "1/10 mo" },
+          { "chiave": "Moneta di electrum (me)", "valore": "1/2 mo" },
+          { "chiave": "Moneta d'oro (mo)", "valore": "1 mo" },
+          { "chiave": "Moneta di platino (mp)", "valore": "10 mo" }
+        ],
+        "blocchi": [
+          { "nome": "Peso", "descrizione": "Una moneta pesa circa dieci grammi; cinquanta monete pesano circa mezzo chilogrammo." },
+          { "nome": "Rivendita", "descrizione": "L'equipaggiamento si rivende normalmente a meta prezzo. Merci e oggetti di valore preservano il valore di mercato." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "armi",
+    "nome": "Armi",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "101-104",
+    "descrizione": "Le armi sono divise in semplici e da guerra, da mischia o a distanza. La competenza consente di aggiungere il bonus di competenza al tiro per colpire.",
+    "sezioni": [
+      {
+        "titolo": "Categorie e uso",
+        "righe": [
+          { "chiave": "Categoria", "valore": "Semplice o da guerra; le competenze nelle armi sono spesso legate a queste categorie." },
+          { "chiave": "Tipo", "valore": "Da mischia per bersagli entro 1,5 metri; a distanza per attaccare piu lontano." },
+          { "chiave": "Danni", "valore": "Ogni arma indica dado e tipo di danno." },
+          { "chiave": "Padronanza", "valore": "Ogni arma ha una proprieta di padronanza usabile solo con il privilegio appropriato." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Proprieta comuni",
+        "righe": [
+          { "chiave": "Accurata", "valore": "Usa Forza o Destrezza per tiro per colpire e danni, scegliendo lo stesso modificatore." },
+          { "chiave": "A due mani", "valore": "Richiede due mani quando l'arma viene usata per attaccare." },
+          { "chiave": "Gittata", "valore": "Indica gittata normale e lunga; oltre la normale si attacca con svantaggio, oltre la lunga non si attacca." },
+          { "chiave": "Lancio", "valore": "L'arma puo essere scagliata effettuando un attacco a distanza." },
+          { "chiave": "Leggera", "valore": "Permette un attacco con azione bonus se si attacca con un'altra arma leggera." },
+          { "chiave": "Munizioni", "valore": "Richiede munizioni, consumate a ogni attacco; dopo il combattimento se ne recupera meta arrotondata per difetto." },
+          { "chiave": "Pesante", "valore": "Richiede Forza 13 per armi pesanti da mischia o Destrezza 13 per armi pesanti a distanza, altrimenti i tiri per colpire hanno svantaggio." },
+          { "chiave": "Portata", "valore": "Aggiunge 1,5 metri alla portata per attaccare e per gli attacchi di opportunita." },
+          { "chiave": "Ricarica", "valore": "Consente una sola munizione quando si usa un'azione, azione bonus o reazione per fare fuoco." },
+          { "chiave": "Versatile", "valore": "Puo essere usata a una o due mani; a due mani usa il danno indicato tra parentesi." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Proprieta di padronanza",
+        "righe": [
+          { "chiave": "Colpo di striscio", "valore": "Un mancato contro una creatura puo infliggere danni pari al modificatore di caratteristica usato per colpire." },
+          { "chiave": "Doppio fendente", "valore": "Dopo un colpo in mischia, permette un secondo attacco contro un bersaglio entro 1,5 metri dal primo, una volta per turno." },
+          { "chiave": "Fiaccare", "valore": "Il bersaglio colpito ha svantaggio al prossimo tiro per colpire prima del tuo prossimo turno." },
+          { "chiave": "Graffio", "valore": "L'attacco extra della proprieta leggera puo fare parte dell'azione di Attacco invece che dell'azione bonus, una volta per turno." },
+          { "chiave": "Lentezza", "valore": "Riduce la velocita della creatura colpita di 3 metri fino all'inizio del tuo prossimo turno." },
+          { "chiave": "Rovesciamento", "valore": "Puo far cadere prono il bersaglio se non supera il tiro salvezza richiesto." },
+          { "chiave": "Spinta", "valore": "Puo spingere una creatura Grande o inferiore di almeno 3 metri." },
+          { "chiave": "Vessazione", "valore": "Dopo aver colpito e inflitto danni, hai vantaggio al prossimo tiro per colpire contro quella creatura prima della fine del tuo prossimo turno." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "armature",
+    "nome": "Armature",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "104-105",
+    "descrizione": "Le armature determinano la Classe Armatura di base e sono divise in leggere, medie e pesanti. Uno scudo fornisce un bonus alla CA se chi lo usa ha la competenza appropriata.",
+    "sezioni": [
+      {
+        "titolo": "Classi armatura",
+        "righe": [
+          { "chiave": "Armature leggere", "valore": "Imbottita 11 + Des con svantaggio a Furtivita; cuoio 11 + Des; cuoio borchiato 12 + Des." },
+          { "chiave": "Armature medie", "valore": "Usano il modificatore di Destrezza massimo +2; includono pelle, giaco di maglia, corazza a scaglie, corazza di piastre e mezza armatura." },
+          { "chiave": "Armature pesanti", "valore": "Corazza ad anelli CA 14, cotta di maglia CA 16, corazza a strisce CA 17, armatura a piastre CA 18." },
+          { "chiave": "Scudo", "valore": "+2 alla CA; richiede un'azione di Utilizzo per indossarlo o toglierlo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Regole di competenza",
+        "righe": [],
+        "blocchi": [
+          { "nome": "Forza", "descrizione": "Se un'armatura indica un requisito di Forza, la velocita del portatore si riduce di 3 metri se il punteggio e inferiore." },
+          { "nome": "Furtivita", "descrizione": "La voce Svantaggio nella tabella impone svantaggio alle prove di Destrezza (Furtivita)." },
+          { "nome": "Senza competenza", "descrizione": "Indossare armatura leggera, media o pesante senza competenza impone svantaggio alle prove con d20 di Forza o Destrezza e impedisce di lanciare incantesimi." },
+          { "nome": "Una alla volta", "descrizione": "Una creatura puo indossare una sola armatura e impugnare un solo scudo alla volta." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "strumenti",
+    "nome": "Strumenti",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "105-107",
+    "descrizione": "Gli strumenti aiutano nelle prove di caratteristica, nella creazione di oggetti o in entrambe le cose. Ogni strumento indica caratteristica, utilizzi, creazioni ed eventuali varianti.",
+    "sezioni": [
+      {
+        "titolo": "Regole generali",
+        "righe": [
+          { "chiave": "Competenza", "valore": "Se una creatura ha competenza nello strumento, aggiunge il bonus di competenza alle prove effettuate con esso." },
+          { "chiave": "Abilita e strumento", "valore": "Se la creatura e competente anche nell'abilita usata per la prova, effettua la prova con vantaggio." },
+          { "chiave": "Utilizzo", "valore": "Lo strumento puo fornire una o piu opzioni per l'azione di Utilizzo, spesso con CD indicata." },
+          { "chiave": "Creazioni", "valore": "Lo strumento elenca oggetti che puo aiutare a creare secondo le regole di creazione." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Esempi di strumenti",
+        "righe": [
+          { "chiave": "Scorte da alchimista", "valore": "Intelligenza; identificare sostanze o appiccare fuoco; crea acido, fuoco dell'alchimista e altri oggetti." },
+          { "chiave": "Strumenti da fabbro", "valore": "Forza; forzare porte o contenitori; crea molte armi, armature medie e pesanti e oggetti metallici." },
+          { "chiave": "Strumenti da falegname", "valore": "Forza; sigillare o forzare contenitori; crea oggetti di legno come aste, barili e scale." },
+          { "chiave": "Arnesi da scasso", "valore": "Destrezza; scassinare serrature o disattivare trappole." },
+          { "chiave": "Borsa da erborista", "valore": "Intelligenza; identificare piante; crea antitossina, candele e pozioni di guarigione." },
+          { "chiave": "Strumento musicale", "valore": "Carisma; suonare o improvvisare; ogni variante richiede competenza separata." },
+          { "chiave": "Trucchi per il camuffamento", "valore": "Carisma; truccarsi; crea costumi." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "equipaggiamento_avventura",
+    "nome": "Equipaggiamento d'avventura",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "107-113",
+    "descrizione": "L'equipaggiamento d'avventura raccoglie attrezzi, contenitori, dotazioni, focus, munizioni e oggetti di consumo usati spesso durante l'esplorazione.",
+    "sezioni": [
+      {
+        "titolo": "Oggetti notevoli",
+        "righe": [
+          { "chiave": "Acido", "valore": "Come parte dell'azione di Attacco, una fiala puo infliggere 2d6 danni da acido se il bersaglio fallisce un TS su Destrezza." },
+          { "chiave": "Acqua santa", "valore": "Lanciata contro immondi o non morti puo infliggere 2d8 danni radiosi su TS su Destrezza fallito." },
+          { "chiave": "Antitossina", "valore": "Come azione bonus, fornisce vantaggio ai tiri salvezza per evitare o interrompere avvelenato." },
+          { "chiave": "Borsa del guaritore", "valore": "Ha dieci usi; con un'azione di Utilizzo stabilizza una creatura a 0 PF senza prova di Medicina." },
+          { "chiave": "Fuoco dell'alchimista", "valore": "Puo incendiare un bersaglio e infliggere 1d4 danni da fuoco." },
+          { "chiave": "Olio", "valore": "Puo coprire bersagli o superfici e aggiungere o infliggere danni da fuoco; alimenta lampade e lanterne per 6 ore." },
+          { "chiave": "Pozione di guarigione", "valore": "Oggetto magico bevuto o somministrato come azione bonus; fa recuperare 2d4 + 2 PF." },
+          { "chiave": "Rete", "valore": "Puo trattenere una creatura entro 4,5 metri se fallisce un TS su Destrezza; una creatura Enorme o superiore supera automaticamente." },
+          { "chiave": "Triboli", "valore": "Coprono un'area di 1,5 metri quadrati; possono infliggere 1 danno perforante e ridurre la velocita a 0." },
+          { "chiave": "Veleno base", "valore": "Come azione bonus si applica a un'arma o a tre munizioni; aggiunge 1d4 danni da veleno." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Focus e munizioni",
+        "righe": [
+          { "chiave": "Focus arcano", "valore": "Bacchetta, bastone, cristallo, globo o verga per maghi, stregoni e warlock." },
+          { "chiave": "Focus druidico", "valore": "Bacchetta di tasso, bastone di legno o rametto di vischio per druidi e ranger." },
+          { "chiave": "Simbolo sacro", "valore": "Amuleto, emblema o reliquiario usato da chierici e paladini come focus da incantatore." },
+          { "chiave": "Munizioni", "valore": "Aghi, frecce, proiettili per arma da fuoco, proiettili da fionda e quadrelli hanno quantita, contenitore, peso e costo propri." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "cavalcature_e_veicoli",
+    "nome": "Cavalcature e veicoli",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "113-114",
+    "descrizione": "Cavalcature, veicoli da tiro, veicoli aerei e imbarcazioni permettono di trasportare creature e carichi. Gli animali da tiro possono spostare cinque volte la loro capacita di trasporto quando trainano veicoli adatti.",
+    "sezioni": [
+      {
+        "titolo": "Cavalcature",
+        "righe": [
+          { "chiave": "Cammello", "valore": "Capacita 225 kg; costo 50 mo." },
+          { "chiave": "Cavallo da galoppo", "valore": "Capacita 240 kg; costo 75 mo." },
+          { "chiave": "Cavallo da guerra", "valore": "Capacita 270 kg; costo 400 mo." },
+          { "chiave": "Cavallo da tiro", "valore": "Capacita 270 kg; costo 50 mo." },
+          { "chiave": "Elefante", "valore": "Capacita 660 kg; costo 200 mo." },
+          { "chiave": "Mastino", "valore": "Capacita 97,5 kg; costo 25 mo." },
+          { "chiave": "Mulo", "valore": "Capacita 210 kg; costo 8 mo." },
+          { "chiave": "Pony", "valore": "Capacita 112,5 kg; costo 30 mo." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Regole e veicoli",
+        "righe": [
+          { "chiave": "Bardatura", "valore": "Qualsiasi armatura puo essere acquistata come bardatura: costa quattro volte il normale e pesa il doppio." },
+          { "chiave": "Sella militare", "valore": "Conferisce vantaggio alle prove per non farsi disarcionare." },
+          { "chiave": "Veicoli da tiro", "valore": "Biga, carretto, carro, carrozza e slitta hanno peso e costo specifici." },
+          { "chiave": "Veicoli grandi", "valore": "Navi e veicoli aerei indicano velocita, equipaggio, passeggeri, carico, CA, PF, soglia di danno e costo." },
+          { "chiave": "Riparazioni", "valore": "Riparare una nave richiede normalmente 1 giorno e 20 mo per punto ferita; in cantiere navale tempo e costo si dimezzano." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "spese_servizi_e_stile_di_vita",
+    "nome": "Spese, servizi e stile di vita",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "114-115",
+    "descrizione": "Le spese dello stile di vita coprono vitto, alloggio, manutenzione dell'attrezzatura e bisogni ordinari. Il GM puo usarle per determinare rischi e percezione sociale.",
+    "sezioni": [
+      {
+        "titolo": "Stili di vita",
+        "righe": [
+          { "chiave": "Miserabile", "valore": "Gratis." },
+          { "chiave": "Squallido", "valore": "1 ma al giorno." },
+          { "chiave": "Povero", "valore": "2 ma al giorno." },
+          { "chiave": "Modesto", "valore": "1 mo al giorno." },
+          { "chiave": "Agiato", "valore": "2 mo al giorno." },
+          { "chiave": "Ricco", "valore": "4 mo al giorno." },
+          { "chiave": "Aristocratico", "valore": "10 mo al giorno." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Servizi",
+        "righe": [
+          { "chiave": "Gregario abile", "valore": "2 mo al giorno." },
+          { "chiave": "Gregario inesperto", "valore": "2 ma al giorno." },
+          { "chiave": "Messaggero", "valore": "2 mr per 1,5 km." },
+          { "chiave": "Servizi magici: trucchetto", "valore": "Disponibile in villaggio, cittadina o citta; costo 30 mo." },
+          { "chiave": "Servizi magici: livello 1", "valore": "Disponibile in villaggio, cittadina o citta; costo 50 mo." },
+          { "chiave": "Servizi magici: livello 2", "valore": "Disponibile in villaggio, cittadina o citta; costo 200 mo." },
+          { "chiave": "Servizi magici: livello 3", "valore": "Solo cittadina o citta; costo 300 mo." },
+          { "chiave": "Servizi magici: livelli 4-5", "valore": "Solo cittadina o citta; costo 2.000 mo." },
+          { "chiave": "Servizi magici: livelli 6-8", "valore": "Solo citta; costo 20.000 mo." },
+          { "chiave": "Servizi magici: livello 9", "valore": "Solo citta; costo 100.000 mo." }
+        ],
+        "blocchi": []
+      }
+    ]
+  },
+  {
+    "id": "oggetti_magici_e_creazione",
+    "nome": "Oggetti magici e creazione",
+    "capitolo": "Equipaggiamento",
+    "categoria": "Equipaggiamento",
+    "pagine_sorgente": "115-117",
+    "descrizione": "Il capitolo equipaggiamento riepiloga identificazione e sintonia degli oggetti magici, oltre alle regole per creare oggetti non magici, pozioni di guarigione e pergamene magiche.",
+    "sezioni": [
+      {
+        "titolo": "Oggetti magici",
+        "righe": [
+          { "chiave": "Identificare", "valore": "L'incantesimo identificare e il metodo piu rapido; in alternativa un riposo breve a contatto con l'oggetto ne rivela proprieta e uso, ma non le maledizioni." },
+          { "chiave": "Sintonia", "valore": "Richiede un riposo breve concentrandosi sull'oggetto e mantenendo contatto fisico; non puo coincidere con il riposo usato per identificarlo." },
+          { "chiave": "Limite", "valore": "Una creatura puo essere in sintonia con al massimo tre oggetti magici e non con piu copie dello stesso oggetto." },
+          { "chiave": "Fine sintonia", "valore": "Termina se i prerequisiti non sono piu soddisfatti, l'oggetto resta oltre 30 metri per almeno 24 ore, il portatore muore, un'altra creatura entra in sintonia o il portatore termina volontariamente la sintonia." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Creazione",
+        "righe": [
+          { "chiave": "Oggetti non magici", "valore": "Richiedono strumento, competenza, materie prime pari a meta del costo e tempo pari al costo in mo diviso 10 giorni, arrotondando in alto." },
+          { "chiave": "Aiuto", "valore": "Piu personaggi competenti possono ridurre il tempo dividendo i giorni necessari per il numero di lavoratori." },
+          { "chiave": "Pozione di guarigione", "valore": "Con competenza nella borsa da erborista: 25 mo di materie prime e 1 giorno di lavoro." },
+          { "chiave": "Pergamene magiche", "valore": "Richiedono competenza in Arcano o scorte da calligrafo, incantesimo preparato e componenti materiali richieste." }
+        ],
+        "blocchi": []
+      },
+      {
+        "titolo": "Costi pergamene magiche",
+        "righe": [
+          { "chiave": "Trucchetto", "valore": "1 giorno, 15 mo." },
+          { "chiave": "1", "valore": "1 giorno, 25 mo." },
+          { "chiave": "2", "valore": "3 giorni, 100 mo." },
+          { "chiave": "3", "valore": "5 giorni, 150 mo." },
+          { "chiave": "4", "valore": "10 giorni, 1.000 mo." },
+          { "chiave": "5", "valore": "25 giorni, 1.500 mo." },
+          { "chiave": "6", "valore": "40 giorni, 10.000 mo." },
+          { "chiave": "7", "valore": "50 giorni, 12.500 mo." },
+          { "chiave": "8", "valore": "60 giorni, 15.000 mo." },
+          { "chiave": "9", "valore": "120 giorni, 50.000 mo." }
+        ],
+        "blocchi": []
+      }
+    ]
   }
 ]
