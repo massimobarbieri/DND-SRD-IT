@@ -628,3 +628,336 @@ Qualsiasi essere nel gioco, incluso un personaggio giocante, è una creatura.
 **pagine_sorgente:** 206
 
 Un cubo è un'area di effetto che si estende in linee rette da un punto di origine su una delle sue facce. La dimensione è la lunghezza di ogni lato. Il punto di origine non è incluso salvo scelta contraria del creatore.
+
+---
+
+## Dadi Vita
+
+**id:** dadi_vita
+**lettera:** D
+**descrittore:** null
+**pagine_sorgente:** 207
+**vedi_anche:** riposo_breve
+
+I Dadi Vita aiutano a determinare i punti ferita massimi di un personaggio e possono essere spesi durante un riposo breve per recuperare punti ferita.
+
+---
+
+## Danni
+
+**id:** danni
+**lettera:** D
+**descrittore:** null
+**pagine_sorgente:** 207
+
+I danni rappresentano ciò che fa perdere punti ferita a creature e oggetti colpiti.
+
+---
+
+## Disidratazione
+
+**id:** disidratazione
+**lettera:** D
+**descrittore:** pericolo
+**pagine_sorgente:** 207
+**vedi_anche:** indebolimento
+
+Una creatura che beve meno della metà dell'acqua necessaria in un giorno ottiene 1 livello di indebolimento alla fine della giornata. L'indebolimento da disidratazione si rimuove solo bevendo l'intera quantità richiesta in un giorno.
+
+### Fabbisogno d'acqua giornaliero
+
+| Taglia | Acqua |
+| --- | --- |
+| Minuscola | 1 litro |
+| Piccola | 4 litri |
+| Media | 4 litri |
+| Grande | 16 litri |
+| Enorme | 64 litri |
+| Mastodontica | 256 litri |
+
+---
+
+## Disimpegno
+
+**id:** disimpegno
+**lettera:** D
+**descrittore:** azione
+**pagine_sorgente:** 207
+
+Se una creatura effettua l'azione di Disimpegno, il suo movimento non provoca attacchi di opportunità per il resto del turno.
+
+---
+
+## Effetti simultanei
+
+**id:** effetti_simultanei
+**lettera:** E
+**descrittore:** null
+**pagine_sorgente:** 207
+
+Se due o più eventi accadono nello stesso momento in un turno, chi sta giocando quel turno decide l'ordine degli eventi.
+
+---
+
+## Effetto magico
+
+**id:** effetto_magico
+**lettera:** E
+**descrittore:** null
+**pagine_sorgente:** 207
+
+Un effetto è magico se viene creato da un incantesimo, da un oggetto magico o da un fenomeno che una regola definisce magico.
+
+---
+
+## Emanazione
+
+**id:** emanazione
+**lettera:** E
+**descrittore:** area di effetto
+**pagine_sorgente:** 207
+
+Un'emanazione è un'area di effetto che si estende in linee rette da una creatura o da un oggetto in tutte le direzioni. Di norma si muove con la propria origine. L'origine non è inclusa salvo scelta contraria del creatore.
+
+---
+
+## Fluttuare
+
+**id:** fluttuare
+**lettera:** F
+**descrittore:** null
+**pagine_sorgente:** 207
+**vedi_anche:** volare
+
+Una creatura che fluttua mentre è in volo evita di cadere in determinate circostanze, secondo la regola o l'effetto che le concede tale capacità.
+
+---
+
+## Focus da incantatore
+
+**id:** focus_da_incantatore
+**lettera:** F
+**descrittore:** null
+**pagine_sorgente:** 207
+**vedi_anche:** incantesimo
+
+Un focus da incantatore può sostituire componenti materiali di un incantesimo se tali materiali non sono consumati e non hanno un costo specificato.
+
+---
+
+## Grado di sfida
+
+**id:** grado_di_sfida
+**lettera:** G
+**descrittore:** null
+**pagine_sorgente:** 207
+**vedi_anche:** scheda_delle_statistiche
+
+Il grado di sfida (GS) indica quanto è grave la minaccia di un mostro per un gruppo di quattro personaggi. Circostanze e numero di personaggi possono modificare la minaccia effettiva.
+
+---
+
+## Guarigione
+
+**id:** guarigione
+**lettera:** G
+**descrittore:** null
+**pagine_sorgente:** 207
+**vedi_anche:** danni_e_guarigione
+
+La guarigione è il modo in cui una creatura recupera punti ferita.
+
+---
+
+## Illusioni
+
+**id:** illusioni
+**lettera:** I
+**descrittore:** null
+**pagine_sorgente:** 207
+
+Incantesimi e altri effetti possono creare illusioni magiche. La descrizione dell'effetto stabilisce cosa fa l'illusione e in che modo inganna sensi o facoltà mentali.
+
+---
+
+## Immunità
+
+**id:** immunita
+**lettera:** I
+**descrittore:** null
+**pagine_sorgente:** 208
+
+Se una creatura è immune a un tipo di danno o a una condizione, non ne subisce gli effetti.
+
+---
+
+## Incantesimo
+
+**id:** incantesimo
+**lettera:** I
+**descrittore:** null
+**pagine_sorgente:** 208
+
+Un incantesimo è un effetto magico con le caratteristiche descritte nel capitolo Incantesimi.
+
+---
+
+## Incapacitato
+
+**id:** incapacitato
+**lettera:** I
+**descrittore:** condizione
+**pagine_sorgente:** 208
+
+Condizione che impedisce azioni e concentrazione.
+
+### Effetti
+
+**Inattività**
+La creatura non può effettuare azioni, azioni bonus o reazioni.
+
+**Nessuna concentrazione**
+La concentrazione della creatura è interrotta.
+
+**Senza parole**
+La creatura non può parlare.
+
+**Sorpresa**
+Se è incapacitata quando tira per l'iniziativa, subisce svantaggio al tiro.
+
+---
+
+## Incontro
+
+**id:** incontro
+**lettera:** I
+**descrittore:** null
+**pagine_sorgente:** 208
+**vedi_anche:** interazioni_sociali, esplorazione, combattimento
+
+Un incontro è una scena di un'avventura appartenente ad almeno uno dei tre pilastri del gioco: interazioni sociali, esplorazione o combattimento.
+
+---
+
+## Indebolimento
+
+**id:** indebolimento
+**lettera:** I
+**descrittore:** condizione
+**pagine_sorgente:** 208
+
+Condizione cumulativa che rappresenta deterioramento fisico o mentale.
+
+### Effetti
+
+**Livelli di indebolimento**
+Ogni volta che ricevi questa condizione ottieni 1 livello. A 6 livelli muori.
+
+**Influenza sulle prove con d20**
+Quando effettui una prova con d20, il risultato è ridotto del doppio del tuo livello di indebolimento.
+
+**Velocità ridotta**
+La velocità è ridotta di 1,5 metri per livello di indebolimento.
+
+**Rimozione dei livelli**
+Terminando un riposo lungo perdi 1 livello di indebolimento. A livello 0 la condizione termina.
+
+---
+
+## Indifferente
+
+**id:** indifferente
+**lettera:** I
+**descrittore:** atteggiamento
+**pagine_sorgente:** 208
+**vedi_anche:** influenza
+
+Una creatura indifferente non desidera aiutare né ostacolare il personaggio. È l'atteggiamento predefinito dei mostri.
+
+---
+
+## In fiamme
+
+**id:** in_fiamme
+**lettera:** I
+**descrittore:** pericolo
+**pagine_sorgente:** 208
+
+Una creatura o un oggetto in fiamme subisce 1d4 danni da fuoco all'inizio di ogni suo turno. Una creatura può usare un'azione per gettarsi prona e rotolare per estinguere le fiamme.
+
+---
+
+## Influenza
+
+**id:** influenza
+**lettera:** I
+**descrittore:** azione
+**pagine_sorgente:** 208-209
+
+Con l'azione di Influenza, una creatura esorta un mostro a fare qualcosa. Il GM stabilisce se il mostro è ben disposto, maldisposto o esitante.
+
+### Esiti
+
+**Ben disposto**
+Se la richiesta si allinea ai desideri del mostro, il mostro la soddisfa senza prova.
+
+**Maldisposto**
+Se la richiesta è sgradita o contraria all'allineamento del mostro, il mostro rifiuta senza prova.
+
+**Esitante**
+Se il mostro esita, serve una prova di caratteristica con CD 15 o pari all'Intelligenza del mostro, scegliendo il valore più alto.
+
+### Prove di Influenza
+
+| Prova | Interazione |
+| --- | --- |
+| Carisma (Inganno) | Ingannare un mostro che capisce il personaggio |
+| Carisma (Intimidire) | Intimidire un mostro |
+| Carisma (Intrattenere) | Intrattenere un mostro |
+| Carisma (Persuasione) | Persuadere un mostro che capisce il personaggio |
+| Saggezza (Addestrare animali) | Persuadere gentilmente una bestia o una mostruosità |
+
+---
+
+## Iniziativa
+
+**id:** iniziativa
+**lettera:** I
+**descrittore:** null
+**pagine_sorgente:** 208-209
+**vedi_anche:** combattimento
+
+L'iniziativa determina l'ordine dei turni in combattimento. Il punteggio di iniziativa è 10 + modificatore di Destrezza, modificato di +5 con vantaggio o -5 con svantaggio.
+
+---
+
+## Invisibile
+
+**id:** invisibile
+**lettera:** I
+**descrittore:** condizione
+**pagine_sorgente:** 209
+
+Condizione di chi non può essere visto normalmente.
+
+### Effetti
+
+**Sorpresa**
+Se la creatura è invisibile quando tira per l'iniziativa, ha vantaggio al tiro.
+
+**Occultamento**
+La creatura non è influenzata da effetti che richiedono vista del bersaglio, salvo che il creatore dell'effetto riesca a vederla.
+
+**Influenza sugli attacchi**
+I tiri per colpire contro la creatura hanno svantaggio e i suoi tiri per colpire hanno vantaggio, salvo contro creature che riescono a vederla.
+
+---
+
+## Ispirazione eroica
+
+**id:** ispirazione_eroica
+**lettera:** I
+**descrittore:** null
+**pagine_sorgente:** 209
+
+Un personaggio con Ispirazione eroica può spenderla per ripetere il tiro di un dado subito dopo averlo tirato, usando obbligatoriamente il nuovo risultato. Se la ottiene quando già la possiede, può donarla a un personaggio che non ce l'ha.
