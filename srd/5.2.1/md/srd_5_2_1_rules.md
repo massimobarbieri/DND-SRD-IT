@@ -847,7 +847,7 @@ Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica
 
 ### Sottoclasse del barbaro: Cammino del berserker
 
-Incanala l ira in furia violenta
+Incanala l'ira in furia violenta
 
 | Livello | Privilegio | Riepilogo |
 | --- | --- | --- |

@@ -990,7 +990,7 @@
       },
       {
         "titolo": "Sottoclasse del barbaro: Cammino del berserker",
-        "descrizione": "Incanala l ira in furia violenta",
+        "descrizione": "Incanala l'ira in furia violenta",
         "colonne": ["Livello", "Privilegio", "Riepilogo"],
         "righe": [
           { "Livello": "3", "Privilegio": "Frenesia", "Riepilogo": "Con Attacco irruento durante l ira infligge d6 extra pari al bonus Danni dell ira al primo bersaglio colpito." },
