@@ -1712,7 +1712,7 @@
       },
       {
         "titolo": "Sottoclasse del guerriero: Campione",
-        "descrizione": "Raggiungi l eccellenza fisica nel combattimento",
+        "descrizione": "Raggiungi l'eccellenza fisica nel combattimento",
         "colonne": ["Livello", "Privilegio", "Riepilogo"],
         "righe": [
           { "Livello": "3", "Privilegio": "Critico migliorato", "Riepilogo": "Colpo critico con armi e colpi senz armi su 19-20." },

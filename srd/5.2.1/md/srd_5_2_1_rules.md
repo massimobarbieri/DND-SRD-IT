@@ -1542,7 +1542,7 @@ Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza 
 
 ### Sottoclasse del guerriero: Campione
 
-Raggiungi l eccellenza fisica nel combattimento
+Raggiungi l'eccellenza fisica nel combattimento
 
 | Livello | Privilegio | Riepilogo |
 | --- | --- | --- |
