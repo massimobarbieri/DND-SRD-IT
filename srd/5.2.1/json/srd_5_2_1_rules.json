@@ -2282,9 +2282,9 @@
         "righe": [
           { "Livello": "3", "Privilegio": "Incantesimi del Giuramento di devozione", "Riepilogo": "Gli incantesimi della tabella sono sempre preparati." },
           { "Livello": "3", "Privilegio": "Arma consacrata", "Riepilogo": "Spende Incanalare divinita per aggiungere Carisma ai tiri per colpire e rendere radiosi i danni." },
-          { "Livello": "7", "Privilegio": "Aura di devozione", "Riepilogo": "Il paladino e gli alleati nell Aura di protezione non possono essere affascinati." },
-          { "Livello": "15", "Privilegio": "Punizione protettiva", "Riepilogo": "Dopo punizione divina, il paladino e gli alleati nell Aura ottengono mezza copertura." },
-          { "Livello": "20", "Privilegio": "Nube sacra", "Riepilogo": "Potenzia l Aura con danni radiosi, luce solare e vantaggio contro immondi e non morti." }
+          { "Livello": "7", "Privilegio": "Aura di devozione", "Riepilogo": "Il paladino e gli alleati nell'Aura di protezione non possono essere affascinati." },
+          { "Livello": "15", "Privilegio": "Punizione protettiva", "Riepilogo": "Dopo punizione divina, il paladino e gli alleati nell'Aura ottengono mezza copertura." },
+          { "Livello": "20", "Privilegio": "Nube sacra", "Riepilogo": "Potenzia l'Aura con danni radiosi, luce solare e vantaggio contro immondi e non morti." }
         ],
         "blocchi": []
       },
@@ -2421,7 +2421,7 @@
         "descrizione": "Proteggi la natura e le persone dalla distruzione",
         "colonne": ["Livello", "Privilegio", "Riepilogo"],
         "righe": [
-          { "Livello": "3", "Privilegio": "Sapienza del cacciatore", "Riepilogo": "Conosce immunita, resistenze e vulnerabilita di una creatura sotto marchio del cacciatore." },
+          { "Livello": "3", "Privilegio": "Sapienza del cacciatore", "Riepilogo": "Conosce immunita, resistenze e vulnerabilità di una creatura sotto marchio del cacciatore." },
           { "Livello": "3", "Privilegio": "Preda del cacciatore", "Riepilogo": "Sceglie Devastatore dell orda o Sterminatore di colossi e puo cambiarlo dopo riposo." },
           { "Livello": "7", "Privilegio": "Tattiche difensive", "Riepilogo": "Sceglie Difesa dal multiattacco o Sfuggire all orda e puo cambiarla dopo riposo." },
           { "Livello": "11", "Privilegio": "Preda del cacciatore superiore", "Riepilogo": "Estende i danni extra del marchio del cacciatore a una seconda creatura vicina." },
@@ -4377,7 +4377,7 @@
           { "chiave": "Nome e dati generali", "valore": "Nome, taglia, tipo di creatura con eventuali descrittori e allineamento." },
           { "chiave": "Statistiche di combattimento", "valore": "Classe Armatura, punti ferita, velocita e iniziativa." },
           { "chiave": "Punteggi di caratteristica", "valore": "Caratteristiche, modificatori e tiri salvezza del mostro." },
-          { "chiave": "Altri dettagli", "valore": "Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunita e attrezzatura." },
+          { "chiave": "Altri dettagli", "valore": "Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunità e attrezzatura." },
           { "chiave": "Tratti", "valore": "Caratteristiche sempre attive o attive in determinate situazioni." },
           { "chiave": "Azioni", "valore": "Azioni specifiche del mostro, oltre alle azioni generali del capitolo Come si gioca." },
           { "chiave": "Azioni bonus", "valore": "Azioni bonus del mostro, se presenti." },

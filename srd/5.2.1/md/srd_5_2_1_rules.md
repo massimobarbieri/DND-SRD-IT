@@ -2095,9 +2095,9 @@ Tieni fede agli ideali di giustizia e ordine
 | --- | --- | --- |
 | 3 | Incantesimi del Giuramento di devozione | Gli incantesimi della tabella sono sempre preparati. |
 | 3 | Arma consacrata | Spende Incanalare divinita per aggiungere Carisma ai tiri per colpire e rendere radiosi i danni. |
-| 7 | Aura di devozione | Il paladino e gli alleati nell Aura di protezione non possono essere affascinati. |
-| 15 | Punizione protettiva | Dopo punizione divina, il paladino e gli alleati nell Aura ottengono mezza copertura. |
-| 20 | Nube sacra | Potenzia l Aura con danni radiosi, luce solare e vantaggio contro immondi e non morti. |
+| 7 | Aura di devozione | Il paladino e gli alleati nell'Aura di protezione non possono essere affascinati. |
+| 15 | Punizione protettiva | Dopo punizione divina, il paladino e gli alleati nell'Aura ottengono mezza copertura. |
+| 20 | Nube sacra | Potenzia l'Aura con danni radiosi, luce solare e vantaggio contro immondi e non morti. |
 
 ### Incantesimi del Giuramento di devozione
 
@@ -2227,7 +2227,7 @@ Proteggi la natura e le persone dalla distruzione
 
 | Livello | Privilegio | Riepilogo |
 | --- | --- | --- |
-| 3 | Sapienza del cacciatore | Conosce immunita, resistenze e vulnerabilita di una creatura sotto marchio del cacciatore. |
+| 3 | Sapienza del cacciatore | Conosce immunita, resistenze e vulnerabilità di una creatura sotto marchio del cacciatore. |
 | 3 | Preda del cacciatore | Sceglie Devastatore dell orda o Sterminatore di colossi e puo cambiarlo dopo riposo. |
 | 7 | Tattiche difensive | Sceglie Difesa dal multiattacco o Sfuggire all orda e puo cambiarla dopo riposo. |
 | 11 | Preda del cacciatore superiore | Estende i danni extra del marchio del cacciatore a una seconda creatura vicina. |
@@ -3951,7 +3951,7 @@ Ogni mostro possiede una scheda delle statistiche che raccoglie le regole necess
 | Nome e dati generali | Nome, taglia, tipo di creatura con eventuali descrittori e allineamento. |
 | Statistiche di combattimento | Classe Armatura, punti ferita, velocita e iniziativa. |
 | Punteggi di caratteristica | Caratteristiche, modificatori e tiri salvezza del mostro. |
-| Altri dettagli | Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunita e attrezzatura. |
+| Altri dettagli | Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunità e attrezzatura. |
 | Tratti | Caratteristiche sempre attive o attive in determinate situazioni. |
 | Azioni | Azioni specifiche del mostro, oltre alle azioni generali del capitolo Come si gioca. |
 | Azioni bonus | Azioni bonus del mostro, se presenti. |
