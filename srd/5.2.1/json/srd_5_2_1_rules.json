@@ -936,7 +936,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "32-35",
-    "descrizione": "Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica. La sottoclasse SRD e il Cammino del Berserker.",
+    "descrizione": "Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica. La sottoclasse SRD è il Cammino del Berserker.",
     "sezioni": [
       {
         "titolo": "Tratti del barbaro",
@@ -993,8 +993,8 @@
         "descrizione": "Incanala l'ira in furia violenta",
         "colonne": ["Livello", "Privilegio", "Riepilogo"],
         "righe": [
-          { "Livello": "3", "Privilegio": "Frenesia", "Riepilogo": "Con Attacco irruento durante l ira infligge d6 extra pari al bonus Danni dell ira al primo bersaglio colpito." },
-          { "Livello": "6", "Privilegio": "Ira incontenibile", "Riepilogo": "Durante l ira non puo essere affascinato o spaventato; se lo era, la condizione termina." },
+          { "Livello": "3", "Privilegio": "Frenesia", "Riepilogo": "Con Attacco irruento durante l'ira infligge d6 extra pari al bonus Danni dell'ira al primo bersaglio colpito." },
+          { "Livello": "6", "Privilegio": "Ira incontenibile", "Riepilogo": "Durante l'ira non puo essere affascinato o spaventato; se lo era, la condizione termina." },
           { "Livello": "10", "Privilegio": "Ritorsione", "Riepilogo": "Quando subisce danni da una creatura entro 1,5 m puo reagire con un attacco in mischia." },
           { "Livello": "14", "Privilegio": "Presenza intimidatoria", "Riepilogo": "Come azione bonus puo spaventare creature scelte entro 9 m con TS Saggezza." }
         ],
@@ -1008,7 +1008,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "35-40",
-    "descrizione": "Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bardica, competenze ampie e magia. La sottoclasse SRD e il Collegio della Sapienza.",
+    "descrizione": "Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bardica, competenze ampie e magia. La sottoclasse SRD è il Collegio della Sapienza.",
     "sezioni": [
       {
         "titolo": "Tratti del bardo",
@@ -1219,7 +1219,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "41-46",
-    "descrizione": "Il chierico e un incantatore divino basato su Saggezza, capace di guarire, proteggere e incanalare energia sacra. La sottoclasse SRD e il Dominio della Vita.",
+    "descrizione": "Il chierico e un incantatore divino basato su Saggezza, capace di guarire, proteggere e incanalare energia sacra. La sottoclasse SRD è il Dominio della Vita.",
     "sezioni": [
       {
         "titolo": "Tratti del chierico",
@@ -1420,7 +1420,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "46-52",
-    "descrizione": "Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e alla Forma selvatica. La sottoclasse SRD e il Circolo della Terra.",
+    "descrizione": "Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e alla Forma selvatica. La sottoclasse SRD è il Circolo della Terra.",
     "sezioni": [
       {
         "titolo": "Tratti del druido",
@@ -1658,7 +1658,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "53-55",
-    "descrizione": "Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza delle armi e resistenza. La sottoclasse SRD e il Campione.",
+    "descrizione": "Il guerriero è uno specialista marziale basato su Forza o Destrezza, padronanza delle armi e resistenza. La sottoclasse SRD è il Campione.",
     "sezioni": [
       {
         "titolo": "Tratti del guerriero",
@@ -1732,7 +1732,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "55-58",
-    "descrizione": "Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto su Destrezza. La sottoclasse SRD e il Furfante.",
+    "descrizione": "Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto su Destrezza. La sottoclasse SRD è il Furfante.",
     "sezioni": [
       {
         "titolo": "Tratti del ladro",
@@ -1806,7 +1806,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "59-65",
-    "descrizione": "Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi e preparazione flessibile. La sottoclasse SRD e l'Invocatore.",
+    "descrizione": "Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi e preparazione flessibile. La sottoclasse SRD è l'Invocatore.",
     "sezioni": [
       {
         "titolo": "Tratti del mago",
@@ -2104,7 +2104,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "66-69",
-    "descrizione": "Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e punti concentrazione. La sottoclasse SRD e il Guerriero della Mano Aperta.",
+    "descrizione": "Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e punti concentrazione. La sottoclasse SRD è il Guerriero della Mano Aperta.",
     "sezioni": [
       {
         "titolo": "Tratti del monaco",
@@ -2177,7 +2177,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "70-74",
-    "descrizione": "Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposizione delle mani e magia divina. La sottoclasse SRD e il Giuramento di Devozione.",
+    "descrizione": "Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposizione delle mani e magia divina. La sottoclasse SRD è il Giuramento di Devozione.",
     "sezioni": [
       {
         "titolo": "Tratti del paladino",
@@ -2308,7 +2308,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "75-78",
-    "descrizione": "Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza, magia naturale e mobilita. La sottoclasse SRD e il Cacciatore.",
+    "descrizione": "Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza, magia naturale e mobilita. La sottoclasse SRD è il Cacciatore.",
     "sezioni": [
       {
         "titolo": "Tratti del ranger",
@@ -2437,7 +2437,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "79-85",
-    "descrizione": "Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metamagia. La sottoclasse SRD e la Stregoneria draconica.",
+    "descrizione": "Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metamagia. La sottoclasse SRD è la Stregoneria draconica.",
     "sezioni": [
       {
         "titolo": "Tratti dello stregone",
@@ -2669,7 +2669,7 @@
     "capitolo": "Classi",
     "categoria": "Classi",
     "pagine_sorgente": "85-92",
-    "descrizione": "Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Suppliche occulte. La sottoclasse SRD e il Patrono immondo.",
+    "descrizione": "Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Suppliche occulte. La sottoclasse SRD è il Patrono immondo.",
     "sezioni": [
       {
         "titolo": "Tratti del warlock",
