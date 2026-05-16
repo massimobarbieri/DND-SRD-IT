@@ -6,8 +6,7 @@ sottotipo: demone
 dimensione: Enorme
 allineamento: caotico malvagio
 
-classe_armatura:
-  valore: 19
+classe_armatura: 19
 
 iniziativa:
   valore: 24

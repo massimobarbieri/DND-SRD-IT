@@ -5,8 +5,7 @@ tipo: Mostruosità
 dimensione: Grande
 allineamento: senza allineamento
 
-classe_armatura:
-  valore: 11
+classe_armatura: 11
 
 iniziativa:
   valore: 11

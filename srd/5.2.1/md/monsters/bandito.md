@@ -6,8 +6,7 @@ tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
 
-classe_armatura:
-  valore: 12
+classe_armatura: 12
 
 iniziativa:
   valore: 11

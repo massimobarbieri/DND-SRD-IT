@@ -4,8 +4,7 @@ tipo: Mostruosità
 dimensione: Media
 allineamento: senza allineamento
 
-classe_armatura:
-  valore: 15  
+classe_armatura: 15  
 
 iniziativa: 
   valore: 9

@@ -5,8 +5,7 @@ tipo: Aberrazione
 dimensione: Grande
 allineamento: legale malvagio
 
-classe_armatura:
-  valore: 17
+classe_armatura: 17
 
 iniziativa:
   valore: 17

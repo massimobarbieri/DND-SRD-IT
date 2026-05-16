@@ -5,8 +5,7 @@ tipo: Melma
 dimensione: Grande
 allineamento: senza allineamento
 
-classe_armatura:
-  valore: 8
+classe_armatura: 8
 iniziativa: 
   valore: 8
   bonus: -2

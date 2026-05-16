@@ -5,8 +5,7 @@ tipo: Mostruosità
 dimensione: Media
 allineamento: caotico malvagio
 
-classe_armatura:
-  valore: 11
+classe_armatura: 11
 
 iniziativa:
   valore: 11
