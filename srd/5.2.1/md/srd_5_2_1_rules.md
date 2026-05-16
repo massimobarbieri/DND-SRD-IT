@@ -31,11 +31,9 @@ Il gioco si sviluppa attorno a tre pilastri: interazioni sociali, esplorazione e
 
 ### Schema base
 
-| Voce | Riepilogo |
-| --- | --- |
-| 1 | Il GM descrive la scena. |
-| 2 | I giocatori descrivono le azioni dei personaggi. |
-| 3 | Il GM narra i risultati e, se serve, chiede un tiro. |
+1. Il GM descrive la scena.
+2. I giocatori descrivono le azioni dei personaggi.
+3. Il GM narra i risultati e, se serve, chiede un tiro.
 
 ---
 
