@@ -797,7 +797,7 @@ Tabella completa 1d100 dei monili dal PDF SRD.
 **categoria:** Classi
 **pagine_sorgente:** 32-35
 
-Il barbaro e un combattente primordiale basato su Forza, ira e resistenza fisica. La sottoclasse SRD e il Cammino del Berserker.
+Il barbaro è un combattente primordiale basato su Forza, ira e resistenza fisica. La sottoclasse SRD è il Cammino del Berserker.
 
 ### Tratti del barbaro
 
@@ -851,8 +851,8 @@ Incanala l'ira in furia violenta
 
 | Livello | Privilegio | Riepilogo |
 | --- | --- | --- |
-| 3 | Frenesia | Con Attacco irruento durante l ira infligge d6 extra pari al bonus Danni dell ira al primo bersaglio colpito. |
-| 6 | Ira incontenibile | Durante l ira non puo essere affascinato o spaventato; se lo era, la condizione termina. |
+| 3 | Frenesia | Con Attacco irruento durante l'ira infligge d6 extra pari al bonus Danni dell'ira al primo bersaglio colpito. |
+| 6 | Ira incontenibile | Durante l'ira non puo essere affascinato o spaventato; se lo era, la condizione termina. |
 | 10 | Ritorsione | Quando subisce danni da una creatura entro 1,5 m puo reagire con un attacco in mischia. |
 | 14 | Presenza intimidatoria | Come azione bonus puo spaventare creature scelte entro 9 m con TS Saggezza. |
 
@@ -865,7 +865,7 @@ Incanala l'ira in furia violenta
 **categoria:** Classi
 **pagine_sorgente:** 35-40
 
-Il bardo e un incantatore carismatico che sostiene il gruppo con Ispirazione bardica, competenze ampie e magia. La sottoclasse SRD e il Collegio della Sapienza.
+Il bardo è un incantatore carismatico che sostiene il gruppo con Ispirazione bardica, competenze ampie e magia. La sottoclasse SRD è il Collegio della Sapienza.
 
 ### Tratti del bardo
 
@@ -1071,7 +1071,7 @@ Scandaglia le profondita della conoscenza magica
 **categoria:** Classi
 **pagine_sorgente:** 41-46
 
-Il chierico e un incantatore divino basato su Saggezza, capace di guarire, proteggere e incanalare energia sacra. La sottoclasse SRD e il Dominio della Vita.
+Il chierico è un incantatore divino basato su Saggezza, capace di guarire, proteggere e incanalare energia sacra. La sottoclasse SRD è il Dominio della Vita.
 
 ### Tratti del chierico
 
@@ -1265,7 +1265,7 @@ Allevia le ferite del mondo
 **categoria:** Classi
 **pagine_sorgente:** 46-52
 
-Il druido e un incantatore primordiale basato su Saggezza, legato alla natura e alla Forma selvatica. La sottoclasse SRD e il Circolo della Terra.
+Il druido è un incantatore primordiale basato su Saggezza, legato alla natura e alla Forma selvatica. La sottoclasse SRD è il Circolo della Terra.
 
 ### Tratti del druido
 
@@ -1492,7 +1492,7 @@ Celebra la connessione con il mondo naturale
 **categoria:** Classi
 **pagine_sorgente:** 53-55
 
-Il guerriero e uno specialista marziale basato su Forza o Destrezza, padronanza delle armi e resistenza. La sottoclasse SRD e il Campione.
+Il guerriero è uno specialista marziale basato su Forza o Destrezza, padronanza delle armi e resistenza. La sottoclasse SRD è il Campione.
 
 ### Tratti del guerriero
 
@@ -1562,7 +1562,7 @@ Raggiungi l'eccellenza fisica nel combattimento
 **categoria:** Classi
 **pagine_sorgente:** 55-58
 
-Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto su Destrezza. La sottoclasse SRD e il Furfante.
+Il ladro e un esperto di precisione, furtivita e competenze, basato soprattutto su Destrezza. La sottoclasse SRD è il Furfante.
 
 ### Tratti del ladro
 
@@ -1632,7 +1632,7 @@ Vai a caccia di tesori nei panni di un autentico avventuriero
 **categoria:** Classi
 **pagine_sorgente:** 59-65
 
-Il mago e un incantatore arcano basato su Intelligenza, libro degli incantesimi e preparazione flessibile. La sottoclasse SRD e l'Invocatore.
+Il mago è un incantatore arcano basato su Intelligenza, libro degli incantesimi e preparazione flessibile. La sottoclasse SRD è l'Invocatore.
 
 ### Tratti del mago
 
@@ -1925,7 +1925,7 @@ Crea effetti elementali esplosivi
 **categoria:** Classi
 **pagine_sorgente:** 66-69
 
-Il monaco e un combattente agile basato su Destrezza e Saggezza, Arti marziali e punti concentrazione. La sottoclasse SRD e il Guerriero della Mano Aperta.
+Il monaco è un combattente agile basato su Destrezza e Saggezza, Arti marziali e punti concentrazione. La sottoclasse SRD è il Guerriero della Mano Aperta.
 
 ### Tratti del monaco
 
@@ -1994,7 +1994,7 @@ Padroneggia le tecniche di combattimento senz armi
 **categoria:** Classi
 **pagine_sorgente:** 70-74
 
-Il paladino e un combattente sacro basato su Forza e Carisma, giuramenti, imposizione delle mani e magia divina. La sottoclasse SRD e il Giuramento di Devozione.
+Il paladino è un combattente sacro basato su Forza e Carisma, giuramenti, imposizione delle mani e magia divina. La sottoclasse SRD è il Giuramento di Devozione.
 
 ### Tratti del paladino
 
@@ -2095,9 +2095,9 @@ Tieni fede agli ideali di giustizia e ordine
 | --- | --- | --- |
 | 3 | Incantesimi del Giuramento di devozione | Gli incantesimi della tabella sono sempre preparati. |
 | 3 | Arma consacrata | Spende Incanalare divinita per aggiungere Carisma ai tiri per colpire e rendere radiosi i danni. |
-| 7 | Aura di devozione | Il paladino e gli alleati nell Aura di protezione non possono essere affascinati. |
-| 15 | Punizione protettiva | Dopo punizione divina, il paladino e gli alleati nell Aura ottengono mezza copertura. |
-| 20 | Nube sacra | Potenzia l Aura con danni radiosi, luce solare e vantaggio contro immondi e non morti. |
+| 7 | Aura di devozione | Il paladino è gli alleati nell'Aura di protezione non possono essere affascinati. |
+| 15 | Punizione protettiva | Dopo punizione divina, il paladino e gli alleati nell'Aura ottengono mezza copertura. |
+| 20 | Nube sacra | Potenzia l'Aura con danni radiosi, luce solare e vantaggio contro immondi e non morti. |
 
 ### Incantesimi del Giuramento di devozione
 
@@ -2118,7 +2118,7 @@ Tieni fede agli ideali di giustizia e ordine
 **categoria:** Classi
 **pagine_sorgente:** 75-78
 
-Il ranger e un esploratore marziale e primordiale basato su Destrezza e Saggezza, magia naturale e mobilita. La sottoclasse SRD e il Cacciatore.
+Il ranger è un esploratore marziale e primordiale basato su Destrezza e Saggezza, magia naturale e mobilita. La sottoclasse SRD è il Cacciatore.
 
 ### Tratti del ranger
 
@@ -2227,7 +2227,7 @@ Proteggi la natura e le persone dalla distruzione
 
 | Livello | Privilegio | Riepilogo |
 | --- | --- | --- |
-| 3 | Sapienza del cacciatore | Conosce immunita, resistenze e vulnerabilita di una creatura sotto marchio del cacciatore. |
+| 3 | Sapienza del cacciatore | Conosce immunita, resistenze e vulnerabilità di una creatura sotto marchio del cacciatore. |
 | 3 | Preda del cacciatore | Sceglie Devastatore dell orda o Sterminatore di colossi e puo cambiarlo dopo riposo. |
 | 7 | Tattiche difensive | Sceglie Difesa dal multiattacco o Sfuggire all orda e puo cambiarla dopo riposo. |
 | 11 | Preda del cacciatore superiore | Estende i danni extra del marchio del cacciatore a una seconda creatura vicina. |
@@ -2242,7 +2242,7 @@ Proteggi la natura e le persone dalla distruzione
 **categoria:** Classi
 **pagine_sorgente:** 79-85
 
-Lo stregone e un incantatore innato basato su Carisma, punti stregoneria e Metamagia. La sottoclasse SRD e la Stregoneria draconica.
+Lo stregone è un incantatore innato basato su Carisma, punti stregoneria e Metamagia. La sottoclasse SRD è la Stregoneria draconica.
 
 ### Tratti dello stregone
 
@@ -2467,7 +2467,7 @@ Lasciati inebriare dalla magia dei draghi
 **categoria:** Classi
 **pagine_sorgente:** 85-92
 
-Il warlock e un incantatore occulto basato su Carisma, Magia del patto e Suppliche occulte. La sottoclasse SRD e il Patrono immondo.
+Il warlock è un incantatore occulto basato su Carisma, Magia del patto e Suppliche occulte. La sottoclasse SRD è il Patrono immondo.
 
 ### Tratti del warlock
 
@@ -3951,7 +3951,7 @@ Ogni mostro possiede una scheda delle statistiche che raccoglie le regole necess
 | Nome e dati generali | Nome, taglia, tipo di creatura con eventuali descrittori e allineamento. |
 | Statistiche di combattimento | Classe Armatura, punti ferita, velocita e iniziativa. |
 | Punteggi di caratteristica | Caratteristiche, modificatori e tiri salvezza del mostro. |
-| Altri dettagli | Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunita e attrezzatura. |
+| Altri dettagli | Sensi, Lingue, GS e, se presenti, abilita, resistenze, immunità e attrezzatura. |
 | Tratti | Caratteristiche sempre attive o attive in determinate situazioni. |
 | Azioni | Azioni specifiche del mostro, oltre alle azioni generali del capitolo Come si gioca. |
 | Azioni bonus | Azioni bonus del mostro, se presenti. |
