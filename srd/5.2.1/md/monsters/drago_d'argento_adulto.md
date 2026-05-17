@@ -83,11 +83,11 @@ Il drago effettua tre attacchi Squarcio. Può sostituire un attacco con un utili
 ### Incantesimi
 Il drago lancia uno dei seguenti incantesimi, senza bisogno di componenti materiali, utilizzando Carisma come caratteristica da incantatore (CD del tiro salvezza sull'incantesimo 19, +11 al tiro per colpire degli attacchi con incantesimo):
 
-1/giorno ciascuno:
+*1/giorno ciascuno:*
 - tempesta di ghiaccio (di 5º livello)
 - zona di verità
 
-A volontà:
+*A volontà:*
 - blocca mostri
 - coltello di ghiaccio
 - individuazione del magico
