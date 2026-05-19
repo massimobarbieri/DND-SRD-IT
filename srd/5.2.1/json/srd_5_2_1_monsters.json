@@ -10027,7 +10027,37 @@
       },
       {
         "nome": "Soffio di fulmini (ricarica 5-6)",
-        "descrizione": "*Tiro salvezza su Destrezza:* CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. *Fallimento:* 88 (16d10) danni da fulmine. *Successo:* danni dimezzati."
+        "descrizione": "*Tiro salvezza su Destrezza:* CD 23, tutte le creature in una linea lunga 36 metri e larga 3 metri. *Fallimento:* 88 (16d10) danni da fulmine. *Successo:* danni dimezzati.",
+        "tiri": [
+          {
+            "tipo": "salvezza",
+            "caratteristica": "Destrezza",
+            "cd": 23,
+            "bersaglio": "tutte le creature in una linea lunga 36 metri e larga 3 metri",
+            "fallimento": {
+              "danni": [
+                {
+                  "formula": "16d10",
+                  "media": 88,
+                  "tipo": "fulmine",
+                  "contesto": "fallimento"
+                }
+              ]
+            },
+            "successo": {
+              "danni": "meta"
+            },
+            "confidenza": "alta"
+          }
+        ],
+        "ricarica": {
+          "formula": "1d6",
+          "successo": [
+            5,
+            6
+          ],
+          "testo": "ricarica 5-6"
+        }
       }
     ],
     "azioni_leggendarie": {
