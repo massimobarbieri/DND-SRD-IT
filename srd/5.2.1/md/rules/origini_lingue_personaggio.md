@@ -36,28 +36,3 @@ Le origini del personaggio derivano da background, specie e lingue. Background e
 | Standard | Lingua dei segni comune, Draconico, Nanico, Elfico, Gigante, Gnomesco, Goblin, Halfling, Orchesco. |
 | Rare | Abissale, Celestiale, Druidico, Gergo delle profondita, Infernale, Primordiale, Silvano, Sottocomune, Gergo ladresco. |
 | Primordiale | Include i dialetti Aquan, Auran, Ignan e Terran; parlanti di dialetti diversi comunicano tra loro. |
-
-### Lingue standard con tiro
-
-| 1d12 | Lingua |
-| --- | --- |
-| — | Comune |
-| 1 | Lingua dei segni comune |
-| 2 | Draconico |
-| 3-4 | Nanico |
-| 5-6 | Elfico |
-| 7 | Gigante |
-| 8 | Gnomesco |
-| 9 | Goblin |
-| 10-11 | Halfling |
-| 12 | Orchesco |
-
-### Lingue rare
-
-| Lingua | Lingua |
-| --- | --- |
-| Abissale | Primordiale* |
-| Celestiale | Silvano |
-| Druidico | Sottocomune |
-| Gergo delle profondità | Gergo ladresco |
-| Infernale |  |

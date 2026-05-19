@@ -15,19 +15,3 @@ I talenti sono organizzati per categoria e indicano prerequisiti, benefici ed ev
 | Prerequisito | Deve essere soddisfatto salvo privilegi che consentano di ignorarlo; un prerequisito di classe richiede almeno 1 livello in quella classe. |
 | Beneficio | Chi possiede il talento ottiene i benefici descritti. |
 | Ripetibile | Un talento puo essere ottenuto una sola volta, salvo indicazione diversa. |
-
-### Talenti Origini
-
-| Voce | Riepilogo |
-| --- | --- |
-| Abile | Ottieni competenza in una combinazione di tre abilita o strumenti a scelta; ripetibile. |
-| Aggressore selvaggio | Una volta per turno, quando colpisci con un'arma, tiri due volte i danni dell'arma e scegli il risultato. |
-| Allerta | Aggiungi il bonus di competenza all'iniziativa e puoi scambiare il risultato con un alleato consenziente nello stesso combattimento. |
-| Iniziato alla magia | Scegli lista da chierico, druido o mago; ottieni due trucchetti, un incantesimo di 1º livello e possibilita di sostituirli salendo di livello. |
-
-### Talenti Generali
-
-| Voce | Riepilogo |
-| --- | --- |
-| Aumento dei punteggi di caratteristica | Dal 4º livello, aumenta un punteggio di 2 o due punteggi di 1, massimo 20; ripetibile. |
-| Lottatore | Dal 4º livello con Forza o Destrezza 13; aumenta Forza o Destrezza, migliora colpi senz'armi, attacchi contro creature afferrate e movimento in lotta. |
