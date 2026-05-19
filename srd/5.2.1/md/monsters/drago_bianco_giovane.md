@@ -2,11 +2,9 @@
 id: drago_bianco_giovane
 nome: Drago bianco giovane
 gruppo: Draghi bianchi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 17
 iniziativa:
   valore: 13
@@ -15,11 +13,9 @@ punti_ferita:
   media: 123
   formula: 13d10 + 52
 velocita:
-  camminata: 12 m
+  camminata: scavo 6 m
   nuoto: 12 m
-  scavo: 6 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -45,27 +41,21 @@ caratteristiche:
     punteggio: 12
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   percezione: 6
   furtivita: 3
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 16
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 6
   punti_esperienza: 2300
   raw: 6 (PE 2.300; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

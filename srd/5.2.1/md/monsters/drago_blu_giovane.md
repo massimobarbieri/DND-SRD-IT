@@ -2,11 +2,9 @@
 id: drago_blu_giovane
 nome: Drago blu giovane
 gruppo: Draghi blu
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Grande
 allineamento: legale malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 14
@@ -15,10 +13,8 @@ punti_ferita:
   media: 152
   formula: 16d10 + 64
 velocita:
-  camminata: 12 m
-  scavo: 6 m
+  camminata: scavo 6 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 21
@@ -44,28 +40,21 @@ caratteristiche:
     punteggio: 17
     modificatore: 3
     tiro_salvezza: 3
-
 abilita:
   furtivita: 4
   percezione: 9
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 19
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 9
   punti_esperienza: 5000
   raw: 9 (PE 5.000; BC +4)
-
 bonus_competenza: 4
 ---
 ## Azioni

@@ -1,0 +1,22 @@
+---
+id: evoca_folletto
+nome: Evoca folletto
+tipo: incantesimo
+livello: 6
+scuola: Evocazione
+classi: 
+  - druido
+tempo_lancio: azione
+gittata: 18 metri
+componenti: V, S
+durata: concentrazione, fino a 10 minuti
+pagine_sorgente: 146-146
+---
+L'incantatore evoca uno spirito di taglia Media dalla Selva Fatata in uno spazio libero entro gittata che egli è in grado di vedere. Lo spirito permane per la durata dell'incantesimo e ha le sembianze di una creatura fatata a scelta dell'incantatore. Quando lo spirito appare, l'incantatore può effettuare un attacco in mischia con incantesimo contro una creatura entro 1,5 metri dallo spirito. Se il colpo va a segno, il bersaglio subisce danni psichici pari a 3d12 più il modificatore di caratteristica da incantatore dell'incantatore. Inoltre, il bersaglio è spaventato fino all'inizio del turno successivo dell'incantatore, con l'incantatore e lo spirito come fonti della sua paura.
+
+Come azione bonus nei suoi turni successivi, l'incantatore può teletrasportare lo spirito in uno spazio libero che è in grado di vedere, a una distanza massima di 9 metri dal punto in cui si trovava prima, ed effettuare l'attacco contro una creatura entro 1,5 metri dallo spirito.
+
+### Scaling
+
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d12 per ogni slot di livello superiore al 6º.

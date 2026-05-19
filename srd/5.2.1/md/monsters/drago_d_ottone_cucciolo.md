@@ -2,11 +2,9 @@
 id: drago_d_ottone_cucciolo
 nome: Drago d'ottone cucciolo
 gruppo: Draghi d'ottone
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Medio
 allineamento: caotico buono
-
 classe_armatura: 15
 iniziativa:
   valore: 12
@@ -15,10 +13,8 @@ punti_ferita:
   media: 22
   formula: 4d8 + 4
 velocita:
-  camminata: 9 m
-  scavo: 4,5 m
+  camminata: 5 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -44,27 +40,21 @@ caratteristiche:
     punteggio: 13
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   furtivita: 2
   percezione: 4
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 1
   punti_esperienza: 200
   raw: 1 (PE 200; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

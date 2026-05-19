@@ -4,21 +4,16 @@ nome: Arpia
 tipo: Mostruosità
 dimensione: Media
 allineamento: caotico malvagio
-
 classe_armatura: 11
-
 iniziativa:
   valore: 11
   bonus: 1
-
 punti_ferita:
   media: 38
   formula: 7d8 + 7
-
 velocita:
   camminata: 6 m
   volo: 12 m
-
 caratteristiche:
   forza:
     punteggio: 12
@@ -44,18 +39,14 @@ caratteristiche:
     punteggio: 13
     modificatore: 1
     tiro_salvezza: 1
-
 sensi:
   percezione_passiva: 10
-
 lingue:
-  - Comune
-
+- Comune
 grado_sfida:
   valore: 1
   punti_esperienza: 200
   raw: 1 (PE 200; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

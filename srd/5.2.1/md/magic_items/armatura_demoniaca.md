@@ -1,0 +1,12 @@
+---
+id: armatura_demoniaca
+nome: Armatura demoniaca
+tipo: Armatura (leggera, media o pesante)
+tipo_base: Armatura
+rarita: molto rara
+richiede_sintonia: true
+---
+Mentre il personaggio indossa quest'armatura, ottiene un bonus di +1 alla Classe Armatura ed è in grado di comprendere e parlare l'Abissale. Inoltre, i guanti artigliati dell'armatura permettono ai colpi senz'armi di infliggere 1d8 danni taglienti invece dei normali danni contundenti, e il personaggio ottiene un bonus di +1 ai tiri per colpire e a quelli per i danni dei colpi senz'armi.
+
+**Maledizione**
+Una volta indossata quest'armatura maledetta, il personaggio non può togliersela a meno che non sia bersagliato da un incantesimo rimuovi maledizione o una magia simile. Mentre la indossa, il personaggio subisce svantaggio ai tiri per colpire contro i demoni e ai tiri salvezza contro i loro incantesimi e le loro capacità speciali.

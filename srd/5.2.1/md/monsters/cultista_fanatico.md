@@ -5,7 +5,6 @@ gruppo: Cultisti
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 13
 iniziativa:
   valore: 12
@@ -15,7 +14,6 @@ punti_ferita:
   formula: 8d8 + 8
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 11
@@ -41,27 +39,21 @@ caratteristiche:
     punteggio: 13
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   inganno: 3
   persuasione: 3
   religione: 2
-
 equipaggiamento:
-  - armatura di cuoio
-  - simbolo sacro
-
+- armatura di cuoio
+- simbolo sacro
 sensi:
   percezione_passiva: 12
-
 lingue:
-  - Comune
-
+- Comune
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

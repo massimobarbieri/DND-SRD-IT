@@ -4,21 +4,16 @@ nome: Chimera
 tipo: Mostruosità
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 14
-
 iniziativa:
   valore: 10
   bonus: 0
-
 punti_ferita:
-  medi: 114
+  media: 114
   formula: 12d10 + 48
-
 velocita:
   camminata: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,22 +39,17 @@ caratteristiche:
     punteggio: 10
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   percezione: 8
-
 sensi:
   percezione_passiva: 18
   scurovisione: 18 m
-
 lingue:
-  - Capisce il Draconico ma non lo parla
-
+- capisce il Draconico ma non lo parla
 grado_sfida:
   valore: 6
-  punti_esperienza: 2.300
+  punti_esperienza: 2300
   raw: 6 (PE 2.300; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

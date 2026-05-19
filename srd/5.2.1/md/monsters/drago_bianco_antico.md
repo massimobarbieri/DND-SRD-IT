@@ -2,11 +2,9 @@
 id: drago_bianco_antico
 nome: Drago bianco antico
 gruppo: Draghi bianchi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Mastodontico
 allineamento: caotico malvagio
-
 classe_armatura: 20
 iniziativa:
   valore: 22
@@ -15,11 +13,9 @@ punti_ferita:
   media: 333
   formula: 18d20 + 144
 velocita:
-  camminata: 12 m
+  camminata: scavo 12 m
   nuoto: 12 m
-  scavo: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 26
@@ -45,29 +41,22 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 4
-
 abilita:
   furtivita: 6
   percezione: 13
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 23
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 20
   punti_esperienza: 25000
   punti_esperienza_tana: 33000
   raw: 20 (PE 25.000, o 33.000 nella tana; BC +6)
-
 bonus_competenza: 6
 ---
 ## Tratti

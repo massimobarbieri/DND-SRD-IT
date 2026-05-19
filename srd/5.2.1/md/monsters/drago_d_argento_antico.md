@@ -2,11 +2,9 @@
 id: drago_d_argento_antico
 nome: Drago d'argento antico
 gruppo: Draghi d'argento
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Mastodontico
 allineamento: legale buono
-
 classe_armatura: 22
 iniziativa:
   valore: 24
@@ -17,7 +15,6 @@ punti_ferita:
 velocita:
   camminata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 30
@@ -43,30 +40,23 @@ caratteristiche:
     punteggio: 26
     modificatore: 8
     tiro_salvezza: 8
-
 abilita:
   furtivita: 7
   percezione: 16
   storia: 11
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 26
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 23
   punti_esperienza: 50000
   punti_esperienza_tana: 62000
   raw: 23 (PE 50.000, o 62.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

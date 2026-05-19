@@ -2,11 +2,9 @@
 id: drago_nero_adulto
 nome: Drago nero adulto
 gruppo: Draghi neri
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Enorme
 allineamento: caotico malvagio
-
 classe_armatura: 19
 iniziativa:
   valore: 22
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -44,29 +41,22 @@ caratteristiche:
     punteggio: 19
     modificatore: 4
     tiro_salvezza: 4
-
 abilita:
   furtivita: 7
   percezione: 11
-
 immunita_danni:
-  - acido
-
+- acido
 sensi:
   percezione_passiva: 21
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 14
   punti_esperienza: 11500
   punti_esperienza_tana: 13000
   raw: 14 (PE 11.500, o 13.000 nella tana; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti

@@ -4,7 +4,6 @@ nome: Djinni
 tipo: Elementale
 dimensione: Grande
 allineamento: neutrale
-
 classe_armatura: 17
 iniziativa:
   valore: 12
@@ -14,9 +13,7 @@ punti_ferita:
   formula: 19d10 + 114
 velocita:
   camminata: 9 m
-  volo: 27 m
-  dettagli_volo: fluttuare
-
+  volo: 27 m (fluttuare)
 caratteristiche:
   forza:
     punteggio: 21
@@ -42,23 +39,18 @@ caratteristiche:
     punteggio: 20
     modificatore: 5
     tiro_salvezza: 5
-
 immunita_danni:
-  - fulmine
-  - tuono
-
+- fulmine
+- tuono
 sensi:
   percezione_passiva: 13
   scurovisione: 36 m
-
 lingue:
-  - Primordiale (Auran)
-
+- Primordiale (Auran)
 grado_sfida:
   valore: 11
-  punti_esperienza: 7.200
+  punti_esperienza: 7200
   raw: 11 (PE 7.200; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

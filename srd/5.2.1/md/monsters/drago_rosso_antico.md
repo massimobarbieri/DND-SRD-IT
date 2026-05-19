@@ -2,11 +2,9 @@
 id: drago_rosso_antico
 nome: Drago rosso antico
 gruppo: Draghi rossi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Mastodontico
 allineamento: caotico malvagio
-
 classe_armatura: 22
 iniziativa:
   valore: 24
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   scalata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 30
@@ -44,29 +41,22 @@ caratteristiche:
     punteggio: 27
     modificatore: 8
     tiro_salvezza: 8
-
 abilita:
   furtivita: 7
   percezione: 16
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 26
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 24
   punti_esperienza: 62000
   punti_esperienza_tana: 75000
   raw: 24 (PE 62.000, o 75.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

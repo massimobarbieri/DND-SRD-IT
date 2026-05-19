@@ -2,11 +2,9 @@
 id: drago_d_oro_cucciolo
 nome: Drago d'oro cucciolo
 gruppo: Draghi d'oro
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Medio
 allineamento: legale buono
-
 classe_armatura: 17
 iniziativa:
   valore: 14
@@ -18,7 +16,6 @@ velocita:
   camminata: 9 m
   nuoto: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,27 +41,21 @@ caratteristiche:
     punteggio: 16
     modificatore: 3
     tiro_salvezza: 3
-
 abilita:
   furtivita: 4
   percezione: 4
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

@@ -2,24 +2,18 @@
 id: bugbear_guerriero
 nome: Bugbear guerriero
 gruppo: Bugbear
-tipo: Folletto
-sottotipo: goblinoide
+tipo: Folletto (goblinoide)
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 14
-
 iniziativa:
   valore: 12
   bonus: 2
-
 punti_ferita:
-  medi: 33
+  media: 33
   formula: 6d8 + 6
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -45,26 +39,21 @@ caratteristiche:
     punteggio: 9
     modificatore: -1
     tiro_salvezza: -1
-
-
-**abilita:** Furtività +6, Sopravvivenza +2  
+abilita:
+  furtivita: 6
+  sopravvivenza: 2
 equipaggiamento:
-  - armatura di pelle
-  - martelli leggeri (3)
-
+- armatura di pelle
+- martelli leggeri (3)
 sensi:
   percezione_passiva: 10
-  scurovisione: 18 m  
-
+  scurovisione: 18 m
 lingue:
-  - Comune
-  - Goblin
-
+- Comune, Goblin
 grado_sfida:
   valore: 1
   punti_esperienza: 200
   raw: 1 (PE 200; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

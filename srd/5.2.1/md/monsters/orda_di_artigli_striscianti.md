@@ -3,26 +3,20 @@ id: orda_di_artigli_striscianti
 nome: Orda di artigli striscianti
 gruppo: Artiglio strisciante
 tipo: Sciame
-dimensione: Medio
 sottotipo: non morti
 sottodimensione: Minuscoli
+dimensione: Medio
 allineamento: neutrale malvagio
-
-classe_armatura:
-  valore: 12
-
+classe_armatura: 12
 iniziativa:
-  bonus: 2
   valore: 12
-
+  bonus: 2
 punti_ferita:
   media: 49
   formula: 11d8
-
 velocita:
-  camminare: 9 m
-  scalare: 9 m
-
+  camminata: 9 m
+  scalata: 9 m
 caratteristiche:
   forza:
     punteggio: 14
@@ -48,43 +42,34 @@ caratteristiche:
     punteggio: 4
     modificatore: -3
     tiro_salvezza: -3
-
 resistenze:
-  - contundente
-  - perforante
-  - tagliente
-
+- contundente
+- perforante
+- tagliente
 immunita_danni:
-  - necrotico
-  - veleno
-
+- necrotico
+- veleno
 immunita_condizione:
-  - affascinato
-  - afferrato
-  - avvelenato
-  - incapacitato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - prono
-  - spaventato
-  - stordito
-  - trattenuto
-
+- affascinato
+- afferrato
+- avvelenato
+- incapacitato
+- indebolimento
+- paralizzato
+- pietrificato
+- prono
+- spaventato
+- stordito
+- trattenuto
 sensi:
   percezione_passiva: 10
   vista_cieca: 9 m
-
 lingue:
-  comprensione:
-    - Comune
-  parla: false
-
+- capisce il Comune ma non lo parla
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

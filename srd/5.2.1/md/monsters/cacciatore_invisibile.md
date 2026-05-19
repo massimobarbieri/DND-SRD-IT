@@ -4,21 +4,16 @@ nome: Cacciatore invisibile
 tipo: Elementale
 dimensione: Grande
 allineamento: neutrale
-
 classe_armatura: 14
-
-iniziativa:** +7
+iniziativa:
   valore: 22
   bonus: 7
-
 punti_ferita:
-  medi: 97
+  media: 97
   formula: 13d10 + 26
-
 velocita:
   camminata: 15 m
   volo: 15 m (fluttuare)
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -44,40 +39,33 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   furtivita: 10
   percezione: 8
-
 resistenze:
-  - contundente
-  - perforante
-  - tagliente
+- contundente
+- perforante
+- tagliente
 immunita_danni:
-  - veleno
-immunita_condizioni:
-  - afferrato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - privo di sensi
-  - prono
-  - trattenuto 
-
+- veleno
+immunita_condizione:
+- afferrato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- privo di sensi
+- prono
+- trattenuto
 sensi:
   percezione_passiva: 18
-  scurovisione: 18 m  
-
+  scurovisione: 18 m
 lingue:
-  - Comune
-  - Primordiale (Auran)
-
+- Comune, Primordiale (Auran)
 grado_sfida:
   valore: 6
-  punti_esperienza: 2.300
+  punti_esperienza: 2300
   raw: 6 (PE 2.300; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

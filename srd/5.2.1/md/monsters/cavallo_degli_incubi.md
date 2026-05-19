@@ -4,21 +4,16 @@ nome: Cavallo degli incubi
 tipo: Immondo
 dimensione: Grande
 allineamento: neutrale malvagio
-
 classe_armatura: 13
-
 iniziativa:
   valore: 12
   bonus: 2
-
 punti_ferita:
-  medi: 68
+  media: 68
   formula: 8d10 + 24
-
 velocita:
   camminata: 18 m
   volo: 27 m (fluttuare)
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -44,21 +39,16 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 11
-
 lingue:
-  - Capisce l'Abissale, il Comune e l'Infernale ma non li parla
-
+- capisce l'Abissale, il Comune e l'Infernale ma non li parla
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

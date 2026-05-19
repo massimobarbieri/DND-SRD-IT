@@ -4,7 +4,6 @@ nome: Deva
 tipo: Celestiale (angelo)
 dimensione: Medio
 allineamento: legale buono
-
 classe_armatura: 17
 iniziativa:
   valore: 14
@@ -14,9 +13,7 @@ punti_ferita:
   formula: 27d8 + 108
 velocita:
   camminata: 9 m
-  volo: 27 m
-  dettagli_volo: fluttuare
-
+  volo: 27 m (fluttuare)
 caratteristiche:
   forza:
     punteggio: 18
@@ -42,32 +39,25 @@ caratteristiche:
     punteggio: 20
     modificatore: 5
     tiro_salvezza: 9
-
 abilita:
   intuizione: 9
   percezione: 9
-
 resistenze:
-  - radioso
-
-immunita_condizioni:
-  - affascinato
-  - indebolimento
-  - spaventato
-
+- radioso
+immunita_condizione:
+- affascinato
+- indebolimento
+- spaventato
 sensi:
   percezione_passiva: 19
   scurovisione: 36 m
-
 lingue:
-  - tutte
-  - telepatia 36 m
-
+- tutte
+- telepatia 36 m
 grado_sfida:
   valore: 10
-  punti_esperienza: 5.900
+  punti_esperienza: 5900
   raw: 10 (PE 5.900; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

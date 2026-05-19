@@ -2,9 +2,8 @@
 id: druido
 nome: Druido
 tipo: Umanoide
-dimensione: Medio o Piccolo
+dimensione: Medio o piccolo
 allineamento: neutrale
-
 classe_armatura: 13
 iniziativa:
   valore: 11
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 8d8 + 8
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 10
@@ -40,28 +38,20 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   medicina: 5
   natura: 3
   percezione: 5
-
 equipaggiamento:
-  - armatura di cuoio borchiato
-
+- armatura di cuoio borchiato
 sensi:
   percezione_passiva: 15
-
 lingue:
-  - Comune
-  - Druidico
-  - Silvano
-
+- Comune, Druidico, Silvano
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

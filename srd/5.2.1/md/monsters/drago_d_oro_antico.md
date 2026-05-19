@@ -2,11 +2,9 @@
 id: drago_d_oro_antico
 nome: Drago d'oro antico
 gruppo: Draghi d'oro
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Mastodontico
 allineamento: legale buono
-
 classe_armatura: 22
 iniziativa:
   valore: 26
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 30
@@ -44,31 +41,24 @@ caratteristiche:
     punteggio: 28
     modificatore: 9
     tiro_salvezza: 9
-
 abilita:
   furtivita: 9
   intuizione: 10
   percezione: 17
   persuasione: 16
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 27
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 24
   punti_esperienza: 62000
   punti_esperienza_tana: 75000
   raw: 24 (PE 62.000, o 75.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

@@ -2,11 +2,9 @@
 id: drago_rosso_adulto
 nome: Drago rosso adulto
 gruppo: Draghi rossi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Enorme
 allineamento: caotico malvagio
-
 classe_armatura: 19
 iniziativa:
   valore: 22
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   scalata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 27
@@ -44,29 +41,22 @@ caratteristiche:
     punteggio: 23
     modificatore: 6
     tiro_salvezza: 6
-
 abilita:
   furtivita: 6
   percezione: 13
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 23
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 17
   punti_esperienza: 18000
   punti_esperienza_tana: 20000
   raw: 17 (PE 18.000, o 20.000 nella tana; BC +6)
-
 bonus_competenza: 6
 ---
 ## Tratti

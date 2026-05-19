@@ -4,7 +4,6 @@ nome: Doppelganger
 tipo: Mostruosità
 dimensione: Media
 allineamento: neutrale
-
 classe_armatura: 14
 iniziativa:
   valore: 14
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 8d8 + 16
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 11
@@ -40,27 +38,20 @@ caratteristiche:
     punteggio: 14
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   inganno: 6
   intuizione: 3
-
-immunita_condizioni:
-  - affascinato
-
+immunita_condizione:
+- affascinato
 sensi:
   percezione_passiva: 11
   scurovisione: 18 m
-
 lingue:
-  - Comune
-  - altre tre lingue
-
+- Comune più altre tre lingue
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

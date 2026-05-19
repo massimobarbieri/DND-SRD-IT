@@ -4,21 +4,16 @@ nome: Chuul
 tipo: Aberrazione
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 16
-
 iniziativa:
   valore: 10
   bonus: 0
-
 punti_ferita:
-  medi: 76
+  media: 76
   formula: 9d10 + 27
-
 velocita:
   camminata: 9 m
   nuoto: 9 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,27 +39,21 @@ caratteristiche:
     punteggio: 5
     modificatore: -3
     tiro_salvezza: -3
-
 abilita:
   percezione: 4
-
 immunita_danni:
-  - veleno
-immunita_condizioni:
-  - avvelenato  
-
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
-
 lingue:
-  - Capisce il Gergo delle Profondità ma non lo parla  
-
+- capisce il Gergo delle Profondità ma non lo parla
 grado_sfida:
   valore: 4
-  punti_esperienza: 1.100
+  punti_esperienza: 1100
   raw: 4 (PE 1.100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

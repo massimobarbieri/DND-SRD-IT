@@ -1,0 +1,24 @@
+---
+id: comando
+nome: Comando
+tipo: incantesimo
+livello: 1
+scuola: Ammaliamento
+classi: 
+  - bardo
+  - chierico
+  - paladino
+tempo_lancio: azione
+gittata: 18 metri
+componenti: V
+durata: istantanea
+pagine_sorgente: 134-134
+---
+L'incantatore rivolge una parola di comando a una creatura entro gittata che egli è in grado di vedere. Il bersaglio deve superare un tiro salvezza su Saggezza, altrimenti dovrà obbedire al comando nel suo turno successivo. Scegli il comando tra le seguenti opzioni:
+
+Avvicinati. Il bersaglio si muove verso l'incantatore seguendo il percorso più breve e diretto, terminando il suo turno se giunge entro 1,5 metri da lui. Fermo. Nel suo turno, il bersaglio non si muove e non effettua alcuna azione o azione bonus. Fuggi. Il bersaglio usa il suo turno per allontanarsi dall'incantatore nel modo più rapido possibile. Lascia. Il bersaglio lascia cadere ciò che stava impugnando, poi termina il suo turno. Prostrati. Il bersaglio cade a terra prono e termina il suo turno.
+
+### Scaling
+
+**Utilizzo di uno slot incantesimo di livello superiore**
+L'incantatore può influenzare una creatura aggiuntiva per ogni slot di livello superiore al 1º.

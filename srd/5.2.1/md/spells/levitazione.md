@@ -1,0 +1,20 @@
+---
+id: levitazione
+nome: Levitazione
+tipo: incantesimo
+livello: 2
+scuola: Trasmutazione
+classi: 
+  - mago
+  - stregone
+tempo_lancio: azione
+gittata: 18 metri
+componenti: V, S, M (una molla in metallo)
+durata: concentrazione, fino a 10 minuti
+pagine_sorgente: 161-161
+---
+Una creatura o un oggetto a scelta dell'incantatore, situato entro gittata e che egli è in grado di vedere, si solleva verticalmente fino a 6 metri rimanendo sospeso per la durata dell'incantesimo. L'incantesimo può far levitare un oggetto che pesa fino a 250 kg. Una creatura non consenziente che supera un tiro salvezza su Costituzione non subisce l'effetto dell'incantesimo.
+
+Il bersaglio può muoversi soltanto spingendosi o aggrappandosi a un oggetto fisso o a una superficie entro portata (come per esempio una parete o un soffitto), che gli permetta di muoversi come se ne stesse scalando la superficie. Nel proprio turno, l'incantatore può variare l'altitudine del bersaglio per un massimo di 6 metri in ogni direzione. Se il bersaglio è l'incantatore stesso, può muoversi verso l'alto o verso il basso come parte del suo movimento. Altrimenti, l'incantatore può usare la sua azione di Magia per muovere il bersaglio, che deve rimanere entro gittata.
+
+Il bersaglio, se è ancora sospeso, al termine dell'incantesimo fluttua dolcemente fino a terra.

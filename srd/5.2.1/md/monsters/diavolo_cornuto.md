@@ -1,11 +1,9 @@
 ---
 id: diavolo_cornuto
 nome: Diavolo cornuto
-tipo: Immondo
-sottotipo: diavolo
+tipo: Immondo (diavolo)
 dimensione: Grande
 allineamento: legale malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 17
@@ -16,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 22
@@ -42,31 +39,23 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 8
-
 resistenze:
-  - freddo
-
+- freddo
 immunita_danni:
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 13
-  scurovisione: 45 m
-  dettagli_scurovisione: non ostacolata dall'oscurità magica
-
+  scurovisione_45_m_non_ostacolata_dall_oscurita_magica: true
 lingue:
-  - Infernale
-  - telepatia 36 m
-
+- Infernale
+- telepatia 36 m
 grado_sfida:
   valore: 11
-  punti_esperienza: 7.200
+  punti_esperienza: 7200
   raw: 11 (PE 7.200; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

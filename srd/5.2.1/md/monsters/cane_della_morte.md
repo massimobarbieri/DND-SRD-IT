@@ -4,20 +4,15 @@ nome: Cane della morte
 tipo: Mostruosità
 dimensione: Media
 allineamento: neutrale malvagio
-
 classe_armatura: 12
-
 iniziativa:
   valore: 12
   bonus: 2
-
 punti_ferita:
-  medi: 39
+  media: 39
   formula: 6d8 + 12
-
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -43,31 +38,25 @@ caratteristiche:
     punteggio: 6
     modificatore: -2
     tiro_salvezza: -2
-
 abilita:
   furtivita: 4
   percezione: 5
-
-immunita_condizioni:
-  - accecato
-  - affascinato
-  - assordato
-  - privo di sensi
-  - spaventato
-  - stordito
-
+immunita_condizione:
+- accecato
+- affascinato
+- assordato
+- privo di sensi
+- spaventato
+- stordito
 sensi:
   percezione_passiva: 15
-  scurovisione: 36 m  
-
+  scurovisione: 36 m
 lingue:
-  - Nessuna
-
+- nessuna
 grado_sfida:
   valore: 1
   punti_esperienza: 200
   raw: 1 (PE 200; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

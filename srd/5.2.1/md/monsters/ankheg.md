@@ -4,21 +4,15 @@ nome: Ankheg
 tipo: Mostruosità
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 14
-
 iniziativa:
   valore: 10
   bonus: 0
-
 punti_ferita:
   media: 45
   formula: 6d10 + 12
-
 velocita:
-  camminata: 9 m
-  scavo: 3 m
-
+  camminata: scavo 3 m
 caratteristiche:
   forza:
     punteggio: 17
@@ -44,19 +38,16 @@ caratteristiche:
     punteggio: 6
     modificatore: -2
     tiro_salvezza: -2
-
 sensi:
   percezione_passiva: 11
   percezione_tellurica: 18 m
   scurovisione: 18 m
 lingue:
-- Nessuna  
-
+- nessuna
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

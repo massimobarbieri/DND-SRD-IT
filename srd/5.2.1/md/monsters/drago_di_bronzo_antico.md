@@ -2,11 +2,9 @@
 id: drago_di_bronzo_antico
 nome: Drago di bronzo antico
 gruppo: Draghi di bronzo
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Mastodontico
 allineamento: legale buono
-
 classe_armatura: 22
 iniziativa:
   valore: 24
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 29
@@ -44,30 +41,23 @@ caratteristiche:
     punteggio: 25
     modificatore: 7
     tiro_salvezza: 7
-
 abilita:
   furtivita: 7
   intuizione: 10
   percezione: 17
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 27
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 22
   punti_esperienza: 41000
   punti_esperienza_tana: 50000
   raw: 22 (PE 41.000, o 50.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

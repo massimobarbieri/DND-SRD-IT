@@ -5,19 +5,15 @@ gruppo: Bruti
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 16
 iniziativa:
   valore: 12
-  bonus: 2  
-
+  bonus: 2
 punti_ferita:
-  medi: 82
+  media: 82
   formula: 11d8 + 33
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 17
@@ -43,23 +39,18 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 2
-
 equipaggiamento:
-  - balestra pesante
-  - cotta di maglia
-  - martello da guerra 
-
+- balestra pesante
+- cotta di maglia
+- martello da guerra
 sensi:
   percezione_passiva: 10
-
 lingue:
-  - Comune più un'altra lingua
-
+- Comune più un'altra lingua
 grado_sfida:
   valore: 4
-  punti_esperienza: 1.100 
+  punti_esperienza: 1100
   raw: 4 (PE 1.100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

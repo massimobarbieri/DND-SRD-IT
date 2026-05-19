@@ -4,7 +4,6 @@ nome: Cubo gelatinoso
 tipo: Melma
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 6
 iniziativa:
   valore: 6
@@ -13,8 +12,7 @@ punti_ferita:
   media: 63
   formula: 6d10 + 30
 velocita:
-  camminata: 4,5 m
-
+  camminata: 5 m
 caratteristiche:
   forza:
     punteggio: 14
@@ -40,30 +38,24 @@ caratteristiche:
     punteggio: 1
     modificatore: -5
     tiro_salvezza: -5
-
 immunita_danni:
-  - acido
-
-immunita_condizioni:
-  - accecato
-  - affascinato
-  - assordato
-  - indebolimento
-  - prono
-  - spaventato
-
+- acido
+immunita_condizione:
+- accecato
+- affascinato
+- assordato
+- indebolimento
+- prono
+- spaventato
 sensi:
   percezione_passiva: 8
   vista_cieca: 18 m
-
 lingue:
-  - nessuna
-
+- nessuna
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

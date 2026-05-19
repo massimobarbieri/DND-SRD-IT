@@ -4,20 +4,15 @@ nome: Beccoaguzzo
 tipo: Mostruosità
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 11
-
 iniziativa:
   valore: 11
   bonus: 1
-
 punti_ferita:
-  medi: 19
+  media: 19
   formula: 3d10 + 3
-
 velocita:
   camminata: 15 m
-
 caratteristiche:
   forza:
     punteggio: 14
@@ -43,18 +38,14 @@ caratteristiche:
     punteggio: 5
     modificatore: -3
     tiro_salvezza: -3
-
 sensi:
   percezione_passiva: 10
-
 lingue:
-  - Nessuna  
-
+- nessuna
 grado_sfida:
-  valore: 1/4
+  valore: 0.25
   punti_esperienza: 50
   raw: 1/4 (PE 50; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

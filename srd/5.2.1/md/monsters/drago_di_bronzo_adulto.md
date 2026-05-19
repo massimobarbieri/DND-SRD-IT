@@ -2,11 +2,9 @@
 id: drago_di_bronzo_adulto
 nome: Drago di bronzo adulto
 gruppo: Draghi di bronzo
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Enorme
 allineamento: legale buono
-
 classe_armatura: 18
 iniziativa:
   valore: 20
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 25
@@ -44,30 +41,23 @@ caratteristiche:
     punteggio: 20
     modificatore: 5
     tiro_salvezza: 5
-
 abilita:
   furtivita: 5
   intuizione: 7
   percezione: 12
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 22
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 15
   punti_esperienza: 13000
   punti_esperienza_tana: 15000
   raw: 15 (PE 13.000, o 15.000 nella tana; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti

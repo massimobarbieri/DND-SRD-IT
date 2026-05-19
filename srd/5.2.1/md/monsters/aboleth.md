@@ -4,21 +4,16 @@ nome: Aboleth
 tipo: Aberrazione
 dimensione: Grande
 allineamento: legale malvagio
-
 classe_armatura: 17
-
 iniziativa:
   valore: 17
   bonus: 7
-
 punti_ferita:
   media: 150
   formula: 20d10 + 40
-
 velocita:
   camminata: 3 m
   nuoto: 12 m
-
 caratteristiche:
   forza:
     punteggio: 21
@@ -44,25 +39,20 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 4
-
 abilita:
   percezione: 10
   storia: 12
-
 sensi:
   percezione_passiva: 20
   scurovisione: 36 m
-
 lingue:
-  - Gergo delle Profondità
-  - telepatia 36 m
-
+- Gergo delle Profondità
+- telepatia 36 m
 grado_sfida:
   valore: 10
   punti_esperienza: 5900
   punti_esperienza_tana: 7200
   raw: 10 (PE 5.900, o 7.200 nella tana; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

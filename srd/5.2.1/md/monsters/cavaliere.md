@@ -4,20 +4,15 @@ nome: Cavaliere
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 18
-
 iniziativa:
   valore: 10
   bonus: 0
-
 punti_ferita:
-  medi: 52
+  media: 52
   formula: 8d8 + 16
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -43,25 +38,20 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 equipaggiamento:
-  - armatura a piastre
-  - balestra pesante
-  - spadone  
-
-immunita_condizioni:
-  - spaventato  
+- armatura a piastre
+- balestra pesante
+- spadone
+immunita_condizione:
+- spaventato
 sensi:
   percezione_passiva: 10
-
 lingue:
-  - Comune più un'altra lingua
-
+- Comune più un'altra lingua
 grado_sfida:
-  valore: 23
+  valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

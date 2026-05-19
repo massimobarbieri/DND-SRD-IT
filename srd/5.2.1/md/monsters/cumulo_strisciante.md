@@ -4,7 +4,6 @@ nome: Cumulo strisciante
 tipo: Vegetale
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 15
 iniziativa:
   valore: 9
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   nuoto: 6 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -41,33 +39,25 @@ caratteristiche:
     punteggio: 5
     modificatore: -3
     tiro_salvezza: -3
-
 abilita:
   furtivita: 3
-
 resistenze:
-  - freddo
-  - fuoco
-
+- freddo
+- fuoco
 immunita_danni:
-  - fulmine
-
-immunita_condizioni:
-  - assordato
-  - indebolimento
-
+- fulmine
+immunita_condizione:
+- assordato
+- indebolimento
 sensi:
   percezione_passiva: 10
   vista_cieca: 18 m
-
 lingue:
-  - nessuna
-
+- nessuna
 grado_sfida:
   valore: 5
-  punti_esperienza: 1.800
+  punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

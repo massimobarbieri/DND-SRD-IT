@@ -2,11 +2,9 @@
 id: drago_nero_giovane
 nome: Drago nero giovane
 gruppo: Draghi neri
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 15
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,28 +41,21 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 5
   percezione: 6
-
 immunita_danni:
-  - acido
-
+- acido
 sensi:
   percezione_passiva: 16
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 7
   punti_esperienza: 2900
   raw: 7 (PE 2.900; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

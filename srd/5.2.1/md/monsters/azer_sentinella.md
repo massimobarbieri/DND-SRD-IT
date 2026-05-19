@@ -1,24 +1,19 @@
 ---
 id: azer_sentinella
-nome: Azer Sentinella
+nome: Azer sentinella
 gruppo: Azer
-tipo:** Elementale
-dimensione:** Medio
-allineamento:** legale neutrale
-
+tipo: Elementale
+dimensione: Medio
+allineamento: legale neutrale
 classe_armatura: 17
-
 iniziativa:
   valore: 11
   bonus: 1
-
 punti_ferita:
   media: 39
   formula: 6d8 + 12
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 17
@@ -44,22 +39,19 @@ caratteristiche:
     punteggio: 10
     modificatore: 0
     tiro_salvezza: 0
-
 immunita_danni:
-  - fuoco
-  - veleno
-immunita_condizioni:
-  - avvelenato
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 11
 lingue:
-  - Primordiale (Ignan)  
-
+- Primordiale (Ignan)
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

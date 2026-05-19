@@ -2,11 +2,9 @@
 id: drago_d_ottone_giovane
 nome: Drago d'ottone giovane
 gruppo: Draghi d'ottone
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Grande
 allineamento: caotico buono
-
 classe_armatura: 17
 iniziativa:
   valore: 13
@@ -15,10 +13,8 @@ punti_ferita:
   media: 110
   formula: 13d10 + 39
 velocita:
-  camminata: 12 m
-  scavo: 6 m
+  camminata: scavo 6 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,29 +40,22 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 3
   percezione: 6
   persuasione: 5
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 16
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 6
   punti_esperienza: 2300
   raw: 6 (PE 2.300; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

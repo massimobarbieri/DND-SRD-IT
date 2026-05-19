@@ -1,11 +1,9 @@
 ---
 id: diavolo_barbuto
 nome: Diavolo barbuto
-tipo: Immondo
-sottotipo: diavolo
+tipo: Immondo (diavolo)
 dimensione: Medio
 allineamento: legale malvagio
-
 classe_armatura: 13
 iniziativa:
   valore: 12
@@ -15,7 +13,6 @@ punti_ferita:
   formula: 9d8 + 18
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -41,31 +38,24 @@ caratteristiche:
     punteggio: 14
     modificatore: 2
     tiro_salvezza: 4
-
 resistenze:
-  - freddo
-
+- freddo
 immunita_danni:
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-  - spaventato
-
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
+- spaventato
 sensi:
   percezione_passiva: 10
-  scurovisione: 36 m non ostacolata dall'oscurità magica
-
+  scurovisione_36_m_non_ostacolata_dall_oscurita_magica: true
 lingue:
-  - Infernale
-  - telepatia 36 m
-
+- Infernale
+- telepatia 36 m
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

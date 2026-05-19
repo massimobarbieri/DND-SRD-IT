@@ -4,7 +4,6 @@ nome: Driade
 tipo: Folletto
 dimensione: Medio
 allineamento: neutrale
-
 classe_armatura: 16
 iniziativa:
   valore: 11
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 5d8
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 10
@@ -40,24 +38,18 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 4
-
 abilita:
   furtivita: 5
   percezione: 4
-
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
-
 lingue:
-  - Elfico
-  - Silvano
-
+- Elfico, Silvano
 grado_sfida:
   valore: 1
   punti_esperienza: 200
   raw: 1 (PE 200; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

@@ -2,11 +2,9 @@
 id: drago_verde_antico
 nome: Drago verde antico
 gruppo: Draghi verdi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Mastodontico
 allineamento: legale malvagio
-
 classe_armatura: 21
 iniziativa:
   valore: 25
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 27
@@ -44,34 +41,26 @@ caratteristiche:
     punteggio: 22
     modificatore: 6
     tiro_salvezza: 6
-
 abilita:
   furtivita: 8
   inganno: 13
   percezione: 17
   persuasione: 13
-
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 27
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 22
   punti_esperienza: 41000
   punti_esperienza_tana: 50000
   raw: 22 (PE 41.000, o 50.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

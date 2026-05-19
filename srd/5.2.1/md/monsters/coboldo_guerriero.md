@@ -5,20 +5,15 @@ gruppo: Coboldo
 tipo: Drago
 dimensione: Piccolo
 allineamento: neutrale
-
 classe_armatura: 14
-
 iniziativa:
   valore: 12
   bonus: 2
-
 punti_ferita:
-  medi: 7
+  media: 7
   formula: 3d6 - 3
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 7
@@ -34,8 +29,8 @@ caratteristiche:
     tiro_salvezza: -1
   intelligenza:
     punteggio: 8
-    modificatore: -2
-    tiro_salvezza: -2
+    modificatore: -1
+    tiro_salvezza: -1
   saggezza:
     punteggio: 7
     modificatore: -2
@@ -44,23 +39,17 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 equipaggiamento:
-  - pugnali (3)  
-
+- pugnali (3)
 sensi:
   percezione_passiva: 8
   scurovisione: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
-  valore: 1/8
+  valore: 0.125
   punti_esperienza: 25
   raw: 1/8 (PE 25; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

@@ -4,19 +4,15 @@ nome: Berserker
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 13
 iniziativa:
   valore: 11
   bonus: 1
-
 punti_ferita:
-  medi: 67
+  media: 67
   formula: 9d8 + 27
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -42,23 +38,17 @@ caratteristiche:
     punteggio: 9
     modificatore: -1
     tiro_salvezza: -1
-
 equipaggiamento:
-  - ascia bipenne
-  - armatura di pelle
-
+- ascia bipenne
+- armatura di pelle
 sensi:
   percezione_passiva: 10
-
 lingue:
-  - Comune
-
-
+- Comune
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

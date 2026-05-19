@@ -1,11 +1,9 @@
 ---
 id: efreeti
 nome: Efreeti
-tipo: Elementale
-sottotipo: genio
+tipo: Elementale (genio)
 dimensione: Grande
 allineamento: neutrale
-
 classe_armatura: 17
 iniziativa:
   valore: 11
@@ -15,9 +13,7 @@ punti_ferita:
   formula: 17d10 + 119
 velocita:
   camminata: 12 m
-  volo: 18 m
-  dettagli_volo: fluttuare
-
+  volo: 18 m (fluttuare)
 caratteristiche:
   forza:
     punteggio: 22
@@ -43,22 +39,17 @@ caratteristiche:
     punteggio: 19
     modificatore: 4
     tiro_salvezza: 8
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 12
   scurovisione: 36 m
-
 lingue:
-  - Primordiale (Ignan)
-
+- Primordiale (Ignan)
 grado_sfida:
   valore: 11
   punti_esperienza: 7200
   raw: 11 (PE 7.200; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

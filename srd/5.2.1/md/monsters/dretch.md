@@ -1,11 +1,9 @@
 ---
 id: dretch
 nome: Dretch
-tipo: Immondo
-sottotipo: demone
+tipo: Immondo (demone)
 dimensione: Piccolo
 allineamento: caotico malvagio
-
 classe_armatura: 11
 iniziativa:
   valore: 10
@@ -15,7 +13,6 @@ punti_ferita:
   formula: 4d6 + 4
 velocita:
   camminata: 6 m
-
 caratteristiche:
   forza:
     punteggio: 12
@@ -41,31 +38,24 @@ caratteristiche:
     punteggio: 3
     modificatore: -4
     tiro_salvezza: -4
-
 resistenze:
-  - freddo
-  - fulmine
-  - fuoco
-
+- freddo
+- fulmine
+- fuoco
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 9
   scurovisione: 18 m
-
 lingue:
-  - Abissale
-  - telepatia 18 m (funziona solo con le creature che capiscono l'Abissale)
-
+- Abissale
+- telepatia 18 m (funziona solo le creature che capiscono l'Abissale)
 grado_sfida:
   valore: 0.25
   punti_esperienza: 50
   raw: 1/4 (PE 50; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

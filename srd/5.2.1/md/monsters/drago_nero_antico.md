@@ -2,11 +2,9 @@
 id: drago_nero_antico
 nome: Drago nero antico
 gruppo: Draghi neri
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Mastodontico
 allineamento: caotico malvagio
-
 classe_armatura: 22
 iniziativa:
   valore: 26
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 27
@@ -44,29 +41,22 @@ caratteristiche:
     punteggio: 22
     modificatore: 6
     tiro_salvezza: 6
-
 abilita:
   furtivita: 9
   percezione: 16
-
 immunita_danni:
-  - acido
-
+- acido
 sensi:
   percezione_passiva: 26
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 21
   punti_esperienza: 33000
   punti_esperienza_tana: 41000
   raw: 21 (PE 33.000, o 41.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

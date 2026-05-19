@@ -4,7 +4,6 @@ nome: Drider
 tipo: Mostruosità
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 19
 iniziativa:
   valore: 14
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   scalata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -41,24 +39,18 @@ caratteristiche:
     punteggio: 12
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   furtivita: 10
   percezione: 6
-
 sensi:
   percezione_passiva: 16
   scurovisione: 36 m
-
 lingue:
-  - Elfico
-  - Sottocomune
-
+- Elfico, Sottocomune
 grado_sfida:
   valore: 6
   punti_esperienza: 2300
   raw: 6 (PE 2.300; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

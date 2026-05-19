@@ -2,11 +2,9 @@
 id: drago_nero_cucciolo
 nome: Drago nero cucciolo
 gruppo: Draghi neri
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 17
 iniziativa:
   valore: 14
@@ -18,7 +16,6 @@ velocita:
   camminata: 9 m
   nuoto: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -44,27 +41,21 @@ caratteristiche:
     punteggio: 13
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   furtivita: 4
   percezione: 4
-
 immunita_danni:
-  - acido
-
+- acido
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

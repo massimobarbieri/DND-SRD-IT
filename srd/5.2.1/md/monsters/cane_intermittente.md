@@ -4,20 +4,15 @@ nome: Cane intermittente
 tipo: Folletto
 dimensione: Medio
 allineamento: legale buono
-
 classe_armatura: 13
-
 iniziativa:
   valore: 13
   bonus: 3
-
 punti_ferita:
-  medi: 22
+  media: 22
   formula: 4d8 + 4
-
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 12
@@ -43,24 +38,19 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   furtivita: 5
   percezione: 5
-
 sensi:
   percezione_passiva: 15
-  scurovisione: 18 m  
-
+  scurovisione: 18 m
 lingue:
-  - Cane intermittente
-  - capisce l'Elfico e il Silvano ma non li parla 
-
+- Cane intermittente
+- capisce l'Elfico e il Silvano ma non li parla
 grado_sfida:
-  valore: 1/4
+  valore: 0.25
   punti_esperienza: 50
   raw: 1/4 (PE 50; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

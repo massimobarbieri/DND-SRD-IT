@@ -1,25 +1,19 @@
 ---
 id: capo_dei_banditi
-nome: Capo dei Banditi
+nome: Capo dei banditi
 gruppo: Banditi
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
-classe_armatura:
-  valore: 15
-
+classe_armatura: 15
 iniziativa:
   valore: 13
   bonus: 3
-
 punti_ferita:
   media: 52
   formula: 8d8 + 16
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -40,32 +34,26 @@ caratteristiche:
   saggezza:
     punteggio: 11
     modificatore: 0
-    tiro_salvezza: 0
+    tiro_salvezza: 2
   carisma:
     punteggio: 14
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   atletica: 4
-  inganno: 4  
-
+  inganno: 4
 equipaggiamento:
-  - armatura di cuoio borchiato
-  - pistola
-  - scimitarra
-
+- armatura di cuoio borchiato
+- pistola
+- scimitarra
 sensi:
   percezione_passiva: 10
 lingue:
-  - Comune
-  - Gergo ladresco  
-
+- Comune, Gergo ladresco
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

@@ -3,19 +3,17 @@ id: behir
 nome: Behir
 tipo: Mostruosità
 dimensione: Enorme
-allineamento: neutrale malvagio  
-
+allineamento: neutrale malvagio
 classe_armatura: 17
 iniziativa:
   valore: 13
   bonus: 3
 punti_ferita:
-  medi: 168
+  media: 168
   formula: 16d12 + 64
 velocita:
   camminata: 15 m
   scalata: 15 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -41,24 +39,20 @@ caratteristiche:
     punteggio: 12
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   furtivita: 7
   percezione: 6
 immunita_danni:
-  - fulmine
+- fulmine
 sensi:
   percezione_passiva: 16
   scurovisione: 27 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 11
-  punti_esperienza: 7.200
+  punti_esperienza: 7200
   raw: 11 (PE 7.200; BC +4)
-
 bonus_competenza: 4
 ---
 ## Azioni

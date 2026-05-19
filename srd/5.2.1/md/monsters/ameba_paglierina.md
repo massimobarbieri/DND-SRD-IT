@@ -1,23 +1,19 @@
 ---
 id: ameba_paglierina
-nome: Ameba Paglierina
+nome: Ameba paglierina
 tipo: Melma
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 8
-iniziativa: 
+iniziativa:
   valore: 8
   bonus: -2
-
-punti_ferita: 
+punti_ferita:
   media: 52
   formula: 7d10 + 14
-
 velocita:
   camminata: 6 m
   scalata: 6 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -43,32 +39,28 @@ caratteristiche:
     punteggio: 1
     modificatore: -5
     tiro_salvezza: -5
-
-resistenze: 
-  - acido  
+resistenze:
+- acido
 immunita_danni:
-  - fulmine
-  - tagliente 
+- fulmine
+- tagliente
 immunita_condizione:
-  - affascinato
-  - afferrato
-  - assordato
-  - indebolimento
-  - prono
-  - spaventato
-  - trattenuto
+- affascinato
+- afferrato
+- assordato
+- indebolimento
+- prono
+- spaventato
+- trattenuto
 sensi:
   percezione_passiva: 8
-  vista_cieca: 18 m 
-
+  vista_cieca: 18 m
 lingue:
-  - Nessuna
-
+- nessuna
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

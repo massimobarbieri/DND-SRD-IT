@@ -2,11 +2,9 @@
 id: drago_rosso_giovane
 nome: Drago rosso giovane
 gruppo: Draghi rossi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 14
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   scalata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -44,28 +41,21 @@ caratteristiche:
     punteggio: 19
     modificatore: 4
     tiro_salvezza: 4
-
 abilita:
   furtivita: 4
   percezione: 8
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 18
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 10
   punti_esperienza: 5900
   raw: 10 (PE 5.900; BC +4)
-
 bonus_competenza: 4
 ---
 ## Azioni

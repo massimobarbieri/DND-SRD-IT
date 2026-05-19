@@ -2,11 +2,9 @@
 id: drago_blu_adulto
 nome: Drago blu adulto
 gruppo: Draghi blu
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Enorme
 allineamento: legale malvagio
-
 classe_armatura: 19
 iniziativa:
   valore: 20
@@ -15,10 +13,8 @@ punti_ferita:
   media: 212
   formula: 17d12 + 102
 velocita:
-  camminata: 12 m
-  scavo: 9 m
+  camminata: scavo 9 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 25
@@ -44,29 +40,22 @@ caratteristiche:
     punteggio: 20
     modificatore: 5
     tiro_salvezza: 5
-
 abilita:
   furtivita: 5
   percezione: 12
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 22
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 16
   punti_esperienza: 15000
   punti_esperienza_tana: 18000
   raw: 16 (PE 15.000, o 18.000 nella tana; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti
