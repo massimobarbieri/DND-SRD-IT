@@ -1,0 +1,9 @@
+---
+id: stivali_alati
+nome: Stivali alati
+tipo: Oggetto meraviglioso
+tipo_base: Oggetto meraviglioso
+rarita: non comune
+richiede_sintonia: true
+---
+Questi stivali hanno 4 cariche e recuperano 1d4 cariche consumate all'alba di ogni giorno. Mentre indossa gli stivali, il personaggio può effettuare un'azione di Magia per consumare 1 carica, ottenendo una velocità di volo di 9 metri per 1 ora. Se il personaggio è in volo quando la durata si esaurisce, scende a una velocità di 9 metri per round finché non atterra.

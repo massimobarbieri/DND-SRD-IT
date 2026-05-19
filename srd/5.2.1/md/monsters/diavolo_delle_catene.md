@@ -1,11 +1,9 @@
 ---
 id: diavolo_delle_catene
 nome: Diavolo delle catene
-tipo: Immondo
-sottotipo: diavolo
+tipo: Immondo (diavolo)
 dimensione: Medio
 allineamento: legale malvagio
-
 classe_armatura: 15
 iniziativa:
   valore: 15
@@ -15,7 +13,6 @@ punti_ferita:
   formula: 10d8 + 40
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -41,34 +38,26 @@ caratteristiche:
     punteggio: 14
     modificatore: 2
     tiro_salvezza: 2
-
 resistenze:
-  - contundente
-  - freddo
-  - perforante
-  - tagliente
-
+- contundente
+- freddo
+- perforante
+- tagliente
 immunita_danni:
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 11
-  scurovisione: 36 m
-  dettagli_scurovisione: non ostacolata dall'oscurità magica
-
+  scurovisione_36_m_non_ostacolata_dall_oscurita_magica: true
 lingue:
-  - Infernale
-  - telepatia 36 m
-
+- Infernale
+- telepatia 36 m
 grado_sfida:
   valore: 8
-  punti_esperienza: 3.900
+  punti_esperienza: 3900
   raw: 8 (PE 3.900; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

@@ -2,11 +2,9 @@
 id: drago_di_bronzo_cucciolo
 nome: Drago di bronzo cucciolo
 gruppo: Draghi di bronzo
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Medio
 allineamento: legale buono
-
 classe_armatura: 15
 iniziativa:
   valore: 12
@@ -18,7 +16,6 @@ velocita:
   camminata: 9 m
   nuoto: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 17
@@ -44,27 +41,21 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 2
   percezione: 4
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

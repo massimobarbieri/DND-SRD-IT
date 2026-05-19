@@ -4,7 +4,6 @@ nome: Fuoco fatuo
 tipo: Non morto
 dimensione: Minuscolo
 allineamento: caotico malvagio
-
 classe_armatura: 19
 iniziativa:
   valore: 19
@@ -13,10 +12,8 @@ punti_ferita:
   media: 27
   formula: 11d4
 velocita:
-  camminata: 1,5 m
-  volo: 15 m
-  dettagli_volo: fluttuare
-
+  camminata: 5 m
+  volo: 15 m (fluttuare)
 caratteristiche:
   forza:
     punteggio: 1
@@ -42,43 +39,35 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 0
-
 resistenze:
-  - acido
-  - contundente
-  - freddo
-  - fuoco
-  - necrotico
-  - perforante
-  - tagliente
-
+- acido
+- contundente
+- freddo
+- fuoco
+- necrotico
+- perforante
+- tagliente
 immunita_danni:
-  - fulmine
-  - veleno
-
-immunita_condizioni:
-  - afferrato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - privo di sensi
-  - prono
-  - trattenuto
-
+- fulmine
+- veleno
+immunita_condizione:
+- afferrato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- privo di sensi
+- prono
+- trattenuto
 sensi:
   percezione_passiva: 12
   scurovisione: 36 m
-
 lingue:
-  - Comune
-  - un'altra lingua
-
+- Comune più un'altra lingua
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

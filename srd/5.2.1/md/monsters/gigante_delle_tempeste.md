@@ -5,7 +5,6 @@ gruppo: Giganti
 tipo: Gigante
 dimensione: Enorme
 allineamento: caotico buono
-
 classe_armatura: 16
 iniziativa:
   valore: 17
@@ -14,11 +13,9 @@ punti_ferita:
   media: 230
   formula: 20d12 + 100
 velocita:
-  camminata: 15 m
+  camminata: 5 m (fluttuare)
   nuoto: 15 m
-  volo: 7,5 m
-  dettagli_volo: fluttuare
-
+  volo: '7'
 caratteristiche:
   forza:
     punteggio: 29
@@ -44,34 +41,26 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 9
-
 abilita:
   arcano: 8
   atletica: 14
   percezione: 10
   storia: 8
-
 resistenze:
-  - freddo
-
+- freddo
 immunita_danni:
-  - fulmine
-  - tuono
-
+- fulmine
+- tuono
 sensi:
   percezione_passiva: 20
   scurovisione: 36 m
   vista_pura: 9 m
-
 lingue:
-  - Comune
-  - Gigante
-
+- Comune, Gigante
 grado_sfida:
   valore: 13
   punti_esperienza: 10000
   raw: 13 (PE 10.000; BC +5)
-
 bonus_competenza: 5
 ---
 ## Azioni

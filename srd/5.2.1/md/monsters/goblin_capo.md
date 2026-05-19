@@ -3,10 +3,8 @@ id: goblin_capo
 nome: Goblin capo
 gruppo: Goblin
 tipo: Folletto
-sottotipo: goblinoide
 dimensione: Piccolo
 allineamento: caotico neutrale
-
 classe_armatura: 17
 iniziativa:
   valore: 12
@@ -16,7 +14,6 @@ punti_ferita:
   formula: 6d6
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 10
@@ -42,29 +39,22 @@ caratteristiche:
     punteggio: 10
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   furtivita: 6
-
 equipaggiamento:
-  - arco corto
-  - giaco di maglia
-  - scimitarra
-  - scudo
-
+- arco corto
+- giaco di maglia
+- scimitarra
+- scudo
 sensi:
   percezione_passiva: 9
   scurovisione: 18 m
-
 lingue:
-  - Comune
-  - Goblin
-
+- Comune, Goblin
 grado_sfida:
   valore: 1
   punti_esperienza: 200
   raw: 1 (PE 200; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

@@ -1,11 +1,9 @@
 ---
 id: erinni
 nome: Erinni
-tipo: Immondo
-sottotipo: diavolo
+tipo: Immondo (diavolo)
 dimensione: Medio
 allineamento: legale malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 17
@@ -16,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -42,34 +39,26 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 8
-
 abilita:
   percezione: 6
   persuasione: 8
-
 resistenze:
-  - freddo
-
+- freddo
 immunita_danni:
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 16
   vista_pura: 36 m
-
 lingue:
-  - Infernale
-  - telepatia 36 m
-
+- Infernale
+- telepatia 36 m
 grado_sfida:
   valore: 12
   punti_esperienza: 8400
   raw: 12 (PE 8.400; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

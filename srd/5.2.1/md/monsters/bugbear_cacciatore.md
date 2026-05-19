@@ -2,24 +2,18 @@
 id: bugbear_cacciatore
 nome: Bugbear cacciatore
 gruppo: Bugbear
-tipo: Folletto
-sottotipo: goblinoide
+tipo: Folletto (goblinoide)
 dimensione: Medio
 allineamento: caotico malvagio
-
-classe_armatura: 15  
-
+classe_armatura: 15
 iniziativa:
   valore: 12
   bonus: 2
-
 punti_ferita:
-  medi: 65
+  media: 65
   formula: 10d8 + 20
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 17
@@ -45,29 +39,22 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   furtivita: 6
   sopravvivenza: 3
-
 equipaggiamento:
-  - giaco di maglia
-  - giavellotti (6)
-  - mazza chiodata 
-
+- giaco di maglia
+- giavellotti (6)
+- mazza chiodata
 sensi:
   percezione_passiva: 11
-  scurovisione: 18 m  
-
+  scurovisione: 18 m
 lingue:
-  - Comune
-  - Goblin
-
+- Comune, Goblin
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

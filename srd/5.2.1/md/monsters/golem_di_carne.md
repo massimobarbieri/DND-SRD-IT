@@ -4,7 +4,6 @@ nome: Golem di carne
 tipo: Costrutto
 dimensione: Medio
 allineamento: neutrale
-
 classe_armatura: 9
 iniziativa:
   valore: 9
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 15d8 + 60
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -40,31 +38,25 @@ caratteristiche:
     punteggio: 5
     modificatore: -3
     tiro_salvezza: -3
-
 immunita_danni:
-  - fulmine
-  - veleno
-
-immunita_condizioni:
-  - affascinato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - spaventato
-
+- fulmine
+- veleno
+immunita_condizione:
+- affascinato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- spaventato
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Capisce il Comune e un'altra lingua ma non le parla
-
+- capisce il Comune più un'altra lingua ma non le parla
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

@@ -1,25 +1,19 @@
 ---
 id: balor
 nome: Balor
-tipo: Immondo
-sottotipo: demone
+tipo: Immondo (demone)
 dimensione: Enorme
 allineamento: caotico malvagio
-
 classe_armatura: 19
-
 iniziativa:
   valore: 24
   bonus: 14
-
 punti_ferita:
   media: 287
   formula: 23d12 + 138
-
 velocita:
   camminata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 26
@@ -45,30 +39,28 @@ caratteristiche:
     punteggio: 22
     modificatore: 6
     tiro_salvezza: 6
-
 abilita:
   percezione: 9
-
-resistenze:** freddo, fulmine  
-immunita_danni:** fuoco, veleno  
-immunita_condizioni:
-  - affascinato
-  - avvelenato
-  - spaventato 
-
+resistenze:
+- freddo
+- fulmine
+immunita_danni:
+- fuoco
+- veleno
+immunita_condizione:
+- affascinato
+- avvelenato
+- spaventato
 sensi:
   percezione_passiva: 19
-  vista_pura: 36 m  
-
+  vista_pura: 36 m
 lingue:
-  - Abissale
-  - telepatia 36 m  
-
+- Abissale
+- telepatia 36 m
 grado_sfida:
   valore: 19
-  punti_esperienza: 22.000
+  punti_esperienza: 22000
   raw: 19 (PE 22.000; BC +6)
-
 bonus_competenza: 6
 ---
 ## Tratti

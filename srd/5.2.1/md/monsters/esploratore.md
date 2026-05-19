@@ -4,7 +4,6 @@ nome: Esploratore
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 13
 iniziativa:
   valore: 12
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 3d8 + 3
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 11
@@ -40,30 +38,23 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   furtivita: 6
   natura: 4
   percezione: 5
   sopravvivenza: 5
-
 equipaggiamento:
-  - arco lungo
-  - armatura di cuoio
-  - spada corta
-
+- arco lungo
+- armatura di cuoio
+- spada corta
 sensi:
   percezione_passiva: 15
-
 lingue:
-  - Comune
-  - un'altra lingua
-
+- Comune più un'altra lingua
 grado_sfida:
   valore: 0.5
   punti_esperienza: 100
   raw: 1/2 (PE 100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

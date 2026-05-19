@@ -4,7 +4,6 @@ nome: Couatl
 tipo: Celestiale
 dimensione: Medio
 allineamento: legale buono
-
 classe_armatura: 19
 iniziativa:
   valore: 15
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   volo: 27 m
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -41,29 +39,23 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 4
-
 resistenze:
-  - contundente
-  - perforante
-  - tagliente
-
+- contundente
+- perforante
+- tagliente
 immunita_danni:
-  - psichico
-  - radioso
-
+- psichico
+- radioso
 sensi:
   percezione_passiva: 15
   vista_pura: 36 m
-
 lingue:
-  - tutte
-  - telepatia 36 m
-
+- tutte
+- telepatia 36 m
 grado_sfida:
   valore: 4
-  punti_esperienza: 1.100
+  punti_esperienza: 1100
   raw: 4 (PE 1.100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

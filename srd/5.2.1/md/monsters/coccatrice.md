@@ -4,21 +4,16 @@ nome: Coccatrice
 tipo: Mostruosità
 dimensione: Piccola
 allineamento: senza allineamento
-
 classe_armatura: 11
-
 iniziativa:
   valore: 11
   bonus: 1
-
 punti_ferita:
-  medi: 22
+  media: 22
   formula: 5d6 + 5
-
 velocita:
   camminata: 6 m
   volo: 12 m
-
 caratteristiche:
   forza:
     punteggio: 6
@@ -44,22 +39,17 @@ caratteristiche:
     punteggio: 5
     modificatore: -3
     tiro_salvezza: -3
-
-immunita_condizioni:
-  - pietrificato
-
+immunita_condizione:
+- pietrificato
 sensi:
   percezione_passiva: 11
   scurovisione: 18 m
-
 lingue:
-  - Nessuna
-
+- nessuna
 grado_sfida:
-  valore: 1/2
+  valore: 0.5
   punti_esperienza: 100
   raw: 1/2 (PE 100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

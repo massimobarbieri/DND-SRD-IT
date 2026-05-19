@@ -1,23 +1,15 @@
 ---
 id: cavalcatura_ultraterrena
 nome: Cavalcatura ultraterrena
-gruppo: Creatura evocata
 tipo: Celestiale, Folletto o Immondo (a scelta)
 dimensione: Grande
 allineamento: senza allineamento
-
-**classe_armatura: 13 + il bonus di competenza dell'incantatore
-
+classe_armatura: 13 + il bonus di competenza dell'incantatore
 iniziativa:
   valore: 12
   bonus: 2
-
-punti_ferita:
-  formula: 40 + 10 × livello dell'incantesimo  
-
-velocita: 
+velocita:
   camminata: 18 m (o altra velocità in base alla forma scelta)
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -43,19 +35,15 @@ caratteristiche:
     punteggio: 10
     modificatore: 0
     tiro_salvezza: 0
-
 sensi:
   percezione_passiva: 11
-
 lingue:
-  - Comprende le lingue dell'incantatore
-
+- comprende le lingue dell'incantatore
 grado_sfida:
-  valore: null
+  valore: 
   punti_esperienza: 0
   raw: nessuno (PE 0; BC pari al bonus di competenza dell'incantatore)
-
-bonus_competenza: pari al bonus di competenza dell'incantatore
+bonus_competenza: 0
 ---
 ## Tratti
 ### Legame con l'incantatore

@@ -4,21 +4,15 @@ nome: Bulette
 tipo: Mostruosità
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 17
-
 iniziativa:
   valore: 10
   bonus: 0
-
 punti_ferita:
-  medi: 94
+  media: 94
   formula: 9d10 + 45
-
 velocita:
-  camminata: 12 m
-  scavo: 12 m
-
+  camminata: scavo 12 m
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,23 +38,18 @@ caratteristiche:
     punteggio: 5
     modificatore: -3
     tiro_salvezza: -3
-
 abilita:
   percezione: 6
-
 sensi:
   percezione_passiva: 16
   percezione_tellurica: 36 m
   scurovisione: 18 m
-
 lingue:
-  - Nessuna
-
+- nessuna
 grado_sfida:
   valore: 5
-  punti_esperienza: 1.800
+  punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

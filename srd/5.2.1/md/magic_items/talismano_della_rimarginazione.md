@@ -1,0 +1,15 @@
+---
+id: talismano_della_rimarginazione
+nome: Talismano della rimarginazione
+tipo: Oggetto meraviglioso
+tipo_base: Oggetto meraviglioso
+rarita: non comune
+richiede_sintonia: true
+---
+Il personaggio che indossa questo pendente riceve i seguenti benefici:
+
+**Guarigione potenziata naturale**
+Ogni volta che il personaggio tira un Dado Vita per recuperare punti ferita, raddoppia il numero di punti ferita ripristinati.
+
+**Salvaguardia vitale**
+Ogni volta che il personaggio effettua un tiro salvezza contro morte, può trasformare un risultato di 9 o inferiore in un 10, ottenendo un successo anziché un fallimento.

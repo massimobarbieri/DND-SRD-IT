@@ -1,0 +1,23 @@
+---
+id: evoca_creature_boschive
+nome: Evoca creature boschive
+tipo: incantesimo
+livello: 4
+scuola: Evocazione
+classi: 
+  - druido
+  - ranger
+tempo_lancio: azione
+gittata: incantatore
+componenti: V, S
+durata: concentrazione, fino a 10 minuti
+pagine_sorgente: 145-146
+---
+L'incantatore evoca degli spiriti della natura che gli fluttuano attorno in un'emanazione di 3 metri per la durata dell'incantesimo. Ogni volta che l'emanazione entra nello spazio di una creatura che l'incantatore è in grado di vedere e ogni volta che una creatura che l'incantatore è in grado di vedere entra nell'emanazione o vi termina il suo turno, l'incantatore può costringerla a effettuare un tiro salvezza su Saggezza. In caso di fallimento, subisce 5d8 danni da forza, o la metà dei danni in caso di successo. Una creatura effettua questo tiro salvezza solo una volta per turno.
+
+Inoltre, per la durata dell'incantesimo, l'incantatore può effettuare l'azione di Disimpegno come azione bonus.
+
+### Scaling
+
+**Utilizzo di uno slot incantesimo di livello superiore**
+I danni aumentano di 1d8 per ogni slot di livello superiore al 4º.

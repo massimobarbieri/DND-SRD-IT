@@ -3,10 +3,8 @@ id: gigante_delle_colline
 nome: Gigante delle colline
 gruppo: Giganti
 tipo: Gigante
-sottotipo:
 dimensione: Enorme
 allineamento: caotico malvagio
-
 classe_armatura: 13
 iniziativa:
   valore: 12
@@ -16,7 +14,6 @@ punti_ferita:
   formula: 10d12 + 40
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 21
@@ -42,21 +39,16 @@ caratteristiche:
     punteggio: 6
     modificatore: -2
     tiro_salvezza: -2
-
 abilita:
   percezione: 2
-
 sensi:
   percezione_passiva: 12
-
 lingue:
-  - Gigante
-
+- Gigante
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

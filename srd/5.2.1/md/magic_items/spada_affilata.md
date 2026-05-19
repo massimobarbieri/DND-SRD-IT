@@ -1,0 +1,9 @@
+---
+id: spada_affilata
+nome: Spada affilata
+tipo: Arma (falcione, scimitarra, spada lunga o spadone)
+tipo_base: Arma
+rarita: molto rara
+richiede_sintonia: true
+---
+Quando il personaggio attacca un oggetto con quest'arma magica e l'attacco va a segno, mas-simizza i dadi dei danni della sua arma contro il bersaglio.Quando il personaggio attacca una creatura con quest'arma e ottiene 20 sul d20 al tiro per colpire, il bersaglio subisce 14 danni taglienti extra e ottiene 1 livello di indebolimento.

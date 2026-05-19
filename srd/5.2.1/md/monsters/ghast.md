@@ -4,7 +4,6 @@ nome: Ghast
 tipo: Non morto
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 13
 iniziativa:
   valore: 13
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 8d8
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -40,30 +38,23 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 resistenze:
-  - necrotico
-
+- necrotico
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - affascinato
-  - avvelenato
-  - indebolimento
-
+- veleno
+immunita_condizione:
+- affascinato
+- avvelenato
+- indebolimento
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Comune
-
+- Comune
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

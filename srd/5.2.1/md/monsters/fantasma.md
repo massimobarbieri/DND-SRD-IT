@@ -4,7 +4,6 @@ nome: Fantasma
 tipo: Non morto
 dimensione: Medio
 allineamento: neutrale
-
 classe_armatura: 11
 iniziativa:
   valore: 11
@@ -13,10 +12,8 @@ punti_ferita:
   media: 45
   formula: 10d8
 velocita:
-  camminata: 1,5 m
-  volo: 12 m
-  dettagli_volo: fluttuare
-
+  camminata: 5 m
+  volo: 12 m (fluttuare)
 caratteristiche:
   forza:
     punteggio: 7
@@ -42,45 +39,40 @@ caratteristiche:
     punteggio: 17
     modificatore: 3
     tiro_salvezza: 3
-
 resistenze:
-  - acido
-  - contundente
-  - freddo
-  - fulmine
-  - fuoco
-  - perforante
-  - tagliente
-  - tuono
-
+- acido
+- contundente
+- freddo
+- fulmine
+- fuoco
+- perforante
+- tagliente
+- tuono
 immunita_danni:
-  - necrotico
-  - veleno
-
-immunita_condizioni:
-  - affascinato
-  - afferrato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - prono
-  - spaventato
-  - trattenuto
-
+- necrotico
+- veleno
+- perforante
+- tagliente
+- tuono
+immunita_condizione:
+- affascinato
+- afferrato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- prono
+- spaventato
+- trattenuto
 sensi:
   percezione_passiva: 11
   scurovisione: 18 m
-
 lingue:
-  - Comune
-  - un'altra lingua
-
+- Comune più un'altra lingua
 grado_sfida:
   valore: 4
   punti_esperienza: 1100
   raw: 4 (PE 1.100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

@@ -4,7 +4,6 @@ nome: Fauce gorgogliante
 tipo: Aberrazione
 dimensione: Media
 allineamento: caotico neutrale
-
 classe_armatura: 9
 iniziativa:
   valore: 9
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 6 m
   nuoto: 6 m
-
 caratteristiche:
   forza:
     punteggio: 10
@@ -41,21 +39,17 @@ caratteristiche:
     punteggio: 6
     modificatore: -2
     tiro_salvezza: -2
-
 immunita_condizione:
-  - prono
-
+- prono
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
-lingue: []
-
+lingue:
+- nessuna
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

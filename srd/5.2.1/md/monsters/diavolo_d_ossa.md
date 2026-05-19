@@ -1,11 +1,9 @@
 ---
 id: diavolo_d_ossa
 nome: Diavolo d'ossa
-tipo: Immondo
-sottotipo: diavolo
+tipo: Immondo (diavolo)
 dimensione: Grande
 allineamento: legale malvagio
-
 classe_armatura: 16
 iniziativa:
   valore: 17
@@ -16,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 12 m
   volo: 12 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -42,35 +39,26 @@ caratteristiche:
     punteggio: 16
     modificatore: 3
     tiro_salvezza: 7
-
 abilita:
   inganno: 7
   intuizione: 6
-
 resistenze:
-  - freddo
-
+- freddo
 immunita_danni:
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 12
-  scurovisione: 36 m
-  dettagli_scurovisione: non ostacolata dall'oscurità magica
-
+  scurovisione_36_m_non_ostacolata_dall_oscurita_magica: true
 lingue:
-  - Infernale
-  - telepatia 36 m
-
+- Infernale
+- telepatia 36 m
 grado_sfida:
   valore: 9
   punti_esperienza: 5000
   raw: 9 (PE 5.000; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

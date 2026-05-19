@@ -2,11 +2,9 @@
 id: drago_d_argento_cucciolo
 nome: Drago d'argento cucciolo
 gruppo: Draghi d'argento
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Medio
 allineamento: legale buono
-
 classe_armatura: 17
 iniziativa:
   valore: 12
@@ -17,7 +15,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -43,27 +40,21 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 2
   percezione: 4
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

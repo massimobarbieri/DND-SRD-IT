@@ -2,11 +2,9 @@
 id: drago_verde_cucciolo
 nome: Drago verde cucciolo
 gruppo: Draghi verdi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Medio
 allineamento: legale malvagio
-
 classe_armatura: 17
 iniziativa:
   valore: 13
@@ -18,7 +16,6 @@ velocita:
   camminata: 9 m
   nuoto: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -44,30 +41,23 @@ caratteristiche:
     punteggio: 13
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   furtivita: 3
   percezione: 4
-
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

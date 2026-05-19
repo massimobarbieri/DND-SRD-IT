@@ -4,7 +4,6 @@ nome: Ettercap
 tipo: Mostruosità
 dimensione: Media
 allineamento: neutrale malvagio
-
 classe_armatura: 13
 iniziativa:
   valore: 12
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   scalata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 14
@@ -41,23 +39,19 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 abilita:
   furtivita: 4
   percezione: 3
   sopravvivenza: 3
-
 sensi:
   percezione_passiva: 13
   scurovisione: 18 m
-
-lingue: []
-
+lingue:
+- nessuna
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

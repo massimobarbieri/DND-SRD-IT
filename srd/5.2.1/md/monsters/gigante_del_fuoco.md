@@ -5,7 +5,6 @@ gruppo: Giganti
 tipo: Gigante
 dimensione: Enorme
 allineamento: legale malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 13
@@ -15,7 +14,6 @@ punti_ferita:
   formula: 13d12 + 78
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 25
@@ -41,25 +39,19 @@ caratteristiche:
     punteggio: 13
     modificatore: 1
     tiro_salvezza: 5
-
 abilita:
   atletica: 11
   percezione: 6
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 16
-
 lingue:
-  - Gigante
-
+- Gigante
 grado_sfida:
   valore: 9
   punti_esperienza: 5000
   raw: 9 (PE 5.000; BC +4)
-
 bonus_competenza: 4
 ---
 ## Azioni

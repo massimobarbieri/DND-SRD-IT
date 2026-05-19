@@ -3,10 +3,8 @@ id: gigante_delle_pietre
 nome: Gigante delle pietre
 gruppo: Giganti
 tipo: Gigante
-sottotipo:
 dimensione: Enorme
 allineamento: neutrale
-
 classe_armatura: 17
 iniziativa:
   valore: 15
@@ -16,7 +14,6 @@ punti_ferita:
   formula: 11d12 + 55
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -42,24 +39,19 @@ caratteristiche:
     punteggio: 9
     modificatore: -1
     tiro_salvezza: -1
-
 abilita:
   atletica: 12
   furtivita: 5
   percezione: 4
-
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
-
 lingue:
-  - Gigante
-
+- Gigante
 grado_sfida:
   valore: 7
   punti_esperienza: 2900
   raw: 7 (PE 2.900; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

@@ -2,11 +2,9 @@
 id: goblin_guerriero
 nome: Goblin guerriero
 gruppo: Goblin
-tipo: Folletto
-sottotipo: goblinoide
+tipo: Folletto (goblinoide)
 dimensione: Piccolo
 allineamento: caotico neutrale
-
 classe_armatura: 15
 iniziativa:
   valore: 12
@@ -16,7 +14,6 @@ punti_ferita:
   formula: 3d6
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 8
@@ -42,29 +39,22 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 abilita:
   furtivita: 6
-
 equipaggiamento:
-  - arco corto
-  - armatura di cuoio
-  - scimitarra
-  - scudo
-
+- arco corto
+- armatura di cuoio
+- scimitarra
+- scudo
 sensi:
   percezione_passiva: 9
   scurovisione: 18 m
-
 lingue:
-  - Comune
-  - Goblin
-
+- Comune, Goblin
 grado_sfida:
   valore: 0.25
   punti_esperienza: 50
   raw: 1/4 (PE 50; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

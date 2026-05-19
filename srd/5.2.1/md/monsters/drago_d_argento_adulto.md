@@ -2,11 +2,9 @@
 id: drago_d_argento_adulto
 nome: Drago d'argento adulto
 gruppo: Draghi d'argento
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Enorme
 allineamento: legale buono
-
 classe_armatura: 19
 iniziativa:
   valore: 20
@@ -17,7 +15,6 @@ punti_ferita:
 velocita:
   camminata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 27
@@ -43,30 +40,23 @@ caratteristiche:
     punteggio: 22
     modificatore: 6
     tiro_salvezza: 6
-
 abilita:
   furtivita: 5
   percezione: 11
   storia: 8
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 21
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 16
   punti_esperienza: 15000
   punti_esperienza_tana: 18000
   raw: 16 (PE 15.000, o 18.000 nella tana; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti

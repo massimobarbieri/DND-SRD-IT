@@ -1,0 +1,18 @@
+---
+id: fatale
+nome: Fatale
+tipo: incantesimo
+livello: 9
+scuola: Illusione
+classi: 
+  - mago
+  - warlock
+tempo_lancio: azione
+gittata: 36 metri
+componenti: V, S
+durata: concentrazione, fino a 1 minuto
+pagine_sorgente: 147-147
+---
+L'incantatore tenta di creare orrori illusori nella mente degli avversari. Ogni creatura a sua scelta all'interno di una sfera con raggio di 9 metri, centrata su un punto entro gittata, effettua un tiro salvezza su Saggezza. In caso di fallimento, il bersaglio subisce 10d10 danni psichici ed è spaventato per la durata dell'incantesimo. Se invece lo supera, subisce soltanto la metà di quei danni.
+
+Un bersaglio spaventato effettua un tiro salvezza su Saggezza alla fine di ogni suo turno. In caso di fallimento, subisce 5d10 danni psichici, mentre in caso di successo l'incantesimo termina.

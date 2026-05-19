@@ -2,11 +2,9 @@
 id: drago_di_rame_antico
 nome: Drago di rame antico
 gruppo: Draghi di rame
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Mastodontico
 allineamento: caotico buono
-
 classe_armatura: 21
 iniziativa:
   valore: 25
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   scalata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 27
@@ -44,30 +41,23 @@ caratteristiche:
     punteggio: 22
     modificatore: 6
     tiro_salvezza: 6
-
 abilita:
   furtivita: 8
   inganno: 13
   percezione: 17
-
 immunita_danni:
-  - acido
-
+- acido
 sensi:
   percezione_passiva: 27
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 21
   punti_esperienza: 33000
   punti_esperienza_tana: 41000
   raw: 21 (PE 33.000, o 41.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

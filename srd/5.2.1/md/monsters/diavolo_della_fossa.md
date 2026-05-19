@@ -1,11 +1,9 @@
 ---
 id: diavolo_della_fossa
 nome: Diavolo della fossa
-tipo: Immondo
-sottotipo: diavolo
+tipo: Immondo (diavolo)
 dimensione: Grande
 allineamento: legale malvagio
-
 classe_armatura: 21
 iniziativa:
   valore: 24
@@ -16,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 26
@@ -42,34 +39,26 @@ caratteristiche:
     punteggio: 24
     modificatore: 7
     tiro_salvezza: 7
-
 abilita:
   percezione: 10
   persuasione: 19
-
 resistenze:
-  - freddo
-
+- freddo
 immunita_danni:
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 20
   vista_pura: 36 m
-
 lingue:
-  - Infernale
-  - telepatia 36 m
-
+- Infernale
+- telepatia 36 m
 grado_sfida:
   valore: 20
   punti_esperienza: 25000
   raw: 20 (PE 25.000; BC +6)
-
 bonus_competenza: 6
 ---
 ## Tratti

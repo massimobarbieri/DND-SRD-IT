@@ -5,7 +5,6 @@ gruppo: Giganti
 tipo: Gigante
 dimensione: Enorme
 allineamento: neutrale
-
 classe_armatura: 14
 iniziativa:
   valore: 14
@@ -15,9 +14,7 @@ punti_ferita:
   formula: 16d12 + 96
 velocita:
   camminata: 12 m
-  volo: 6 m
-  dettagli_volo: fluttuare
-
+  volo: 6 m (fluttuare)
 caratteristiche:
   forza:
     punteggio: 27
@@ -43,23 +40,17 @@ caratteristiche:
     punteggio: 16
     modificatore: 3
     tiro_salvezza: 3
-
 abilita:
   intuizione: 7
   percezione: 11
-
 sensi:
   percezione_passiva: 21
-
 lingue:
-  - Comune
-  - Gigante
-
+- Comune, Gigante
 grado_sfida:
   valore: 9
   punti_esperienza: 5000
   raw: 9 (PE 5.000; BC +4)
-
 bonus_competenza: 4
 ---
 ## Azioni

@@ -2,11 +2,9 @@
 id: drago_di_rame_giovane
 nome: Drago di rame giovane
 gruppo: Draghi di rame
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Grande
 allineamento: caotico buono
-
 classe_armatura: 17
 iniziativa:
   valore: 14
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   scalata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,29 +41,22 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 4
   inganno: 5
   percezione: 7
-
 immunita_danni:
-  - acido
-
+- acido
 sensi:
   percezione_passiva: 17
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 7
   punti_esperienza: 2900
   raw: 7 (PE 2.900; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

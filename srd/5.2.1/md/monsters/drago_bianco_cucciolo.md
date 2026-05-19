@@ -2,11 +2,9 @@
 id: drago_bianco_cucciolo
 nome: Drago bianco cucciolo
 gruppo: Draghi bianchi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 16
 iniziativa:
   valore: 12
@@ -15,11 +13,9 @@ punti_ferita:
   media: 32
   formula: 5d8 + 10
 velocita:
-  camminata: 9 m
+  camminata: 5 m
   nuoto: 9 m
-  scavo: 4,5 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 14
@@ -45,27 +41,21 @@ caratteristiche:
     punteggio: 11
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   furtivita: 2
   percezione: 4
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

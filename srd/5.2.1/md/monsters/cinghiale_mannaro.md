@@ -1,24 +1,18 @@
 ---
 id: cinghiale_mannaro
 nome: Cinghiale mannaro
-tipo: Mostruosità
-sottotipo: licantropo
+tipo: Mostruosità (licantropo)
 dimensione: Media o Piccola
 allineamento: neutrale malvagio
-
-classe_armatura: 15  
-
+classe_armatura: 15
 iniziativa:
   valore: 12
   bonus: 2
-
 punti_ferita:
-  medi: 97
+  media: 97
   formula: 15d8 + 30
-
 velocita:
-  camminata: 9 m, 12 m (solo in forma di cinghiale)
-
+  camminata: 12 m (solo in forma di cinghiale)
 caratteristiche:
   forza:
     punteggio: 17
@@ -44,24 +38,18 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 abilita:
   percezione: 2
-
 equipaggiamento:
-  - giavellotti (6)  
-
+- giavellotti (6)
 sensi:
   percezione_passiva: 12
-
 lingue:
-  - Comune (non può parlare in forma di cinghiale)
-
+- Comune (non può parlare in forma di cinghiale)
 grado_sfida:
   valore: 4
-  punti_esperienza: 1.100
+  punti_esperienza: 1100
   raw: 4 (PE 1.100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

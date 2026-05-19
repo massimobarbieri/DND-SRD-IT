@@ -4,7 +4,6 @@ nome: Fustigatore
 tipo: Aberrazione
 dimensione: Grande
 allineamento: neutrale malvagio
-
 classe_armatura: 20
 iniziativa:
   valore: 15
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 3 m
   scalata: 6 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -41,22 +39,18 @@ caratteristiche:
     punteggio: 6
     modificatore: -2
     tiro_salvezza: -2
-
 abilita:
   furtivita: 5
   percezione: 6
-
 sensi:
   percezione_passiva: 16
   scurovisione: 18 m
-
-lingue: []
-
+lingue:
+- nessuna
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

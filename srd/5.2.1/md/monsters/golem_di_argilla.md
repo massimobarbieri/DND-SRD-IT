@@ -4,7 +4,6 @@ nome: Golem di argilla
 tipo: Costrutto
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 14
 iniziativa:
   valore: 13
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 13d10 + 52
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 20
@@ -40,38 +38,30 @@ caratteristiche:
     punteggio: 1
     modificatore: -5
     tiro_salvezza: -5
-
 resistenze:
-  - contundente
-  - perforante
-  - tagliente
-
+- contundente
+- perforante
+- tagliente
 immunita_danni:
-  - acido
-  - psichico
-  - veleno
-
+- acido
+- psichico
+- veleno
 immunita_condizione:
-  - affascinato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - spaventato
-
+- affascinato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- spaventato
 sensi:
   percezione_passiva: 9
   scurovisione: 18 m
-
 lingue:
-  - Comune
-  - un'altra lingua
-
+- Comune più un'altra lingua
 grado_sfida:
   valore: 9
   punti_esperienza: 5000
   raw: 9 (PE 5.000; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

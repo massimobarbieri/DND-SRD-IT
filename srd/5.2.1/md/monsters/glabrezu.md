@@ -1,11 +1,9 @@
 ---
 id: glabrezu
 nome: Glabrezu
-tipo: Immondo
-sottotipo: demone
+tipo: Immondo (demone)
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 17
 iniziativa:
   valore: 16
@@ -15,7 +13,6 @@ punti_ferita:
   formula: 18d10 + 90
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 20
@@ -41,35 +38,27 @@ caratteristiche:
     punteggio: 16
     modificatore: 3
     tiro_salvezza: 7
-
 abilita:
   inganno: 7
   percezione: 7
-
 resistenze:
-  - freddo
-  - fulmine
-  - fuoco
-
+- freddo
+- fulmine
+- fuoco
 immunita_danni:
-  - veleno
-
+- veleno
 immunita_condizione:
-  - avvelenato
-
+- avvelenato
 sensi:
   percezione_passiva: 17
   vista_pura: 36 m
-
 lingue:
-  - Abissale
-  - telepatia 36 m
-
+- Abissale
+- telepatia 36 m
 grado_sfida:
   valore: 9
   punti_esperienza: 5000
   raw: 9 (PE 5.000; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

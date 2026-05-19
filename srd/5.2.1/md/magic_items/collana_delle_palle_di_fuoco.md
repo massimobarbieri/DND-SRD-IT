@@ -1,0 +1,10 @@
+---
+id: collana_delle_palle_di_fuoco
+nome: Collana delle palle di fuoco
+tipo: Oggetto meraviglioso
+tipo_base: Oggetto meraviglioso
+rarita: raro
+richiede_sintonia: false
+---
+Da questa collana pendono 1d6 + 3 perle. Il personaggio può effettuare un'azione di Magia per staccare una perla e lanciarla entro 18 metri di distanza. Una volta raggiunta la fine della sua traiettoria, la perla esplode in una palla di fuoco di 3º livello (CD del tiro salvezza 15).
+Con un'unica azione, è possibile lanciare più perle o perfino l'intera collana. In tal caso, il danno della palla di fuoco aumenta di 1d6 per ogni perla dopo la prima (massimo 12d6).

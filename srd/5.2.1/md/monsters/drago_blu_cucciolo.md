@@ -2,11 +2,9 @@
 id: drago_blu_cucciolo
 nome: Drago blu cucciolo
 gruppo: Draghi blu
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Medio
 allineamento: legale malvagio
-
 classe_armatura: 17
 iniziativa:
   valore: 12
@@ -15,10 +13,8 @@ punti_ferita:
   media: 65
   formula: 10d8 + 20
 velocita:
-  camminata: 9 m
-  scavo: 4,5 m
+  camminata: 5 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 17
@@ -44,27 +40,21 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 2
   percezione: 4
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

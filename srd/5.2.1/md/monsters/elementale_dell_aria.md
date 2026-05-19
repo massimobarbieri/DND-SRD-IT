@@ -4,7 +4,6 @@ nome: Elementale dell'aria
 tipo: Elementale
 dimensione: Grande
 allineamento: neutrale
-
 classe_armatura: 15
 iniziativa:
   valore: 15
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 3 m
   volo: 27 m (fluttuare)
-
 caratteristiche:
   forza:
     punteggio: 14
@@ -41,39 +39,32 @@ caratteristiche:
     punteggio: 6
     modificatore: -2
     tiro_salvezza: -2
-
 resistenze:
-  - contundente
-  - fulmine
-  - perforante
-  - tagliente
-
+- contundente
+- fulmine
+- perforante
+- tagliente
 immunita_danni:
-  - tuono
-  - veleno
-
-immunita_condizioni:
-  - afferrato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - privo di sensi
-  - prono
-  - trattenuto
-
+- tuono
+- veleno
+immunita_condizione:
+- afferrato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- privo di sensi
+- prono
+- trattenuto
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Primordiale (Auran)
-
+- Primordiale (Auran)
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

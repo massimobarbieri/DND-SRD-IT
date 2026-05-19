@@ -4,7 +4,6 @@ nome: Gargoyle
 tipo: Elementale
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 15
 iniziativa:
   valore: 12
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 15
@@ -41,30 +39,23 @@ caratteristiche:
     punteggio: 7
     modificatore: -2
     tiro_salvezza: -2
-
 abilita:
   furtivita: 4
-
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-  - indebolimento
-  - pietrificato
-
+- veleno
+immunita_condizione:
+- avvelenato
+- indebolimento
+- pietrificato
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Primordiale (Terran)
-
+- Primordiale (Terran)
 grado_sfida:
   valore: 2
   punti_esperienza: 450
   raw: 2 (PE 450; BC +2)
-
 bonus_competenza: 2
 ---
 ## Tratti

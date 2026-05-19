@@ -2,11 +2,9 @@
 id: drago_di_rame_adulto
 nome: Drago di rame adulto
 gruppo: Draghi di rame
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Enorme
 allineamento: caotico buono
-
 classe_armatura: 18
 iniziativa:
   valore: 21
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   scalata: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -44,30 +41,23 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 4
-
 abilita:
   furtivita: 6
   inganno: 9
   percezione: 12
-
 immunita_danni:
-  - acido
-
+- acido
 sensi:
   percezione_passiva: 22
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 14
   punti_esperienza: 11500
   punti_esperienza_tana: 13000
   raw: 14 (PE 11.500, o 13.000 nella tana; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti

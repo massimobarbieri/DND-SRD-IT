@@ -2,11 +2,9 @@
 id: drago_d_oro_giovane
 nome: Drago d'oro giovane
 gruppo: Draghi d'oro
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Grande
 allineamento: legale buono
-
 classe_armatura: 18
 iniziativa:
   valore: 16
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -44,30 +41,23 @@ caratteristiche:
     punteggio: 20
     modificatore: 5
     tiro_salvezza: 5
-
 abilita:
   furtivita: 6
   intuizione: 5
   percezione: 9
   persuasione: 9
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 19
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 10
   punti_esperienza: 5900
   raw: 10 (PE 5.900; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

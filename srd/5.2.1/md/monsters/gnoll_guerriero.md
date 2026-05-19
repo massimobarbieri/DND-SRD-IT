@@ -3,10 +3,8 @@ id: gnoll_guerriero
 nome: Gnoll guerriero
 gruppo: Gnoll
 tipo: Immondo
-sottotipo:
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 15
 iniziativa:
   valore: 11
@@ -16,7 +14,6 @@ punti_ferita:
   formula: 6d8
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 14
@@ -42,19 +39,15 @@ caratteristiche:
     punteggio: 7
     modificatore: -2
     tiro_salvezza: -2
-
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Gnoll
-
+- Gnoll
 grado_sfida:
   valore: 0.5
   punti_esperienza: 100
   raw: 1/2 (PE 100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

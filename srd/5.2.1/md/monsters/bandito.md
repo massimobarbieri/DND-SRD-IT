@@ -5,20 +5,15 @@ gruppo: Banditi
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 12
-
 iniziativa:
   valore: 11
   bonus: 1
-
 punti_ferita:
   media: 11
   formula: 2d8 + 2
-
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 11
@@ -44,23 +39,18 @@ caratteristiche:
     punteggio: 10
     modificatore: 0
     tiro_salvezza: 0
-
 equipaggiamento:
-  - armatura di cuoio
-  - balestra leggera
-  - scimitarra
-
-sensi: 
+- armatura di cuoio
+- balestra leggera
+- scimitarra
+sensi:
   percezione_passiva: 10
 lingue:
-  - Comune
-  - Gergo ladresco
-
+- Comune, Gergo ladresco
 grado_sfida:
-  valore: 1/8
+  valore: 0.125
   punti_esperienza: 25
   raw: 1/8 (PE 25; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

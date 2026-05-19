@@ -2,11 +2,9 @@
 id: drago_rosso_cucciolo
 nome: Drago rosso cucciolo
 gruppo: Draghi rossi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 17
 iniziativa:
   valore: 12
@@ -18,7 +16,6 @@ velocita:
   camminata: 9 m
   scalata: 9 m
   volo: 18 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,27 +41,21 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 2
   percezione: 4
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
   vista_cieca: 3 m
-
 lingue:
-  - Draconico
-
+- Draconico
 grado_sfida:
   valore: 4
   punti_esperienza: 1100
   raw: 4 (PE 1.100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

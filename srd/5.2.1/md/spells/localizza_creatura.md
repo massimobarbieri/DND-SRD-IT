@@ -1,0 +1,24 @@
+---
+id: localizza_creatura
+nome: Localizza creatura
+tipo: incantesimo
+livello: 4
+scuola: Divinazione
+classi: 
+  - bardo
+  - chierico
+  - druido
+  - mago
+  - paladino
+  - ranger
+tempo_lancio: azione
+gittata: incantatore
+componenti: V, S, M (un ciuffo di peli di un segugio)
+durata: concentrazione, fino a 1 ora
+pagine_sorgente: 162-162
+---
+L'incantatore descrive o nomina una creatura a lui familiare, percependo la direzione della sua ubicazione se la creatura si trova entro 300 metri da lui. Se la creatura è in movimento, l'incantatore apprende verso quale direzione si sta dirigendo.
+
+L'incantesimo può localizzare una creatura specifica nota all'incantatore o una creatura di un tipo specifico più vicina (come un umano o un unicorno), purché l'incantatore abbia visto tale creatura da vicino (entro 9 metri) almeno una volta. Se la creatura descritta o nominata ha una forma diversa, per esempio se si trova sotto l'effetto di un incantesimo carne in pietra o metamorfosi, questo incantesimo non riesce a localizzarla.
+
+Questo incantesimo non può localizzare una creatura se uno strato di piombo blocca il percorso diretto tra essa e l'incantatore.

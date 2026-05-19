@@ -4,7 +4,6 @@ nome: Gladiatore
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 16
 iniziativa:
   valore: 15
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 15d8 + 45
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -40,27 +38,21 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   atletica: 10
   intrattenere: 5
-
 equipaggiamento:
-  - armatura di cuoio borchiato
-  - lance (3)
-  - scudo
-
+- armatura di cuoio borchiato
+- lance (3)
+- scudo
 sensi:
   percezione_passiva: 11
-
 lingue:
-  - Comune
-
+- Comune
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

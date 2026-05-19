@@ -4,7 +4,6 @@ nome: Elementale del fuoco
 tipo: Elementale
 dimensione: Grande
 allineamento: neutrale
-
 classe_armatura: 13
 iniziativa:
   valore: 13
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 11d10 + 33
 velocita:
   camminata: 15 m
-
 caratteristiche:
   forza:
     punteggio: 10
@@ -40,38 +38,31 @@ caratteristiche:
     punteggio: 7
     modificatore: -2
     tiro_salvezza: -2
-
 resistenze:
-  - contundente
-  - perforante
-  - tagliente
-
+- contundente
+- perforante
+- tagliente
 immunita_danni:
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - afferrato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - privo di sensi
-  - prono
-  - trattenuto
-
+- fuoco
+- veleno
+immunita_condizione:
+- afferrato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- privo di sensi
+- prono
+- trattenuto
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Primordiale (Ignan)
-
+- Primordiale (Ignan)
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

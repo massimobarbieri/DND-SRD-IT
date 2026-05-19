@@ -4,7 +4,6 @@ nome: Elementale della terra
 tipo: Elementale
 dimensione: Grande
 allineamento: neutrale
-
 classe_armatura: 17
 iniziativa:
   valore: 9
@@ -13,9 +12,7 @@ punti_ferita:
   media: 147
   formula: 14d10 + 70
 velocita:
-  camminata: 9 m
-  scavo: 9 m
-
+  camminata: scavo 9 m
 caratteristiche:
   forza:
     punteggio: 20
@@ -41,33 +38,26 @@ caratteristiche:
     punteggio: 5
     modificatore: -3
     tiro_salvezza: -3
-
-vulnerabilita:
-  - tuono
-
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - privo_di_sensi
-
+- veleno
+immunita_condizione:
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- privo di sensi
+vulnerabilita:
+- tuono
 sensi:
   percezione_passiva: 10
   percezione_tellurica: 18 m
   scurovisione: 18 m
-
 lingue:
-  - Primordiale (Terran)
-
+- Primordiale (Terran)
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

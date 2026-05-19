@@ -1,0 +1,9 @@
+---
+id: munizione_+1,_+2_o_+3
+nome: Munizione +1, +2 o +3
+tipo: Arma (qualsiasi munizione)
+tipo_base: Arma
+rarita: non comune (+1), rara (+2) o molto rara (+3)
+richiede_sintonia: false
+---
+Il personaggio ottiene un bonus ai tiri per colpire e ai tiri per i danni effettuati con questa munizione magica. Il bonus è determinato dalla rarità della munizione. Una volta colpito il bersaglio, la munizione non è più magica.Questa munizione è solitamente reperibile o venduta in quantità di dieci o venti pezzi. Dieci pezzi di queste munizioni hanno un valore equivalente a una pozione della stessa rarità.

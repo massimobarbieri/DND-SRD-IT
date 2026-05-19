@@ -2,11 +2,9 @@
 id: drago_d_ottone_adulto
 nome: Drago d'ottone adulto
 gruppo: Draghi d'ottone
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Enorme
 allineamento: caotico buono
-
 classe_armatura: 18
 iniziativa:
   valore: 20
@@ -15,10 +13,8 @@ punti_ferita:
   media: 172
   formula: 15d12 + 75
 velocita:
-  camminata: 12 m
-  scavo: 9 m
+  camminata: scavo 9 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -44,31 +40,24 @@ caratteristiche:
     punteggio: 17
     modificatore: 3
     tiro_salvezza: 3
-
 abilita:
   furtivita: 5
   percezione: 11
   persuasione: 8
   storia: 7
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 21
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 13
   punti_esperienza: 10000
   punti_esperienza_tana: 11500
   raw: 13 (PE 10.000, o 11.500 nella tana; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti

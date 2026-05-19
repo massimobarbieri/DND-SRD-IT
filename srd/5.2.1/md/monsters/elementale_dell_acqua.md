@@ -4,7 +4,6 @@ nome: Elementale dell'acqua
 tipo: Elementale
 dimensione: Grande
 allineamento: neutrale
-
 classe_armatura: 14
 iniziativa:
   valore: 12
@@ -15,7 +14,6 @@ punti_ferita:
 velocita:
   camminata: 9 m
   nuoto: 27 m
-
 caratteristiche:
   forza:
     punteggio: 18
@@ -41,36 +39,29 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 resistenze:
-  - acido
-  - fuoco
-
+- acido
+- fuoco
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - afferrato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - privo di sensi
-  - prono
-  - trattenuto
-
+- veleno
+immunita_condizione:
+- afferrato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- privo di sensi
+- prono
+- trattenuto
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Primordiale (Aquan)
-
+- Primordiale (Aquan)
 grado_sfida:
   valore: 5
   punti_esperienza: 1800
   raw: 5 (PE 1.800; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

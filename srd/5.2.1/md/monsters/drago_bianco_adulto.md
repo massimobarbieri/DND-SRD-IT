@@ -2,11 +2,9 @@
 id: drago_bianco_adulto
 nome: Drago bianco adulto
 gruppo: Draghi bianchi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Enorme
 allineamento: caotico malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 20
@@ -15,11 +13,9 @@ punti_ferita:
   media: 200
   formula: 16d12 + 96
 velocita:
-  camminata: 12 m
+  camminata: scavo 9 m
   nuoto: 12 m
-  scavo: 9 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 22
@@ -45,29 +41,22 @@ caratteristiche:
     punteggio: 12
     modificatore: 1
     tiro_salvezza: 1
-
 abilita:
   furtivita: 5
   percezione: 11
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 21
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 13
   punti_esperienza: 10000
   punti_esperienza_tana: 11500
-  raw: 13 (PE 10.000, o 11.500 nella tana; BC +5)
-
+  raw: 6 (PE 10.000, o 11.500 nella tana; BC +5)
 bonus_competenza: 5
 ---
 ## Tratti

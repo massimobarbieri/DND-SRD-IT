@@ -4,7 +4,6 @@ nome: Ghoul
 tipo: Non morto
 dimensione: Medio
 allineamento: caotico malvagio
-
 classe_armatura: 12
 iniziativa:
   valore: 12
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 5d8
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 13
@@ -40,27 +38,21 @@ caratteristiche:
     punteggio: 6
     modificatore: -2
     tiro_salvezza: -2
-
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - affascinato
-  - avvelenato
-  - indebolimento
-
+- veleno
+immunita_condizione:
+- affascinato
+- avvelenato
+- indebolimento
 sensi:
   percezione_passiva: 10
   scurovisione: 18 m
-
 lingue:
-  - Comune
-
+- Comune
 grado_sfida:
   valore: 1
   punti_esperienza: 200
   raw: 1 (PE 200; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

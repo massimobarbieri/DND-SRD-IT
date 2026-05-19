@@ -2,11 +2,9 @@
 id: drago_di_bronzo_giovane
 nome: Drago di bronzo giovane
 gruppo: Draghi di bronzo
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Grande
 allineamento: legale buono
-
 classe_armatura: 17
 iniziativa:
   valore: 13
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 21
@@ -44,29 +41,22 @@ caratteristiche:
     punteggio: 17
     modificatore: 3
     tiro_salvezza: 3
-
 abilita:
   furtivita: 3
   intuizione: 4
   percezione: 7
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 17
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 8
   punti_esperienza: 3900
   raw: 8 (PE 3.900; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

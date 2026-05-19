@@ -5,7 +5,6 @@ gruppo: Giganti
 tipo: Gigante
 dimensione: Enorme
 allineamento: neutrale malvagio
-
 classe_armatura: 15
 iniziativa:
   valore: 12
@@ -15,7 +14,6 @@ punti_ferita:
   formula: 13d12 + 65
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -41,25 +39,19 @@ caratteristiche:
     punteggio: 12
     modificatore: 1
     tiro_salvezza: 4
-
 abilita:
   atletica: 9
   percezione: 3
-
 immunita_danni:
-  - freddo
-
+- freddo
 sensi:
   percezione_passiva: 13
-
 lingue:
-  - Gigante
-
+- Gigante
 grado_sfida:
   valore: 8
   punti_esperienza: 3900
   raw: 8 (PE 3.900; BC +3)
-
 bonus_competenza: 3
 ---
 ## Azioni

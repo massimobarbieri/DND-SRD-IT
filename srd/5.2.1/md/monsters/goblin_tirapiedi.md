@@ -2,11 +2,9 @@
 id: goblin_tirapiedi
 nome: Goblin tirapiedi
 gruppo: Goblin
-tipo: Folletto
-sottotipo: goblinoide
+tipo: Folletto (goblinoide)
 dimensione: Piccolo
 allineamento: caotico neutrale
-
 classe_armatura: 12
 iniziativa:
   valore: 12
@@ -16,7 +14,6 @@ punti_ferita:
   formula: 2d6
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 8
@@ -42,26 +39,19 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 abilita:
   furtivita: 6
-
 equipaggiamento:
-  - pugnali (3)
-
+- pugnali (3)
 sensi:
   percezione_passiva: 9
   scurovisione: 18 m
-
 lingue:
-  - Comune
-  - Goblin
-
+- Comune, Goblin
 grado_sfida:
   valore: 0.125
   punti_esperienza: 25
   raw: 1/8 (PE 25; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

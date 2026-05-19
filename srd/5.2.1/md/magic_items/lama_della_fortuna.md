@@ -1,0 +1,16 @@
+---
+id: lama_della_fortuna
+nome: Lama della fortuna
+tipo: Arma (falcetto, falcione, scimitarra, spada corta, spada lunga, spadone o stocco)
+tipo_base: Arma
+rarita: leggendaria
+richiede_sintonia: true
+---
+Il personaggio ottiene un bonus di +1 ai tiri per col-pire e a quelli per i danni effettuati con  quest'arma magica. Finché porta l'arma sulla sua persona, 
+ottiene anche un bonus di +1 ai tiri salvezza.
+
+**Desiderio**
+L'arma ha 1d3 cariche. Mentre il perso-naggio la impugna, può consumare 1 carica e usarla per lanciare desiderio. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva. Quando finisce le cariche, l'arma perde tale proprietà.
+
+**Fortuna**
+Se non è incapacitato e ha l'arma con sé, il personaggio può appellarsi alla fortuna dell'arma (nessuna azione richiesta) per ripetere una prova con d20 fallita. Deve usare il risultato del secondo tiro. Una volta usata, questa proprietà non può essere riutilizzata fino all'alba successiva.

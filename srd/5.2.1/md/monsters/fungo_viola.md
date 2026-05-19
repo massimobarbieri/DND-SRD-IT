@@ -5,7 +5,6 @@ gruppo: Funghi
 tipo: Vegetale
 dimensione: Medio
 allineamento: senza allineamento
-
 classe_armatura: 5
 iniziativa:
   valore: 5
@@ -14,8 +13,7 @@ punti_ferita:
   media: 18
   formula: 4d8
 velocita:
-  camminata: 1,5 m
-
+  camminata: 5 m
 caratteristiche:
   forza:
     punteggio: 3
@@ -41,24 +39,20 @@ caratteristiche:
     punteggio: 1
     modificatore: -5
     tiro_salvezza: -5
-
-immunita_condizioni:
-  - accecato
-  - affascinato
-  - assordato
-  - spaventato
-
+immunita_condizione:
+- accecato
+- affascinato
+- assordato
+- spaventato
 sensi:
   percezione_passiva: 6
   vista_cieca: 9 m
-
-lingue: []
-
+lingue:
+- nessuna
 grado_sfida:
   valore: 0.25
   punti_esperienza: 50
   raw: 1/4 (PE 50; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

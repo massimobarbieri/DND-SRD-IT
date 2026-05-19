@@ -1,11 +1,9 @@
 ---
 id: diavolo_del_ghiaccio
 nome: Diavolo del ghiaccio
-tipo: Immondo
-sottotipo: diavolo
+tipo: Immondo (diavolo)
 dimensione: Grande
 allineamento: legale malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 17
@@ -15,7 +13,6 @@ punti_ferita:
   formula: 24d10 + 96
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 21
@@ -41,33 +38,26 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 9
-
 abilita:
   intuizione: 7
   percezione: 7
   persuasione: 9
-
 immunita_danni:
-  - freddo
-  - fuoco
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- freddo
+- fuoco
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 17
   vista_cieca: 36 m
-
 lingue:
-  - Infernale
-  - telepatia 36 m
-
+- Infernale
+- telepatia 36 m
 grado_sfida:
   valore: 14
-  punti_esperienza: 11.500
+  punti_esperienza: 11500
   raw: 14 (PE 11.500; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti

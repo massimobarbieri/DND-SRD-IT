@@ -2,11 +2,9 @@
 id: drago_d_ottone_antico
 nome: Drago d'ottone antico
 gruppo: Draghi d'ottone
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Mastodontico
 allineamento: caotico buono
-
 classe_armatura: 20
 iniziativa:
   valore: 22
@@ -15,10 +13,8 @@ punti_ferita:
   media: 332
   formula: 19d20 + 133
 velocita:
-  camminata: 12 m
-  scavo: 12 m
+  camminata: scavo 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 27
@@ -44,31 +40,24 @@ caratteristiche:
     punteggio: 22
     modificatore: 6
     tiro_salvezza: 6
-
 abilita:
   furtivita: 6
   percezione: 14
   persuasione: 12
   storia: 9
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 24
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 20
   punti_esperienza: 25000
   punti_esperienza_tana: 33000
   raw: 20 (PE 25.000, o 33.000 nella tana; BC +6)
-
 bonus_competenza: 6
 ---
 ## Tratti

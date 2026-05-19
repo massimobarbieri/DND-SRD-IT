@@ -4,7 +4,6 @@ nome: Ettin
 tipo: Gigante
 dimensione: Grande
 allineamento: caotico malvagio
-
 classe_armatura: 12
 iniziativa:
   valore: 9
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 10d10 + 30
 velocita:
   camminata: 12 m
-
 caratteristiche:
   forza:
     punteggio: 21
@@ -40,34 +38,27 @@ caratteristiche:
     punteggio: 8
     modificatore: -1
     tiro_salvezza: -1
-
 abilita:
   percezione: 4
-
 equipaggiamento:
-  - ascia da battaglia
-  - mazza chiodata
-
-immunita_condizioni:
-  - accecato
-  - affascinato
-  - assordato
-  - privo di sensi
-  - spaventato
-  - stordito
-
+- ascia da battaglia
+- mazza chiodata
+immunita_condizione:
+- accecato
+- affascinato
+- assordato
+- privo di sensi
+- spaventato
+- stordito
 sensi:
   percezione_passiva: 14
   scurovisione: 18 m
-
 lingue:
-  - Gigante
-
+- Gigante
 grado_sfida:
   valore: 4
   punti_esperienza: 1100
   raw: 4 (PE 1.100; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

@@ -1,22 +1,18 @@
 ---
 id: basilisco
+nome: Basilisco
 tipo: Mostruosità
 dimensione: Media
 allineamento: senza allineamento
-
-classe_armatura: 15  
-
-iniziativa: 
+classe_armatura: 15
+iniziativa:
   valore: 9
   bonus: -1
-
 punti_ferita:
-  medi: 52
+  media: 52
   formula: 8d8 + 16
-
 velocita:
   camminata: 6 m
-
 caratteristiche:
   forza:
     punteggio: 16
@@ -42,19 +38,15 @@ caratteristiche:
     punteggio: 7
     modificatore: -2
     tiro_salvezza: -2
-
 sensi:
   percezione_passiva: 9
   scurovisione: 18 m
-
 lingue:
-  - Nessuna
-
+- nessuna
 grado_sfida:
   valore: 3
   punti_esperienza: 700
   raw: 3 (PE 700; BC +2)
-
 bonus_competenza: 2
 ---
 ## Azioni

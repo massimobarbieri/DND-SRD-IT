@@ -2,11 +2,9 @@
 id: drago_d_oro_adulto
 nome: Drago d'oro adulto
 gruppo: Draghi d'oro
-tipo: Drago
-sottotipo: metallico
+tipo: Drago (metallico)
 dimensione: Enorme
 allineamento: legale buono
-
 classe_armatura: 19
 iniziativa:
   valore: 24
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 27
@@ -44,31 +41,24 @@ caratteristiche:
     punteggio: 24
     modificatore: 7
     tiro_salvezza: 7
-
 abilita:
   furtivita: 8
   intuizione: 8
   percezione: 14
   persuasione: 13
-
 immunita_danni:
-  - fuoco
-
+- fuoco
 sensi:
   percezione_passiva: 24
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 17
   punti_esperienza: 18000
   punti_esperienza_tana: 20000
   raw: 17 (PE 18.000, o 20.000 nella tana; BC +6)
-
 bonus_competenza: 6
 ---
 ## Tratti

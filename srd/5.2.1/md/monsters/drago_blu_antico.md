@@ -2,11 +2,9 @@
 id: drago_blu_antico
 nome: Drago blu antico
 gruppo: Draghi blu
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Mastodontico
 allineamento: legale malvagio
-
 classe_armatura: 22
 iniziativa:
   valore: 24
@@ -15,10 +13,8 @@ punti_ferita:
   media: 481
   formula: 26d20 + 208
 velocita:
-  camminata: 12 m
-  scavo: 12 m
+  camminata: scavo 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 29
@@ -44,29 +40,22 @@ caratteristiche:
     punteggio: 25
     modificatore: 7
     tiro_salvezza: 7
-
 abilita:
   furtivita: 7
   percezione: 17
-
 immunita_danni:
-  - fulmine
-
+- fulmine
 sensi:
   percezione_passiva: 27
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 23
   punti_esperienza: 50000
   punti_esperienza_tana: 62000
   raw: 23 (PE 50.000, o 62.000 nella tana; BC +7)
-
 bonus_competenza: 7
 ---
 ## Tratti

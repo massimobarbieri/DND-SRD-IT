@@ -4,7 +4,6 @@ nome: Golem di pietra
 tipo: Costrutto
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 18
 iniziativa:
   valore: 13
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 21d10 + 105
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 22
@@ -40,33 +38,25 @@ caratteristiche:
     punteggio: 1
     modificatore: -5
     tiro_salvezza: -5
-
 immunita_danni:
-  - psichico
-  - veleno
-
-immunita_condizioni:
-  - affascinato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - spaventato
-
+- psichico
+- veleno
+immunita_condizione:
+- affascinato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- spaventato
 sensi:
   percezione_passiva: 10
   scurovisione: 36 m
-
 lingue:
-  - capisce il Comune
-  - altre due lingue
-  - ma non le parla
-
+- capisce il Comune più altre due lingue ma non le parla
 grado_sfida:
   valore: 10
   punti_esperienza: 5900
   raw: 10 (PE 5.900; BC +4)
-
 bonus_competenza: 4
 ---
 ## Tratti

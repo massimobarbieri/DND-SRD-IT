@@ -4,7 +4,6 @@ nome: Assassino
 tipo: Umanoide
 dimensione: Medio o Piccolo
 allineamento: neutrale
-
 classe_armatura: 16
 iniziativa:
   valore: 20
@@ -14,8 +13,6 @@ punti_ferita:
   formula: 15d8 + 30
 velocita:
   camminata: 9 m
-  volo: 12 m
-
 caratteristiche:
   forza:
     punteggio: 11
@@ -41,32 +38,25 @@ caratteristiche:
     punteggio: 10
     modificatore: 0
     tiro_salvezza: 0
-
 abilita:
   acrobazia: 7
   furtivita: 10
   percezione: 6
-
 equipaggiamento:
-  - armatura di cuoio borchiato
-  - balestra leggera
-  - spada corta
-
-resistenze: veleno
-
+- armatura di cuoio borchiato
+- balestra leggera
+- spada corta
+resistenze:
+- veleno
 sensi:
   percezione_passiva: 16
-
 lingue:
-  - Comune
-  - Gergo ladresco
-
+- Comune, Gergo ladresco
 grado_sfida:
   valore: 8
-  punti_esperienza: 3.900
+  punti_esperienza: 3900
   raw: 8 (PE 3.900; BC +3)
-
-bonus_competenza: 8
+bonus_competenza: 3
 ---
 ## Tratti
 ### Elusione

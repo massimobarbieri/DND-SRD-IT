@@ -2,11 +2,9 @@
 id: drago_verde_giovane
 nome: Drago verde giovane
 gruppo: Draghi verdi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Grande
 allineamento: legale malvagio
-
 classe_armatura: 18
 iniziativa:
   valore: 14
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 19
@@ -44,32 +41,24 @@ caratteristiche:
     punteggio: 15
     modificatore: 2
     tiro_salvezza: 2
-
 abilita:
   furtivita: 4
   inganno: 5
   percezione: 7
-
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 17
   scurovisione: 36 m
   vista_cieca: 9 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 8
   punti_esperienza: 3900
   raw: 8 (PE 3.900; BC +3)
-
 bonus_competenza: 3
 ---
 ## Tratti

@@ -2,11 +2,9 @@
 id: drago_verde_adulto
 nome: Drago verde adulto
 gruppo: Draghi verdi
-tipo: Drago
-sottotipo: cromatico
+tipo: Drago (cromatico)
 dimensione: Enorme
 allineamento: legale malvagio
-
 classe_armatura: 19
 iniziativa:
   valore: 21
@@ -18,7 +16,6 @@ velocita:
   camminata: 12 m
   nuoto: 12 m
   volo: 24 m
-
 caratteristiche:
   forza:
     punteggio: 23
@@ -44,34 +41,26 @@ caratteristiche:
     punteggio: 18
     modificatore: 4
     tiro_salvezza: 4
-
 abilita:
   furtivita: 6
   inganno: 9
   percezione: 12
   persuasione: 9
-
 immunita_danni:
-  - veleno
-
-immunita_condizioni:
-  - avvelenato
-
+- veleno
+immunita_condizione:
+- avvelenato
 sensi:
   percezione_passiva: 22
   scurovisione: 36 m
   vista_cieca: 18 m
-
 lingue:
-  - Comune
-  - Draconico
-
+- Comune, Draconico
 grado_sfida:
   valore: 15
   punti_esperienza: 13000
   punti_esperienza_tana: 15000
   raw: 15 (PE 13.000, o 15.000 nella tana; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti

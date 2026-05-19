@@ -4,7 +4,6 @@ nome: Golem di ferro
 tipo: Costrutto
 dimensione: Grande
 allineamento: senza allineamento
-
 classe_armatura: 20
 iniziativa:
   valore: 19
@@ -14,7 +13,6 @@ punti_ferita:
   formula: 24d10 + 120
 velocita:
   camminata: 9 m
-
 caratteristiche:
   forza:
     punteggio: 24
@@ -40,32 +38,26 @@ caratteristiche:
     punteggio: 1
     modificatore: -5
     tiro_salvezza: -5
-
 immunita_danni:
-  - fuoco
-  - psichico
-  - veleno
-
-immunita_condizioni:
-  - affascinato
-  - avvelenato
-  - indebolimento
-  - paralizzato
-  - pietrificato
-  - spaventato
-
+- fuoco
+- psichico
+- veleno
+immunita_condizione:
+- affascinato
+- avvelenato
+- indebolimento
+- paralizzato
+- pietrificato
+- spaventato
 sensi:
   percezione_passiva: 10
   scurovisione: 36 m
-
 lingue:
-  - Capisce il Comune e altre due lingue ma non le parla
-
+- capisce il Comune più altre due lingue ma non le parla
 grado_sfida:
   valore: 16
   punti_esperienza: 15000
   raw: 16 (PE 15.000; BC +5)
-
 bonus_competenza: 5
 ---
 ## Tratti
